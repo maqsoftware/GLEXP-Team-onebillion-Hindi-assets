@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+			<phrase>3_thiscardhassixspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_touchthecardwithfourspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowchoosethecardwithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithfivespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethecardwithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithfivespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithsixspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nextchoosethetshirtwithfourflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethetshirtwithfourflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetshirtwithfourflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethetshirtwithfiveflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethetshirtwithfiveflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetshirtwithfiveflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethetshirtwithsixflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethetshirtwithsixflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetshirtwithsixflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethesnakewithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethesnakewithfivespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethesnakewithfivespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethesnakewithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethesnakewithsixspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethesnakewithsixspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethecardwithfivethingsonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithfivethingsonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithfivethingsonit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethecardwithsixthingsonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosethecardwithsixthingsonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethecardwithsixthingsonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_goodyouchosetherightthingstomatchthenumbersisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

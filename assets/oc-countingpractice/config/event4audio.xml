@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171201.084859866">
+	<event id="sfx">
+		<phrasegroup id="into_jar">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_on">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_final">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_out">
+			<phrase>beetle_wings_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>sandpaper_scrape_long</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_off">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+		<phrasegroup id="label_on">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_off">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="target_on">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch_arrow">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="success">
+			<phrase>chime_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_increment">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_decrement">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="warning">
+			<phrase>cf_snare</phrase>
+		</phrasegroup>
+	</event>
+</audio>

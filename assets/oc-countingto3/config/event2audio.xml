@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowletscoloursomestarslikethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="DEMO">
+			<phrase>2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourtwostarsred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourtwostarsred</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_tworedstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_yellow</phrase>
+			<phrase>2_green</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourtwostarsred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthreestarsyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourthreestarsyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_threeyellowstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_red</phrase>
+			<phrase>2_green</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourthreestarsyellow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthelaststargreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourthelaststargreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_onegreenstar</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_red</phrase>
+			<phrase>2_yellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourthelaststargreen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowcolourthreefishgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourthreefishgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_threegreenfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_pink</phrase>
+			<phrase>2_yellow</phrase>
+			<phrase>2_blue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourthreefishgreen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourtwofishpink</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourtwofishpink</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_twopinkfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_yellow</phrase>
+			<phrase>2_green</phrase>
+			<phrase>2_blue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourtwofishpink</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthreefishyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colourthreefishyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_threeyellowfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_pink</phrase>
+			<phrase>2_green</phrase>
+			<phrase>2_blue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colourthreefishyellow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colouronefishblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_colouronefishblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_onebluefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_pink</phrase>
+			<phrase>2_yellow</phrase>
+			<phrase>2_green</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_colouronefishblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_goodyoucolouredinthingstomatchthenumbersisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="selectColour">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="colourObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="dropObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_spin">
+			<phrase>wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_stop">
+			<phrase>wheel_stop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

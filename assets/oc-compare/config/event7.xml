@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="7a,7b,7c,7d,7e,7f,7g,7h,7i" gradienttop="212,247,247" gradientbottom="161,226,228" >
+	</event>
+	<event id="7a" >
+		<image id="Event7a" pos="0.499687,0.5" src="Event7a" scalex="1.066" scaley="1.066" zpos="2" />
+		<vector id="obj1" anchor="0,0.5" pos="0.125374,0.36883" src="7a_longtrain" scalex="0.657078" scaley="0.657078" zpos="3" />
+		<vector id="obj2" anchor="0,0.5" pos="0.127296,0.701591" src="7a_shorttrain" scalex="0.655967" scaley="0.655967" zpos="3.001" />
+	</event>
+	<event id="7b" target="obj2" >
+		<vector id="obj1" anchor="0,0.5" pos="0.098903,0.351522" src="7a_shorttrain" scalex="0.619371" scaley="0.619" zpos="2" />
+		<vector id="obj2" anchor="0,0.5" pos="0.0971271,0.66069" src="7b_longtrain" scalex="0.61279" scaley="0.61279" zpos="2.001" />
+	</event>
+	<event id="7c" target="obj1" >
+		<vector id="obj1" anchor="0,0.5" pos="0.166844,0.333333" src="7c_shortbus" scalex="1.15978" scaley="1.15978" zpos="2.001" />
+		<vector id="obj2" anchor="0,0.5" pos="0.168793,0.690436" src="7c_longbus" scalex="0.238471" scaley="0.238471" zpos="2" />
+	</event>
+	<event id="7d" target="obj2" >
+		<vector id="obj1" anchor="0,0.5" pos="0.208763,0.376885" src="7d_shortcar" scalex="1.40295" scaley="1.40295" zpos="2.001" />
+		<vector id="obj2" anchor="0,0.5" pos="0.207825,0.696126" src="7d_longcar" scalex="1.43038" scaley="1.43038" zpos="2" />
+	</event>
+	<event id="7e" target="obj2" >
+		<vector id="obj1" anchor="0,0.5" pos="0.123161,0.258335" src="7e_medtrain" scalex="0.593353" scaley="0.593353" zpos="2.002" />
+		<vector id="obj2" anchor="0,0.5" pos="0.117134,0.531316" src="7a_shorttrain" scalex="0.613111" scaley="0.613111" zpos="2" />
+		<vector id="obj3" anchor="0,0.5" pos="0.118202,0.769005" src="7b_longtrain" scalex="0.596517" scaley="0.596517" zpos="2.001" />
+	</event>
+	<event id="7f" target="obj3" >
+		<vector id="obj1" pos="0.416145,0.249917" src="7d_longcar" scalex="1.14908" scaley="1.14908" zpos="2" />
+		<vector id="obj2" pos="0.340315,0.518144" src="7d_shortcar" scalex="1.13961" scaley="1.13961" zpos="2.001" />
+		<vector id="obj3" pos="0.501909,0.777419" src="7f_longcar" scalex="1.48674" scaley="1.48674" zpos="2.002" />
+	</event>
+	<event id="7g" target="obj2" >
+		<vector id="obj1" pos="0.430035,0.24134" src="7g_sofa3" scalex="0.527476" scaley="0.527476" zpos="2.001" />
+		<vector id="obj2" pos="0.364441,0.506897" src="7g_sofa2" scalex="0.526563" scaley="0.526563" zpos="2" />
+		<vector id="obj3" pos="0.497957,0.777427" src="7g_sofa4" scalex="0.526169" scaley="0.526169" zpos="2.002" />
+	</event>
+	<event id="7h" target="obj2" >
+		<image id="obj1" pos="0.33536,0.240606" src="7h_shortwall" scalex="0.659073" scaley="0.575173" zpos="2.002" />
+		<image id="obj2" pos="0.500204,0.498052" src="7h_longwall" scalex="0.667494" scaley="0.665" zpos="2" />
+		<image id="obj3" pos="0.413757,0.767522" src="7h_mediumwall" scalex="0.665" scaley="0.665" zpos="2.001" />
+		<vector id="othergrass1" pos="0.328429,0.850648" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.006" />
+		<vector id="othergrass2" pos="0.436168,0.850648" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.007" />
+		<vector id="othergrass3" pos="0.498544,0.85026" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.008" />
+		<vector id="othergrass4" pos="0.605294,0.85026" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.009" />
+		<vector id="othergrass5" pos="0.221488,0.850648" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.01" />
+		<vector id="othergrass6" pos="0.222308,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.011" />
+		<vector id="othergrass7" pos="0.328751,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.012" />
+		<vector id="othergrass8" pos="0.420821,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.013" />
+		<vector id="othergrass9" pos="0.532246,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.014" />
+		<vector id="othergrass10" pos="0.64523,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.015" />
+		<vector id="othergrass11" pos="0.779578,0.579427" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.016" />
+		<vector id="othergrass12" pos="0.222686,0.309185" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.017" />
+		<vector id="othergrass13" pos="0.328036,0.309185" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.018" />
+		<vector id="othergrass14" pos="0.453997,0.309185" src="7h_grass" scalex="0.492" scaley="0.492" zpos="2.019" />
+		<rectangle id="otherrect1" pos="0.415639,0.85977" src="otherrect1" fill="119,177,56" zpos="2.005" x="0.170214" y="0.856784" width="0.49085" height="0.00597382" />
+		<rectangle id="otherrect2" pos="0.338375,0.320422" src="otherrect2" fill="119,177,56" zpos="2.003" x="0.165148" y="0.318525" width="0.346455" height="0.00379435" />
+		<rectangle id="otherrect3" pos="0.501079,0.590294" src="otherrect3" fill="119,177,56" zpos="2.004" x="0.167349" y="0.588397" width="0.667459" height="0.00379435" />
+	</event>
+	<event id="7i" target="obj3" >
+		<vector id="obj1" anchor="1,0.5" pos="0.926716,0.337369" src="7i_red" scalex="0.957244" scaley="0.957244" zpos="2.002" />
+		<vector id="obj2" anchor="1,0.5" pos="0.923104,0.523684" src="7i_purple" scalex="0.955604" scaley="0.955604" zpos="2.001" />
+		<vector id="obj3" anchor="1,0.5" pos="0.923794,0.702263" src="7i_green" scalex="0.957115" scaley="0.957115" zpos="2" />
+	</event>
+	<event id="masterb" scenes="7j,7k,7l,7m" gradienttop="212,247,247" gradientbottom="161,226,228" >
+	</event>
+	<event id="7j" >
+		<vector id="obj_1" anchor="0,0.5" pos="0.162295,0.612109" src="7j_greentrain" scalex="0.446394" scaley="0.446394" zpos="2.003" />
+		<vector id="obj_2" anchor="0,0.5" pos="0.162369,0.398438" src="7b_longtrain" scalex="0.445198" scaley="0.445198" zpos="2.002" />
+		<vector id="obj_3" anchor="0,0.5" pos="0.160942,0.82255" src="7a_longtrain" scalex="0.446798" scaley="0.446798" zpos="2" />
+		<vector id="obj_4" anchor="0,0.5" pos="0.162186,0.188869" src="7a_shorttrain" scalex="0.447309" scaley="0.447309" zpos="2.001" />
+	</event>
+	<event id="7k" >
+		<vector id="obj_1" anchor="0,0.5" pos="0.162295,0.612109" src="7j_greentrain" scalex="0.446394" scaley="0.446394" zpos="2.003" />
+		<vector id="obj_2" anchor="0,0.5" pos="0.162369,0.398438" src="7b_longtrain" scalex="0.445198" scaley="0.445198" zpos="2.002" />
+		<vector id="obj_3" anchor="0,0.5" pos="0.160942,0.82255" src="7a_longtrain" scalex="0.446798" scaley="0.446798" zpos="2" />
+		<vector id="obj_4" anchor="0,0.5" pos="0.162186,0.188869" src="7a_shorttrain" scalex="0.447309" scaley="0.447309" zpos="2.001" />
+	</event>
+	<event id="7l" target="" >
+		<vector id="obj_1" anchor="0,0.5" pos="0.0483292,0.779724" src="7l_purple" scalex="0.854917" scaley="0.854917" zpos="2.001" />
+		<vector id="obj_2" anchor="0,0.5" pos="0.0473061,0.461659" src="7l_green" scalex="0.859405" scaley="0.859405" zpos="2" />
+		<vector id="obj_3" anchor="0,0.5" pos="0.0486832,0.618786" src="7l_yellow" scalex="0.856652" scaley="0.856652" zpos="2.003" />
+		<vector id="obj_4" anchor="0,0.5" pos="0.05019,0.301571" src="7l_red" scalex="0.854941" scaley="0.854941" zpos="2.002" />
+	</event>
+	<event id="7m" >
+		<vector id="obj_1" anchor="1,0.5" pos="0.924176,0.488998" src="7i_green" scalex="0.956" scaley="0.956" zpos="2" />
+		<vector id="obj_2" anchor="1,0.5" pos="0.926291,0.632528" src="7m_greybelt" scalex="0.956" scaley="0.956" zpos="2.003" />
+		<vector id="obj_3" anchor="1,0.5" pos="0.924229,0.776215" src="7i_red" scalex="0.955916" scaley="0.956" zpos="2.002" />
+		<vector id="obj_4" anchor="1,0.5" pos="0.924206,0.340642" src="7i_purple" scalex="0.955678" scaley="0.956" zpos="2.001" />
+	</event>
+	<event id="masterc" scenes="7n,7o" gradienttop="212,247,247" gradientbottom="161,226,228" >
+	</event>
+	<event id="7n" target="obj_2,obj_3" >
+		<vector id="obj_1" pos="0.409813,0.612843" src="7n_orangefish" scalex="0.425304" scaley="0.425304" zpos="2.001" />
+		<vector id="obj_2" pos="0.459293,0.415242" src="7n_yellowfish" scalex="0.423445" scaley="0.423445" zpos="2.003" />
+		<vector id="obj_3" pos="0.460606,0.80918" src="7n_greenfish" scalex="0.423472" scaley="0.423472" zpos="2" />
+		<vector id="obj_4" pos="0.497681,0.2182" src="7n_purplefish" scalex="0.424432" scaley="0.424" zpos="2.002" />
+	</event>
+	<event id="7o" target="obj_4,obj_5" >
+		<vector id="obj_1" anchor="1,0.5" pos="0.952197,0.69813" src="7l_purple" scalex="0.854917" scaley="0.854917" zpos="2.001" />
+		<vector id="obj_2" anchor="1,0.5" pos="0.955515,0.828313" src="7o_blue" scalex="0.859" scaley="0.859" zpos="2.002" />
+		<vector id="obj_3" anchor="1,0.5" pos="0.950546,0.431864" src="7l_green" scalex="0.859405" scaley="0.859405" zpos="2" />
+		<vector id="obj_4" anchor="1,0.5" pos="0.957144,0.304194" src="7o_red" scalex="0.859" scaley="0.859" zpos="2.004" />
+		<vector id="obj_5" anchor="1,0.5" pos="0.954219,0.562164" src="7o_yellow" scalex="0.859" scaley="0.859" zpos="2.003" />
+	</event>
+</events>

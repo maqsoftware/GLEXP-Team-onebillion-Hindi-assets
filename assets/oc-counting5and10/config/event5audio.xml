@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookiwanttencakes</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_ten</phrase>
+			<phrase>5_tencakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_showfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_touchinsidetheboxtoshowfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_touchinsidetheboxtoshowfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fivecakes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowshowtwentycakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showtwentycakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_five</phrase>
+			<phrase>5_ten</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentycakes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowyoudothecounting</phrase>
+			<phrase>5_showfifteencartonsofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showfifteencartonsofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fifteencartonsofjuice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_showtwentyfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showtwentyfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentyfiveapples</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_showthirtyjellybabies</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showthirtyjellybabies</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thirtyjellybabies</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_showfortyfivecherries</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showfortyfivecherries</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fortyfivecherries</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_showfiftybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showfiftybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fiftybuttons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="DEMO">
+			<phrase>5_nowlook</phrase>
+			<phrase>5_five_5h</phrase>
+			<phrase>5_ten_5h</phrase>
+			<phrase>5_fifteen_5h</phrase>
+			<phrase>5_fifteenboats</phrase>
+			<phrase>5_iwillshowthenumberhere</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_five_5h2</phrase>
+			<phrase>5_fifteen_5h2</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn_5h</phrase>
+			<phrase>5_tenboats</phrase>
+			<phrase>5_showthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showthenumberten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_showthenumberten</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_ten_5h2</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_fifteencars</phrase>
+			<phrase>5_showthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showthenumberfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_showthenumberfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fifteen_5i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_twentyballoons</phrase>
+			<phrase>5_showthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showthenumbertwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_showthenumbertwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twenty_5j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_twentyfiveducks</phrase>
+			<phrase>5_showthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_showthenumbertwentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_showthenumbertwentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twentyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowyoucounttheteddybears</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_counttheteddybearsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_counttheteddybearsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twentyteddybears</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_countthefishinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_countthefishinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countthefishinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twentyfivefish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_counttheflowersinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_counttheflowersinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_counttheflowersinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thirtyflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_countthestarsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_countthestarsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countthestarsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thirtyfivestars</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_countthesquaresinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_countthesquaresinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countthesquaresinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fortyfivesquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_countthebuttonsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_countthebuttonsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dontputzerofirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countthebuttonsinfives</phrase>
+			<phrase>5_thenshowthenumberontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fiftybuttons_5q</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_goodyoupractisedcountinginfivesandyoushowedthenumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="cake_show">
+			<phrase>click_hard_wood</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_show">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_lineup">
+			<phrase>ripple_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineup">
+			<phrase>ripple_click_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_hide">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_down">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

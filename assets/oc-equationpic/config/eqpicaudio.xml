@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180521.212742931">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>eqpic_nowyoullpracticeadding</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUB.DEMO">
+			<phrase>eqpic_nowyoullpracticesubtracting</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="MIX.DEMO">
+			<phrase>eqpic_nowyoulladdandsubtract</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>eqpic_havefun</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>eqpic_nowyoullpracticeadding</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUB.DEMO">
+			<phrase>eqpic_nowyoullpracticesubtracting</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="MIX.DEMO">
+			<phrase>eqpic_nowyoulladdandsubtract</phrase>
+			<phrase>eqpic_andseeapicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>eqpic_lookwhatstheanswer</phrase>
+			<phrase>eqpic_itshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqpic_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>eqpic_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>eqpic_great</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT">
+			<phrase>eqpic_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqpic_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqpic_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>eqpic_verygoodyoupractisedadding</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUB.DEMO">
+			<phrase>eqpic_greatyoupractisedsubtracting</phrase>
+		</phrasegroup>
+		<phrasegroup id="MIX.DEMO">
+			<phrase>eqpic_welldoneyouaddedandsubtracted</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="eqnoff">
+			<phrase>droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="eqnon">
+			<phrase>thud_short_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="answerin">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="fullpic">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+	</event>
+</audio>

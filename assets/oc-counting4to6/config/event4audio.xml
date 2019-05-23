@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_therearefourbeadsonthiswire</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_therearefivebeadsonthiswire</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_therearesixbeadsonthiswire</phrase>
+			<phrase>4_six</phrase>
+			<phrase>4_nowletsmoveanumber</phrase>
+			<phrase>4_fourbeads</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_movethenumberstomatchthesetsofbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_movethenumberstomatchthesetsofbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourbeads</phrase>
+			<phrase>4_fivebeads</phrase>
+			<phrase>4_sixbeads</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextmovethenumberstomatchthecups</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_movethenumberstomatchthecups</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourcups</phrase>
+			<phrase>4_fivecups</phrase>
+			<phrase>4_sixcups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowmovethenumberstomatchthecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_movethenumberstomatchthecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourcakes</phrase>
+			<phrase>4_fivecakes</phrase>
+			<phrase>4_sixcakes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_threeoranges</phrase>
+			<phrase>4_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowyourturn</phrase>
+			<phrase>4_putthepicturesbesidethenumberstheymatch</phrase>
+			<phrase>4_seehowquicklyyoucandoit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthepicturesbesidethenumberstheymatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_welldoneyoumatchedthenumberstothesetsofthings</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="swap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_1">
+			<phrase>4_plink_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_2">
+			<phrase>4_plink_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_3">
+			<phrase>4_plink_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_4">
+			<phrase>4_plink_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_5">
+			<phrase>4_plink_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="plink_6">
+			<phrase>4_plink_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

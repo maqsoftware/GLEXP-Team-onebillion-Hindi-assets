@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="2a,2b,2c,2d,2e,2f,2g,2h" gradienttop="62,209,251" gradientbottom="234,250,252">
+	</event>
+	<event id="2a" redraw="true">
+		<vector id="container" anchor="0.5,1" pos="0.488068,1.02711" src="clothes_wire" scalex="0.870255" scaley="0.870255" zpos="2.003" />
+		<vector id="background_cloud_large" pos="0.61792,0.199997" src="cloud_small" zpos="2.001" />
+		<vector id="background_cloud_small" pos="0.964722,0.0244904" src="cloud_large" zpos="2.002" />
+		<path id="background_hills" pos="0.525042,0.801534" src="background_hills" fill="105,189,75" fillopacity="0.5" zpos="2" d="M-0.017189 0.63384c0.001 0.000 0.171 0.255 0.558 0.108c0.386-0.148 0.528 0.105 0.528 0.105L1.06818 0.846903L1.06818 1.00526L-0.0180931 1.00917L-0.017189 0.63384Z" />
+		<vector id="obj_1" anchor="0.5,1" pos="0.211772,0.201338" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.004" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.414083,0.214837" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.005" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.616394,0.219899" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.006" />
+		<vector id="obj_4" anchor="0.5,1" pos="0.818705,0.21315" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.007" />
+	</event>
+	<event id="2b" redraw="true" >
+		<vector id="container" anchor="0.5,1" pos="0.488068,1.02711" src="clothes_wire" scalex="0.870255" scaley="0.870255" zpos="2.003" />
+		<vector id="background_cloud_large" pos="0.61792,0.199997" src="cloud_small" zpos="2.001" />
+		<vector id="background_cloud_small" pos="0.964722,0.0244904" src="cloud_large" zpos="2.002" />
+		<path id="background_hills" pos="0.525042,0.801534" src="background_hills" fill="105,189,75" fillopacity="0.5" zpos="2" d="M-0.017189 0.63384c0.001 0.000 0.171 0.255 0.558 0.108c0.386-0.148 0.528 0.105 0.528 0.105L1.06818 0.846903L1.06818 1.00526L-0.0180931 1.00917L-0.017189 0.63384Z" />
+		<vector id="obj_1" anchor="0.5,1" pos="0.211772,0.201338" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.004" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.414083,0.214837" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.005" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.616394,0.219899" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.006" />
+		<vector id="obj_4" anchor="0.5,1" pos="0.818705,0.21315" parent="container" src="bird" scalex="1.5" scaley="1.5" zpos="2.007" />
+	</event>
+	<event id="2c" redraw="true">
+		<vector id="container" anchor="0.5,1" pos="0.488068,1.02711" src="clothes_wire" scalex="0.870255" scaley="0.870255" zpos="2.003" />
+		<vector id="background_cloud_large" pos="0.61792,0.199997" src="cloud_small" zpos="2.001" />
+		<vector id="background_cloud_small" pos="0.964722,0.0244904" src="cloud_large" zpos="2.002" />
+		<path id="background_hills" pos="0.525042,0.801534" src="background_hills" fill="105,189,75" fillopacity="0.5" zpos="2" d="M-0.017189 0.63384c0.001 0.000 0.171 0.255 0.558 0.108c0.386-0.148 0.528 0.105 0.528 0.105L1.06818 0.846903L1.06818 1.00526L-0.0180931 1.00917L-0.017189 0.63384Z" />
+		<vector id="obj_1" pos="0.197454,0.334606" parent="container" src="sockWithPeg" scalex="0.721379" scaley="0.721379" zpos="2.008" />
+		<vector id="obj_2" pos="0.358841,0.342232" parent="container" src="sockWithPeg" scalex="0.721379" scaley="0.721379" zpos="2.007" />
+		<vector id="obj_3" pos="0.520228,0.34537" parent="container" src="sockWithPeg" scalex="0.721379" scaley="0.721379" zpos="2.006" />
+		<vector id="obj_4" pos="0.681444,0.347294" parent="container" src="sockWithPeg" scalex="0.721379" scaley="0.721379" zpos="2.005" />
+		<vector id="obj_5" pos="0.843003,0.337869" parent="container" src="sockWithPeg" scalex="0.721379" scaley="0.721379" zpos="2.004" />
+	</event>
+	<event id="2d" redraw="true">
+		<vector id="container" anchor="0.5,1" pos="0.488068,1.02711" src="clothes_wire" scalex="0.870255" scaley="0.870255" zpos="2.003" />
+		<vector id="background_cloud_large" pos="0.61792,0.199997" src="cloud_small" zpos="2.001" />
+		<vector id="background_cloud_small" pos="0.964722,0.0244904" src="cloud_large" zpos="2.002" />
+		<path id="background_hills" pos="0.525042,0.801534" src="background_hills" fill="105,189,75" fillopacity="0.5" zpos="2" d="M-0.017189 0.63384c0.001 0.000 0.171 0.255 0.558 0.108c0.386-0.148 0.528 0.105 0.528 0.105L1.06818 0.846903L1.06818 1.00526L-0.0180931 1.00917L-0.017189 0.63384Z" />
+		<vector id="obj_1" pos="0.173245,0.305042" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.004" />
+		<vector id="obj_2" pos="0.307626,0.316367" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.005" />
+		<vector id="obj_3" pos="0.442008,0.319748" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.006" />
+		<vector id="obj_4" pos="0.57639,0.323498" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.007" />
+		<vector id="obj_5" pos="0.710772,0.318865" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.008" />
+		<vector id="obj_6" pos="0.845154,0.312992" parent="container" src="vestWithPegs" scalex="0.666041" scaley="0.666041" zpos="2.009" />
+	</event>
+	<event id="2e" redraw="true" gradienttop="234,250,252" gradientbottom="234,250,252">
+		<vector id="container" pos="0.5,0.590152" src="sea" scalex="0.670803" scaley="0.617498" zpos="2" fit="fitwidth" />
+		<vector id="obj_1" pos="0.18899,0.541461" src="fish" scalex="1.5" scaley="1.5" zpos="2.001" scheme="fish orange" />
+		<vector id="obj_2" pos="0.149855,0.813637" src="fish" scalex="1.5" scaley="1.5" zpos="2.002" scheme="fish orange" />
+		<vector id="obj_3" pos="0.426939,0.410805" src="fish" scalex="1.5" scaley="1.5" zpos="2.003" scheme="fish orange" />
+		<vector id="obj_4" pos="0.479753,0.731957" src="fish" scalex="1.5" scaley="1.5" zpos="2.004" scheme="fish orange" />
+		<vector id="obj_5" pos="0.736265,0.488696" src="fish" scalex="1.5" scaley="1.5" zpos="2.005" scheme="fish orange" />
+		<vector id="obj_6" pos="0.845873,0.77669" src="fish" scalex="1.5" scaley="1.5" zpos="2.006" scheme="fish orange" />
+	</event>
+	<event id="2f" redraw="true" gradienttop="159,219,81" gradientbottom="255,255,255">
+		<vector id="container" pos="0.521,0.580315" src="leaf" scalex="1.24252" scaley="1.24252" zpos="2" />
+		<vector id="obj_1" pos="0.507803,0.169713" parent="container" src="ladybug" scalex="3" scaley="3" zpos="2.001" />
+		<vector id="obj_2" pos="0.308635,0.458906" parent="container" src="ladybug" scalex="3" scaley="3" zpos="2.002" />
+		<vector id="obj_3" pos="0.525829,0.747277" parent="container" src="ladybug" scalex="3" scaley="3" zpos="2.003" />
+		<vector id="obj_4" pos="0.721568,0.458003" parent="container" src="ladybug" scalex="3" scaley="3" zpos="2.004" />
+	</event>
+	<event id="2g" redraw="true" gradienttop="159,219,81" gradientbottom="255,255,255">
+		<vector id="container" pos="0.510254,0.55013" src="plate" scalex="6" scaley="6" zpos="2" />
+		<vector id="obj_1" pos="0.73053,0.560748" parent="container" src="tomato" scalex="1.7" scaley="1.7" zpos="2.005" />
+		<vector id="obj_2" pos="0.636733,0.292211" parent="container" src="tomato" scalex="1.7" scaley="1.7" zpos="2.002" />
+		<vector id="obj_3" pos="0.351218,0.3071" parent="container" src="tomato" scalex="1.7" scaley="1.7" zpos="2.001" />
+		<vector id="obj_4" pos="0.271028,0.573209" parent="container" src="tomato" scalex="1.7" scaley="1.7" zpos="2.003" />
+		<vector id="obj_5" pos="0.504688,0.744548" parent="container" src="tomato" scalex="1.7" scaley="1.7" zpos="2.004" />
+	</event>
+	<event id="2h" redraw="true" gradienttop="159,219,81" gradientbottom="255,255,255">
+		<vector id="container" pos="0.510742,0.625" src="cake" scalex="2.24354" scaley="2.24354" zpos="2" />
+		<vector id="obj_1" pos="0.10515,-0.0337692" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.001" />
+		<vector id="obj_2" pos="0.258098,-0.07857" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.002" />
+		<vector id="obj_3" pos="0.411046,-0.0337692" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.003" />
+		<vector id="obj_4" pos="0.563994,-0.07857" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.004" />
+		<vector id="obj_5" pos="0.716941,-0.0337692" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.005" />
+		<vector id="obj_6" pos="0.869889,-0.07857" parent="container" src="candle" scalex="1.5" scaley="1.5" zpos="2.006" />
+	</event>
+</events>

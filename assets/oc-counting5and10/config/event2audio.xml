@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_letscountintensagain</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_fifty</phrase>
+			<phrase>2_sixty</phrase>
+			<phrase>2_seventy</phrase>
+			<phrase>2_eighty</phrase>
+			<phrase>2_ninety</phrase>
+			<phrase>2_onehundred</phrase>
+			<phrase>2_nowlook</phrase>
+			<phrase>2_tengoesinthefirstbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_touchthenumbersintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethenumbersintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_ten</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_fifty</phrase>
+			<phrase>2_sixty</phrase>
+			<phrase>2_seventy</phrase>
+			<phrase>2_eighty</phrase>
+			<phrase>2_ninety</phrase>
+			<phrase>2_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowlookanumberismissing</phrase>
+			<phrase>2_iwillfillitin</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_zero</phrase>
+			<phrase>2_sixty_2b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_whatsthemissingnumberfillitin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whatsmissingthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_forty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_fifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_dothisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whatsmissingthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_seventy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_ninety</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtrythisspecialone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dontputzerofirst</phrase>
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_onehundred</phrase>
+			<phrase>2_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>2_ten</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_fifty</phrase>
+			<phrase>2_sixty_2b</phrase>
+			<phrase>2_seventy</phrase>
+			<phrase>2_eighty</phrase>
+			<phrase>2_ninety</phrase>
+			<phrase>2_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowyouhavetocountbackwards</phrase>
+			<phrase>2_sostartwithonehundred</phrase>
+			<phrase>2_butfirsttouchthisredbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>2_touchtheredbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethenumbersintherightordergoingbackwards</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_onehundred</phrase>
+			<phrase>2_ninety</phrase>
+			<phrase>2_eighty</phrase>
+			<phrase>2_seventy</phrase>
+			<phrase>2_sixty_2b</phrase>
+			<phrase>2_fifty</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_greatyouputthetensinorderforwardsandbackwards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="bounce">
+			<phrase>plastic_ball_bouncing_in_glass</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_dash">
+			<phrase>single_beep_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="hide_keys">
+			<phrase>spatter_pop_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_pressed">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_keys">
+			<phrase>clack_can_opening</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_number">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="bounce_new">
+			<phrase>boing_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

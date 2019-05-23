@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="1a,1b,1c,1d,1e" textsize="178" colour="243,252,255" >
+		<vector id="dottedline" pos="0.539253,0.767812" src="dottedline" zpos="0.002" hidden="true" />
+		<image id="objbox" pos="0.368736,0.501002" src="spaceboxbig" zpos="0.001" hidden="true" />
+		<image id="textbox" pos="0.839836,0.506017" src="spaceboxsmall" zpos="0" hidden="true" />
+	</event>
+	<event id="1a" >
+		<vector id="obj1" pos="0.0864206,0.114809" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3" />
+		<vector id="obj2" pos="0.288276,0.114809" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.001" />
+		<vector id="obj3" pos="0.490131,0.114809" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.002" />
+		<vector id="obj4" pos="0.691986,0.114809" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.003" />
+		<vector id="obj5" pos="0.893841,0.114809" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.004" />
+		<vector id="obj6" pos="0.0864206,0.371319" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.005" />
+		<vector id="obj7" pos="0.288276,0.371319" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.006" />
+		<vector id="obj8" pos="0.490131,0.371319" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.007" />
+		<vector id="obj9" pos="0.691986,0.371319" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.008" />
+		<vector id="obj10" pos="0.893841,0.371319" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.009" />
+		<vector id="obj11" pos="0.0864206,0.62783" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.01" hidden="true" />
+		<vector id="obj12" pos="0.288276,0.62783" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.011" hidden="true" />
+		<vector id="obj13" pos="0.490131,0.62783" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.012" hidden="true" />
+		<vector id="obj14" pos="0.691986,0.62783" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.013" hidden="true" />
+		<vector id="obj15" pos="0.893841,0.62783" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.014" hidden="true" />
+		<vector id="obj16" pos="0.0864206,0.88434" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.015" hidden="true" />
+		<vector id="obj17" pos="0.288276,0.88434" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.016" hidden="true" />
+		<vector id="obj18" pos="0.490131,0.88434" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.017" hidden="true" />
+		<vector id="obj19" pos="0.691986,0.88434" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.018" hidden="true" />
+		<vector id="obj20" pos="0.893841,0.88434" parent="objbox" src="counter" scalex="0.913898" scaley="0.913898" zpos="3.019" hidden="true" />
+	</event>
+	<event id="1d" >
+		<vector id="obj1" pos="0.131947,0.253283" src="bird" scalex="1.201" scaley="1.201" zpos="2" />
+		<vector id="obj2" pos="0.24707,0.253283" src="bird" scalex="1.201" scaley="1.201" zpos="2.001" />
+		<vector id="obj3" pos="0.362194,0.253283" src="bird" scalex="1.201" scaley="1.201" zpos="2.002" />
+		<vector id="obj4" pos="0.477318,0.253283" src="bird" scalex="1.201" scaley="1.201" zpos="2.003" />
+		<vector id="obj5" pos="0.592442,0.253283" src="bird" scalex="1.201" scaley="1.201" zpos="2.004" />
+		<vector id="obj6" pos="0.131947,0.418663" src="bird" scalex="1.201" scaley="1.201" zpos="2.005" />
+		<vector id="obj7" pos="0.24707,0.418663" src="bird" scalex="1.201" scaley="1.201" zpos="2.006" />
+		<vector id="obj8" pos="0.362194,0.418663" src="bird" scalex="1.201" scaley="1.201" zpos="2.007" />
+		<vector id="obj9" pos="0.477318,0.418663" src="bird" scalex="1.201" scaley="1.201" zpos="2.008" />
+		<vector id="obj10" pos="0.592442,0.418663" src="bird" scalex="1.201" scaley="1.201" zpos="2.009" />
+		<vector id="obj11" pos="0.131947,0.584043" src="bird" scalex="1.201" scaley="1.201" zpos="2.01" hidden="true" />
+		<vector id="obj12" pos="0.24707,0.584043" src="bird" scalex="1.201" scaley="1.201" zpos="2.011" hidden="true" />
+		<vector id="obj13" pos="0.362194,0.584043" src="bird" scalex="1.201" scaley="1.201" zpos="2.012" hidden="true" />
+		<vector id="obj14" pos="0.477318,0.584043" src="bird" scalex="1.201" scaley="1.201" zpos="2.013" hidden="true" />
+		<vector id="obj15" pos="0.592442,0.584043" src="bird" scalex="1.201" scaley="1.201" zpos="2.014" hidden="true" />
+		<vector id="obj16" pos="0.131947,0.749423" src="bird" scalex="1.201" scaley="1.201" zpos="2.015" hidden="true" />
+		<vector id="obj17" pos="0.24707,0.749423" src="bird" scalex="1.201" scaley="1.201" zpos="2.016" hidden="true" />
+		<vector id="obj18" pos="0.362194,0.749423" src="bird" scalex="1.201" scaley="1.201" zpos="2.017" hidden="true" />
+		<vector id="obj19" pos="0.477318,0.749423" src="bird" scalex="1.201" scaley="1.201" zpos="2.018" hidden="true" />
+		<vector id="obj20" pos="0.592442,0.749423" src="bird" scalex="1.201" scaley="1.201" zpos="2.019" hidden="true" />
+	</event>
+</events>

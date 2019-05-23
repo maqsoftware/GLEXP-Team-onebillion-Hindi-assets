@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="6a,6b" >
+		<vector id="obj" pos="0.442348,0.455755" src="4f_giraffe" zpos="0" />
+	</event>
+</events>

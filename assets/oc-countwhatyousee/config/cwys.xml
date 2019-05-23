@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master3" >
+		<rectangle id="bottom_bar" pos="0.5,0.93703" src="bottom_bar" fill="238,253,215" zpos="0.001" hidden="true" x="-0.0149632" y="0.872757" width="1.02993" height="0.128545" />
+		<rectangle id="work_rect" pos="0.491735,0.344302" src="work_rect" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.070816" y="0.108388" width="0.841837" height="0.471827" pxwidth="862.041" pxheight="362.363" />
+	</event>
+	<event id="cwys1a" colour_num="130,42,202" colour_lowlight="220,220,220" >
+		<path id="line" pos="0.5,1.37088" parent="work_rect" src="line" fill="254,204,47" stroke="255,0,0" strokewidth="3.5" zpos="4.001" hidden="true" d="M0.4361 1.371L0.5639 1.371" />
+		<rectangle id="unit" pos="0.450076,0.943071" parent="work_rect" src="unit" fill="21,147,252" stroke="32,95,161" strokewidth="2" zpos="4" hidden="true" widthtracksheight="true" x="0.429776" y="0.894777" width="0.0406013" height="0.0965882" pxwidth="35" pxheight="35" />
+	</event>
+	<event id="cwys1b" colour_num="130,42,202" colour_lowlight="220,220,220" >
+		<path id="line" pos="0.5,1.37088" parent="work_rect" src="line" fill="254,204,47" stroke="255,0,0" strokewidth="3.5" zpos="3.001" hidden="true" d="M0.4361 1.371L0.5639 1.371" />
+		<rectangle id="unit" pos="0.450076,0.943071" parent="work_rect" src="unit" fill="21,147,252" stroke="32,95,161" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.429776" y="0.894777" width="0.0406013" height="0.0965882" pxwidth="35" pxheight="35" />
+	</event>
+	<event id="cwys1c" colour_num="130,42,202" colour_lowlight="220,220,220" >
+		<path id="line" pos="0.5,1.37088" parent="work_rect" src="line" fill="254,204,47" stroke="255,0,0" strokewidth="3.5" zpos="3.001" hidden="true" d="M0.4174 1.371L0.5826 1.371" />
+		<rectangle id="unit" pos="0.434996,0.910904" parent="work_rect" src="unit" fill="21,147,252" stroke="32,95,161" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.420496" y="0.876408" width="0.0290009" height="0.0689915" pxwidth="25" pxheight="25" />
+	</event>
+	<event id="cwys3" colour_num="170,199,176" >
+		<rectangle id="key" pos="0.181887,0.929293" src="key" fill="255,251,195" stroke="255,241,201" strokewidth="1" shadowcolour="0,0,0" shadowopacity="0.197095" shadowradius="0" shadowxoffset="0" shadowyoffset="2" zpos="3.002" hidden="true" x="0.151726" y="0.885696" width="0.0603218" height="0.0871938" cornerradius="0.150398" />
+		<path id="line" pos="0.430614,1.37306" parent="work_rect" src="line" fill="254,204,47" stroke="255,0,0" strokewidth="3.5" zpos="3.001" hidden="true" d="M0.3955 1.373L0.4657 1.373" />
+		<rectangle id="unit" pos="0.434996,0.910904" parent="work_rect" src="unit" fill="254,204,47" stroke="214,135,7" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.420496" y="0.876408" width="0.0290009" height="0.0689915" pxwidth="25" pxheight="25" />
+	</event>
+</events>

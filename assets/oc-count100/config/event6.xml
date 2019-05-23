@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master6" textcolour="73,73,73" linecolour="175,70,191" scenes="6a,6c,6d,6e,6f" hilitecolour="255,228,0" buttoninactive="123,197,78" buttonactive="186,50,237" colour="212,251,254" >
+		<rectangle id="workrect" pos="0.491034,0.404917" src="workrect" fill="73,73,73" zpos="0.001" hidden="true" heighttrackswidth="true" x="0.0698586" y="0.160914" width="0.84235" height="0.488007" pxwidth="862.566" pxheight="374.789" />
+		<vector id="bagback" pos="0.834567,0.797782" src="bag_back" scalex="0.345955" scaley="0.345955" zpos="0.01" />
+		<rectangle id="bagdrop" pos="0.819971,0.823502" src="bagdrop" fill="73,73,73" zpos="0" hidden="true" x="0.709312" y="0.688797" width="0.221317" height="0.269409" />
+		<vector id="bagfront" pos="0.836685,0.855779" src="bag_front" scalex="0.344426" scaley="0.344426" zpos="0.011" />
+		<rectangle id="droparea" pos="0.485466,0.844012" src="droparea" fill="73,73,73" zpos="0.009" hidden="true" x="0.405258" y="0.774028" width="0.160416" height="0.139969" />
+		<rectangle id="gridrect" pos="0.500399,0.499406" parent="workrect" src="gridrect" fill="73,73,73" zpos="0.002" hidden="true" heighttrackswidth="true" x="0.000538908" y="0.400027" width="0.999719" height="0.198758" pxwidth="862.324" pxheight="74.4922" />
+		<rectangle id="numbox" pos="0.890212,0.228809" src="numbox" fill="255,255,255" stroke="73,73,73" strokewidth="1.99868" zpos="0.003" hidden="true" x="0.815339" y="0.15944" width="0.149746" height="0.138737" />
+		<vector id="robot" pos="0.113049,0.821601" src="robot" scalex="0.381986" scaley="0.381986" zpos="0.008" />
+		<rectangle id="scorebar" pos="0.973185,0.555041" src="scorebar" fill="255,38,0" zpos="0.005" x="0.964844" y="0.159561" width="0.0166817" height="0.79096" />
+		<rectangle id="scorebar2" pos="0.973185,0.555041" src="scorebar2" fill="73,73,73" stroke="73,73,73" strokewidth="1.99868" zpos="0.006" hidden="true" x="0.964844" y="0.159561" width="0.0166817" height="0.79096" />
+		<rectangle id="scorebg" pos="0.973467,0.555041" src="scorebg" fill="255,255,255" zpos="0.004" x="0.964844" y="0.159561" width="0.0172462" height="0.79096" />
+		<rectangle id="scoreborder" pos="0.973148,0.555041" src="scoreborder" stroke="73,73,73" strokewidth="1.99868" zpos="0.007" x="0.964844" y="0.159561" width="0.0166092" height="0.79096" />
+	</event>
+	<event id="6a" row="1" correct="2,5,1,7,9,1" wrong="11,20,2,21,27,2" order="1,2,0,2" >
+	</event>
+	<event id="6c" row="2,5" correct="11,15,2,16,20,2,41,43,1,44,47,1,48,50,1" wrong="1,10,1,21,40,3,51,60,1" order="1,0,1,1,1,1,1,1,1,1,1,1" >
+	</event>
+	<event id="6d" row="8,4" correct="31,35,2,36,40,2,71,73,1,74,77,1,78,80,1" wrong="21,30,1,41,70,4,81,90,1" order="1,1,1,1,1,1,1,1,1,1,1,1" >
+	</event>
+	<event id="6e" row="10,3,7" correct="91,95,1,96,100,1,21,23,1,24,27,1,28,30,1,61,63,1,64,67,1,68,70,1" wrong="1,20,2,31,60,6,71,90,3" order="1,2,1,1,1,2,1,1,1,2,1,1,1,2" >
+	</event>
+	<event id="6f" results="true" >
+	</event>
+</events>

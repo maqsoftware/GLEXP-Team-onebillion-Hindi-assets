@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="k">
+		<phrasegroup id="DEMO">
+			<phrase>K_listentotheproblem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k1">
+		<phrasegroup id="PROMPT">
+			<phrase>K_thereis1monkeyinatree</phrase>
+			<phrase>K_thereare2monkeysinatree</phrase>
+			<phrase>K_thereare3monkeysinatree</phrase>
+			<phrase>K_thereare4monkeysinatree</phrase>
+			<phrase>K_thereare5monkeysinatree</phrase>
+			<phrase>K_thereare6monkeysinatree</phrase>
+			<phrase>K_thereare7monkeysinatree</phrase>
+			<phrase>K_thereare8monkeysinatree</phrase>
+			<phrase>K_thereare9monkeysinatree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>K_1moremonkeyclimbsintothetree</phrase>
+			<phrase>K_2moremonkeysclimbintothetree</phrase>
+			<phrase>K_3moremonkeysclimbintothetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>K_howmanymonkeysarethereinthetreenow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k2">
+		<phrasegroup id="PROMPT">
+			<phrase>K_thereis1chickenintheyard</phrase>
+			<phrase>K_thereare2chickensintheyard</phrase>
+			<phrase>K_thereare3chickensintheyard</phrase>
+			<phrase>K_thereare4chickensintheyard</phrase>
+			<phrase>K_thereare5chickensintheyard</phrase>
+			<phrase>K_thereare6chickensintheyard</phrase>
+			<phrase>K_thereare7chickensintheyard</phrase>
+			<phrase>K_thereare8chickensintheyard</phrase>
+			<phrase>K_thereare9chickensintheyard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>K_1morechickencomesintotheyard</phrase>
+			<phrase>K_2morechickenscomeintotheyard</phrase>
+			<phrase>K_3morechickenscomeintotheyard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>K_howmanychickensarethereintheyardnow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k3">
+		<phrasegroup id="PROMPT">
+			<phrase>K_thereis1personatthemarketstall</phrase>
+			<phrase>K_thereare2peopleatthemarketstall</phrase>
+			<phrase>K_thereare3peopleatthemarketstall</phrase>
+			<phrase>K_thereare4peopleatthemarketstall</phrase>
+			<phrase>K_thereare5peopleatthemarketstall</phrase>
+			<phrase>K_thereare6peopleatthemarketstall</phrase>
+			<phrase>K_thereare7peopleatthemarketstall</phrase>
+			<phrase>K_thereare8peopleatthemarketstall</phrase>
+			<phrase>K_thereare9peopleatthemarketstall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>K_1morepersonjoinsthemarketstall</phrase>
+			<phrase>K_2morepeoplejointhemarketstall</phrase>
+			<phrase>K_3morepeoplejointhemarketstall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>K_howmanypeoplearethereatthemarketstallnow</phrase>
+		</phrasegroup>
+	</event>
+</audio>

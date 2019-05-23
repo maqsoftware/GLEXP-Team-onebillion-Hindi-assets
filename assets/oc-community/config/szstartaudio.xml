@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170731.115757428">
+	<event id="button">
+		<phrasegroup id="DEMO">
+			<phrase>sz_whenyouarereadytouchthisbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit_1">
+		<phrasegroup id="DEMO">
+			<phrase>sz_hellomynameisanna</phrase>
+			<phrase>sz_youaregoingtodosomethingamazing</phrase>
+			<phrase>sz_youwilllearntoreadandwriteanddomaths</phrase>
+			<phrase>sz_andiwillhelpyou</phrase>
+			<phrase>sz_soletsgetgoing</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sz_touchthisbigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>sz_yougottodaysfirststar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit_2">
+		<phrasegroup id="DEMO">
+			<phrase>sz_nowtouchthisbigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>sz_anotherstar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit_3">
+		<phrasegroup id="DEMO">
+			<phrase>sz_letsseewhatsnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit_4">
+		<phrasegroup id="PROMPT">
+			<phrase>sz_greatyouknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit_default">
+		<phrasegroup id="REMIND">
+			<phrase>sz_touchthebigbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="grid">
+		<phrasegroup id="DEMO">
+			<phrase>sz_hereistodaysworkagain</phrase>
+			<phrase>sz_youcanhaveanothergoorgivesomeoneelseaturn</phrase>
+			<phrase>sz_itsbesttodoitinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sz_andlookyoucantouchthisboxtogototheplayareaitsfun</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>sz_youcangotherelatertodayintheafternoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>sz_andlookyoucantouchthisboxtogototheplayareaitsfun</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sz_youcangototheplayarealatertodayintheafternoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>sz_hereistodaysworkagain</phrase>
+			<phrase>sz_itsbesttodoitinorder</phrase>
+			<phrase>sz_theboxwillbringyoubacktotheplayarea</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="allstar">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="bigbutton">
+			<phrase>ripple_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="chime">
+			<phrase>magic_harp_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="dayoff">
+			<phrase>spatter_pop_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="dayon">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="finale">
+			<phrase>trumpet_announcement</phrase>
+		</phrasegroup>
+		<phrasegroup id="musical_sting">
+			<phrase>kalimba_short </phrase>
+		</phrasegroup>
+		<phrasegroup id="onestar">
+			<phrase>chime_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="onestar2">
+			<phrase>bright_bell_chime2</phrase>
+		</phrasegroup>
+		<phrasegroup id="prog_sq_on">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="progress">
+			<phrase>bike_wheel_spin_4_sec</phrase>
+		</phrasegroup>
+		<phrasegroup id="pzicon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="rowin">
+			<phrase>paper_flip_longer</phrase>
+		</phrasegroup>
+		<phrasegroup id="starblank">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="starfill">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="starflash">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="starflip">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="starflow">
+			<phrase>numbers_fly_out</phrase>
+		</phrasegroup>
+		<phrasegroup id="starsettle">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

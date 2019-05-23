@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_look</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_fivecounters</phrase>
+			<phrase>5_fivecounters</phrase>
+			<phrase>5_sixcounters</phrase>
+			<phrase>5_thissetdoesnotmatchthenumber</phrase>
+			<phrase>5_socrossitout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainthencrossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainthencrossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainthencrossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_crossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainthencrossoutthesetthatdoesnotmatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_goodyoucrossedoutthesetsthatdidnotmatchthenumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<words id="words" changetoken="20180517.122523780">
+	<prompt id="a1">jungle	</prompt>
+	<prompt id="a2">There are lots of animals in the jungle.	</prompt>
+	<prompt id="b1">hats	</prompt>
+	<prompt id="b2">Tigers don’t wear hats.	</prompt>
+	<prompt id="c1">tail	</prompt>
+	<prompt id="c2">I have a long tail.	</prompt>
+	<prompt id="d1">mice	</prompt>
+	<prompt id="d2">I am scared of mice.	</prompt>
+	<prompt id="e1">friend	</prompt>
+	<prompt id="e2">My friend is funny.	</prompt>
+	<prompt id="f1">scary	</prompt>
+	<prompt id="f2">I am scary.	</prompt>
+	<prompt id="g1">river	</prompt>
+	<prompt id="g2">There are lots of fish in the river.	</prompt>
+	<prompt id="h1">bigger	</prompt>
+	<prompt id="h2">My paws are bigger than yours.	</prompt>
+	<prompt id="i1">bird	</prompt>
+	<prompt id="i2">The bird has a silly voice.	</prompt>
+	<prompt id="j1">like	</prompt>
+	<prompt id="j2">I like to roar.	</prompt>
+	<prompt id="k1">read	</prompt>
+	<prompt id="k2">I can read!	</prompt>
+	<prompt id="l1">hot	</prompt>
+	<prompt id="l2">It is hot in the jungle.	</prompt>
+	<prompt id="m1">ears	</prompt>
+	<prompt id="m2">I have soft ears.	</prompt>
+	<prompt id="n1">strong	</prompt>
+	<prompt id="n2">Tigers are strong.	</prompt>
+	<prompt id="o1">on	</prompt>
+	<prompt id="o2">The bird is sitting on the branch.	</prompt>
+	<prompt id="p1">run	</prompt>
+	<prompt id="p2">Tigers can run fast.	</prompt>
+	<prompt id="q1">sitting	</prompt>
+	<prompt id="q2">I am sitting on an ant’s nest!	</prompt>
+	<prompt id="r1">dad	</prompt>
+	<prompt id="r2">My dad is stripy.	</prompt>
+	<prompt id="s1">tomorrow	</prompt>
+	<prompt id="s2">I am going swimming tomorrow.	</prompt>
+	<prompt id="t1">today	</prompt>
+	<prompt id="t2">It is sunny today.	</prompt>
+</words>

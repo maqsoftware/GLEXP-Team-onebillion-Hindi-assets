@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="6a,6b,6c,6d" colour="251,255,244" >
+	</event>
+	<event id="6a" redraw="true" colour="255,240,255" >
+		<image id="dash_p1" pos="0.243683,0.529804" src="tracing_dash7" scalex="1.02" scaley="1.06" zpos="2" />
+		<vector id="obj" pos="0.709473,0.529804" src="frog" scalex="-3.764" scaley="3.76403" zpos="2.003" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.002" hidden="true" />
+		<vector id="trace_p1" pos="0.498059,0.5" parent="dash_p1" src="trace_7" zpos="2.001" />
+		<group id="dots"  pos="0.74864,0.564194" src="dots" zpos="3">
+			<circle id="dot_1" pos="0.256692,0.326851" parent="obj" src="dot_1" fill="248,252,107" zpos="3" x="0.212416" y="0.271507" width="0.0885506" height="0.110687" />
+			<circle id="dot_2" pos="0.416796,0.544593" parent="obj" src="dot_2" fill="248,252,107" zpos="3.001" x="0.372521" y="0.48925" width="0.0885506" height="0.110687" />
+			<circle id="dot_3" pos="0.586479,0.539126" parent="obj" src="dot_3" fill="248,252,107" zpos="3.003" x="0.542204" y="0.483782" width="0.0885506" height="0.110687" />
+			<circle id="dot_4" pos="0.599755,0.323286" parent="obj" src="dot_4" fill="248,252,107" zpos="3.006" x="0.55548" y="0.267942" width="0.0885506" height="0.110687" />
+			<circle id="dot_5" pos="0.60785,0.748854" parent="obj" src="dot_5" fill="248,252,107" zpos="3.002" x="0.563574" y="0.69351" width="0.0885506" height="0.110687" />
+			<circle id="dot_6" pos="0.901168,0.806653" parent="obj" src="dot_6" fill="248,252,107" zpos="3.004" x="0.856893" y="0.751309" width="0.0885506" height="0.110687" />
+			<circle id="dot_7" pos="0.831144,0.541576" parent="obj" src="dot_7" fill="248,252,107" zpos="3.005" x="0.786869" y="0.486232" width="0.0885506" height="0.110687" />
+		</group>
+	</event>
+	<event id="6b" redraw="true" >
+		<image id="dash_p1" pos="0.243683,0.529804" src="tracing_dash8" scalex="1.02" scaley="1.05" zpos="2" />
+		<vector id="obj" pos="0.687209,0.542418" src="butterfly" scalex="2.97275" scaley="2.97275" rotation="-19.1455" zpos="2.003" scheme="butterfly orange_yellow" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.002" hidden="true" />
+		<vector id="trace_p1" pos="0.502945,0.5" parent="dash_p1" src="trace_8" zpos="2.001" />
+		<group id="dots"  pos="0.703627,0.519651" src="dots" zpos="3">
+			<circle id="dot_1" pos="0.793517,0.408827" parent="obj" src="dot_1" fill="253,64,255" zpos="3.007" x="0.756211" y="0.365609" width="0.0746117" height="0.0864364" />
+			<circle id="dot_2" pos="0.309185,0.220519" parent="obj" src="dot_2" fill="253,64,255" zpos="3" x="0.271879" y="0.177301" width="0.0746117" height="0.0864364" />
+			<circle id="dot_3" pos="0.395294,0.340783" parent="obj" src="dot_3" fill="253,64,255" zpos="3.001" x="0.357988" y="0.297565" width="0.0746117" height="0.0864364" />
+			<circle id="dot_4" pos="0.262238,0.563068" parent="obj" src="dot_4" fill="253,64,255" zpos="3.002" x="0.224932" y="0.51985" width="0.0746117" height="0.0864364" />
+			<circle id="dot_5" pos="0.369838,0.510377" parent="obj" src="dot_5" fill="253,64,255" zpos="3.003" x="0.332533" y="0.467158" width="0.0746117" height="0.0864364" />
+			<circle id="dot_6" pos="0.580739,0.590195" parent="obj" src="dot_6" fill="253,64,255" zpos="3.004" x="0.543433" y="0.546976" width="0.0746117" height="0.0864364" />
+			<circle id="dot_7" pos="0.634144,0.712304" parent="obj" src="dot_7" fill="253,64,255" zpos="3.005" x="0.596838" y="0.669086" width="0.0746117" height="0.0864364" />
+			<circle id="dot_8" pos="0.651354,0.452612" parent="obj" src="dot_8" fill="253,64,255" zpos="3.006" x="0.614048" y="0.409394" width="0.0746117" height="0.0864364" />
+		</group>
+	</event>
+	<event id="6c" redraw="true" >
+		<image id="dash_p1" pos="0.243683,0.522786" src="tracing_dash9" scalex="1.02" scaley="1.08" zpos="2" />
+		<vector id="obj" pos="0.719244,0.513627" src="cat_sideways" scalex="2.24498" scaley="2.24498" zpos="2.003" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.002" hidden="true" />
+		<vector id="trace_p1" pos="0.516347,0.50841" parent="dash_p1" src="trace_9" zpos="2.001" />
+		<group id="dots"  pos="0.762402,0.588707" src="dots" zpos="3">
+			<circle id="dot_1" pos="0.373894,0.867193" parent="obj" src="dot_1" fill="123,69,0" zpos="3.008" x="0.327712" y="0.818068" width="0.0923641" height="0.0982501" />
+			<circle id="dot_2" pos="0.355628,0.522392" parent="obj" src="dot_2" fill="123,69,0" zpos="3" x="0.309446" y="0.473267" width="0.0923641" height="0.0982501" />
+			<circle id="dot_3" pos="0.669669,0.384617" parent="obj" src="dot_3" fill="123,69,0" zpos="3.001" x="0.623487" y="0.335492" width="0.0923641" height="0.0982501" />
+			<circle id="dot_4" pos="0.852818,0.413114" parent="obj" src="dot_4" fill="123,69,0" zpos="3.002" x="0.806636" y="0.363989" width="0.0923641" height="0.0982501" />
+			<circle id="dot_5" pos="0.895348,0.592376" parent="obj" src="dot_5" fill="123,69,0" zpos="3.003" x="0.849166" y="0.543251" width="0.0923641" height="0.0982501" />
+			<circle id="dot_6" pos="0.70216,0.62953" parent="obj" src="dot_6" fill="123,69,0" zpos="3.004" x="0.655978" y="0.580405" width="0.0923641" height="0.0982501" />
+			<circle id="dot_7" pos="0.748875,0.814311" parent="obj" src="dot_7" fill="123,69,0" zpos="3.005" x="0.702693" y="0.765186" width="0.0923641" height="0.0982501" />
+			<circle id="dot_8" pos="0.51246,0.643621" parent="obj" src="dot_8" fill="123,69,0" zpos="3.006" x="0.466278" y="0.594496" width="0.0923641" height="0.0982501" />
+			<circle id="dot_9" pos="0.286085,0.684417" parent="obj" src="dot_9" fill="123,69,0" zpos="3.007" x="0.239902" y="0.635292" width="0.0923641" height="0.0982501" />
+		</group>
+	</event>
+	<event id="6d" redraw="true" >
+		<image id="dash_p1" pos="0.1003,0.529804" src="tracing_dash1" scaley="1.03" zpos="2.002" />
+		<image id="dash_p2" pos="0.301769,0.529804" src="tracing_dash0" scalex="1.02" scaley="1.05" zpos="2" />
+		<vector id="obj" pos="0.739885,0.527985" src="fish" scalex="4.42738" scaley="5.01323" zpos="2.005" scheme="fish teal" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.004" hidden="true" />
+		<vector id="trace_p1" pos="0.515838,0.5" parent="dash_p1" src="trace_1" zpos="2.003" />
+		<vector id="trace_p2" pos="0.503007,0.5" parent="dash_p2" src="trace_0" zpos="2.001" />
+		<group id="dots"  pos="0.690886,0.545308" src="dots" zpos="3">
+			<circle id="dot_1" pos="0.212269,0.693147" parent="obj" src="dot_1" fill="16,126,125" zpos="3.009" x="0.169923" y="0.647354" width="0.0846929" height="0.0915864" />
+			<circle id="dot_2" pos="0.497059,0.297781" parent="obj" src="dot_2" fill="16,126,125" zpos="3.001" x="0.454713" y="0.251988" width="0.0846929" height="0.0915864" />
+			<circle id="dot_3" pos="0.375236,0.40026" parent="obj" src="dot_3" fill="16,126,125" zpos="3.002" x="0.33289" y="0.354467" width="0.0846929" height="0.0915864" />
+			<circle id="dot_4" pos="0.471943,0.533119" parent="obj" src="dot_4" fill="16,126,125" zpos="3.003" x="0.429597" y="0.487326" width="0.0846929" height="0.0915864" />
+			<circle id="dot_5" pos="0.598847,0.451329" parent="obj" src="dot_5" fill="16,126,125" zpos="3.004" x="0.5565" y="0.405535" width="0.0846929" height="0.0915864" />
+			<circle id="dot_6" pos="0.349495,0.800285" parent="obj" src="dot_6" fill="16,126,125" zpos="3.005" x="0.307149" y="0.754492" width="0.0846929" height="0.0915864" />
+			<circle id="dot_7" pos="0.368972,0.641458" parent="obj" src="dot_7" fill="16,126,125" zpos="3.006" x="0.326626" y="0.595665" width="0.0846929" height="0.0915864" />
+			<circle id="dot_8" pos="0.596119,0.640926" parent="obj" src="dot_8" fill="16,126,125" zpos="3.007" x="0.553772" y="0.595132" width="0.0846929" height="0.0915864" />
+			<circle id="dot_9" pos="0.50439,0.769849" parent="obj" src="dot_9" fill="16,126,125" zpos="3.008" x="0.462043" y="0.724056" width="0.0846929" height="0.0915864" />
+			<circle id="dot_10" pos="0.332269,0.253876" parent="obj" src="dot_10" fill="16,126,125" zpos="3" x="0.289922" y="0.208083" width="0.0846929" height="0.0915864" />
+		</group>
+	</event>
+</events>

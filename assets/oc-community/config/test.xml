@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" colour="208,254,253" >
+		<rectangle id="button_correct" pos="0.309721,0.378746" src="button_correct" fill="26,190,2" zpos="0" x="0.1987" y="0.230718" width="0.222042" height="0.296056" />
+		<rectangle id="button_timeout" pos="0.51087,0.789538" src="button_timeout" fill="255,114,0" zpos="0.002" x="0.399849" y="0.64151" width="0.222042" height="0.296056" />
+		<rectangle id="button_wrong" pos="0.719053,0.384158" src="button_wrong" fill="242,53,45" zpos="0.001" x="0.608032" y="0.23613" width="0.222042" height="0.296056" hidden="true"/>
+	</event>
+</events>

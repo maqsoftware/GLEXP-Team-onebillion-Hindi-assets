@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="5a,5b,5c,5d,5e,5f" textsize="58" colour="182,253,243" >
+		<vector id="counter1" pos="0.0964999,0.188131" src="simplecounter" zpos="0" col="254,152,132" />
+		<vector id="counter2" pos="0.190685,0.188131" src="simplecounter" zpos="0.001" col="185,180,254" />
+		<vector id="counter3" pos="0.28487,0.188131" src="simplecounter" zpos="0.002" col="121,254,115" />
+		<vector id="counter4" pos="0.379055,0.188131" src="simplecounter" zpos="0.003" col="176,163,254" />
+		<vector id="counter5" pos="0.473239,0.188131" src="simplecounter" zpos="0.004" col="149,255,41" />
+		<vector id="counter6" pos="0.567424,0.188131" src="simplecounter" zpos="0.005" />
+		<vector id="counter7" pos="0.661609,0.188131" src="simplecounter" zpos="0.006" col="255,120,142" />
+		<vector id="counter8" pos="0.755794,0.188131" src="simplecounter" zpos="0.007" col="50,237,254" />
+		<vector id="counter9" pos="0.849979,0.188131" src="simplecounter" zpos="0.008" col="254,161,201" />
+		<vector id="counter10" pos="0.944164,0.188131" src="simplecounter" zpos="0.009" col="253,178,53" />
+		<rectangle id="numberrect" pos="0.434082,0.497396" src="numberrect" fill="255,255,255" zpos="1" hidden="true" opacity="0.523052" widthtracksheight="true" x="0.15332" y="0.191406" width="0.561523" height="0.611979" pxwidth="575" pxheight="470" />
+		<vector id="tracearrow" pos="0.319257,0.178271" src="trace_arrow" scalex="0.520583" scaley="0.520583" shadowcolour="0,0,0" shadowopacity="0.27" shadowradius="3" shadowxoffset="1" shadowyoffset="1" zpos="1.001" hidden="true" />
+		<group id="box_group"  pos="0.867697,0.492457" src="box_group" zpos="2">
+			<path id="box_shape" pos="0.867697,0.492457" src="box_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="2.001" fit="widthtracksheight" d="M0.7833 0.7672L0.7833 0.7672L0.7833 0.2159L0.9515 0.2159L0.9515 0.7672L0.7833 0.7672ZM0.7734 0.7799L0.962 0.7799L0.962 0.205L0.7734 0.205L0.7734 0.7799Z" />
+			<rectangle id="box_background" pos="0.498381,0.49839" parent="box_shape" src="box_background" fill="255,255,255" zpos="2" x="0.0521459" y="0.0189657" width="0.892471" height="0.958849" />
+			<rectangle id="box_mask" pos="0.498381,0.49839" parent="box_shape" src="box_mask" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="2.002" x="0.0521459" y="0.0189657" width="0.892471" height="0.958849" />
+			<rectangle id="box_stroke" pos="0.498381,0.49839" parent="box_shape" src="box_stroke" stroke="17,142,141" strokewidth="1" zpos="2.003" x="0.0521459" y="0.0189657" width="0.892471" height="0.958849" />
+		</group>
+		<rectangle id="circle_rect1" pos="0.132796,1.04986" parent="box_group" src="circle_rect1" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="4" hidden="true" widthtracksheight="true" x="0.0569821" y="1.01593" width="0.151627" height="0.0678551" pxwidth="29.2705" pxheight="29.9639" />
+		<rectangle id="circle_rect2" pos="0.317441,1.04986" parent="box_group" src="circle_rect2" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="4.001" hidden="true" widthtracksheight="true" x="0.241628" y="1.01593" width="0.151627" height="0.0678551" pxwidth="29.2705" pxheight="29.9639" />
+		<rectangle id="circle_rect3" pos="0.502087,1.04986" parent="box_group" src="circle_rect3" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="4.002" hidden="true" widthtracksheight="true" x="0.426273" y="1.01593" width="0.151627" height="0.0678551" pxwidth="29.2705" pxheight="29.9639" />
+		<rectangle id="circle_rect4" pos="0.686732,1.04986" parent="box_group" src="circle_rect4" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="4.003" hidden="true" widthtracksheight="true" x="0.610919" y="1.01593" width="0.151627" height="0.0678551" pxwidth="29.2705" pxheight="29.9639" />
+		<rectangle id="circle_rect5" pos="0.871378,1.04986" parent="box_group" src="circle_rect5" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="4.004" hidden="true" widthtracksheight="true" x="0.795564" y="1.01593" width="0.151627" height="0.0678551" pxwidth="29.2705" pxheight="29.9639" />
+		<group id="circle_progress1"  pos="0.79834,0.808594" src="circle_progress1" zpos="5">
+			<path id="circle_shape" pos="0.495379,0.499397" parent="circle_rect1" src="circle_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="5.001" d="M0.7682 0.7549c-0.152 0.149-0.399 0.149-0.551 0c-0.152-0.149-0.152-0.39 0-0.539c0.152-0.149 0.399-0.149 0.551 0c0.152 0.149 0.152 0.39 0 0.539M0 1L0.9908 1L0.9908 -0.001206L0 -0.001206L0 1Z" />
+			<path id="circle_background" pos="0.497037,0.486198" parent="circle_shape" src="circle_background" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="5" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_mask" pos="0.497037,0.486198" parent="circle_shape" src="circle_mask" fill="255,255,255" zpos="5.002" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_stroke" pos="0.497037,0.486198" parent="circle_shape" src="circle_stroke" stroke="17,142,141" strokewidth="1" zpos="5.003" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+		</group>
+		<group id="circle_progress2"  pos="0.833252,0.808594" src="circle_progress2" zpos="5.001">
+			<path id="circle_shape" pos="0.498982,0.499397" parent="circle_rect2" src="circle_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="5.001" d="M0.7718 0.7549c-0.152 0.149-0.399 0.149-0.551 0c-0.152-0.149-0.152-0.39 0-0.539c0.152-0.149 0.399-0.149 0.551 0c0.152 0.149 0.152 0.39 0 0.539M0.003603 1L0.9944 1L0.9944 -0.001206L0.003603 -0.001206L0.003603 1Z" />
+			<path id="circle_background" pos="0.497037,0.486198" parent="circle_shape" src="circle_background" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="5" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_mask" pos="0.497037,0.486198" parent="circle_shape" src="circle_mask" fill="255,255,255" zpos="5.002" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_stroke" pos="0.497037,0.486198" parent="circle_shape" src="circle_stroke" stroke="17,142,141" strokewidth="1" zpos="5.003" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+		</group>
+		<group id="circle_progress3"  pos="0.868164,0.808594" src="circle_progress3" zpos="5.004">
+			<path id="circle_shape" pos="0.502586,0.499397" parent="circle_rect3" src="circle_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="5.001" d="M0.7754 0.7549c-0.152 0.149-0.399 0.149-0.551 0c-0.152-0.149-0.152-0.39 0-0.539c0.152-0.149 0.399-0.149 0.551 0c0.152 0.149 0.152 0.39 0 0.539M0.007206 1L0.998 1L0.998 -0.001206L0.007206 -0.001206L0.007206 1Z" />
+			<path id="circle_background" pos="0.497037,0.486198" parent="circle_shape" src="circle_background" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="5" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_mask" pos="0.497037,0.486198" parent="circle_shape" src="circle_mask" fill="255,255,255" zpos="5.002" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_stroke" pos="0.497037,0.486198" parent="circle_shape" src="circle_stroke" stroke="17,142,141" strokewidth="1" zpos="5.003" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+		</group>
+		<group id="circle_progress4"  pos="0.903076,0.808594" src="circle_progress4" zpos="5.002">
+			<path id="circle_shape" pos="0.506189,0.499397" parent="circle_rect4" src="circle_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="5.001" d="M0.779 0.7549c-0.152 0.149-0.399 0.149-0.551 0c-0.152-0.149-0.152-0.39 0-0.539c0.152-0.149 0.399-0.149 0.551 0c0.152 0.149 0.152 0.39 0 0.539M0.01081 1L1.002 1L1.002 -0.001206L0.01081 -0.001206L0.01081 1Z" />
+			<path id="circle_background" pos="0.497037,0.486198" parent="circle_shape" src="circle_background" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="5" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_mask" pos="0.497037,0.486198" parent="circle_shape" src="circle_mask" fill="255,255,255" zpos="5.002" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_stroke" pos="0.497037,0.486198" parent="circle_shape" src="circle_stroke" stroke="17,142,141" strokewidth="1" zpos="5.003" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+		</group>
+		<group id="circle_progress5"  pos="0.937988,0.808594" src="circle_progress5" zpos="5.003">
+			<path id="circle_shape" pos="0.509792,0.499397" parent="circle_rect5" src="circle_shape" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="3" shadowxoffset="2" shadowyoffset="2" zpos="5.001" d="M0.7826 0.7549c-0.152 0.149-0.399 0.149-0.551 0c-0.152-0.149-0.152-0.39 0-0.539c0.152-0.149 0.399-0.149 0.551 0c0.152 0.149 0.152 0.39 0 0.539M0.01441 1L1.005 1L1.005 -0.001206L0.01441 -0.001206L0.01441 1Z" />
+			<path id="circle_background" pos="0.497037,0.486198" parent="circle_shape" src="circle_background" fill="255,255,255" stroke="17,142,141" strokewidth="1" zpos="5" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_mask" pos="0.497037,0.486198" parent="circle_shape" src="circle_mask" fill="255,255,255" zpos="5.002" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+			<path id="circle_stroke" pos="0.497037,0.486198" parent="circle_shape" src="circle_stroke" stroke="17,142,141" strokewidth="1" zpos="5.003" d="M0.7753 0.7552c0.154-0.149 0.154-0.389 0-0.538c-0.154-0.149-0.403-0.149-0.557 0c-0.154 0.149-0.154 0.389 0 0.538c0.154 0.149 0.403 0.149 0.557 0" />
+		</group>
+	</event>
+	<event id="11" >
+		<image id="n1" pos="0.315652,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.635652,0.51383" parent="numberrect" src="5_dash1" zpos="8.001" />
+		<vector id="p1" pos="0.316522,0.512766" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.634783,0.512766" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="12" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.606957,0.504255" parent="numberrect" src="5_dash2" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.606087,0.504255" parent="numberrect" src="trace_2" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="13" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.6,0.510638" parent="numberrect" src="5_dash3" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.598261,0.510638" parent="numberrect" src="trace_3" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="14" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.590435,0.508511" parent="numberrect" src="5_dash4" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.592154,0.504912" parent="numberrect" src="trace_4" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="15" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.582609,0.510638" parent="numberrect" src="5_dash5" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.582609,0.509574" parent="numberrect" src="trace_5" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="16" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.55913,0.518085" parent="numberrect" src="5_dash6" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.559545,0.514786" parent="numberrect" src="trace_6" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="17" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.610435,0.514894" parent="numberrect" src="5_dash7" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.601875,0.524692" parent="numberrect" src="trace_7" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="18" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.605217,0.51112" parent="numberrect" src="5_dash8" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.603478,0.508511" parent="numberrect" src="trace_8" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="19" >
+		<image id="n1" pos="0.181739,0.51383" parent="numberrect" src="5_dash1" zpos="8" />
+		<image id="n2" pos="0.57913,0.506898" parent="numberrect" src="5_dash9" zpos="8.001" />
+		<vector id="p1" pos="0.181332,0.513863" parent="numberrect" src="trace_1" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.57913,0.508511" parent="numberrect" src="trace_9" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+	<event id="20" >
+		<image id="n1" pos="0.243478,0.504255" parent="numberrect" src="5_dash2" zpos="8.001" />
+		<image id="n2" pos="0.726957,0.503191" parent="numberrect" src="5_dash0" zpos="8" />
+		<vector id="p1" pos="0.243974,0.504987" parent="numberrect" src="trace_2" scalex="0.97" scaley="0.97" zpos="9" />
+		<vector id="p2" pos="0.726957,0.502128" parent="numberrect" src="trace_0" scalex="0.97" scaley="0.97" zpos="9.001" />
+	</event>
+</events>

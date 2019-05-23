@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowwhichplatehaseightoranges</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichplatehaseightoranges</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+			<phrase>3_whichplatehaseightoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichplatehassevenoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichplatehassevenoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3b</phrase>
+			<phrase>3_whichplatehassevenoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichtreehasnineapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichtreehasnineapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3c</phrase>
+			<phrase>3_whichtreehasnineapples</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichtreehastenapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichtreehastenapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3c</phrase>
+			<phrase>3_whichtreehastenapples</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichflowerhassevenpetals</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichflowerhassevenpetals</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3e</phrase>
+			<phrase>3_whichflowerhassevenpetals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichflowerhaseightpetals</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichflowerhaseightpetals</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3e</phrase>
+			<phrase>3_whichflowerhaseightpetals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichsnakehasninespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichsnakehasninespots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3g</phrase>
+			<phrase>3_whichsnakehasninespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichsnakehastenspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichsnakehastenspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3h</phrase>
+			<phrase>3_whichsnakehastenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichsnakehaseightspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_whichsnakehaseightspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3h</phrase>
+			<phrase>3_whichsnakehaseightspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_welldoneyouchosetherightthingstomatchthenumbersisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletscountintens</phrase>
+			<phrase>1_tenbirds</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_twentybirds</phrase>
+			<phrase>1_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_touchthelinetoaddtenmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelinetoaddtenmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>1_touchtheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_thirty</phrase>
+			<phrase>1_forty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fortybirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowletscountfrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>1_touchtheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_ten_1b</phrase>
+			<phrase>1_twenty_1b</phrase>
+			<phrase>1_thirty_1b</phrase>
+			<phrase>1_forty_1b</phrase>
+			<phrase>1_fifty</phrase>
+			<phrase>1_sixty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sixtyfrogs</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whatsnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_ten_1c</phrase>
+			<phrase>1_twenty_1c</phrase>
+			<phrase>1_thirty_1c</phrase>
+			<phrase>1_forty_1c</phrase>
+			<phrase>1_fifty_1c</phrase>
+			<phrase>1_sixty_1c</phrase>
+			<phrase>1_seventy</phrase>
+			<phrase>1_eighty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightyflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_letsgotoonehundred</phrase>
+			<phrase>1_touchtheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_ten_1d</phrase>
+			<phrase>1_twenty_1d</phrase>
+			<phrase>1_thirty_1d</phrase>
+			<phrase>1_forty_1d</phrase>
+			<phrase>1_fifty_1d</phrase>
+			<phrase>1_sixty_1d</phrase>
+			<phrase>1_seventy_1d</phrase>
+			<phrase>1_eighty_1d</phrase>
+			<phrase>1_ninety</phrase>
+			<phrase>1_onehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_onehundredbuttons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="DEMO">
+			<phrase>1_countagainwithme</phrase>
+			<phrase>1_ten_1e</phrase>
+			<phrase>1_twenty_1e</phrase>
+			<phrase>1_thirty_1e</phrase>
+			<phrase>1_forty_1e</phrase>
+			<phrase>1_fifty_1e</phrase>
+			<phrase>1_sixty_1e</phrase>
+			<phrase>1_seventy_1e</phrase>
+			<phrase>1_eighty_1e</phrase>
+			<phrase>1_ninety_1e</phrase>
+			<phrase>1_onehundred_1e</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowfindtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_twenty_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findthirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findthirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_thirty_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findthirty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findsixty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findsixty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_sixty_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findsixty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findninety</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findninety</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_ninety_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findninety</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_forty_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findforty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findeighty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findeighty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_eighty_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findeighty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findseventy</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findseventy</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_seventy_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findseventy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findten</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_ten_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_onehundred_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_verygoodyoucountedintensuptoonehundredandyoupickedoutthenumbersisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="add_bird">
+			<phrase>bird_louder</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_frog">
+			<phrase>low_frog_beep</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_flower">
+			<phrase>rustle_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_counter">
+			<phrase>click_snap_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

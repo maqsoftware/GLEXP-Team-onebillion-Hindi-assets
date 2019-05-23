@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="6a,6b,6c,6d,6e,6f,6g,6h,6i,6j,6k,6l,6m,6n" colour="253,240,205" >
+	</event>
+	<event id="6a" >
+		<vector id="obj_1" pos="0.296112,0.562538" src="6a_girl" scalex="0.783098" scaley="0.783098" zpos="3.001" />
+		<vector id="obj_2" pos="0.674805,0.500346" src="6a_dad" scalex="1.05244" scaley="1.05244" zpos="3" />
+	</event>
+	<event id="6b" target="obj_2" >
+		<linearGradient id="Gradient5" >
+			<stop offset="0%" stop-color="rgb(98.3%,0.261%,3.23%)" stop-opacity="1"/>
+			<stop offset="47.9684%" stop-color="rgb(69.8%,7.72%,13%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(45%,0.219%,6.15%)" stop-opacity="1"/>
+		</linearGradient>
+		<vector id="obj_1" pos="0.298119,0.537417" src="detailedshoe" scalex="1.01815" scaley="1.01815" fill="url(#Gradient5)"  zpos="3" />
+		<vector id="obj_2" pos="0.693501,0.55241" src="6b_sock" scalex="3.35361" scaley="3.35361" rotation="-20.2402" zpos="3.001" />
+	</event>
+	<event id="6c" target="obj_2" >
+		<vector id="obj_1" pos="0.281049,0.532245" src="5i_pencil" scalex="0.895" scaley="0.895" rotation="73.5137" zpos="3.001" />
+		<vector id="obj_2" pos="0.669685,0.543215" src="6c_book" scalex="0.702848" scaley="0.702848" rotation="-5.26758" zpos="3" />
+	</event>
+	<event id="6d" target="obj_2" >
+		<vector id="obj_1" pos="0.32428,0.540161" src="6d_cup" scalex="3.04226" scaley="3.04226" zpos="3" />
+		<vector id="obj_2" pos="0.709402,0.531843" src="6d_feather" scalex="0.451151" scaley="0.451151" rotation="164.704" zpos="3.001" />
+	</event>
+	<event id="6e" target="obj_1" >
+		<vector id="obj_1" pos="0.349065,0.50899" src="5i_bird" scalex="-3.257" scaley="3.25724" zpos="3" />
+		<vector id="obj_2" pos="0.702569,0.64268" src="6e_spider" scalex="0.0430291" scaley="0.0430291" zpos="3.001" />
+	</event>
+	<event id="6f" target="obj_2" >
+		<vector id="obj_1" pos="0.296604,0.555016" src="6g_bucketfull" scalex="0.779854" scaley="0.779854" zpos="3.001" />
+		<vector id="obj_2" pos="0.699852,0.507538" src="6f_balloon" zpos="3" />
+	</event>
+	<event id="6g" target="obj_1" >
+		<vector id="obj_1" pos="0.296604,0.555016" src="6g_bucketfull" scalex="0.779854" scaley="0.779854" zpos="3" />
+		<vector id="obj_2" pos="0.697849,0.55393" src="6g_bucket" scalex="0.78" scaley="0.78" zpos="3.001" />
+	</event>
+	<event id="6h" target="obj_2" >
+		<vector id="obj_1" pos="0.234927,0.507562" src="6h_comb" scalex="-2.3" scaley="2.3" rotation="-44.8111" zpos="3.001" />
+		<vector id="obj_2" pos="0.645686,0.514613" src="6h_brick" scalex="0.644696" scaley="0.644696" zpos="3" />
+	</event>
+	<event id="6i" target="obj_2" >
+		<vector id="obj_1" pos="0.361042,0.501302" src="6i_elephant" scalex="1.89155" scaley="1.89155" zpos="3" />
+		<vector id="obj_2" pos="0.776442,0.615413" src="6i_girl" scalex="0.389629" scaley="0.389629" zpos="3.001" />
+	</event>
+	<event id="6j" target="obj_1" >
+		<vector id="obj_1" anchor="0.5,1" pos="0.331152,0.8075" src="6j_dad" scalex="0.883731" scaley="0.883731" zpos="3.001" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.661133,0.823847" src="6j_baby" scalex="0.388523" scaley="0.388523" zpos="3" />
+	</event>
+	<event id="6k" target="obj2" >
+		<vector id="obj1" pos="0.172801,0.60737" src="6k_newspaper" scalex="1.07576" scaley="0.788538" rotation="1.80127" zpos="3" />
+		<vector id="obj2" pos="0.501446,0.494441" src="6j_baby" scalex="0.855259" scaley="0.855259" zpos="3.001" />
+		<vector id="obj3" pos="0.819505,0.575982" src="6d_feather" scalex="0.303701" scaley="0.303701" rotation="-33.383" zpos="3.002" />
+	</event>
+	<event id="6l" target="obj3" >
+		<vector id="obj1" pos="0.257468,0.481282" src="6l_chicken" scalex="0.214463" scaley="0.214463" zpos="3" />
+		<vector id="obj2" pos="0.526577,0.659773" src="6l_egg" scalex="0.385825" scaley="0.385825" rotation="-90.6285" zpos="3.001" />
+		<vector id="obj3" pos="0.807666,0.63359" src="6l_feather" scalex="0.227728" scaley="0.227728" rotation="-33.0984" zpos="3.002" />
+	</event>
+	<event id="6m" target="obj3" >
+		<vector id="obj1" pos="0.174908,0.478663" src="6m_ladder" scalex="0.814015" scaley="0.814015" zpos="3.001" />
+		<vector id="obj2" pos="0.37644,0.53493" src="6m_umbrella" scalex="0.473836" scaley="0.473836" zpos="3.002" />
+		<vector id="obj3" pos="0.72998,0.556876" src="6i_elephant" scalex="-1.488" scaley="1.488" zpos="3" />
+	</event>
+	<event id="6n" target="obj3" >
+		<vector id="obj1" pos="0.117697,0.556442" src="6j_dad" scalex="0.427823" scaley="0.427823" zpos="3.002" />
+		<vector id="obj2" pos="0.490538,0.530227" src="6n_bus" scalex="3.03648" scaley="3.03648" zpos="3" />
+		<vector id="obj3" pos="0.860352,0.621094" src="6n_chair" scalex="0.443531" scaley="0.443531" zpos="3.001" />
+	</event>
+</events>

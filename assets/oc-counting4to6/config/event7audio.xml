@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_look</phrase>
+			<phrase>7_chooseablackcircle</phrase>
+			<phrase>7_tracethenumber</phrase>
+			<phrase>7_six</phrase>
+			<phrase>7_nowtouchsixstarstomatchyournumber</phrase>
+			<phrase>7_sixstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseablackcircle</phrase>
+			<phrase>7_tracethenumber</phrase>
+			<phrase>7_nowtouchsixstarstomatchyournumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="DEMO">
+			<phrase>7_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>7_chooseablackcircle</phrase>
+			<phrase>7_chooseanotherblackcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseablackcircle</phrase>
+			<phrase>7_chooseanotherblackcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>7_nowcolourinstarstomatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>7_nowcolourinstarstomatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_excellentyoupractisedtracingthenumbersfourfiveandsixandyoucolouredinstarstomatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="NONE3">
+			<phrase>7_nowcolourinstarstomatch</phrase>
+			<phrase>7_excellentyoupracticedtracingthenumbers45and6andyoucolouredinstarstomatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_nowcolourinstarstomatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

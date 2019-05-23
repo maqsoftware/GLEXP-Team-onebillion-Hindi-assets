@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localisation dir="ltr" version="1" type="r">
+  <phrase id="day_1" audio="true">Monday</phrase>
+  <phrase id="day_2" audio="true">Tuesday</phrase>
+  <phrase id="day_3" audio="true">Wednesday</phrase>
+  <phrase id="day_4" audio="true">Thursday</phrase>
+  <phrase id="day_5" audio="true">Friday</phrase>
+  <phrase id="day_6" audio="true">Saturday</phrase>
+  <phrase id="day_7" audio="true">Sunday</phrase>
+</localisation>

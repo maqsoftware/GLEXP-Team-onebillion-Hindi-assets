@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<vector id="bee" pos="0.248665,0.268041" src="bee" zpos="0" />
+		<group id="Group1"  pos="0.659801,0.451406" src="Group1" zpos="0.001">
+			<vector id="bee copy" pos="0.639257,0.398962" src="bee" scalex="1.50702" scaley="1.50702" zpos="0" />
+			<vector id="bee copy copy" pos="0.66494,0.469188" src="bee" scalex="2" scaley="2" zpos="0.001" />
+		</group>
+	</event>
+</events>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Q1">
+		<phrasegroup id="DEMO">
+			<phrase>q_thesenumbersstartatone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>q_whereistwentysevenhiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whereistwentysevenhiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="DEMO">
+			<phrase>q_thesenumbersstartatone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>q_whereisfortysixhiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whereisfortysixhiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="PROMPT">
+			<phrase>q_lookatthetwonumbersatthebottom</phrase>
+			<phrase>q_dragthemtotherightplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_lookatthetwonumbersatthebottom</phrase>
+			<phrase>q_dragthemtotherightplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanybirdsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanybirdsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyapplesarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyapplesarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="PROMPT">
+			<phrase>q_usethebuttonstoshowfortythreeeggs</phrase>
+			<phrase>q_ifyoumakeamistaketouchthebox</phrase>
+			<phrase>q_whenyouhavefinishedtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_usethebuttonstoshowfortythreeeggs</phrase>
+			<phrase>q_ifyoumakeamistaketouchthebox</phrase>
+			<phrase>q_whenyouhavefinishedtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>q_showfortythreeeggs</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="PROMPT">
+			<phrase>q_usethebuttonstoshowthirtyfourflowers</phrase>
+			<phrase>q_ifyoumakeamistaketouchthebox</phrase>
+			<phrase>q_whenyouhavefinishedtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_usethebuttonstoshowthirtyfourflowers</phrase>
+			<phrase>q_ifyoumakeamistaketouchthebox</phrase>
+			<phrase>q_whenyouhavefinishedtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>q_showthirtyfourflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="PROMPT">
+			<phrase>q_thesenumbersstartatfiftyone</phrase>
+			<phrase>q_findsixtyfour</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_findsixtyfour</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="DEMO">
+			<phrase>q_thesenumbersstartatfiftyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>q_whereiseightytwohiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whereiseightytwohiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="DEMO">
+			<phrase>q_thesenumbersstartatfiftyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>q_whereisninetyfivehiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whereisninetyfivehiding</phrase>
+			<phrase>q_findit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+</audio>

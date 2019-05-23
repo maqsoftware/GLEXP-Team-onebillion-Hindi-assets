@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_looksix</phrase>
+			<phrase>5_andthecountersareintwos</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_six</phrase>
+			<phrase>5_ihaveputsixcountersintheloop</phrase>
+			<phrase>5_soitouchthenumber</phrase>
+			<phrase>5_six_5a</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="DEMO">
+			<phrase>5_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND2">
+			<phrase>5_nowtouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eightcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_moveeightcountersintotheloopintwos</phrase>
+			<phrase>5_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nextmovecountersintwostomatchthisnumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twelvecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_movetwelvecountersintotheloopintwos</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_matchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sixteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_movesixteencountersintotheloopintwos</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eighteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_moveeighteencountersintotheloopintwos</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_matchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentycounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_movetwentycountersintotheloopintwos</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowseeifyoucanmatchthisnumberitismorethantwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_goodtwentyfourcountersthatstwentyplusfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thenumberistwentyfoursoputtwentycountersinthenaddfourmore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_seeifyoucanmatchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_yestwentysixcountersthatstwentyplussix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thenumberistwentysixsoputtwentycountersinthenaddsixmore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_trythisoneitisevenbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_movecountersintotheloopintwostomatchthenumber</phrase>
+			<phrase>5_thentouchthenumber_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_yougotittwentyeightcountersthatstwentypluseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thenumberistwentyeightsoputtwentycountersinthenaddeightmore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_welldoneyoumovedcountersintwostomatchnumbersuptotwentyeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="number_off">
+			<phrase>numberpopoff</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_on">
+			<phrase>numberpopon</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="6a,6b" >
+		<vector id="cloud_large" pos="0.724348,0.514658" src="cloud_large" scalex="0.591588" scaley="0.591588" zpos="1.004" />
+		<rectangle id="Rectangle1" pos="0.643835,0.400851" src="Rectangle1" fill="0,0,0" zpos="1.001" x="0.520508" y="0.22787" width="0.246655" height="0.345963" />
+		<rectangle id="Rectangle1 copy" pos="0.810129,0.401817" src="Rectangle1 copy" fill="20,64,255" zpos="1" x="0.686802" y="0.228836" width="0.246655" height="0.345963" />
+		<vector id="star" pos="0.503885,0.517181" src="star" scalex="1.97708" scaley="1.97708" zpos="1.002" opacity="0.501619" />
+		<vector id="star copy" pos="0.766687,0.229187" src="star" scalex="1.97708" scaley="1.97708" zpos="1.003" />
+	</event>
+</events>

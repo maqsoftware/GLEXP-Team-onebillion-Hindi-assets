@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_lookatthehouses</phrase>
+			<phrase>2_thisisthefirsthouseintheroad</phrase>
+			<phrase>2_iveputoneonit</phrase>
+			<phrase>2_thatwillhelpvisitorstofindit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="DEMO">
+			<phrase>2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthefourthhousetoputitsnumberon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethefourthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethefourthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosethefifthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethefifthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethefifthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nextthesixthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethesixthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethesixthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowchoosethesecondhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethesecondhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethesecondhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosethethirdhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethethirdhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethethirdhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nexttheninthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosetheninthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetheninthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowgototheseventhhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosetheseventhhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetheseventhhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosetheeighthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosetheeighthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetheeighthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_andfinallythetenthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethetenthhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethetenthhouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="DEMO">
+			<phrase>2_thefirsthouseintheroad</phrase>
+			<phrase>2_second</phrase>
+			<phrase>2_third</phrase>
+			<phrase>2_fourth</phrase>
+			<phrase>2_fifth</phrase>
+			<phrase>2_sixth</phrase>
+			<phrase>2_seventh</phrase>
+			<phrase>2_eighth</phrase>
+			<phrase>2_ninth</phrase>
+			<phrase>2_andtenth</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowlookanecklacewithtwelvebeads</phrase>
+			<phrase>2_thisisthefirstbeadletscolouritin</phrase>
+			<phrase>2_thefirstbeadisnowyellow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="DEMO">
+			<phrase>2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthethirdbeadpink</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourthethirdbeadpink</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosepink</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethethirdbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthesixthbeadgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourthesixthbeadgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosegreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethesixthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseblueforthetenthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourthetenthbeadblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_chooseblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethetenthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosegreyfortheeleventhbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourtheeleventhbeadgrey</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosegrey</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosetheeleventhbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2q">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthetwelfthbeadyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourthetwelfthbeadyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_chooseyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethetwelfthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseorangeforthefifthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourthefifthbeadorange</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_chooseorange</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethefifthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2s">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowchooseanycolourforthefourthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseanycolourforthefourthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_choosethefourthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethefourthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2t">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseacolourfortheseventhbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseacolourfortheseventhbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_choosetheseventhbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosetheseventhbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2u">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourinthesecondbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourinthesecondbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_choosethesecondbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosethesecondbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2v">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourintheninthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourintheninthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_choosetheninthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosetheninthbead</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2w">
+		<phrasegroup id="PROMPT">
+			<phrase>2_andnowchooseacolourfortheeighthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseacolourfortheeighthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_choosetheeighthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_choosetheeighthbead</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youvecoloureditallin</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyouchosefirstsecondthirdfourthandallthewayuptotwelfth</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="choosehouse">
+			<phrase>choosehouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

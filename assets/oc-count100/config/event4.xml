@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master4" scenes="4a,4c,4d,4e,4f,4g,4h,4i,4j,4k" textcolour="73,73,73" hilitecolour="222,1,1" colour="243,255,193" >
+		<rectangle id="bottombar" pos="0.505974,1.00256" src="bottombar" fill="170,154,132" zpos="0" x="-0.0191841" y="0.919184" width="1.05032" height="0.166753" />
+		<vector id="boy" pos="0.0593948,0.705078" src="machine_boy" scalex="0.613843" scaley="0.613843" zpos="0.003" hidden="true" />
+		<vector id="girl" pos="0.0634766,0.700996" src="machine_girl" scalex="0.625244" scaley="0.625244" zpos="0.002" hidden="true" />
+		<vector id="machine" pos="0.471924,0.54362" src="machine" scalex="0.512285" scaley="0.512285" zpos="0.001" />
+	</event>
+	<event id="4a" swap="true" col="48,255,0" colour="243,255,193" >
+	</event>
+	<event id="4c" col="143,34,255" fold="true" >
+	</event>
+	<event id="4d" col="255,34,122" >
+	</event>
+	<event id="4e" col="255,174,0" fold="true" >
+	</event>
+	<event id="4f" col="0,234,255" >
+	</event>
+	<event id="4g" col="11,129,39" swap="true" >
+	</event>
+	<event id="4h" col="255,0,0" fold="true" >
+	</event>
+	<event id="4i" col="255,240,0" >
+	</event>
+	<event id="4j" col="34,159,152" fold="true" >
+	</event>
+	<event id="4k" col="255,90,0" >
+	</event>
+	<event id="masterGrid" textcolour="73,73,73" linecolour="150,144,116" scenes="4m,4n,4o,4p,4q,4r,4s,4t,4u,4v" rowcount="10" hilitecolour="222,1,1" colour="240,255,181" >
+		<rectangle id="workrect" pos="0.5,0.530815" src="workrect" fill="170,154,132" zpos="1" hidden="true" heighttrackswidth="true" x="0.0498047" y="0.176717" width="0.900505" height="0.708196" pxwidth="922.117" pxheight="543.895" />
+	</event>
+	<event id="4m" row="1" >
+	</event>
+	<event id="4n" row="2" >
+	</event>
+	<event id="4o" row="3" >
+	</event>
+	<event id="4p" row="4" >
+	</event>
+	<event id="4q" row="5" >
+	</event>
+	<event id="4r" row="6" >
+	</event>
+	<event id="4s" row="7" >
+	</event>
+	<event id="4t" row="8" >
+	</event>
+	<event id="4u" row="9" >
+	</event>
+	<event id="4v" row="10" >
+	</event>
+</events>

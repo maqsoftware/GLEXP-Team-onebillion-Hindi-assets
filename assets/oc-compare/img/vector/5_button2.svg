@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166px" height="166px" viewBox = "0 0 166 166">
+<defs>
+<linearGradient id="Gradient6_0" x1="0.5" y1="1" x2="0.5" y2="-1.11022e-16" >
+	<stop offset="0%" stop-color="rgb(99.7%,89.8%,4.83%)" stop-opacity="1"/>
+	<stop offset="99.8109%" stop-color="rgb(99.4%,76.8%,3.96%)" stop-opacity="1"/>
+</linearGradient>
+<linearGradient id="Gradient5_1" x1="0.5" y1="1" x2="0.5" y2="-1.11022e-16" >
+	<stop offset="0%" stop-color="rgb(98.7%,98.3%,69.6%)" stop-opacity="1"/>
+	<stop offset="99.9055%" stop-color="rgb(98.7%,95.8%,39.1%)" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(0,166) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="darkrect" d="M12.07 27.52L12.07 27.52c0-8.31 6.74-15 15-15L140.5 12.47L140.5 12.47c8.31 0 15 6.74 15 15L155.5 138L155.5 138c0 8.31-6.74 15-15 15L27.12 153.1L27.12 153.1c-8.31 0-15-6.74-15-15Z" stroke="rgb(0%,0%,0%)" stroke-width="2" stroke-opacity="0.236314" fill="url(#Gradient6_0)"  />
+		<path id="lightrect" d="M12.07 27.52L12.07 27.52c0-8.31 6.74-15 15-15L140.5 12.47L140.5 12.47c8.31 0 15 6.74 15 15L155.5 138L155.5 138c0 8.31-6.74 15-15 15L27.12 153.1L27.12 153.1c-8.31 0-15-6.74-15-15Z" stroke="rgb(0%,0%,0%)" stroke-width="2" stroke-opacity="0.236314" fill="url(#Gradient5_1)"  />
+		<path id="Path1" d="M140.5 153.1L27.12 153.1c-8.31 0-15-6.74-15-15L12.07 27.52L12.07 27.52c0-5.32 2.77-10 6.96-12.7c-2.51 2.65-4.03 6.24-4.03 10.2L15 25.05L15 135.5c0 8.31 6.74 15 15 15L143.4 150.6c2.99 0 5.77-0.869 8.09-2.39c-2.72 3-6.65 4.86-11 4.86Z" stroke="none" fill="rgb(0%,0%,0%)" fill-opacity="0.459455" visibility="hidden" opacity="0.63654"  />
+	</g>
+</g>
+</svg>

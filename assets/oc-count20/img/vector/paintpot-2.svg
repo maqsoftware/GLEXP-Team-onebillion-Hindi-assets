@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="134.395px" height="134.396px" viewBox="0 0 134.395 134.396" enable-background="new 0 0 134.395 134.396"
+	 xml:space="preserve">
+<linearGradient id="selector_frame_1_" gradientUnits="userSpaceOnUse" x1="-253.3176" y1="-257.3914" x2="-158.2853" y2="-352.4235" gradientTransform="matrix(1 0 0 -1 273 -237.7075)">
+	<stop  offset="0" style="stop-color:#A0A0A0"/>
+	<stop  offset="0.0756" style="stop-color:#9B9B9B"/>
+	<stop  offset="1" style="stop-color:#646464"/>
+</linearGradient>
+<path id="selector_frame" fill="url(#selector_frame_1_)" d="M134.395,67.203c0,37.108-30.085,67.194-67.194,67.194
+	c-37.113,0-67.2-30.085-67.2-67.194C0,30.088,30.087,0,67.197,0C104.31,0,134.395,30.088,134.395,67.203z"/>
+<linearGradient id="frame_1_" gradientUnits="userSpaceOnUse" x1="-250.0857" y1="-260.6233" x2="-161.5191" y2="-349.1899" gradientTransform="matrix(1 0 0 -1 273 -237.7075)">
+	<stop  offset="0" style="stop-color:#A0A0A0"/>
+	<stop  offset="1" style="stop-color:#646464"/>
+</linearGradient>
+<path id="frame" fill="url(#frame_1_)" d="M129.822,67.203c0,34.583-28.035,62.623-62.625,62.623
+	c-34.585,0-62.626-28.039-62.626-62.623c0-34.591,28.041-62.631,62.626-62.631C101.784,4.571,129.822,32.612,129.822,67.203z"/>
+<path id="colour" fill="#E30079" d="M127.009,67.202c0,33.029-26.778,59.812-59.812,59.812c-33.029,0-59.812-26.779-59.812-59.812
+	c0-33.036,26.78-59.817,59.812-59.817C100.23,7.385,127.009,34.166,127.009,67.202z"/>
+<radialGradient id="shine_1_1_" cx="-205.803" cy="-304.9065" r="59.8132" gradientTransform="matrix(1 0 0 -1 273 -237.7075)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFF2FF;stop-opacity:0.4"/>
+	<stop  offset="0.3621" style="stop-color:#FFFAFF;stop-opacity:0.2363"/>
+	<stop  offset="0.6025" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.7506" style="stop-color:#FDFDFD;stop-opacity:0.1863"/>
+	<stop  offset="0.804" style="stop-color:#F6F6F6;stop-opacity:0.2534"/>
+	<stop  offset="0.842" style="stop-color:#EBEBEB;stop-opacity:0.3013"/>
+	<stop  offset="0.8728" style="stop-color:#DADADA;stop-opacity:0.34"/>
+	<stop  offset="0.8991" style="stop-color:#C4C4C4;stop-opacity:0.3731"/>
+	<stop  offset="0.9225" style="stop-color:#A8A8A8;stop-opacity:0.4025"/>
+	<stop  offset="0.9436" style="stop-color:#888888;stop-opacity:0.4291"/>
+	<stop  offset="0.963" style="stop-color:#626262;stop-opacity:0.4535"/>
+	<stop  offset="0.981" style="stop-color:#373737;stop-opacity:0.4762"/>
+	<stop  offset="0.9971" style="stop-color:#090909;stop-opacity:0.4963"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0.5"/>
+</radialGradient>
+<path id="shine_1" fill="url(#shine_1_1_)" d="M127.009,67.202c0,33.029-26.778,59.812-59.812,59.812
+	c-33.029,0-59.812-26.779-59.812-59.812c0-33.036,26.78-59.817,59.812-59.817C100.23,7.385,127.009,34.166,127.009,67.202z"/>
+<radialGradient id="shine_2_1_" cx="-205.8049" cy="-291.0295" r="40.8337" gradientTransform="matrix(1 0 0 -1 273 -237.7075)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
+	<stop  offset="0.9337" style="stop-color:#FFFFFF;stop-opacity:0.1232"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+</radialGradient>
+<path id="shine_2" fill="url(#shine_2_1_)" d="M114.347,67.132c0,26.039-94.304,26.039-94.304,0
+	c0-26.043,21.115-47.148,47.151-47.148C93.236,19.981,114.347,41.088,114.347,67.132z"/>
+<linearGradient id="shine_3_1_" gradientUnits="userSpaceOnUse" x1="-205.804" y1="-330.0378" x2="-205.804" y2="-350.3953" gradientTransform="matrix(1 0 0 -1 273 -237.7075)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5791"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+</linearGradient>
+<path id="shine_3" fill="url(#shine_3_1_)" d="M27.664,92.33c5.288,11.797,20.979,20.357,39.53,20.357s34.244-8.562,39.532-20.357
+	c-9.596,7.778-23.729,12.726-39.532,12.726C51.392,105.055,37.262,100.109,27.664,92.33z"/>
+</svg>

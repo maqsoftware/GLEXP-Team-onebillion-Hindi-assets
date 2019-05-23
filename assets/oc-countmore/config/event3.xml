@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j,3k,3l,3m,3n,3o,3p,3q,3r,3s" colour_highlight="204,255,0" colour="255,253,240" >
+		<rectangle id="numbox" pos="0.500227,0.210294" src="numbox" fill="0,234,254" zpos="0" hidden="true" heightrackswidth="true" x="0.0221863" y="0.154963" width="0.956081" height="0.110662" />
+		<rectangle id="workrect" pos="0.505518,0.66539" src="workrect" fill="0,234,254" zpos="0.001" hidden="true" widthtracksheight="true" x="0.0250015" y="0.35022" width="0.961033" height="0.630341" pxwidth="984.098" pxheight="484.102" />
+	</event>
+	<event id="3a" correct="5" reload="5,5" >
+		<vector id="obj" pos="0.0802806,0.338716" parent="workrect" src="pair_shoe" scalex="0.249228" scaley="0.249228" zpos="3" hidden="true" />
+	</event>
+	<event id="3b" correct="3" >
+	</event>
+	<event id="3c" correct="4" >
+	</event>
+	<event id="3d" correct="5" reload="5,6" >
+		<vector id="obj" pos="0.145359,0.221204" parent="workrect" src="pair_sock" scalex="1.36671" scaley="1.36671" rotation="-9.61002" zpos="3" hidden="true" />
+	</event>
+	<event id="3e" correct="6" >
+	</event>
+	<event id="3f" correct="7" reload="5,8" >
+		<vector id="obj" pos="0.115824,0.216404" parent="workrect" src="pair_glove" scalex="1.08187" scaley="1.08187" zpos="3" hidden="true" />
+	</event>
+	<event id="3g" correct="8" >
+	</event>
+	<event id="3h" correct="9" reload="5,10" >
+		<vector id="obj" pos="0.100175,0.231643" parent="workrect" src="pair_flower" scalex="0.267038" scaley="0.267038" zpos="3" hidden="true" />
+	</event>
+	<event id="3i" correct="10" >
+	</event>
+	<event id="3j" correct="2" reload="4,4" >
+		<vector id="obj" pos="0.173779,0.345167" parent="workrect" src="pair_candle" scalex="1.39147" scaley="1.39147" zpos="3" hidden="true" />
+	</event>
+	<event id="3k" correct="4" >
+	</event>
+	<event id="3l" correct="3" reload="5,6" >
+		<vector id="obj" pos="0.119777,0.206798" parent="workrect" src="pair_lolipop" scalex="0.289222" scaley="0.289222" zpos="3" hidden="true" />
+	</event>
+	<event id="3m" correct="6" >
+	</event>
+	<event id="3n" correct="5" reload="5,8" >
+		<vector id="obj" pos="0.0951283,0.188594" parent="workrect" src="pair_spoon" scalex="0.516003" scaley="0.516003" zpos="3" hidden="true" />
+	</event>
+	<event id="3o" correct="8" >
+	</event>
+	<event id="3p" correct="4" reload="5,9" >
+		<vector id="obj" pos="0.0964319,0.189527" parent="workrect" src="pair_fork" scalex="0.451626" scaley="0.451626" zpos="3" hidden="true" />
+	</event>
+	<event id="3q" correct="9" >
+	</event>
+	<event id="3r" correct="7" reload="5,10" >
+		<vector id="obj" pos="0.130178,0.172908" parent="workrect" src="pair_pen" scalex="0.346986" scaley="0.346986" zpos="3" hidden="true" />
+	</event>
+	<event id="3s" correct="10" >
+	</event>
+</events>

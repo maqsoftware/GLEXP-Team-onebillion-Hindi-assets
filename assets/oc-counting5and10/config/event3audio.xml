@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_letscountagain</phrase>
+			<phrase>3_ten</phrase>
+			<phrase>3_twenty</phrase>
+			<phrase>3_thirty</phrase>
+			<phrase>3_forty</phrase>
+			<phrase>3_fifty</phrase>
+			<phrase>3_sixty</phrase>
+			<phrase>3_seventy</phrase>
+			<phrase>3_eighty</phrase>
+			<phrase>3_ninety</phrase>
+			<phrase>3_onehundred</phrase>
+			<phrase>3_nowlook</phrase>
+			<phrase>3_thebirdsareintens</phrase>
+			<phrase>3_letscount</phrase>
+			<phrase>3_ten_3a</phrase>
+			<phrase>3_twenty_3a</phrase>
+			<phrase>3_thirty_3a</phrase>
+			<phrase>3_thirtybirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_thebirdsareintens</phrase>
+			<phrase>3_howmanybirdsarethere</phrase>
+			<phrase>3_countintens</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanybirdsarethere</phrase>
+			<phrase>3_countintens</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_twentybirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthebirdsintens</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thefrogsareintens</phrase>
+			<phrase>3_howmanyfrogsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyfrogsarethere</phrase>
+			<phrase>3_countintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_fortyfrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthefrogsintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thebananasareintens</phrase>
+			<phrase>3_howmanybananasarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanybananasarethere</phrase>
+			<phrase>3_countintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_thirtybananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthebananasintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_theapplesareintens</phrase>
+			<phrase>3_howmanyapplesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyapplesarethere</phrase>
+			<phrase>3_countintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_sixtyapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_counttheapplesintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowhowmanyducksareinthisrow</phrase>
+			<phrase>3_countthem</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyducksarethere</phrase>
+			<phrase>3_countthem</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_tenducks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_counttheducks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyducksaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyducksarethere</phrase>
+			<phrase>3_countintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_thirtyducks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_counttheducksintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyducksarethere</phrase>
+			<phrase>3_countintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_fiftyducks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_counttheducksintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowlookatthesheeptheyarehardtocount</phrase>
+			<phrase>3_sotouchasheeptoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchasheeptoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanysheeparethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanysheeparethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_twentysheep</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthesheepintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchanyladybirdtoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchanyladybirdtoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyladybirdsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyladybirdsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_fortyladybirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_counttheladybirdsintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchanystartoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchanystartoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_fiftystars</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthestarsintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchanypinkbuttontoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchanypinkbuttontoputthemintens</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybuttonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybuttonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_eightybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countintens_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchanyrowofbuttonstotakeitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_toucharowofbuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_seventybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countintens_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thistimetakeawaytwentybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_takeawaytwentybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_fiftybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countintens_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawaythirtybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_takeawaythirtybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybuttonsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_twentybuttons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countintens_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_excellentyoupractisedcountingintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drop_numbers">
+			<phrase>thud_and_bounce_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_bird">
+			<phrase>bird_cheep</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_frog">
+			<phrase>low_frog_beep</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_banana">
+			<phrase>thud_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_apple">
+			<phrase>thud_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_duck">
+			<phrase>quack_2_1_quack</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_sheep">
+			<phrase>sheep_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_ladybird">
+			<phrase>beetle_wings_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_star">
+			<phrase>boing_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="intro_counter">
+			<phrase>reveal1</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_number">
+			<phrase>click_snap_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>spatter_pop_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<cq id="1" changetoken="20180322.132924648">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Dad and Ali are driving into town.</passage>
+		<passage id="p.passage_2">The road is busy with people riding bikes.</passage>
+		<passage id="p.passage_3">A goat runs out into the road.</passage>
+		<passage id="p.passage_4">“Watch out goat!” Phew! It made it across in time.</passage>
+		<passage id="p.passage_5">Dad drives very slowly the rest of the way.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Answer">Where are Dad and Ali going?</question>
+		<answer id="q1.answer_1">to town</answer>
+		<answer id="q1.answer_2">to the lake</answer>
+		<answer id="q1.answer_3">to the forest</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="Answer">Why is the road busy?</question>
+		<answer id="q2.answer_1">People are riding bikes.</answer>
+		<answer id="q2.answer_2">People are riding horses.</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Answer">What runs out in front of the car?</question>
+		<answer id="q3.answer_1">a goat</answer>
+		<answer id="q3.answer_2">a cow</answer>
+		<answer id="q3.answer_3">a boy</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="Answer">Does the goat get to safety?</question>
+		<answer id="q4.answer_1">yes</answer>
+		<answer id="q4.answer_2">no</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+	<qu id="q5.qu">
+		<question id="q5.question" imagename="Answer">Dad does not want to hit a goat on the rest of his journey. How can you tell?</question>
+		<answer id="q5.answer_1">He drives very slowly.</answer>
+		<answer id="q5.answer_2">He cries.</answer>
+		<correct id="q5.correct">5</correct>
+	</qu>
+</cq>
+<cq id="11" changetoken="20180322.132924648">
+	<passages id="p.passages">
+		<passage id="p.passage_1" imagename="sentence">Grandma and Charlie were going to see the doctor.</passage>
+		<passage id="p.passage_2" imagename="sentence">Charlie was scared.</passage>
+		<passage id="p.passage_3" imagename="sentence">He didn’t know the doctor.</passage>
+		<passage id="p.passage_4" imagename="sentence">Grandma held his hand when they went into the surgery.</passage>
+		<passage id="p.passage_5" imagename="sentence">The doctor was very nice.</passage>
+		<passage id="p.passage_6" imagename="sentence">She smiled at Charlie and asked if she could look in his ears.</passage>
+		<passage id="p.passage_7" imagename="sentence">She shone a light in his left ear, and then in his right.</passage>
+		<passage id="p.passage_8" imagename="sentence">“All done!” she said.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Grandma">Who went with Charlie to see the doctor?</question>
+		<answer id="q1.answer_1">Grandma</answer>
+		<answer id="q1.answer_2">Dad</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="Charlie">How did Charlie feel on his way there?</question>
+		<answer id="q2.answer_1">scared</answer>
+		<answer id="q2.answer_2">excited</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Grandma">How did Grandma make Charlie feel better?</question>
+		<answer id="q3.answer_1">She held his hand.</answer>
+		<answer id="q3.answer_2">She gave him an apple.</answer>
+		<correct id="q3.correct">4</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="The">What was the doctor like?</question>
+		<answer id="q4.answer_1">friendly</answer>
+		<answer id="q4.answer_2">loud</answer>
+		<correct id="q4.correct">5</correct>
+	</qu>
+	<qu id="q5.qu">
+		<question id="q5.question" imagename="She">What did the doctor do to Charlie’s ears?</question>
+		<answer id="q5.answer_1">shone a light in them</answer>
+		<answer id="q5.answer_2">tickled them</answer>
+		<correct id="q5.correct">7</correct>
+	</qu>
+</cq>
+<cq id="13" changetoken="20180322.132924648">
+	<passages id="p.passages">
+		<passage id="p.passage_1" imagename="sentence">Berta was at the market.</passage>
+		<passage id="p.passage_2" imagename="sentence">She was buying vegetables for her stew.</passage>
+		<passage id="p.passage_3" imagename="sentence">Suddenly, she heard a great shout and the sound of hooves.</passage>
+		<passage id="p.passage_4" imagename="sentence">A cow was running through the market!</passage>
+		<passage id="p.passage_5" imagename="sentence">It ran all over the place.</passage>
+		<passage id="p.passage_6" imagename="sentence">It knocked over the stalls.</passage>
+		<passage id="p.passage_7" imagename="sentence">There were apples and oranges and beans on the ground.</passage>
+		<passage id="p.passage_8" imagename="sentence">Finally, the farmer managed to catch it!</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Berta">Where was Berta?</question>
+		<answer id="q1.answer_1">at the market</answer>
+		<answer id="q1.answer_2">in bed</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="She">Why was Berta buying vegetables?</question>
+		<answer id="q2.answer_1">to make a stew</answer>
+		<answer id="q2.answer_2">to feed the goats</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="A">Why did Berta hear hooves?</question>
+		<answer id="q3.answer_1">A cow was running.</answer>
+		<answer id="q3.answer_2">She was dreaming.</answer>
+		<correct id="q3.correct">4</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="It">What did the cow knock on the floor?</question>
+		<answer id="q4.answer_1">apples, oranges and beans</answer>
+		<answer id="q4.answer_2">apples, bananas and coconuts</answer>
+		<correct id="q4.correct">6,7</correct>
+	</qu>
+	<qu id="q5.qu">
+		<question id="q5.question" imagename="Finally,">Who caught the cow?</question>
+		<answer id="q5.answer_1">the farmer</answer>
+		<answer id="q5.answer_2">Berta</answer>
+		<correct id="q5.correct">8</correct>
+	</qu>
+</cq>
+</root>

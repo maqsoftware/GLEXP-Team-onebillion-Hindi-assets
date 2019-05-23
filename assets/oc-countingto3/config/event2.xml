@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="2a,2b,2c,2d,2e,2f,2g,2h" colour_brown="150,79,32" colour_pink="255,95,225" colour_teal="57,241,218" colour_blue="0,104,255" colour_purple="180,38,255" colour_orange="255,109,0" colour_light_blue="0,225,255" colour_black="25,25,25" colour_red="255,0,0" colour_grey="153,153,153" colour_yellow="255,230,0" colour_green="12,226,0" gradienttop="224,255,180" gradientbottom="224,255,180" >
+		<image id="2e" pos="0.501976,0.50057" src="2e" zpos="0" />
+	</event>
+	<event id="2a" redraw="true" colours="red,green,yellow" >
+		<vector id="colour_paper" pos="0.420898,0.516281" src="colour_paper" zpos="2" />
+		<vector id="obj_1" pos="0.196753,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.004" />
+		<vector id="obj_2" pos="0.48681,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.005" />
+		<vector id="obj_3" pos="0.77466,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.006" />
+		<vector id="obj_4" pos="0.196753,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.007" />
+		<vector id="obj_5" pos="0.48681,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.008" />
+		<vector id="obj_6" pos="0.77466,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.009" />
+		<vector id="paintpot_1" pos="0.910645,0.556641" src="paintpot" zpos="2.001" />
+		<vector id="paintpot_2" pos="0.910645,0.352493" src="paintpot" zpos="2.002" />
+		<vector id="paintpot_3" pos="0.910645,0.756159" src="paintpot" zpos="2.003" />
+	</event>
+	<event id="2b" redraw="true" colours="red,green,yellow" correctColour="red" correctNumber="2" >
+		<vector id="colour_paper" pos="0.420898,0.516281" src="colour_paper" zpos="2" />
+		<vector id="obj_1" pos="0.196753,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.004" />
+		<vector id="obj_2" pos="0.48681,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.005" />
+		<vector id="obj_3" pos="0.77466,0.289172" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.006" />
+		<vector id="obj_4" pos="0.196753,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.007" />
+		<vector id="obj_5" pos="0.48681,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.008" />
+		<vector id="obj_6" pos="0.77466,0.717322" parent="colour_paper" src="star" scalex="1.8" scaley="1.8" zpos="2.009" />
+		<vector id="paintpot_1" pos="0.910645,0.556641" src="paintpot" zpos="2.001" />
+		<vector id="paintpot_2" pos="0.910645,0.352493" src="paintpot" zpos="2.002" />
+		<vector id="paintpot_3" pos="0.910645,0.756159" src="paintpot" zpos="2.003" />
+	</event>
+	<event id="2c" redraw="false" colours="red,green,yellow" correctColour="yellow" correctNumber="3" >
+	</event>
+	<event id="2d" redraw="false" colours="red,green,yellow" correctColour="green" correctNumber="1" >
+	</event>
+	<event id="2e" redraw="true" colours="pink,green,blue,yellow" correctColour="green" correctNumber="3" >
+		<vector id="colour_paper" pos="0.420898,0.516281" src="colour_paper" zpos="2" />
+		<vector id="obj_1" pos="0.220868,0.201416" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.005" />
+		<vector id="obj_2" pos="0.506328,0.201416" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.006" />
+		<vector id="obj_3" pos="0.788765,0.201416" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.007" />
+		<vector id="obj_4" pos="0.220868,0.506839" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.008" />
+		<vector id="obj_5" pos="0.506328,0.506839" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.009" />
+		<vector id="obj_6" pos="0.788765,0.506839" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.01" />
+		<vector id="obj_7" pos="0.220868,0.808466" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.011" />
+		<vector id="obj_8" pos="0.506328,0.808466" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.012" />
+		<vector id="obj_9" pos="0.788765,0.808466" parent="colour_paper" src="fish" scalex="1.5" scaley="1.5" zpos="2.013" />
+		<vector id="paintpot_1" pos="0.910645,0.655199" src="paintpot" zpos="2.001" />
+		<vector id="paintpot_2" pos="0.910645,0.459186" src="paintpot" zpos="2.002" />
+		<vector id="paintpot_3" pos="0.910645,0.851212" src="paintpot" zpos="2.003" />
+		<vector id="paintpot_4" pos="0.910645,0.263173" src="paintpot" zpos="2.004" />
+	</event>
+	<event id="2f" redraw="false" colours="pink,green,blue,yellow" correctColour="pink" correctNumber="2" >
+	</event>
+	<event id="2g" redraw="false" colours="pink,green,blue,yellow" correctColour="yellow" correctNumber="3" >
+	</event>
+	<event id="2h" redraw="false" colours="pink,green,blue,yellow" correctColour="blue" correctNumber="1" >
+	</event>
+</events>

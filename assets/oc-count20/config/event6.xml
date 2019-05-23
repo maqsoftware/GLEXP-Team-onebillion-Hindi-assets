@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" col0="189,254,113" col1="240,226,254" colline="44,131,202" textsize="59" scenes="6a,6b,6c,6d,6e,6f,6g,6h,6i,6j,6k,6l,6m,6n,6o,6p" colour="255,251,222" >
+		<rectangle id="numberbox" pos="0.500977,0.5" src="numberbox" fill="255,255,255" fillopacity="0.58" zpos="0" x="0.0205078" y="0.375" width="0.960938" height="0.25" />
+	</event>
+	<event id="6a" targetno="12" >
+		<circle id="pos1" pos="0.427876,0.829829" src="pos1" fill="255,0,0" zpos="1" x="0.419971" y="0.81929" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6b" targetno="20" >
+		<circle id="pos1" pos="0.492867,0.880722" src="pos1" fill="255,0,0" zpos="1" x="0.484962" y="0.870183" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6c" targetno="15" >
+		<circle id="pos1" pos="0.678051,0.843007" src="pos1" fill="255,0,0" zpos="1" x="0.670147" y="0.832469" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6d" targetno="1,11" >
+		<circle id="pos1" pos="0.361015,0.853958" src="pos1" fill="255,0,0" zpos="1.001" x="0.353111" y="0.843419" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.635719,0.922791" src="pos2" fill="255,0,0" zpos="1" x="0.627815" y="0.912252" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6e" targetno="4,14" >
+		<circle id="pos1" pos="0.602501,0.928584" src="pos1" fill="255,0,0" zpos="1.001" x="0.594597" y="0.918045" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.330891,0.774429" src="pos2" fill="255,0,0" zpos="1" x="0.322987" y="0.763891" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6f" targetno="9,19" >
+		<circle id="pos1" pos="0.726337,0.795369" src="pos1" fill="255,0,0" zpos="1.001" x="0.718433" y="0.784831" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.362747,0.891902" src="pos2" fill="255,0,0" zpos="1" x="0.354843" y="0.881363" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6g" targetno="3,6,16" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.002" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.246376,0.796967" src="pos2" fill="255,0,0" zpos="1" x="0.238472" y="0.786428" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.508892,0.919317" src="pos3" fill="255,0,0" zpos="1.001" x="0.500988" y="0.908778" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6h" targetno="2,12,19" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.002" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.246376,0.796967" src="pos2" fill="255,0,0" zpos="1" x="0.238472" y="0.786428" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.508892,0.919317" src="pos3" fill="255,0,0" zpos="1.001" x="0.500988" y="0.908778" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6i" targetno="7,10,20" >
+		<circle id="pos1" pos="0.796124,0.741272" src="pos1" fill="255,0,0" zpos="1.002" x="0.788219" y="0.730733" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.231895,0.910624" src="pos2" fill="255,0,0" zpos="1" x="0.223991" y="0.900085" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.510338,0.74619" src="pos3" fill="255,0,0" zpos="1.001" x="0.502434" y="0.735652" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6j" targetno="8,11,19" >
+		<circle id="pos1" pos="0.523369,0.797348" src="pos1" fill="255,0,0" zpos="1.002" x="0.515465" y="0.786809" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.820301,0.872264" src="pos2" fill="255,0,0" zpos="1" x="0.812397" y="0.861725" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.146149,0.891953" src="pos3" fill="255,0,0" zpos="1.001" x="0.138245" y="0.881414" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6k" targetno="11,12,13" >
+		<circle id="pos1" pos="0.719097,0.763184" src="pos1" fill="255,0,0" zpos="1.002" x="0.711193" y="0.752645" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.191826,0.818207" src="pos2" fill="255,0,0" zpos="1" x="0.183922" y="0.807668" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.495857,0.815267" src="pos3" fill="255,0,0" zpos="1.001" x="0.487953" y="0.804728" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6l" targetno="18,19,20" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.002" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.246376,0.796967" src="pos2" fill="255,0,0" zpos="1" x="0.238472" y="0.786428" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.425232,0.87617" src="pos3" fill="255,0,0" zpos="1.001" x="0.417328" y="0.865631" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6m" targetno="13,14,15" >
+		<circle id="pos1" pos="0.755581,0.875539" src="pos1" fill="255,0,0" zpos="1.002" x="0.747677" y="0.865" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.225128,0.838811" src="pos2" fill="255,0,0" zpos="1" x="0.217224" y="0.828273" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.479427,0.772883" src="pos3" fill="255,0,0" zpos="1.001" x="0.471523" y="0.762344" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6n" targetno="1,6,17,20" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.002" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.187012,0.868398" src="pos2" fill="255,0,0" zpos="1" x="0.179108" y="0.857859" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.508892,0.919317" src="pos3" fill="255,0,0" zpos="1.001" x="0.500988" y="0.908778" width="0.0158081" height="0.0210775" />
+		<circle id="pos4" pos="0.343319,0.761637" src="pos4" fill="255,0,0" zpos="1.003" x="0.335415" y="0.751099" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6o" targetno="2,11,14,18" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.003" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.592186,0.744166" src="pos2" fill="255,0,0" zpos="1.001" x="0.584282" y="0.733627" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.221222,0.872019" src="pos3" fill="255,0,0" zpos="1.002" x="0.213318" y="0.861481" width="0.0158081" height="0.0210775" />
+		<circle id="pos4" pos="0.425854,0.857539" src="pos4" fill="255,0,0" zpos="1" x="0.41795" y="0.847" width="0.0158081" height="0.0210775" />
+	</event>
+	<event id="6p" targetno="11,12,13,17" >
+		<circle id="pos1" pos="0.718372,0.861059" src="pos1" fill="255,0,0" zpos="1.003" x="0.710468" y="0.85052" width="0.0158081" height="0.0210775" />
+		<circle id="pos2" pos="0.246376,0.796967" src="pos2" fill="255,0,0" zpos="1.001" x="0.238472" y="0.786428" width="0.0158081" height="0.0210775" />
+		<circle id="pos3" pos="0.508892,0.919317" src="pos3" fill="255,0,0" zpos="1.002" x="0.500988" y="0.908778" width="0.0158081" height="0.0210775" />
+		<circle id="pos4" pos="0.343319,0.761637" src="pos4" fill="255,0,0" zpos="1" x="0.335415" y="0.751099" width="0.0158081" height="0.0210775" />
+	</event>
+</events>

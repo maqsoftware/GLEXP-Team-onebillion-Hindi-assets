@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170308.200348256">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>egrid2_letsdosomewordpractice</phrase>
+			<phrase>egrid2_firstilisten</phrase>
+			<phrase>egrid2_thenitouchthewordiheard</phrase>
+			<phrase>egrid2_likethis</phrase>
+			<phrase>egrid2_areyouready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>egrid2_letsdosomewordpractice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>egrid2_touchthewordyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid2_touchthewordyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid2_touchthewordyouhear</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>egrid2_welldoneyoutouchedeveryword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j,3k" highcol="116,252,255" smalltextsize="59" largetextsize="178" colour="254,254,229" >
+		<image id="numberbox" pos="0.500977,0.838542" src="2_numberbox" zpos="0" hidden="true" />
+		<image id="spaceboxbig" pos="0.388672,0.38151" src="spaceboxbig" zpos="0.002" hidden="true" />
+		<image id="textbox" pos="0.868702,0.417969" src="spaceboxsmall" zpos="0.001" hidden="true" />
+	</event>
+	<event id="3a" col="252,0,135" >
+		<vector id="obj1" pos="0.0980565,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3" />
+		<vector id="obj2" pos="0.297848,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.003" />
+		<vector id="obj3" pos="0.49764,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.006" />
+		<vector id="obj4" pos="0.697431,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.008" />
+		<vector id="obj5" pos="0.897223,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.01" />
+		<vector id="obj6" pos="0.0980565,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.001" />
+		<vector id="obj7" pos="0.297848,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.004" />
+		<vector id="obj8" pos="0.49764,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.007" />
+		<vector id="obj9" pos="0.697431,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.009" />
+		<vector id="obj10" pos="0.897223,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.011" />
+		<vector id="obj11" pos="0.0980565,0.743606" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.002" />
+		<vector id="obj12" pos="0.297848,0.743606" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.005" />
+	</event>
+	<event id="3b" col="252,0,135" >
+		<vector id="obj1" pos="0.0980565,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3" />
+		<vector id="obj2" pos="0.297848,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.002" />
+		<vector id="obj3" pos="0.49764,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.004" />
+		<vector id="obj4" pos="0.697431,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.006" />
+		<vector id="obj5" pos="0.897223,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.008" />
+		<vector id="obj6" pos="0.0980565,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.001" />
+		<vector id="obj7" pos="0.297848,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.003" />
+		<vector id="obj8" pos="0.49764,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.005" />
+		<vector id="obj9" pos="0.697431,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.007" />
+		<vector id="obj10" pos="0.897223,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.009" />
+	</event>
+	<event id="3c" col="252,0,135" >
+		<vector id="obj1" pos="0.0980565,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3" />
+		<vector id="obj2" pos="0.297848,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.003" />
+		<vector id="obj3" pos="0.49764,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.005" />
+		<vector id="obj4" pos="0.697431,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.007" />
+		<vector id="obj5" pos="0.897223,0.227564" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.009" />
+		<vector id="obj6" pos="0.0980565,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.001" />
+		<vector id="obj7" pos="0.297848,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.004" />
+		<vector id="obj8" pos="0.49764,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.006" />
+		<vector id="obj9" pos="0.697431,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.008" />
+		<vector id="obj10" pos="0.897223,0.485585" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.01" />
+		<vector id="obj11" pos="0.0980565,0.743606" parent="spaceboxbig" src="counter" scalex="0.906381" scaley="0.906381" zpos="3.002" />
+	</event>
+	<event id="3d" >
+		<vector id="obj1" pos="0.090106,0.211538" parent="spaceboxbig" src="star" zpos="3.001" />
+		<vector id="obj2" pos="0.309187,0.211538" parent="spaceboxbig" src="star" zpos="3.004" />
+		<vector id="obj3" pos="0.528269,0.211538" parent="spaceboxbig" src="star" zpos="3.002" />
+		<vector id="obj4" pos="0.74735,0.211538" parent="spaceboxbig" src="star" zpos="3.003" />
+		<vector id="obj5" pos="0.966431,0.211538" parent="spaceboxbig" src="star" zpos="3" />
+		<vector id="obj6" pos="0.090106,0.484767" parent="spaceboxbig" src="star" zpos="3.006" />
+		<vector id="obj7" pos="0.309187,0.484767" parent="spaceboxbig" src="star" zpos="3.009" />
+		<vector id="obj8" pos="0.528269,0.484767" parent="spaceboxbig" src="star" zpos="3.007" />
+		<vector id="obj9" pos="0.74735,0.484767" parent="spaceboxbig" src="star" zpos="3.008" />
+		<vector id="obj10" pos="0.966431,0.484767" parent="spaceboxbig" src="star" zpos="3.005" />
+		<vector id="obj11" pos="0.090106,0.757996" parent="spaceboxbig" src="star" zpos="3.01" />
+		<vector id="obj12" pos="0.309187,0.757996" parent="spaceboxbig" src="star" zpos="3.012" />
+		<vector id="obj13" pos="0.528269,0.757996" parent="spaceboxbig" src="star" zpos="3.011" />
+	</event>
+	<event id="3e" >
+		<vector id="obj1" pos="0.090106,0.211538" parent="spaceboxbig" src="star" zpos="3.001" />
+		<vector id="obj2" pos="0.309187,0.211538" parent="spaceboxbig" src="star" zpos="3.004" />
+		<vector id="obj3" pos="0.528269,0.211538" parent="spaceboxbig" src="star" zpos="3.002" />
+		<vector id="obj4" pos="0.74735,0.211538" parent="spaceboxbig" src="star" zpos="3.003" />
+		<vector id="obj5" pos="0.966431,0.211538" parent="spaceboxbig" src="star" zpos="3" />
+		<vector id="obj6" pos="0.090106,0.484767" parent="spaceboxbig" src="star" zpos="3.006" />
+		<vector id="obj7" pos="0.309187,0.484767" parent="spaceboxbig" src="star" zpos="3.009" />
+		<vector id="obj8" pos="0.528269,0.484767" parent="spaceboxbig" src="star" zpos="3.007" />
+		<vector id="obj9" pos="0.74735,0.484767" parent="spaceboxbig" src="star" zpos="3.008" />
+		<vector id="obj10" pos="0.966431,0.484767" parent="spaceboxbig" src="star" zpos="3.005" />
+		<vector id="obj11" pos="0.090106,0.757996" parent="spaceboxbig" src="star" zpos="3.011" />
+		<vector id="obj12" pos="0.309187,0.757996" parent="spaceboxbig" src="star" zpos="3.014" />
+		<vector id="obj13" pos="0.528269,0.757996" parent="spaceboxbig" src="star" zpos="3.012" />
+		<vector id="obj14" pos="0.74735,0.757996" parent="spaceboxbig" src="star" zpos="3.013" />
+		<vector id="obj15" pos="0.966431,0.757996" parent="spaceboxbig" src="star" zpos="3.01" />
+	</event>
+	<event id="3f" >
+		<image id="3f" pos="0.5,0.5" src="3f" zpos="3" />
+		<vector id="obj1" pos="0.188477,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="4" />
+		<vector id="obj2" pos="0.297852,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="4.001" />
+		<vector id="obj3" pos="0.407227,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="4.002" />
+		<vector id="obj4" pos="0.516602,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="4.003" />
+		<vector id="obj5" pos="0.625977,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="4.004" />
+		<vector id="obj6" pos="0.188477,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="4.005" />
+		<vector id="obj7" pos="0.297852,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="4.006" />
+		<vector id="obj8" pos="0.407227,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="4.007" />
+		<vector id="obj9" pos="0.516602,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="4.008" />
+		<vector id="obj10" pos="0.625977,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="4.009" />
+		<vector id="obj11" pos="0.188477,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="4.01" />
+		<vector id="obj12" pos="0.297852,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="4.011" />
+		<vector id="obj13" pos="0.407227,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="4.012" />
+		<vector id="obj14" pos="0.516602,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="4.013" />
+		<vector id="obj15" pos="0.625977,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="4.014" />
+		<vector id="obj16" pos="0.188477,0.570297" src="apple" scalex="1.94" scaley="1.94" zpos="4.015" />
+		<vector id="obj17" pos="0.297852,0.570297" src="apple" scalex="1.94" scaley="1.94" zpos="4.016" />
+		<vector id="obj18" pos="0.407227,0.570297" src="apple" scalex="1.94" scaley="1.94" zpos="4.017" />
+		<vector id="obj19" pos="0.516602,0.570297" src="apple" scalex="1.94" scaley="1.94" zpos="4.018" />
+		<vector id="obj20" pos="0.625977,0.570297" src="apple" scalex="1.94" scaley="1.94" zpos="4.019" />
+	</event>
+	<event id="3g" >
+		<vector id="obj1" pos="0.188477,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="3" />
+		<vector id="obj2" pos="0.297852,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="3.001" />
+		<vector id="obj3" pos="0.407227,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="3.002" />
+		<vector id="obj4" pos="0.516602,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="3.003" />
+		<vector id="obj5" pos="0.625977,0.175781" src="apple" scalex="1.94" scaley="1.94" zpos="3.004" />
+		<vector id="obj6" pos="0.188477,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="3.005" />
+		<vector id="obj7" pos="0.297852,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="3.006" />
+		<vector id="obj8" pos="0.407227,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="3.007" />
+		<vector id="obj9" pos="0.516602,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="3.008" />
+		<vector id="obj10" pos="0.625977,0.307287" src="apple" scalex="1.94" scaley="1.94" zpos="3.009" />
+		<vector id="obj11" pos="0.188477,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="3.01" />
+		<vector id="obj12" pos="0.297852,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="3.011" />
+		<vector id="obj13" pos="0.407227,0.438792" src="apple" scalex="1.94" scaley="1.94" zpos="3.012" />
+	</event>
+	<event id="3h" >
+		<image id="3h" pos="0.5,0.5" src="3h" zpos="3" />
+		<vector id="obj1" pos="0.183105,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4" />
+		<vector id="obj2" pos="0.297363,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.001" />
+		<vector id="obj3" pos="0.411621,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.002" />
+		<vector id="obj4" pos="0.525879,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.003" />
+		<vector id="obj5" pos="0.640137,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.004" />
+		<vector id="obj6" pos="0.183105,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.005" />
+		<vector id="obj7" pos="0.297363,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.006" />
+		<vector id="obj8" pos="0.411621,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.007" />
+		<vector id="obj9" pos="0.525879,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.008" />
+		<vector id="obj10" pos="0.640137,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.009" />
+		<vector id="obj11" pos="0.183105,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.01" />
+		<vector id="obj12" pos="0.297363,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.011" />
+		<vector id="obj13" pos="0.411621,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.012" />
+		<vector id="obj14" pos="0.525879,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.013" />
+		<vector id="obj15" pos="0.640137,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.014" />
+		<vector id="obj16" pos="0.183105,0.599045" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="4.015" />
+	</event>
+	<event id="3i" >
+		<vector id="obj1" pos="0.183105,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3" />
+		<vector id="obj2" pos="0.297363,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.001" />
+		<vector id="obj3" pos="0.411621,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.002" />
+		<vector id="obj4" pos="0.525879,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.003" />
+		<vector id="obj5" pos="0.640137,0.181641" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.004" />
+		<vector id="obj6" pos="0.183105,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.005" />
+		<vector id="obj7" pos="0.297363,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.006" />
+		<vector id="obj8" pos="0.411621,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.007" />
+		<vector id="obj9" pos="0.525879,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.008" />
+		<vector id="obj10" pos="0.640137,0.320775" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.009" />
+		<vector id="obj11" pos="0.183105,0.45991" src="2_chocolate" scalex="0.721687" scaley="0.721687" zpos="3.01" />
+	</event>
+	<event id="3j" >
+		<image id="obj6" pos="0.5,0.5" src="3j" zpos="3" />
+		<vector id="obj1" pos="0.635014,0.450175" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4" />
+		<vector id="obj2" pos="0.412518,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.001" />
+		<vector id="obj3" pos="0.412518,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.002" />
+		<vector id="obj4" pos="0.30127,0.450175" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.003" />
+		<vector id="obj5" pos="0.30127,0.595393" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.004" />
+		<vector id="obj7" pos="0.190022,0.595393" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.005" />
+		<vector id="obj8" pos="0.635014,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.006" />
+		<vector id="obj9" pos="0.635014,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.007" />
+		<vector id="obj10" pos="0.412518,0.450175" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.008" />
+		<vector id="obj13" pos="0.30127,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.009" />
+		<vector id="obj14" pos="0.30127,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.01" />
+		<vector id="obj15" pos="0.190022,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.011" />
+		<vector id="obj17" pos="0.190022,0.450175" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.013" />
+		<vector id="obj18" pos="0.523766,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.012" />
+		<vector id="obj19" pos="0.190022,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.014" />
+		<vector id="obj20" pos="0.523766,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.015" />
+		<vector id="obj21" pos="0.523766,0.450175" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="4.016" />
+	</event>
+	<event id="3k" >
+		<vector id="obj2" pos="0.412518,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3" />
+		<vector id="obj8" pos="0.635014,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.001" />
+		<vector id="obj13" pos="0.30127,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.002" />
+		<vector id="obj14" pos="0.30127,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.003" />
+		<vector id="obj15" pos="0.190022,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.004" />
+		<vector id="obj19" pos="0.190022,0.304957" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.005" />
+		<vector id="obj20" pos="0.523766,0.159739" src="2_biscuit" scalex="0.742426" scaley="0.742426" zpos="3.006" />
+	</event>
+</events>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180105.153953007">
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookitsacountingmachine</phrase>
+			<phrase>4_youwillseethenumbershere</phrase>
+			<phrase>4_nowtouchthehandleandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthehandleandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_six</phrase>
+			<phrase>4_seven</phrase>
+			<phrase>4_eight</phrase>
+			<phrase>4_nine</phrase>
+			<phrase>4_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4a2">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookitsacountingmachine</phrase>
+			<phrase>4_youwillseethenumbershere</phrase>
+			<phrase>4_touchthehandleandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthehandleandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_six</phrase>
+			<phrase>4_seven</phrase>
+			<phrase>4_eight</phrase>
+			<phrase>4_nine</phrase>
+			<phrase>4_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthehandleagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_eleven</phrase>
+			<phrase>4_twelve</phrase>
+			<phrase>4_thirteen</phrase>
+			<phrase>4_fourteen</phrase>
+			<phrase>4_fifteen</phrase>
+			<phrase>4_sixteen</phrase>
+			<phrase>4_seventeen</phrase>
+			<phrase>4_eighteen</phrase>
+			<phrase>4_nineteen</phrase>
+			<phrase>4_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowithinkyouknowwhattodonext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthehandleagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twentyone</phrase>
+			<phrase>4_twentytwo</phrase>
+			<phrase>4_twentythree</phrase>
+			<phrase>4_twentyfour</phrase>
+			<phrase>4_twentyfive</phrase>
+			<phrase>4_twentysix</phrase>
+			<phrase>4_twentyseven</phrase>
+			<phrase>4_twentyeight</phrase>
+			<phrase>4_twentynine</phrase>
+			<phrase>4_thirty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthehandleagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thirtyone</phrase>
+			<phrase>4_thirtytwo</phrase>
+			<phrase>4_thirtythree</phrase>
+			<phrase>4_thirtyfour</phrase>
+			<phrase>4_thirtyfive</phrase>
+			<phrase>4_thirtysix</phrase>
+			<phrase>4_thirtyseven</phrase>
+			<phrase>4_thirtyeight</phrase>
+			<phrase>4_thirtynine</phrase>
+			<phrase>4_forty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fortyone</phrase>
+			<phrase>4_fortytwo</phrase>
+			<phrase>4_fortythree</phrase>
+			<phrase>4_fortyfour</phrase>
+			<phrase>4_fortyfive</phrase>
+			<phrase>4_fortysix</phrase>
+			<phrase>4_fortyseven</phrase>
+			<phrase>4_fortyeight</phrase>
+			<phrase>4_fortynine</phrase>
+			<phrase>4_fifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="DEMO">
+			<phrase>4_itsbreaktime</phrase>
+			<phrase>4_nowitshisturn</phrase>
+			<phrase>4_nowitsherturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthehandleagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fiftyone</phrase>
+			<phrase>4_fiftytwo</phrase>
+			<phrase>4_fiftythree</phrase>
+			<phrase>4_fiftyfour</phrase>
+			<phrase>4_fiftyfive</phrase>
+			<phrase>4_fiftysix</phrase>
+			<phrase>4_fiftyseven</phrase>
+			<phrase>4_fiftyeight</phrase>
+			<phrase>4_fiftynine</phrase>
+			<phrase>4_sixty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sixtyone</phrase>
+			<phrase>4_sixtytwo</phrase>
+			<phrase>4_sixtythree</phrase>
+			<phrase>4_sixtyfour</phrase>
+			<phrase>4_sixtyfive</phrase>
+			<phrase>4_sixtysix</phrase>
+			<phrase>4_sixtyseven</phrase>
+			<phrase>4_sixtyeight</phrase>
+			<phrase>4_sixtynine</phrase>
+			<phrase>4_seventy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_seventyone</phrase>
+			<phrase>4_seventytwo</phrase>
+			<phrase>4_seventythree</phrase>
+			<phrase>4_seventyfour</phrase>
+			<phrase>4_seventyfive</phrase>
+			<phrase>4_seventysix</phrase>
+			<phrase>4_seventyseven</phrase>
+			<phrase>4_seventyeight</phrase>
+			<phrase>4_seventynine</phrase>
+			<phrase>4_eighty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_eightyone</phrase>
+			<phrase>4_eightytwo</phrase>
+			<phrase>4_eightythree</phrase>
+			<phrase>4_eightyfour</phrase>
+			<phrase>4_eightyfive</phrase>
+			<phrase>4_eightysix</phrase>
+			<phrase>4_eightyseven</phrase>
+			<phrase>4_eightyeight</phrase>
+			<phrase>4_eightynine</phrase>
+			<phrase>4_ninety</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthehandleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ninetyone</phrase>
+			<phrase>4_ninetytwo</phrase>
+			<phrase>4_ninetythree</phrase>
+			<phrase>4_ninetyfour</phrase>
+			<phrase>4_ninetyfive</phrase>
+			<phrase>4_ninetysix</phrase>
+			<phrase>4_ninetyseven</phrase>
+			<phrase>4_ninetyeight</phrase>
+			<phrase>4_ninetynine</phrase>
+			<phrase>4_onehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_goodwehavereachedonehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowletspractisecountingtoonehundred</phrase>
+			<phrase>4_touchthescreenonceandcountalong</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthescreenonceandcountalong</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_six</phrase>
+			<phrase>4_seven</phrase>
+			<phrase>4_eight</phrase>
+			<phrase>4_nine</phrase>
+			<phrase>4_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_eleven</phrase>
+			<phrase>4_twelve</phrase>
+			<phrase>4_thirteen</phrase>
+			<phrase>4_fourteen</phrase>
+			<phrase>4_fifteen</phrase>
+			<phrase>4_sixteen</phrase>
+			<phrase>4_seventeen</phrase>
+			<phrase>4_eighteen</phrase>
+			<phrase>4_nineteen</phrase>
+			<phrase>4_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowgetmorenumbersallthewaytoonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twentyone</phrase>
+			<phrase>4_twentytwo</phrase>
+			<phrase>4_twentythree</phrase>
+			<phrase>4_twentyfour</phrase>
+			<phrase>4_twentyfive</phrase>
+			<phrase>4_twentysix</phrase>
+			<phrase>4_twentyseven</phrase>
+			<phrase>4_twentyeight</phrase>
+			<phrase>4_twentynine</phrase>
+			<phrase>4_thirty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thirtyone</phrase>
+			<phrase>4_thirtytwo</phrase>
+			<phrase>4_thirtythree</phrase>
+			<phrase>4_thirtyfour</phrase>
+			<phrase>4_thirtyfive</phrase>
+			<phrase>4_thirtysix</phrase>
+			<phrase>4_thirtyseven</phrase>
+			<phrase>4_thirtyeight</phrase>
+			<phrase>4_thirtynine</phrase>
+			<phrase>4_forty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fortyone</phrase>
+			<phrase>4_fortytwo</phrase>
+			<phrase>4_fortythree</phrase>
+			<phrase>4_fortyfour</phrase>
+			<phrase>4_fortyfive</phrase>
+			<phrase>4_fortysix</phrase>
+			<phrase>4_fortyseven</phrase>
+			<phrase>4_fortyeight</phrase>
+			<phrase>4_fortynine</phrase>
+			<phrase>4_fifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fiftyone</phrase>
+			<phrase>4_fiftytwo</phrase>
+			<phrase>4_fiftythree</phrase>
+			<phrase>4_fiftyfour</phrase>
+			<phrase>4_fiftyfive</phrase>
+			<phrase>4_fiftysix</phrase>
+			<phrase>4_fiftyseven</phrase>
+			<phrase>4_fiftyeight</phrase>
+			<phrase>4_fiftynine</phrase>
+			<phrase>4_sixty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sixtyone</phrase>
+			<phrase>4_sixtytwo</phrase>
+			<phrase>4_sixtythree</phrase>
+			<phrase>4_sixtyfour</phrase>
+			<phrase>4_sixtyfive</phrase>
+			<phrase>4_sixtysix</phrase>
+			<phrase>4_sixtyseven</phrase>
+			<phrase>4_sixtyeight</phrase>
+			<phrase>4_sixtynine</phrase>
+			<phrase>4_seventy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_seventyone</phrase>
+			<phrase>4_seventytwo</phrase>
+			<phrase>4_seventythree</phrase>
+			<phrase>4_seventyfour</phrase>
+			<phrase>4_seventyfive</phrase>
+			<phrase>4_seventysix</phrase>
+			<phrase>4_seventyseven</phrase>
+			<phrase>4_seventyeight</phrase>
+			<phrase>4_seventynine</phrase>
+			<phrase>4_eighty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4u">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_eightyone</phrase>
+			<phrase>4_eightytwo</phrase>
+			<phrase>4_eightythree</phrase>
+			<phrase>4_eightyfour</phrase>
+			<phrase>4_eightyfive</phrase>
+			<phrase>4_eightysix</phrase>
+			<phrase>4_eightyseven</phrase>
+			<phrase>4_eightyeight</phrase>
+			<phrase>4_eightynine</phrase>
+			<phrase>4_ninety</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4v">
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ninetyone</phrase>
+			<phrase>4_ninetytwo</phrase>
+			<phrase>4_ninetythree</phrase>
+			<phrase>4_ninetyfour</phrase>
+			<phrase>4_ninetyfive</phrase>
+			<phrase>4_ninetysix</phrase>
+			<phrase>4_ninetyseven</phrase>
+			<phrase>4_ninetyeight</phrase>
+			<phrase>4_ninetynine</phrase>
+			<phrase>4_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_greatwecountedtoonehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="step">
+			<phrase>footstep</phrase>
+		</phrasegroup>
+		<phrasegroup id="pipe">
+			<phrase>wall_slide_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="marble">
+			<phrase>click_short_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alarm">
+			<phrase>factory_alarm_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="fin">
+			<phrase>factory_alarm_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="container">
+			<phrase>plastic_clack</phrase>
+		</phrasegroup>
+		<phrasegroup id="handle1">
+			<phrase>machine_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="end">
+			<phrase>chime_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="handle2">
+			<phrase>machine_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note5">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note6">
+			<phrase>note_beepey_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="note7">
+			<phrase>note_beepey_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="note8">
+			<phrase>note_beepey_8</phrase>
+		</phrasegroup>
+		<phrasegroup id="note9">
+			<phrase>note_beepey_9</phrase>
+		</phrasegroup>
+		<phrasegroup id="note10">
+			<phrase>note_beepey_10</phrase>
+		</phrasegroup>
+		<phrasegroup id="lastnum">
+			<phrase>alert_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

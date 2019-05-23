@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170809.170200524">
+	<event id="lock">
+		<phrasegroup id="DEMO">
+			<phrase>sz_goodbutitsgettinglatenowourtimeisupfortodayseeyoutomorrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="battery">
+		<phrasegroup id="DEMO">
+			<phrase>sz_yourtabletisrunningoutofcharge</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sz_pleasetakeyourtablettobechargedassoonasyoucan</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="chime">
+			<phrase>piano_scale</phrase>
+		</phrasegroup>
+	</event>
+</audio>

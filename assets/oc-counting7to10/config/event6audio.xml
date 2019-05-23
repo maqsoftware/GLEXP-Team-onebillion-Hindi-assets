@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_sevenspotsonthefrog</phrase>
+			<phrase>6_seven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_youtry</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_seven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowwriteitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="DEMO">
+			<phrase>6_eightspotsonthebutterfly</phrase>
+			<phrase>6_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_youtry</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowwriteitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_ninespotsonthecat</phrase>
+			<phrase>6_nine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_youtry</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_nine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowwriteitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="DEMO">
+			<phrase>6_tenspotsonthefish</phrase>
+			<phrase>6_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_youtry</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowwriteitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldoneyoutracedthenumbersseveneightnineandten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

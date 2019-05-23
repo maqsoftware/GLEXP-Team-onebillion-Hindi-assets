@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_nofrogsonthisrock</phrase>
+			<phrase>4_zero</phrase>
+			<phrase>4_onefrog</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_twofrogs</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_threefrogs</phrase>
+			<phrase>4_three</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_twofrogs</phrase>
+			<phrase>4_two</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_nofrogszero</phrase>
+			<phrase>4_onefrog</phrase>
+			<phrase>4_twofrogs</phrase>
+			<phrase>4_threefrogs</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_lookatthebirdsonthebranches</phrase>
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_nobirdszero</phrase>
+			<phrase>4_onebird</phrase>
+			<phrase>4_twobirds</phrase>
+			<phrase>4_threebirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_lookattheladybirdsontheleaves</phrase>
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_noladybirdszero</phrase>
+			<phrase>4_oneladybird</phrase>
+			<phrase>4_twoladybirds</phrase>
+			<phrase>4_threeladybirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_onethingforthe1box</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_putthingsintheboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthingsintheboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_onlyonethingisnotinabox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowputthingsintheseboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthingsintheboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_noweverythingisinabox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_dothesameforthesethings</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthingsintheboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_everythingisinabox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowdothese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_putthingsintheboxestomatchthenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_everythingisinabox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_welldoneyoucountedthingsandmatchedthemtothenumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="selectColour">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="colourObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="dropObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_spin">
+			<phrase>wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_stop">
+			<phrase>wheel_stop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

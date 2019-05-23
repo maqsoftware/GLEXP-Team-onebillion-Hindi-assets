@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="358px" height="637px" viewBox = "0 0 358 637">
+<defs>
+<linearGradient id="Gradient6_0" >
+	<stop offset="0%" stop-color="rgb(100%,100%,100%)" stop-opacity="0.214074"/>
+	<stop offset="46.5379%" stop-color="rgb(100%,100%,100%)" stop-opacity="1"/>
+	<stop offset="100%" stop-color="rgb(100%,100%,100%)" stop-opacity="0.253564"/>
+</linearGradient>
+</defs>
+<g transform="translate(0,637) scale(1,-1)">
+	<g id="glassback" >
+		<path id="glass back" d="M342.5 598.9c-4.09-4.87-19.9-9.58-47.3-13.3c-64.5-8.79-169-8.79-234 0c-31.4 4.28-47.5 9.85-48.3 15.4c-0.554-0.00433-0.555-0.00433-0.555-0.00433c0 0 52.3-555 52.1-556c0-17.4 50.5-31.6 113-31.6c62.3 0 113 13.9 113 31.4c-0.314-0.658 51.9 549 52.3 554ZM342.9 603.9c-0.000134-0.000507-0.000847-0.00102-0.273-0.00323c0.112-0.104 0.188-0.208 0.244-0.313c0.0299 0.316 0.0299 0.316 0.0298 0.316Z" stroke="none" fill="rgb(100%,100%,100%)" fill-opacity="0.697479"  />
+	</g>
+	<g id="liquid high" >
+		<path id="Path10" d="M20.87 535.6L20.11 521c6.46-68.4 44.7-475 44.6-476c0-17.4 50.5-31.6 113-31.6c62.3 0 113 13.9 113 31.4c-0.278-0.584 40.9 433 46.4 492c-4.64 9.97-73.5 17.9-158 17.9c-87.3 0-158-8.49-158-19Z" stroke="none" fill="rgb(99.6%,66.5%,22.4%)"  />
+		<path id="Circle4" d="M336.9 535.6c0 10.5-70.7 19-158 19c-87.3 0-158-8.49-158-19c0-10.5 70.7-19 158-19c87.3 0 158 8.49 158 19Z" stroke="rgb(0%,0%,0%)" stroke-width="3" stroke-opacity="0.583485" fill="rgb(100%,100%,100%)" fill-opacity="0.444514" opacity="0.769404"  />
+	</g>
+	<g id="glass" >
+		<path id="main glass" d="M12.59 601.1c0 0 52.3-555 52.1-556c0-17.4 50.5-31.6 113-31.6c62.3 0 113 13.9 113 31.4c-0.316-0.664 52.9 559 52.8 559" stroke="rgb(0%,0%,0%)" stroke-width="3" fill="none"  />
+		<path id="glass top" d="M295.2 585.6c64.5 8.79 64.5 23 0 31.8c-64.5 8.79-169 8.79-234 0c-64.5-8.79-64.5-23 0-31.8c64.5-8.79 169-8.79 234 0" stroke="rgb(0%,0%,0%)" stroke-width="3" fill="rgb(100%,100%,100%)" fill-opacity="0.444514"  />
+	</g>
+	<g id="reflections" >
+		<path id="Path6" d="M38.18 549.4L73.12 544.7L75.75 94.67L38.18 549.4Z" stroke="none" fill="rgb(100%,100%,100%)" fill-opacity="0.444514"  />
+		<path id="Path7" d="M319.1 557.9L282.2 43.65L255.9 33.29L289.5 548.8L319.1 557.9Z" stroke="none" fill="url(#Gradient6_0)" opacity="0.717959"  />
+	</g>
+</g>
+</svg>

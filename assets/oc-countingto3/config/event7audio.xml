@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>7_touchthisredbutton</phrase>
+			<phrase>7_touchtheredbuttonagain</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_trythebuttonagain</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_touchthebuttononelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_touchtheredbutton</phrase>
+			<phrase>7_touchtheredbuttonagain</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_trythebuttonagain</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_touchthebutton</phrase>
+			<phrase>7_touchthebuttononelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>7_nowtracethenumber</phrase>
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>7_nowtracethenumber</phrase>
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>7_three</phrase>
+			<phrase>7_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>7_zero</phrase>
+			<phrase>7_one</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_goodyoupracticedwritingzeroonetwoandthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="selectColour">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="colourObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="dropObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_spin">
+			<phrase>wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_stop">
+			<phrase>wheel_stop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

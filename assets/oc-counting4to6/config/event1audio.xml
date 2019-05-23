@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_fourbluebeadsonawire</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_fiveyellowbeadsonawire</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_sixpinkbeadsonawire</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_touchthewirewithfourbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthewirewithfourbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_fourbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_touchthewirewithfourbeads</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchthewirewithfivebeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthewirewithfivebeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_fivebeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_touchthewirewithfivebeads</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchthewirewithsixbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthewirewithsixbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_sixbeads</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_touchthewirewithsixbeads</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowchoosetheshelfwithsixcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosetheshelfwithsixcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_sixcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheshelfwithsixcups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheshelfwithfourcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosetheshelfwithfourcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_fourcups</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheshelfwithfourcups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheshelfwithfivecups</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosetheshelfwithfivecups</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_fivecups</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheshelfwithfivecups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetraywithfourcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosethetraywithfourcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_fourcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetraywithfourcakes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetraywithsixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosethetraywithsixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_sixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetraywithsixcakes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetraywithfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosethetraywithfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_fivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetraywithfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_verygoodyouchosetherightthingstomatchfourfiveandsix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

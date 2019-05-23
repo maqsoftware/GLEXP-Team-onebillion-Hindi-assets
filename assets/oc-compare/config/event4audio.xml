@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170627.215644821">
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthebowlsofrice</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_thisonehasmorerice</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>4_thisonehaslessrice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_whichbowlhasmorerice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichbowlhasmorerice</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichbowlhasmorerice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichdishhaslessicecream</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichdishhaslessicecream</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichdishhaslessicecream</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichplatehasmorecake</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichplatehasmorecake</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichplatehasmorecake</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichplatehaslesspizza</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichplatehaslesspizza</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichplatehaslesspizza</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichdishhasmosticecream</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichdishhasmosticecream</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichdishhasmosticecream</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichbowlhasleastsoup</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichbowlhasleastsoup</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichbowlhasleastsoup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichglasshasmostjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichglasshasmostjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichglasshasmostjuice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichjugcanholdmostmilk</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichjugcanholdmostmilk</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichjugcanholdmostmilk</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichplatehasleastfood</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichplatehasleastfood</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichplatehasleastfood</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichtwoglasseshavethesameamountofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichtwoglasseshavethesameamountofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichtwoglasseshavethesameamountofjuice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichtwoplateshavethesameamountofpizza</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichtwoplateshavethesameamountofpizza</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichtwoplateshavethesameamountofpizza</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowdragtheseglassesintoordertheonewithmostjuicefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_dragtheglassesintoorderfrommosttoleastjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_dragtheglassesintoorderfrommosttoleastjuice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_putthedishesinordertheonewithleastjellyfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_putthedishesinorderfromleasttomostjelly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_putthedishesinorderfromleasttomostjelly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT">
+			<phrase>4_puttheplatesinordertheonewithleastcakefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_puttheplatesinorderfromleasttomostcake</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_puttheplatesinorderfromleasttomostcake</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_welldoneyouchosemoreandlessandmostandleastandyouputthingsinorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

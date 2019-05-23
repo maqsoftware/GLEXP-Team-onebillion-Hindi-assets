@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171201.084859866">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>2_letspracticecounting</phrase>
+			<phrase>2_thisshowshowmanypeasareinthejar</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_thesepeasareintwos</phrase>
+			<phrase>2_thesepeasareinfives</phrase>
+			<phrase>2_thesepeasareintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>2_youmustdragallthepeastothejar</phrase>
+			<phrase>2_andcountbyyourself</phrase>
+			<phrase>2_getready</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthepeastothejarandcountbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_letssee</phrase>
+			<phrase>2_thejarhadthismanypeas</phrase>
+			<phrase>2_youdraggedallthese</phrase>
+			<phrase>2_nowlookandlisten</phrase>
+			<phrase>2_thisisthecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>2_howmanypeasareinthejar</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowdragthesepeastothejarandkeepcounting</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_letssee</phrase>
+			<phrase>2_thejarhadthismanypeas</phrase>
+			<phrase>2_youdraggedallthese</phrase>
+			<phrase>2_nowlookandlisten</phrase>
+			<phrase>2_thisisthecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>2_howmanypeasareinthejar</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowdragthesepeastothejarandcount</phrase>
+			<phrase>2_rememberwearestartingfromthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_howmanypeasareinthejarnow</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_letssee</phrase>
+			<phrase>2_thejarhadthismanypeas</phrase>
+			<phrase>2_youdraggedallthese</phrase>
+			<phrase>2_nowlookandlisten</phrase>
+			<phrase>2_thisisthecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>2_howmanypeasareinthejar</phrase>
+			<phrase>2_choosethecorrectnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="end">
+		<phrasegroup id="DEMO">
+			<phrase>2_goodwepractisedcounting</phrase>
+			<phrase>2_goodwepractisedcountingintwos</phrase>
+			<phrase>2_goodwepractisedcountinginfives</phrase>
+			<phrase>2_goodwepractisedcountingintens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="into_jar">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_on">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_final">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="peas_out">
+			<phrase>beetle_wings_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>sandpaper_scrape_long</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_off">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+		<phrasegroup id="label_on">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_off">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="target_on">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch_arrow">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="success">
+			<phrase>chime_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_increment">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_decrement">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="warning">
+			<phrase>cf_snare</phrase>
+		</phrasegroup>
+	</event>
+</audio>

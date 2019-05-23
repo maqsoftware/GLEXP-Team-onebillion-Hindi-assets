@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="1a,1b,1c,1d" scenes2="1e,1f,1g,1h,1i,1j,1k,1l,1m,1n" colour="254,254,222" >
+		<rectangle id="background_control" pos="0.500965,0.49733" src="background_control" fill="235,251,253" stroke="0,0,0" strokewidth="1" zpos="0" hidden="true" widthtracksheight="true" x="0.0151634" y="0.0154928" width="0.971603" height="0.963674" pxwidth="994.922" pxheight="740.102" />
+		<rectangle id="number" pos="0.856537,0.450244" src="number" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.001" text="100" x="0.735237" y="0.32106" width="0.242599" height="0.258367" />
+	</event>
+	<event id="1a" sound="add_bird" colour="254,254,222" >
+		<group id="group_1"  pos="0.416632,0.0903066" src="group_1" zpos="2">
+			<vector id="object_4" pos="0.384537,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.002" scheme="bird blue" />
+			<vector id="object_8" pos="0.327208,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.006" scheme="bird blue" />
+			<vector id="object_9" pos="0.441866,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.007" scheme="bird blue" />
+			<vector id="object_16" pos="0.613853,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.004" scheme="bird blue" />
+			<vector id="object_17" pos="0.26988,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.001" scheme="bird blue" />
+			<vector id="object_22" pos="0.212551,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.005" scheme="bird blue" />
+			<vector id="object_25" pos="0.556524,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.008" scheme="bird blue" />
+			<vector id="object_26" pos="0.671182,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.009" scheme="bird blue" />
+			<vector id="object_30" pos="0.155222,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2" scheme="bird blue" />
+			<vector id="object_35" pos="0.499195,0.077634" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.003" scheme="bird blue" />
+		</group>
+		<group id="group_2"  pos="0.416632,0.184057" src="group_2" zpos="2.002">
+			<vector id="object_3" pos="0.212551,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.005" scheme="bird blue" />
+			<vector id="object_6" pos="0.671182,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.009" scheme="bird blue" />
+			<vector id="object_10" pos="0.26988,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.001" scheme="bird blue" />
+			<vector id="object_11" pos="0.327208,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.006" scheme="bird blue" />
+			<vector id="object_19" pos="0.613853,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.004" scheme="bird blue" />
+			<vector id="object_20" pos="0.155222,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2" scheme="bird blue" />
+			<vector id="object_23" pos="0.441866,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.007" scheme="bird blue" />
+			<vector id="object_24" pos="0.499195,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.003" scheme="bird blue" />
+			<vector id="object_32" pos="0.556524,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.008" scheme="bird blue" />
+			<vector id="object_36" pos="0.384537,0.174918" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.002" scheme="bird blue" />
+		</group>
+		<group id="group_3"  pos="0.416632,0.277807" src="group_3" zpos="2.004">
+			<vector id="object_2" pos="0.671182,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.009" scheme="bird blue" />
+			<vector id="object_5" pos="0.26988,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.001" scheme="bird blue" />
+			<vector id="object_7" pos="0.499195,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.003" scheme="bird blue" />
+			<vector id="object_21" pos="0.384537,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.002" scheme="bird blue" />
+			<vector id="object_27" pos="0.155222,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2" scheme="bird blue" />
+			<vector id="object_28" pos="0.441866,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.007" scheme="bird blue" />
+			<vector id="object_29" pos="0.613853,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.004" scheme="bird blue" />
+			<vector id="object_33" pos="0.327208,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.006" scheme="bird blue" />
+			<vector id="object_34" pos="0.212551,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.005" scheme="bird blue" />
+			<vector id="object_39" pos="0.556524,0.272202" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.008" scheme="bird blue" />
+		</group>
+		<group id="group_4"  pos="0.416632,0.371557" src="group_4" zpos="2.006">
+			<vector id="object_1" pos="0.556524,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.008" scheme="bird blue" />
+			<vector id="object_12" pos="0.613853,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.004" scheme="bird blue" />
+			<vector id="object_13" pos="0.212551,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.005" scheme="bird blue" />
+			<vector id="object_14" pos="0.327208,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.006" scheme="bird blue" />
+			<vector id="object_15" pos="0.671182,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.009" scheme="bird blue" />
+			<vector id="object_18" pos="0.499195,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.003" scheme="bird blue" />
+			<vector id="object_31" pos="0.441866,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.007" scheme="bird blue" />
+			<vector id="object_37" pos="0.155222,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2" scheme="bird blue" />
+			<vector id="object_38" pos="0.26988,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.001" scheme="bird blue" />
+			<vector id="object_40" pos="0.384537,0.369486" parent="background_control" src="bird" scalex="0.5" scaley="0.5" zpos="2.002" scheme="bird blue" />
+		</group>
+		<path id="line_1" pos="0.411755,0.105528" parent="background_control" src="line_1" fill="235,251,253" stroke="100,59,8" strokewidth="5" linecap="round" linejoin="round" zpos="2.001" d="M0.115241 0.105528L0.708269 0.105528" />
+		<path id="line_2" pos="0.411755,0.202812" parent="background_control" src="line_2" fill="235,251,253" stroke="100,59,8" strokewidth="5" linecap="round" linejoin="round" zpos="2.003" d="M0.115241 0.202812L0.708269 0.202812" />
+		<path id="line_3" pos="0.411755,0.300096" parent="background_control" src="line_3" fill="235,251,253" stroke="100,59,8" strokewidth="5" linecap="round" linejoin="round" zpos="2.005" d="M0.115241 0.300096L0.708269 0.300096" />
+		<path id="line_4" pos="0.411755,0.39738" parent="background_control" src="line_4" fill="235,251,253" stroke="100,59,8" strokewidth="5" linecap="round" linejoin="round" zpos="2.007" d="M0.115241 0.39738L0.708269 0.39738" />
+	</event>
+	<event id="1b" sound="add_frog" >
+		<group id="group_1"  pos="0.416632,0.0903066" src="group_1" zpos="2">
+			<vector id="object_1" pos="0.155222,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_2" pos="0.26988,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_3" pos="0.384537,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+			<vector id="object_4" pos="0.499195,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_5" pos="0.613853,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_6" pos="0.212551,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_7" pos="0.327208,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_8" pos="0.441866,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_9" pos="0.556524,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+			<vector id="object_10" pos="0.671182,0.077634" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+		</group>
+		<group id="group_2"  pos="0.416632,0.184057" src="group_2" zpos="2.002">
+			<vector id="object_11" pos="0.327208,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_12" pos="0.155222,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_13" pos="0.613853,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_14" pos="0.212551,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_15" pos="0.26988,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_16" pos="0.499195,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_17" pos="0.441866,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_18" pos="0.556524,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+			<vector id="object_19" pos="0.671182,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+			<vector id="object_20" pos="0.384537,0.174918" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+		</group>
+		<group id="group_3"  pos="0.416632,0.277807" src="group_3" zpos="2.004">
+			<vector id="object_21" pos="0.155222,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_22" pos="0.26988,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_23" pos="0.499195,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_24" pos="0.671182,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+			<vector id="object_25" pos="0.212551,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_26" pos="0.613853,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_27" pos="0.384537,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+			<vector id="object_28" pos="0.441866,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_29" pos="0.327208,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_30" pos="0.556524,0.272202" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+		</group>
+		<group id="group_4"  pos="0.416632,0.371557" src="group_4" zpos="2.006">
+			<vector id="object_31" pos="0.26988,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_32" pos="0.556524,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+			<vector id="object_33" pos="0.155222,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_34" pos="0.212551,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_35" pos="0.613853,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_36" pos="0.499195,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_37" pos="0.327208,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_38" pos="0.441866,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_39" pos="0.671182,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+			<vector id="object_40" pos="0.384537,0.369486" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+		</group>
+		<group id="group_5"  pos="0.416632,0.465307" src="group_5" zpos="2.008">
+			<vector id="object_41" pos="0.155222,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_42" pos="0.384537,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+			<vector id="object_43" pos="0.327208,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_44" pos="0.212551,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_45" pos="0.613853,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_46" pos="0.26988,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_47" pos="0.499195,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_48" pos="0.441866,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_49" pos="0.556524,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+			<vector id="object_50" pos="0.671182,0.46677" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+		</group>
+		<group id="group_6"  pos="0.416632,0.559057" src="group_6" zpos="2.01">
+			<vector id="object_51" pos="0.155222,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2" />
+			<vector id="object_52" pos="0.613853,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.004" />
+			<vector id="object_53" pos="0.327208,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.006" />
+			<vector id="object_54" pos="0.384537,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.002" />
+			<vector id="object_55" pos="0.499195,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.003" />
+			<vector id="object_56" pos="0.212551,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.005" />
+			<vector id="object_57" pos="0.441866,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.007" />
+			<vector id="object_58" pos="0.556524,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.008" />
+			<vector id="object_59" pos="0.26988,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.001" />
+			<vector id="object_60" pos="0.671182,0.564054" parent="background_control" src="frog" scalex="0.4" scaley="0.4" zpos="2.009" />
+		</group>
+		<path id="line_1" pos="0.411755,0.105528" parent="background_control" src="line_1" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.001" d="M0.115241 0.105528L0.708269 0.105528" />
+		<path id="line_2" pos="0.411755,0.202812" parent="background_control" src="line_2" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.003" d="M0.115241 0.202812L0.708269 0.202812" />
+		<path id="line_3" pos="0.411755,0.300096" parent="background_control" src="line_3" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.005" d="M0.115241 0.300096L0.708269 0.300096" />
+		<path id="line_4" pos="0.411755,0.39738" parent="background_control" src="line_4" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.007" d="M0.115241 0.39738L0.708269 0.39738" />
+		<path id="line_5" pos="0.411755,0.494664" parent="background_control" src="line_5" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.009" d="M0.115241 0.494664L0.708269 0.494664" />
+		<path id="line_6" pos="0.411755,0.591948" parent="background_control" src="line_6" fill="235,251,253" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.011" d="M0.115241 0.591948L0.708269 0.591948" />
+	</event>
+	<event id="1c" sound="add_flower" >
+		<group id="group_1"  pos="0.416632,0.0837962" src="group_1" zpos="2">
+			<vector id="object_61" pos="0.155222,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_62" pos="0.26988,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_63" pos="0.384537,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_64" pos="0.499195,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_65" pos="0.613853,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_66" pos="0.212551,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_67" pos="0.327208,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_68" pos="0.441866,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_69" pos="0.556524,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_70" pos="0.671182,0.0708782" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_2"  pos="0.416632,0.177546" src="group_2" zpos="2.002">
+			<vector id="object_31" pos="0.155222,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_32" pos="0.26988,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_33" pos="0.384537,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_34" pos="0.499195,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_35" pos="0.613853,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_36" pos="0.212551,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_37" pos="0.327208,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_38" pos="0.441866,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_39" pos="0.556524,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_40" pos="0.671182,0.168162" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_3"  pos="0.416632,0.271296" src="group_3" zpos="2.004">
+			<vector id="object_51" pos="0.155222,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_52" pos="0.26988,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_53" pos="0.384537,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_54" pos="0.499195,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_55" pos="0.613853,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_56" pos="0.212551,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_57" pos="0.327208,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_58" pos="0.441866,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_59" pos="0.556524,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_60" pos="0.671182,0.265446" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_4"  pos="0.416632,0.366348" src="group_4" zpos="2.006">
+			<vector id="object_21" pos="0.155222,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_22" pos="0.26988,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_23" pos="0.384537,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_24" pos="0.499195,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_25" pos="0.613853,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_26" pos="0.212551,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_27" pos="0.327208,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_28" pos="0.441866,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_29" pos="0.556524,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_30" pos="0.671182,0.364081" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_5"  pos="0.416632,0.460098" src="group_5" zpos="2.008">
+			<vector id="object_1" pos="0.155222,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_2" pos="0.26988,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_3" pos="0.384537,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_4" pos="0.499195,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_5" pos="0.613853,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_6" pos="0.212551,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_7" pos="0.327208,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_8" pos="0.441866,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_9" pos="0.556524,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_10" pos="0.671182,0.461365" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_6"  pos="0.416632,0.553848" src="group_6" zpos="2.01">
+			<vector id="object_11" pos="0.155222,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_12" pos="0.26988,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_13" pos="0.384537,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_14" pos="0.499195,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_15" pos="0.613853,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_16" pos="0.212551,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_17" pos="0.327208,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_18" pos="0.441866,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_19" pos="0.556524,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_20" pos="0.671182,0.558649" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_7"  pos="0.416632,0.647598" src="group_7" zpos="2.012">
+			<vector id="object_41" pos="0.155222,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_42" pos="0.26988,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_43" pos="0.384537,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+			<vector id="object_44" pos="0.499195,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_45" pos="0.613853,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_46" pos="0.212551,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_47" pos="0.327208,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_48" pos="0.441866,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_49" pos="0.556524,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_50" pos="0.671182,0.655933" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+		</group>
+		<group id="group_8"  pos="0.416632,0.741348" src="group_8" zpos="2.014">
+			<vector id="object_71" pos="0.327208,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.006" />
+			<vector id="object_72" pos="0.613853,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.004" />
+			<vector id="object_73" pos="0.212551,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.005" />
+			<vector id="object_74" pos="0.556524,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.008" />
+			<vector id="object_75" pos="0.671182,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.009" />
+			<vector id="object_76" pos="0.155222,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2" />
+			<vector id="object_77" pos="0.441866,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.007" />
+			<vector id="object_78" pos="0.499195,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.003" />
+			<vector id="object_79" pos="0.26988,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.001" />
+			<vector id="object_80" pos="0.384537,0.753217" parent="background_control" src="1_flower" scalex="0.5" scaley="0.5" fill="0,157,215" zpos="2.002" />
+		</group>
+		<path id="line_1" pos="0.411755,0.105528" parent="background_control" src="line_1" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.001" d="M0.115241 0.105528L0.708269 0.105528" />
+		<path id="line_2" pos="0.411755,0.202812" parent="background_control" src="line_2" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.003" d="M0.115241 0.202812L0.708269 0.202812" />
+		<path id="line_3" pos="0.411755,0.300096" parent="background_control" src="line_3" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.005" d="M0.115241 0.300096L0.708269 0.300096" />
+		<path id="line_4" pos="0.411755,0.398731" parent="background_control" src="line_4" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.007" d="M0.115241 0.398731L0.708269 0.398731" />
+		<path id="line_5" pos="0.411755,0.496015" parent="background_control" src="line_5" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.009" d="M0.115241 0.496015L0.708269 0.496015" />
+		<path id="line_6" pos="0.411755,0.593299" parent="background_control" src="line_6" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.011" d="M0.115241 0.593299L0.708269 0.593299" />
+		<path id="line_7" pos="0.411755,0.690583" parent="background_control" src="line_7" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.013" d="M0.115241 0.690583L0.708269 0.690583" />
+		<path id="line_8" pos="0.411755,0.787867" parent="background_control" src="line_8" fill="235,251,253" stroke="29,118,14" strokewidth="5" linecap="round" linejoin="round" zpos="2.015" d="M0.115241 0.787867L0.708269 0.787867" />
+	</event>
+	<event id="1d" sound="add_counter" >
+		<group id="group_1"  pos="0.416632,0.0837962" src="group_1" zpos="2">
+			<vector id="object_1" pos="0.327208,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_2" pos="0.613853,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_3" pos="0.155222,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_4" pos="0.212551,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_5" pos="0.441866,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_6" pos="0.556524,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_7" pos="0.671182,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_8" pos="0.384537,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_9" pos="0.499195,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_10" pos="0.26988,0.0708782" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+		</group>
+		<group id="group_2"  pos="0.416632,0.177546" src="group_2" zpos="2.002">
+			<vector id="object_11" pos="0.499195,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_12" pos="0.384537,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_13" pos="0.212551,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_14" pos="0.613853,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_15" pos="0.155222,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_16" pos="0.441866,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_17" pos="0.26988,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_18" pos="0.556524,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_19" pos="0.327208,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_20" pos="0.671182,0.168162" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+		</group>
+		<group id="group_3"  pos="0.416632,0.271296" src="group_3" zpos="2.004">
+			<vector id="object_21" pos="0.613853,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_22" pos="0.155222,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_23" pos="0.441866,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_24" pos="0.26988,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_25" pos="0.556524,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_26" pos="0.671182,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_27" pos="0.327208,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_28" pos="0.499195,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_29" pos="0.212551,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_30" pos="0.384537,0.265446" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+		</group>
+		<group id="group_4"  pos="0.416632,0.366348" src="group_4" zpos="2.006">
+			<vector id="object_31" pos="0.212551,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_32" pos="0.441866,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_33" pos="0.327208,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" scheme="bird blue" />
+			<vector id="object_34" pos="0.556524,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_35" pos="0.671182,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_36" pos="0.613853,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_37" pos="0.26988,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_38" pos="0.499195,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_39" pos="0.155222,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_40" pos="0.384537,0.364081" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+		</group>
+		<group id="group_5"  pos="0.416632,0.460098" src="group_5" zpos="2.008">
+			<vector id="object_41" pos="0.499195,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_42" pos="0.613853,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_43" pos="0.327208,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_44" pos="0.26988,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_45" pos="0.212551,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_46" pos="0.155222,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_47" pos="0.441866,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_48" pos="0.556524,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_49" pos="0.671182,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_50" pos="0.384537,0.461365" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+		</group>
+		<group id="group_6"  pos="0.416632,0.553848" src="group_6" zpos="2.01">
+			<vector id="object_51" pos="0.499195,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_52" pos="0.212551,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_53" pos="0.384537,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_54" pos="0.26988,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_55" pos="0.556524,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_56" pos="0.155222,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_57" pos="0.613853,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_58" pos="0.327208,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" scheme="bird blue" />
+			<vector id="object_59" pos="0.441866,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_60" pos="0.671182,0.558649" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+		</group>
+		<group id="group_7"  pos="0.416632,0.647598" src="group_7" zpos="2.012">
+			<vector id="object_61" pos="0.613853,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_62" pos="0.671182,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_63" pos="0.26988,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_64" pos="0.327208,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_65" pos="0.441866,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_66" pos="0.155222,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_67" pos="0.212551,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_68" pos="0.384537,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_69" pos="0.499195,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_70" pos="0.556524,0.655933" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+		</group>
+		<group id="group_8"  pos="0.416632,0.741348" src="group_8" zpos="2.014">
+			<vector id="object_71" pos="0.155222,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_72" pos="0.327208,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" scheme="bird blue" />
+			<vector id="object_73" pos="0.671182,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_74" pos="0.212551,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_75" pos="0.613853,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_76" pos="0.26988,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_77" pos="0.556524,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_78" pos="0.441866,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_79" pos="0.384537,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_80" pos="0.499195,0.753217" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+		</group>
+		<group id="group_9"  pos="0.416632,0.835098" src="group_9" zpos="2.016">
+			<vector id="object_81" pos="0.499195,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_82" pos="0.441866,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_83" pos="0.613853,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_84" pos="0.556524,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_85" pos="0.155222,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_86" pos="0.327208,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" />
+			<vector id="object_87" pos="0.671182,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_88" pos="0.26988,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_89" pos="0.384537,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_90" pos="0.212551,0.850501" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+		</group>
+		<group id="group_10"  pos="0.416632,0.928848" src="group_10" zpos="2.018">
+			<vector id="object_91" pos="0.499195,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.003" />
+			<vector id="object_92" pos="0.26988,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.001" />
+			<vector id="object_93" pos="0.384537,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.002" />
+			<vector id="object_94" pos="0.155222,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2" />
+			<vector id="object_95" pos="0.212551,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.005" />
+			<vector id="object_96" pos="0.556524,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.008" />
+			<vector id="object_97" pos="0.613853,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.004" />
+			<vector id="object_98" pos="0.441866,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.007" />
+			<vector id="object_99" pos="0.671182,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.009" />
+			<vector id="object_100" pos="0.327208,0.947785" parent="background_control" src="counter" scalex="0.4" scaley="0.4" fill="255,64,124" zpos="2.006" scheme="bird blue" />
+		</group>
+		<path id="line_1" pos="0.411755,0.105528" parent="background_control" src="line_1" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.001" d="M0.115241 0.105528L0.708269 0.105528" />
+		<path id="line_2" pos="0.411755,0.202962" parent="background_control" src="line_2" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.003" d="M0.115241 0.202962L0.708269 0.202962" />
+		<path id="line_3" pos="0.411755,0.300396" parent="background_control" src="line_3" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.005" d="M0.115241 0.300396L0.708269 0.300396" />
+		<path id="line_4" pos="0.411755,0.39783" parent="background_control" src="line_4" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.007" d="M0.115241 0.39783L0.708269 0.39783" />
+		<path id="line_5" pos="0.411755,0.495264" parent="background_control" src="line_5" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.009" d="M0.115241 0.495264L0.708269 0.495264" />
+		<path id="line_6" pos="0.411755,0.592699" parent="background_control" src="line_6" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.011" d="M0.115241 0.592699L0.708269 0.592699" />
+		<path id="line_7" pos="0.411755,0.690133" parent="background_control" src="line_7" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.013" d="M0.115241 0.690133L0.708269 0.690133" />
+		<path id="line_8" pos="0.411755,0.787567" parent="background_control" src="line_8" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.015" d="M0.115241 0.787567L0.708269 0.787567" />
+		<path id="line_9" pos="0.411755,0.885001" parent="background_control" src="line_9" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.017" d="M0.115241 0.885001L0.708269 0.885001" />
+		<path id="line_10" pos="0.411755,0.982435" parent="background_control" src="line_10" fill="235,251,253" stroke="0,0,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.019" d="M0.115241 0.982435L0.708269 0.982435" />
+	</event>
+	<event id="1e" redraw="true" colour="254,254,222" >
+		<rectangle id="background_control" pos="0.500965,0.49733" src="background_control" fill="235,251,253" stroke="0,0,0" strokewidth="1" zpos="0" hidden="true" widthtracksheight="true" x="0.0151634" y="0.0154928" width="0.971603" height="0.963674" pxwidth="994.922" pxheight="740.102" />
+		<rectangle id="number_1" pos="0.0567609,0.485409" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.001" text="10" x="0.0075108" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_2" pos="0.155261,0.485409" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.002" text="20" x="0.106011" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_3" pos="0.253702,0.485409" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.003" text="30" x="0.204452" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_4" pos="0.353958,0.485409" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.004" text="40" x="0.304707" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_5" pos="0.454782,0.485409" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.005" text="50" x="0.405532" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_6" pos="0.550448,0.485409" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.006" text="60" x="0.501197" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_7" pos="0.645752,0.485409" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.007" text="70" x="0.596502" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_8" pos="0.741912,0.485409" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.008" text="80" x="0.692662" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_9" pos="0.842167,0.485409" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.009" text="90" x="0.792917" y="0.431363" width="0.0985002" height="0.108093" />
+		<rectangle id="number_10" pos="0.942422,0.485409" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.01" text="100" x="0.893172" y="0.431363" width="0.0985002" height="0.108093" />
+	</event>
+	<event id="1f" correctAnswer="2" >
+	</event>
+	<event id="1g" correctAnswer="3" >
+	</event>
+	<event id="1h" correctAnswer="6" >
+	</event>
+	<event id="1i" correctAnswer="9" >
+	</event>
+	<event id="1j" correctAnswer="4" >
+	</event>
+	<event id="1k" correctAnswer="8" >
+	</event>
+	<event id="1l" correctAnswer="7" >
+	</event>
+	<event id="1m" correctAnswer="1" >
+	</event>
+	<event id="1n" correctAnswer="10" >
+	</event>
+</events>

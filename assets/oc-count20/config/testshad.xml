@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+        <vector id="egg" pos="0.5,0.5" src="presenter_1" zpos="0.007" />
+        <!--
+		<circle id="Circle1" pos="0.229242,0.28054" src="Circle1" fill="255,255,255" stroke="0,0,0" strokewidth="10.4215" zpos="0.005" x="0.162914" y="0.192103" width="0.132656" height="0.176875" />
+		<radialGradient id="Gradient5" cx="0.5" cy="0.5" r="1" >
+			<stop offset="0%" stop-color="rgb(100%,0%,0%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0"/>
+		</radialGradient>
+		<circle id="Circle1 copy" pos="0.390284,0.277646" src="Circle1 copy" fill="url(#Gradient5)"  stroke="0,0,0" strokewidth="10.4215" zpos="0.006" x="0.323956" y="0.189209" width="0.132656" height="0.176875" />
+		<vector id="egg" pos="0.327553,0.104513" src="egg" zpos="0.007" />
+		<vector id="pencil" pos="0.195629,0.638056" src="pencil" shadowcolour="0,0,0" shadowopacity="0.5" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="0.001" />
+		<vector id="pencil copy" pos="0.454348,0.615191" src="pencil" scalex="0.547433" scaley="0.547433" shadowcolour="0,0,0" shadowopacity="0.5" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="0.002" />
+		<vector id="pencil copy" pos="0.763063,0.732399" src="pencil" scalex="1.78239" scaley="1.78239" shadowcolour="0,0,0" shadowopacity="0.5" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="0.003" />
+		<vector id="pencil copy copy" pos="0.449282,0.820264" src="pencil" scalex="-0.547" scaley="0.547433" shadowcolour="0,0,0" shadowopacity="0.5" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="0.004" />
+		<rectangle id="Rectangle1" pos="0.64254,0.343928" src="Rectangle1" fill="0,249,0" stroke="0,0,0" strokewidth="10.4215" shadowcolour="0,0,0" shadowopacity="0.5" shadowradius="5" shadowxoffset="5" shadowyoffset="5" zpos="0" x="0.52055" y="0.231618" width="0.24398" height="0.22462" />
+		<text id="Text1"  pos="0.197718,0.497055" src="Text1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.008" x="0.100216" y="0.368983" width="0.195004" height="0.256144">
+<tspan x="0.0250396" y="0.127085" font-family="Ting" font-size="24.000000" fill="rgb(0%,0%,0%)" >Abcde fghij</tspan>
+<tspan x="0.0250396" y="0.294837" font-family="Ting" font-size="24.000000" fill="rgb(0%,0%,0%)" >klmnopqrst</tspan>
+		</text>
+		<text id="Text1"  pos="0.65303,0.136068" src="Text1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.009" x="0.582771" y="0.105469" width="0.140518" height="0.0611979">
+<tspan x="0.357559" y="0.531915" font-family="Ting" font-size="24.000000" fill="rgb(0%,0%,0%)" >abc</tspan>
+		</text>
+         -->
+	</event>
+</events>

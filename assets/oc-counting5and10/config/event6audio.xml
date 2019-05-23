@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_zero</phrase>
+			<phrase>6_ten</phrase>
+			<phrase>6_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_touchthenumbersinorder</phrase>
+			<phrase>6_startatzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthenumbersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_zero</phrase>
+			<phrase>6_ten</phrase>
+			<phrase>6_twenty</phrase>
+			<phrase>6_thirty</phrase>
+			<phrase>6_forty</phrase>
+			<phrase>6_fifty</phrase>
+			<phrase>6_sixty</phrase>
+			<phrase>6_seventy</phrase>
+			<phrase>6_eighty</phrase>
+			<phrase>6_ninety</phrase>
+			<phrase>6_onehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchthenumbersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_startatzero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="DEMO">
+			<phrase>6_good</phrase>
+			<phrase>6_nowcolourinallthewhitepartsofthepicture</phrase>
+			<phrase>6_choosecoloursfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhitepartsofthepicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowtouchthesenumbersinorder</phrase>
+			<phrase>6_startatzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthenumbersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_zero</phrase>
+			<phrase>6_five</phrase>
+			<phrase>6_ten</phrase>
+			<phrase>6_fifteen</phrase>
+			<phrase>6_twenty</phrase>
+			<phrase>6_twentyfive</phrase>
+			<phrase>6_thirty</phrase>
+			<phrase>6_thirtyfive</phrase>
+			<phrase>6_forty</phrase>
+			<phrase>6_fortyfive</phrase>
+			<phrase>6_fifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_startatzero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowcolourinyourpicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhitepartsofthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldoneyoupickedoutthenumbersinorderandcolouredinthepictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="draw_line">
+			<phrase>buzz_hissy_medium</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_colour">
+			<phrase>click_hard_wood</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="owl">
+			<phrase>chipmonk</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frog_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

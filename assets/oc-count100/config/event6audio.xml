@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookatthesenumbers</phrase>
+			<phrase>6_fromone</phrase>
+			<phrase>6_toten</phrase>
+			<phrase>6_butsomearemissing</phrase>
+			<phrase>6_watchme</phrase>
+			<phrase>6_six</phrase>
+			<phrase>6_itgoeshere</phrase>
+			<phrase>6_twentyeight</phrase>
+			<phrase>6_itdoesnotgohere</phrase>
+			<phrase>6_soiputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_doesitgointheroworinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_getmorenumberstocompletetherowillkeepascoreforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_touchtherobotsbutton</phrase>
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_therowiscomplete</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thistimetherearetworowsfillinthemissingnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_touchtherobotsbutton</phrase>
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_therowsarecomplete</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_twonewrowsforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_touchtherobotsbutton</phrase>
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_therowsarecomplete</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thistimethreerowsfillinthemissingnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_touchtherobotsbutton</phrase>
+			<phrase>6_ifanumberdoesnotbelongintherowputitinthebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_yougottotheend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowtouchthisforyourscore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthepole</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredfullmarksexcellent</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>6_thisisyourscoreoutofonehundred</phrase>
+			<phrase>6_verygood</phrase>
+			<phrase>6_youcouldtrythegameagaintogetfullmarks</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>6_thisisyourscoreoutofonehundred</phrase>
+			<phrase>6_good</phrase>
+			<phrase>6_youcouldtrythegameagaintogetfullmarks</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL4">
+			<phrase>6_thisisyourscoreoutofonehundred</phrase>
+			<phrase>6_youcouldtrythegameagaintogetfullmarks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_greatyougotlotsofpracticeinfindingmissingnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="show">
+			<phrase>tock_single_medium</phrase>
+		</phrasegroup>
+		<phrasegroup id="bag">
+			<phrase>paper_scrunch_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="flag">
+			<phrase>put</phrase>
+		</phrasegroup>
+		<phrasegroup id="score">
+			<phrase>spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="score1">
+			<phrase>trumpet_announcement</phrase>
+		</phrasegroup>
+		<phrasegroup id="score2">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="score3">
+			<phrase>musical_ting</phrase>
+		</phrasegroup>
+		<phrasegroup id="hide">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="drag">
+			<phrase>drag</phrase>
+		</phrasegroup>
+		<phrasegroup id="complete">
+			<phrase>magic_harp_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>metallic_clack_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot">
+			<phrase>robot_move</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot2">
+			<phrase>alien</phrase>
+		</phrasegroup>
+	</event>
+</audio>

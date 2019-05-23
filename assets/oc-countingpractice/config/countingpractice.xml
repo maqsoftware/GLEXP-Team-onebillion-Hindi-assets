@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" colour="224,252,255" >
+		<group id="clump_1"  pos="0.0599613,0.103732" src="clump_1" zpos="0.001">
+			<vector id="pea" pos="0.0599613,0.103732" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+		</group>
+		<group id="clump_2"  pos="0.142382,0.103383" src="clump_2" zpos="0">
+			<vector id="pea" pos="0.152151,0.102989" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.132612,0.103778" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+		</group>
+		<group id="clump_3"  pos="0.238411,0.0897242" src="clump_3" zpos="0.002">
+			<vector id="pea" pos="0.238386,0.0757675" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.228296,0.103681" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.248526,0.103289" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+		</group>
+		<group id="clump_4"  pos="0.350971,0.103368" src="clump_4" zpos="0.003">
+			<vector id="pea" pos="0.350111,0.0768509" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.370787,0.103869" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.331156,0.103574" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.350676,0.129885" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+		</group>
+		<group id="clump_5"  pos="0.4827,0.104045" src="clump_5" zpos="0.004">
+			<vector id="pea" pos="0.468138,0.0822627" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.460432,0.114428" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.478645,0.1253" src="pea" scalex="0.782407" scaley="0.776186" zpos="0.002" />
+			<vector id="pea" pos="0.496199,0.0872625" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.504969,0.115267" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+		</group>
+		<group id="clump_6"  pos="0.410412,0.284782" src="clump_6" zpos="0.008">
+			<vector id="pea" pos="0.400667,0.251706" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.424158,0.271568" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.429987,0.236168" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.395323,0.291323" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.421095,0.312925" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+			<vector id="pea" pos="0.390837,0.333397" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.005" />
+		</group>
+		<group id="clump_7"  pos="0.57836,0.30455" src="clump_7" zpos="0.007">
+			<vector id="pea" pos="0.551764,0.3038" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.5847,0.334857" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.557592,0.338671" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.571524,0.270429" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.597708,0.270922" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+			<vector id="pea" pos="0.604956,0.307818" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.005" />
+			<vector id="pea" pos="0.577414,0.303383" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.006" />
+		</group>
+		<group id="clump_8"  pos="0.754274,0.307477" src="clump_8" zpos="0.006">
+			<vector id="pea" pos="0.728453,0.305087" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.755106,0.356565" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.779917,0.25839" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.755339,0.27844" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.780451,0.293521" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+			<vector id="pea" pos="0.775209,0.324399" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.005" />
+			<vector id="pea" pos="0.755178,0.316302" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.006" />
+			<vector id="pea" pos="0.728098,0.342913" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.007" />
+		</group>
+		<group id="clump_9"  pos="0.746752,0.103775" src="clump_9" zpos="0.005">
+			<vector id="pea" pos="0.745695,0.0531489" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.784674,0.101489" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.726015,0.0789871" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.765638,0.133024" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.70883,0.10159" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+			<vector id="pea" pos="0.739233,0.154401" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.005" />
+			<vector id="pea" pos="0.7194,0.132327" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.006" />
+			<vector id="pea" pos="0.745787,0.106519" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.007" />
+			<vector id="pea" pos="0.766413,0.0799942" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.008" />
+		</group>
+		<group id="clump_10"  pos="0.245487,0.28478" src="clump_10" zpos="0.009">
+			<vector id="pea" pos="0.271257,0.324394" src="pea" scalex="0.761212" scaley="0.761212" zpos="0" />
+			<vector id="pea" pos="0.21224,0.312279" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.001" />
+			<vector id="pea" pos="0.243448,0.319079" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.002" />
+			<vector id="pea" pos="0.286741,0.292341" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.003" />
+			<vector id="pea" pos="0.259897,0.287036" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.004" />
+			<vector id="pea" pos="0.231016,0.286186" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.005" />
+			<vector id="pea" pos="0.204233,0.279727" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.006" />
+			<vector id="pea" pos="0.218447,0.245166" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.007" />
+			<vector id="pea" pos="0.250662,0.250008" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.008" />
+			<vector id="pea" pos="0.276529,0.254087" src="pea" scalex="0.761212" scaley="0.761212" zpos="0.009" />
+		</group>
+		<rectangle id="colour_dash_hilite" pos="0.802877,0.385796" src="colour_dash_hilite" fill="255,38,0" zpos="1.004" x="0.783024" y="0.359324" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_dash_normal" pos="0.747545,0.385089" src="colour_dash_normal" fill="214,214,214" zpos="1.005" x="0.727692" y="0.358617" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_disabled" pos="0.868174,0.539274" src="colour_number_button_disabled" fill="255,252,223" zpos="1.007" x="0.84832" y="0.512802" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_hilite" pos="0.744612,0.540423" src="colour_number_button_hilite" fill="255,250,195" zpos="1.002" x="0.724758" y="0.513952" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_normal" pos="0.808863,0.539696" src="colour_number_button_normal" fill="255,251,205" zpos="1.003" x="0.789009" y="0.513224" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_correct" pos="0.622194,0.464684" src="colour_text_correct" fill="0,182,4" zpos="1.009" x="0.602341" y="0.438212" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_disabled" pos="0.869005,0.460238" src="colour_text_disabled" fill="139,139,139" zpos="1.006" x="0.849152" y="0.433767" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_draggable" pos="0.692522,0.463702" src="colour_text_draggable" fill="102,178,204" zpos="1.008" x="0.672668" y="0.43723" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_hilite" pos="0.80237,0.463875" src="colour_text_hilite" fill="255,38,0" zpos="1" x="0.782516" y="0.437403" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_normal" pos="0.747446,0.463559" src="colour_text_normal" fill="0,0,0" zpos="1.001" x="0.727592" y="0.437088" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_target" pos="0.571779,0.46478" src="colour_text_target" fill="255,255,255" zpos="1.01" x="0.551926" y="0.438309" width="0.0397072" height="0.0529429" />
+		<rectangle id="drag_bar" pos="0.499374,0.921549" src="drag_bar" fill="255,255,255" zpos="2.001" x="-0.009655" y="0.839193" width="1.01806" height="0.164714" />
+		<rectangle id="drag_label" pos="0.120998,0.922778" src="drag_label" fill="102,178,204" zpos="2.005" x="0.0483017" y="0.877614" width="0.145393" height="0.0903269" />
+		<vector id="jar" pos="0.232139,0.454419" src="jar" scalex="1.31157" scaley="1.31157" zpos="2.002" />
+		<rectangle id="number_button" pos="0.719524,0.242879" src="number_button" fill="255,251,205" stroke="255,245,104" strokewidth="2" shadowcolour="193,193,193" shadowradius="2" shadowxoffset="0" shadowyoffset="2" zpos="2" x="0.680462" y="0.190796" width="0.078125" height="0.104167" cornerradius="0.122764" />
+		<path id="number_dash_big" pos="0.165001,0.506042" src="number_dash_big" fill="255,250,195" stroke="214,214,214" strokewidth="5" zpos="2.003" d="M0.1414 0.506L0.1886 0.506" />
+		<vector id="pea" pos="0.520815,0.202065" src="pea" scalex="0.761212" scaley="0.761212" zpos="2.004" />
+		<vector id="confirm_arrow" pos="0.949112,0.916481" src="arrow" scalex="0.596507" scaley="0.596507" shadowcolour="0,0,0" shadowopacity="0.401865" shadowradius="5" shadowxoffset="2" shadowyoffset="2" zpos="3.022" />
+		<circle id="jar_applied_force" pos="0.231737,0.158002" src="jar_applied_force" fill="4,51,255" zpos="3.021" x="0.220703" y="0.14329" width="0.022068" height="0.029424" />
+		<rectangle id="jar_hot_area" pos="0.231503,0.349157" src="jar_hot_area" fill="0,249,0" fillopacity="0.141725" zpos="3.02" x="0.0416641" y="-0.123698" width="0.379677" height="0.945709" />
+		<circle id="place_1" pos="0.743563,0.334963" src="place_1" fill="255,38,0" zpos="3.006" x="0.732529" y="0.320251" width="0.022068" height="0.029424" />
+		<circle id="place_2" pos="0.678694,0.475985" src="place_2" fill="255,38,0" zpos="3.005" x="0.66766" y="0.461273" width="0.022068" height="0.029424" />
+		<circle id="place_3" pos="0.548628,0.377134" src="place_3" fill="255,38,0" zpos="3.008" x="0.537594" y="0.362422" width="0.022068" height="0.029424" />
+		<circle id="place_4" pos="0.637987,0.221153" src="place_4" fill="255,38,0" zpos="3.004" x="0.626953" y="0.206441" width="0.022068" height="0.029424" />
+		<circle id="place_5" pos="0.786425,0.200859" src="place_5" fill="255,38,0" zpos="3.003" x="0.775391" y="0.186147" width="0.022068" height="0.029424" />
+		<circle id="place_6" pos="0.881151,0.321297" src="place_6" fill="255,38,0" zpos="3.002" x="0.870117" y="0.306585" width="0.022068" height="0.029424" />
+		<circle id="place_7" pos="0.831251,0.461291" src="place_7" fill="255,38,0" zpos="3.013" x="0.820217" y="0.446579" width="0.022068" height="0.029424" />
+		<circle id="place_8" pos="0.768984,0.567635" src="place_8" fill="255,38,0" zpos="3.001" x="0.75795" y="0.552923" width="0.022068" height="0.029424" />
+		<circle id="place_9" pos="0.627672,0.597252" src="place_9" fill="255,38,0" zpos="3" x="0.616638" y="0.58254" width="0.022068" height="0.029424" />
+		<circle id="place_10" pos="0.518133,0.556033" src="place_10" fill="255,38,0" zpos="3.007" x="0.507099" y="0.541321" width="0.022068" height="0.029424" />
+		<circle id="place_11" pos="0.504869,0.228305" src="place_11" fill="255,38,0" zpos="3.017" x="0.493835" y="0.213593" width="0.022068" height="0.029424" />
+		<circle id="place_12" pos="0.561815,0.0923691" src="place_12" fill="255,38,0" zpos="3.018" x="0.550781" y="0.0776571" width="0.022068" height="0.029424" />
+		<circle id="place_13" pos="0.700487,0.0740891" src="place_13" fill="255,38,0" zpos="3.009" x="0.689453" y="0.059377" width="0.022068" height="0.029424" />
+		<circle id="place_14" pos="0.845018,0.091245" src="place_14" fill="255,38,0" zpos="3.01" x="0.833984" y="0.076533" width="0.022068" height="0.029424" />
+		<circle id="place_15" pos="0.929403,0.200579" src="place_15" fill="255,38,0" zpos="3.011" x="0.918369" y="0.185867" width="0.022068" height="0.029424" />
+		<circle id="place_16" pos="0.949125,0.409228" src="place_16" fill="255,38,0" zpos="3.012" x="0.938091" y="0.394516" width="0.022068" height="0.029424" />
+		<circle id="place_17" pos="0.918615,0.582548" src="place_17" fill="255,38,0" zpos="3.019" x="0.907581" y="0.567835" width="0.022068" height="0.029424" />
+		<circle id="place_18" pos="0.855608,0.693723" src="place_18" fill="255,38,0" zpos="3.014" x="0.844574" y="0.679011" width="0.022068" height="0.029424" />
+		<circle id="place_19" pos="0.732283,0.758761" src="place_19" fill="255,38,0" zpos="3.015" x="0.721249" y="0.744049" width="0.022068" height="0.029424" />
+		<circle id="place_20" pos="0.57229,0.724037" src="place_20" fill="255,38,0" zpos="3.016" x="0.561256" y="0.709325" width="0.022068" height="0.029424" />
+		<rectangle id="target_box" pos="0.793955,0.916178" src="target_box" fill="0,182,4" zpos="3.023" x="0.700195" y="0.850449" width="0.187519" height="0.13146" cornerradius="0.0990482" />
+	</event>
+</events>

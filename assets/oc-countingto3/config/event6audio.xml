@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_oneorangeinthebowl</phrase>
+			<phrase>6_one</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_traceone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_traceone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowtraceitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>6_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_twoorangesinthebowl</phrase>
+			<phrase>6_two</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracetwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracetwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowtraceitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>6_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="DEMO">
+			<phrase>6_threeorangesinthebowl</phrase>
+			<phrase>6_three</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracethree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethree</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowtraceitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>6_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_noorangesinthebowl</phrase>
+			<phrase>6_zero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracezero</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracezero</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_zero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowtraceitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>6_zero</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldoneyoutracedthenumberszeroonetwoandthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="selectColour">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="colourObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="dropObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_spin">
+			<phrase>wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_stop">
+			<phrase>wheel_stop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170308.200348256">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3n_lookthesearenotrealwordstheyaremadeup</phrase>
+			<phrase>egrid3n_letsseeifyoucanreadthem</phrase>
+			<phrase>egrid3n_whenawordgoesbluesayit</phrase>
+			<phrase>egrid3n_thentouchittohearit</phrase>
+			<phrase>egrid3n_starthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3n_saytheblueword</phrase>
+			<phrase>egrid3n_thentouchittohearit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>egrid3n_ifyousaiditcorrectlywelldone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid3n_saytheblueword</phrase>
+			<phrase>egrid3n_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3n_nowdotherest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>egrid3n_saytheblueword</phrase>
+			<phrase>egrid3n_thentouchittohearit_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3n_saytheblueword</phrase>
+			<phrase>egrid3n_thentouchittohearit_2</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3n_saytheblueword</phrase>
+			<phrase>egrid3n_thentouchittohearit_2</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3n_excellentyoupractisedwithmadeupwords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="red">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

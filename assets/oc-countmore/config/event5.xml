@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="5a,5b,5c,5d,5e,5f,5g,5h,5i" gradienttop="254,255,120" gradientbottom="255,255,223" locs="0.402274,0.0925419,0.213834,0.222147,0.402274,0.222147,0.590714,0.222147,0.779154,0.222147,0.142824,0.351752,0.321944,0.351752,0.501063,0.351752,0.680182,0.351752,0.859302,0.351752,0.142824,0.481357,0.321944,0.481357,0.501063,0.481357,0.680182,0.481357,0.859302,0.481357,0.142824,0.610962,0.321944,0.610962,0.501063,0.610962,0.680182,0.610962,0.859302,0.610962,0.213834,0.740568,0.402274,0.740568,0.590714,0.740568,0.779154,0.740568,0.321944,0.870173,0.501063,0.870173,0.680182,0.870173,0.590714,0.0925419" colour="254,254,229" >
+		<circle id="loop" pos="0.500746,0.521072" src="loop" fill="255,255,255" stroke="0,0,0" strokewidth="2.76758" zpos="0" heighttrackswidth="true" x="0.238777" y="0.27123" width="0.523937" height="0.499685" pxwidth="536.512" pxheight="383.758" />
+	</event>
+	<event id="5a" correct="6" demo="true" reload="true" >
+		<path id="demo_path" pos="0.290232,0.556998" parent="loop" src="demo_path" stroke="0,0,0" strokewidth="2.76758" zpos="3.009" hidden="true" d="M0.647338 -0.138159c0.876 0.268 0.884 1.362-0.171 1.380c-0.585 0.010-1.427-0.907-0.154-1.355" />
+		<group id="obj_1"  pos="-0.304782,0.0225107" parent="loop" src="obj_1" fill="155,44,198" zpos="3" hidden="true">
+			<circle id="colour_1" pos="0.0578429,0.282478" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0375544" y="0.255427" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.100339,0.282478" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.0800501" y="0.255427" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_2"  pos="-0.264708,0.464572" parent="loop" src="obj_2" fill="254,249,7" zpos="3.001" hidden="true">
+			<circle id="colour_1" pos="0.078839,0.50337" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0585505" y="0.476318" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.121335,0.50337" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.101046" y="0.476318" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_3"  pos="-0.229207,0.877135" parent="loop" src="obj_3" fill="17,144,255" zpos="3.002" hidden="true">
+			<circle id="colour_1" pos="0.0974394,0.709521" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.077151" y="0.68247" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.139935,0.709521" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.119647" y="0.68247" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_4"  pos="0.0488992,1.27092" parent="loop" src="obj_4" fill="252,54,6" zpos="3.003" hidden="true">
+			<circle id="colour_1" pos="0.243149,0.906288" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.222861" y="0.879237" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.285645,0.906288" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.265357" y="0.879237" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_5"  pos="0.925686,1.25853" parent="loop" src="obj_5" fill="24,213,255" zpos="3.004" hidden="true">
+			<circle id="colour_1" pos="0.702531,0.900098" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.682242" y="0.873047" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.745026,0.900098" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.724738" y="0.873047" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_6"  pos="1.25317,0.866895" parent="loop" src="obj_6" fill="92,52,255" zpos="3.005" hidden="true">
+			<circle id="colour_1" pos="0.874112,0.704404" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.853823" y="0.677353" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.916607,0.704404" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.896319" y="0.677353" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_7"  pos="1.23485,0.374275" parent="loop" src="obj_7" fill="69,141,33" zpos="3.006" hidden="true">
+			<circle id="colour_1" pos="0.864514,0.458249" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.844226" y="0.431198" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.90701,0.458249" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.886721" y="0.431198" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_8"  pos="1.07409,-0.129532" parent="loop" src="obj_8" fill="250,38,51" zpos="3.007" hidden="true">
+			<circle id="colour_1" pos="0.780285,0.206505" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.759997" y="0.179454" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.822781,0.206505" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.802493" y="0.179454" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_9"  pos="0.0481857,-0.166614" parent="loop" src="obj_9" fill="237,46,56" zpos="3.008" hidden="true">
+			<circle id="colour_1" pos="0.242776,0.187976" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.222487" y="0.160924" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.285271,0.187976" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.264983" y="0.160924" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+	</event>
+	<event id="5b" correct="8" >
+	</event>
+	<event id="5c" correct="12" >
+	</event>
+	<event id="5d" correct="16" delete="true" >
+	</event>
+	<event id="5e" correct="18" reload="true" >
+		<group id="obj_1"  pos="-0.301462,0.0289947" parent="loop" src="obj_1" fill="155,44,198" zpos="3" hidden="true">
+			<circle id="colour_1" pos="0.0595824,0.285718" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0392939" y="0.258667" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.102078,0.285718" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.0817896" y="0.258667" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_2"  pos="-0.207022,0.344817" parent="loop" src="obj_2" fill="254,249,7" zpos="3.001" hidden="true">
+			<circle id="colour_1" pos="0.109063,0.44353" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0887744" y="0.416478" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.151559,0.44353" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.13127" y="0.416478" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_3"  pos="-0.249098,0.778124" parent="loop" src="obj_3" fill="17,144,255" zpos="3.002" hidden="true">
+			<circle id="colour_1" pos="0.0870177,0.660047" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0667292" y="0.632996" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.129513,0.660047" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.109225" y="0.632996" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_4"  pos="-0.124654,1.12981" parent="loop" src="obj_4" fill="153,72,9" zpos="3.003" hidden="true">
+			<circle id="colour_1" pos="0.152218,0.835777" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.13193" y="0.808726" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.194714,0.835777" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.174426" y="0.808726" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_5"  pos="1.18748,0.725275" parent="loop" src="obj_5" fill="92,52,255" zpos="3.004" hidden="true">
+			<circle id="colour_1" pos="0.839692,0.633639" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.819403" y="0.606588" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.882187,0.633639" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.861899" y="0.606588" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_6"  pos="1.28579,0.403478" parent="loop" src="obj_6" fill="69,141,33" zpos="3.005" hidden="true">
+			<circle id="colour_1" pos="0.891202,0.472842" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.870913" y="0.445791" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.933697,0.472842" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.913409" y="0.445791" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_7"  pos="1.19701,0.0483754" parent="loop" src="obj_7" fill="237,46,56" zpos="3.006" hidden="true">
+			<circle id="colour_1" pos="0.844689,0.295403" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.824401" y="0.268351" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.887185,0.295403" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.866896" y="0.268351" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_8"  pos="0.92072,-0.148658" parent="loop" src="obj_8" fill="251,109,235" zpos="3.007" hidden="true">
+			<circle id="colour_1" pos="0.699929,0.196948" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.67964" y="0.169896" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.742425,0.196948" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.722136" y="0.169896" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_9"  pos="0.0901815,-0.155265" parent="loop" src="obj_9" fill="237,46,56" zpos="3.008" hidden="true">
+			<circle id="colour_1" pos="0.264779,0.193647" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.24449" y="0.166595" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.307274,0.193647" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.286986" y="0.166595" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_10"  pos="0.300699,1.28558" parent="loop" src="obj_10" fill="252,54,6" zpos="3.009" hidden="true">
+			<circle id="colour_1" pos="0.375077,0.913612" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.354788" y="0.886561" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.417573,0.913612" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.397284" y="0.886561" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_11"  pos="0.75538,1.28819" parent="loop" src="obj_11" fill="99,234,23" zpos="3.01" hidden="true">
+			<circle id="colour_1" pos="0.613301,0.91492" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.593012" y="0.887868" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.655797,0.91492" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.635508" y="0.887868" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_12"  pos="1.20392,1.16175" parent="loop" src="obj_12" fill="24,213,255" zpos="3.011" hidden="true">
+			<circle id="colour_1" pos="0.848309,0.851738" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.828021" y="0.824687" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.890805,0.851738" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.870516" y="0.824687" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+	</event>
+	<event id="5f" correct="20" delete="true" >
+	</event>
+	<event id="5g" correct="24" reload="true" >
+		<group id="obj_1"  pos="-0.319846,-0.0249231" parent="loop" src="obj_1" fill="155,44,198" zpos="3" hidden="true">
+			<circle id="colour_1" pos="0.0499503,0.258776" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0296618" y="0.231725" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.092446,0.258776" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.0721575" y="0.231725" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_2"  pos="-0.280325,0.339697" parent="loop" src="obj_2" fill="254,249,7" zpos="3.001" hidden="true">
+			<circle id="colour_1" pos="0.0706564,0.440971" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.050368" y="0.41392" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.113152,0.440971" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.0928637" y="0.41392" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_3"  pos="-0.242123,0.643294" parent="loop" src="obj_3" fill="251,109,235" zpos="3.002" hidden="true">
+			<circle id="colour_1" pos="0.0906722,0.592674" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.0703837" y="0.565623" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.133168,0.592674" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.112879" y="0.565623" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_4"  pos="-0.113951,0.133756" parent="loop" src="obj_4" fill="99,234,23" zpos="3.003" hidden="true">
+			<circle id="colour_1" pos="0.157826,0.338066" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.137538" y="0.311015" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.200322,0.338066" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.180033" y="0.311015" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_5"  pos="0.715743,1.32944" parent="loop" src="obj_5" fill="153,72,9" zpos="3.004" hidden="true">
+			<circle id="colour_1" pos="0.592534,0.935529" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.572245" y="0.908478" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.635029,0.935529" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.614741" y="0.908478" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_6"  pos="0.993266,1.11541" parent="loop" src="obj_6" fill="99,234,23" zpos="3.005" hidden="true">
+			<circle id="colour_1" pos="0.737939,0.828585" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.71765" y="0.801534" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.780434,0.828585" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.760146" y="0.801534" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_7"  pos="1.28539,1.11851" parent="loop" src="obj_7" fill="92,52,255" zpos="3.006" hidden="true">
+			<circle id="colour_1" pos="0.890992,0.830132" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.870703" y="0.80308" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.933488,0.830132" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.913199" y="0.80308" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_8"  pos="1.27501,0.836572" parent="loop" src="obj_8" fill="69,141,33" zpos="3.007" hidden="true">
+			<circle id="colour_1" pos="0.885552,0.689252" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.865264" y="0.662201" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.928048,0.689252" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.907759" y="0.662201" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_9"  pos="0.0501151,-0.240941" parent="loop" src="obj_9" fill="237,46,56" zpos="3.008" hidden="true">
+			<circle id="colour_1" pos="0.243786,0.150836" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.223498" y="0.123784" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.286282,0.150836" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.265994" y="0.123784" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_10"  pos="-0.328146,0.950596" parent="loop" src="obj_10" fill="17,144,255" zpos="3.009" hidden="true">
+			<circle id="colour_1" pos="0.0456015,0.746229" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.025313" y="0.719177" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.0880972,0.746229" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.0678088" y="0.719177" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_11"  pos="-0.15674,1.20686" parent="loop" src="obj_11" fill="252,54,6" zpos="3.01" hidden="true">
+			<circle id="colour_1" pos="0.135407,0.87428" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.115119" y="0.847229" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.177903,0.87428" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.157614" y="0.847229" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_12"  pos="0.145953,1.23129" parent="loop" src="obj_12" fill="250,40,89" zpos="3.011" hidden="true">
+			<circle id="colour_1" pos="0.293999,0.886487" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.273711" y="0.859436" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.336495,0.886487" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.316207" y="0.859436" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_13"  pos="1.22767,0.515406" parent="loop" src="obj_13" fill="252,111,5" zpos="3.012" hidden="true">
+			<circle id="colour_1" pos="0.860749,0.52877" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.84046" y="0.501719" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.903245,0.52877" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.882956" y="0.501719" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_14"  pos="1.28137,0.205467" parent="loop" src="obj_14" fill="24,213,255" zpos="3.013" hidden="true">
+			<circle id="colour_1" pos="0.888886,0.373899" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.868598" y="0.346848" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.931382,0.373899" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.911093" y="0.346848" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_15"  pos="1.11694,-0.031967" parent="loop" src="obj_15" fill="250,38,51" zpos="3.014" hidden="true">
+			<circle id="colour_1" pos="0.802735,0.255257" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.782447" y="0.228205" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.845231,0.255257" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.824942" y="0.228205" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+		<group id="obj_16"  pos="0.894473,-0.227352" parent="loop" src="obj_16" fill="34,252,214" zpos="3.015" hidden="true">
+			<circle id="colour_1" pos="0.686177,0.157626" src="colour_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" heighttrackswidth="true" x="0.665888" y="0.130575" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+			<circle id="colour_2" pos="0.728673,0.157626" src="colour_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" heighttrackswidth="true" x="0.708384" y="0.130575" width="0.0405769" height="0.0541026" pxwidth="41.5508" pxheight="41.5508" />
+		</group>
+	</event>
+	<event id="5h" correct="26" >
+	</event>
+	<event id="5i" correct="28" >
+	</event>
+</events>

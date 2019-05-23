@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="6a,6b" >
+		<path id="path1" pos="0.435926,0.368721" src="path1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0" d="M0.311966 0.524368c0.000 0.000-0.089-0.191 0.000-0.276c0.089-0.086 0.268-0.066 0.303 0.000c0.034 0.066 0.000 0.327 0.000 0.327" />
+        <vector id="bee" pos="0.506966,0.129608" src="bee" zpos="1" scalex="2"/>
+        <vector id="bird" pos="0.25,0.529608" src="bird" zpos="4" scalex="0.5"/>
+        <vector id="bird2" pos="0.75,0.529608" src="bird" zpos="4" scalex="-0.5" scaley="0.5"/>
+        <vector id="grad" pos="0.8,0.4" src="gradienttest" zpos="2" scalex="1"/>
+		<vector id="rgrad" pos="0.2,0.8" src="paintpot" zpos="2" scalex="1"/>
+		<vector id="shoe" pos="0.5,0.8" src="shoe" zpos="2" scalex="1"/>
+		<vector id="circle" pos="0.8,0.8" src="4_greenColourCircle" zpos="2" scalex="1"/>
+	</event>
+</events>

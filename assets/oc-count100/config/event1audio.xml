@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180105.153953007">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_letsgetcounting</phrase>
+			<phrase>1_touchthelineandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_touchthelineandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_tenflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchthelineagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eleven</phrase>
+			<phrase>1_twelve</phrase>
+			<phrase>1_thirteen</phrase>
+			<phrase>1_fourteen</phrase>
+			<phrase>1_fifteen</phrase>
+			<phrase>1_sixteen</phrase>
+			<phrase>1_seventeen</phrase>
+			<phrase>1_eighteen</phrase>
+			<phrase>1_nineteen</phrase>
+			<phrase>1_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_twentyflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="DEMO">
+			<phrase>1_thistimetwentyapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_twentyone</phrase>
+			<phrase>1_twentytwo</phrase>
+			<phrase>1_twentythree</phrase>
+			<phrase>1_twentyfour</phrase>
+			<phrase>1_twentyfive</phrase>
+			<phrase>1_twentysix</phrase>
+			<phrase>1_twentyseven</phrase>
+			<phrase>1_twentyeight</phrase>
+			<phrase>1_twentynine</phrase>
+			<phrase>1_thirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_thirtyapples</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="DEMO">
+			<phrase>1_thirtyfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_addmoreandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thirtyone</phrase>
+			<phrase>1_thirtytwo</phrase>
+			<phrase>1_thirtythree</phrase>
+			<phrase>1_thirtyfour</phrase>
+			<phrase>1_thirtyfive</phrase>
+			<phrase>1_thirtysix</phrase>
+			<phrase>1_thirtyseven</phrase>
+			<phrase>1_thirtyeight</phrase>
+			<phrase>1_thirtynine</phrase>
+			<phrase>1_forty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_fortyfish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="DEMO">
+			<phrase>1_fortyladybirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_addmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fortyone</phrase>
+			<phrase>1_fortytwo</phrase>
+			<phrase>1_fortythree</phrase>
+			<phrase>1_fortyfour</phrase>
+			<phrase>1_fortyfive</phrase>
+			<phrase>1_fortysix</phrase>
+			<phrase>1_fortyseven</phrase>
+			<phrase>1_fortyeight</phrase>
+			<phrase>1_fortynine</phrase>
+			<phrase>1_fifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_fiftyladybirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="DEMO">
+			<phrase>1_thirtyfootballs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_getsomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thirtyone_1g</phrase>
+			<phrase>1_thirtytwo_1g</phrase>
+			<phrase>1_thirtythree_1g</phrase>
+			<phrase>1_thirtyfour_1g</phrase>
+			<phrase>1_thirtyfive_1g</phrase>
+			<phrase>1_thirtysix_1g</phrase>
+			<phrase>1_thirtyseven_1g</phrase>
+			<phrase>1_thirtyeight_1g</phrase>
+			<phrase>1_thirtynine_1g</phrase>
+			<phrase>1_forty_1g</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_fortyfootballs</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="DEMO">
+			<phrase>1_addmore_1h</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthelineandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fortyone_1h</phrase>
+			<phrase>1_fortytwo_1h</phrase>
+			<phrase>1_fortythree_1h</phrase>
+			<phrase>1_fortyfour_1h</phrase>
+			<phrase>1_fortyfive_1h</phrase>
+			<phrase>1_fortysix_1h</phrase>
+			<phrase>1_fortyseven_1h</phrase>
+			<phrase>1_fortyeight_1h</phrase>
+			<phrase>1_fortynine_1h</phrase>
+			<phrase>1_fifty_1h</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>1_fiftyfootballs</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletspracticecountingtofifty</phrase>
+			<phrase>1_touchthescreenjustonceandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_touchthescreenjustonceandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_one_1i</phrase>
+			<phrase>1_two_1i</phrase>
+			<phrase>1_three_1i</phrase>
+			<phrase>1_four_1i</phrase>
+			<phrase>1_five_1i</phrase>
+			<phrase>1_six_1i</phrase>
+			<phrase>1_seven_1i</phrase>
+			<phrase>1_eight_1i</phrase>
+			<phrase>1_nine_1i</phrase>
+			<phrase>1_ten_1i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchthescreenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eleven_1j</phrase>
+			<phrase>1_twelve_1j</phrase>
+			<phrase>1_thirteen_1j</phrase>
+			<phrase>1_fourteen_1j</phrase>
+			<phrase>1_fifteen_1j</phrase>
+			<phrase>1_sixteen_1j</phrase>
+			<phrase>1_seventeen_1j</phrase>
+			<phrase>1_eighteen_1j</phrase>
+			<phrase>1_nineteen_1j</phrase>
+			<phrase>1_twenty_1j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichnumberscomenext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_twentyone_1k</phrase>
+			<phrase>1_twentytwo_1k</phrase>
+			<phrase>1_twentythree_1k</phrase>
+			<phrase>1_twentyfour_1k</phrase>
+			<phrase>1_twentyfive_1k</phrase>
+			<phrase>1_twentysix_1k</phrase>
+			<phrase>1_twentyseven_1k</phrase>
+			<phrase>1_twentyeight_1k</phrase>
+			<phrase>1_twentynine_1k</phrase>
+			<phrase>1_thirty_1k</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_getmorenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thirtyone_1l</phrase>
+			<phrase>1_thirtytwo_1l</phrase>
+			<phrase>1_thirtythree_1l</phrase>
+			<phrase>1_thirtyfour_1l</phrase>
+			<phrase>1_thirtyfive_1l</phrase>
+			<phrase>1_thirtysix_1l</phrase>
+			<phrase>1_thirtyseven_1l</phrase>
+			<phrase>1_thirtyeight_1l</phrase>
+			<phrase>1_thirtynine_1l</phrase>
+			<phrase>1_forty_1l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowfillinthislastrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fortyone_1m</phrase>
+			<phrase>1_fortytwo_1m</phrase>
+			<phrase>1_fortythree_1m</phrase>
+			<phrase>1_fortyfour_1m</phrase>
+			<phrase>1_fortyfive_1m</phrase>
+			<phrase>1_fortysix_1m</phrase>
+			<phrase>1_fortyseven_1m</phrase>
+			<phrase>1_fortyeight_1m</phrase>
+			<phrase>1_fortynine_1m</phrase>
+			<phrase>1_fifty_1m</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldonewecountedtofifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="snap">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="put">
+			<phrase>put_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="flash1">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="bee">
+			<phrase>bee_buzz_longer</phrase>
+		</phrasegroup>
+		<phrasegroup id="flowers">
+			<phrase>whoosh_long_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="apples1">
+			<phrase>tear_longer_rippling_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="apples2">
+			<phrase>whoosh_longer_chopper_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="waves">
+			<phrase>water_rising</phrase>
+		</phrasegroup>
+		<phrasegroup id="fish1">
+			<phrase>droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="fish3">
+			<phrase>splash_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="fish2">
+			<phrase>splash_single_loud</phrase>
+		</phrasegroup>
+		<phrasegroup id="flash2">
+			<phrase>chime_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="ladybug">
+			<phrase>beetle_wings_long</phrase>
+		</phrasegroup>
+		<phrasegroup id="ball1">
+			<phrase>thud_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="ball2">
+			<phrase>bike_wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="piano">
+			<phrase>piano_scale_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="note5">
+			<phrase>note_beepey_8</phrase>
+		</phrasegroup>
+	</event>
+</audio>

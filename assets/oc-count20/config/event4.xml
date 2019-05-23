@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="4a,4c,4d,4e,4f,4g,4h,4i,4j,4k,4l,4m,4n,4o,4p,4q,4r,4s,4t,4u,4v,4w,4x,4y" textsize="58" >
+		<rectangle id="bottomrect" anchor="0.5,0" pos="0.5,0.502604" src="bottomrect" fill="255,255,255" zpos="0.001" hidden="true" fit="fitwidth,stretchtobottom" x="0" y="0.502604" width="1" height="0.497396" />
+		<rectangle id="toprect" anchor="0.5,1" pos="0.5,0.497396" src="toprect" fill="133,228,255" zpos="0" fit="fitwidth,stretchtotop" x="0" y="0" width="1" height="0.497396" />
+		<vector id="obj1" pos="0.0600586,0.658377" parent="toprect" src="simplecounter" zpos="1" />
+		<vector id="dottedline" pos="0.5,1.13438" parent="obj1" src="dottedline" zpos="1.01" hidden="true" />
+		<vector id="obj2" pos="0.157606,0.658377" parent="toprect" src="simplecounter" zpos="1.001" />
+		<vector id="obj3" pos="0.255154,0.658377" parent="toprect" src="simplecounter" zpos="1.002" />
+		<vector id="obj4" pos="0.352702,0.658377" parent="toprect" src="simplecounter" zpos="1.003" />
+		<vector id="obj5" pos="0.45025,0.658377" parent="toprect" src="simplecounter" zpos="1.004" />
+		<vector id="obj6" pos="0.547797,0.658377" parent="toprect" src="simplecounter" zpos="1.005" />
+		<vector id="obj7" pos="0.645345,0.658377" parent="toprect" src="simplecounter" zpos="1.006" />
+		<vector id="obj8" pos="0.742893,0.658377" parent="toprect" src="simplecounter" zpos="1.007" />
+		<vector id="obj9" pos="0.840441,0.658377" parent="toprect" src="simplecounter" zpos="1.008" />
+		<vector id="obj10" pos="0.937988,0.658377" parent="toprect" src="simplecounter" zpos="1.009" />
+	</event>
+	<event id="4a" >
+		<vector id="obj1" pos="0.632065,0.520043" parent="bottomrect" src="simplecounter" zpos="0" />
+		<vector id="obj2" pos="0.767699,0.345294" parent="bottomrect" src="simplecounter" zpos="0.001" />
+		<vector id="obj3" pos="0.167771,0.205743" parent="bottomrect" src="simplecounter" zpos="0.002" />
+		<vector id="obj4" pos="0.775355,0.760788" parent="bottomrect" src="simplecounter" zpos="0.003" />
+		<vector id="obj5" pos="0.2786,0.763488" parent="bottomrect" src="simplecounter" zpos="0.004" />
+		<vector id="obj6" pos="0.092353,0.624346" parent="bottomrect" src="simplecounter" zpos="0.005" />
+		<vector id="obj7" pos="0.90928,0.457041" parent="bottomrect" src="simplecounter" zpos="0.006" />
+		<vector id="obj8" pos="0.585609,0.202624" parent="bottomrect" src="simplecounter" zpos="0.007" />
+		<vector id="obj9" pos="0.496435,0.714803" parent="bottomrect" src="simplecounter" zpos="0.008" />
+		<vector id="obj10" pos="0.332897,0.4031" parent="bottomrect" src="simplecounter" zpos="0.009" />
+	</event>
+	<event id="4n" targetno="12" >
+	</event>
+	<event id="4o" targetno="16" >
+	</event>
+	<event id="4p" targetno="19" >
+	</event>
+	<event id="4q" targetno="15" >
+	</event>
+	<event id="4r" targetno="20" >
+	</event>
+	<event id="4t" targetno="13" >
+	</event>
+	<event id="4u" targetno="12" >
+	</event>
+	<event id="4v" targetno="19" >
+	</event>
+	<event id="4w" targetno="16" >
+	</event>
+	<event id="4x" targetno="18" >
+	</event>
+</events>

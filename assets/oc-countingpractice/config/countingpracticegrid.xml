@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" >
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="1" />
+	</event>
+	<event id="grid" >
+		<rectangle id="colour_number_box_hilited" pos="0.834991,0.271818" src="colour_number_box_hilited" fill="250,203,61" stroke="200,200,200" strokewidth="1" zpos="4.003" x="0.803249" y="0.252665" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_number_box_normal" pos="0.674301,0.271965" src="colour_number_box_normal" fill="255,255,255" stroke="200,200,200" strokewidth="1" zpos="4.004" x="0.642559" y="0.252813" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_number_box_selected" pos="0.755108,0.269636" src="colour_number_box_selected" fill="251,255,162" stroke="200,200,200" strokewidth="1" zpos="4.005" x="0.723366" y="0.250483" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_hilited" pos="0.74744,0.157829" src="colour_text_hilited" fill="255,0,0" stroke="200,200,200" strokewidth="1" zpos="4.001" x="0.715698" y="0.138677" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_movable" pos="0.830349,0.154569" src="colour_text_movable" fill="80,148,208" stroke="200,200,200" strokewidth="1" zpos="4.002" x="0.798607" y="0.135417" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_normal" pos="0.675327,0.160886" src="colour_text_normal" fill="0,0,0" stroke="200,200,200" strokewidth="1" zpos="4" x="0.643585" y="0.141734" width="0.0634842" height="0.0383046" />
+		<rectangle id="number_box" pos="0.0654526,0.342733" src="number_box" fill="251,255,162" stroke="200,200,200" strokewidth="3" zpos="5.001" x="0.0190659" y="0.280884" width="0.0927734" height="0.123698" />
+		<circle id="position1" pos="0.0742226,0.660411" src="position1" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.002" x="0.0351601" y="0.608327" width="0.078125" height="0.104167" />
+		<circle id="position2" pos="0.131771,0.915751" src="position2" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5" x="0.0927086" y="0.863668" width="0.078125" height="0.104167" />
+		<circle id="position3" pos="0.233452,0.785309" src="position3" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.003" x="0.194389" y="0.733226" width="0.078125" height="0.104167" />
+		<circle id="position4" pos="0.406597,0.916494" src="position4" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.004" x="0.367535" y="0.86441" width="0.078125" height="0.104167" />
+		<circle id="position5" pos="0.397781,0.704102" src="position5" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.005" x="0.358719" y="0.652018" width="0.078125" height="0.104167" />
+		<circle id="position6" pos="0.597427,0.774099" src="position6" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.006" x="0.558365" y="0.722015" width="0.078125" height="0.104167" />
+		<circle id="position7" pos="0.829571,0.703588" src="position7" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.007" x="0.790508" y="0.651505" width="0.078125" height="0.104167" />
+		<circle id="position8" pos="0.723877,0.895004" src="position8" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.008" x="0.684814" y="0.842921" width="0.078125" height="0.104167" />
+		<circle id="position9" pos="0.928528,0.886861" src="position9" fill="0,0,255" stroke="200,200,200" strokewidth="1" zpos="5.009" x="0.889465" y="0.834778" width="0.078125" height="0.104167" />
+	</event>
+</events>

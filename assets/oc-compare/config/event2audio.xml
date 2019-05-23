@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170624.073655148">
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_thisisthesmallestcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_thisisnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>2_thisisthelargestone</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>2_nowthecirclesareinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_putthesecirclesinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthesecirclesinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestcirclefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthesquaresinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthesquaresinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestsquarefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthetrianglesinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthetrianglesinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallesttrianglefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthediamondsinorderthistimeputthelargestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthediamondsinorderwiththelargestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargestdiamondfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthestarsinorderwiththelargestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthestarsinorderwiththelargestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargeststarfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtherearefoursquaresputtheminorderwiththelargestsquarefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthesquaresinorderwiththelargestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargestsquarefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthecirclesinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthecirclesinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestcirclefirst_2h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthediamondsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthediamondsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargestdiamondfirst_2i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthestarsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthestarsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargeststarfirst_2j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_puttheblocksinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheblocksinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestblockfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowputtheshoesinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheshoesinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargestshoefirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthesocksinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthesocksinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestsockfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthepresentsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthepresentsinorderlargestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthelargestpresentfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_andnowtrythisputthefiveballsinorderwiththesmallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheballsinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthesmallestballfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_excellentyouputthingsinorderofsizewiththesmallestfirstorthelargestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>
