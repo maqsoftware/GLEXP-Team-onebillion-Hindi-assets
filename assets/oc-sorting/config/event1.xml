@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="1a,1b,1c,1d,1e,1f,1g,1h,1i,1j" colour="182,237,251" >
+		<rectangle id="positionrect" pos="0.373949,0.521823" src="positionrect" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0340843" y="0.0873922" width="0.679729" height="0.868861" pxwidth="696.043" pxheight="667.285" />
+		<group id="bigBox1"  pos="0.359583,0.259157" src="bigBox1" zpos="1.002">
+			<rectangle id="boxgroup" pos="0.479277,0.199139" parent="positionrect" src="boxgroup" stroke="133,209,227" strokewidth="2" zpos="1.001" x="0.0418044" y="0.0717576" width="0.874946" height="0.254764" cornerradius="0.032828" />
+			<group id="Group8"  pos="0.359583,0.259157" src="Group8" hasmask="true" zpos="1">
+				<rectangle id="backrect" pos="0.479277,0.199139" parent="positionrect" src="backrect" fill="255,255,255" zpos="1" x="0.0418044" y="0.0717576" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<rectangle id="maskthing" pos="0.479277,0.199139" parent="positionrect" src="maskthing" fill="255,255,255" zpos="1.002" x="0.0418044" y="0.0717576" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<path id="shadowthing" pos="0.478865,0.197689" parent="positionrect" src="shadowthing" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.17" shadowradius="3" shadowxoffset="3" shadowyoffset="3" zpos="1.001" d="M0.0278668 0.339005L0.0278668 0.339005L0.0278668 0.0563735L0.929863 0.0563735L0.929863 0.339005L0.0278668 0.339005ZM0.0418044 0.318158L0.0418044 0.318158c0.000 0.005 0.004 0.008 0.008 0.008L0.908733 0.326521L0.908733 0.326521c0.004 0.000 0.008-0.004 0.008-0.008L0.91675 0.080121L0.91675 0.080121c0.000-0.005-0.004-0.008-0.008-0.008L0.0498222 0.0717577L0.0498222 0.0717577c-0.004 0.000-0.008 0.004-0.008 0.008L0.0418044 0.318158Z" />
+			</group>
+		</group>
+		<group id="bigBox2"  pos="0.359583,0.530862" src="bigBox2" zpos="1">
+			<rectangle id="boxgroup" pos="0.479277,0.511854" parent="positionrect" src="boxgroup" stroke="133,209,227" strokewidth="2" zpos="1.001" x="0.0418044" y="0.384472" width="0.874946" height="0.254764" cornerradius="0.032828" />
+			<group id="Group4"  pos="0.359583,0.530862" src="Group4" hasmask="true" zpos="1">
+				<rectangle id="backrect" pos="0.479277,0.511854" parent="positionrect" src="backrect" fill="255,255,255" zpos="1" x="0.0418044" y="0.384472" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<rectangle id="maskthing" pos="0.479277,0.511854" parent="positionrect" src="maskthing" fill="255,255,255" zpos="1.002" x="0.0418044" y="0.384472" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<path id="shadowthing" pos="0.478865,0.510404" parent="positionrect" src="shadowthing" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.17" shadowradius="3" shadowxoffset="3" shadowyoffset="3" zpos="1.001" d="M0.0278668 0.65172L0.0278668 0.65172L0.0278668 0.369088L0.929863 0.369088L0.929863 0.65172L0.0278668 0.65172ZM0.0418044 0.630873L0.0418044 0.630873c0.000 0.005 0.004 0.008 0.008 0.008L0.908733 0.639236L0.908733 0.639236c0.004 0.000 0.008-0.004 0.008-0.008L0.91675 0.392836L0.91675 0.392836c0.000-0.005-0.004-0.008-0.008-0.008L0.0498222 0.384472L0.0498222 0.384472c-0.004 0.000-0.008 0.004-0.008 0.008L0.0418044 0.630873Z" />
+			</group>
+		</group>
+		<group id="bigBox3"  pos="0.359583,0.800393" src="bigBox3" zpos="1.001">
+			<rectangle id="boxgroup" pos="0.479277,0.822066" parent="positionrect" src="boxgroup" stroke="133,209,227" strokewidth="2" zpos="1.001" x="0.0418044" y="0.694685" width="0.874946" height="0.254764" cornerradius="0.032828" />
+			<group id="Group6"  pos="0.359583,0.800393" src="Group6" hasmask="true" zpos="1">
+				<rectangle id="backrect" pos="0.479277,0.822066" parent="positionrect" src="backrect" fill="255,255,255" zpos="1" x="0.0418044" y="0.694685" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<rectangle id="maskthing" pos="0.479277,0.822066" parent="positionrect" src="maskthing" fill="255,255,255" zpos="1.002" x="0.0418044" y="0.694685" width="0.874946" height="0.254764" cornerradius="0.032828" />
+				<path id="shadowthing" pos="0.478865,0.820616" parent="positionrect" src="shadowthing" fill="255,255,255" shadowcolour="0,0,0" shadowopacity="0.17" shadowradius="3" shadowxoffset="3" shadowyoffset="3" zpos="1.001" d="M0.0278668 0.961932L0.0278668 0.961932L0.0278668 0.6793L0.929863 0.6793L0.929863 0.961932L0.0278668 0.961932ZM0.0418044 0.941085L0.0418044 0.941085c0.000 0.005 0.004 0.008 0.008 0.008L0.908733 0.949448L0.908733 0.949448c0.004 0.000 0.008-0.004 0.008-0.008L0.91675 0.703048L0.91675 0.703048c0.000-0.005-0.004-0.008-0.008-0.008L0.0498222 0.694685L0.0498222 0.694685c-0.004 0.000-0.008 0.004-0.008 0.008L0.0418044 0.941085Z" />
+			</group>
+		</group>
+	</event>
+	<event id="1a" >
+		<vector id="obj1" pos="0.222693,0.201116" parent="positionrect" src="yellowSock" scalex="1.61296" scaley="1.61296" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obj2" pos="0.815575,0.761417" src="yellowSock" scalex="1.61296" scaley="1.61296" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obj3" pos="0.195786,0.517392" parent="positionrect" src="blueSock" scalex="1.6359" scaley="1.6359" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="b" />
+		<vector id="obj4" pos="0.177157,0.828856" parent="positionrect" src="pinkSock" scalex="1.65343" scaley="1.65343" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="c" />
+		<vector id="obja2" pos="0.780405,0.239957" src="blueSock" scalex="1.6359" scaley="1.6359" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="b" />
+		<vector id="obja3" pos="0.87746,0.528694" src="pinkSock" scalex="1.65343" scaley="1.65343" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="c" />
+	</event>
+	<event id="1d" >
+		<vector id="obj1" pos="0.203818,0.432695" parent="bigBox1" src="greenShoe" scalex="-0.613" scaley="0.613039" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obj3" pos="0.219547,0.518149" parent="bigBox2" src="blueTrainer" scalex="1.01562" scaley="1.02435" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="b" />
+		<vector id="obj5" pos="0.226093,0.521497" parent="bigBox3" src="pinkShoe" scalex="-1.5" scaley="1.49961" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="c" />
+		<vector id="obja2" pos="0.844318,0.533731" src="greenShoe" scalex="0.613" scaley="0.613039" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja4" pos="0.827599,0.768763" src="blueTrainer" scalex="1.01562" scaley="1.02435" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="b" />
+		<vector id="obja6" pos="0.810467,0.283176" src="pinkShoe" scalex="1.49961" scaley="1.49961" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="c" />
+	</event>
+	<event id="1e" >
+		<vector id="obj1" pos="0.140207,0.503599" parent="bigBox1" src="yellowStar" scalex="1.83008" scaley="1.83008" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obj2" pos="0.135353,0.550191" parent="bigBox2" src="redFlower" scalex="0.847882" scaley="0.847882" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="b" />
+		<vector id="obj3" pos="0.140153,0.523379" parent="bigBox3" src="beachBall" scalex="0.828096" scaley="0.828096" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="c" />
+		<vector id="obja1" pos="0.876343,0.493449" src="yellowStar" scalex="1.83008" scaley="1.83008" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja2" pos="0.897163,0.307882" src="redFlower" scalex="0.847882" scaley="0.847882" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="b" />
+		<vector id="obja3" pos="0.740446,0.166913" src="beachBall" scalex="0.828096" scaley="0.828096" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="c" />
+		<vector id="obja4" pos="0.757107,0.868352" src="yellowStar" scalex="1.83008" scaley="1.83008" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="a" />
+		<vector id="obja5" pos="0.767803,0.648224" src="redFlower" scalex="0.847882" scaley="0.847882" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="b" />
+		<vector id="obja6" pos="0.900606,0.807844" src="beachBall" scalex="0.828096" scaley="0.828096" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="c" />
+	</event>
+	<event id="1f" >
+		<vector id="obj1" pos="0.15167,0.504707" parent="bigBox1" src="bird" scalex="1.22187" scaley="1.22187" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obj4" pos="0.148881,0.523418" parent="bigBox2" src="fish" scalex="0.78355" scaley="0.78355" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="b" />
+		<vector id="obja2" pos="0.754003,0.184588" src="fish" scalex="0.78355" scaley="0.78355" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="b" />
+		<vector id="obja3" pos="0.740154,0.381807" src="frog" scalex="0.426142" scaley="0.426142" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="c" />
+		<vector id="obja4" pos="0.900888,0.336383" src="bird" scalex="1.22187" scaley="1.22187" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja5" pos="0.901525,0.867627" src="fish" scalex="0.78355" scaley="0.78355" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="b" />
+		<vector id="obja6" pos="0.914543,0.636192" src="frog" scalex="0.426142" scaley="0.426142" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="c" />
+		<vector id="obja7" pos="0.764048,0.584043" src="bird" scalex="1.22187" scaley="1.22187" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="a" />
+		<vector id="obja9" pos="0.752323,0.820238" src="frog" scalex="0.426142" scaley="0.426142" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="c" />
+	</event>
+	<event id="1g" >
+		<vector id="obj1" pos="0.135188,0.51992" parent="bigBox1" src="apple" scalex="0.889017" scaley="0.889017" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obja4" pos="0.868299,0.486521" src="apple" scalex="0.889017" scaley="0.889017" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja7" pos="0.747084,0.670314" src="apple" scalex="0.889017" scaley="0.889017" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="a" />
+		<vector id="obja10" pos="0.734055,0.135113" src="banana" scalex="0.826941" scaley="0.826941" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="b" />
+		<vector id="obja11" pos="0.877059,0.293391" src="banana" scalex="0.816207" scaley="0.816207" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="b" />
+		<vector id="obja12" pos="0.881442,0.682877" src="banana" scalex="0.816207" scaley="0.816207" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="b" />
+		<vector id="obja13" pos="0.744857,0.886602" src="banana" scalex="0.816207" scaley="0.816207" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="b" />
+		<vector id="obja14" pos="0.740754,0.381426" src="orange" scalex="0.715462" scaley="0.715462" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="c" />
+		<vector id="obja15" pos="0.923828,0.85026" src="orange" scalex="0.715462" scaley="0.715462" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="c" />
+	</event>
+	<event id="1h" >
+		<vector id="obj1" pos="0.13101,0.498887" parent="bigBox3" src="purpleSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="c" />
+		<vector id="obja2" pos="0.900749,0.280075" src="purpleSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="c" />
+		<vector id="obja3" pos="0.767982,0.529922" src="purpleSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="c" />
+		<vector id="obja4" pos="0.920071,0.833267" src="purpleSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="c" />
+		<vector id="obja5" pos="0.749519,0.163432" src="greenCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="a" />
+		<vector id="obja6" pos="0.913219,0.463572" src="greenCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="a" />
+		<vector id="obja7" pos="0.72678,0.69222" src="greenCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="a" />
+		<vector id="obja8" pos="0.746593,0.353256" src="blueStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="b" />
+		<vector id="obja9" pos="0.906414,0.631892" src="blueStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="b" />
+		<vector id="obja10" pos="0.785675,0.850454" src="blueStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.009" tag="b" />
+	</event>
+	<event id="1i" >
+		<vector id="obj1" pos="0.129635,0.504365" parent="bigBox1" src="greenStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obj2" pos="0.336711,0.55395" parent="bigBox1" src="greenSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja3" pos="0.91592,0.862788" src="greenSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="a" />
+		<vector id="obja4" pos="0.738277,0.207092" src="greenCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="a" />
+		<vector id="obja5" pos="0.889023,0.245244" src="purpleStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="b" />
+		<vector id="obja6" pos="0.836044,0.699712" src="purpleStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="b" />
+		<vector id="obja7" pos="0.753082,0.563446" src="purpleSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="b" />
+		<vector id="obja8" pos="0.754608,0.373901" src="blueStar" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="c" />
+		<vector id="obja9" pos="0.889614,0.43162" src="blueSquare" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="c" />
+		<vector id="obja10" pos="0.930832,0.598994" src="blueCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.009" tag="c" />
+		<vector id="obja11" pos="0.738091,0.807892" src="blueCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.01" tag="c" />
+	</event>
+	<event id="1j" >
+		<vector id="obja1" pos="0.850006,0.18133" src="redSquare" scalex="0.855666" scaley="0.855666" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4" tag="a" />
+		<vector id="obja2" pos="0.723209,0.341095" src="redCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.001" tag="a" />
+		<vector id="obja3" pos="0.935535,0.477509" src="redTriangle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.002" tag="a" />
+		<vector id="obja4" pos="0.717659,0.825368" src="redDiamond" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.003" tag="a" />
+		<vector id="obja5" pos="0.723183,0.178446" src="yellowTriangle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.004" tag="b" />
+		<vector id="obja6" pos="0.943283,0.324631" src="yellowSquare" scalex="0.864583" scaley="0.864583" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.005" tag="b" />
+		<vector id="obja7" pos="0.809414,0.565328" src="yellowDiamond" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.006" tag="b" />
+		<vector id="obja8" pos="0.913906,0.881571" src="yellowCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.007" tag="b" />
+		<vector id="obja9" pos="0.835438,0.38206" src="blueDiamond" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.008" tag="c" />
+		<vector id="obja10" pos="0.71233,0.554092" src="blueTriangle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.009" tag="c" />
+		<vector id="obja11" pos="0.926041,0.651657" src="blueCircle" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.01" tag="c" />
+		<vector id="obja12" pos="0.821438,0.75827" src="blueSquare" scalex="0.868056" scaley="0.868056" shadowcolour="167,167,167" shadowopacity="0.5" shadowradius="0" shadowxoffset="3" shadowyoffset="3" zpos="4.011" tag="c" />
+	</event>
+</events>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p1_2.aif</url>
+	<relurl>p1_2.aif</relurl>
+	<timings text="“Ina mavumbi kidogo,” Balu anasema. “Nitaisafisha.”" frames="184829">
+		<timing id="0" start="0.000" end="0.251" startframe="0" framelength="11054" text="Ina"/>
+		<timing id="1" start="0.251" end="0.768" startframe="11054" framelength="22817" text="mavumbi"/>
+		<timing id="2" start="0.768" end="1.542" startframe="33871" framelength="34132" text="kidogo"/>
+		<timing id="3" start="1.816" end="2.171" startframe="80096" framelength="15649" text="Balu"/>
+		<timing id="4" start="2.171" end="2.866" startframe="95745" framelength="30629" text="anasema"/>
+		<timing id="5" start="3.143" end="4.191" startframe="138614" framelength="46215" text="Nitaisafisha"/>
+	</timings>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl8_alifurahi.aif</url>
+	<relurl>psyl8_alifurahi.aif</relurl>
+	<timings text="a - li - fu - ra - hi" frames="138476">
+		<timing id="0" start="0.000" end="0.408" startframe="0" framelength="17979" text="a"/>
+		<timing id="1" start="0.615" end="1.183" startframe="27105" framelength="25063" text="li"/>
+		<timing id="2" start="1.349" end="1.912" startframe="59492" framelength="24847" text="fu"/>
+		<timing id="3" start="2.062" end="2.596" startframe="90923" framelength="23555" text="ra"/>
+		<timing id="4" start="2.788" end="3.140" startframe="122968" framelength="15508" text="hi"/>
+	</timings>
+</xml>

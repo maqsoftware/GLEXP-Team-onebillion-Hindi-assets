@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="“Ni pia yangu inayozunguka!” baba anasema. Anaizungushia uzi mara kadhaa kisha anaiweka chini sakafuni." frames="377562">
+		<timing id="0" start="0.000" end="0.258" startframe="0" framelength="11370" text="Ni"/>
+		<timing id="1" start="0.258" end="0.483" startframe="11370" framelength="9919" text="pia"/>
+		<timing id="2" start="0.483" end="0.900" startframe="21289" framelength="18413" text="yangu"/>
+		<timing id="3" start="0.900" end="1.882" startframe="39702" framelength="43280" text="inayozunguka"/>
+		<timing id="4" start="2.086" end="2.492" startframe="91981" framelength="17936" text="baba"/>
+		<timing id="5" start="2.492" end="3.170" startframe="109917" framelength="29862" text="anasema"/>
+		<timing id="6" start="3.526" end="4.559" startframe="155483" framelength="45569" text="Anaizungushia"/>
+		<timing id="7" start="4.559" end="4.900" startframe="201052" framelength="15057" text="uzi"/>
+		<timing id="8" start="4.900" end="5.209" startframe="216109" framelength="13626" text="mara"/>
+		<timing id="9" start="5.209" end="5.971" startframe="229735" framelength="33578" text="kadhaa"/>
+		<timing id="10" start="6.359" end="6.716" startframe="280421" framelength="15739" text="kisha"/>
+		<timing id="11" start="6.716" end="7.236" startframe="296160" framelength="22939" text="anaiweka"/>
+		<timing id="12" start="7.236" end="7.812" startframe="319099" framelength="25394" text="chini"/>
+		<timing id="13" start="7.812" end="8.561" startframe="344493" framelength="33069" text="sakafuni"/>
+	</timings>
+</xml>

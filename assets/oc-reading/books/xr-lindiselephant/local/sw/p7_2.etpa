@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p7_2.aif</url>
+	<relurl>p7_2.aif</relurl>
+	<timings text="Linda akajisikia mpweke." frames="95923">
+		<timing id="0" start="0.000" end="0.617" startframe="0" framelength="27193" text="Linda"/>
+		<timing id="1" start="0.617" end="1.570" startframe="27193" framelength="42024" text="akajisikia"/>
+		<timing id="2" start="1.570" end="2.175" startframe="69217" framelength="26706" text="mpweke"/>
+	</timings>
+</xml>

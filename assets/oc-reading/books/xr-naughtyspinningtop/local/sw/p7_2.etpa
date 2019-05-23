@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p7_2.aif</url>
+	<relurl>p7_2.aif</relurl>
+	<timings text="“Tuitafute!” Balu anasema." frames="117778">
+		<timing id="0" start="0.000" end="1.046" startframe="0" framelength="46111" text="Tuitafute"/>
+		<timing id="1" start="1.653" end="1.988" startframe="72896" framelength="14753" text="Balu"/>
+		<timing id="2" start="1.988" end="2.671" startframe="87649" framelength="30129" text="anasema"/>
+	</timings>
+</xml>

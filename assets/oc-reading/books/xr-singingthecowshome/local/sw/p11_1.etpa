@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Mati aliimba kila alipopita hadi nyumbani na ng’ombe wote walimfuata." frames="245996">
+		<timing id="0" start="0.000" end="0.633" startframe="0" framelength="27920" text="Mati"/>
+		<timing id="1" start="0.633" end="1.232" startframe="27920" framelength="26421" text="aliimba"/>
+		<timing id="2" start="1.232" end="1.638" startframe="54341" framelength="17891" text="kila"/>
+		<timing id="3" start="1.638" end="2.530" startframe="72232" framelength="39334" text="alipopita"/>
+		<timing id="4" start="2.530" end="2.831" startframe="111566" framelength="13292" text="hadi"/>
+		<timing id="5" start="2.831" end="3.452" startframe="124858" framelength="27392" text="nyumbani"/>
+		<timing id="6" start="3.925" end="4.126" startframe="173086" framelength="8856" text="na"/>
+		<timing id="7" start="4.126" end="4.412" startframe="181942" framelength="12630" text="ng’ombe"/>
+		<timing id="8" start="4.412" end="4.738" startframe="194572" framelength="14358" text="wote"/>
+		<timing id="9" start="4.738" end="5.578" startframe="208930" framelength="37066" text="walimfuata"/>
+	</timings>
+</xml>

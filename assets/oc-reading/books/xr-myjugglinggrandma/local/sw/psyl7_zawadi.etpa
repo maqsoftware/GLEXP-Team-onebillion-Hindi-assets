@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl7_zawadi.aif</url>
+	<relurl>psyl7_zawadi.aif</relurl>
+	<timings text="za - wa - di." frames="82898">
+		<timing id="0" start="0.000" end="0.564" startframe="0" framelength="24865" text="za"/>
+		<timing id="1" start="0.792" end="1.302" startframe="34926" framelength="22510" text="wa"/>
+		<timing id="2" start="1.573" end="1.880" startframe="69373" framelength="13525" text="di"/>
+	</timings>
+</xml>

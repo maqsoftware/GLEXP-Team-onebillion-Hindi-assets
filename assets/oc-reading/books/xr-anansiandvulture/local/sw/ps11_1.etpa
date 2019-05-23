@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps11_1.aif</url>
+	<relurl>ps11_1.aif</relurl>
+	<timings text="Chifu aliwaita tena Anansi na Tai." frames="511034">
+		<timing id="0" start="0.000" end="0.724" startframe="0" framelength="31929" text="Chifu"/>
+		<timing id="1" start="2.260" end="3.306" startframe="99682" framelength="46133" text="aliwaita"/>
+		<timing id="2" start="4.971" end="5.657" startframe="219222" framelength="30268" text="tena"/>
+		<timing id="3" start="7.281" end="8.154" startframe="321097" framelength="38501" text="Anansi"/>
+		<timing id="4" start="9.546" end="10.044" startframe="420958" framelength="21998" text="na"/>
+		<timing id="5" start="11.128" end="11.588" startframe="490747" framelength="20287" text="Tai"/>
+	</timings>
+</xml>

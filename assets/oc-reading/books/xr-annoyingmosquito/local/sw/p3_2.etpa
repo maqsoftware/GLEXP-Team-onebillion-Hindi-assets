@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p3_2.aif</url>
+	<relurl>p3_2.aif</relurl>
+	<timings text="Kwa muda mfupi, kila kitu kilikuwa kimya." frames="135351">
+		<timing id="0" start="0.057" end="0.196" startframe="2523" framelength="6132" text="Kwa"/>
+		<timing id="1" start="0.196" end="0.493" startframe="8655" framelength="13097" text="muda"/>
+		<timing id="2" start="0.493" end="1.221" startframe="21752" framelength="32092" text="mfupi"/>
+		<timing id="3" start="1.371" end="1.667" startframe="60474" framelength="13030" text="kila"/>
+		<timing id="4" start="1.667" end="2.083" startframe="73504" framelength="18365" text="kitu"/>
+		<timing id="5" start="2.083" end="2.605" startframe="91869" framelength="23016" text="kilikuwa"/>
+		<timing id="6" start="2.605" end="3.069" startframe="114885" framelength="20466" text="kimya"/>
+	</timings>
+</xml>

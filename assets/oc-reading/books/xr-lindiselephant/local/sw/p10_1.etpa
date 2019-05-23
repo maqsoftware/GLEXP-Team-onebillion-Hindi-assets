@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Tembo akamnyanyua Linda kwa mkonga wake na kumuweka mgongoni." frames="225673">
+		<timing id="0" start="0.000" end="0.509" startframe="0" framelength="22433" text="Tembo"/>
+		<timing id="1" start="0.509" end="1.330" startframe="22433" framelength="36216" text="akamnyanyua"/>
+		<timing id="2" start="1.330" end="2.014" startframe="58649" framelength="30155" text="Linda"/>
+		<timing id="3" start="2.056" end="2.216" startframe="90687" framelength="7046" text="kwa"/>
+		<timing id="4" start="2.216" end="2.777" startframe="97733" framelength="24732" text="mkonga"/>
+		<timing id="5" start="2.777" end="3.220" startframe="122465" framelength="19535" text="wake"/>
+		<timing id="6" start="3.583" end="3.759" startframe="158018" framelength="7747" text="na"/>
+		<timing id="7" start="3.759" end="4.473" startframe="165765" framelength="31482" text="kumuweka"/>
+		<timing id="8" start="4.473" end="5.117" startframe="197247" framelength="28426" text="mgongoni"/>
+	</timings>
+</xml>

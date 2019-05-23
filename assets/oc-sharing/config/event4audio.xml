@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookfourchildren</phrase>
+			<phrase>4_touchthebuttontoputthemingroupsoftwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_twogroupswithtwochildrenineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextfoursheep</phrase>
+			<phrase>4_touchthebuttontoputthemingroupsoftwo_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4b</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4b</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twogroupswithtwosheepineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowfourcamels</phrase>
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twogroupswithtwocamelsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixgiraffes</phrase>
+			<phrase>4_putthemingroupsoftwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4d</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4d</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswithtwogiraffesineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixparrots</phrase>
+			<phrase>4_putthemingroupsoftwo_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswithtwoparrotsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixducks</phrase>
+			<phrase>4_putthemintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswithtwoducksineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_eightflowers</phrase>
+			<phrase>4_putthemintwos_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourgroupswithtwoflowersineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_eightumbrellas</phrase>
+			<phrase>4_putthemingroupsoftwo_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourgroupswithtwoumbrellasineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_eightglassesoforangejuice</phrase>
+			<phrase>4_makegroupsoftwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fourgroupswithtwoglassesineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tencandles</phrase>
+			<phrase>4_touchthebuttontoputthemingroupsoftwo_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fivegroupswithtwocandlesineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nexttenspoons</phrase>
+			<phrase>4_putthemingroupsoftwo_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fivegroupswithtwospoonsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tencombs</phrase>
+			<phrase>4_putthemintwos_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsoftwo_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fivegroupswithtwocombsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowletstrythreestherearesixsheep</phrase>
+			<phrase>4_touchthebuttontoputthemingroupsofthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twogroupswiththreesheepineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixparrots_4n</phrase>
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4l</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twogroupswiththreeparrotsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixflowerpots</phrase>
+			<phrase>4_putthemingroupsofthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twogroupswiththreeflowerpotsineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nineumbrellas</phrase>
+			<phrase>4_putthemingroupsofthree_4p</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswiththreeumbrellasineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nineforks</phrase>
+			<phrase>4_puttheminthrees</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain_4q</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswiththreeforksineachgroup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r">
+		<phrasegroup id="PROMPT">
+			<phrase>4_ninecandles</phrase>
+			<phrase>4_touchthebuttontoputtheminthrees</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_touchthebuttontomakegroupsofthree_4n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain_4q</phrase>
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanygroupshaveyoumade_4q</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threegroupswiththreecandlesineachgroup</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_goodyouputthingsingroupsoftwoandthreethenyoucountedthegroups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

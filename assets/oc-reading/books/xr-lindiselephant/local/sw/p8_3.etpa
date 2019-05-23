@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p8_3.aif</url>
+	<relurl>p8_3.aif</relurl>
+	<timings text="Lilikuwa na mkonga mkubwa na masikio yaliyopinda." frames="178676">
+		<timing id="0" start="0.000" end="0.683" startframe="0" framelength="30104" text="Lilikuwa"/>
+		<timing id="1" start="0.683" end="0.812" startframe="30104" framelength="5695" text="na"/>
+		<timing id="2" start="0.812" end="1.597" startframe="35799" framelength="34617" text="mkonga"/>
+		<timing id="3" start="1.619" end="2.450" startframe="71385" framelength="36680" text="mkubwa"/>
+		<timing id="4" start="2.536" end="2.656" startframe="111831" framelength="5314" text="na"/>
+		<timing id="5" start="2.656" end="3.173" startframe="117145" framelength="22771" text="masikio"/>
+		<timing id="6" start="3.173" end="4.052" startframe="139916" framelength="38760" text="yaliyopinda"/>
+	</timings>
+</xml>

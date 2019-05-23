@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="“Asante!” Paulina anasema. “Pia ile kongwe sasa inaonekana mpya kabisa!”" frames="284990">
+		<timing id="0" start="0.000" end="0.876" startframe="0" framelength="38644" text="Asante"/>
+		<timing id="1" start="1.239" end="1.691" startframe="54621" framelength="19960" text="Paulina"/>
+		<timing id="2" start="1.691" end="2.486" startframe="74581" framelength="35069" text="anasema"/>
+		<timing id="3" start="3.207" end="3.492" startframe="141418" framelength="12595" text="Pia"/>
+		<timing id="4" start="3.492" end="3.802" startframe="154013" framelength="13650" text="ile"/>
+		<timing id="5" start="3.802" end="4.261" startframe="167663" framelength="20268" text="kongwe"/>
+		<timing id="6" start="4.261" end="4.678" startframe="187931" framelength="18389" text="sasa"/>
+		<timing id="7" start="4.678" end="5.402" startframe="206320" framelength="31896" text="inaonekana"/>
+		<timing id="8" start="5.402" end="5.819" startframe="238216" framelength="18390" text="mpya"/>
+		<timing id="9" start="5.819" end="6.462" startframe="256606" framelength="28384" text="kabisa"/>
+	</timings>
+</xml>

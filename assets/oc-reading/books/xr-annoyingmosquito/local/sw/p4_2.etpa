@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p4_2.aif</url>
+	<relurl>p4_2.aif</relurl>
+	<timings text="Akaangalia chini ya kitanda." frames="75907">
+		<timing id="0" start="0.000" end="0.728" startframe="0" framelength="32098" text="Akaangalia"/>
+		<timing id="1" start="0.728" end="1.015" startframe="32098" framelength="12656" text="chini"/>
+		<timing id="2" start="1.015" end="1.179" startframe="44754" framelength="7242" text="ya"/>
+		<timing id="3" start="1.179" end="1.721" startframe="51996" framelength="23911" text="kitanda"/>
+	</timings>
+</xml>

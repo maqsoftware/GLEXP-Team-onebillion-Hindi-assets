@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p6_1.aif</url>
+	<relurl>p6_1.aif</relurl>
+	<timings text="Kumbe ni Tembo! Ni mkubwa na wa kijivu jivu. Tembo anarusha maji kutoka kwenye mkonga wake na kummwagia Jack." frames="459080">
+		<timing id="0" start="0.143" end="0.563" startframe="6298" framelength="18521" text="Kumbe"/>
+		<timing id="1" start="0.563" end="0.738" startframe="24819" framelength="7743" text="ni"/>
+		<timing id="2" start="0.738" end="1.496" startframe="32562" framelength="33431" text="Tembo"/>
+		<timing id="3" start="2.150" end="2.398" startframe="94832" framelength="10911" text="Ni"/>
+		<timing id="4" start="2.398" end="3.029" startframe="105743" framelength="27820" text="mkubwa"/>
+		<timing id="5" start="3.029" end="3.178" startframe="133563" framelength="6596" text="na"/>
+		<timing id="6" start="3.178" end="3.310" startframe="140159" framelength="5798" text="wa"/>
+		<timing id="7" start="3.310" end="3.751" startframe="145957" framelength="19468" text="kijivu"/>
+		<timing id="8" start="3.751" end="4.388" startframe="165425" framelength="28098" text="jivu"/>
+		<timing id="9" start="5.221" end="5.714" startframe="230236" framelength="21762" text="Tembo"/>
+		<timing id="10" start="5.714" end="6.302" startframe="251998" framelength="25904" text="anarusha"/>
+		<timing id="11" start="6.302" end="6.712" startframe="277902" framelength="18077" text="maji"/>
+		<timing id="12" start="6.712" end="7.163" startframe="295979" framelength="19917" text="kutoka"/>
+		<timing id="13" start="7.163" end="7.398" startframe="315896" framelength="10377" text="kwenye"/>
+		<timing id="14" start="7.398" end="7.777" startframe="326273" framelength="16684" text="mkonga"/>
+		<timing id="15" start="7.777" end="8.462" startframe="342957" framelength="30206" text="wake"/>
+		<timing id="16" start="8.648" end="8.849" startframe="381364" framelength="8874" text="na"/>
+		<timing id="17" start="8.849" end="9.511" startframe="390238" framelength="29211" text="kummwagia"/>
+		<timing id="18" start="9.511" end="10.222" startframe="419449" framelength="31363" text="Jack"/>
+	</timings>
+</xml>

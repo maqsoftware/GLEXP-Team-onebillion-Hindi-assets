@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Ni twiga! Anainamisha shingo yake karibu na bafu. Jack anamshikilia na kuteleza kwenye shingo ya twiga. Pwaah!" frames="1800336">
+		<timing id="0" start="0.000" end="0.571" startframe="0" framelength="25187" text="Ni"/>
+		<timing id="1" start="2.232" end="3.164" startframe="98445" framelength="41095" text="twiga"/>
+		<timing id="2" start="5.239" end="6.833" startframe="231061" framelength="70263" text="Anainamisha"/>
+		<timing id="3" start="8.135" end="9.466" startframe="358737" framelength="58725" text="shingo"/>
+		<timing id="4" start="10.765" end="11.733" startframe="474731" framelength="42694" text="yake"/>
+		<timing id="5" start="13.161" end="14.309" startframe="580415" framelength="50596" text="karibu"/>
+		<timing id="6" start="15.278" end="16.027" startframe="673747" framelength="33048" text="na"/>
+		<timing id="7" start="17.309" end="18.197" startframe="763308" framelength="39180" text="bafu"/>
+		<timing id="8" start="19.773" end="20.663" startframe="871986" framelength="39258" text="Jack"/>
+		<timing id="9" start="22.861" end="24.526" startframe="1008192" framelength="73413" text="anamshikilia"/>
+		<timing id="10" start="25.808" end="26.613" startframe="1138143" framelength="35482" text="na"/>
+		<timing id="11" start="27.613" end="29.048" startframe="1217744" framelength="63273" text="kuteleza"/>
+		<timing id="12" start="30.239" end="31.230" startframe="1333537" framelength="43723" text="kwenye"/>
+		<timing id="13" start="32.106" end="33.270" startframe="1415896" framelength="51321" text="shingo"/>
+		<timing id="14" start="34.321" end="35.293" startframe="1513570" framelength="42843" text="ya"/>
+		<timing id="15" start="36.521" end="37.528" startframe="1610585" framelength="44407" text="twiga"/>
+		<timing id="16" start="39.200" end="40.036" startframe="1728713" framelength="36876" text="Pwaah"/>
+	</timings>
+</xml>

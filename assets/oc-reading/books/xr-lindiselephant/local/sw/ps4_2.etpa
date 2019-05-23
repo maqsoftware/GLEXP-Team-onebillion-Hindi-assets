@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps4_2.aif</url>
+	<relurl>ps4_2.aif</relurl>
+	<timings text="“Nenda zako!” alipiga kelele Linda. “Wewe sio wa hapa!”" frames="455190">
+		<timing id="0" start="0.000" end="0.762" startframe="0" framelength="33605" text="Nenda"/>
+		<timing id="1" start="1.039" end="1.746" startframe="45829" framelength="31152" text="zako"/>
+		<timing id="2" start="2.289" end="3.317" startframe="100960" framelength="45300" text="alipiga"/>
+		<timing id="3" start="3.701" end="4.546" startframe="163206" framelength="37267" text="kelele"/>
+		<timing id="4" start="4.849" end="5.508" startframe="213821" framelength="29088" text="Linda"/>
+		<timing id="5" start="6.191" end="6.999" startframe="273040" framelength="35618" text="Wewe"/>
+		<timing id="6" start="7.495" end="8.233" startframe="330527" framelength="32549" text="sio"/>
+		<timing id="7" start="8.752" end="9.238" startframe="385976" framelength="21420" text="wa"/>
+		<timing id="8" start="9.855" end="10.322" startframe="434615" framelength="20575" text="hapa"/>
+	</timings>
+</xml>

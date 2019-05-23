@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<vector id="arrow" pos="0.95097,0.92063" src="arrow_next" scalex="0.6475" scaley="0.6475" zpos="0.003" />
+		<circle id="blob" pos="0.298641,0.178991" src="blob" fill="0,0,0" zpos="0.002" widthtracksheight="true" x="0.286434" y="0.162715" width="0.0244141" height="0.0325521" pxwidth="25" pxheight="25" />
+		<rectangle id="letterrect0" pos="0.142639,0.361827" src="letterrect0" fill="0,0,255" fillopacity="0.385065" zpos="0.001" hidden="true" widthtracksheight="true" x="0.0825909" y="0.275189" width="0.120097" height="0.173276" pxwidth="122.979" pxheight="133.076" />
+		<rectangle id="textarea" pos="0.5,0.519333" src="textarea" fill="0,0,255" fillopacity="0.385065" stroke="0,0,0" strokewidth="1" zpos="0" hidden="true" x="0.0308609" y="0.116231" width="0.938278" height="0.806203" />
+	</event>
+</events>

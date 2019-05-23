@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Mtoni, Mosi anaogelea kama bata. Anazamia chini, kama chura. Mama anakaa kitako kando ya mto na kuona iwapo yuko salama." frames="1477859">
+		<timing id="0" start="0.000" end="0.960" startframe="0" framelength="42335" text="Mtoni"/>
+		<timing id="1" start="1.596" end="2.505" startframe="70389" framelength="40094" text="Mosi"/>
+		<timing id="2" start="4.124" end="5.503" startframe="181886" framelength="60807" text="anaogelea"/>
+		<timing id="3" start="6.371" end="7.251" startframe="280958" framelength="38793" text="kama"/>
+		<timing id="4" start="7.805" end="8.697" startframe="344211" framelength="39312" text="bata"/>
+		<timing id="5" start="9.395" end="10.780" startframe="414300" framelength="61112" text="Anazamia"/>
+		<timing id="6" start="11.661" end="12.572" startframe="514255" framelength="40176" text="chini"/>
+		<timing id="7" start="13.418" end="14.345" startframe="591723" framelength="40878" text="kama"/>
+		<timing id="8" start="15.247" end="16.061" startframe="672378" framelength="35924" text="chura"/>
+		<timing id="9" start="16.894" end="17.826" startframe="745019" framelength="41129" text="Mama"/>
+		<timing id="10" start="18.447" end="19.632" startframe="813529" framelength="52264" text="anakaa"/>
+		<timing id="11" start="20.184" end="21.283" startframe="890126" framelength="48443" text="kitako"/>
+		<timing id="12" start="21.913" end="22.901" startframe="966360" framelength="43592" text="kando"/>
+		<timing id="13" start="23.506" end="24.262" startframe="1036598" framelength="33339" text="ya"/>
+		<timing id="14" start="25.110" end="26.094" startframe="1107355" framelength="43400" text="mto"/>
+		<timing id="15" start="26.701" end="27.540" startframe="1177529" framelength="36985" text="na"/>
+		<timing id="16" start="28.143" end="29.205" startframe="1241115" framelength="46808" text="kuona"/>
+		<timing id="17" start="29.663" end="30.655" startframe="1308135" framelength="43763" text="iwapo"/>
+		<timing id="18" start="31.255" end="32.162" startframe="1378343" framelength="40013" text="yuko"/>
+		<timing id="19" start="32.556" end="33.512" startframe="1435713" framelength="42146" text="salama"/>
+	</timings>
+</xml>

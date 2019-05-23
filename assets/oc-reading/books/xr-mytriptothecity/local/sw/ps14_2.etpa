@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps14_2.aif</url>
+	<relurl>ps14_2.aif</relurl>
+	<timings text="“Tumekupoteza,” alicheka. “Tulikuwa bize sana kukutafutia hii helikopta!”" frames="653010">
+		<timing id="0" start="0.000" end="1.268" startframe="0" framelength="55899" text="Tumekupoteza"/>
+		<timing id="1" start="2.248" end="3.342" startframe="99155" framelength="48230" text="alicheka"/>
+		<timing id="2" start="4.274" end="5.283" startframe="188484" framelength="44510" text="Tulikuwa"/>
+		<timing id="3" start="6.146" end="6.910" startframe="271060" framelength="33693" text="bize"/>
+		<timing id="4" start="7.882" end="8.672" startframe="347603" framelength="34835" text="sana"/>
+		<timing id="5" start="9.659" end="10.992" startframe="425968" framelength="58801" text="kukutafutia"/>
+		<timing id="6" start="12.447" end="13.104" startframe="548926" framelength="28942" text="hii"/>
+		<timing id="7" start="13.898" end="14.807" startframe="612883" framelength="40127" text="helikopta"/>
+	</timings>
+</xml>

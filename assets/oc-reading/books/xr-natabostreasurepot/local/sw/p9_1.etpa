@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p9_1.aif</url>
+	<relurl>p9_1.aif</relurl>
+	<timings text="Baadae kidogo, Nura alisikia sauti ambayo aliitambua." frames="198289">
+		<timing id="0" start="0.000" end="0.509" startframe="0" framelength="22445" text="Baadae"/>
+		<timing id="1" start="0.509" end="1.232" startframe="22445" framelength="31881" text="kidogo"/>
+		<timing id="2" start="1.594" end="1.924" startframe="70292" framelength="14565" text="Nura"/>
+		<timing id="3" start="1.924" end="2.435" startframe="84857" framelength="22546" text="alisikia"/>
+		<timing id="4" start="2.435" end="2.949" startframe="107403" framelength="22658" text="sauti"/>
+		<timing id="5" start="2.949" end="3.537" startframe="130061" framelength="25906" text="ambayo"/>
+		<timing id="6" start="3.537" end="4.496" startframe="155967" framelength="42322" text="aliitambua"/>
+	</timings>
+</xml>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="6a,6b,6c,6d,6e,6f,6g,6h,6i,6j,6k,6l,6m,6n,6o,6p,6q" colour="254,228,250" >
+		<rectangle id="arrrect" pos="0.852051,0.649089" src="arrrect" fill="255,255,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.780273" y="0.558594" width="0.143555" height="0.18099" pxwidth="147" pxheight="139" />
+		<rectangle id="backingrect" pos="0.421732,0.493683" src="backingrect" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.136723" y="0.115433" width="0.570019" height="0.7565" pxwidth="583.699" pxheight="580.992" />
+		<rectangle id="squ0" pos="0.13448,0.140876" parent="backingrect" src="squ0" fill="255,255,255" zpos="30.018" x="0.0411104" y="0.0487918" width="0.18674" height="0.184168" />
+		<rectangle id="squ1" pos="0.32122,0.140876" parent="backingrect" src="squ1" fill="255,255,255" zpos="30.002" x="0.22785" y="0.0487918" width="0.18674" height="0.184168" />
+		<rectangle id="squ2" pos="0.50796,0.140876" parent="backingrect" src="squ2" fill="255,255,255" zpos="30.006" x="0.41459" y="0.0487918" width="0.18674" height="0.184168" />
+		<rectangle id="squ3" pos="0.691274,0.140876" parent="backingrect" src="squ3" fill="255,255,255" zpos="30.004" x="0.597904" y="0.0487918" width="0.18674" height="0.184168" />
+		<rectangle id="squ4" pos="0.874588,0.140876" parent="backingrect" src="squ4" fill="255,255,255" zpos="30.001" x="0.781218" y="0.0487918" width="0.18674" height="0.184168" />
+		<rectangle id="squ5" pos="0.13448,0.324532" parent="backingrect" src="squ5" fill="255,255,255" zpos="30.016" x="0.0411104" y="0.232449" width="0.18674" height="0.184168" />
+		<rectangle id="squ6" pos="0.32122,0.324532" parent="backingrect" src="squ6" fill="255,255,255" zpos="30.003" x="0.22785" y="0.232449" width="0.18674" height="0.184168" />
+		<rectangle id="squ7" pos="0.50796,0.324532" parent="backingrect" src="squ7" fill="255,255,255" zpos="30.005" x="0.41459" y="0.232449" width="0.18674" height="0.184168" />
+		<rectangle id="squ8" pos="0.691274,0.324532" parent="backingrect" src="squ8" fill="255,255,255" zpos="30.007" x="0.597904" y="0.232449" width="0.18674" height="0.184168" />
+		<rectangle id="squ9" pos="0.874588,0.324532" parent="backingrect" src="squ9" fill="255,255,255" zpos="30.008" x="0.781218" y="0.232449" width="0.18674" height="0.184168" />
+		<rectangle id="squ10" pos="0.13448,0.508189" parent="backingrect" src="squ10" fill="255,255,255" zpos="30.015" x="0.0411104" y="0.416105" width="0.18674" height="0.184168" />
+		<rectangle id="squ11" pos="0.32122,0.508189" parent="backingrect" src="squ11" fill="255,255,255" zpos="30.014" x="0.22785" y="0.416105" width="0.18674" height="0.184168" />
+		<rectangle id="squ12" pos="0.50796,0.508189" parent="backingrect" src="squ12" fill="255,255,255" zpos="30.017" x="0.41459" y="0.416105" width="0.18674" height="0.184168" />
+		<rectangle id="squ13" pos="0.691274,0.508189" parent="backingrect" src="squ13" fill="255,255,255" zpos="30.019" x="0.597904" y="0.416105" width="0.18674" height="0.184168" />
+		<rectangle id="squ14" pos="0.874588,0.508189" parent="backingrect" src="squ14" fill="255,255,255" zpos="30.02" x="0.781218" y="0.416105" width="0.18674" height="0.184168" />
+		<rectangle id="squ15" pos="0.13448,0.691846" parent="backingrect" src="squ15" fill="255,255,255" zpos="30.021" x="0.0411104" y="0.599762" width="0.18674" height="0.184168" />
+		<rectangle id="squ16" pos="0.32122,0.691846" parent="backingrect" src="squ16" fill="255,255,255" zpos="30.009" x="0.22785" y="0.599762" width="0.18674" height="0.184168" />
+		<rectangle id="squ17" pos="0.50796,0.691846" parent="backingrect" src="squ17" fill="255,255,255" zpos="30.01" x="0.41459" y="0.599762" width="0.18674" height="0.184168" />
+		<rectangle id="squ18" pos="0.691274,0.691846" parent="backingrect" src="squ18" fill="255,255,255" zpos="30.022" x="0.597904" y="0.599762" width="0.18674" height="0.184168" />
+		<rectangle id="squ19" pos="0.874588,0.691846" parent="backingrect" src="squ19" fill="255,255,255" zpos="30" x="0.781218" y="0.599762" width="0.18674" height="0.184168" />
+		<rectangle id="squ20" pos="0.13448,0.878945" parent="backingrect" src="squ20" fill="255,255,255" zpos="30.011" x="0.0411104" y="0.786861" width="0.18674" height="0.184168" />
+		<rectangle id="squ21" pos="0.32122,0.878945" parent="backingrect" src="squ21" fill="255,255,255" zpos="30.012" x="0.22785" y="0.786861" width="0.18674" height="0.184168" />
+		<rectangle id="squ22" pos="0.50796,0.878945" parent="backingrect" src="squ22" fill="255,255,255" zpos="30.023" x="0.41459" y="0.786861" width="0.18674" height="0.184168" />
+		<rectangle id="squ23" pos="0.691274,0.878945" parent="backingrect" src="squ23" fill="255,255,255" zpos="30.013" x="0.597904" y="0.786861" width="0.18674" height="0.184168" />
+		<rectangle id="squ24" pos="0.874588,0.878945" parent="backingrect" src="squ24" fill="255,255,255" zpos="30.024" x="0.781218" y="0.786861" width="0.18674" height="0.184168" />
+		<rectangle id="timebox" pos="0.853559,0.317617" src="timebox" fill="255,255,255" stroke="99,34,174" strokewidth="3" zpos="31.006" widthtracksheight="true" x="0.800533" y="0.276332" width="0.106052" height="0.0825704" pxwidth="108.598" pxheight="63.4141" cornerradius="0.0762107" />
+		<vector id="arrowdown" pos="0.505368,0.996234" parent="arrrect" src="6_greenarrow" rotation="90" zpos="31.003" />
+		<vector id="arrowleft" pos="0.00255102,0.518941" parent="arrrect" src="6_greenarrow" zpos="31" />
+		<vector id="arrowright" pos="1.00335,0.524252" parent="arrrect" src="6_greenarrow" rotation="180" zpos="31.002" />
+		<vector id="arrowup" pos="0.506882,-0.00101169" parent="arrrect" src="6_greenarrow" rotation="-90" zpos="31.001" />
+		<path id="border" pos="0.503677,0.510932" parent="backingrect" src="border" stroke="137,47,178" strokewidth="4" zpos="31.009" hidden="true" d="M0.04111 0.9731L0.9662 0.9731L0.9662 0.04879L0.04111 0.04879L0.04111 0.9731Z" />
+		<vector id="counter" pos="0.421709,0.360292" src="6_button" scalex="0.272312" scaley="0.272312" shadowcolour="0,0,0" shadowopacity="0.265837" shadowradius="3" shadowxoffset="1" shadowyoffset="1" zpos="31.005" />
+		<linearGradient id="Gradient5" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(100%,0%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(42.9%,0%,0.481%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="gradientback" pos="0.504406,0.494117" parent="timebox" src="gradientback" fill="url(#Gradient5)"  zpos="31.007" x="0.0444948" y="0.0470001" width="0.919823" height="0.894234" />
+		<path id="grid" pos="0.503677,0.510932" parent="backingrect" src="grid" stroke="137,47,178" strokewidth="4" zpos="31.004" d="M0.04111 0.603L0.9662 0.603M0.04111 0.9731L0.9662 0.9731L0.9662 0.04879L0.04111 0.04879L0.04111 0.9731ZM0.2279 0.04879L0.2279 0.9731M0.4129 0.04879L0.4129 0.9731M0.5979 0.04879L0.5979 0.9731M0.7829 0.04879L0.7829 0.9731M0.04111 0.2329L0.9662 0.2329M0.04111 0.4171L0.9662 0.4171M0.04111 0.7872L0.9662 0.7872" />
+		<text id="numlabel"  pos="0.764437,0.319112" src="numlabel" zpos="31.008" hidden="true" x="0.743862" y="0.279322" width="0.0411491" height="0.0795797">
+<tspan x="0.118661" y="0.703566" font-family="Helvetica" font-size="44.000000" fill="rgb(0%,0%,0%)" >9</tspan>
+		</text>
+	</event>
+	<event id="1" >
+		<vector id="picture" pos="0.503677,0.510072" parent="backingrect" src="6_houses" scalex="0.524857" scaley="0.524857" zpos="5" />
+		<vector id="car" pos="0.512623,0.726008" src="6_car" scalex="0.525" scaley="0.525" zpos="5.001" />
+		<image id="smoke1" pos="0.780279,0.196507" parent="picture" src="6a_hb_smoke1" zpos="5.002" hidden="true" />
+		<image id="smoke2" pos="0.888479,-0.0420967" parent="picture" src="6a_hb_smoke1" zpos="5.003" hidden="true" />
+	</event>
+	<event id="2" >
+		<image id="picture" pos="0.503677,0.510072" parent="backingrect" src="6_windmill" scalex="0.4986" scaley="0.4986" zpos="5" />
+		<vector id="bf1" pos="0.376723,0.621381" src="6_bf1_simple" scalex="0.5" scaley="0.5" rotation="46.378" zpos="5.002" />
+		<vector id="bf2" pos="0.497491,0.683288" src="6_bf2_simple" scalex="0.5" scaley="0.5" rotation="-28.902" zpos="5.003" />
+		<vector id="ladybird" pos="0.0831212,0.855321" parent="picture" src="ladybird" zpos="5.004" />
+		<path id="lbpath" pos="0.14919,0.836879" parent="picture" src="lbpath" stroke="0,0,0" strokewidth="2" zpos="5.005" hidden="true" d="M0.08126 0.8677c0.0349 0 0.0713-0.0391 0.0713-0.0391c0 0 0.0101-0.00698 0.0223-0.0116c0.0122-0.00464 0.0149-0.011 0.0422-0.00826" />
+		<vector id="sails" pos="0.250617,0.207188" parent="picture" src="6_sails" scalex="0.531714" scaley="0.531714" zpos="5.001" />
+	</event>
+	<event id="3" >
+		<rectangle id="back" pos="0.503756,0.510779" parent="backingrect" src="back" fill="0,162,242" zpos="5" x="0.0420205" y="0.0506542" width="0.923471" height="0.92025" />
+		<image id="bubble" pos="0.0917397,0.575158" src="6_bubble" scalex="0.14793" scaley="0.14793" zpos="5.023" />
+		<vector id="clam" pos="0.375525,0.834941" parent="back" src="6_clam" scalex="0.579096" scaley="0.579096" zpos="5.008" />
+		<vector id="crab" pos="0.373658,0.694818" parent="back" src="6_crab" scalex="0.675865" scaley="0.675865" zpos="5.002" />
+		<circle id="destfish1" pos="1.19479,0.345654" parent="back" src="destfish1" fill="255,38,0" zpos="5.019" x="1.1796" y="0.331973" width="0.0303714" height="0.0273612" />
+		<circle id="destfish2" pos="-0.233315,0.195383" parent="back" src="destfish2" fill="255,38,0" zpos="5.017" x="-0.248501" y="0.181702" width="0.0303714" height="0.0273612" />
+		<circle id="destfish3" pos="1.17966,0.482409" parent="back" src="destfish3" fill="255,38,0" zpos="5.02" x="1.16448" y="0.468728" width="0.0303714" height="0.0273612" />
+		<circle id="destfish4" pos="-0.189885,0.375163" parent="back" src="destfish4" fill="255,38,0" zpos="5.018" x="-0.205071" y="0.361482" width="0.0303714" height="0.0273612" />
+		<circle id="destfish7" pos="-0.141375,0.106921" parent="back" src="destfish7" fill="255,38,0" zpos="5.016" x="-0.15656" y="0.0932401" width="0.0303714" height="0.0273612" />
+		<circle id="destfish8" pos="1.18049,0.759528" parent="back" src="destfish8" fill="255,38,0" zpos="5.021" x="1.1653" y="0.745847" width="0.0303714" height="0.0273612" />
+		<circle id="destfishnemo" pos="0.128968,0.920254" parent="back" src="destfishnemo" fill="255,38,0" zpos="5.022" x="0.113782" y="0.906574" width="0.0303714" height="0.0273612" />
+		<rectangle id="emitter1" pos="0.189678,0.957738" parent="back" src="emitter1" fill="255,38,0" zpos="5.007" x="0.108557" y="0.951258" width="0.162242" height="0.012961" />
+		<rectangle id="emitter2" pos="0.869025,0.968821" parent="back" src="emitter2" fill="255,38,0" zpos="5.005" x="0.787904" y="0.962341" width="0.162242" height="0.012961" />
+		<vector id="fish1" pos="0.348058,0.339791" parent="back" src="6_fish1" zpos="5.012" />
+		<vector id="fish2" pos="1.22621,0.156028" parent="back" src="6_fish2" zpos="5.013" />
+		<vector id="fish3" pos="0.22253,0.513924" parent="back" src="6_fish3" scalex="0.576228" scaley="0.576228" zpos="5.014" />
+		<vector id="fish4" pos="0.841595,0.391576" parent="back" src="6_fish4" zpos="5.015" />
+		<vector id="fish7" pos="0.896404,0.124535" parent="back" src="6_fish7" scalex="0.506035" scaley="0.506035" zpos="5.003" />
+		<vector id="fish8" pos="0.0802839,0.749113" parent="back" src="6_fish8" scalex="0.643875" scaley="0.643875" zpos="5.006" />
+		<vector id="fishnemo" pos="0.810775,0.899596" parent="back" src="6_fish5" zpos="5.009" />
+		<image id="frontleft" pos="0.499915,0.497361" parent="back" src="6_underwater2-01frontleft" scalex="0.447" scaley="0.447" zpos="5.01" />
+		<image id="frontright" pos="0.500468,0.499231" parent="back" src="6_underwater2-01frontright" scalex="0.450222" scaley="0.447" zpos="5.011" />
+		<linearGradient id="Gradient6" x1="0.797696" y1="-0.100321" x2="0.202304" y2="1.10032" >
+			<stop offset="0%" stop-color="rgb(99.9%,100%,93.9%)" stop-opacity="1"/>
+			<stop offset="23.5517%" stop-color="rgb(98.3%,100%,96.7%)" stop-opacity="0.535567"/>
+			<stop offset="65.1809%" stop-color="rgb(96.5%,100%,100%)" stop-opacity="0"/>
+		</linearGradient>
+		<rectangle id="gradient" pos="0.498288,0.499136" parent="back" src="gradient" fill="url(#Gradient6)"  zpos="5.004" x="0" y="0" width="0.996576" height="0.998272" />
+		<image id="picture" pos="0.500457,0.499231" parent="back" src="6_underwater2-01mid" scalex="0.449461" scaley="0.449" zpos="5.001" />
+	</event>
+	<event id="6b" move="uuu" >
+	</event>
+	<event id="6c" move="d" >
+	</event>
+	<event id="6d" move="ll" >
+	</event>
+	<event id="6e" move="dd" >
+	</event>
+	<event id="6f" move="r" >
+	</event>
+	<event id="6g" move="ru" >
+	</event>
+	<event id="6h" move="luuu" >
+	</event>
+	<event id="6i" move="rrrd" >
+	</event>
+	<event id="6j" move="dddl" >
+	</event>
+	<event id="6k" move="uuuur" >
+	</event>
+	<event id="6l" move="llll" >
+	</event>
+	<event id="6m" move="dddr" >
+	</event>
+	<event id="6n" move="urdd" >
+	</event>
+	<event id="6o" move="rur" >
+	</event>
+	<event id="6p" move="uluu" >
+	</event>
+	<event id="6q" move="uuu" >
+	</event>
+</events>

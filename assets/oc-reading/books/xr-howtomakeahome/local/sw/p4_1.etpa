@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Lakini Moni alikwenda kijiji kingine. Akajitambulisha kwa watu huko. Akawa mtu mwema sana. Wanakijiji mara tu walimpenda." frames="517813">
+		<timing id="0" start="0.000" end="0.397" startframe="0" framelength="17516" text="Lakini"/>
+		<timing id="1" start="0.397" end="0.872" startframe="17516" framelength="20957" text="Moni"/>
+		<timing id="2" start="0.872" end="1.475" startframe="38473" framelength="26574" text="alikwenda"/>
+		<timing id="3" start="1.475" end="1.823" startframe="65047" framelength="15334" text="kijiji"/>
+		<timing id="4" start="1.823" end="2.439" startframe="80381" framelength="27192" text="kingine"/>
+		<timing id="5" start="3.281" end="4.453" startframe="144673" framelength="51702" text="Akajitambulisha"/>
+		<timing id="6" start="4.453" end="4.658" startframe="196375" framelength="9059" text="kwa"/>
+		<timing id="7" start="4.658" end="4.948" startframe="205434" framelength="12754" text="watu"/>
+		<timing id="8" start="4.948" end="5.514" startframe="218188" framelength="24998" text="huko"/>
+		<timing id="9" start="6.196" end="6.776" startframe="273253" framelength="25569" text="Akawa"/>
+		<timing id="10" start="6.776" end="7.146" startframe="298822" framelength="16326" text="mtu"/>
+		<timing id="11" start="7.146" end="7.479" startframe="315148" framelength="14672" text="mwema"/>
+		<timing id="12" start="7.479" end="8.142" startframe="329820" framelength="29230" text="sana"/>
+		<timing id="13" start="8.699" end="9.819" startframe="383632" framelength="49379" text="Wanakijiji"/>
+		<timing id="14" start="10.055" end="10.455" startframe="443406" framelength="17652" text="mara"/>
+		<timing id="15" start="10.455" end="10.809" startframe="461058" framelength="15614" text="tu"/>
+		<timing id="16" start="10.809" end="11.742" startframe="476672" framelength="41141" text="walimpenda"/>
+	</timings>
+</xml>

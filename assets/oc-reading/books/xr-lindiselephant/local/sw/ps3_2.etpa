@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps3_2.aif</url>
+	<relurl>ps3_2.aif</relurl>
+	<timings text="“Ni tembo,” Linda alisema." frames="189430">
+		<timing id="0" start="0.000" end="0.599" startframe="0" framelength="26398" text="Ni"/>
+		<timing id="1" start="1.484" end="2.074" startframe="65431" framelength="26015" text="tembo"/>
+		<timing id="2" start="2.642" end="3.367" startframe="116510" framelength="31966" text="Linda"/>
+		<timing id="3" start="3.619" end="4.295" startframe="159579" framelength="29851" text="alisema"/>
+	</timings>
+</xml>

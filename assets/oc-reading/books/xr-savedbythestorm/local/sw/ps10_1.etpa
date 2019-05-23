@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="Wimbi moja kubwa lilichomoza na lilitingisha jahazi." frames="460520">
+		<timing id="0" start="0.000" end="0.684" startframe="0" framelength="30146" text="Wimbi"/>
+		<timing id="1" start="1.259" end="1.986" startframe="55541" framelength="32062" text="moja"/>
+		<timing id="2" start="2.703" end="3.354" startframe="119210" framelength="28712" text="kubwa"/>
+		<timing id="3" start="3.893" end="5.081" startframe="171667" framelength="52384" text="lilichomoza"/>
+		<timing id="4" start="5.688" end="6.307" startframe="250858" framelength="27260" text="na"/>
+		<timing id="5" start="6.898" end="8.294" startframe="304197" framelength="61560" text="lilitingisha"/>
+		<timing id="6" start="8.648" end="9.594" startframe="381381" framelength="41705" text="jahazi"/>
+	</timings>
+</xml>

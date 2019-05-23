@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl2_hakuamini.aif</url>
+	<relurl>psyl2_hakuamini.aif</relurl>
+	<timings text="ha - ku - a - mi - ni." frames="137995">
+		<timing id="0" start="0.000" end="0.365" startframe="0" framelength="16086" text="ha"/>
+		<timing id="1" start="0.563" end="1.013" startframe="24833" framelength="19828" text="ku"/>
+		<timing id="2" start="1.238" end="1.708" startframe="54584" framelength="20740" text="a"/>
+		<timing id="3" start="1.929" end="2.533" startframe="85048" framelength="26637" text="mi"/>
+		<timing id="4" start="2.754" end="3.129" startframe="121441" framelength="16554" text="ni"/>
+	</timings>
+</xml>

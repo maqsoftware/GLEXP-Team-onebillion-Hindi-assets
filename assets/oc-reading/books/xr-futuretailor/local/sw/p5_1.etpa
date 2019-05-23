@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Siku iliyofuata shuleni, mwalimu wangu alituonyesha picha za madaktari, wasanii, walimu na washoni." frames="397062">
+		<timing id="0" start="0.000" end="0.399" startframe="0" framelength="17609" text="Siku"/>
+		<timing id="1" start="0.399" end="1.100" startframe="17609" framelength="30912" text="iliyofuata"/>
+		<timing id="2" start="1.100" end="1.853" startframe="48521" framelength="33199" text="shuleni"/>
+		<timing id="3" start="2.149" end="2.595" startframe="94761" framelength="19694" text="mwalimu"/>
+		<timing id="4" start="2.595" end="3.126" startframe="114455" framelength="23386" text="wangu"/>
+		<timing id="5" start="3.126" end="4.068" startframe="137841" framelength="41544" text="alituonyesha"/>
+		<timing id="6" start="4.068" end="4.397" startframe="179385" framelength="14519" text="picha"/>
+		<timing id="7" start="4.397" end="4.607" startframe="193904" framelength="9257" text="za"/>
+		<timing id="8" start="4.607" end="5.624" startframe="203161" framelength="44871" text="madaktari"/>
+		<timing id="9" start="6.127" end="7.059" startframe="270185" framelength="41135" text="wasanii"/>
+		<timing id="10" start="7.433" end="8.160" startframe="327809" framelength="32031" text="walimu"/>
+		<timing id="11" start="8.160" end="8.386" startframe="359840" framelength="9961" text="na"/>
+		<timing id="12" start="8.386" end="9.004" startframe="369801" framelength="27261" text="washoni"/>
+	</timings>
+</xml>

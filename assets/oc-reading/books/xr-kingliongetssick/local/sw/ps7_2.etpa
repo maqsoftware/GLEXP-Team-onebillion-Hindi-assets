@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="Mfalme lazima atiiwe, hivyo Sungura alikimbia moja kwa moja hadi nyumbani kwa Simba." frames="932937">
+		<timing id="0" start="0.000" end="1.004" startframe="0" framelength="44277" text="Mfalme"/>
+		<timing id="1" start="1.862" end="2.845" startframe="82107" framelength="43379" text="lazima"/>
+		<timing id="2" start="3.470" end="4.534" startframe="153022" framelength="46925" text="atiiwe"/>
+		<timing id="3" start="5.233" end="6.093" startframe="230778" framelength="37915" text="hivyo"/>
+		<timing id="4" start="6.863" end="7.785" startframe="302667" framelength="40639" text="Sungura"/>
+		<timing id="5" start="8.497" end="9.548" startframe="374700" framelength="46357" text="alikimbia"/>
+		<timing id="6" start="10.726" end="11.545" startframe="473026" framelength="36094" text="moja"/>
+		<timing id="7" start="12.101" end="12.727" startframe="533649" framelength="27629" text="kwa"/>
+		<timing id="8" start="13.713" end="14.413" startframe="604746" framelength="30871" text="moja"/>
+		<timing id="9" start="14.840" end="15.515" startframe="654441" framelength="29780" text="hadi"/>
+		<timing id="10" start="16.387" end="17.318" startframe="722648" framelength="41071" text="nyumbani"/>
+		<timing id="11" start="18.296" end="18.962" startframe="806839" framelength="29399" text="kwa"/>
+		<timing id="12" start="19.627" end="20.394" startframe="865556" framelength="33822" text="Simba"/>
+	</timings>
+</xml>

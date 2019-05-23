@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl9_angani.aif</url>
+	<relurl>psyl9_angani.aif</relurl>
+	<timings text="a - nga - ni!" frames="84223">
+		<timing id="0" start="0.000" end="0.441" startframe="0" framelength="19456" text="a"/>
+		<timing id="1" start="0.693" end="1.328" startframe="30554" framelength="27990" text="nga"/>
+		<timing id="2" start="1.534" end="1.910" startframe="67635" framelength="16588" text="ni"/>
+	</timings>
+</xml>

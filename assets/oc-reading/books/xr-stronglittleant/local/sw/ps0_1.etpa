@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Siafu mdogo mwenye nguvu" frames="222119">
+		<timing id="0" start="0.000" end="0.932" startframe="0" framelength="41081" text="Siafu"/>
+		<timing id="1" start="1.405" end="2.313" startframe="61966" framelength="40058" text="mdogo"/>
+		<timing id="2" start="2.792" end="3.702" startframe="123135" framelength="40124" text="mwenye"/>
+		<timing id="3" start="4.258" end="5.037" startframe="187788" framelength="34331" text="nguvu"/>
+	</timings>
+</xml>

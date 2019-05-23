@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_shoe</phrase>
+			<phrase>6_sock</phrase>
+			<phrase>6_theygotogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_pairuptheotherthingsthatgotogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_pairuptheotherthingsthatgotogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_notebookandpencil</phrase>
+			<phrase>6_rainandumbrella</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowpairtheseupintheboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_nowpairtheseupintheboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_clockandwatch</phrase>
+			<phrase>6_hairbrushandcomb</phrase>
+			<phrase>6_saucepanandlid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_eachboxshouldhavetwothingsthatgotogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_eachboxshouldhavetwothingsthatgotogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_birdandnest</phrase>
+			<phrase>6_coinsandpurse</phrase>
+			<phrase>6_orangeandbanana</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_pairtheseupintheboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_pairtheseupintheboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_toothbrushandtoothpaste</phrase>
+			<phrase>6_cupandplate</phrase>
+			<phrase>6_tshirtandshorts</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowpairtheseup</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_nowpairtheseup</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_sunandsunglasses</phrase>
+			<phrase>6_batandball</phrase>
+			<phrase>6_knifeandfork</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_excellentyoumatchedthethingsthatgotogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

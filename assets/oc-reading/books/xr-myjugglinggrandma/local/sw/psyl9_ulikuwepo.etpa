@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl9_ulikuwepo.aif</url>
+	<relurl>psyl9_ulikuwepo.aif</relurl>
+	<timings text="u - li - ku - we - po" frames="132153">
+		<timing id="0" start="0.000" end="0.457" startframe="0" framelength="20137" text="u"/>
+		<timing id="1" start="0.659" end="1.239" startframe="29081" framelength="25543" text="li"/>
+		<timing id="2" start="1.455" end="1.908" startframe="64179" framelength="19975" text="ku"/>
+		<timing id="3" start="2.098" end="2.575" startframe="92502" framelength="21053" text="we"/>
+		<timing id="4" start="2.725" end="2.997" startframe="120193" framelength="11960" text="po"/>
+	</timings>
+</xml>

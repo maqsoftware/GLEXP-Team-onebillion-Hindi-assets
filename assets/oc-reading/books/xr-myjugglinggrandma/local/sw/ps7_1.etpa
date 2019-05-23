@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Halafu akapata wazo! Akamnunulia bibi zawadi." frames="388246">
+		<timing id="0" start="0.104" end="1.023" startframe="4596" framelength="40501" text="Halafu"/>
+		<timing id="1" start="2.222" end="3.150" startframe="98008" framelength="40913" text="akapata"/>
+		<timing id="2" start="3.842" end="4.439" startframe="169440" framelength="26338" text="wazo"/>
+		<timing id="3" start="5.270" end="6.520" startframe="232387" framelength="55140" text="Akamnunulia"/>
+		<timing id="4" start="7.074" end="7.710" startframe="311958" framelength="28051" text="bibi"/>
+		<timing id="5" start="8.093" end="8.804" startframe="356888" framelength="31358" text="zawadi"/>
+	</timings>
+</xml>

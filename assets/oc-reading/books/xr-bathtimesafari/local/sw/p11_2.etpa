@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p11_2.aif</url>
+	<relurl>p11_2.aif</relurl>
+	<timings text="Ina rangi ya machungwa na ya manjano na inaanza kutoa mapovu." frames="195187">
+		<timing id="0" start="0.000" end="0.231" startframe="0" framelength="10209" text="Ina"/>
+		<timing id="1" start="0.231" end="0.533" startframe="10209" framelength="13277" text="rangi"/>
+		<timing id="2" start="0.533" end="0.630" startframe="23486" framelength="4286" text="ya"/>
+		<timing id="3" start="0.630" end="1.310" startframe="27772" framelength="29985" text="machungwa"/>
+		<timing id="4" start="1.310" end="1.464" startframe="57757" framelength="6807" text="na"/>
+		<timing id="5" start="1.464" end="1.543" startframe="64564" framelength="3499" text="ya"/>
+		<timing id="6" start="1.543" end="2.236" startframe="68063" framelength="30554" text="manjano"/>
+		<timing id="7" start="2.569" end="2.743" startframe="113277" framelength="7681" text="na"/>
+		<timing id="8" start="2.743" end="3.363" startframe="120958" framelength="27363" text="inaanza"/>
+		<timing id="9" start="3.363" end="3.778" startframe="148321" framelength="18289" text="kutoa"/>
+		<timing id="10" start="3.778" end="4.426" startframe="166610" framelength="28577" text="mapovu"/>
+	</timings>
+</xml>

@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Lakini kabla ya Anansi kufika nyumbani, mvua ilinyesha. Akajificha chini ya mti, lakini aliuacha mkoba wake wa thamani pembezoni mwa barabara." frames="502131">
+		<timing id="0" start="0.000" end="0.456" startframe="0" framelength="20122" text="Lakini"/>
+		<timing id="1" start="0.456" end="0.773" startframe="20122" framelength="13968" text="kabla"/>
+		<timing id="2" start="0.773" end="0.955" startframe="34090" framelength="8033" text="ya"/>
+		<timing id="3" start="0.955" end="1.456" startframe="42123" framelength="22081" text="Anansi"/>
+		<timing id="4" start="1.456" end="1.845" startframe="64204" framelength="17174" text="kufika"/>
+		<timing id="5" start="1.845" end="2.566" startframe="81378" framelength="31801" text="nyumbani"/>
+		<timing id="6" start="2.868" end="3.424" startframe="126495" framelength="24509" text="mvua"/>
+		<timing id="7" start="3.424" end="4.362" startframe="151004" framelength="41342" text="ilinyesha"/>
+		<timing id="8" start="4.808" end="5.727" startframe="212019" framelength="40561" text="Akajificha"/>
+		<timing id="9" start="5.727" end="6.021" startframe="252580" framelength="12936" text="chini"/>
+		<timing id="10" start="6.022" end="6.208" startframe="265591" framelength="8194" text="ya"/>
+		<timing id="11" start="6.208" end="6.781" startframe="273785" framelength="25276" text="mti"/>
+		<timing id="12" start="7.140" end="7.798" startframe="314867" framelength="29028" text="lakini"/>
+		<timing id="13" start="7.798" end="8.535" startframe="343895" framelength="32509" text="aliuacha"/>
+		<timing id="14" start="8.535" end="8.899" startframe="376404" framelength="16033" text="mkoba"/>
+		<timing id="15" start="8.899" end="9.140" startframe="392437" framelength="10628" text="wake"/>
+		<timing id="16" start="9.140" end="9.335" startframe="403065" framelength="8602" text="wa"/>
+		<timing id="17" start="9.335" end="9.910" startframe="411667" framelength="25367" text="thamani"/>
+		<timing id="18" start="9.910" end="10.558" startframe="437034" framelength="28579" text="pembezoni"/>
+		<timing id="19" start="10.558" end="10.754" startframe="465613" framelength="8622" text="mwa"/>
+		<timing id="20" start="10.754" end="11.386" startframe="474235" framelength="27896" text="barabara"/>
+	</timings>
+</xml>

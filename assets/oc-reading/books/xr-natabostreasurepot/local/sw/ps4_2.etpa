@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps4_2.aif</url>
+	<relurl>ps4_2.aif</relurl>
+	<timings text="“Kilikuwa muhimu sana,” alisema Nura. “Kamwe sitawasamehe!”" frames="615385">
+		<timing id="0" start="0.351" end="1.299" startframe="15469" framelength="41796" text="Kilikuwa"/>
+		<timing id="1" start="1.762" end="2.542" startframe="77705" framelength="34382" text="muhimu"/>
+		<timing id="2" start="3.732" end="4.503" startframe="164576" framelength="33999" text="sana"/>
+		<timing id="3" start="5.738" end="6.717" startframe="253026" framelength="43192" text="alisema"/>
+		<timing id="4" start="7.979" end="8.632" startframe="351883" framelength="28791" text="Nura"/>
+		<timing id="5" start="10.128" end="10.843" startframe="446661" framelength="31498" text="Kamwe"/>
+		<timing id="6" start="11.949" end="13.455" startframe="526968" framelength="66379" text="sitawasamehe"/>
+	</timings>
+</xml>

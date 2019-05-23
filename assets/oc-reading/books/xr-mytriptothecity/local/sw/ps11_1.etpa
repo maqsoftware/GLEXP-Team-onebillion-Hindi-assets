@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps11_1.aif</url>
+	<relurl>ps11_1.aif</relurl>
+	<timings text="Wazazi mara walifika kuchukua watoto wao. Muda si mrefu, ilikuwa ni mimi na msichana tu tuliobakia." frames="1121879">
+		<timing id="0" start="0.000" end="0.943" startframe="0" framelength="41585" text="Wazazi"/>
+		<timing id="1" start="1.428" end="2.331" startframe="62981" framelength="39810" text="mara"/>
+		<timing id="2" start="2.707" end="3.879" startframe="119400" framelength="51665" text="walifika"/>
+		<timing id="3" start="4.394" end="5.476" startframe="193787" framelength="47712" text="kuchukua"/>
+		<timing id="4" start="6.044" end="7.026" startframe="266530" framelength="43301" text="watoto"/>
+		<timing id="5" start="7.431" end="8.318" startframe="327713" framelength="39089" text="wao"/>
+		<timing id="6" start="9.022" end="9.846" startframe="397856" framelength="36335" text="Muda"/>
+		<timing id="7" start="10.480" end="11.154" startframe="462155" framelength="29724" text="si"/>
+		<timing id="8" start="11.731" end="12.859" startframe="517324" framelength="49777" text="mrefu"/>
+		<timing id="9" start="13.574" end="14.748" startframe="598610" framelength="51784" text="ilikuwa"/>
+		<timing id="10" start="15.314" end="16.039" startframe="675338" framelength="31985" text="ni"/>
+		<timing id="11" start="17.376" end="18.258" startframe="766297" framelength="38873" text="mimi"/>
+		<timing id="12" start="18.788" end="19.531" startframe="828557" framelength="32760" text="na"/>
+		<timing id="13" start="19.861" end="21.013" startframe="875855" framelength="50825" text="msichana"/>
+		<timing id="14" start="21.648" end="22.344" startframe="954689" framelength="30693" text="tu"/>
+		<timing id="15" start="23.437" end="24.817" startframe="1033575" framelength="60849" text="tuliobakia"/>
+	</timings>
+</xml>

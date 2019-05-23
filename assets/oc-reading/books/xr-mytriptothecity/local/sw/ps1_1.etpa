@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Ninaishi katika kijiji kidogo. Ni sehemu ya joto sana, yenye miti yenye miiba. Tuna mbuzi wengi kuliko watu waliopo! Hata sokoni kupo kimya." frames="1564537">
+		<timing id="0" start="0.000" end="1.084" startframe="0" framelength="47814" text="Ninaishi"/>
+		<timing id="1" start="1.352" end="2.400" startframe="59617" framelength="46240" text="katika"/>
+		<timing id="2" start="3.022" end="3.977" startframe="133285" framelength="42114" text="kijiji"/>
+		<timing id="3" start="4.599" end="5.622" startframe="202809" framelength="45128" text="kidogo"/>
+		<timing id="4" start="6.345" end="7.067" startframe="279817" framelength="31836" text="Ni"/>
+		<timing id="5" start="7.490" end="8.788" startframe="330323" framelength="57248" text="sehemu"/>
+		<timing id="6" start="9.364" end="10.146" startframe="412955" framelength="34479" text="ya"/>
+		<timing id="7" start="11.039" end="11.794" startframe="486798" framelength="33303" text="joto"/>
+		<timing id="8" start="12.424" end="13.340" startframe="547877" framelength="40398" text="sana"/>
+		<timing id="9" start="14.000" end="15.060" startframe="617419" framelength="46724" text="yenye"/>
+		<timing id="10" start="15.671" end="16.687" startframe="691092" framelength="44810" text="miti"/>
+		<timing id="11" start="17.146" end="18.008" startframe="756146" framelength="38023" text="yenye"/>
+		<timing id="12" start="18.692" end="19.514" startframe="824311" framelength="36271" text="miiba"/>
+		<timing id="13" start="20.284" end="21.104" startframe="894519" framelength="36186" text="Tuna"/>
+		<timing id="14" start="21.773" end="22.652" startframe="960185" framelength="38747" text="mbuzi"/>
+		<timing id="15" start="23.419" end="24.285" startframe="1032794" framelength="38193" text="wengi"/>
+		<timing id="16" start="24.859" end="25.863" startframe="1096278" framelength="44264" text="kuliko"/>
+		<timing id="17" start="26.566" end="27.464" startframe="1171578" framelength="39606" text="watu"/>
+		<timing id="18" start="27.926" end="29.089" startframe="1231553" framelength="51270" text="waliopo"/>
+		<timing id="19" start="30.337" end="31.371" startframe="1337858" framelength="45619" text="Hata"/>
+		<timing id="20" start="31.784" end="32.789" startframe="1401695" framelength="44287" text="sokoni"/>
+		<timing id="21" start="33.451" end="34.341" startframe="1475176" framelength="39262" text="kupo"/>
+		<timing id="22" start="34.744" end="35.477" startframe="1532231" framelength="32306" text="kimya"/>
+	</timings>
+</xml>

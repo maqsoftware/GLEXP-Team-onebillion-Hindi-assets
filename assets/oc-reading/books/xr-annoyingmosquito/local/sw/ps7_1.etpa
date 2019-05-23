@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url chdate="2018-04-30T15:37:45Z" filesize="1102" >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Badi alikaa akatulia tuli na kimya, akimsikiliza mbu. " frames="451706">
+		<timing id="0" start="0.543" end="1.557" startframe="23933" framelength="44725" text="Badi"/>
+		<timing id="1" start="1.715" end="2.713" startframe="75637" framelength="44007" text="alikaa"/>
+		<timing id="2" start="3.025" end="4.122" startframe="133414" framelength="48372" text="akatulia"/>
+		<timing id="3" start="4.624" end="5.398" startframe="203922" framelength="34140" text="tuli"/>
+		<timing id="4" start="5.757" end="6.323" startframe="253901" framelength="24922" text="na"/>
+		<timing id="5" start="6.811" end="7.449" startframe="300375" framelength="28124" text="kimya"/>
+		<timing id="6" start="8.059" end="9.378" startframe="355382" framelength="58208" text="akimsikiliza"/>
+		<timing id="7" start="9.511" end="10.243" startframe="419426" framelength="32280" text="mbu"/>
+	</timings>
+</xml>

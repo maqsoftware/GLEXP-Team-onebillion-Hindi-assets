@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps6_3.aif</url>
+	<relurl>ps6_3.aif</relurl>
+	<timings text="Fisi akaondoka, huku akitabasamu." frames="209725">
+		<timing id="0" start="0.000" end="0.592" startframe="0" framelength="26114" text="Fisi"/>
+		<timing id="1" start="1.057" end="2.027" startframe="46627" framelength="42747" text="akaondoka"/>
+		<timing id="2" start="2.577" end="3.231" startframe="113626" framelength="28851" text="huku"/>
+		<timing id="3" start="3.829" end="4.756" startframe="168880" framelength="40845" text="akitabasamu"/>
+	</timings>
+</xml>

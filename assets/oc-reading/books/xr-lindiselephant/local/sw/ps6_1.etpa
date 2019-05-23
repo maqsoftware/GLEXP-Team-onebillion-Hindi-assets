@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Baada ya shule, Linda hakumuona tembo tena popote." frames="361798">
+		<timing id="0" start="0.000" end="0.853" startframe="0" framelength="37603" text="Baada"/>
+		<timing id="1" start="1.022" end="1.447" startframe="45074" framelength="18757" text="ya"/>
+		<timing id="2" start="1.883" end="2.578" startframe="83038" framelength="30667" text="shule"/>
+		<timing id="3" start="3.193" end="3.925" startframe="140809" framelength="32270" text="Linda"/>
+		<timing id="4" start="4.198" end="5.313" startframe="185145" framelength="49159" text="hakumuona"/>
+		<timing id="5" start="5.671" end="6.405" startframe="250102" framelength="32360" text="tembo"/>
+		<timing id="6" start="6.694" end="7.330" startframe="295194" framelength="28078" text="tena"/>
+		<timing id="7" start="7.550" end="8.204" startframe="332959" framelength="28839" text="popote"/>
+	</timings>
+</xml>

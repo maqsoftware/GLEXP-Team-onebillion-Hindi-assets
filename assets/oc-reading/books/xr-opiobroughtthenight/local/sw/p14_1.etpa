@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/p14_1.aif</url>
+	<relurl>p14_1.aif</relurl>
+	<timings text="Kila mmoja alipenda kuuona mwezi uking’aa na nyota zikimeremeta. Walimshukuru sana Omi kwa kuwaletea usiku." frames="478589">
+		<timing id="0" start="0.000" end="0.368" startframe="0" framelength="16234" text="Kila"/>
+		<timing id="1" start="0.368" end="1.071" startframe="16234" framelength="30999" text="mmoja"/>
+		<timing id="2" start="1.543" end="2.227" startframe="68048" framelength="30182" text="alipenda"/>
+		<timing id="3" start="2.227" end="2.696" startframe="98230" framelength="20654" text="kuuona"/>
+		<timing id="4" start="2.696" end="3.044" startframe="118884" framelength="15359" text="mwezi"/>
+		<timing id="5" start="3.044" end="3.882" startframe="134243" framelength="36941" text="uking’aa"/>
+		<timing id="6" start="4.295" end="4.584" startframe="189421" framelength="12746" text="na"/>
+		<timing id="7" start="4.584" end="5.334" startframe="202167" framelength="33060" text="nyota"/>
+		<timing id="8" start="5.570" end="6.956" startframe="245620" framelength="61148" text="zikimeremeta"/>
+		<timing id="9" start="7.254" end="8.025" startframe="319890" framelength="33993" text="Walimshukuru"/>
+		<timing id="10" start="8.025" end="8.535" startframe="353883" framelength="22494" text="sana"/>
+		<timing id="11" start="8.535" end="9.217" startframe="376377" framelength="30089" text="Omi"/>
+		<timing id="12" start="9.391" end="9.617" startframe="414151" framelength="9943" text="kwa"/>
+		<timing id="13" start="9.617" end="10.298" startframe="424094" framelength="30054" text="kuwaletea"/>
+		<timing id="14" start="10.298" end="10.852" startframe="454148" framelength="24441" text="usiku"/>
+	</timings>
+</xml>

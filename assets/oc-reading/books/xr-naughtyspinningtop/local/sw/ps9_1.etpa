@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Inazunguka jikoni. Mama anajaribu kuikamata kwa fagio. Bibi anajaribu kuikamata kwa mikono yake." frames="864891">
+		<timing id="0" start="0.000" end="1.063" startframe="0" framelength="46893" text="Inazunguka"/>
+		<timing id="1" start="1.794" end="2.728" startframe="79121" framelength="41177" text="jikoni"/>
+		<timing id="2" start="3.455" end="4.314" startframe="152362" framelength="37880" text="Mama"/>
+		<timing id="3" start="4.862" end="6.073" startframe="214411" framelength="53425" text="anajaribu"/>
+		<timing id="4" start="6.838" end="8.012" startframe="301569" framelength="51762" text="kuikamata"/>
+		<timing id="5" start="8.803" end="9.468" startframe="388203" framelength="29349" text="kwa"/>
+		<timing id="6" start="10.003" end="10.851" startframe="441127" framelength="37401" text="fagio"/>
+		<timing id="7" start="11.517" end="12.264" startframe="507886" framelength="32960" text="Bibi"/>
+		<timing id="8" start="12.799" end="13.884" startframe="564448" framelength="47855" text="anajaribu"/>
+		<timing id="9" start="14.348" end="15.579" startframe="632754" framelength="54271" text="kuikamata"/>
+		<timing id="10" start="16.233" end="16.806" startframe="715867" framelength="25297" text="kwa"/>
+		<timing id="11" start="17.322" end="18.210" startframe="763890" framelength="39172" text="mikono"/>
+		<timing id="12" start="18.918" end="19.612" startframe="834264" framelength="30627" text="yake"/>
+	</timings>
+</xml>

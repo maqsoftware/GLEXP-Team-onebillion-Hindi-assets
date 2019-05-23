@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Mshoni wa siku zijazo" frames="186432">
+		<timing id="0" start="0.000" end="0.887" startframe="0" framelength="39125" text="Mshoni"/>
+		<timing id="1" start="1.401" end="1.961" startframe="61770" framelength="24701" text="wa"/>
+		<timing id="2" start="2.384" end="3.122" startframe="105137" framelength="32525" text="siku"/>
+		<timing id="3" start="3.574" end="4.227" startframe="157621" framelength="28811" text="zijazo"/>
+	</timings>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="Kisha sauti ikaja tena, moja kwa moja kwenye sikio lake. Ziiiiiii!" frames="552266">
+		<timing id="0" start="0.000" end="0.679" startframe="0" framelength="29927" text="Kisha"/>
+		<timing id="1" start="1.030" end="1.971" startframe="45421" framelength="41497" text="sauti"/>
+		<timing id="2" start="2.299" end="3.280" startframe="101373" framelength="43293" text="ikaja"/>
+		<timing id="3" start="3.644" end="4.228" startframe="160680" framelength="25779" text="tena"/>
+		<timing id="4" start="4.793" end="5.652" startframe="211373" framelength="37884" text="moja"/>
+		<timing id="5" start="6.215" end="6.825" startframe="274095" framelength="26874" text="kwa"/>
+		<timing id="6" start="7.207" end="8.069" startframe="317845" framelength="38005" text="moja"/>
+		<timing id="7" start="8.451" end="9.194" startframe="372710" framelength="32767" text="kwenye"/>
+		<timing id="8" start="9.530" end="10.470" startframe="420261" framelength="41477" text="sikio"/>
+		<timing id="9" start="10.658" end="11.351" startframe="470031" framelength="30529" text="lake"/>
+		<timing id="10" start="11.815" end="12.523" startframe="521061" framelength="31205" text="Ziiiiiii"/>
+	</timings>
+</xml>

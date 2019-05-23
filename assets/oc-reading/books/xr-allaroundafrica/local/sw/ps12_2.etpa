@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Volumes/Ting/audio/master/sw/xr-library_stories/xr-allaroundafricaSW/ps12_2.aif</url>
+	<relurl>ps12_2.aif</relurl>
+	<timings text="“Jikaze!” alisema. “Tumekimbia kote huko. Huwezi kuvunjika moyo hivi sasa!”" frames="847897">
+		<timing id="0" start="0.000" end="0.968" startframe="0" framelength="42701" text="Jikaze"/>
+		<timing id="1" start="2.038" end="2.946" startframe="89866" framelength="40047" text="alisema"/>
+		<timing id="2" start="4.062" end="5.275" startframe="179142" framelength="53486" text="Tumekimbia"/>
+		<timing id="3" start="6.647" end="7.428" startframe="293141" framelength="34432" text="kote"/>
+		<timing id="4" start="8.536" end="9.223" startframe="376456" framelength="30298" text="huko"/>
+		<timing id="5" start="10.455" end="11.330" startframe="461046" framelength="38593" text="Huwezi"/>
+		<timing id="6" start="12.328" end="13.457" startframe="543656" framelength="49813" text="kuvunjika"/>
+		<timing id="7" start="14.678" end="15.553" startframe="647306" framelength="38575" text="moyo"/>
+		<timing id="8" start="16.759" end="17.611" startframe="739087" framelength="37556" text="hivi"/>
+		<timing id="9" start="18.550" end="19.227" startframe="818058" framelength="29839" text="sasa"/>
+	</timings>
+</xml>

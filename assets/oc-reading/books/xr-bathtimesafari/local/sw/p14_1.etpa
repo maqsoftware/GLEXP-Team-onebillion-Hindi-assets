@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p14_1.aif</url>
+	<relurl>p14_1.aif</relurl>
+	<timings text="Na sasa ni wakati wa kulala." frames="82114">
+		<timing id="0" start="0.000" end="0.155" startframe="0" framelength="6818" text="Na"/>
+		<timing id="1" start="0.155" end="0.675" startframe="6818" framelength="22932" text="sasa"/>
+		<timing id="2" start="0.675" end="0.783" startframe="29750" framelength="4782" text="ni"/>
+		<timing id="3" start="0.783" end="1.214" startframe="34532" framelength="19012" text="wakati"/>
+		<timing id="4" start="1.214" end="1.372" startframe="53544" framelength="6975" text="wa"/>
+		<timing id="5" start="1.372" end="1.862" startframe="60519" framelength="21595" text="kulala"/>
+	</timings>
+</xml>

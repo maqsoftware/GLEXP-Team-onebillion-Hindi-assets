@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="Siku moja, Maxi aligundua jahazi ambalo lilikuwa likitembea vizuri na matanga yake meupe. Kulikuwa na ndege wengi waliokuwa wamelizunguka." frames="502436">
+		<timing id="0" start="0.000" end="0.377" startframe="0" framelength="16636" text="Siku"/>
+		<timing id="1" start="0.377" end="1.085" startframe="16636" framelength="31213" text="moja"/>
+		<timing id="2" start="1.600" end="2.090" startframe="70543" framelength="21645" text="Maxi"/>
+		<timing id="3" start="2.090" end="2.790" startframe="92188" framelength="30845" text="aligundua"/>
+		<timing id="4" start="2.790" end="3.244" startframe="123033" framelength="20037" text="jahazi"/>
+		<timing id="5" start="3.244" end="3.845" startframe="143070" framelength="26512" text="ambalo"/>
+		<timing id="6" start="3.845" end="4.327" startframe="169582" framelength="21255" text="lilikuwa"/>
+		<timing id="7" start="4.327" end="5.034" startframe="190837" framelength="31165" text="likitembea"/>
+		<timing id="8" start="5.034" end="5.658" startframe="222002" framelength="27534" text="vizuri"/>
+		<timing id="9" start="5.671" end="5.880" startframe="250079" framelength="9225" text="na"/>
+		<timing id="10" start="5.880" end="6.265" startframe="259304" framelength="16988" text="matanga"/>
+		<timing id="11" start="6.265" end="6.590" startframe="276292" framelength="14323" text="yake"/>
+		<timing id="12" start="6.590" end="7.131" startframe="290615" framelength="23857" text="meupe"/>
+		<timing id="13" start="7.936" end="8.488" startframe="349961" framelength="24356" text="Kulikuwa"/>
+		<timing id="14" start="8.488" end="8.664" startframe="374317" framelength="7773" text="na"/>
+		<timing id="15" start="8.664" end="8.989" startframe="382090" framelength="14342" text="ndege"/>
+		<timing id="16" start="8.989" end="9.410" startframe="396432" framelength="18549" text="wengi"/>
+		<timing id="17" start="9.410" end="10.281" startframe="414981" framelength="38412" text="waliokuwa"/>
+		<timing id="18" start="10.385" end="11.393" startframe="457959" framelength="44477" text="wamelizunguka"/>
+	</timings>
+</xml>

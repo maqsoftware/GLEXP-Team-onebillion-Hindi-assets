@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Jua lilipokutwa, Tembo alimrudisha Linda chumbani kwake." frames="201149">
+		<timing id="0" start="0.000" end="0.340" startframe="0" framelength="14987" text="Jua"/>
+		<timing id="1" start="0.340" end="1.551" startframe="14987" framelength="53429" text="lilipokutwa"/>
+		<timing id="2" start="2.128" end="2.487" startframe="93843" framelength="15824" text="Tembo"/>
+		<timing id="3" start="2.487" end="3.364" startframe="109667" framelength="38665" text="alimrudisha"/>
+		<timing id="4" start="3.364" end="3.655" startframe="148332" framelength="12854" text="Linda"/>
+		<timing id="5" start="3.655" end="4.101" startframe="161186" framelength="19690" text="chumbani"/>
+		<timing id="6" start="4.101" end="4.561" startframe="180876" framelength="20273" text="kwake"/>
+	</timings>
+</xml>

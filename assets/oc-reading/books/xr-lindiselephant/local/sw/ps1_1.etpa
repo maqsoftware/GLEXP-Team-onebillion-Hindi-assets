@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="“Kuna tembo chumbani kwangu!” Linda aliita." frames="285231">
+		<timing id="0" start="0.000" end="0.612" startframe="0" framelength="27010" text="Kuna"/>
+		<timing id="1" start="1.035" end="1.740" startframe="45658" framelength="31088" text="tembo"/>
+		<timing id="2" start="2.161" end="3.047" startframe="95281" framelength="39108" text="chumbani"/>
+		<timing id="3" start="3.367" end="4.016" startframe="148503" framelength="28603" text="kwangu"/>
+		<timing id="4" start="4.661" end="5.403" startframe="205536" framelength="32748" text="Linda"/>
+		<timing id="5" start="5.722" end="6.468" startframe="252336" framelength="32895" text="aliita"/>
+	</timings>
+</xml>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/p10_2.aif</url>
+	<relurl>p10_2.aif</relurl>
+	<timings text="Masikini wavuvi, iliwabidi washikilie jahazi vizuri!" frames="196405">
+		<timing id="0" start="0.000" end="0.680" startframe="0" framelength="29977" text="Masikini"/>
+		<timing id="1" start="0.680" end="1.426" startframe="29977" framelength="32890" text="wavuvi"/>
+		<timing id="2" start="1.765" end="2.533" startframe="77843" framelength="33859" text="iliwabidi"/>
+		<timing id="3" start="2.533" end="3.254" startframe="111702" framelength="31793" text="washikilie"/>
+		<timing id="4" start="3.254" end="3.774" startframe="143495" framelength="22938" text="jahazi"/>
+		<timing id="5" start="3.774" end="4.454" startframe="166433" framelength="29972" text="vizuri"/>
+	</timings>
+</xml>

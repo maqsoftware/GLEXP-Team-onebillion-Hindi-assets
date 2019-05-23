@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="sfx">
+		<phrasegroup id="anna_on">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+        <phrasegroup id="anna_off">
+            <phrase>cf_stickhit</phrase>
+        </phrasegroup>
+        <phrasegroup id="shimmer">
+            <phrase>magic_harp_2</phrase>
+        </phrasegroup>
+	</event>
+</audio>

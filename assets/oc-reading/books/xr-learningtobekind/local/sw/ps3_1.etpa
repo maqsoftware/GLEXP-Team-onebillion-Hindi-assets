@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps3_1.aif</url>
+	<relurl>ps3_1.aif</relurl>
+	<timings text="Siku moja, ndugu hawa hawakuwa na chakula. Wakatoka kwenda kutafuta chakula." frames="788389">
+		<timing id="0" start="0.000" end="0.736" startframe="0" framelength="32463" text="Siku"/>
+		<timing id="1" start="1.535" end="2.338" startframe="67675" framelength="35437" text="moja"/>
+		<timing id="2" start="3.412" end="4.183" startframe="150467" framelength="34005" text="ndugu"/>
+		<timing id="3" start="5.179" end="5.828" startframe="228393" framelength="28633" text="hawa"/>
+		<timing id="4" start="6.800" end="7.776" startframe="299892" framelength="43050" text="hawakuwa"/>
+		<timing id="5" start="8.592" end="9.091" startframe="378920" framelength="21988" text="na"/>
+		<timing id="6" start="9.871" end="10.670" startframe="435327" framelength="35223" text="chakula"/>
+		<timing id="7" start="11.766" end="12.779" startframe="518882" framelength="44692" text="Wakatoka"/>
+		<timing id="8" start="13.811" end="14.479" startframe="609073" framelength="29463" text="kwenda"/>
+		<timing id="9" start="15.364" end="16.413" startframe="677533" framelength="46266" text="kutafuta"/>
+		<timing id="10" start="17.171" end="17.877" startframe="757252" framelength="31137" text="chakula"/>
+	</timings>
+</xml>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookfourbirds</phrase>
+			<phrase>3_isharethemintotwoequalsets</phrase>
+			<phrase>3_therearetwobirdsineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_fourfrogssharethemintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethefourfrogsintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfrogsareineachset</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyfrogsareineachset</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfrogsareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_fourfishputthemintwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethefourfishintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfishareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyfishareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thistimesixducksputthemintwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethesixducksintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyducksareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyducksareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyducksareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_sixsheepputthemintwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethesixsheepintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanysheepareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanysheepareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanysheepareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_eighthenssharethemintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharetheeighthensintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyhensareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyhensareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyhensareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_eightmonkeysputthemintwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharetheeightmonkeysintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanymonkeysareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanymonkeysareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanymonkeysareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_tenleavesputthemintwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethetenleavesintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyleavesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyleavesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyleavesareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_tenflowerssharethemintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethetenflowersintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyflowersareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanyflowersareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyflowersareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_sixbirdssharethemintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethesixbirdsintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybirdsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybirdsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybirdsareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_sixcupssharethemintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethesixcupsintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycupsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanycupsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanycupsareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_ninecakessharethemintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharetheninecakesintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycakesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanycakesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanycakesareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_ninelemonsputtheminthreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharetheninelemonsintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanylemonsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanylemonsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanylemonsareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_eightbutterfliessharethemintofourequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharetheeightbutterfliesintofourequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybutterfliesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanybutterfliesareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybutterfliesareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_twelvelollipopsputtheminfourequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethetwelvelollipopsintofourequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowputthetwelvelollipopsintojustthreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_sharethetwelvelollipopsintojustthreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_sharefairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanylollipopsareineachset</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_welldoneyousharedthingsintoequalsetsandcountedthem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

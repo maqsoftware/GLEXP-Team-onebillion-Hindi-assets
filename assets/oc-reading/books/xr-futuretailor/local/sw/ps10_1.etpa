@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="Nilipenda sana kutumia cherehani. “Najivunia kuwa nawe,” alisema baba. “Utakuwa mshoni mzuri. Lakini Juma yuko wapi?” Juma alikuwa ametoweka ghafla." frames="1472257">
+		<timing id="0" start="0.000" end="0.952" startframe="0" framelength="41994" text="Nilipenda"/>
+		<timing id="1" start="1.694" end="2.618" startframe="74716" framelength="40733" text="sana"/>
+		<timing id="2" start="3.277" end="4.371" startframe="144532" framelength="48238" text="kutumia"/>
+		<timing id="3" start="5.025" end="6.078" startframe="221613" framelength="46416" text="cherehani"/>
+		<timing id="4" start="6.813" end="8.045" startframe="300465" framelength="54305" text="Najivunia"/>
+		<timing id="5" start="8.752" end="9.642" startframe="385969" framelength="39251" text="kuwa"/>
+		<timing id="6" start="10.009" end="10.848" startframe="441413" framelength="36988" text="nawe"/>
+		<timing id="7" start="12.372" end="13.539" startframe="545592" framelength="51456" text="alisema"/>
+		<timing id="8" start="14.138" end="14.939" startframe="623502" framelength="35292" text="baba"/>
+		<timing id="9" start="15.545" end="16.632" startframe="685534" framelength="47956" text="Utakuwa"/>
+		<timing id="10" start="17.060" end="18.058" startframe="752333" framelength="44044" text="mshoni"/>
+		<timing id="11" start="18.572" end="19.588" startframe="819019" framelength="44805" text="mzuri"/>
+		<timing id="12" start="20.137" end="21.056" startframe="888056" framelength="40506" text="Lakini"/>
+		<timing id="13" start="21.775" end="22.629" startframe="960274" framelength="37675" text="Juma"/>
+		<timing id="14" start="23.178" end="24.048" startframe="1022138" framelength="38394" text="yuko"/>
+		<timing id="15" start="24.896" end="25.695" startframe="1097932" framelength="35230" text="wapi"/>
+		<timing id="16" start="26.440" end="27.245" startframe="1166014" framelength="35495" text="Juma"/>
+		<timing id="17" start="27.792" end="28.838" startframe="1225649" framelength="46109" text="alikuwa"/>
+		<timing id="18" start="30.350" end="31.640" startframe="1338439" framelength="56900" text="ametoweka"/>
+		<timing id="19" start="31.953" end="32.954" startframe="1409117" framelength="44157" text="ghafla"/>
+	</timings>
+</xml>

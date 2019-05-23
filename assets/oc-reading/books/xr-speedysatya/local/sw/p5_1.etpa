@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Juu ya vilima, Mosi anaruka ruka kama sungura na anakimbia kama paa. Mama yake hawezi tena kustahamili! “Nisubiri Mosi!” anaita." frames="529304">
+		<timing id="0" start="0.000" end="0.224" startframe="0" framelength="9890" text="Juu"/>
+		<timing id="1" start="0.224" end="0.433" startframe="9890" framelength="9212" text="ya"/>
+		<timing id="2" start="0.433" end="1.161" startframe="19102" framelength="32102" text="vilima"/>
+		<timing id="3" start="1.631" end="2.040" startframe="71918" framelength="18027" text="Mosi"/>
+		<timing id="4" start="2.040" end="2.567" startframe="89945" framelength="23253" text="anaruka"/>
+		<timing id="5" start="2.567" end="3.076" startframe="113198" framelength="22455" text="ruka"/>
+		<timing id="6" start="3.225" end="3.512" startframe="142243" framelength="12652" text="kama"/>
+		<timing id="7" start="3.512" end="4.276" startframe="154895" framelength="33687" text="sungura"/>
+		<timing id="8" start="4.497" end="4.718" startframe="198310" framelength="9775" text="na"/>
+		<timing id="9" start="4.718" end="5.541" startframe="208085" framelength="36282" text="anakimbia"/>
+		<timing id="10" start="5.541" end="5.860" startframe="244367" framelength="14059" text="kama"/>
+		<timing id="11" start="5.860" end="6.501" startframe="258426" framelength="28255" text="paa"/>
+		<timing id="12" start="7.122" end="7.446" startframe="314101" framelength="14275" text="Mama"/>
+		<timing id="13" start="7.446" end="8.006" startframe="328376" framelength="24707" text="yake"/>
+		<timing id="14" start="8.006" end="8.524" startframe="353083" framelength="22806" text="hawezi"/>
+		<timing id="15" start="8.524" end="8.864" startframe="375889" framelength="15030" text="tena"/>
+		<timing id="16" start="8.864" end="9.739" startframe="390919" framelength="38549" text="kustahamili"/>
+		<timing id="17" start="10.103" end="10.723" startframe="445553" framelength="27319" text="Nisubiri"/>
+		<timing id="18" start="10.723" end="11.286" startframe="472872" framelength="24822" text="Mosi"/>
+		<timing id="19" start="11.286" end="12.002" startframe="497694" framelength="31610" text="anaita"/>
+	</timings>
+</xml>

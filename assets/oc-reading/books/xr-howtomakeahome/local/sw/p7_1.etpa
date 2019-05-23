@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p7_1.aif</url>
+	<relurl>p7_1.aif</relurl>
+	<timings text="Lakini katika kila kibanda yule baba alisimama na kuuliza, “Nani anaishi humu?”" frames="306854">
+		<timing id="0" start="0.000" end="0.738" startframe="0" framelength="32563" text="Lakini"/>
+		<timing id="1" start="1.329" end="1.808" startframe="58598" framelength="21123" text="katika"/>
+		<timing id="2" start="1.808" end="2.131" startframe="79721" framelength="14277" text="kila"/>
+		<timing id="3" start="2.131" end="2.841" startframe="93998" framelength="31279" text="kibanda"/>
+		<timing id="4" start="3.011" end="3.304" startframe="132785" framelength="12939" text="yule"/>
+		<timing id="5" start="3.304" end="3.675" startframe="145724" framelength="16364" text="baba"/>
+		<timing id="6" start="3.675" end="4.387" startframe="162088" framelength="31370" text="alisimama"/>
+		<timing id="7" start="4.387" end="4.520" startframe="193458" framelength="5858" text="na"/>
+		<timing id="8" start="4.520" end="5.198" startframe="199316" framelength="29915" text="kuuliza"/>
+		<timing id="9" start="5.413" end="5.903" startframe="238716" framelength="21619" text="Nani"/>
+		<timing id="10" start="5.903" end="6.481" startframe="260335" framelength="25477" text="anaishi"/>
+		<timing id="11" start="6.481" end="6.958" startframe="285812" framelength="21042" text="humu"/>
+	</timings>
+</xml>

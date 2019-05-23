@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<rectangle id="keyboard_rect" pos="0.5,0.797134" src="keyboard_rect" fill="255,136,136" zpos="0" hidden="true" widthtracksheight="true" x="0.00125694" y="0.596375" width="0.997486" height="0.40152" pxwidth="1021.43" pxheight="308.367" />
+		<rectangle id="button_disabled" pos="0.207698,0.81335" parent="keyboard_rect" src="button_disabled" fill="235,235,235" stroke="215,215,215" strokewidth="2" zpos="0.003" hidden="true" font_colour="206,206,206" x="0.165117" y="0.672304" width="0.0851636" height="0.282093" cornerradius="0.111756" />
+		<rectangle id="button_highlight" pos="0.108886,0.494787" parent="keyboard_rect" src="button_highlight" fill="251,175,93" stroke="247,147,29" strokewidth="2" zpos="0.002" hidden="true" font_colour="0,0,0" x="0.066304" y="0.353741" width="0.0851636" height="0.282093" cornerradius="0.111756" />
+		<rectangle id="button_normal" pos="0.0601105,0.161441" parent="keyboard_rect" src="button_normal" fill="180,244,96" stroke="139,211,43" strokewidth="2" zpos="0.001" font_colour="0,0,0" x="0.0175287" y="0.0203947" width="0.0851636" height="0.282093" cornerradius="0.111756" />
+		<rectangle id="keyboard_bg" pos="0.502642,0.773193" src="keyboard_bg" fill="239,255,254" zpos="0.004" x="-0.0021286" y="0.544495" width="1.00954" height="0.457397" />
+		<rectangle id="word_box" pos="0.500034,0.332583" src="word_box" fill="225,225,225" zpos="0.005" hidden="true" widthtracksheight="true" x="0.0119514" y="0.104558" width="0.976166" height="0.45605" pxwidth="999.594" pxheight="350.246" />
+	</event>
+	<event id="twrd1" >
+		<path id="line_1" pos="0.500034,0.292969" src="line_1" fill="235,235,235" stroke="215,215,215" strokewidth="2" zpos="3.001" d="M0.1488 0.293L0.8513 0.293" />
+		<path id="line_2" pos="0.500034,0.429688" src="line_2" fill="235,235,235" stroke="215,215,215" strokewidth="2" zpos="3" d="M0.1488 0.4297L0.8513 0.4297" />
+	</event>
+	<event id="twrdword" lowlight_colour="218,218,218" >
+		<rectangle id="image_box" pos="0.825058,0.114451" src="image_box" rotation="-10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" hidden="true" x="0.766464" y="0.0363261" width="0.117188" height="0.15625" />
+		<path id="line" pos="0.371284,0.429688" src="line" fill="235,235,235" stroke="148,148,148" strokewidth="4" zpos="3" hidden="true" d="M0.333 0.4297L0.4096 0.4297" />
+		<rectangle id="word_box_image" pos="0.500034,0.377965" src="word_box_image" fill="225,225,225" zpos="3.001" hidden="true" widthtracksheight="true" x="0.0119514" y="0.21166" width="0.976166" height="0.332611" pxwidth="999.594" pxheight="255.445" />
+	</event>
+</events>

@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/p8_1.aif</url>
+	<relurl>p8_1.aif</relurl>
+	<timings text="Usiku wa manane siku ile, jahazi lilikumbwa na kimbunga na mangurumo yalisikika. Mawimbi yalilinyanyua jahazi juu na chini." frames="577481">
+		<timing id="0" start="0.000" end="0.447" startframe="0" framelength="19732" text="Usiku"/>
+		<timing id="1" start="0.447" end="0.647" startframe="19732" framelength="8806" text="wa"/>
+		<timing id="2" start="0.647" end="1.241" startframe="28538" framelength="26192" text="manane"/>
+		<timing id="3" start="1.241" end="1.570" startframe="54730" framelength="14517" text="siku"/>
+		<timing id="4" start="1.570" end="2.063" startframe="69247" framelength="21717" text="ile"/>
+		<timing id="5" start="2.567" end="3.209" startframe="113188" framelength="28333" text="jahazi"/>
+		<timing id="6" start="3.209" end="3.954" startframe="141521" framelength="32848" text="lilikumbwa"/>
+		<timing id="7" start="3.954" end="4.141" startframe="174369" framelength="8258" text="na"/>
+		<timing id="8" start="4.141" end="4.986" startframe="182627" framelength="37269" text="kimbunga"/>
+		<timing id="9" start="5.674" end="5.876" startframe="250245" framelength="8878" text="na"/>
+		<timing id="10" start="5.876" end="6.696" startframe="259123" framelength="36150" text="mangurumo"/>
+		<timing id="11" start="6.696" end="7.751" startframe="295273" framelength="46565" text="yalisikika"/>
+		<timing id="12" start="8.637" end="9.547" startframe="380909" framelength="40102" text="Mawimbi"/>
+		<timing id="13" start="10.259" end="11.292" startframe="452410" framelength="45559" text="yalilinyanyua"/>
+		<timing id="14" start="11.292" end="11.873" startframe="497969" framelength="25644" text="jahazi"/>
+		<timing id="15" start="11.873" end="12.334" startframe="523613" framelength="20309" text="juu"/>
+		<timing id="16" start="12.423" end="12.628" startframe="547834" framelength="9046" text="na"/>
+		<timing id="17" start="12.628" end="13.095" startframe="556880" framelength="20601" text="chini"/>
+	</timings>
+</xml>

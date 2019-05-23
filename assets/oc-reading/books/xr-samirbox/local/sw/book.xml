@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-samirboxSW" indent="N" lineheight="1.5" paraheight="1.33" fontsize="42">
+	<page pageno="0">
+		<para>Boksi la vitu la Samir</para>
+	</page>
+	<page pageno="1">
+		<para>Babu yake Samir hawezi kusoma gazeti. Miwani yake imevunjika!</para>
+	</page>
+	<page pageno="2">
+		<para>Samir anakimbilia kuleta boksi lake la vitu.</para>
+	</page>
+	<page pageno="3" picjustify="right">
+		<para>Anaona nini? Safi! Anaona kioo cha kukuzia taswira.</para>
+		<para>Kila kitu kinaonekana kikubwa kwa kioo cha kukuzia taswira.</para>
+	</page>
+	<page pageno="4">
+		<para>Sasa babu yake Samir anaweza kusoma gazeti!</para>
+	</page>
+	<page pageno="5" picjustify="left">
+		<para>Mjomba wake Samir yuko jikoni. Hawezi kuyamimina mafuta ya kupikia ndani ya chupa.</para>
+	</page>
+	<page pageno="6">
+		<para>Samir anaona nini mara hii?</para>
+	</page>
+	<page pageno="7" picjustify="right">
+		<para>Safi! Anaona keni yenye mdomo, mkubwa na mpana.</para>
+		<para>Unaweza kumimina chochote kwa kutumia keni.</para>
+	</page>
+	<page pageno="8">
+		<para>Sasa mjomba wake Samir anaweza kumimina mafuta.</para>
+	</page>
+	<page pageno="9" picjustify="left">
+		<para>Bibi yake Samir hawezi kushona.</para>
+		<para>Amedondosha sindano yake sakafuni.</para>
+	</page>
+	<page pageno="10">
+		<para>Anaona nini Samir mara hii? Safi! Anaona sumaku.</para>
+		<para>Kitu chochote cha chuma kitaganda.</para>
+	</page>
+	<page pageno="11" picjustify="right">
+		<para>Sasa bibi yake Samir anaweza kushona.</para>
+	</page>
+	<page pageno="12" picjustify="left">
+		<para>Boksi la vitu la Samir ni la ajabu!</para>
+	</page>
+</book>

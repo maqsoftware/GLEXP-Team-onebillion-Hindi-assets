@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Siku moja, wanyama walikutana pamoja kuchagua mfalme. Wakapiga kura. Wakaamua kwamba Simba awe mfalme wao." frames="1050224">
+		<timing id="0" start="0.000" end="0.770" startframe="0" framelength="33959" text="Siku"/>
+		<timing id="1" start="1.484" end="2.284" startframe="65452" framelength="35251" text="moja"/>
+		<timing id="2" start="2.947" end="3.773" startframe="129951" framelength="36433" text="wanyama"/>
+		<timing id="3" start="4.575" end="5.725" startframe="201766" framelength="50712" text="walikutana"/>
+		<timing id="4" start="6.570" end="7.403" startframe="289742" framelength="36724" text="pamoja"/>
+		<timing id="5" start="8.020" end="9.047" startframe="353664" framelength="45295" text="kuchagua"/>
+		<timing id="6" start="9.780" end="10.732" startframe="431308" framelength="41963" text="mfalme"/>
+		<timing id="7" start="11.634" end="12.730" startframe="513074" framelength="48320" text="Wakapiga"/>
+		<timing id="8" start="13.427" end="14.165" startframe="592116" framelength="32546" text="kura"/>
+		<timing id="9" start="15.057" end="16.233" startframe="664012" framelength="51885" text="Wakaamua"/>
+		<timing id="10" start="17.114" end="17.972" startframe="754707" framelength="37846" text="kwamba"/>
+		<timing id="11" start="18.733" end="19.526" startframe="826123" framelength="34959" text="Simba"/>
+		<timing id="12" start="20.193" end="20.846" startframe="890490" framelength="28813" text="awe"/>
+		<timing id="13" start="21.703" end="22.720" startframe="957119" framelength="44836" text="mfalme"/>
+		<timing id="14" start="23.338" end="23.815" startframe="1029219" framelength="21005" text="wao"/>
+	</timings>
+</xml>

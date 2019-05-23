@@ -1,0 +1,31 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="Ndugu hawa wawili walikuwa tofauti sana. Saida alikuwa mpole na mchapa kazi, Neema alikuwa mvivu na mkorofi. Neema alimwachia dada yake afanye kazi zote." frames="705390">
+		<timing id="0" start="0.000" end="0.414" startframe="0" framelength="18245" text="Ndugu"/>
+		<timing id="1" start="0.414" end="0.769" startframe="18245" framelength="15676" text="hawa"/>
+		<timing id="2" start="0.769" end="1.498" startframe="33921" framelength="32158" text="wawili"/>
+		<timing id="3" start="1.803" end="2.450" startframe="79492" framelength="28532" text="walikuwa"/>
+		<timing id="4" start="2.450" end="3.014" startframe="108024" framelength="24885" text="tofauti"/>
+		<timing id="5" start="3.014" end="3.656" startframe="132909" framelength="28331" text="sana"/>
+		<timing id="6" start="4.342" end="5.317" startframe="191483" framelength="42988" text="Saida"/>
+		<timing id="7" start="5.400" end="5.920" startframe="238125" framelength="22925" text="alikuwa"/>
+		<timing id="8" start="5.920" end="6.378" startframe="261050" framelength="20215" text="mpole"/>
+		<timing id="9" start="6.378" end="6.600" startframe="281265" framelength="9776" text="na"/>
+		<timing id="10" start="6.600" end="6.932" startframe="291041" framelength="14672" text="mchapa"/>
+		<timing id="11" start="6.932" end="7.508" startframe="305713" framelength="25384" text="kazi"/>
+		<timing id="12" start="8.020" end="8.975" startframe="353664" framelength="42146" text="Neema"/>
+		<timing id="13" start="9.199" end="9.795" startframe="405691" framelength="26262" text="alikuwa"/>
+		<timing id="14" start="9.795" end="10.243" startframe="431953" framelength="19778" text="mvivu"/>
+		<timing id="15" start="10.243" end="10.464" startframe="451731" framelength="9752" text="na"/>
+		<timing id="16" start="10.464" end="11.247" startframe="461483" framelength="34512" text="mkorofi"/>
+		<timing id="17" start="11.758" end="12.637" startframe="518514" framelength="38794" text="Neema"/>
+		<timing id="18" start="13.031" end="13.855" startframe="574687" framelength="36318" text="alimwachia"/>
+		<timing id="19" start="13.855" end="14.147" startframe="611005" framelength="12896" text="dada"/>
+		<timing id="20" start="14.147" end="14.725" startframe="623901" framelength="25481" text="yake"/>
+		<timing id="21" start="14.725" end="15.259" startframe="649382" framelength="23557" text="afanye"/>
+		<timing id="22" start="15.259" end="15.516" startframe="672939" framelength="11308" text="kazi"/>
+		<timing id="23" start="15.516" end="15.995" startframe="684247" framelength="21143" text="zote"/>
+	</timings>
+</xml>

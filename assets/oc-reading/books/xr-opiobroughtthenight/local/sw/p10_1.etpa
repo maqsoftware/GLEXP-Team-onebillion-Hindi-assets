@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Aliporejea kijijini kwake, watu waliogopa." frames="156756">
+		<timing id="0" start="0.000" end="0.817" startframe="0" framelength="36039" text="Aliporejea"/>
+		<timing id="1" start="0.817" end="1.394" startframe="36039" framelength="25443" text="kijijini"/>
+		<timing id="2" start="1.394" end="1.995" startframe="61482" framelength="26481" text="kwake"/>
+		<timing id="3" start="2.218" end="2.724" startframe="97815" framelength="22292" text="watu"/>
+		<timing id="4" start="2.724" end="3.555" startframe="120107" framelength="36649" text="waliogopa"/>
+	</timings>
+</xml>

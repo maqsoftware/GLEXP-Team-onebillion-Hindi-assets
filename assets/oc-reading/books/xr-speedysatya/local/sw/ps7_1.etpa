@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Msituni, Mosi ananing’inia kama buibui. Anaruka kama komba. Mama anacheka. Anapenda kumuona Mosi akiwa na furaha." frames="1211492">
+		<timing id="0" start="0.000" end="0.994" startframe="0" framelength="43837" text="Msituni"/>
+		<timing id="1" start="1.644" end="2.543" startframe="72519" framelength="39607" text="Mosi"/>
+		<timing id="2" start="3.769" end="5.190" startframe="166191" framelength="62701" text="ananing’inia"/>
+		<timing id="3" start="5.945" end="6.725" startframe="262161" framelength="34412" text="kama"/>
+		<timing id="4" start="7.934" end="9.063" startframe="349871" framelength="49816" text="buibui"/>
+		<timing id="5" start="9.849" end="10.956" startframe="434334" framelength="48847" text="Anaruka"/>
+		<timing id="6" start="11.750" end="12.639" startframe="518163" framelength="39217" text="kama"/>
+		<timing id="7" start="13.318" end="14.236" startframe="587325" framelength="40465" text="komba"/>
+		<timing id="8" start="14.945" end="15.784" startframe="659090" framelength="36983" text="Mama"/>
+		<timing id="9" start="17.194" end="18.261" startframe="758255" framelength="47044" text="anacheka"/>
+		<timing id="10" start="18.925" end="20.090" startframe="834607" framelength="51350" text="Anapenda"/>
+		<timing id="11" start="20.712" end="21.826" startframe="913379" framelength="49160" text="kumuona"/>
+		<timing id="12" start="22.457" end="23.328" startframe="990347" framelength="38420" text="Mosi"/>
+		<timing id="13" start="23.847" end="24.891" startframe="1051667" framelength="46043" text="akiwa"/>
+		<timing id="14" start="25.426" end="26.179" startframe="1121282" framelength="33223" text="na"/>
+		<timing id="15" start="26.638" end="27.471" startframe="1174751" framelength="36741" text="furaha"/>
+	</timings>
+</xml>

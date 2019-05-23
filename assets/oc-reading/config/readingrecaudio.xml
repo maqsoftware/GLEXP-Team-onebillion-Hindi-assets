@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5b">
+		<phrasegroup id="DEMO">
+			<phrase>5_listen</phrase>
+			<phrase>5_nowyourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_saytheredwordsoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>5_letslookatyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>5_good</phrase>
+			<phrase>5_nowtrythenextpage</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+        <phrasegroup id="tap">
+            <phrase>click_snap_1</phrase>
+        </phrasegroup>
+        <phrasegroup id="endstory">
+            <phrase>twinkle</phrase>
+        </phrasegroup>
+	</event>
+</audio>

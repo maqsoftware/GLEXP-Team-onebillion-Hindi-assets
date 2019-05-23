@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Alimnunulia seti ya mipira ya kuchezea chezea! Bibi alifurahi sana." frames="678705">
+		<timing id="0" start="0.000" end="1.341" startframe="0" framelength="59148" text="Alimnunulia"/>
+		<timing id="1" start="2.278" end="3.112" startframe="100444" framelength="36774" text="seti"/>
+		<timing id="2" start="3.547" end="4.212" startframe="156412" framelength="29332" text="ya"/>
+		<timing id="3" start="4.652" end="5.757" startframe="205146" framelength="48734" text="mipira"/>
+		<timing id="4" start="6.283" end="6.915" startframe="277100" framelength="27837" text="ya"/>
+		<timing id="5" start="7.479" end="8.578" startframe="329829" framelength="48470" text="kuchezea"/>
+		<timing id="6" start="9.181" end="9.921" startframe="404899" framelength="32627" text="chezea"/>
+		<timing id="7" start="11.000" end="11.767" startframe="485084" framelength="33829" text="Bibi"/>
+		<timing id="8" start="12.504" end="13.671" startframe="551407" framelength="51493" text="alifurahi"/>
+		<timing id="9" start="14.316" end="14.999" startframe="631334" framelength="30121" text="sana"/>
+	</timings>
+</xml>

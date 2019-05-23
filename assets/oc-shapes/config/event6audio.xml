@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_youcancolourinallthewhiteshapeslikethis</phrase>
+			<phrase>6_greenforthetriangles</phrase>
+			<phrase>6_pinkforthecircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowyourturn</phrase>
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_usethecolourfortriangles</phrase>
+			<phrase>6_usethecolourforcircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowcolourinallthesewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_usethecolourfortriangles</phrase>
+			<phrase>6_usethecolourforrectangles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_usethecolourforsquares</phrase>
+			<phrase>6_usethecolourforcircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_colourinthesewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_usethecolourforcircles</phrase>
+			<phrase>6_usethecolourforsquares</phrase>
+			<phrase>6_usethecolourforovals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowdothese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_usethecolourfortriangles</phrase>
+			<phrase>6_usethecolourforcircles</phrase>
+			<phrase>6_usethecolourforovals</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_verygoodyoucolouredinalltheshapescorrectly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>1_a</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>1_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>1_c</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>1_d</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>1_e</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>1_f</phrase>
+		</phrasegroup>
+	</event>
+</audio>

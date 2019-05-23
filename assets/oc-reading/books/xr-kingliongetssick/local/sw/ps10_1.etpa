@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="“Kwa bahati dawa haiko mbali kiivyo,” Sungura alisema. “Kuponya ugonjwa huu, unahitaji dawa iliyotengenezwa kwa moyo wa Fisi.”" frames="1261466">
+		<timing id="0" start="0.247" end="0.916" startframe="10882" framelength="29504" text="Kwa"/>
+		<timing id="1" start="1.066" end="2.009" startframe="47015" framelength="41584" text="bahati"/>
+		<timing id="2" start="2.448" end="3.340" startframe="107953" framelength="39345" text="dawa"/>
+		<timing id="3" start="3.693" end="4.735" startframe="162881" framelength="45949" text="haiko"/>
+		<timing id="4" start="5.465" end="6.423" startframe="241027" framelength="42243" text="mbali"/>
+		<timing id="5" start="7.316" end="8.387" startframe="322640" framelength="47214" text="kiivyo"/>
+		<timing id="6" start="9.192" end="10.304" startframe="405346" framelength="49060" text="Sungura"/>
+		<timing id="7" start="10.724" end="11.780" startframe="472916" framelength="46594" text="alisema"/>
+		<timing id="8" start="12.539" end="13.616" startframe="552983" framelength="47485" text="Kuponya"/>
+		<timing id="9" start="14.306" end="15.328" startframe="630877" framelength="45109" text="ugonjwa"/>
+		<timing id="10" start="15.867" end="16.644" startframe="699715" framelength="34281" text="huu"/>
+		<timing id="11" start="17.435" end="18.694" startframe="768878" framelength="55531" text="unahitaji"/>
+		<timing id="12" start="19.392" end="20.163" startframe="855182" framelength="34024" text="dawa"/>
+		<timing id="13" start="20.997" end="22.424" startframe="925960" framelength="62948" text="iliyotengenezwa"/>
+		<timing id="14" start="23.442" end="24.129" startframe="1033772" framelength="30312" text="kwa"/>
+		<timing id="15" start="24.980" end="25.792" startframe="1101601" framelength="35820" text="moyo"/>
+		<timing id="16" start="26.797" end="27.368" startframe="1181748" framelength="25164" text="wa"/>
+		<timing id="17" start="27.858" end="28.605" startframe="1228522" framelength="32944" text="Fisi"/>
+	</timings>
+</xml>

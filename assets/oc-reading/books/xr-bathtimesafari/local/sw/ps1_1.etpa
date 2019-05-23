@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Kabla hajaenda kulala, Jack huoga. Anatakiwa awe safi. Lakini badala yake, Jack hufanya safari wakati wa kuoga!" frames="1608904">
+		<timing id="0" start="0.000" end="0.729" startframe="0" framelength="32159" text="Kabla"/>
+		<timing id="1" start="1.818" end="3.128" startframe="80152" framelength="57800" text="hajaenda"/>
+		<timing id="2" start="4.980" end="5.996" startframe="219604" framelength="44825" text="kulala"/>
+		<timing id="3" start="7.349" end="8.315" startframe="324100" framelength="42610" text="Jack"/>
+		<timing id="4" start="9.323" end="10.274" startframe="411131" framelength="41970" text="huoga"/>
+		<timing id="5" start="11.917" end="13.142" startframe="525526" framelength="54030" text="Anatakiwa"/>
+		<timing id="6" start="14.357" end="15.243" startframe="633130" framelength="39084" text="awe"/>
+		<timing id="7" start="16.403" end="17.353" startframe="723352" framelength="41897" text="safi"/>
+		<timing id="8" start="18.496" end="19.634" startframe="815679" framelength="50195" text="Lakini"/>
+		<timing id="9" start="21.246" end="22.345" startframe="936928" framelength="48490" text="badala"/>
+		<timing id="10" start="23.654" end="24.646" startframe="1043154" framelength="43740" text="yake"/>
+		<timing id="11" start="26.341" end="27.101" startframe="1161659" framelength="33497" text="Jack"/>
+		<timing id="12" start="28.276" end="29.415" startframe="1246961" framelength="50227" text="hufanya"/>
+		<timing id="13" start="30.604" end="31.739" startframe="1349646" framelength="50048" text="safari"/>
+		<timing id="14" start="32.463" end="33.493" startframe="1431615" framelength="45446" text="wakati"/>
+		<timing id="15" start="34.582" end="35.303" startframe="1525050" framelength="31805" text="wa"/>
+		<timing id="16" start="35.740" end="36.483" startframe="1576137" framelength="32767" text="kuoga"/>
+	</timings>
+</xml>

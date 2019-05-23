@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Bibi yangu alicheza cheza kwa kurusha embe sokoni. Lakini mambo hayakwenda vizuri." frames="298349">
+		<timing id="0" start="0.000" end="0.317" startframe="0" framelength="13969" text="Bibi"/>
+		<timing id="1" start="0.317" end="0.795" startframe="13969" framelength="21084" text="yangu"/>
+		<timing id="2" start="0.795" end="1.347" startframe="35053" framelength="24358" text="alicheza"/>
+		<timing id="3" start="1.347" end="1.822" startframe="59411" framelength="20956" text="cheza"/>
+		<timing id="4" start="1.822" end="2.014" startframe="80367" framelength="8454" text="kwa"/>
+		<timing id="5" start="2.014" end="2.859" startframe="88821" framelength="37269" text="kurusha"/>
+		<timing id="6" start="2.919" end="3.259" startframe="128735" framelength="14988" text="embe"/>
+		<timing id="7" start="3.259" end="3.958" startframe="143723" framelength="30826" text="sokoni"/>
+		<timing id="8" start="4.428" end="4.913" startframe="195296" framelength="21378" text="Lakini"/>
+		<timing id="9" start="4.913" end="5.558" startframe="216674" framelength="28454" text="mambo"/>
+		<timing id="10" start="5.653" end="6.205" startframe="249276" framelength="24365" text="hayakwenda"/>
+		<timing id="11" start="6.205" end="6.765" startframe="273641" framelength="24708" text="vizuri"/>
+	</timings>
+</xml>

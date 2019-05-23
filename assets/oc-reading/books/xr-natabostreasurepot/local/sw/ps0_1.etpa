@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Kijungu cha hazina cha Nura" frames="326837">
+		<timing id="0" start="0.000" end="0.727" startframe="0" framelength="32040" text="Kijungu"/>
+		<timing id="1" start="1.837" end="2.335" startframe="81007" framelength="21962" text="cha"/>
+		<timing id="2" start="3.405" end="4.327" startframe="150179" framelength="40632" text="hazina"/>
+		<timing id="3" start="5.290" end="5.830" startframe="233273" framelength="23817" text="cha"/>
+		<timing id="4" start="6.832" end="7.411" startframe="301311" framelength="25526" text="Nura"/>
+	</timings>
+</xml>

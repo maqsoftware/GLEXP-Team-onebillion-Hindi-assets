@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Kisha Siafu akatokezea kwenye ndoo kubwa ya bati. “Loh,” alisema. “Siwezi kupanda juu ya ile ndoo!”" frames="390346">
+		<timing id="0" start="0.000" end="0.719" startframe="0" framelength="31720" text="Kisha"/>
+		<timing id="1" start="1.147" end="1.786" startframe="50586" framelength="28179" text="Siafu"/>
+		<timing id="2" start="1.786" end="2.536" startframe="78765" framelength="33051" text="akatokezea"/>
+		<timing id="3" start="2.536" end="2.787" startframe="111816" framelength="11079" text="kwenye"/>
+		<timing id="4" start="2.787" end="3.091" startframe="122895" framelength="13429" text="ndoo"/>
+		<timing id="5" start="3.091" end="3.513" startframe="136324" framelength="18604" text="kubwa"/>
+		<timing id="6" start="3.513" end="3.668" startframe="154928" framelength="6827" text="ya"/>
+		<timing id="7" start="3.668" end="4.119" startframe="161755" framelength="19889" text="bati"/>
+		<timing id="8" start="4.529" end="5.098" startframe="199729" framelength="25090" text="Loh"/>
+		<timing id="9" start="5.263" end="6.110" startframe="232090" framelength="37378" text="alisema"/>
+		<timing id="10" start="6.364" end="6.825" startframe="280663" framelength="20316" text="Siwezi"/>
+		<timing id="11" start="6.825" end="7.286" startframe="300979" framelength="20348" text="kupanda"/>
+		<timing id="12" start="7.286" end="7.765" startframe="321327" framelength="21094" text="juu"/>
+		<timing id="13" start="7.950" end="8.223" startframe="350575" framelength="12040" text="ya"/>
+		<timing id="14" start="8.223" end="8.460" startframe="362615" framelength="10486" text="ile"/>
+		<timing id="15" start="8.460" end="8.846" startframe="373101" framelength="17015" text="ndoo"/>
+	</timings>
+</xml>

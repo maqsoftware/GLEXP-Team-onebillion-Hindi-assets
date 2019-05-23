@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps6_3.aif</url>
+	<relurl>ps6_3.aif</relurl>
+	<timings text="“Hapana,” mtu alicheka. “Ni usiku!”" frames="294647">
+		<timing id="0" start="0.000" end="0.795" startframe="0" framelength="35059" text="Hapana"/>
+		<timing id="1" start="1.603" end="2.296" startframe="70693" framelength="30580" text="mtu"/>
+		<timing id="2" start="3.019" end="4.076" startframe="133149" framelength="46595" text="alicheka"/>
+		<timing id="3" start="4.726" end="5.307" startframe="208403" framelength="25628" text="Ni"/>
+		<timing id="4" start="5.825" end="6.681" startframe="256878" framelength="37769" text="usiku"/>
+	</timings>
+</xml>

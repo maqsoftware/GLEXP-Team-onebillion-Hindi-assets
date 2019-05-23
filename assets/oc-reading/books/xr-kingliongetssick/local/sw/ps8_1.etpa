@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="“Nimefarijika sana umefika, mpenzi wangu Sungura,” alisema Simba. “Ninaumwa sana. Lakini Fisi amesema unaijua dawa ya maradhi haya.”" frames="1284018">
+		<timing id="0" start="0.000" end="1.307" startframe="0" framelength="57649" text="Nimefarijika"/>
+		<timing id="1" start="2.150" end="2.901" startframe="94799" framelength="33136" text="sana"/>
+		<timing id="2" start="3.279" end="4.313" startframe="144614" framelength="45578" text="umefika"/>
+		<timing id="3" start="5.284" end="6.294" startframe="233026" framelength="44528" text="mpenzi"/>
+		<timing id="4" start="6.978" end="7.747" startframe="307751" framelength="33884" text="wangu"/>
+		<timing id="5" start="8.627" end="9.657" startframe="380429" framelength="45446" text="Sungura"/>
+		<timing id="6" start="10.630" end="11.594" startframe="468774" framelength="42533" text="alisema"/>
+		<timing id="7" start="12.182" end="13.053" startframe="537218" framelength="38431" text="Simba"/>
+		<timing id="8" start="14.055" end="15.144" startframe="619843" framelength="48018" text="Ninaumwa"/>
+		<timing id="9" start="16.139" end="16.805" startframe="711737" framelength="29349" text="sana"/>
+		<timing id="10" start="17.556" end="18.511" startframe="774240" framelength="42074" text="Lakini"/>
+		<timing id="11" start="18.890" end="19.743" startframe="833071" framelength="37608" text="Fisi"/>
+		<timing id="12" start="20.156" end="21.166" startframe="888867" framelength="44544" text="amesema"/>
+		<timing id="13" start="21.950" end="22.953" startframe="968007" framelength="44242" text="unaijua"/>
+		<timing id="14" start="23.789" end="24.676" startframe="1049109" framelength="39109" text="dawa"/>
+		<timing id="15" start="25.352" end="26.014" startframe="1118030" framelength="29166" text="ya"/>
+		<timing id="16" start="26.747" end="27.655" startframe="1179528" framelength="40038" text="maradhi"/>
+		<timing id="17" start="28.504" end="29.116" startframe="1257020" framelength="26998" text="haya"/>
+	</timings>
+</xml>

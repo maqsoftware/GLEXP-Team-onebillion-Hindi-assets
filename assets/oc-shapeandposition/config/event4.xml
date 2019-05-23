@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="4a,4b,4c,4d,4e,4f,4g,4h,4i,4j,4k" colour="254,253,193" >
+		<image id="IMG_0100" pos="0.5,0.5" src="IMG_0100" zpos="0" />
+	</event>
+	<event id="4a" >
+		<vector id="obj1" pos="0.357422,0.527621" src="4a_girl" scalex="0.687014" scaley="0.687014" zpos="2" skinoffset="1" />
+		<vector id="obj2" pos="0.651367,0.48112" src="4a_boy" scalex="0.811078" scaley="0.811078" zpos="2.001" />
+	</event>
+	<event id="4b" target="obj1" >
+		<vector id="obj1" pos="0.331543,0.521484" src="4b_boy" scalex="0.694601" scaley="0.694601" zpos="2" skinoffset="2" />
+		<vector id="obj2" pos="0.63216,0.479799" src="4b_girl" scalex="0.841628" scaley="0.841628" zpos="2.001" />
+	</event>
+	<event id="4c" target="obj2" >
+		<vector id="obj1" pos="0.339085,0.497452" src="4c_boy1" scalex="0.743229" scaley="0.743229" zpos="2" />
+		<vector id="obj2" pos="0.653798,0.48112" src="4c_boy2" scalex="0.820668" scaley="0.820668" zpos="2.001" skinoffset="1" />
+	</event>
+	<event id="4d" target="obj1" >
+		<vector id="obj1" pos="0.389118,0.503459" src="4c_sheep1" scalex="1.25541" scaley="1.25541" zpos="2.001" />
+		<vector id="obj2" pos="0.619629,0.505208" src="4c_sheep2" scalex="1.2532" scaley="1.2532" zpos="2" />
+	</event>
+	<event id="4e" target="obj2" >
+		<vector id="obj1" pos="0.316406,0.491536" src="4c_elephant1" scalex="1.40186" scaley="1.40186" zpos="2" />
+		<vector id="obj2" pos="0.680664,0.537636" src="4c_elephant2" scalex="1.21245" scaley="1.21245" zpos="2.001" />
+	</event>
+	<event id="4f" target="obj1" >
+		<vector id="obj1" pos="0.260331,0.484375" src="4f_giraffe" scalex="1.74813" scaley="1.74813" zpos="2" />
+		<vector id="obj2" pos="0.486905,0.553289" src="4f_giraffe" scalex="1.40669" scaley="1.40669" zpos="2.001" />
+		<vector id="obj3" pos="0.749023,0.501821" src="4f_giraffe2" scalex="1.67093" scaley="1.67093" zpos="2.002" />
+	</event>
+	<event id="4g" target="obj3" >
+	</event>
+	<event id="4h" target="obj2" >
+	</event>
+	<event id="4i" target="obj2" >
+		<vector id="obj1" pos="0.321019,0.565117" src="4i_duck" scalex="0.925832" scaley="0.925832" zpos="2" />
+		<vector id="obj2" pos="0.502441,0.549479" src="4i_duck" scalex="1.08" scaley="1.07994" zpos="2.001" />
+		<vector id="obj3" pos="0.682129,0.570312" src="4i_duck" scalex="-0.86" scaley="0.86" zpos="2.002" />
+	</event>
+	<event id="4j" target="obj3" >
+	</event>
+	<event id="4k" target="obj1" >
+	</event>
+	<event id="masterb" scenes="4l,4m1,4m2,4m3,4n1,4n2,4o1,4o2,4o3" colour="254,253,193" >
+		<rectangle id="leftrect" pos="0.382383,0.501623" src="leftrect" fill="255,253,227" stroke="241,232,112" strokewidth="2" zpos="2.001" hidden="true" x="-0.0174599" y="-0.00992839" width="0.799686" height="1.0231" />
+		<rectangle id="rightrect" pos="0.896988,0.495186" src="rightrect" fill="255,253,227" stroke="241,232,112" strokewidth="2" zpos="2" x="0.782692" y="-0.0182292" width="0.228592" height="1.02683" />
+	</event>
+	<event id="masterc" >
+		<vector id="shelf" pos="0.525571,0.52005" parent="leftrect" src="4l_shelf" scalex="1.59998" scaley="1.59998" zpos="5" />
+	</event>
+	<event id="4l" >
+		<vector id="obj1" pos="0.217765,0.251026" parent="shelf" src="4l_cup" scalex="1.39813" scaley="1.39813" zpos="7" />
+		<circle id="hotspot1" pos="0.140673,0.517238" parent="shelf" src="hotspot1" fill="255,38,0" zpos="8" hidden="true" x="0.12968" y="0.483991" width="0.0219853" height="0.0664943" />
+		<circle id="hotspot2" pos="0.907019,0.525016" parent="shelf" src="hotspot2" fill="255,38,0" zpos="8.001" hidden="true" x="0.896026" y="0.491769" width="0.0219853" height="0.0664943" />
+	</event>
+	<event id="4m1" >
+		<rectangle id="targarea1" pos="0.227257,0.383134" parent="shelf" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="7" hidden="true" x="-0.0415173" y="-0.284992" width="0.537549" height="1.33625" />
+	</event>
+	<event id="4m2" >
+		<vector id="obj1" pos="0.873404,0.0915023" parent="shelf" src="4l_jug" scalex="2.6344" scaley="2.6344" zpos="7" />
+		<rectangle id="targarea1" pos="0.798171,0.204612" parent="shelf" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="7.001" hidden="true" x="0.529396" y="-0.584941" width="0.537549" height="1.57911" />
+	</event>
+	<event id="4m3" >
+		<vector id="obj1" pos="0.520038,0.282032" parent="shelf" src="4l_bowl" zpos="7" />
+		<rectangle id="targarea1" pos="0.52112,0.201299" parent="shelf" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="7.001" hidden="true" x="0.252345" y="-0.588254" width="0.537549" height="1.57911" />
+	</event>
+	<event id="masterd" >
+		<rectangle id="groundrect" pos="0.512138,0.828039" parent="leftrect" src="groundrect" fill="206,191,170" stroke="0,0,0" strokewidth="1" zpos="7" x="0.0134091" y="0.659229" width="0.997457" height="0.337619" />
+		<vector id="grass_1" pos="0.331207,0.645307" src="4_grass" scalex="0.567367" scaley="0.664155" zpos="8.001" />
+		<vector id="grass_2" pos="0.562912,0.647237" src="4_grass" scalex="0.567367" scaley="0.664155" zpos="8.002" />
+		<vector id="grass_3" pos="0.432875,0.647596" src="4_grass" scalex="0.567367" scaley="0.664155" zpos="8.003" />
+		<vector id="wall" anchor="0.5,1" pos="0.567143,0.0061992" parent="groundrect" src="4_wall" scalex="0.796381" scaley="0.688109" zpos="8" />
+	</event>
+	<event id="4n1" >
+		<rectangle id="targarea1" pos="0.220867,0.478959" parent="wall" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="11" hidden="true" x="-0.024462" y="-0.297745" width="0.490657" height="1.55341" />
+	</event>
+	<event id="4n2" >
+		<rectangle id="targarea1" pos="0.792493,0.478959" parent="wall" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="11" hidden="true" x="0.547165" y="-0.297745" width="0.490657" height="1.55341" />
+	</event>
+	<event id="4o1" >
+		<vector id="obj1" anchor="0,1" pos="1.01005,0.988206" parent="wall" src="4o_boy" scalex="0.508" scaley="0.508338" zpos="11" />
+		<rectangle id="targarea1" pos="1.08155,0.319332" parent="wall" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="11.001" hidden="true" x="0.799672" y="-0.457372" width="0.56376" height="1.55341" />
+	</event>
+	<event id="4o2" >
+		<vector id="obj1" pos="-0.210768,-0.326624" parent="wall" src="4o_tree" scalex="2.191" scaley="2.19056" zpos="11" />
+		<rectangle id="targarea1" pos="-0.208935,-0.31359" parent="wall" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="11.001" hidden="true" x="-0.580512" y="-1.65254" width="0.743155" height="2.67791" />
+	</event>
+	<event id="4o3" >
+		<vector id="obj1" pos="-0.476961,0.00669234" parent="wall" src="4o_girl" scalex="0.566" scaley="0.56596" zpos="11" skinoffset="1" />
+		<rectangle id="targarea1" pos="-0.454243,-0.0156112" parent="wall" src="targarea1" fill="255,38,0" fillopacity="0.286882" zpos="11.001" hidden="true" x="-0.718199" y="-1.08817" width="0.527912" height="2.14512" />
+	</event>
+	<event id="mastere" scenes="4p,4q1,4q2,4q3,4q4,4q5,4q6" gradienttop="210,251,184" gradientbottom="169,242,120" >
+		<rectangle id="backrect" pos="0.500277,0.502525" src="backrect" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0183792" y="0.0226034" width="0.963795" height="0.959844" pxwidth="986.926" pxheight="737.16" />
+		<linearGradient id="Gradient9" >
+			<stop offset="0%" stop-color="rgb(50.6%,94.9%,31.8%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(62%,100%,47.1%)" stop-opacity="1"/>
+		</linearGradient>
+		<path id="grass" pos="0.602033,0.497284" parent="backrect" src="grass" fill="url(#Gradient9)"  zpos="1" widthtracksheight="true" d="M-0.1007 1.036c0 0 0.0336-0.39 0.0833-0.434c0.0497-0.0437 0.237-0.178 0.304-0.227c0.0671-0.0493 0.523-0.185 0.538-0.177c0.0261-0.0269 0.03-0.0379 0.0639-0.0847c0.0585-0.0807 0.107-0.154 0.107-0.154L1.305 -0.04371L1.303 1.035L1.002 1.038L-0.1007 1.036Z" />
+		<image id="house0" pos="0.155209,0.432254" parent="backrect" src="4_house1" zpos="1.003" />
+		<image id="house1" pos="0.279074,0.384096" parent="backrect" src="4_house2" zpos="1.002" />
+		<image id="house2" pos="0.401598,0.289816" parent="backrect" src="4_house3" zpos="1.004" />
+		<image id="house3" pos="0.544094,0.252871" parent="backrect" src="4_house5" zpos="1.005" />
+		<image id="house4" pos="0.631784,0.238346" parent="backrect" src="4_house6" zpos="1.006" />
+		<vector id="treel" pos="0.339699,0.254545" parent="backrect" src="4o_tree" scalex="1.04102" scaley="1.04102" zpos="1.001" />
+		<linearGradient id="Gradient13" x1="0.141413" y1="1.08647" x2="0.858587" y2="-0.0864653" >
+			<stop offset="80.9218%" stop-color="rgb(69.8%,67.1%,55.3%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(69.8%,67.1%,55.3%)" stop-opacity="0.417393"/>
+		</linearGradient>
+		<path id="road" pos="0.450018,0.523614" parent="backrect" src="road" fill="url(#Gradient13)"  zpos="2.001" widthtracksheight="true" d="M0.8299 0.2192c-0.0314 0.0339-0.0691 0.0574-0.0901 0.0737c-0.0397 0.0308-0.139 0.154-0.156 0.239c-0.0168 0.0833-0.0368 0.109 0.0298 0.245c0.0242 0.0495 0.15 0.172 0.174 0.194c0.0223 0.0204 0.0535 0.0501 0.0553 0.0518L-0.05955 1.025c0.0701-0.365 0.268-0.516 0.418-0.62c0.0477-0.0332 0.116-0.0708 0.194-0.0988c0.056-0.0202 0.2-0.0572 0.248-0.0903c0.0285-0.0196 0.0578-0.0613 0.0848-0.1c0.0305-0.0441 0.0521-0.0752 0.0712-0.0906c0.00343-0.00279 0.000747-0.00212-0.00215 0.00191L0.9369 0.05128c-0.016 0.0193-0.0359 0.0466-0.0471 0.0687c-0.0102 0.0202-0.0363 0.0738-0.0599 0.0993Z" />
+		<linearGradient id="Gradient14" x1="0.224573" y1="1.10264" x2="0.775427" y2="-0.102638" >
+			<stop offset="49.6433%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.10559"/>
+		</linearGradient>
+		<path id="roadstroke" pos="0.448878,0.523644" parent="backrect" src="roadstroke" fill="url(#Gradient14)"  zpos="2" widthtracksheight="true" d="M0.7409 0.2953c0.0209-0.0162 0.0587-0.0398 0.0904-0.0739c0.0241-0.026 0.0501-0.0796 0.0603-0.0999c0.011-0.0217 0.0308-0.049 0.0461-0.0692L0.9547 0.02763c0.00519-0.00527 0.00422-0.0083 0.000367-0.00517c-0.0195 0.0158-0.0411 0.047-0.0716 0.0911c-0.0269 0.0389-0.0563 0.0804-0.0842 0.0997c-0.0476 0.0327-0.191 0.0699-0.247 0.0901c-0.0777 0.028-0.146 0.0657-0.194 0.099c-0.15 0.104-0.35 0.257-0.42 0.624L-0.06217 1.028L0.8495 1.025L0.8469 1.022c0 0-0.034-0.0325-0.0579-0.0543c-0.0238-0.0218-0.15-0.145-0.173-0.193c-0.0662-0.135-0.0463-0.16-0.0295-0.243c0.0165-0.0819 0.116-0.207 0.155-0.237Z" />
+		<vector id="carl" pos="0.172395,0.654014" parent="backrect" src="4p_car1" scalex="0.504" scaley="0.504018" zpos="3" />
+		<vector id="carr" pos="0.526564,0.746107" parent="backrect" src="4p_car2" scalex="0.57" scaley="0.570161" zpos="3.004" />
+		<image id="house5" pos="0.679564,0.384775" parent="backrect" src="4_house7" zpos="3.001" />
+		<image id="house6" pos="0.646634,0.576049" parent="backrect" src="4_house8" zpos="3.002" />
+		<image id="house7" pos="0.73124,0.756471" parent="backrect" src="4_house9" zpos="3.003" />
+		<vector id="tree0" pos="0.0599637,0.512291" parent="backrect" src="4p_treel" scalex="1.30639" scaley="1.30639" zpos="3.005" />
+		<vector id="tree1" pos="0.686581,0.190152" parent="backrect" src="4p_treel" scalex="0.682727" scaley="0.543101" zpos="3.006" />
+		<vector id="tree2" pos="0.482358,0.256273" parent="backrect" src="4p_treel" scalex="-0.839" scaley="0.543101" zpos="3.007" />
+		<vector id="treer0" pos="0.819899,0.271964" parent="backrect" src="4p_treel" scalex="0.682727" scaley="0.543101" zpos="3.009" />
+		<vector id="treer1" pos="0.773729,0.317994" parent="backrect" src="4p_treel" scalex="-1.037" scaley="0.70081" zpos="3.008" />
+		<vector id="treer2" pos="0.819127,0.471457" parent="backrect" src="4p_treer1" zpos="3.01" />
+		<vector id="treer3" pos="0.910585,0.609963" parent="backrect" src="4p_treer2" scalex="1.07163" scaley="1.07163" zpos="3.011" />
+	</event>
+	<event id="4q1" target="house0" >
+	</event>
+	<event id="4q2" target="house5" >
+	</event>
+	<event id="4q3" target="house7" >
+	</event>
+	<event id="4q4" target="house2" >
+	</event>
+	<event id="4q5" target="carl" >
+	</event>
+	<event id="4q6" target="treer.*" >
+	</event>
+	<event id="masterf" gradienttop="210,251,184" gradientbottom="169,242,120" scenes="4r" >
+		<rectangle id="backrect" pos="0.499487,0.497945" src="backrect" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0127068" y="0.0160726" width="0.97356" height="0.963745" pxwidth="996.926" pxheight="740.156" />
+		<linearGradient id="Gradient12" x1="0.224573" y1="1.10264" x2="0.775427" y2="-0.102638" >
+			<stop offset="0%" stop-color="rgb(66.7%,96.5%,54.5%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(57.3%,96.9%,39.2%)" stop-opacity="1"/>
+		</linearGradient>
+		<path id="grass" pos="0.474903,0.501417" parent="backrect" src="grass" fill="url(#Gradient12)"  zpos="0.001" d="M0.7123 -0.03179c0 0-0.0541 0.0915-0.0985 0.154c-0.0444 0.0628-0.127 0.159-0.163 0.161c-0.036 0.00201-0.547-0.000997-0.547-0.000997L-0.1008 0.4422c0 0 0.222-0.00671 0.303-0.003c0.0809 0.0037 0.168-0.00109 0.173 0.0114c0.00524 0.0125-0.11 0.0942-0.17 0.135c-0.0603 0.0405-0.376 0.264-0.376 0.264L-0.1719 1.035L1.122 1.027L1.108 -0.03081L0.7123 -0.03179Z" />
+		<image id="4r_block1" pos="0.187063,0.587925" parent="backrect" src="4r_block1" zpos="1" />
+		<image id="4r_block2" pos="0.298907,0.247456" parent="backrect" src="4r_block2" zpos="1.001" />
+		<image id="4r_block3" pos="0.544663,0.185307" parent="backrect" src="4r_block3" zpos="1.002" />
+		<image id="4r_block4" pos="0.861136,0.225164" parent="backrect" src="4r_block4" zpos="1.003" />
+		<image id="4r_block5" pos="0.801452,0.647372" parent="backrect" src="4r_block5" zpos="1.004" />
+		<linearGradient id="Gradient15" x1="0.224573" y1="1.10264" x2="0.775427" y2="-0.102638" >
+			<stop offset="69.426%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.10559"/>
+		</linearGradient>
+		<rectangle id="maskrect" pos="0.5,0.5" src="maskrect" fill="url(#Gradient15)"  zpos="2.001" hidden="true" x="0" y="0" width="1" height="1" />
+		<path id="road" pos="0.455435,0.504523" parent="backrect" src="road" fill="193,184,162" stroke="0,0,0" strokewidth="2" zpos="2" widthtracksheight="true" d="M0.7069 -0.02202c-0.0788 0.162-0.181 0.314-0.202 0.326c-0.0207 0.0114-0.372 0.013-0.372 0.013L-0.09759 0.3157L-0.09807 0.418c0 0 0.384 0.00199 0.384 0.00231c-0.000455 0.000311 0.125-0.0001 0.13 0.0174c0.00498 0.0175-0.0879 0.106-0.088 0.107c-0.000125 0.00048-0.535 0.483-0.535 0.484c-0.000388 0.00125 0.727 0.00277 0.727 0.00336c0 0.000591 0.0585-0.261 0.0701-0.304c0.0117-0.0426 0.0582-0.25 0.092-0.281c0.0239-0.0217 0.0772-0.0179 0.0764-0.0177c-0.000819 0.000216 0.362-0.00231 0.362-0.00231L1.119 0.3172c0 0-0.364 0.000179-0.365 0.000881c-0.000474 0.000702-0.032 0.00132-0.0357-0.0102c-0.00479-0.0148 0.00622-0.04 0.00612-0.0393c0 0.000681 0.0267-0.0888 0.0419-0.13c0.0151-0.0408 0.0608-0.163 0.0606-0.162c-0.000208 0.000549-0.12 0.00104-0.12 0.00104Z" />
+	</event>
+</events>

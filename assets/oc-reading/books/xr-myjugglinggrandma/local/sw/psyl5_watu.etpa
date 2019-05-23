@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl5_watu.aif</url>
+	<relurl>psyl5_watu.aif</relurl>
+	<timings text="wa - tu" frames="46517">
+		<timing id="0" start="0.000" end="0.511" startframe="0" framelength="22542" text="wa"/>
+		<timing id="1" start="0.752" end="1.055" startframe="33174" framelength="13343" text="tu"/>
+	</timings>
+</xml>

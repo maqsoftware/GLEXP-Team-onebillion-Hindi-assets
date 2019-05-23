@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Muda mfupi baadae, Saida aliwasili njia panda. Alitabasamu na kumsalimia mwanamke." frames="706447">
+		<timing id="0" start="0.000" end="0.677" startframe="0" framelength="29848" text="Muda"/>
+		<timing id="1" start="1.324" end="2.202" startframe="58374" framelength="38717" text="mfupi"/>
+		<timing id="2" start="2.640" end="3.680" startframe="116426" framelength="45875" text="baadae"/>
+		<timing id="3" start="4.236" end="5.107" startframe="186812" framelength="38420" text="Saida"/>
+		<timing id="4" start="5.616" end="6.737" startframe="247686" framelength="49411" text="aliwasili"/>
+		<timing id="5" start="7.337" end="8.093" startframe="323548" framelength="33341" text="njia"/>
+		<timing id="6" start="8.749" end="9.519" startframe="385823" framelength="33962" text="panda"/>
+		<timing id="7" start="10.065" end="11.401" startframe="443858" framelength="58916" text="Alitabasamu"/>
+		<timing id="8" start="11.955" end="12.518" startframe="527212" framelength="24836" text="na"/>
+		<timing id="9" start="12.914" end="14.062" startframe="569512" framelength="50601" text="kumsalimia"/>
+		<timing id="10" start="14.554" end="15.509" startframe="641828" framelength="42120" text="mwanamke"/>
+	</timings>
+</xml>

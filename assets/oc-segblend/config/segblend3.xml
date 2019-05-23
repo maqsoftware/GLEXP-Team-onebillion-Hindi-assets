@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="82" >
+		<vector id="button" pos="0.892521,0.501953" src="sb3_button" scalex="0.737506" scaley="0.737506" shadowcolour="0,0,0" shadowopacity="0.145216" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0" />
+		<rectangle id="picrect" pos="0.500481,0.342845" src="picrect" fill="4,51,255" fillopacity="0.377081" zpos="0.002" hidden="true" x="0.329071" y="0.114299" width="0.342819" height="0.457092" />
+		<rectangle id="textrect" pos="0.5,0.79025" src="textrect" fill="4,51,255" fillopacity="0.377081" zpos="0.001" hidden="true" x="0.056509" y="0.727478" width="0.886982" height="0.125544" />
+	</event>
+</events>

@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Mvua ilinyesha zaidi. Anansi alijificha kwenye tundu kujikinga asiroe." frames="764936">
+		<timing id="0" start="0.000" end="0.874" startframe="0" framelength="38523" text="Mvua"/>
+		<timing id="1" start="1.941" end="2.998" startframe="85588" framelength="46622" text="ilinyesha"/>
+		<timing id="2" start="3.822" end="4.608" startframe="168529" framelength="34694" text="zaidi"/>
+		<timing id="3" start="5.814" end="6.728" startframe="256406" framelength="40285" text="Anansi"/>
+		<timing id="4" start="7.692" end="8.860" startframe="339225" framelength="51514" text="alijificha"/>
+		<timing id="5" start="10.160" end="10.867" startframe="448056" framelength="31163" text="kwenye"/>
+		<timing id="6" start="12.210" end="12.923" startframe="538481" framelength="31419" text="tundu"/>
+		<timing id="7" start="14.230" end="15.253" startframe="627549" framelength="45114" text="kujikinga"/>
+		<timing id="8" start="16.536" end="17.345" startframe="729247" framelength="35689" text="asiroe"/>
+	</timings>
+</xml>

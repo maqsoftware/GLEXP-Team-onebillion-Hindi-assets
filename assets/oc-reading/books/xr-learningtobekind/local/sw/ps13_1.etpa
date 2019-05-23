@@ -1,0 +1,32 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps13_1.aif</url>
+	<relurl>ps13_1.aif</relurl>
+	<timings text="Neema alishangaa kumuona Saida uwanjani kwa bi kizee. Alijisikia vibaya kwa kutokuwa mkarimu kwa Ramila. Na tangu siku hiyo akaamua kuwa msaidizi mzuri kama Saida." frames="1579022">
+		<timing id="0" start="0.000" end="0.897" startframe="0" framelength="39553" text="Neema"/>
+		<timing id="1" start="1.188" end="2.452" startframe="52408" framelength="55724" text="alishangaa"/>
+		<timing id="2" start="2.994" end="4.207" startframe="132015" framelength="53509" text="kumuona"/>
+		<timing id="3" start="4.630" end="5.800" startframe="204177" framelength="51600" text="Saida"/>
+		<timing id="4" start="6.170" end="7.324" startframe="272116" framelength="50856" text="uwanjani"/>
+		<timing id="5" start="7.931" end="8.563" startframe="349747" framelength="27880" text="kwa"/>
+		<timing id="6" start="9.262" end="9.901" startframe="408454" framelength="28166" text="bi"/>
+		<timing id="7" start="10.507" end="11.480" startframe="463371" framelength="42887" text="kizee"/>
+		<timing id="8" start="12.561" end="14.009" startframe="553960" framelength="63842" text="Alijisikia"/>
+		<timing id="9" start="14.235" end="15.355" startframe="627769" framelength="49370" text="vibaya"/>
+		<timing id="10" start="15.887" end="16.457" startframe="700631" framelength="25141" text="kwa"/>
+		<timing id="11" start="16.938" end="18.070" startframe="746961" framelength="49931" text="kutokuwa"/>
+		<timing id="12" start="18.371" end="19.578" startframe="810144" framelength="53261" text="mkarimu"/>
+		<timing id="13" start="20.027" end="20.761" startframe="883177" framelength="32391" text="kwa"/>
+		<timing id="14" start="21.024" end="22.055" startframe="927175" framelength="45432" text="Ramila"/>
+		<timing id="15" start="22.595" end="23.370" startframe="996449" framelength="34146" text="Na"/>
+		<timing id="16" start="23.817" end="24.752" startframe="1050319" framelength="41253" text="tangu"/>
+		<timing id="17" start="25.163" end="26.008" startframe="1109672" framelength="37274" text="siku"/>
+		<timing id="18" start="26.622" end="27.283" startframe="1174024" framelength="29174" text="hiyo"/>
+		<timing id="19" start="27.769" end="29.029" startframe="1224613" framelength="55567" text="akaamua"/>
+		<timing id="20" start="29.485" end="30.148" startframe="1300295" framelength="29211" text="kuwa"/>
+		<timing id="21" start="30.462" end="31.703" startframe="1343354" framelength="54750" text="msaidizi"/>
+		<timing id="22" start="32.084" end="32.873" startframe="1414889" framelength="34829" text="mzuri"/>
+		<timing id="23" start="33.486" end="34.278" startframe="1476741" framelength="34915" text="kama"/>
+		<timing id="24" start="34.731" end="35.805" startframe="1531649" framelength="47373" text="Saida"/>
+	</timings>
+</xml>

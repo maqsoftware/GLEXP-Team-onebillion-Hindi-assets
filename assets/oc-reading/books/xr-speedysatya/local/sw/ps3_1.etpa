@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/ps3_1.aif</url>
+	<relurl>ps3_1.aif</relurl>
+	<timings text="Lakini shuleni, Mosi anaingia matatani na mwalimu wake. “Mosi!” mwalimu anaita. “Unatakiwa ukae kitako utulie. Unawakera wenzako darasani.”" frames="1477740">
+		<timing id="0" start="0.000" end="0.872" startframe="0" framelength="38460" text="Lakini"/>
+		<timing id="1" start="1.648" end="2.789" startframe="72689" framelength="50318" text="shuleni"/>
+		<timing id="2" start="3.595" end="4.559" startframe="158557" framelength="42498" text="Mosi"/>
+		<timing id="3" start="5.249" end="6.465" startframe="231492" framelength="53616" text="anaingia"/>
+		<timing id="4" start="7.081" end="8.256" startframe="312272" framelength="51800" text="matatani"/>
+		<timing id="5" start="8.952" end="9.874" startframe="394762" framelength="40680" text="na"/>
+		<timing id="6" start="10.336" end="11.557" startframe="455805" framelength="53844" text="mwalimu"/>
+		<timing id="7" start="12.120" end="13.127" startframe="534478" framelength="44417" text="wake"/>
+		<timing id="8" start="13.990" end="14.891" startframe="616969" framelength="39706" text="Mosi"/>
+		<timing id="9" start="15.558" end="16.683" startframe="686103" framelength="49604" text="mwalimu"/>
+		<timing id="10" start="17.456" end="18.583" startframe="769822" framelength="49680" text="anaita"/>
+		<timing id="11" start="19.635" end="20.946" startframe="865884" framelength="57838" text="Unatakiwa"/>
+		<timing id="12" start="21.721" end="22.812" startframe="957905" framelength="48126" text="ukae"/>
+		<timing id="13" start="23.611" end="24.706" startframe="1041231" framelength="48299" text="kitako"/>
+		<timing id="14" start="25.391" end="26.441" startframe="1119735" framelength="46306" text="utulie"/>
+		<timing id="15" start="28.469" end="29.875" startframe="1255482" framelength="62002" text="Unawakera"/>
+		<timing id="16" start="30.760" end="31.867" startframe="1356506" framelength="48835" text="wenzako"/>
+		<timing id="17" start="32.537" end="33.509" startframe="1434866" framelength="42874" text="darasani"/>
+	</timings>
+</xml>

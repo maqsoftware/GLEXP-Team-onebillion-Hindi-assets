@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+		<vector id="rect1" pos="0.331055,0.14974" src="q_roundedrect" zpos="0" />
+		<vector id="rect2" pos="0.331055,0.385254" src="q_roundedrect" zpos="0.001" />
+		<vector id="rect3" pos="0.331055,0.620768" src="q_roundedrect" zpos="0.002" />
+		<vector id="rect4" pos="0.331055,0.856283" src="q_roundedrect" zpos="0.003" />
+	</event>
+</events>

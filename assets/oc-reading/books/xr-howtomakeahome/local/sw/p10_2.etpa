@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p10_2.aif</url>
+	<relurl>p10_2.aif</relurl>
+	<timings text="Wakamwandalia karamu kubwa ya kuenea kila mtu. Wakawa wakarimu sana kwa wageni wale watatu." frames="346656">
+		<timing id="0" start="0.000" end="1.346" startframe="0" framelength="59370" text="Wakamwandalia"/>
+		<timing id="1" start="1.346" end="2.154" startframe="59370" framelength="35629" text="karamu"/>
+		<timing id="2" start="2.206" end="2.597" startframe="97272" framelength="17273" text="kubwa"/>
+		<timing id="3" start="2.597" end="2.850" startframe="114545" framelength="11159" text="ya"/>
+		<timing id="4" start="2.850" end="3.502" startframe="125704" framelength="28751" text="kuenea"/>
+		<timing id="5" start="3.502" end="3.781" startframe="154455" framelength="12297" text="kila"/>
+		<timing id="6" start="3.781" end="4.225" startframe="166752" framelength="19554" text="mtu"/>
+		<timing id="7" start="5.060" end="5.599" startframe="223161" framelength="23757" text="Wakawa"/>
+		<timing id="8" start="5.599" end="6.027" startframe="246918" framelength="18863" text="wakarimu"/>
+		<timing id="9" start="6.027" end="6.426" startframe="265781" framelength="17602" text="sana"/>
+		<timing id="10" start="6.426" end="6.564" startframe="283383" framelength="6099" text="kwa"/>
+		<timing id="11" start="6.564" end="6.947" startframe="289482" framelength="16861" text="wageni"/>
+		<timing id="12" start="6.947" end="7.296" startframe="306343" framelength="15395" text="wale"/>
+		<timing id="13" start="7.296" end="7.861" startframe="321738" framelength="24918" text="watatu"/>
+	</timings>
+</xml>

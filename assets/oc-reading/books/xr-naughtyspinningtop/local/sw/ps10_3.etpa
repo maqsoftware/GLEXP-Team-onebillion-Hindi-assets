@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps10_3.aif</url>
+	<relurl>ps10_3.aif</relurl>
+	<timings text="Inaingia kwenye debe la rangi la Bwana Ndomba." frames="490754">
+		<timing id="0" start="0.000" end="1.009" startframe="0" framelength="44507" text="Inaingia"/>
+		<timing id="1" start="1.812" end="2.506" startframe="79926" framelength="30595" text="kwenye"/>
+		<timing id="2" start="3.317" end="4.174" startframe="146274" framelength="37785" text="debe"/>
+		<timing id="3" start="4.886" end="5.536" startframe="215483" framelength="28633" text="la"/>
+		<timing id="4" start="6.260" end="7.048" startframe="276050" framelength="34760" text="rangi"/>
+		<timing id="5" start="7.652" end="8.289" startframe="337452" framelength="28100" text="la"/>
+		<timing id="6" start="8.951" end="9.756" startframe="394733" framelength="35494" text="Bwana"/>
+		<timing id="7" start="10.384" end="11.128" startframe="457948" framelength="32806" text="Ndomba"/>
+	</timings>
+</xml>

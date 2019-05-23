@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p5_2.aif</url>
+	<relurl>p5_2.aif</relurl>
+	<timings text="“Rafiki yangu,” alisema. “Nimechoka. Unaweza kunisadia kufika nyumbani kwangu?”" frames="307649">
+		<timing id="0" start="0.000" end="0.429" startframe="0" framelength="18921" text="Rafiki"/>
+		<timing id="1" start="0.429" end="1.105" startframe="18921" framelength="29829" text="yangu"/>
+		<timing id="2" start="1.333" end="2.100" startframe="58776" framelength="33839" text="alisema"/>
+		<timing id="3" start="2.518" end="3.829" startframe="111037" framelength="57805" text="Nimechoka"/>
+		<timing id="4" start="4.152" end="4.731" startframe="183089" framelength="25536" text="Unaweza"/>
+		<timing id="5" start="4.731" end="5.557" startframe="208625" framelength="36456" text="kunisadia"/>
+		<timing id="6" start="5.557" end="6.012" startframe="245081" framelength="20027" text="kufika"/>
+		<timing id="7" start="6.012" end="6.413" startframe="265108" framelength="17687" text="nyumbani"/>
+		<timing id="8" start="6.413" end="6.976" startframe="282795" framelength="24854" text="kwangu"/>
+	</timings>
+</xml>

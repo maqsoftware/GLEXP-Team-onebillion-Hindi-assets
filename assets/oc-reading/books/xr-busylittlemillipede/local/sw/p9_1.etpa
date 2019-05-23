@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p9_1.aif</url>
+	<relurl>p9_1.aif</relurl>
+	<timings text="Konokono alikuwa anabeba gamba lake." frames="109720">
+		<timing id="0" start="0.000" end="0.708" startframe="0" framelength="31210" text="Konokono"/>
+		<timing id="1" start="0.708" end="1.132" startframe="31210" framelength="18699" text="alikuwa"/>
+		<timing id="2" start="1.132" end="1.648" startframe="49909" framelength="22749" text="anabeba"/>
+		<timing id="3" start="1.648" end="2.002" startframe="72658" framelength="15623" text="gamba"/>
+		<timing id="4" start="2.002" end="2.488" startframe="88281" framelength="21439" text="lake"/>
+	</timings>
+</xml>

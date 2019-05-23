@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_toucheachshapetohearitsname</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_toucheachshapetohearitsname</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_acircleitisround</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_acircleitisround</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>2_anovalitislikeastretchedcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>2_anovalitislikeastretchedcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>2_atriangleithasthreesides</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three_end</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>2_atriangleithasthreesides</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>2_arectangleithasfoursides</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_thesetwoarethesamelength</phrase>
+			<phrase>2_andthesetwoarethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT5">
+			<phrase>2_arectangleithasfoursidestheoppositesidesarethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>2_asquareithasfoursides</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_theyareallthesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT6">
+			<phrase>2_asquareithasfoursidestheyareallthesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_choosethecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_acircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethecircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosetheoval</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosetheoval</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_anoval</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetheoval</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_atriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethetriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_asquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethesquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowchoosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_arectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetherectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowwhichshapehereisasquare</phrase>
+			<phrase>2_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_whichshapeisasquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichshapeisasquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichshapeisanoval</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_whichshapeisanoval</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichshapeisanoval</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichshapeisatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_whichshapeisatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichshapeisatriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichshapeisarectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_whichshapeisarectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichshapeisarectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichshapeisacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_whichshapeisacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichshapeisacircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowlookatthispicture</phrase>
+			<phrase>2_thesunislikeacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_findtwomorecirclesinthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_lookfortwocircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>2_tworoundwheels</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookforadifferentcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookfortwocircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfindtwothingsshapedlikesquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_nowfindtwothingsshapedlikesquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>2_twosquarewindows</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookfortwosquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findonethingshapedlikearectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findonethingshapedlikearectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_yesthedoorislikearectangle</phrase>
+			<phrase>2_yesthehouseislikearectangle</phrase>
+			<phrase>2_yesthetreetrunklookslikearectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookforarectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwothingsshapedliketriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwothingsshapedliketriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>2_thosetreesareliketriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookforatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_welldoneyoupickedoutfivedifferentshapesinthissection</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>1_a</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>1_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>1_c</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>1_d</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>1_e</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>1_f</phrase>
+		</phrasegroup>
+	</event>
+</audio>

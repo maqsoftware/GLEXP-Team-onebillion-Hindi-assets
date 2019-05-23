@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p13_2.aif</url>
+	<relurl>p13_2.aif</relurl>
+	<timings text="“Umeona!” msichana alisema. “Nilijua watakuja kukutafuta.”" frames="218262">
+		<timing id="0" start="0.000" end="0.898" startframe="0" framelength="39601" text="Umeona"/>
+		<timing id="1" start="1.155" end="1.730" startframe="50944" framelength="25365" text="msichana"/>
+		<timing id="2" start="1.730" end="2.429" startframe="76309" framelength="30808" text="alisema"/>
+		<timing id="3" start="2.870" end="3.561" startframe="126560" framelength="30471" text="Nilijua"/>
+		<timing id="4" start="3.561" end="4.136" startframe="157031" framelength="25353" text="watakuja"/>
+		<timing id="5" start="4.136" end="4.949" startframe="182384" framelength="35878" text="kukutafuta"/>
+	</timings>
+</xml>

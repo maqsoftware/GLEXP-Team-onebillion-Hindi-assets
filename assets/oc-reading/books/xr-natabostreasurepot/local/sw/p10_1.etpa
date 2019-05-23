@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Nura alishuka kutoka mtini." frames="81129">
+		<timing id="0" start="0.000" end="0.364" startframe="0" framelength="16056" text="Nura"/>
+		<timing id="1" start="0.364" end="0.905" startframe="16056" framelength="23841" text="alishuka"/>
+		<timing id="2" start="0.905" end="1.321" startframe="39897" framelength="18355" text="kutoka"/>
+		<timing id="3" start="1.321" end="1.840" startframe="58252" framelength="22877" text="mtini"/>
+	</timings>
+</xml>

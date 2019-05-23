@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/ps9_2.aif</url>
+	<relurl>ps9_2.aif</relurl>
+	<timings text="“Hapana, hawa sio,” alidanganya mchungaji." frames="311989">
+		<timing id="0" start="0.000" end="0.819" startframe="0" framelength="36099" text="Hapana"/>
+		<timing id="1" start="1.588" end="2.306" startframe="70017" framelength="31669" text="hawa"/>
+		<timing id="2" start="2.936" end="3.690" startframe="129464" framelength="33260" text="sio"/>
+		<timing id="3" start="4.305" end="5.507" startframe="189831" framelength="53020" text="alidanganya"/>
+		<timing id="4" start="6.159" end="7.075" startframe="271613" framelength="40376" text="mchungaji"/>
+	</timings>
+</xml>

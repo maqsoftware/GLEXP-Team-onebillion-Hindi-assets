@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Tembo wa Linda" frames="119616">
+		<timing id="0" start="0.000" end="0.770" startframe="0" framelength="33958" text="Tembo"/>
+		<timing id="1" start="1.142" end="1.721" startframe="50370" framelength="25532" text="wa"/>
+		<timing id="2" start="2.195" end="2.712" startframe="96818" framelength="22798" text="Linda"/>
+	</timings>
+</xml>

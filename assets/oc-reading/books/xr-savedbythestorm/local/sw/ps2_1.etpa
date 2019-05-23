@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Maxi alipenda jinsi jua lilivyong’aa kwenye maji. Mwanga wa jua uling’aa kama nyota mawinguni. Lilikuwa joto zuri mgongoni mwake." frames="1243807">
+		<timing id="0" start="0.000" end="0.781" startframe="0" framelength="34453" text="Maxi"/>
+		<timing id="1" start="1.177" end="2.107" startframe="51895" framelength="41028" text="alipenda"/>
+		<timing id="2" start="2.652" end="3.456" startframe="116966" framelength="35458" text="jinsi"/>
+		<timing id="3" start="3.973" end="4.880" startframe="175222" framelength="40001" text="jua"/>
+		<timing id="4" start="5.561" end="6.964" startframe="245256" framelength="61856" text="lilivyong’aa"/>
+		<timing id="5" start="7.438" end="8.247" startframe="328005" framelength="35705" text="kwenye"/>
+		<timing id="6" start="8.699" end="9.503" startframe="383638" framelength="35466" text="maji"/>
+		<timing id="7" start="10.147" end="11.066" startframe="447486" framelength="40535" text="Mwanga"/>
+		<timing id="8" start="11.630" end="12.389" startframe="512869" framelength="33483" text="wa"/>
+		<timing id="9" start="12.927" end="13.779" startframe="570066" framelength="37595" text="jua"/>
+		<timing id="10" start="14.214" end="15.321" startframe="626841" framelength="48812" text="uling’aa"/>
+		<timing id="11" start="15.808" end="16.587" startframe="697119" framelength="34352" text="kama"/>
+		<timing id="12" start="17.002" end="17.895" startframe="749802" framelength="39377" text="nyota"/>
+		<timing id="13" start="18.446" end="19.513" startframe="813465" framelength="47040" text="mawinguni"/>
+		<timing id="14" start="20.060" end="21.037" startframe="884660" framelength="43068" text="Lilikuwa"/>
+		<timing id="15" start="21.493" end="22.372" startframe="947833" framelength="38768" text="joto"/>
+		<timing id="16" start="22.963" end="23.774" startframe="1012672" framelength="35756" text="zuri"/>
+		<timing id="17" start="24.285" end="25.410" startframe="1070972" framelength="49631" text="mgongoni"/>
+		<timing id="18" start="25.828" end="26.702" startframe="1139021" framelength="38517" text="mwake"/>
+	</timings>
+</xml>

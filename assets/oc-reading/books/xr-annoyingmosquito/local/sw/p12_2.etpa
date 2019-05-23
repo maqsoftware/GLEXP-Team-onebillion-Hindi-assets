@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="Hakuna yeyote aliyeweza kuusumbua usingizi wa Badi!" frames="196147">
+		<timing id="0" start="0.055" end="0.612" startframe="2439" framelength="24551" text="Hakuna"/>
+		<timing id="1" start="0.612" end="1.671" startframe="26990" framelength="46687" text="yeyote"/>
+		<timing id="2" start="1.899" end="2.674" startframe="83761" framelength="34177" text="aliyeweza"/>
+		<timing id="3" start="2.674" end="3.400" startframe="117938" framelength="32005" text="kuusumbua"/>
+		<timing id="4" start="3.400" end="3.913" startframe="149943" framelength="22599" text="usingizi"/>
+		<timing id="5" start="3.913" end="4.075" startframe="172542" framelength="7158" text="wa"/>
+		<timing id="6" start="4.075" end="4.448" startframe="179700" framelength="16447" text="Badi"/>
+	</timings>
+</xml>

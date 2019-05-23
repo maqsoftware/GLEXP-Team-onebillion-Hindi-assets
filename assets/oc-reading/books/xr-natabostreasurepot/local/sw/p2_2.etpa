@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p2_2.aif</url>
+	<relurl>p2_2.aif</relurl>
+	<timings text="“Hiki ni kijungu changu cha hazina,” alisema. “Nitaziweka hazina zangu zote muhimu humu.”" frames="300225">
+		<timing id="0" start="0.000" end="0.256" startframe="0" framelength="11294" text="Hiki"/>
+		<timing id="1" start="0.256" end="0.412" startframe="11294" framelength="6856" text="ni"/>
+		<timing id="2" start="0.412" end="0.863" startframe="18150" framelength="19924" text="kijungu"/>
+		<timing id="3" start="0.863" end="1.384" startframe="38074" framelength="22982" text="changu"/>
+		<timing id="4" start="1.539" end="1.749" startframe="67887" framelength="9232" text="cha"/>
+		<timing id="5" start="1.749" end="2.392" startframe="77119" framelength="28366" text="hazina"/>
+		<timing id="6" start="2.474" end="3.304" startframe="109094" framelength="36614" text="alisema"/>
+		<timing id="7" start="3.826" end="4.556" startframe="168723" framelength="32203" text="Nitaziweka"/>
+		<timing id="8" start="4.556" end="4.962" startframe="200926" framelength="17905" text="hazina"/>
+		<timing id="9" start="4.962" end="5.338" startframe="218831" framelength="16571" text="zangu"/>
+		<timing id="10" start="5.338" end="5.970" startframe="235402" framelength="27858" text="zote"/>
+		<timing id="11" start="5.970" end="6.414" startframe="263260" framelength="19589" text="muhimu"/>
+		<timing id="12" start="6.414" end="6.808" startframe="282849" framelength="17376" text="humu"/>
+	</timings>
+</xml>

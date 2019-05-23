@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthetwochildren</phrase>
+			<phrase>4_shesontheleft</phrase>
+			<phrase>4_andhesontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_whoisontheleftthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichboyisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichboyisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichboyisontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethesheepontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethesheepontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethesheepontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheelephantontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheelephantontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheelephantontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheduckinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheduckinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheduckinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowchoosetheduckontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheduckontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheduckontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichduckisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichduckisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichduckisontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="DEMO">
+			<phrase>4_nextashelf</phrase>
+			<phrase>4_leftend</phrase>
+			<phrase>4_rightend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_putthecupontheleftendoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_putthecupontheleftendoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_putthecupontheleftendoftheshelf</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_putthejugontherightendoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_putthejugontherightendoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_putthejugontherightendoftheshelf</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m3">
+		<phrasegroup id="PROMPT">
+			<phrase>4_putthebowlinthemiddleoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_putthebowlinthemiddleoftheshelf</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_putthebowlinthemiddleoftheshelf</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowawall</phrase>
+			<phrase>4_touchtheleftendofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchtheleftendofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_touchtheleftendofthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchtherightendofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchtherightendofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_touchtherightendofthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_movetheboytotherightofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_movetheboytotherightofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_movetheboytotherightofthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_movethetreetotheleftofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_movethetreetotheleftofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_movethetreetotheleftofthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o3">
+		<phrasegroup id="PROMPT">
+			<phrase>4_movethegirltotheleftofthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_movethegirltotheleftofthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_movethegirltotheleftofthetree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlookatthisroad</phrase>
+			<phrase>4_leftside</phrase>
+			<phrase>4_rightside</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn_4q1</phrase>
+			<phrase>4_choosethebluehouseontheleftsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethebluehouseontheleftsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethebluehouseontheleftsideoftheroad</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheyellowhouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheyellowhouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheyellowhouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q3">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowchoosethewhitehouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethewhitehouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethewhitehouseontherightsideoftheroad</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q4">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethewhitehouseontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethewhitehouseontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethewhitehouseontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q5">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextchoosethecarontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosethecarontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethecarontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q6">
+		<phrasegroup id="PROMPT">
+			<phrase>4_chooseanytreeontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_chooseanytreeontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_chooseanytreeontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlookatthebusitcangostraighton</phrase>
+			<phrase>4_orturnleft</phrase>
+			<phrase>4_orturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_iwantittoturnright</phrase>
+			<phrase>4_soidothis</phrase>
+			<phrase>4_thenitouchthebustostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn_4q1</phrase>
+			<phrase>4_drawanarrowtotellthebustoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_drawanarrowtotellthebustoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_drawanarrowtotellthebustoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_nowtouchthebustostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthebustostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tellthisbustoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_drawanarrowtotellthebustoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_drawanarrowtotellthebustoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_touchthebustostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthebustostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s3">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tellthisbustogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_drawanarrowtotellthebustogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_drawanarrowtotellthebustogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_touchthebustostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthebustostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t1">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtellthiscartogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_tellthecartogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tellthecartogostraighton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tellthiscartoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_tellthecartoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tellthecartoturnleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t3">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tellthiscartoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_tellthecartoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tellthecartoturnright</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>4_touchthecartostartit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_verygoodyoupractisedleftrightmiddleandstraighton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

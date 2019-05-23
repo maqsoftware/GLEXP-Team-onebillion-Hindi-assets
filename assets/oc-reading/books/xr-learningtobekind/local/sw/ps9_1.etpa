@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Saida alimsaidia Ramila kurudi nyumbani. Huku wakielekea nyumbani, Ramila alimsimulia hadithi nyngi nzuri kuhusu maisha yake. Alimkaribisha Saida kula na kulala kwake." frames="1588282">
+		<timing id="0" start="0.000" end="0.871" startframe="0" framelength="38400" text="Saida"/>
+		<timing id="1" start="1.317" end="2.556" startframe="58075" framelength="54649" text="alimsaidia"/>
+		<timing id="2" start="3.034" end="4.059" startframe="133792" framelength="45200" text="Ramila"/>
+		<timing id="3" start="4.385" end="5.321" startframe="193397" framelength="41251" text="kurudi"/>
+		<timing id="4" start="5.828" end="6.926" startframe="257019" framelength="48422" text="nyumbani"/>
+		<timing id="5" start="8.982" end="9.890" startframe="396090" framelength="40039" text="Huku"/>
+		<timing id="6" start="10.451" end="11.832" startframe="460910" framelength="60889" text="wakielekea"/>
+		<timing id="7" start="12.839" end="13.801" startframe="566186" framelength="42440" text="nyumbani"/>
+		<timing id="8" start="14.548" end="15.598" startframe="641549" framelength="46312" text="Ramila"/>
+		<timing id="9" start="16.075" end="17.437" startframe="708929" framelength="60045" text="alimsimulia"/>
+		<timing id="10" start="18.289" end="19.192" startframe="806544" framelength="39822" text="hadithi"/>
+		<timing id="11" start="19.827" end="20.819" startframe="874351" framelength="43770" text="nyngi"/>
+		<timing id="12" start="21.220" end="22.159" startframe="935821" framelength="41383" text="nzuri"/>
+		<timing id="13" start="22.879" end="23.819" startframe="1008960" framelength="41459" text="kuhusu"/>
+		<timing id="14" start="24.408" end="25.511" startframe="1076408" framelength="48635" text="maisha"/>
+		<timing id="15" start="26.003" end="26.863" startframe="1146733" framelength="37946" text="yake"/>
+		<timing id="16" start="27.464" end="29.044" startframe="1211181" framelength="69640" text="Alimkaribisha"/>
+		<timing id="17" start="29.519" end="30.522" startframe="1301807" framelength="44224" text="Saida"/>
+		<timing id="18" start="31.211" end="31.997" startframe="1376407" framelength="34651" text="kula"/>
+		<timing id="19" start="32.637" end="33.290" startframe="1439271" framelength="28806" text="na"/>
+		<timing id="20" start="33.825" end="34.636" startframe="1491696" framelength="35736" text="kulala"/>
+		<timing id="21" start="35.326" end="36.015" startframe="1557878" framelength="30404" text="kwake"/>
+	</timings>
+</xml>

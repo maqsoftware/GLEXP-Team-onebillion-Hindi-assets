@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Lakini muziki haukumvutia Nura." frames="306490">
+		<timing id="0" start="0.000" end="0.865" startframe="0" framelength="38145" text="Lakini"/>
+		<timing id="1" start="1.614" end="2.527" startframe="71183" framelength="40247" text="muziki"/>
+		<timing id="2" start="3.250" end="4.517" startframe="143332" framelength="55881" text="haukumvutia"/>
+		<timing id="3" start="5.524" end="6.221" startframe="243598" framelength="30746" text="Nura"/>
+	</timings>
+</xml>

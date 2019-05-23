@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="PROMPT">
+			<phrase>2_looktherearetwoclockssharethembetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethetwoclocksbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharetheclocksfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>2_nowhowmanyclocksdoeseachchildhave</phrase>
+			<phrase>2_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyclocksdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasoneclock</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_howmanyclocksdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nexttwotoyrobotssharethesebetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethetwotoyrobotsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharetherobotsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyrobotsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyrobotsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasonerobot</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_howmanyrobotsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfourmangoestoshareout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethefourmangoesbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethemangoesfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanymangoesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanymangoesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhastwomangoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_howmanymangoesdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fourcakessharetheseout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethefourcakesbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethecakesfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanycakesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanycakesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhastwocakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_howmanycakesdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nextfourtoycarstoshareout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethefourtoycarsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethetoycarsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanytoycarsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanytoycarsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhastwotoycars</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_howmanytoycarsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimesixorangessharethemout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethesixorangesbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharetheorangesfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyorangesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyorangesdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasthreeoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyorangesdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowshareoutthesixbiscuits</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethesixbiscuitsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethebiscuitsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanybiscuitsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanybiscuitsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasthreebiscuits</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanybiscuitsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_shareoutthesixballoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethesixballoonsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharetheballoonsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyballoonsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyballoonsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasthreeballoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyballoonsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_eightbananassharethesebetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharetheeightbananasbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethebananasfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanybananasdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanybananasdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfourbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanybananasdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_eightpencilstoshareout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharetheeightpencilsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethepencilsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanypencilsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanypencilsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfourpencils</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanypencilsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowshareouttheeightwritingbooks</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharetheeightwritingbooksbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethebooksfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanywritingbooksdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanywritingbooksdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfourbookstowritein</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanywritingbooksdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_tenchocolateeggssharethesebetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethetenchocolateeggsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethechocolateeggsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanychocolateeggsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanychocolateeggsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfivechocolateeggs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanychocolateeggsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_tenpresentsallwrappedupsharethemout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethetenpresentsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharethepresentsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanypresentsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanypresentsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfivepresents</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanypresentsdoeseachchildhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtenflowerpotstoshareoutwithprettyflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_sharethetenflowerpotsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_sharetheflowerpotsfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyflowerpotsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyflowerpotsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eachhasfiveflowerpots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyflowerpotsdoeseachchildhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_welldone</phrase>
+			<phrase>2_yousharedthingsoutfairlythencountedhowmanyeachchildhad</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

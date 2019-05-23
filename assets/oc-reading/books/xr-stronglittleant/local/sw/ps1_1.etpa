@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Siku moja, siafu mdogo alitoka kwenda kutembea. Akakutana na choroko. Ilikuwa inakaribiana na siafu kwa ukubwa!" frames="1221008">
+		<timing id="0" start="0.000" end="0.856" startframe="0" framelength="37734" text="Siku"/>
+		<timing id="1" start="1.472" end="2.387" startframe="64921" framelength="40333" text="moja"/>
+		<timing id="2" start="3.137" end="4.156" startframe="138324" framelength="44977" text="siafu"/>
+		<timing id="3" start="4.837" end="5.925" startframe="213332" framelength="47950" text="mdogo"/>
+		<timing id="4" start="6.924" end="8.005" startframe="305346" framelength="47667" text="alitoka"/>
+		<timing id="5" start="9.178" end="10.096" startframe="404739" framelength="40508" text="kwenda"/>
+		<timing id="6" start="10.806" end="12.052" startframe="476523" framelength="54970" text="kutembea"/>
+		<timing id="7" start="12.902" end="14.259" startframe="568980" framelength="59824" text="Akakutana"/>
+		<timing id="8" start="15.149" end="15.781" startframe="668073" framelength="27857" text="na"/>
+		<timing id="9" start="16.557" end="17.705" startframe="730175" framelength="50599" text="choroko"/>
+		<timing id="10" start="18.662" end="19.755" startframe="823016" framelength="48188" text="Ilikuwa"/>
+		<timing id="11" start="20.616" end="22.075" startframe="909172" framelength="64317" text="inakaribiana"/>
+		<timing id="12" start="22.692" end="23.447" startframe="1000711" framelength="33294" text="na"/>
+		<timing id="13" start="24.070" end="25.144" startframe="1061498" framelength="47353" text="siafu"/>
+		<timing id="14" start="25.795" end="26.440" startframe="1137559" framelength="28447" text="kwa"/>
+		<timing id="15" start="26.849" end="27.687" startframe="1184034" framelength="36974" text="ukubwa"/>
+	</timings>
+</xml>

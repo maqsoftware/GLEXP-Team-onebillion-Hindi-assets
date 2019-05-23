@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="1a,1b,1c,1d,1e,1f" colour="254,254,232" >
+	</event>
+	<event id="1a" >
+		<vector id="obj" pos="0.502441,0.481771" src="1_heart" scalex="1.29172" scaley="1.29172" zpos="2" />
+	</event>
+	<event id="1b" >
+		<vector id="obj1" pos="0.279297,0.473958" src="1b_triangle" zpos="2.001" />
+		<path id="obj2" pos="0.723711,0.477674" src="obj2" fill="0,102,255" stroke="0,0,0" strokewidth="2" zpos="2" widthtracksheight="true" d="M0.722313 0.302124L0.572063 0.653224L0.825657 0.559504L0.875359 0.406738L0.722313 0.302124Z" />
+	</event>
+	<event id="1c" >
+		<vector id="obj1" pos="0.722656,0.531347" src="1c_shape" zpos="2" />
+		<path id="obj2" pos="0.259567,0.509463" src="obj2" fill="0,102,255" stroke="0,0,0" strokewidth="2" zpos="2.001" widthtracksheight="true" d="M0.320932 0.591067c0.008-0.006 0.016-0.014 0.023-0.024c0.047-0.061 0.047-0.160 0.000-0.222c-0.047-0.061-0.123-0.061-0.169 0.000c-0.047 0.061-0.047 0.160 0.000 0.222c0.006 0.008 0.013 0.016 0.021 0.022c-0.000 0.001-0.000 0.001-0.000 0.001c0.001-0.001 0.157 0.145 0.158 0.144c0.001-0.001-0.028-0.123-0.032-0.142Z" />
+	</event>
+	<event id="1d" >
+		<vector id="obj1" pos="0.25666,0.498164" src="1d_leftarrow" zpos="2.001" />
+		<path id="obj2" pos="0.745468,0.456296" src="obj2" fill="173,57,255" stroke="112,34,169" strokewidth="3" zpos="2" widthtracksheight="true" d="M0.759638 0.600309L0.894997 0.455063L0.758171 0.312283L0.758611 0.39873c-0.049 0.001-0.089 0.024-0.116 0.047c-0.014 0.011-0.025 0.022-0.033 0.031c-0.008 0.009-0.013 0.016-0.013 0.016L0.657426 0.573068c-0.000-0.000 0.002-0.003 0.007-0.008c0.005-0.006 0.013-0.013 0.023-0.021c0.019-0.015 0.045-0.029 0.073-0.030L0.759638 0.600309Z" />
+	</event>
+	<event id="1e" >
+		<vector id="obj1" pos="0.745117,0.498698" src="1e_blob" scalex="1.3227" scaley="1.3227" zpos="2.001" />
+		<path id="obj2" pos="0.251628,0.495755" src="obj2" fill="245,85,99" zpos="2" widthtracksheight="true" d="M0.273037 0.623765c0.021 0.028 0.056 0.028 0.077 0.000c0.010-0.013 0.015-0.030 0.016-0.048c0.009-0.004 0.017-0.011 0.024-0.022c0.021-0.034 0.021-0.088 0.000-0.122c-0.011-0.018-0.026-0.026-0.041-0.025c-0.003-0.006-0.007-0.012-0.012-0.018c-0.039-0.050-0.102-0.050-0.141 0.000c-0.011 0.014-0.019 0.031-0.024 0.049c-0.012-0.009-0.027-0.007-0.037 0.006c-0.009 0.012-0.011 0.031-0.006 0.046c-0.038 0.031-0.037 0.080 0.003 0.111c0.036 0.028 0.092 0.031 0.132 0.009c0.002 0.005 0.005 0.010 0.008 0.014Z" />
+	</event>
+	<event id="1f" >
+		<vector id="obj1" pos="0.711914,0.496094" src="1f_vase" scalex="0.854736" scaley="0.854736" zpos="2.001" />
+		<path id="obj2" pos="0.308695,0.495158" src="obj2" fill="90,216,0" stroke="45,115,2" strokewidth="2" zpos="2" widthtracksheight="true" d="M0.375472 0.588214c0.003-0.018 0.001-0.027 0.009-0.043c0.005-0.010 0.012-0.020 0.018-0.032c0.014-0.026 0.025-0.051 0.029-0.069c0.005-0.029-0.004-0.063-0.031-0.073c-0.012-0.004-0.024-0.000-0.033 0.008c-0.001 0.001-0.001 0.001-0.002 0.002c-0.003 0.003-0.005 0.001-0.003-0.003c0.001-0.002 0.000-0.011-0.002-0.013c-0.008-0.005-0.040 0.013-0.080-0.000c-0.031-0.010-0.042-0.035-0.055-0.044c-0.025-0.017-0.036-0.005-0.040-0.000c-0.001 0.002-0.000 0.004 0.001 0.006c0.061 0.104-0.002 0.164-0.002 0.240c-0.000 0.045 0.034 0.106 0.035 0.108L0.217073 0.686198L0.342913 0.686198L0.342913 0.673511c0.000-0.001 0.026-0.054 0.033-0.085ZM0.400883 0.395576c0.013 0.010 0.012 0.032 0.009 0.045c-0.002 0.014-0.014 0.035-0.026 0.057c-0.002 0.004-0.004 0.007-0.006 0.011c-0.004 0.007-0.006 0.003-0.009-0.005c-0.003-0.009-0.009-0.052-0.009-0.059c0.000-0.021 0.004-0.036 0.011-0.044c0.007-0.009 0.018-0.012 0.028-0.004Z" />
+	</event>
+	<event id="masterb" scenes="1h,1i,1j,1k,1l,1m,1n,1o,1p,1q,1r,1s,1t,1u,1v,1w,1x,1y" colour="254,254,232" >
+		<path id="line" pos="0.576031,0.27711" src="line" fill="255,38,0" stroke="0,0,0" strokewidth="7" linecap="round" zpos="0" d="M0.575752 0.188802c0.000 0.000 0.001 0.176 0.000 0.177" />
+	</event>
+	<event id="1h" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500977,0.477865" src="1_heart" scalex="1.26361" scaley="1.26361" zpos="2.002" />
+	</event>
+	<event id="1i" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500977,0.477865" src="1_heart" scalex="1.26361" scaley="1.26361" zpos="2.002" />
+	</event>
+	<event id="1j" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500977,0.485677" src="1j_triangle" scalex="1.1206" scaley="1.1206" zpos="2.002" />
+	</event>
+	<event id="1k" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.5,0.498047" src="1k_shape" zpos="2.002" />
+	</event>
+	<event id="1l" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500099,0.502604" src="1_blouse" scalex="1.05705" scaley="1.05705" zpos="2.002" />
+	</event>
+	<event id="1m" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2.001" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.002" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500977,0.501018" src="1_dress" scalex="1.30373" scaley="1.30373" zpos="2" />
+	</event>
+	<event id="1n" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2.001" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.002" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500183,0.50323" src="1n_triangle" zpos="2" />
+	</event>
+	<event id="1o" >
+		<circle id="dot1" pos="0.143303,0.503718" src="dot1" fill="255,38,0" zpos="2" x="0.137444" y="0.495906" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.503337" src="dot2" fill="255,38,0" zpos="2.001" x="0.850586" y="0.495524" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.5,0.503906" src="1o_triangle" zpos="2.002" />
+	</event>
+	<event id="1p" >
+		<circle id="dot1" pos="0.143303,0.497925" src="dot1" fill="255,38,0" zpos="2.001" x="0.137444" y="0.490112" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.498128" src="dot2" fill="255,38,0" zpos="2.002" x="0.850586" y="0.490316" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.488525,0.49949" src="1p_leftarrow" scalex="1.53049" scaley="1.53049" zpos="2" />
+	</event>
+	<event id="1q" >
+		<circle id="dot1" pos="0.143303,0.497925" src="dot1" fill="255,38,0" zpos="2" x="0.137444" y="0.490112" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.498128" src="dot2" fill="255,38,0" zpos="2.001" x="0.850586" y="0.490316" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.5,0.49969" src="1q_shape" zpos="2.002" />
+	</event>
+	<event id="1r" >
+		<circle id="dot1" pos="0.143303,0.497925" src="dot1" fill="255,38,0" zpos="2" x="0.137444" y="0.490112" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.498128" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.850586" y="0.490316" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.480244,0.498189" src="1r_shape" zpos="2.002" />
+	</event>
+	<event id="1s" >
+		<circle id="dot1" pos="0.143303,0.497925" src="dot1" fill="255,38,0" zpos="2" x="0.137444" y="0.490112" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.498128" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.850586" y="0.490316" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.523869,0.498296" src="1s_shape" zpos="2.002" />
+	</event>
+	<event id="1t" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2.001" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.002" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500031,0.503209" src="1t_u" zpos="2" />
+	</event>
+	<event id="1u" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.499546,0.51505" src="1u_crown" zpos="2.002" />
+	</event>
+	<event id="1v" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" hidden="true" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500652,0.498937" src="1v_smiley" zpos="2.002" />
+	</event>
+	<event id="1w" >
+		<circle id="dot1" pos="0.143303,0.497925" src="dot1" fill="255,38,0" zpos="2" hidden="true" x="0.137444" y="0.490112" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.856445,0.498128" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.850586" y="0.490316" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.50353,0.499944" src="1w_leaf" scalex="0.87459" scaley="0.87459" zpos="2.002" />
+	</event>
+	<event id="1x" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2.001" hidden="true" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.002" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.500911,0.499919" src="1x_tree" scalex="0.881544" scaley="0.881544" zpos="2" />
+	</event>
+	<event id="1y" >
+		<circle id="dot1" pos="0.500067,0.187703" src="dot1" fill="255,38,0" zpos="2" hidden="true" x="0.494207" y="0.179891" width="0.0117188" height="0.015625" />
+		<circle id="dot2" pos="0.500067,0.808502" src="dot2" fill="255,38,0" zpos="2.001" hidden="true" x="0.494207" y="0.80069" width="0.0117188" height="0.015625" />
+		<vector id="obj" pos="0.50071,0.492188" src="1y_scissor" scalex="0.734808" scaley="0.734808" zpos="2.002" />
+	</event>
+</events>

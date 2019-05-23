@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Chifu aliwasikiliza wanyama wote wawili. Kisha akawaondoa Anansi na Tai. Akazungumza na wakuu wa kijiji, ambao nao walizungumza na kila mtu kijijini." frames="577819">
+		<timing id="0" start="0.000" end="0.495" startframe="0" framelength="21809" text="Chifu"/>
+		<timing id="1" start="0.495" end="1.533" startframe="21809" framelength="45789" text="aliwasikiliza"/>
+		<timing id="2" start="1.533" end="1.957" startframe="67598" framelength="18696" text="wanyama"/>
+		<timing id="3" start="1.957" end="2.273" startframe="86294" framelength="13928" text="wote"/>
+		<timing id="4" start="2.273" end="2.969" startframe="100222" framelength="30728" text="wawili"/>
+		<timing id="5" start="3.581" end="4.099" startframe="157940" framelength="22839" text="Kisha"/>
+		<timing id="6" start="4.099" end="4.963" startframe="180779" framelength="38096" text="akawaondoa"/>
+		<timing id="7" start="4.963" end="5.477" startframe="218875" framelength="22658" text="Anansi"/>
+		<timing id="8" start="5.477" end="5.714" startframe="241533" framelength="10445" text="na"/>
+		<timing id="9" start="5.714" end="6.219" startframe="251978" framelength="22281" text="Tai"/>
+		<timing id="10" start="7.173" end="8.134" startframe="316311" framelength="42403" text="Akazungumza"/>
+		<timing id="11" start="8.134" end="8.278" startframe="358714" framelength="6362" text="na"/>
+		<timing id="12" start="8.278" end="8.650" startframe="365076" framelength="16384" text="wakuu"/>
+		<timing id="13" start="8.650" end="8.803" startframe="381460" framelength="6768" text="wa"/>
+		<timing id="14" start="8.803" end="9.485" startframe="388228" framelength="30063" text="kijiji"/>
+		<timing id="15" start="10.023" end="10.411" startframe="441996" framelength="17138" text="ambao"/>
+		<timing id="16" start="10.411" end="10.846" startframe="459134" framelength="19195" text="nao"/>
+		<timing id="17" start="10.846" end="11.720" startframe="478329" framelength="38519" text="walizungumza"/>
+		<timing id="18" start="11.720" end="11.885" startframe="516848" framelength="7284" text="na"/>
+		<timing id="19" start="11.885" end="12.153" startframe="524132" framelength="11794" text="kila"/>
+		<timing id="20" start="12.153" end="12.389" startframe="535926" framelength="10426" text="mtu"/>
+		<timing id="21" start="12.389" end="13.102" startframe="546352" framelength="31467" text="kijijini"/>
+	</timings>
+</xml>

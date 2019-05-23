@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="Ni mamba! Duh! Hawa wanatakiwa waishi mtoni, sio kwenye bafu la Jack!" frames="317166">
+		<timing id="0" start="0.103" end="0.340" startframe="4539" framelength="10438" text="Ni"/>
+		<timing id="1" start="0.340" end="1.028" startframe="14977" framelength="30367" text="mamba"/>
+		<timing id="2" start="1.789" end="2.204" startframe="78907" framelength="18295" text="Duh"/>
+		<timing id="3" start="2.773" end="3.162" startframe="122286" framelength="17151" text="Hawa"/>
+		<timing id="4" start="3.162" end="3.814" startframe="139437" framelength="28781" text="wanatakiwa"/>
+		<timing id="5" start="3.814" end="4.170" startframe="168218" framelength="15675" text="waishi"/>
+		<timing id="6" start="4.170" end="4.916" startframe="183893" framelength="32881" text="mtoni"/>
+		<timing id="7" start="5.159" end="5.539" startframe="227518" framelength="16767" text="sio"/>
+		<timing id="8" start="5.539" end="5.764" startframe="244285" framelength="9891" text="kwenye"/>
+		<timing id="9" start="5.764" end="6.111" startframe="254176" framelength="15298" text="bafu"/>
+		<timing id="10" start="6.111" end="6.303" startframe="269474" framelength="8503" text="la"/>
+		<timing id="11" start="6.303" end="6.900" startframe="277977" framelength="26313" text="Jack"/>
+	</timings>
+</xml>

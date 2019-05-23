@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl6_babu.aif</url>
+	<relurl>psyl6_babu.aif</relurl>
+	<timings text="Ba - bu" frames="46620">
+		<timing id="0" start="0.000" end="0.477" startframe="0" framelength="21030" text="Ba"/>
+		<timing id="1" start="0.714" end="1.057" startframe="31501" framelength="15119" text="bu"/>
+	</timings>
+</xml>

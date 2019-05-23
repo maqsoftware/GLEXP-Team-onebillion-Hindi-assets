@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps2_2.aif</url>
+	<relurl>ps2_2.aif</relurl>
+	<timings text="Lakini mbona kuna mkia unaopiga piga." frames="513517">
+		<timing id="0" start="0.000" end="0.855" startframe="0" framelength="37701" text="Lakini"/>
+		<timing id="1" start="2.233" end="2.972" startframe="98457" framelength="32623" text="mbona"/>
+		<timing id="2" start="4.345" end="5.055" startframe="191600" framelength="31326" text="kuna"/>
+		<timing id="3" start="6.357" end="7.168" startframe="280326" framelength="35778" text="mkia"/>
+		<timing id="4" start="8.631" end="9.687" startframe="380609" framelength="46582" text="unaopiga"/>
+		<timing id="5" start="11.116" end="11.644" startframe="490219" framelength="23298" text="piga"/>
+	</timings>
+</xml>

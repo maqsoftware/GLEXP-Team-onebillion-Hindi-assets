@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_num="85,85,85" colour_highlight="170,0,0" colour_num2="0,174,239" colour_highlight2="4,115,156" colour_flash="225,161,37" >
+		<rectangle id="line_box" pos="0.5,0.460167" src="line_box" fill="255,255,255" zpos="0.002" hidden="true" heighttrackswidth="true" x="0.119825" y="0.374334" width="0.760349" height="0.171666" pxwidth="778.598" pxheight="131.84" />
+		<vector id="arrowhead" pos="-0.000870455,0.480519" parent="line_box" src="triangle" zpos="0" hidden="true" />
+		<path id="eq_line" pos="0.654257,0.134552" src="eq_line" stroke="255,0,0" strokewidth="4" zpos="0.006" hidden="true" d="M0.6273 0.1346L0.6812 0.1346" />
+		<path id="line_big" pos="0.0817199,0.615152" parent="line_box" src="line_big" stroke="113,113,113" strokewidth="12" zpos="0.005" hidden="true" d="M0.08172 0.43L0.08172 0.8003" />
+		<path id="line_main" pos="0.416256,0.500578" parent="line_box" src="line_main" stroke="113,113,113" strokewidth="4" zpos="0.003" hidden="true" d="M-0.158 0.5006L0.9905 0.5006" />
+		<path id="line_small" pos="0.0817199,0.615152" parent="line_box" src="line_small" stroke="161,160,161" strokewidth="4" zpos="0.004" hidden="true" d="M0.08172 0.43L0.08172 0.8003" />
+		<vector id="presenter" pos="0.5,0.765279" src="anna" zpos="0.001" hidden="true" />
+	</event>
+	<event id="add" >
+		<rectangle id="bottom_bar" pos="0.499435,0.929924" src="bottom_bar" fill="227,255,238" zpos="3.001" fitwidth="true" x="-0.00571442" y="0.855942" width="1.0103" height="0.147964" />
+		<path id="eq_box" pos="0.499174,0.097702" src="eq_box" fill="245,254,249" stroke="205,204,204" strokewidth="2" zpos="3" hidden="true" heighttrackswidth="true" pxwidth="417.277" pxheight="90.3672" d="M0.2954 0.1565L0.7029 0.1565L0.7029 0.03887L0.2954 0.03887L0.2954 0.1565Z" />
+		<path id="eq_line" pos="0.880573,0.813175" parent="eq_box" src="eq_line" stroke="255,0,0" strokewidth="4" zpos="3.002" hidden="true" d="M0.8145 0.8132L0.9466 0.8132" />
+	</event>
+	<event id="sub" >
+		<rectangle id="bottom_bar" pos="0.499435,0.929924" src="bottom_bar" fill="255,218,211" zpos="3.001" fitwidth="true" x="-0.00571442" y="0.855942" width="1.0103" height="0.147964" />
+		<path id="eq_box" pos="0.499174,0.097702" src="eq_box" fill="255,245,242" stroke="205,204,204" strokewidth="2" zpos="3" hidden="true" heighttrackswidth="true" pxwidth="417.277" pxheight="90.3672" d="M0.2954 0.1565L0.7029 0.1565L0.7029 0.03887L0.2954 0.03887L0.2954 0.1565Z" />
+		<path id="eq_line" pos="0.880573,0.813175" parent="eq_box" src="eq_line" stroke="255,0,0" strokewidth="4" zpos="3.002" hidden="true" d="M0.8145 0.8132L0.9466 0.8132" />
+	</event>
+</events>

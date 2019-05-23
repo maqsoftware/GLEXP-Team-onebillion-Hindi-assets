@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps9_3.aif</url>
+	<relurl>ps9_3.aif</relurl>
+	<timings text="Alikuwa Adia, binamu wake. Hajapata kumuona mwaka mzima!" frames="527880">
+		<timing id="0" start="0.000" end="0.892" startframe="0" framelength="39339" text="Alikuwa"/>
+		<timing id="1" start="1.452" end="2.244" startframe="64054" framelength="34923" text="Adia"/>
+		<timing id="2" start="2.980" end="3.843" startframe="131417" framelength="38069" text="binamu"/>
+		<timing id="3" start="4.782" end="5.553" startframe="210877" framelength="34002" text="wake"/>
+		<timing id="4" start="6.193" end="7.167" startframe="273112" framelength="42944" text="Hajapata"/>
+		<timing id="5" start="7.942" end="8.837" startframe="350234" framelength="39468" text="kumuona"/>
+		<timing id="6" start="9.503" end="10.290" startframe="419065" framelength="34704" text="mwaka"/>
+		<timing id="7" start="11.229" end="11.970" startframe="495210" framelength="32670" text="mzima"/>
+	</timings>
+</xml>

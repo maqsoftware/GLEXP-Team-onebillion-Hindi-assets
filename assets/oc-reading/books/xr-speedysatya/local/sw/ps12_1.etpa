@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/ps12_1.aif</url>
+	<relurl>ps12_1.aif</relurl>
+	<timings text="Nyumbani, Mosi anakwenda kulala. Mama yake anamsimulia hadithi kuhusu mvulana anayeruka ruka." frames="853549">
+		<timing id="0" start="0.000" end="0.932" startframe="0" framelength="41085" text="Nyumbani"/>
+		<timing id="1" start="1.869" end="2.680" startframe="82425" framelength="35756" text="Mosi"/>
+		<timing id="2" start="3.316" end="4.353" startframe="146237" framelength="45747" text="anakwenda"/>
+		<timing id="3" start="4.944" end="5.840" startframe="218036" framelength="39524" text="kulala"/>
+		<timing id="4" start="6.534" end="7.374" startframe="288158" framelength="37016" text="Mama"/>
+		<timing id="5" start="7.874" end="8.834" startframe="347229" framelength="42342" text="yake"/>
+		<timing id="6" start="9.602" end="10.966" startframe="423447" framelength="60152" text="anamsimulia"/>
+		<timing id="7" start="11.739" end="12.736" startframe="517670" framelength="43978" text="hadithi"/>
+		<timing id="8" start="13.498" end="14.485" startframe="595275" framelength="43530" text="kuhusu"/>
+		<timing id="9" start="15.008" end="16.123" startframe="661854" framelength="49183" text="mvulana"/>
+		<timing id="10" start="16.739" end="17.931" startframe="738179" framelength="52567" text="anayeruka"/>
+		<timing id="11" start="18.631" end="19.355" startframe="821646" framelength="31903" text="ruka"/>
+	</timings>
+</xml>

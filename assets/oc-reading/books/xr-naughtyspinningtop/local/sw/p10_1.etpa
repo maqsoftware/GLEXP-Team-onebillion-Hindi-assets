@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Pia inazunguka mitaani." frames="80928">
+		<timing id="0" start="0.000" end="0.357" startframe="0" framelength="15744" text="Pia"/>
+		<timing id="1" start="0.357" end="1.071" startframe="15744" framelength="31472" text="inazunguka"/>
+		<timing id="2" start="1.071" end="1.835" startframe="47216" framelength="33712" text="mitaani"/>
+	</timings>
+</xml>

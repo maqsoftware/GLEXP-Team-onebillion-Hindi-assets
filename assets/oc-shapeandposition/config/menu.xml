@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+        <image id="button1" pos="0.172085,0.364568" src="menubutton1" zpos="0" target="X_Shapeandposition_S1" parm="event1" config="x-shapeandposition" />
+        <image id="button2" pos="0.384933,0.363556" src="menubutton2" zpos="0.001" target="X_Shapeandposition_S2" parm="event2" config="x-shapeandposition" />
+        <image id="button3" pos="0.597782,0.363358" src="menubutton3" zpos="0.002" target="X_Shapeandposition_S3" parm="event3" config="x-shapeandposition" />
+        <image id="button4" pos="0.172085,0.65" src="menubutton4" zpos="0" target="X_Shapeandposition_S4" parm="event4" config="x-shapeandposition" />
+		<image id="button5" pos="0.384933,0.65" src="menubutton5" zpos="0.001" target="X_Shapeandposition_S5" parm="event5" config="x-shapeandposition" />
+		<image id="button6" pos="0.597782,0.65" src="menubutton6" zpos="0.001" target="X_Shapeandposition_S6" parm="event6" config="x-shapeandposition" />
+	</event>
+</events>

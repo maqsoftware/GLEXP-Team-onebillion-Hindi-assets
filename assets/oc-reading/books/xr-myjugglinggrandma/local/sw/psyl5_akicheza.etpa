@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl5_akicheza.aif</url>
+	<relurl>psyl5_akicheza.aif</relurl>
+	<timings text="a - ki - che - za" frames="108407">
+		<timing id="0" start="0.000" end="0.454" startframe="0" framelength="20039" text="a"/>
+		<timing id="1" start="0.686" end="1.115" startframe="30249" framelength="18942" text="ki"/>
+		<timing id="2" start="1.365" end="1.853" startframe="60192" framelength="21520" text="che"/>
+		<timing id="3" start="2.070" end="2.458" startframe="91305" framelength="17102" text="za"/>
+	</timings>
+</xml>

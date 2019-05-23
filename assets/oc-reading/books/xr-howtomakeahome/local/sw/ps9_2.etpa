@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps9_2.aif</url>
+	<relurl>ps9_2.aif</relurl>
+	<timings text="Akamchukua baba yake na kaka yake kule kijijini." frames="397743">
+		<timing id="0" start="0.000" end="1.202" startframe="0" framelength="53007" text="Akamchukua"/>
+		<timing id="1" start="1.716" end="2.544" startframe="75695" framelength="36474" text="baba"/>
+		<timing id="2" start="2.927" end="3.742" startframe="129087" framelength="35919" text="yake"/>
+		<timing id="3" start="4.122" end="4.631" startframe="181802" framelength="22445" text="na"/>
+		<timing id="4" start="5.251" end="5.984" startframe="231589" framelength="32293" text="kaka"/>
+		<timing id="5" start="6.250" end="6.800" startframe="275616" framelength="24267" text="yake"/>
+		<timing id="6" start="7.389" end="8.076" startframe="325863" framelength="30310" text="kule"/>
+		<timing id="7" start="8.276" end="9.019" startframe="364970" framelength="32773" text="kijijini"/>
+	</timings>
+</xml>

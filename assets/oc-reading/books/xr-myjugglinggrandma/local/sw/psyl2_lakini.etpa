@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl2_lakini.aif</url>
+	<relurl>psyl2_lakini.aif</relurl>
+	<timings text="La - ki - ni" frames="78649">
+		<timing id="0" start="0.000" end="0.521" startframe="0" framelength="22985" text="La"/>
+		<timing id="1" start="0.728" end="1.129" startframe="32089" framelength="17703" text="ki"/>
+		<timing id="2" start="1.419" end="1.783" startframe="62570" framelength="16079" text="ni"/>
+	</timings>
+</xml>

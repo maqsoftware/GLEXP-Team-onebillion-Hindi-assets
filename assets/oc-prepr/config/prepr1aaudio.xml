@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180122.094329140">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>prepr1a_herearesomesyllablesfromthekiswahilienglishchichewaalphabettouchthesyllablesyouhear</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

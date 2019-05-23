@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps11_1.aif</url>
+	<relurl>ps11_1.aif</relurl>
+	<timings text="Baba alimuona Juma chini ya mkorosho. Alikuwa amejiandaa darasa lake la nje na alikuwa anawasaidia wanafunzi kufanya kazi zao za nyumbani." frames="1544672">
+		<timing id="0" start="0.000" end="0.864" startframe="0" framelength="38123" text="Baba"/>
+		<timing id="1" start="2.253" end="3.470" startframe="99353" framelength="53665" text="alimuona"/>
+		<timing id="2" start="4.080" end="4.938" startframe="179908" framelength="37876" text="Juma"/>
+		<timing id="3" start="5.835" end="6.646" startframe="257307" framelength="35775" text="chini"/>
+		<timing id="4" start="7.351" end="8.268" startframe="324178" framelength="40454" text="ya"/>
+		<timing id="5" start="9.012" end="10.226" startframe="397436" framelength="53522" text="mkorosho"/>
+		<timing id="6" start="10.887" end="11.915" startframe="480119" framelength="45335" text="Alikuwa"/>
+		<timing id="7" start="12.554" end="13.896" startframe="553628" framelength="59196" text="amejiandaa"/>
+		<timing id="8" start="14.599" end="15.525" startframe="643810" framelength="40857" text="darasa"/>
+		<timing id="9" start="16.456" end="17.348" startframe="725702" framelength="39364" text="lake"/>
+		<timing id="10" start="18.133" end="18.874" startframe="799680" framelength="32663" text="la"/>
+		<timing id="11" start="19.690" end="20.526" startframe="868317" framelength="36888" text="nje"/>
+		<timing id="12" start="21.324" end="22.049" startframe="940388" framelength="31975" text="na"/>
+		<timing id="13" start="22.586" end="23.662" startframe="996021" framelength="47455" text="alikuwa"/>
+		<timing id="14" start="24.252" end="25.580" startframe="1069514" framelength="58572" text="anawasaidia"/>
+		<timing id="15" start="26.283" end="27.450" startframe="1159068" framelength="51494" text="wanafunzi"/>
+		<timing id="16" start="28.157" end="29.201" startframe="1241720" framelength="46026" text="kufanya"/>
+		<timing id="17" start="29.837" end="30.816" startframe="1315830" framelength="43147" text="kazi"/>
+		<timing id="18" start="31.290" end="32.154" startframe="1379872" framelength="38098" text="zao"/>
+		<timing id="19" start="32.950" end="33.647" startframe="1453073" framelength="30761" text="za"/>
+		<timing id="20" start="34.155" end="35.027" startframe="1506239" framelength="38433" text="nyumbani"/>
+	</timings>
+</xml>

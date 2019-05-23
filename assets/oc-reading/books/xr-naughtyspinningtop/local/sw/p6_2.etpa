@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p6_2.aif</url>
+	<relurl>p6_2.aif</relurl>
+	<timings text="Bado inazunguka!" frames="58169">
+		<timing id="0" start="0.000" end="0.334" startframe="0" framelength="14749" text="Bado"/>
+		<timing id="1" start="0.334" end="1.319" startframe="14749" framelength="43420" text="inazunguka"/>
+	</timings>
+</xml>

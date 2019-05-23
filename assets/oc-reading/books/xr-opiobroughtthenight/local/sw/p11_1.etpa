@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="“Mtauzoea tu usiku,” Omi alifafanua. “Mwanga wa jua ukija, sote tutakwenda kazini pamoja. Tutaamka sote wakati mmoja.”" frames="531471">
+		<timing id="0" start="0.000" end="0.901" startframe="0" framelength="39719" text="Mtauzoea"/>
+		<timing id="1" start="0.901" end="1.069" startframe="39719" framelength="7422" text="tu"/>
+		<timing id="2" start="1.069" end="1.880" startframe="47141" framelength="35784" text="usiku"/>
+		<timing id="3" start="1.982" end="2.540" startframe="87408" framelength="24628" text="Omi"/>
+		<timing id="4" start="2.540" end="3.584" startframe="112036" framelength="46001" text="alifafanua"/>
+		<timing id="5" start="4.204" end="4.636" startframe="185400" framelength="19037" text="Mwanga"/>
+		<timing id="6" start="4.636" end="4.807" startframe="204437" framelength="7541" text="wa"/>
+		<timing id="7" start="4.807" end="5.076" startframe="211978" framelength="11890" text="jua"/>
+		<timing id="8" start="5.076" end="5.800" startframe="223868" framelength="31909" text="ukija"/>
+		<timing id="9" start="6.222" end="6.897" startframe="274389" framelength="29783" text="sote"/>
+		<timing id="10" start="6.897" end="7.502" startframe="304172" framelength="26671" text="tutakwenda"/>
+		<timing id="11" start="7.502" end="7.950" startframe="330843" framelength="19753" text="kazini"/>
+		<timing id="12" start="7.950" end="8.703" startframe="350596" framelength="33218" text="pamoja"/>
+		<timing id="13" start="9.164" end="10.279" startframe="404135" framelength="49177" text="Tutaamka"/>
+		<timing id="14" start="10.279" end="10.893" startframe="453312" framelength="27080" text="sote"/>
+		<timing id="15" start="10.893" end="11.444" startframe="480392" framelength="24299" text="wakati"/>
+		<timing id="16" start="11.444" end="12.051" startframe="504691" framelength="26780" text="mmoja"/>
+	</timings>
+</xml>

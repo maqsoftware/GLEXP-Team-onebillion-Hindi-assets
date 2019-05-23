@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p9_1.aif</url>
+	<relurl>p9_1.aif</relurl>
+	<timings text="Jack anadondoka tena kwenye maji. Je lile ni sponji analoliona?" frames="256003">
+		<timing id="0" start="0.000" end="0.435" startframe="0" framelength="19193" text="Jack"/>
+		<timing id="1" start="0.435" end="1.175" startframe="19193" framelength="32621" text="anadondoka"/>
+		<timing id="2" start="1.175" end="1.599" startframe="51814" framelength="18690" text="tena"/>
+		<timing id="3" start="1.599" end="1.857" startframe="70504" framelength="11407" text="kwenye"/>
+		<timing id="4" start="1.857" end="2.410" startframe="81911" framelength="24379" text="maji"/>
+		<timing id="5" start="2.982" end="3.408" startframe="131528" framelength="18765" text="Je"/>
+		<timing id="6" start="3.600" end="3.867" startframe="158772" framelength="11765" text="lile"/>
+		<timing id="7" start="3.867" end="4.008" startframe="170537" framelength="6208" text="ni"/>
+		<timing id="8" start="4.008" end="4.722" startframe="176745" framelength="31515" text="sponji"/>
+		<timing id="9" start="4.722" end="5.805" startframe="208260" framelength="47743" text="analoliona"/>
+	</timings>
+</xml>

@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/ps6_2.aif</url>
+	<relurl>ps6_2.aif</relurl>
+	<timings text="Ziiiiiii! Ziiiiiii! " frames="100340">
+		<timing id="0" start="0.000" end="0.781" startframe="0" framelength="34434" text="Ziiiiiii"/>
+		<timing id="1" start="1.417" end="2.275" startframe="62471" framelength="37869" text="Ziiiiiii"/>
+	</timings>
+</xml>

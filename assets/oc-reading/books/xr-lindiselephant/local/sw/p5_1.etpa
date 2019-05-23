@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Tembo alijisikia mpweke. Linda hakutaka kuwa rafiki naye." frames="241689">
+		<timing id="0" start="0.000" end="0.574" startframe="0" framelength="25322" text="Tembo"/>
+		<timing id="1" start="0.574" end="1.357" startframe="25322" framelength="34505" text="alijisikia"/>
+		<timing id="2" start="1.357" end="2.108" startframe="59827" framelength="33139" text="mpweke"/>
+		<timing id="3" start="2.788" end="3.610" startframe="122944" framelength="36278" text="Linda"/>
+		<timing id="4" start="3.683" end="4.397" startframe="162430" framelength="31477" text="hakutaka"/>
+		<timing id="5" start="4.397" end="4.727" startframe="193907" framelength="14536" text="kuwa"/>
+		<timing id="6" start="4.727" end="5.144" startframe="208443" framelength="18424" text="rafiki"/>
+		<timing id="7" start="5.144" end="5.480" startframe="226867" framelength="14822" text="naye"/>
+	</timings>
+</xml>

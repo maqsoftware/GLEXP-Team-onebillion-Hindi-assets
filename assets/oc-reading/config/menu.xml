@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+		<image id="button1" pos="0.321064,0.229141" src="tshirt" shadowcolour="0,0,0" shadowopacity="0.18" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="0.002" target="X_Reading" config="x-reading/books/xr-tshirt" parm="0" />
+		<image id="button2" pos="0.264213,0.676565" src="tembo_ny" scalex="0.931845" scaley="0.931845" shadowcolour="0,0,0" shadowopacity="0.18" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="0" target="X_Reading" config="x-reading/books/tembo" parm="1" />
+		<image id="button3" pos="0.782524,0.531331" src="tembo" shadowcolour="0,0,0" shadowopacity="0.18" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="0.001" target="X_Reading" config="x-reading/books/xr-temboumbrella" parm="0" />
+		<text id="buttonmain"  pos="0.911034,0.951385" src="buttonmain" fill="255,255,255" zpos="0.006" target="XPRZ_Menu" parm="menu" config="xprz0" x="0.856937" y="0.925781" width="0.108192" height="0.0512085">
+<tspan x="0.236797" y="0.559396" font-family="Heinemann Special" font-size="24.000000" fill="rgb(0%,0%,0%)" >Main</tspan>
+		</text>
+		<text id="Text1"  pos="0.320496,0.429787" src="Text1" fill="255,255,255" zpos="0.003" x="0.206715" y="0.406453" width="0.227562" height="0.0466665">
+<tspan x="0.0728842" y="0.613842" font-family="Heinemann Special" font-size="24.000000" fill="rgb(0%,0%,0%)" >The Flying T-Shirt</tspan>
+		</text>
+		<text id="Text1 copy"  pos="0.782959,0.739016" src="Text1 copy" fill="255,255,255" zpos="0.004" x="0.647137" y="0.715683" width="0.271645" height="0.0466665">
+<tspan x="0.0398254" y="0.613842" font-family="Heinemann Special" font-size="24.000000" fill="rgb(0%,0%,0%)" >Mrs Tembo’s Umbrella</tspan>
+		</text>
+		<text id="Text1 copy copy"  pos="0.267574,0.901522" src="Text1 copy copy" fill="255,255,255" zpos="0.005" x="0.153793" y="0.878189" width="0.227562" height="0.0466665">
+<tspan x="0.261312" y="0.613842" font-family="Heinemann Special" font-size="24.000000" fill="rgb(0%,0%,0%)" >Ambulela</tspan>
+		</text>
+	</event>
+</events>

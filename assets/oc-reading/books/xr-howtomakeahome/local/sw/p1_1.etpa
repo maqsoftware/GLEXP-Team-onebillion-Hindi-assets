@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Hapo kale alikuwepo mtu aliyekuwa na watoto wawili wa kiume. Waliitwa Ali na Moni. Waliishi na baba yao." frames="446084">
+		<timing id="0" start="0.000" end="0.297" startframe="0" framelength="13101" text="Hapo"/>
+		<timing id="1" start="0.297" end="0.957" startframe="13101" framelength="29085" text="kale"/>
+		<timing id="2" start="1.408" end="2.142" startframe="62098" framelength="32366" text="alikuwepo"/>
+		<timing id="3" start="2.142" end="2.556" startframe="94464" framelength="18276" text="mtu"/>
+		<timing id="4" start="2.556" end="3.261" startframe="112740" framelength="31061" text="aliyekuwa"/>
+		<timing id="5" start="3.261" end="3.428" startframe="143801" framelength="7386" text="na"/>
+		<timing id="6" start="3.428" end="3.812" startframe="151187" framelength="16926" text="watoto"/>
+		<timing id="7" start="3.812" end="4.353" startframe="168113" framelength="23840" text="wawili"/>
+		<timing id="8" start="4.693" end="4.949" startframe="206954" framelength="11316" text="wa"/>
+		<timing id="9" start="4.949" end="5.520" startframe="218270" framelength="25182" text="kiume"/>
+		<timing id="10" start="5.985" end="6.990" startframe="263947" framelength="44313" text="Waliitwa"/>
+		<timing id="11" start="7.261" end="7.648" startframe="320220" framelength="17054" text="Ali"/>
+		<timing id="12" start="7.648" end="7.823" startframe="337274" framelength="7718" text="na"/>
+		<timing id="13" start="7.823" end="8.349" startframe="344992" framelength="23182" text="Moni"/>
+		<timing id="14" start="8.818" end="9.348" startframe="388857" framelength="23376" text="Waliishi"/>
+		<timing id="15" start="9.348" end="9.516" startframe="412233" framelength="7414" text="na"/>
+		<timing id="16" start="9.516" end="9.754" startframe="419647" framelength="10510" text="baba"/>
+		<timing id="17" start="9.754" end="10.115" startframe="430157" framelength="15927" text="yao"/>
+	</timings>
+</xml>

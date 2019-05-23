@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/ps11_3.aif</url>
+	<relurl>ps11_3.aif</relurl>
+	<timings text="“Unaweza kunisaidia?” aliuliza." frames="195489">
+		<timing id="0" start="0.000" end="0.881" startframe="0" framelength="38862" text="Unaweza"/>
+		<timing id="1" start="1.608" end="2.644" startframe="70918" framelength="45703" text="kunisaidia"/>
+		<timing id="2" start="3.576" end="4.433" startframe="157722" framelength="37767" text="aliuliza"/>
+	</timings>
+</xml>

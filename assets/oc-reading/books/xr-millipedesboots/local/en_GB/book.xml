@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-millepedesbootsEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>Mil/li/pede’s boots</para>
+	</page>
+	<page pageno="1">
+		<para>Where are the rest of my boots?</para>
+	</page>
+	<page pageno="2">
+		<para>I have not seen an/y boots.</para>
+	</page>
+	<page pageno="3">
+		<para>There are no boots here.</para>
+	</page>
+	<page pageno="4">
+		<para>Oh, did some/one take your boots?</para>
+	</page>
+	<page pageno="5">
+		<para>No, I have not seen your boots.</para>
+	</page>
+	<page pageno="6">
+		<para>Will I ev/er find my boots?</para>
+	</page>
+	<page pageno="7">
+		<para>There are no boots here, but ask Li/on.</para>
+	</page>
+	<page pageno="8">
+		<para>Oh, are these your boots?</para>
+	</page>
+</book>

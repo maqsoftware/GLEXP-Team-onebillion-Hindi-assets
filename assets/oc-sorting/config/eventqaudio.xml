@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Q1">
+		<phrasegroup id="PROMPT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="PROMPT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="PROMPT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_crossouttheoddoneout</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="PROMPT">
+			<phrase>q_choosethepinksock</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_choosethepinksock</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichshapeisgrey</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichshapeisgrey</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichshapeisbrown</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichshapeisbrown</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichtwothingsgotogether</phrase>
+			<phrase>q_touchthemthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichtwothingsgotogether</phrase>
+			<phrase>q_touchthemthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichtwothingsgotogether</phrase>
+			<phrase>q_touchthemthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichtwothingsgotogether</phrase>
+			<phrase>q_touchthemthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="PROMPT">
+			<phrase>q_dragthematchingthingintotheboxtomakeapair</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_dragthematchingthingintotheboxtomakeapair</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="PROMPT">
+			<phrase>q_dragthematchingthingintotheboxtomakeapair</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_dragthematchingthingintotheboxtomakeapair</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

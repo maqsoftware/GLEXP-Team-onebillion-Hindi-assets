@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/ps5_1.aif</url>
+	<relurl>ps5_1.aif</relurl>
+	<timings text="Jongoo alijikwaa kwenye jabali. “Yala!” alilia kwa uchungu. “Nimevunjika mguu!”" frames="673069">
+		<timing id="0" start="0.000" end="0.788" startframe="0" framelength="34765" text="Jongoo"/>
+		<timing id="1" start="1.399" end="2.458" startframe="61694" framelength="46706" text="alijikwaa"/>
+		<timing id="2" start="3.282" end="3.938" startframe="144731" framelength="28929" text="kwenye"/>
+		<timing id="3" start="4.471" end="5.235" startframe="197180" framelength="33672" text="jabali"/>
+		<timing id="4" start="6.340" end="7.048" startframe="279598" framelength="31223" text="Yala"/>
+		<timing id="5" start="7.889" end="8.848" startframe="347912" framelength="42275" text="alilia"/>
+		<timing id="6" start="9.711" end="10.203" startframe="428242" framelength="21699" text="kwa"/>
+		<timing id="7" start="10.963" end="11.831" startframe="483487" framelength="38264" text="uchungu"/>
+		<timing id="8" start="12.640" end="13.831" startframe="557414" framelength="52512" text="Nimevunjika"/>
+		<timing id="9" start="14.665" end="15.262" startframe="646731" framelength="26338" text="mguu"/>
+	</timings>
+</xml>

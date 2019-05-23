@@ -1,0 +1,31 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Volumes/Ting/audio/master/sw/xr-library_stories/xr-allaroundafricaSW/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="Rafiki hawa walikimbia jangwani na msituni. Walikimbia kupitia mbuga za wanyama na miji. Waliunyanyua mwenge wao wa matumaini juu zaidi, ili kila mtu auone." frames="2163267">
+		<timing id="0" start="0.000" end="1.142" startframe="0" framelength="50367" text="Rafiki"/>
+		<timing id="1" start="1.946" end="3.000" startframe="85802" framelength="46492" text="hawa"/>
+		<timing id="2" start="3.668" end="5.143" startframe="161760" framelength="65065" text="walikimbia"/>
+		<timing id="3" start="6.166" end="7.436" startframe="271916" framelength="56022" text="jangwani"/>
+		<timing id="4" start="8.448" end="9.223" startframe="372562" framelength="34186" text="na"/>
+		<timing id="5" start="10.074" end="11.273" startframe="444254" framelength="52904" text="msituni"/>
+		<timing id="6" start="12.365" end="13.688" startframe="545278" framelength="58369" text="Walikimbia"/>
+		<timing id="7" start="14.624" end="15.809" startframe="644902" framelength="52266" text="kupitia"/>
+		<timing id="8" start="16.594" end="17.714" startframe="731783" framelength="49414" text="mbuga"/>
+		<timing id="9" start="18.320" end="19.295" startframe="807911" framelength="42977" text="za"/>
+		<timing id="10" start="19.988" end="21.195" startframe="881490" framelength="53188" text="wanyama"/>
+		<timing id="11" start="22.318" end="23.210" startframe="984212" framelength="39361" text="na"/>
+		<timing id="12" start="24.501" end="25.417" startframe="1080491" framelength="40415" text="miji"/>
+		<timing id="13" start="27.652" end="29.247" startframe="1219475" framelength="70322" text="Waliunyanyua"/>
+		<timing id="14" start="30.346" end="31.397" startframe="1338265" framelength="46322" text="mwenge"/>
+		<timing id="15" start="32.458" end="33.395" startframe="1431388" framelength="41324" text="wao"/>
+		<timing id="16" start="34.243" end="35.086" startframe="1510129" framelength="37177" text="wa"/>
+		<timing id="17" start="36.002" end="37.379" startframe="1587689" framelength="60745" text="matumaini"/>
+		<timing id="18" start="38.382" end="39.368" startframe="1692658" framelength="43463" text="juu"/>
+		<timing id="19" start="39.997" end="41.144" startframe="1763889" framelength="50544" text="zaidi"/>
+		<timing id="20" start="42.166" end="43.311" startframe="1859524" framelength="50474" text="ili"/>
+		<timing id="21" start="44.132" end="45.097" startframe="1946223" framelength="42548" text="kila"/>
+		<timing id="22" start="46.112" end="47.056" startframe="2033559" framelength="41589" text="mtu"/>
+		<timing id="23" start="48.051" end="49.054" startframe="2119034" framelength="44233" text="auone"/>
+	</timings>
+</xml>

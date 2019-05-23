@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p7_2.aif</url>
+	<relurl>p7_2.aif</relurl>
+	<timings text="Ramila aliangalia kwa huzuni huku Neema akienda zake." frames="189697">
+		<timing id="0" start="0.000" end="0.673" startframe="0" framelength="29672" text="Ramila"/>
+		<timing id="1" start="0.673" end="1.384" startframe="29672" framelength="31369" text="aliangalia"/>
+		<timing id="2" start="1.384" end="1.584" startframe="61041" framelength="8802" text="kwa"/>
+		<timing id="3" start="1.584" end="2.278" startframe="69843" framelength="30625" text="huzuni"/>
+		<timing id="4" start="2.509" end="2.817" startframe="110652" framelength="13591" text="huku"/>
+		<timing id="5" start="2.817" end="3.336" startframe="124243" framelength="22861" text="Neema"/>
+		<timing id="6" start="3.336" end="3.839" startframe="147104" framelength="22189" text="akienda"/>
+		<timing id="7" start="3.839" end="4.302" startframe="169293" framelength="20404" text="zake"/>
+	</timings>
+</xml>

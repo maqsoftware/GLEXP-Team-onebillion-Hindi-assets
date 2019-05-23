@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps9_3.aif</url>
+	<relurl>ps9_3.aif</relurl>
+	<timings text="Akawatambulisha rafiki zake. Kila mmoja akawa amefurahi." frames="443107">
+		<timing id="0" start="0.000" end="1.515" startframe="0" framelength="66827" text="Akawatambulisha"/>
+		<timing id="1" start="1.709" end="2.748" startframe="75384" framelength="45814" text="rafiki"/>
+		<timing id="2" start="3.304" end="3.936" startframe="145685" framelength="27898" text="zake"/>
+		<timing id="3" start="4.752" end="5.478" startframe="209561" framelength="31997" text="Kila"/>
+		<timing id="4" start="5.818" end="6.713" startframe="256573" framelength="39456" text="mmoja"/>
+		<timing id="5" start="7.192" end="8.059" startframe="317186" framelength="38194" text="akawa"/>
+		<timing id="6" start="8.539" end="9.497" startframe="376563" framelength="42267" text="amefurahi"/>
+	</timings>
+</xml>

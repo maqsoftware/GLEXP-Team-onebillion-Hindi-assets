@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Wakati wa mapumziko, Tembo alimfuata Linda kwenye kiwanja cha michezo." frames="243731">
+		<timing id="0" start="0.000" end="0.440" startframe="0" framelength="19403" text="Wakati"/>
+		<timing id="1" start="0.440" end="0.589" startframe="19403" framelength="6593" text="wa"/>
+		<timing id="2" start="0.589" end="1.582" startframe="25996" framelength="43775" text="mapumziko"/>
+		<timing id="3" start="2.177" end="2.542" startframe="96009" framelength="16111" text="Tembo"/>
+		<timing id="4" start="2.542" end="3.213" startframe="112120" framelength="29575" text="alimfuata"/>
+		<timing id="5" start="3.213" end="3.790" startframe="141695" framelength="25436" text="Linda"/>
+		<timing id="6" start="3.790" end="4.092" startframe="167131" framelength="13309" text="kwenye"/>
+		<timing id="7" start="4.092" end="4.667" startframe="180440" framelength="25361" text="kiwanja"/>
+		<timing id="8" start="4.667" end="4.944" startframe="205801" framelength="12251" text="cha"/>
+		<timing id="9" start="4.944" end="5.527" startframe="218052" framelength="25679" text="michezo"/>
+	</timings>
+</xml>

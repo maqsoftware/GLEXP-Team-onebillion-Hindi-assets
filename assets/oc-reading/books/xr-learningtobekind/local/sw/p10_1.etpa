@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Asubuhi iliyofuata, Saida aliamshwa na sauti ya Ramila. “Saida, njoo nje. Nina zawadi kwa ajili yako.”" frames="459815">
+		<timing id="0" start="0.000" end="0.836" startframe="0" framelength="36866" text="Asubuhi"/>
+		<timing id="1" start="0.894" end="2.049" startframe="39420" framelength="50925" text="iliyofuata"/>
+		<timing id="2" start="2.698" end="3.339" startframe="118979" framelength="28262" text="Saida"/>
+		<timing id="3" start="3.339" end="4.203" startframe="147241" framelength="38121" text="aliamshwa"/>
+		<timing id="4" start="4.203" end="4.373" startframe="185362" framelength="7466" text="na"/>
+		<timing id="5" start="4.377" end="4.881" startframe="193029" framelength="22242" text="sauti"/>
+		<timing id="6" start="4.881" end="5.039" startframe="215271" framelength="6967" text="ya"/>
+		<timing id="7" start="5.039" end="5.581" startframe="222238" framelength="23876" text="Ramila"/>
+		<timing id="8" start="6.031" end="6.949" startframe="265971" framelength="40472" text="Saida"/>
+		<timing id="9" start="7.300" end="7.704" startframe="321943" framelength="17818" text="njoo"/>
+		<timing id="10" start="7.704" end="8.406" startframe="339761" framelength="30928" text="nje"/>
+		<timing id="11" start="8.681" end="8.993" startframe="382820" framelength="13753" text="Nina"/>
+		<timing id="12" start="8.993" end="9.448" startframe="396573" framelength="20092" text="zawadi"/>
+		<timing id="13" start="9.448" end="9.689" startframe="416665" framelength="10622" text="kwa"/>
+		<timing id="14" start="9.689" end="10.000" startframe="427287" framelength="13707" text="ajili"/>
+		<timing id="15" start="10.000" end="10.427" startframe="440994" framelength="18821" text="yako"/>
+	</timings>
+</xml>

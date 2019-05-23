@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whereisthewalletnow</phrase>
+			<phrase>cq_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_samisputtingthewalletinhispocketwillnathanseeitkeepreadingtofindout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_whereisthewalletnow</phrase>
+			<phrase>cq_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_someoneisbehindsamcanyouseetheirshadowtouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thatsrightwhoseshadowisitletsfindout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_someoneisbehindsamcanyouseetheirshadowtouchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_ritaisangrywhoissheangrywith</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_nathan</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_sam</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_ritaisangrywithnathanshecanseeheisbeingunkindwhatwillhappennextkeepreadingtofindout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain_p8</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p10">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whathavethechildrenfoundinthewallet</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_astamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_adrivinglicence</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thechildrenhavefoundadrivinglicencewhyisitusefulletsfindout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p13">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

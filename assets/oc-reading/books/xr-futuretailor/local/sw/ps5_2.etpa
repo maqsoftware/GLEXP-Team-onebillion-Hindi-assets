@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps5_2.aif</url>
+	<relurl>ps5_2.aif</relurl>
+	<timings text="“Mnaweza kuchagua maisha yenu ya baadae,” alisema." frames="533386">
+		<timing id="0" start="0.000" end="1.031" startframe="0" framelength="45461" text="Mnaweza"/>
+		<timing id="1" start="2.149" end="3.175" startframe="94786" framelength="45211" text="kuchagua"/>
+		<timing id="2" start="4.265" end="5.178" startframe="188094" framelength="40235" text="maisha"/>
+		<timing id="3" start="6.073" end="6.773" startframe="267799" framelength="30884" text="yenu"/>
+		<timing id="4" start="7.798" end="8.362" startframe="343907" framelength="24842" text="ya"/>
+		<timing id="5" start="9.335" end="10.280" startframe="411693" framelength="41649" text="baadae"/>
+		<timing id="6" start="11.271" end="12.095" startframe="497049" framelength="36337" text="alisema"/>
+	</timings>
+</xml>

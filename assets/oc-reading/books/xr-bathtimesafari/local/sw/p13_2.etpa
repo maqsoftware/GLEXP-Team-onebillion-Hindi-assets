@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p13_2.aif</url>
+	<relurl>p13_2.aif</relurl>
+	<timings text="Jack amefurahi sana!" frames="77260">
+		<timing id="0" start="0.000" end="0.498" startframe="0" framelength="21968" text="Jack"/>
+		<timing id="1" start="0.498" end="1.266" startframe="21968" framelength="33882" text="amefurahi"/>
+		<timing id="2" start="1.266" end="1.752" startframe="55850" framelength="21410" text="sana"/>
+	</timings>
+</xml>

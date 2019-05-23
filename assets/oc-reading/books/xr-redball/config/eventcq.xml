@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="p2" >
+		<path id="shape" pos="0.623574,0.831488" parent="mainpic" src="shape" fill="4,51,255" fillopacity="0.322223" zpos="0" d="M0.652 0.9001c0.0157-0.0379 0.0157-0.0993 0-0.137c-0.0157-0.0379-0.0412-0.0379-0.0569 0c-0.0157 0.0379-0.0157 0.0993 0 0.137c0.0157 0.0379 0.0412 0.0379 0.0569 0" />
+	</event>
+	<event id="p5" >
+		<path id="shape" pos="0.82452,0.708935" parent="mainpic" src="shape" fill="4,51,255" fillopacity="0.322223" zpos="0" d="M0.8283 0.5348c-0.0646 0.0478-0.0717 0.138-0.0717 0.138L0.8641 0.883L0.8925 0.8019L0.8791 0.6431L0.8283 0.5348Z" />
+	</event>
+</events>

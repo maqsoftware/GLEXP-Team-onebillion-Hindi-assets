@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="Omi alibaki kuona usiku kwa mara nyengine zaidi." frames="495385">
+		<timing id="0" start="0.000" end="0.655" startframe="0" framelength="28884" text="Omi"/>
+		<timing id="1" start="1.202" end="2.264" startframe="53002" framelength="46850" text="alibaki"/>
+		<timing id="2" start="2.957" end="3.815" startframe="130406" framelength="37818" text="kuona"/>
+		<timing id="3" start="4.607" end="5.492" startframe="203161" framelength="39034" text="usiku"/>
+		<timing id="4" start="6.220" end="6.752" startframe="274302" framelength="23458" text="kwa"/>
+		<timing id="5" start="7.382" end="8.180" startframe="325542" framelength="35180" text="mara"/>
+		<timing id="6" start="8.718" end="9.732" startframe="384446" framelength="44739" text="nyengine"/>
+		<timing id="7" start="10.333" end="11.233" startframe="455683" framelength="39702" text="zaidi"/>
+	</timings>
+</xml>

@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps4_1.aif</url>
+	<relurl>ps4_1.aif</relurl>
+	<timings text="Siku moja Omi, alikwenda kuwinda. Mbwa wake walianza kumkimbiza paa. Omi aliwafuata kwa masaa. Hatimaye, alichoka na hivyo akaamua kusimama." frames="1426189">
+		<timing id="0" start="0.000" end="0.901" startframe="0" framelength="39735" text="Siku"/>
+		<timing id="1" start="1.264" end="2.260" startframe="55755" framelength="43896" text="moja"/>
+		<timing id="2" start="2.907" end="3.818" startframe="128195" framelength="40164" text="Omi"/>
+		<timing id="3" start="4.204" end="5.388" startframe="185405" framelength="52200" text="alikwenda"/>
+		<timing id="4" start="5.940" end="7.024" startframe="261973" framelength="47772" text="kuwinda"/>
+		<timing id="5" start="7.884" end="8.781" startframe="347683" framelength="39560" text="Mbwa"/>
+		<timing id="6" start="9.456" end="10.410" startframe="416989" framelength="42070" text="wake"/>
+		<timing id="7" start="10.938" end="12.220" startframe="482362" framelength="56519" text="walianza"/>
+		<timing id="8" start="13.025" end="14.432" startframe="574388" framelength="62081" text="kumkimbiza"/>
+		<timing id="9" start="15.144" end="15.971" startframe="667841" framelength="36494" text="paa"/>
+		<timing id="10" start="16.758" end="17.630" startframe="739022" framelength="38479" text="Omi"/>
+		<timing id="11" start="18.148" end="19.667" startframe="800332" framelength="66987" text="aliwafuata"/>
+		<timing id="12" start="20.196" end="21.020" startframe="890646" framelength="36320" text="kwa"/>
+		<timing id="13" start="21.391" end="22.612" startframe="943325" framelength="53879" text="masaa"/>
+		<timing id="14" start="23.057" end="24.234" startframe="1016804" framelength="51937" text="Hatimaye"/>
+		<timing id="15" start="24.779" end="25.893" startframe="1092749" framelength="49134" text="alichoka"/>
+		<timing id="16" start="26.504" end="27.355" startframe="1168836" framelength="37514" text="na"/>
+		<timing id="17" start="27.800" end="28.772" startframe="1225989" framelength="42861" text="hivyo"/>
+		<timing id="18" start="29.400" end="30.615" startframe="1296551" framelength="53583" text="akaamua"/>
+		<timing id="19" start="31.373" end="32.340" startframe="1383560" framelength="42629" text="kusimama"/>
+	</timings>
+</xml>

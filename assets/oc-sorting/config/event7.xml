@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="7a,7b,7c" colour="147,232,255" >
+		<rectangle id="boxrect" pos="0.50498,0.50101" src="boxrect" fill="0,249,0" zpos="0" hidden="true" widthtracksheight="true" x="0.112755" y="0.139323" width="0.784451" height="0.723373" pxwidth="803.277" pxheight="555.551" />
+	</event>
+	<event id="7a" >
+		<vector id="back" pos="0.866392,0.823254" parent="boxrect" src="7_blueCard" zpos="1" />
+		<group id="group0"  pos="0.125365,0.154808" parent="boxrect" src="group0" zpos="1.006">
+			<vector id="card1" pos="0.211098,0.251307" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="obja3" pos="0.210077,0.258677" src="7_table" scalex="0.65548" scaley="0.65548" zpos="1.001" />
+		</group>
+		<group id="group1"  pos="0.380388,0.16972" parent="boxrect" src="group1" zpos="1.004">
+			<vector id="card2" pos="0.404961,0.251307" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="objb3" pos="0.41115,0.262094" src="7_umbrella" scalex="0.434379" scaley="0.434379" rotation="40" zpos="1.001" />
+		</group>
+		<group id="group2"  pos="0.61963,0.154808" parent="boxrect" src="group2" zpos="1.001">
+			<vector id="card3" pos="0.598824,0.251307" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="objc3" pos="0.597298,0.263156" src="7_bowl" scalex="0.648296" scaley="0.648296" zpos="1.001" />
+		</group>
+		<group id="group3"  pos="0.866762,0.154808" parent="boxrect" src="group3" zpos="1.002">
+			<vector id="card4" pos="0.792686,0.251307" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="objd3" pos="0.792864,0.256025" src="7_boat" scalex="1.3297" scaley="1.3297" zpos="1.001" />
+		</group>
+		<group id="group4"  pos="0.124315,0.497093" parent="boxrect" src="group4" zpos="1.003">
+			<vector id="card5" pos="0.210274,0.498906" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="obje3" pos="0.210535,0.499803" src="7_ball" scalex="0.779005" scaley="0.779005" zpos="1.001" />
+		</group>
+		<group id="group5"  pos="0.371919,0.497943" parent="boxrect" src="group5" zpos="1.005">
+			<vector id="7_ladder" pos="0.401306,0.501185" src="7_ladder" scalex="-1" scaley="1" zpos="1.001" />
+			<vector id="card6" pos="0.404507,0.499522" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+		</group>
+	</event>
+	<event id="7c" >
+		<vector id="back" pos="0.791492,0.735026" src="7_pinkCard" zpos="1" />
+		<group id="group0"  pos="0.210148,0.252284" src="group0" zpos="1.001">
+			<vector id="card0" pos="0.124154,0.156158" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_elephant" pos="0.501367,0.498543" parent="card0" src="7_elephant" scalex="0.527829" scaley="0.527829" zpos="1.001" />
+		</group>
+		<group id="group1"  pos="0.404297,0.252604" src="group1" zpos="1.002">
+			<vector id="card1" pos="0.371651,0.156601" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_zebra" pos="0.503184,0.494924" parent="card1" src="7_zebra" scalex="0.624252" scaley="0.624252" zpos="1.001" />
+		</group>
+		<group id="group2"  pos="0.598633,0.252604" src="group2" zpos="1.003">
+			<vector id="card2" pos="0.619386,0.156601" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_tiger" pos="0.524031,0.51774" parent="card2" src="7_tiger" scalex="0.484633" scaley="0.484633" zpos="1.001" />
+		</group>
+		<group id="group3"  pos="0.792969,0.252604" src="group3" zpos="1.004">
+			<vector id="card3" pos="0.867122,0.156601" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_parrot" pos="0.493114,0.482943" parent="card3" src="7_parrot" scalex="0.635972" scaley="0.635972" zpos="1.001" />
+		</group>
+		<group id="group4"  pos="0.209961,0.501765" src="group4" zpos="1.005">
+			<vector id="card4" pos="0.123916,0.501044" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_giraffe" pos="0.533862,0.504251" parent="card4" src="7_giraffe" scalex="0.449429" scaley="0.449429" zpos="1.001" />
+		</group>
+		<group id="group5"  pos="0.404297,0.501765" src="group5" zpos="1.006">
+			<vector id="card5" pos="0.371651,0.501044" parent="boxrect" src="7_card" scalex="0.553711" scaley="0.473755" zpos="1" />
+			<vector id="7_octopus" pos="0.488701,0.485128" parent="card5" src="7_octopus" scalex="0.744055" scaley="0.744055" zpos="1.001" />
+		</group>
+	</event>
+</events>

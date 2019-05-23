@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Nilipomaliza kula epuli langu, niligeuka kumshukuru mama." frames="468236">
+		<timing id="0" start="0.000" end="1.198" startframe="0" framelength="52829" text="Nilipomaliza"/>
+		<timing id="1" start="1.862" end="2.550" startframe="82135" framelength="30306" text="kula"/>
+		<timing id="2" start="3.263" end="4.116" startframe="143908" framelength="37591" text="epuli"/>
+		<timing id="3" start="4.671" end="5.419" startframe="206010" framelength="32978" text="langu"/>
+		<timing id="4" start="6.267" end="7.389" startframe="276360" framelength="49483" text="niligeuka"/>
+		<timing id="5" start="8.158" end="9.235" startframe="359773" framelength="47507" text="kumshukuru"/>
+		<timing id="6" start="10.027" end="10.618" startframe="442169" framelength="26067" text="mama"/>
+	</timings>
+</xml>

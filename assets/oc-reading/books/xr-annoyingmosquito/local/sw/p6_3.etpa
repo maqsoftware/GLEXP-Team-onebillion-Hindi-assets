@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p6_3.aif</url>
+	<relurl>p6_3.aif</relurl>
+	<timings text="Sauti ilienda huku na huko na juu na chini chumbani." frames="222222">
+		<timing id="0" start="0.000" end="0.539" startframe="0" framelength="23791" text="Sauti"/>
+		<timing id="1" start="0.539" end="1.273" startframe="23791" framelength="32367" text="ilienda"/>
+		<timing id="2" start="1.397" end="2.009" startframe="61601" framelength="26998" text="huku"/>
+		<timing id="3" start="2.009" end="2.284" startframe="88599" framelength="12139" text="na"/>
+		<timing id="4" start="2.284" end="2.892" startframe="100738" framelength="26778" text="huko"/>
+		<timing id="5" start="3.293" end="3.558" startframe="145207" framelength="11717" text="na"/>
+		<timing id="6" start="3.558" end="3.891" startframe="156924" framelength="14672" text="juu"/>
+		<timing id="7" start="3.891" end="4.083" startframe="171596" framelength="8448" text="na"/>
+		<timing id="8" start="4.083" end="4.467" startframe="180044" framelength="16939" text="chini"/>
+		<timing id="9" start="4.467" end="5.039" startframe="196983" framelength="25239" text="chumbani"/>
+	</timings>
+</xml>

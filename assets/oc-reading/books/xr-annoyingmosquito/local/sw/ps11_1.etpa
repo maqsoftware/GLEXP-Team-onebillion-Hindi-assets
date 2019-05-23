@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/ps11_1.aif</url>
+	<relurl>ps11_1.aif</relurl>
+	<timings text="Badi aliwasha taa. “Imetosha sasa, mbu!” alisema. “Nitakupata tu.”" frames="528886">
+		<timing id="0" start="0.000" end="0.738" startframe="0" framelength="32567" text="Badi"/>
+		<timing id="1" start="0.978" end="2.123" startframe="43137" framelength="50472" text="aliwasha"/>
+		<timing id="2" start="2.498" end="3.032" startframe="110153" framelength="23559" text="taa"/>
+		<timing id="3" start="4.432" end="5.573" startframe="195463" framelength="50321" text="Imetosha"/>
+		<timing id="4" start="6.082" end="6.776" startframe="268227" framelength="30616" text="sasa"/>
+		<timing id="5" start="7.426" end="8.129" startframe="327502" framelength="30995" text="mbu"/>
+		<timing id="6" start="8.656" end="9.720" startframe="381749" framelength="46906" text="alisema"/>
+		<timing id="7" start="10.104" end="11.324" startframe="445594" framelength="53797" text="Nitakupata"/>
+		<timing id="8" start="11.664" end="11.993" startframe="514394" framelength="14492" text="tu"/>
+	</timings>
+</xml>

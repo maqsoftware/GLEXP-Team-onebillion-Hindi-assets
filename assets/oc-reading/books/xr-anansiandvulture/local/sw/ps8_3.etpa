@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps8_3.aif</url>
+	<relurl>ps8_3.aif</relurl>
+	<timings text="Lakini Tai hakukubali." frames="236680">
+		<timing id="0" start="0.000" end="0.799" startframe="0" framelength="35214" text="Lakini"/>
+		<timing id="1" start="2.336" end="2.830" startframe="103026" framelength="21775" text="Tai"/>
+		<timing id="2" start="4.451" end="5.367" startframe="196271" framelength="40409" text="hakukubali"/>
+	</timings>
+</xml>

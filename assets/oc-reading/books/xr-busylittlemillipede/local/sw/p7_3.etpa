@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p7_3.aif</url>
+	<relurl>p7_3.aif</relurl>
+	<timings text="Kisha akaruka na kwenda zake." frames="84312">
+		<timing id="0" start="0.000" end="0.379" startframe="0" framelength="16707" text="Kisha"/>
+		<timing id="1" start="0.379" end="0.977" startframe="16707" framelength="26371" text="akaruka"/>
+		<timing id="2" start="0.977" end="1.136" startframe="43078" framelength="7001" text="na"/>
+		<timing id="3" start="1.136" end="1.461" startframe="50079" framelength="14346" text="kwenda"/>
+		<timing id="4" start="1.461" end="1.912" startframe="64425" framelength="19887" text="zake"/>
+	</timings>
+</xml>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Mati akatembea usiku kucha. Alichoka, lakini hakukata tamaa." frames="546248">
+		<timing id="0" start="0.000" end="0.761" startframe="0" framelength="33556" text="Mati"/>
+		<timing id="1" start="1.631" end="2.799" startframe="71921" framelength="51530" text="akatembea"/>
+		<timing id="2" start="3.361" end="4.308" startframe="148214" framelength="41779" text="usiku"/>
+		<timing id="3" start="5.063" end="5.857" startframe="223286" framelength="35007" text="kucha"/>
+		<timing id="4" start="6.509" end="7.622" startframe="287050" framelength="49088" text="Alichoka"/>
+		<timing id="5" start="8.262" end="9.231" startframe="364353" framelength="42740" text="lakini"/>
+		<timing id="6" start="9.882" end="10.947" startframe="435792" framelength="46973" text="hakukata"/>
+		<timing id="7" start="11.656" end="12.387" startframe="514014" framelength="32234" text="tamaa"/>
+	</timings>
+</xml>

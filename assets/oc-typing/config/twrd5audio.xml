@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170306.092944267">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>twrd5_nowletspractisetypingletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>twrd5_nowletspractisetypingthecapitalletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>twrd5_listen</phrase>
+			<phrase>twrd5_itouchtheletterwiththatname</phrase>
+			<phrase>twrd5_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>twrd5_nowletspractisetypingletters</phrase>
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO2">
+			<phrase>twrd5_nowletspractisetypingthecapitalletters</phrase>
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>twrd5_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="DEMO">
+			<phrase>twrd5_letsdosomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd5_touchtheletterwiththisname</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>twrd5_excellentyoutypedlettersbyname</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>twrd5_welldoneyoutypedcapitallettersbyname</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineshow">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

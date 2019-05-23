@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl5_hawakupenda.aif</url>
+	<relurl>psyl5_hawakupenda.aif</relurl>
+	<timings text="ha - wa - ku - pe - nda" frames="142666">
+		<timing id="0" start="0.000" end="0.469" startframe="0" framelength="20695" text="ha"/>
+		<timing id="1" start="0.681" end="1.227" startframe="30016" framelength="24111" text="wa"/>
+		<timing id="2" start="1.436" end="1.919" startframe="63336" framelength="21276" text="ku"/>
+		<timing id="3" start="2.128" end="2.597" startframe="93854" framelength="20660" text="pe"/>
+		<timing id="4" start="2.804" end="3.235" startframe="123666" framelength="19000" text="nda"/>
+	</timings>
+</xml>

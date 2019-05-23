@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-mydogmaxEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>My dog Max</para>
+	</page>
+	<page pageno="1">
+		<para>My name is Peng.</para>
+	</page>
+	<page pageno="2">
+		<para>I have a dog.</para>
+	</page>
+	<page pageno="3">
+		<para>His name is Max.</para>
+	</page>
+	<page pageno="4">
+		<para>I love Max.</para>
+	</page>
+	<page pageno="5">
+		<para>Max loves me.</para>
+	</page>
+	<page pageno="6">
+		<para>Max can jump high.</para>
+	</page>
+	<page pageno="7">
+		<para>Max can jump high/er than me!</para>
+	</page>
+	<page pageno="8">
+		<para>Max can jump o/ver me.</para>
+	</page>
+	<page pageno="9">
+		<para>Be care/ful, Max!</para>
+	</page>
+</book>

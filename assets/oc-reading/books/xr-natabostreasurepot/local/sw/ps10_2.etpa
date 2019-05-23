@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps10_2.aif</url>
+	<relurl>ps10_2.aif</relurl>
+	<timings text="“Nimefurahi sana kukuona,” alisema Adia. “Nilipofika nyumbani kwako, wote walikuwepo isipokuwa wewe. Nina zawadi kwako.”" frames="1083741">
+		<timing id="0" start="0.000" end="1.201" startframe="0" framelength="52952" text="Nimefurahi"/>
+		<timing id="1" start="1.943" end="2.731" startframe="85667" framelength="34750" text="sana"/>
+		<timing id="2" start="3.424" end="4.442" startframe="150992" framelength="44910" text="kukuona"/>
+		<timing id="3" start="5.022" end="6.200" startframe="221485" framelength="51927" text="alisema"/>
+		<timing id="4" start="6.871" end="7.873" startframe="303027" framelength="44164" text="Adia"/>
+		<timing id="5" start="8.961" end="10.124" startframe="395167" framelength="51296" text="Nilipofika"/>
+		<timing id="6" start="10.804" end="11.781" startframe="476471" framelength="43089" text="nyumbani"/>
+		<timing id="7" start="12.675" end="13.473" startframe="558986" framelength="35159" text="kwako"/>
+		<timing id="8" start="14.137" end="15.043" startframe="623440" framelength="39951" text="wote"/>
+		<timing id="9" start="15.691" end="16.853" startframe="691983" framelength="51238" text="walikuwepo"/>
+		<timing id="10" start="17.528" end="18.686" startframe="772996" framelength="51047" text="isipokuwa"/>
+		<timing id="11" start="19.324" end="20.173" startframe="852203" framelength="37448" text="wewe"/>
+		<timing id="12" start="20.889" end="21.661" startframe="921210" framelength="34056" text="Nina"/>
+		<timing id="13" start="22.327" end="23.260" startframe="984623" framelength="41124" text="zawadi"/>
+		<timing id="14" start="23.995" end="24.575" startframe="1058182" framelength="25559" text="kwako"/>
+	</timings>
+</xml>

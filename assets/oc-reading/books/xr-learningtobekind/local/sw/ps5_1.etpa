@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps5_1.aif</url>
+	<relurl>ps5_1.aif</relurl>
+	<timings text="Siku hiyo, Ramila alikutana na Neema katika njia panda karibu na kwao." frames="767077">
+		<timing id="0" start="0.000" end="0.692" startframe="0" framelength="30529" text="Siku"/>
+		<timing id="1" start="1.606" end="2.265" startframe="70810" framelength="29068" text="hiyo"/>
+		<timing id="2" start="3.031" end="4.008" startframe="133678" framelength="43053" text="Ramila"/>
+		<timing id="3" start="4.745" end="5.884" startframe="209234" framelength="50262" text="alikutana"/>
+		<timing id="4" start="6.607" end="7.261" startframe="291369" framelength="28854" text="na"/>
+		<timing id="5" start="7.853" end="8.757" startframe="346299" framelength="39863" text="Neema"/>
+		<timing id="6" start="9.394" end="10.285" startframe="414263" framelength="39303" text="katika"/>
+		<timing id="7" start="10.905" end="11.753" startframe="480898" framelength="37408" text="njia"/>
+		<timing id="8" start="12.485" end="13.135" startframe="550608" framelength="28631" text="panda"/>
+		<timing id="9" start="13.830" end="14.630" startframe="609916" framelength="35262" text="karibu"/>
+		<timing id="10" start="15.460" end="15.945" startframe="681790" framelength="21389" text="na"/>
+		<timing id="11" start="16.734" end="17.394" startframe="737989" framelength="29088" text="kwao"/>
+	</timings>
+</xml>

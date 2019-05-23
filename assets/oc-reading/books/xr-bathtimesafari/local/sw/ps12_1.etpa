@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps12_1.aif</url>
+	<relurl>ps12_1.aif</relurl>
+	<timings text="Ni Simba! Simba ananguruma. Ana meno makubwa na makali na manyoya ya rangi ya machungwa. Jack anaogelea upande wa pili wa bafu!" frames="1939389">
+		<timing id="0" start="0.000" end="0.626" startframe="0" framelength="27615" text="Ni"/>
+		<timing id="1" start="1.634" end="2.713" startframe="72077" framelength="47549" text="Simba"/>
+		<timing id="2" start="3.757" end="5.024" startframe="165679" framelength="55879" text="Simba"/>
+		<timing id="3" start="6.007" end="7.241" startframe="264895" framelength="54455" text="ananguruma"/>
+		<timing id="4" start="8.568" end="9.513" startframe="377850" framelength="41658" text="Ana"/>
+		<timing id="5" start="10.611" end="11.725" startframe="467961" framelength="49101" text="meno"/>
+		<timing id="6" start="12.764" end="13.797" startframe="562876" framelength="45554" text="makubwa"/>
+		<timing id="7" start="14.966" end="15.720" startframe="659992" framelength="33262" text="na"/>
+		<timing id="8" start="16.852" end="18.103" startframe="743170" framelength="55186" text="makali"/>
+		<timing id="9" start="19.117" end="19.942" startframe="843079" framelength="36360" text="na"/>
+		<timing id="10" start="20.995" end="22.182" startframe="925858" framelength="52348" text="manyoya"/>
+		<timing id="11" start="23.202" end="24.036" startframe="1023195" framelength="36778" text="ya"/>
+		<timing id="12" start="25.119" end="26.106" startframe="1107753" framelength="43509" text="rangi"/>
+		<timing id="13" start="27.240" end="28.011" startframe="1201283" framelength="34016" text="ya"/>
+		<timing id="14" start="29.187" end="30.242" startframe="1287160" framelength="46519" text="machungwa"/>
+		<timing id="15" start="31.115" end="32.174" startframe="1372150" framelength="46729" text="Jack"/>
+		<timing id="16" start="33.486" end="34.684" startframe="1476714" framelength="52864" text="anaogelea"/>
+		<timing id="17" start="36.102" end="37.109" startframe="1592085" framelength="44435" text="upande"/>
+		<timing id="18" start="37.888" end="38.656" startframe="1670857" framelength="33889" text="wa"/>
+		<timing id="19" start="39.634" end="40.592" startframe="1747845" framelength="42245" text="pili"/>
+		<timing id="20" start="41.413" end="42.072" startframe="1826301" framelength="29056" text="wa"/>
+		<timing id="21" start="43.204" end="43.977" startframe="1905317" framelength="34072" text="bafu"/>
+	</timings>
+</xml>

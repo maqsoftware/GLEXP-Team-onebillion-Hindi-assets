@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p0_1.aif</url>
+	<relurl>p0_1.aif</relurl>
+	<timings text="Ziara yangu mjini" frames="97580">
+		<timing id="0" start="0.060" end="0.645" startframe="2657" framelength="25792" text="Ziara"/>
+		<timing id="1" start="0.645" end="1.375" startframe="28449" framelength="32209" text="yangu"/>
+		<timing id="2" start="1.610" end="2.213" startframe="71008" framelength="26572" text="mjini"/>
+	</timings>
+</xml>

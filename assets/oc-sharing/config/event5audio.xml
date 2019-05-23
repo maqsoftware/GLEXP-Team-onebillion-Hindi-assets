@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_looksixcups</phrase>
+			<phrase>5_letsputthemintoboxesinsetsofthree</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_theboxisfullineedanotherbox</phrase>
+			<phrase>5_soitouchthisbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_putallthecupsintoboxesinthrees</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putallthecupsintoboxesinthrees</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthecupsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>5_nowtouchthebuttontogetanotherbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>5_puttherestofthecupsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twoboxeswiththreecupsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimeputthecupsintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthecupsintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthecupsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>5_youneedanotherbox</phrase>
+			<phrase>5_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK2">
+			<phrase>5_andnowyouneedanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_threeboxeswithtwocupsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_eightbottlesputthemintoboxesinsetsoffour</phrase>
+			<phrase>5_whenyouneedanotherbox</phrase>
+			<phrase>5_touchthebutton_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthebottlesintoboxesinsetsoffour</phrase>
+			<phrase>5_whenyouneedanotherbox</phrase>
+			<phrase>5_touchthebutton_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthebottlesintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>5_youneedanotherbox</phrase>
+			<phrase>5_touchthebutton_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twoboxeswithfourbottlesineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowputthemintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthebottlesintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthebottlesintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fourboxeswithtwobottlesineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_therearetenjarsofjamputthemintoboxesinsetsoffive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthejarsintoboxesinsetsoffive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthejarsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twoboxeswithfivejarsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowputthemintoboxesintwos_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthejarsintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthejarsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fiveboxeswithtwojarsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_therearetwelvechocolateeggsputthemintoboxesinsetsofsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthechocolateeggsintoboxesinsetsofsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthechocolateeggsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twoboxeswithsixchocolateeggsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimeputthemintoboxesinsetsoffour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthechocolateeggsintoboxesinsetsoffour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthechocolateeggsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_threeboxeswithfourchocolateeggsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nextputthemintoboxesinthrees</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthechocolateeggsintoboxesinsetsofthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthechocolateeggsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_fourboxeswiththreechocolateeggsineachbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowputthemintoboxesintwos_5k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthechocolateeggsintoboxesintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>5_putthechocolateeggsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyboxesdidyoufill</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_sixboxeswithtwochocolateeggsineachbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_excellentyousharedthingsouttofillboxesofdifferentsizes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>
