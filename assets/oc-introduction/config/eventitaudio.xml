@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="it0">
+		<phrasegroup id="DEMO">
+			<phrase>it_letshavealittlepractice</phrase>
+			<phrase>it_firstyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>it_nowwatchitouchthetruckwiththetipofmyfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it1">
+		<phrasegroup id="PROMPT">
+			<phrase>it_yourturn</phrase>
+			<phrase>it_touchthetruckwiththetipofyourfingergently</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_touchthetruckwiththetipofyourfingergently</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it2">
+		<phrasegroup id="PROMPT">
+			<phrase>it_touchthebananasgently</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_touchthebananasgently</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it3">
+		<phrasegroup id="PROMPT">
+			<phrase>it_touchtheleaf</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_touchtheleaf</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it4">
+		<phrasegroup id="PROMPT">
+			<phrase>it_touchthepea</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_touchthepea</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it5">
+		<phrasegroup id="DEMO">
+			<phrase>it_nextilldragtheballintothebox</phrase>
+			<phrase>it_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it6">
+		<phrasegroup id="PROMPT">
+			<phrase>it_dragtheballintotheboxthentakeyourfingeraway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_dragtheballintotheboxthentakeyourfingeraway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it7">
+		<phrasegroup id="PROMPT">
+			<phrase>it_dragalltheballsintothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_dragalltheballsintothebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it8">
+		<phrasegroup id="DEMO">
+			<phrase>it_nowtouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="it9">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>it_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>it_welldoneyouknowwhattodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tock">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="oldtap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="alt_tap1">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="alt_tap3">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512px" height="512px" viewBox = "0 0 512 512">
+<g transform="translate(0,512) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="Rectangle1" d="M6 6L506 6L506 506L6 506Z" stroke="rgb(99.3%,59.7%,8.69%)" stroke-width="5" fill="rgb(98.3%,76.3%,14.5%)"  />
+		<path id="vline2" d="M106 6L106 504.9M306 6L306 504.9M156 6L156 504.9M206 6L206 504.9M356 6L356 504.9M406 6L406 504.9M256 6L256 504.9M56 6L56 504.9M456 6L456 504.9" stroke="rgb(99.3%,59.7%,8.69%)" stroke-width="5" fill="rgb(98.3%,76.3%,14.5%)"  />
+		<path id="hline4" d="M6 206L506 206M6 356L506 356M6 56L506 56M6 406L506 406M6 256L506 256M6 456L506 456M6 106L506 106M6 306L506 306M6 156L506 156" stroke="rgb(99.3%,59.7%,8.69%)" stroke-width="5" fill="rgb(100%,100%,100%)"  />
+	</g>
+</g>
+</svg>

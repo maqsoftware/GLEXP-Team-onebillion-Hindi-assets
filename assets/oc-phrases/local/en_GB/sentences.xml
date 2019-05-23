@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sentences>
+    <sentence id="se1" type="sentences" imagename="ph_cat_in_hat">The cat has a red hat.</sentence>
+    <sentence id="se2" type="sentences" imagename="ph_boy_with_dog_in_bag">The boy put his dog in a big bag.</sentence>
+    <sentence id="se3" type="sentences" imagename="ph_duck_in_grass">The duck is off to the pond.</sentence>
+    <sentence id="se3a" type="sentences" imagename="ph_mouse_on_shelf">There is a mouse on the shelf.</sentence>
+    <sentence id="se3b" type="sentences" imagename="ph_bottle_with_flower">My mum put a yellow flower in the green bottle. </sentence>
+    <sentence id="se3c" type="sentences" imagename="ph_bowl_with_sweets">There are sweets in the bowl but I will not eat them. </sentence>
+    <sentence id="se3d" type="sentences" imagename="ph_boat_on_lake">I saw a boy in a boat on the lake.</sentence>
+    <sentence id="se3e" type="sentences" imagename="ph_goat_with_balloon">The happy goat has a pink balloon. </sentence>
+    <sentence id="se4" type="sentences" imagename="ph_camel_at_door">The cam/el is at the door.</sentence>
+    <sentence id="se5" type="sentences" imagename="ph_carrot_and_mushroom">Chop the car/rot and mush/room.</sentence>
+    <sentence id="se6" type="sentences" imagename="ph_cat_in_hat">The cat put her hat on, and set off for town.</sentence>
+    <sentence id="se7" type="sentences" imagename="ph_boy_with_dog_in_bag">The big dog is black, and his bas/ket is red.</sentence>
+    <sentence id="se8" type="sentences" imagename="ph_duck_in_grass">The duck is look/ing for her duck/lings, which the fox took.</sentence>
+    <sentence id="se9" type="sentences" imagename="ph_camel_at_door">The cam/el wait/ed at the door, but Tom did not come out.</sentence>
+    <sentence id="se10" type="sentences" imagename="ph_carrot_and_mushroom">There is just one car/rot left, and one mush/room.</sentence>
+    <sentence id="se11" type="sentences" imagename="ph_cat_in_hat">Have you ev/er seen a cat with a hat?</sentence>
+    <sentence id="se12" type="sentences" imagename="ph_boy_with_dog_in_bag">Why is the dog sit/ting in that big bag?</sentence>
+    <sentence id="se13" type="sentences" imagename="ph_duck_in_grass">Do all ducks look like this one?</sentence>
+    <sentence id="se14" type="sentences" imagename="ph_camel_at_door">Why is that cam/el stand/ing at my door?</sentence>
+    <sentence id="se15" type="sentences" imagename="ph_carrot_and_mushroom">Where are the rest of the car/rots and mush/rooms?</sentence>
+    <sentence id="se16" type="sentences" imagename="ph_cat_in_hat">What a smart red hat!</sentence>
+    <sentence id="se17" type="sentences" imagename="ph_boy_with_dog_in_bag">I want a big dog like that one!</sentence>
+    <sentence id="se18" type="sentences" imagename="ph_duck_in_grass">The poor duck has lost its duck/lings!</sentence>
+    <sentence id="se19" type="sentences" imagename="ph_camel_at_door">Help! There is a cam/el at my door!</sentence>
+    <sentence id="se20" type="sentences" imagename="ph_carrot_and_mushroom">No! I do not eat car/rots or mush/rooms!</sentence>
+    <sentence id="se21" type="sentences" imagename="ph_cat_in_hat">"I am off to the ci/ne/ma," said the cat.</sentence>
+    <sentence id="se22" type="sentences" imagename="ph_boy_with_dog_in_bag">"His name is Big Dog," said the boy.</sentence>
+    <sentence id="se23" type="sentences" imagename="ph_duck_in_grass">"I could eat that duck for sup/per," thought the fox.</sentence>
+    <sentence id="se24" type="sentences" imagename="ph_camel_at_door">"No! We can/not let the cam/el in," said mum. "He is too tall."</sentence>
+    <sentence id="se25" type="sentences" imagename="ph_carrot_and_mushroom">"We need more car/rots and mush/rooms," yelled grand/ma.</sentence>
+</sentences>

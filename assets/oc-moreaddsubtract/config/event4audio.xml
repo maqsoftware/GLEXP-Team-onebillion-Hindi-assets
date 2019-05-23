@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.093401893">
+	<event id="4a2">
+		<phrasegroup id="DEMO">
+			<phrase>4_letspractiseadding</phrase>
+			<phrase>4_looktwelve</phrase>
+			<phrase>4_whatstwelveplusfour</phrase>
+			<phrase>4_letsuseanumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_itstartsattwelve</phrase>
+			<phrase>4_toaddfouridofourjumps</phrase>
+			<phrase>4_watchme</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_fourjumpsbringmetosixteen</phrase>
+			<phrase>4_soitouchsixteen</phrase>
+			<phrase>4_twelve</phrase>
+			<phrase>4_plus</phrase>
+			<phrase>4_four_4a2</phrase>
+			<phrase>4_equals</phrase>
+			<phrase>4_sixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_nine</phrase>
+			<phrase>4_iwantyoutoaddfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_sotouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowtouchthebuttonfivetimes</phrase>
+			<phrase>4_countasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_nowtouchthebuttonfivetimes</phrase>
+			<phrase>4_countasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_goodyoudidfivejumps</phrase>
+			<phrase>4_nine_4b</phrase>
+			<phrase>4_plus_4b</phrase>
+			<phrase>4_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_nowtouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND3">
+			<phrase>4_touchtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_yes</phrase>
+			<phrase>4_nineplusfiveequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="DEMO">
+			<phrase>4_nexttenplusseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_addseven</phrase>
+			<phrase>4_countasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addseven</phrase>
+			<phrase>4_countasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_sowhatistenplusseven</phrase>
+			<phrase>4_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_tenplussevenequalsseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="DEMO">
+			<phrase>4_whatstwelveplusthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowaddthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_usethebuttontoaddthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND2">
+			<phrase>4_usethebuttontoaddthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twelveplusthreeequalsfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowfindfifteenplusfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_addfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fifteenplusfiveequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="DEMO">
+			<phrase>4_trytenplusten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_addten</phrase>
+			<phrase>4_countasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_sowhatstenplusten</phrase>
+			<phrase>4_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>4_letsseemoreoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_tenplustenequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowfiveplusnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_addnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_whatsfiveplusnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fiveplusnineequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="DEMO">
+			<phrase>4_nextthreeplusten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowaddten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_whatsthreeplusten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_threeplustenequalsthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="DEMO">
+			<phrase>4_thelastonetwoplustwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_addtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_addtwelve_4k</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twoplustwelveequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_whichnumberdidyoujumpto</phrase>
+			<phrase>4_touchit_4b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale4k">
+		<phrasegroup id="DEMO">
+			<phrase>4_greatyouusedanumberlineforadding</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="DEMO">
+			<phrase>4_letspractiseadding</phrase>
+			<phrase>4_look</phrase>
+			<phrase>4_tenplusfiveequals</phrase>
+			<phrase>4_what</phrase>
+			<phrase>4_itouchthenumberline</phrase>
+			<phrase>4_idofivejumps</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four_4a2</phrase>
+			<phrase>4_five_4l</phrase>
+			<phrase>4_thenitouchtheanswer</phrase>
+			<phrase>4_tenplusfiveequalsfifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_whatiseightplussix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_dosixjumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+			<phrase>4_ifyoujumptoofartouchthisboxtostartagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_dosixjumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REMINDER">
+			<phrase>4_nowtouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_eightplussixequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_dosixjumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_dosixjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="DEMO">
+			<phrase>4_heresanotheroneforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_dothreejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_dothreejumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_elevenplusthreeequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_dothreejumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>4_dothreejumps</phrase>
+			<phrase>4_thentouchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT">
+			<phrase>4_youknowwhattodo_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowdothejumps</phrase>
+			<phrase>4_dontforgettocountasyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fourteenplussixequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_dosixjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="PROMPT">
+			<phrase>4_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_dothejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twentyplusfiveequalstwentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_addfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whatistenplusnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_youknowwhattodo_4o</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_tenplusnineequalsnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_addnine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_threepluselevenequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_dontforgettocountasyougo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t">
+		<phrasegroup id="PROMPT">
+			<phrase>4_andthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sevenplustwelveequalsnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_welldoneyoupractisedadditionusinganumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equcomplete">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpress">
+			<phrase>boing_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numpopon">
+			<phrase>thud_short_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="objectson">
+			<phrase>note_beepy_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberpress">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="plusarc">
+			<phrase>boing_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineon">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="linetouch">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

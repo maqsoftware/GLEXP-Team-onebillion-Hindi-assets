@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170306.092944267">
+	<event id="11">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_letstypewords</phrase>
+			<phrase>twrd2_listen</phrase>
+			<phrase>twrd2_nowwatchme</phrase>
+		</phrasegroup>
+	</event>
+	<event id="21">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_yourturn</phrase>
+			<phrase>twrd2_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>twrd2_letstypewords</phrase>
+			<phrase>twrd2_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>twrd2_nowtypetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>twrd2_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="22">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_nowseeifyoucantypeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>twrd2_welldone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="31">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_nexttypethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="32">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="41">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="42">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default1">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default2">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last1">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_andthelastword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last2">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd2_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>twrd2_verygoodyoutypedwords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineshow">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

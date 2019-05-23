@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171128.070706736">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>phmake_letslisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>phmake_nowwatchme</phrase>
+			<phrase>phmake_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>phmake_getreadytolisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>phmake_thendragthewordstotheredlineintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>phmake_andrememberthisletsyoulistenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>phmake_listenthendragthewordstotheredlineintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>phmake_listenthendragthecorrectwordtotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="INTRO">
+			<phrase>phmake_letsdosomemore</phrase>
+			<phrase>phmake_youknowwhattodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>phmake_verygoodyouputwordsintherightordertomatchwhatyouheard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff" vol="0.5">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="line" vol="0.5">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="puncon">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

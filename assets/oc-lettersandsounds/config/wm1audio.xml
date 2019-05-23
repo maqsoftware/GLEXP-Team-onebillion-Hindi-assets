@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>wm1_letsmatchwordsandpictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO2">
+			<phrase>wm1_look</phrase>
+			<phrase>wm1_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>wm1_choosethecorrectword</phrase>
+			<phrase>wm1_putithere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT.REPEAT">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wm1_tryagain</phrase>
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>wm1_good</phrase>
+			<phrase>wm1_nowtrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wm1_movethecorrectwordtotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>wm1_verygoodyoumatchedwordstopictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slideon">
+			<phrase>wall_slide_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordson">
+			<phrase>paper_scrunch_1_quieter_shorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordonline">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="bigoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

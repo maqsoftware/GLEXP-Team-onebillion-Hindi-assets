@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" textcolour="78,78,78" linecolour="149,143,114" scenes="1a,1e,1f,1g,1h,1i,1j,1k,1l,1m,1n,1o,1p" hilitecolour="255,250,64" hilitecolour2="169,234,255" colour="202,251,172" >
+		<rectangle id="workrect" pos="0.500057,0.530815" src="workrect" fill="185,170,150" zpos="0" hidden="true" heighttrackswidth="true" x="0.0498047" y="0.176717" width="0.900505" height="0.708196" pxwidth="922.117" pxheight="543.895" />
+	</event>
+	<event id="1a" >
+	</event>
+	<event id="1e" target="column" column="10" numcolour="162,106,230" >
+	</event>
+	<event id="1f" target="column" column="5" numcolour="77,152,71" >
+	</event>
+	<event id="1g" target="column" column="2" numcolour="169,142,94" reset="true" >
+	</event>
+	<event id="1h" target="box" column="6" num="16,26,36" numcolour="246,113,172" >
+	</event>
+	<event id="1i" target="box" column="9" num="39,49,59" numcolour="103,140,171" >
+	</event>
+	<event id="1j" target="box" column="1" num="71,81,91" numcolour="215,172,0" reset="true" >
+	</event>
+	<event id="1k" target="mask" column="2" masks="12,47,71,28" maskcolour="101,255,239" numcolour="49,165,214" >
+	</event>
+	<event id="1l" target="mask" column="3" masks="23,80,71,54" maskcolour="179,77,251" numcolour="49,165,214" >
+	</event>
+	<event id="1m" target="mask" column="7" masks="37,66,14,80,89" maskcolour="65,217,108" numcolour="58,127,144" >
+	</event>
+	<event id="1n" target="mask" column="8" masks="68,77,76,22,86" maskcolour="255,162,0" numcolour="241,146,10" >
+	</event>
+	<event id="1o" target="mask" column="4" masks="54,45,63,59,21,27" maskcolour="163,255,55" numcolour="77,152,71" >
+	</event>
+	<event id="1p" target="mask" column="5" masks="75,57,22,69,16,82" maskcolour="66,146,255" numcolour="103,140,171" >
+	</event>
+</events>

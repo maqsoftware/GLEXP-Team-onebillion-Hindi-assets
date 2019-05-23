@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180525.081000551">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>tst_nowyoulltypesentences</phrase>
+			<phrase>tst_youllshowcapitallettersandfullstops</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>tst_itsfun</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>tst_nowyoulltypesentences</phrase>
+			<phrase>tst_youllshowcapitallettersandfullstops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>tst_look</phrase>
+			<phrase>tst_nowwatchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>tst_asentencebeginswithacapitalletter</phrase>
+			<phrase>tst_nowfortheotherletters</phrase>
+			<phrase>tst_asentenceendswithafullstop</phrase>
+			<phrase>tst_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>tst_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="PROMPT">
+			<phrase>tst_typethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tst_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>tst_youvestartedwithacapitalletter</phrase>
+			<phrase>tst_nowtypetheotherletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>tst_youvefinishedwithafullstop</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>tst_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tst_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>tst_showthefullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT">
+			<phrase>tst_letsdosomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tst_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tst_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>tst_showthefullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tst_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tst_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>tst_showthefullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tst_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tst_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>tst_showthefullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last">
+		<phrasegroup id="PROMPT">
+			<phrase>tst_andthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tst_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>tst_showthefullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>tst_verygoodyoutypedsentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineshow">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="phraseon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="phraseoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="sentenceon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="sentenceoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="spacebar">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="fullstop">
+			<phrase>single_click_light_shorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="grey">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="keyswitch1">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="keyswitch2">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+	</event>
+</audio>

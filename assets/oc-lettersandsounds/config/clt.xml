@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="a,b,c,d,e,f,g,h,i,j,k" >
+		<rectangle id="letterrect" pos="0.5,0.502508" src="letterrect" fill="255,38,0" fillopacity="0.192224" zpos="0" hidden="true" widthtracksheight="true" x="0.299839" y="0.213715" width="0.400322" height="0.577586" pxwidth="409.93" pxheight="443.586" />
+	</event>
+	<event id="a" >
+		<rectangle id="letterswatch" pos="0.166494,0.259511" src="letterswatch" fill="255,39,32" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" x="0.133553" y="0.21284" width="0.0658836" height="0.0933431" />
+	</event>
+	<event id="f" >
+		<circle id="dot2" pos="0.185714,0.533493" src="dot2" fill="56,85,255" stroke="0,0,0" strokewidth="1" zpos="2.002" widthtracksheight="true" x="0.169113" y="0.511358" width="0.0332031" height="0.0442708" pxwidth="34" pxheight="34" />
+		<rectangle id="greyswatch" pos="0.195791,0.220449" src="greyswatch" fill="239,239,239" stroke="0,0,0" strokewidth="1" zpos="2.001" hidden="true" x="0.162849" y="0.173777" width="0.0658836" height="0.0933431" />
+		<rectangle id="orangeswatch" pos="0.170839,0.346771" src="orangeswatch" fill="255,167,92" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" x="0.137897" y="0.3001" width="0.0658836" height="0.0933431" />
+	</event>
+</events>

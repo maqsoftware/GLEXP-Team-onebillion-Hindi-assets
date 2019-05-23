@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171127.114129649">
+	<event id="trace_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw1_nowletspractisewriting</phrase>
+			<phrase>hw1_itsfun</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw1_letswriteletters</phrase>
+			<phrase>hw1_watch</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>hw1_nowilltrace</phrase>
+			<phrase>hw1_finishedsoipressthearrow</phrase>
+			<phrase>hw1_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>hw1_letswriteletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>hw1_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO5">
+			<phrase>hw1_tracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>hw1_youcanruboutwiththis</phrase>
+			<phrase>hw1_touchthearrowwhenyouarehappywithyourletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_tracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw1_lookwhatyouwrote</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw1_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMIND">
+			<phrase>hw1_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_2">
+		<phrasegroup id="DEMO">
+			<phrase>hw1_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_3">
+		<phrasegroup id="DEMO">
+			<phrase>hw1_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw1_nowwritetheletterinhereallbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>hw1_nowwritethelettersinhereallbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_writetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw1_seeifyoucanwritebyyourself</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw1_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw1_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_3">
+		<phrasegroup id="PROMPT">
+			<phrase>hw1_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw1_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw1_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw1_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>hw1_goodyouhadachancetowritethisletter</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="letteron">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteroff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_water_droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="guidewipe">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrow">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="guideon">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

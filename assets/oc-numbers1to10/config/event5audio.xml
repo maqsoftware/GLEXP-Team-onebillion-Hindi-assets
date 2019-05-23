@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_letscounttheflowers</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_six</phrase>
+			<phrase>5_seven</phrase>
+			<phrase>5_sevenflowersaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_howmanyflowersaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyflowersaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanyflowersarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyfrogsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyfrogsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanyfrogsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyorangesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyorangesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanyorangesarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanystarsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanycupsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanycupsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanycupsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanyforksarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_brilliantyoucountedhowmanythingstherewerealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

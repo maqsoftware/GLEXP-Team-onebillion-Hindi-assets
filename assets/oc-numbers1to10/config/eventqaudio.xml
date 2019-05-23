@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="q1">
+		<phrasegroup id="NONE">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2">
+		<phrasegroup id="NONE">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3">
+		<phrasegroup id="NONE">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_dragthemissingnumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyfrogsarethere</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyfrogsarethere</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyapplesarethere</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyapplesarethere_q5</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q6">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanystarsarethere</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanystarsarethere</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q7">
+		<phrasegroup id="NONE">
+			<phrase>q_whichnumberisonemorethanfour</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichnumberisonemorethanfour</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q8">
+		<phrasegroup id="NONE">
+			<phrase>q_whichnumberisonemorethanseven</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichnumberisonemorethanseven</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q9">
+		<phrasegroup id="NONE">
+			<phrase>q_whichnumberisonelessthaneight</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichnumberisonelessthaneight</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q10">
+		<phrasegroup id="NONE">
+			<phrase>q_whichnumberisonelessthanthree</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichnumberisonelessthanthree</phrase>
+			<phrase>q_touchitthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

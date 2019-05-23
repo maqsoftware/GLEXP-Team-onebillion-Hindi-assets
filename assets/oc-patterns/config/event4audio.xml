@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookattheselines</phrase>
+			<phrase>4_theyareallstraightlines</phrase>
+			<phrase>4_nowlookattheselines</phrase>
+			<phrase>4_theyarecurved</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_choosethestraightline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosethestraightline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethestraightline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethecurvedline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosethecurvedline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethecurvedline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_chooseallthestraightlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_chooseallthestraightlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_chooseonlystraightlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_chooseallthecurvedlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_chooseallthecurvedlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_chooseonlycurvedlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_iamfollowingtheredcirclewithmyfinger</phrase>
+			<phrase>4_itsastraightline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_followthegreencirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_astraightline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_followtheorangecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_anotherstraightline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_followthebluecircle</phrase>
+			<phrase>4_becareful</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_acurvedline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_anothercurvedline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_trythisone</phrase>
+			<phrase>4_takecare</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thisisazigzaglineitismadeupofstraightlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thisisawavylinemadeupofcurves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowfollowthiscircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_followthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT5">
+			<phrase>4_onelastcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT5">
+			<phrase>4_followthecirclewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_itisadinosaur</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_verygoodyoumetstraightandcurvedlinesandyoumadeapicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

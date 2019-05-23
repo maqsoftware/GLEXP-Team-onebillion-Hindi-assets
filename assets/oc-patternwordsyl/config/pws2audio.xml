@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171204.122557361">
+	<event id="bag">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_letsworkonsyllables</phrase>
+			<phrase>pws2_touchthesyllablebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_touchthesyllablebag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws2_touchthesyllablebag</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_1">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_watchme</phrase>
+			<phrase>pws2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws2_tryagain</phrase>
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_2">
+		<phrasegroup id="PROMPT">
+			<phrase>pws2_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_dragthesyllabletoitsmatchingsyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="pattern">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_letsputtheminorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>pws2_nowlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_1">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_nexttouchthesyllableyouhearandsayittoo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws2_tryagain</phrase>
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_2">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_goodnowdotherest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws2_tryagain</phrase>
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws2_tryagain</phrase>
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws2_touchthissyllable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>pws2_welldoneyoumatchedsyllables</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="lineup" vol="1.4">
+			<phrase>beetle_wings_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="bagon">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="bagshake">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="outofbag">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="backtobag">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordswap">
+			<phrase>slide_tear</phrase>
+		</phrasegroup>
+	</event>
+</audio>

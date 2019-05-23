@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="58" >
+		<rectangle id="bottomrect" pos="0.499931,0.873311" src="bottomrect" fill="181,255,252" stroke="0,0,0" strokewidth="0.25" zpos="0" x="-0.00772095" y="0.739049" width="1.0153" height="0.268524" />
+		<rectangle id="imagebox" pos="0.498047,0.260417" src="imagebox" fill="181,255,252" stroke="0,0,0" strokewidth="1" zpos="0.001" hidden="true" widthtracksheight="true" x="0.108398" y="0.0455729" width="0.779297" height="0.429688" pxwidth="798" pxheight="330" />
+		<rectangle id="muddlebox" pos="0.50042,0.843328" src="muddlebox" zpos="0.004" x="0.082325" y="0.785212" width="0.836189" height="0.116231" />
+		<rectangle id="textbox" pos="0.50042,0.616364" src="textbox" zpos="0.002" x="0.082325" y="0.558248" width="0.836189" height="0.116231" />
+		<path id="underline" pos="0.141954,0.615885" src="underline" stroke="255,38,0" strokewidth="3" zpos="0.003" d="M0.08948 0.6159L0.1944 0.6159" />
+	</event>
+</events>

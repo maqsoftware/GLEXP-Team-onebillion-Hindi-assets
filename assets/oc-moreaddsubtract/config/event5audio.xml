@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.093401893">
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookwhatstenminusthree</phrase>
+			<phrase>5_letsuseanumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_itendsatten</phrase>
+			<phrase>5_idothreejumpsback</phrase>
+			<phrase>5_watchme</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_sowhatstenminusthree</phrase>
+			<phrase>5_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_sowhatstenminusthree</phrase>
+			<phrase>5_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_tenminusthreeequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidijumptoonthenumberline</phrase>
+			<phrase>5_touchit_5a</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="DEMO">
+			<phrase>5_fourteen</phrase>
+			<phrase>5_takeawayfourorsubtractfour</phrase>
+			<phrase>5_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_usethebuttontosubtractfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontosubtractfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_sowhatsfourteenminusfour</phrase>
+			<phrase>5_findtheanswer_5b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_sowhatsfourteenminusfour</phrase>
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fourteenminusfourequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumptoonthenumberline</phrase>
+			<phrase>5_touchit_5a</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="DEMO">
+			<phrase>5_seventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_usethebuttontosubtractsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontosubtractsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_seventeenminussixequalseleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+			<phrase>5_chooseit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="DEMO">
+			<phrase>5_fifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_takeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_takeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fifteenminuseightequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+			<phrase>5_chooseit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="DEMO">
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_subtracttenfromit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_takeawayten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_takeawayten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_nowfindtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentyminustenequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="DEMO">
+			<phrase>5_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_nowtakeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_nowtakeawayeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eightminuseightequalszero</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="DEMO">
+			<phrase>5_thirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_subtractten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_nowsubtractten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_subtractten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_findtheanswer_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thirteenminustenequalsthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="DEMO">
+			<phrase>5_twenty_5h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_nowsubtractfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_takeawayfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentyminusfifteenequalsfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="DEMO">
+			<phrase>5_fourteen_5i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_subtractthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_subtractthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_subtractthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>5_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fourteenminusthirteenequalsone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichnumberdidyoujumpto</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale5i">
+		<phrasegroup id="DEMO">
+			<phrase>5_welldoneyousubtractedusingnumberlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="DEMO">
+			<phrase>5_looktwelveminusfive</phrase>
+			<phrase>5_whatstheanswer</phrase>
+			<phrase>5_usethenumberlinetofindit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_ifyoujumptoofartouchtheboxtostartagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REMINDER">
+			<phrase>5_whatstheanswer</phrase>
+			<phrase>5_touchit_5a</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twelveminusfiveequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_dofivejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_dofivejumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whatisthirteenminusthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_nowdojumpsandtouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thirteenminusthreeequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_dothreejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_dothreejumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_heresanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_dojumpsandfindtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_tenminusfiveequalsfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_dofivejumps_5l</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_dofivejumps_5l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_andanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_dojumpsandfindtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sixteenminussevenequalsnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_findtheanswer_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thirteenminussixequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_trythis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentyoneminusfourequalsseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_heresanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_findtheanswer_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twentyminussevenequalsthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5r">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_firsttouchthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_whatstheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_usethebuttontodothejumps</phrase>
+			<phrase>5_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_nineteenminuseightequalseleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>5_countyourjumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_greatyouusednumberlinestodosubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equcomplete">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpress">
+			<phrase>boing_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="numpopon">
+			<phrase>thud_short_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="objectson">
+			<phrase>note_beepy_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberpress">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="minusarc">
+			<phrase>boing_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineon">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="linetouch">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="4a,4b,4c,4d,4e" scenes2="4f,4g,4h,4i,4j,4k,4l" scenes3="4m" colour="255,255,255" >
+	</event>
+	<event id="4a" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line_curved_1" pos="0.197487,0.715666" parent="background_control" src="line_curved_1" stroke="111,25,125" strokewidth="6" linecap="round" zpos="3.004" d="M0.05919 0.672c0 0 0.108-0.194 0.14 0.0437c0.0319 0.237 0.0888 0.153 0.137 0.0273" />
+		<path id="line_curved_2" pos="0.477947,0.797763" parent="background_control" src="line_curved_2" stroke="255,114,0" strokewidth="6" linecap="round" zpos="3.005" d="M0.4742 0.6462c0 0 0.05-0.0247 0.0692 0.0522c0.0153 0.0615-0.0269 0.117-0.0734 0.0933c-0.0728-0.0371-0.0697 0.182 0.0114 0.17" />
+		<path id="line_curved_3" pos="0.73859,0.574846" parent="background_control" src="line_curved_3" stroke="38,60,255" strokewidth="6" linecap="round" zpos="3.007" d="M0.5661 0.5279c0 0 0.103-0.00273 0.127 0.0609c0.0135 0.0357 0.0825-0.0244 0.13-0.0239c0.0528 0.000533 0.056 0.0273 0.0878 0.0278" />
+		<path id="line_curved_4" pos="0.755906,0.761213" parent="background_control" src="line_curved_4" stroke="0,204,144" strokewidth="6" linecap="round" zpos="3.006" d="M0.7019 0.9633c0 0 0.0529-0.404 0.108-0.0774" />
+		<path id="line_straight_1" pos="0.187302,0.373205" parent="background_control" src="line_straight_1" fill="222,251,255" stroke="255,38,0" strokewidth="6" linecap="round" zpos="3" d="M0.1071 0.2716L0.2676 0.4748" />
+		<path id="line_straight_2" pos="0.291272,0.202328" parent="background_control" src="line_straight_2" fill="222,251,255" stroke="3,64,255" strokewidth="6" linecap="round" zpos="3.001" d="M0.2483 0.2551L0.3343 0.1495" />
+		<path id="line_straight_3" pos="0.675856,0.190629" parent="background_control" src="line_straight_3" fill="222,251,255" stroke="0,228,57" strokewidth="6" linecap="round" zpos="3.002" d="M0.4687 0.1233L0.883 0.258" />
+		<path id="line_straight_4" pos="0.614576,0.367493" parent="background_control" src="line_straight_4" fill="222,251,255" stroke="235,62,255" strokewidth="6" linecap="round" zpos="3.003" d="M0.382 0.3675L0.8471 0.3675" />
+	</event>
+	<event id="4b" redraw="true" correctAnswer="6" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line_1" pos="0.152286,0.658269" parent="background_control" src="line_1" stroke="235,210,0" strokewidth="6" linecap="round" zpos="3.002" d="M0.07027 0.8299c0.0698-0.0737-0.0111-0.343 0.175-0.0357" />
+		<path id="line_2" pos="0.710043,0.334563" parent="background_control" src="line_2" stroke="0,228,57" strokewidth="6" linecap="round" zpos="3.003" d="M0.7937 0.1036c0 0-0.113 0.0911-0.0705 0.254c0.0429 0.163-0.00173 0.203-0.0968 0.208" />
+		<path id="line_3" pos="0.525863,0.16446" parent="background_control" src="line_3" stroke="235,62,255" strokewidth="6" linecap="round" zpos="3.004" d="M0.451 0.09173c0 0 0.15 0.00769 0.0708 0.145" />
+		<path id="line_4" pos="0.468003,0.797131" parent="background_control" src="line_4" stroke="255,114,0" strokewidth="6" linecap="round" zpos="3.001" d="M0.3716 0.7066c0 0-0.0276 0.181 0.0961 0.181c0.124 0.00014 0.109-0.179 0.109-0.179" />
+		<path id="line_5" pos="0.848365,0.797405" parent="background_control" src="line_5" stroke="255,38,0" strokewidth="6" linecap="round" zpos="3.005" d="M0.7929 0.7265c0-0.00133 0.00195-0.0714 0.063-0.0725c0.061-0.00107 0.0592 0.0914 0.004 0.135c-0.0552 0.0438-0.0791 0.0497-0.0796 0.092c-0.00048 0.0423 0.0373 0.0599 0.0727 0.0603c0.0354 0.000347 0.0464-0.0501 0.0452-0.0839" />
+		<path id="line_6" pos="0.285743,0.38306" parent="background_control" src="line_6" fill="222,251,255" stroke="38,60,255" strokewidth="6" linecap="round" zpos="3" d="M0.1071 0.2716L0.4644 0.4945" />
+	</event>
+	<event id="4c" redraw="true" correctAnswer="4" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line_1" pos="0.720903,0.215521" parent="background_control" src="line_1" stroke="0,213,255" strokewidth="6" linecap="round" zpos="3.001" d="M0.5326 0.1066L0.9092 0.3244" />
+		<path id="line_2" pos="0.158582,0.31015" parent="background_control" src="line_2" stroke="128,86,10" strokewidth="6" linecap="round" zpos="3" d="M0.2367 0.171L0.0805 0.4493" />
+		<path id="line_3" pos="0.236419,0.789759" parent="background_control" src="line_3" stroke="235,210,0" strokewidth="6" linecap="round" zpos="3.003" d="M0.09746 0.6536L0.3754 0.9259" />
+		<path id="line_4" pos="0.549353,0.469686" parent="background_control" src="line_4" stroke="255,38,0" strokewidth="6" linecap="round" zpos="3.004" d="M0.257 0.4182c0 0 0.119 0.153 0.224 0.0515c0.105-0.101 0.318-0.082 0.36 0.0862" />
+		<path id="line_5" pos="0.645072,0.706191" parent="background_control" src="line_5" stroke="19,143,67" strokewidth="6" linecap="round" zpos="3.002" d="M0.3673 0.7062L0.9228 0.7062" />
+	</event>
+	<event id="4d" redraw="true" correctAnswer="1,2,6" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line_1" pos="0.535568,0.534947" parent="background_control" src="line_1" stroke="0,213,255" strokewidth="6" linecap="round" zpos="3.003" d="M0.3503 0.3163L0.7208 0.7536" />
+		<path id="line_2" pos="0.6374,0.848334" parent="background_control" src="line_2" stroke="255,38,0" strokewidth="6" linecap="round" zpos="3.002" d="M0.3264 0.8483L0.9484 0.8483" />
+		<path id="line_3" pos="0.832789,0.44922" parent="background_control" src="line_3" stroke="235,210,0" strokewidth="6" linecap="round" zpos="3.006" d="M0.9119 0.3383c0 0-0.0961-0.0366-0.109 0.036c-0.0129 0.0712 0.0894 0.062 0.0814 0.141c-0.00825 0.0813-0.076 0.0629-0.13 0.0596" />
+		<path id="line_4" pos="0.585719,0.16873" parent="background_control" src="line_4" stroke="18,146,183" strokewidth="6" linecap="round" zpos="3.004" d="M0.3169 0.193c0 0 0.176-0.153 0.27-0.0242c0.0939 0.129 0.248 0.104 0.268-0.00119" />
+		<path id="line_5" pos="0.168341,0.619345" parent="background_control" src="line_5" stroke="235,62,255" strokewidth="6" linecap="round" zpos="3.005" d="M0.3438 0.4844c0 0-0.36 0.27 0.00909 0.248" />
+		<path id="line_6" pos="0.102718,0.6724" parent="background_control" src="line_6" stroke="0,228,57" strokewidth="6" linecap="round" zpos="3.001" d="M0.1027 0.4411L0.1027 0.9037" />
+		<path id="line_7" pos="0.14159,0.289015" parent="background_control" src="line_7" stroke="38,60,255" strokewidth="6" linecap="round" zpos="3" d="M0.07751 0.289c0 0.0473 0.0287 0.0857 0.0641 0.0857c0.0354 0 0.0641-0.0384 0.0641-0.0857c0-0.0473-0.0287-0.0857-0.0641-0.0857" />
+	</event>
+	<event id="4e" redraw="true" correctAnswer="1,2,5" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line_1" pos="0.815775,0.198782" parent="background_control" src="line_1" stroke="143,221,66" strokewidth="6" linecap="round" zpos="3.006" d="M0.8064 0.1106c-0.035 0.00694-0.0592 0.0505-0.054 0.0973c0.00519 0.0468 0.0378 0.0791 0.0728 0.0722c0.035-0.00694 0.0592-0.0505 0.054-0.0973" />
+		<path id="line_2" pos="0.154099,0.547269" parent="background_control" src="line_2" stroke="223,37,107" strokewidth="6" linecap="round" zpos="3.005" d="M0.0854 0.4923c0 0-0.00252-0.0929 0.07-0.0952c0.0424-0.00136 0.0556 0.0705 0.04 0.113c-0.0245 0.067-0.104 0.121-0.0623 0.165c0.0222 0.0237 0.0803-0.00103 0.0923-0.0389" />
+		<path id="line_3" pos="0.391257,0.881369" parent="background_control" src="line_3" stroke="165,106,255" strokewidth="6" linecap="round" zpos="3.002" d="M0.08323 0.8814L0.6993 0.8814" />
+		<path id="line_4" pos="0.356252,0.188475" parent="background_control" src="line_4" stroke="106,46,224" strokewidth="6" linecap="round" zpos="3" d="M0.5209 0.08407L0.1916 0.2929" />
+		<path id="line_5" pos="0.74328,0.564942" parent="background_control" src="line_5" stroke="111,25,125" strokewidth="6" linecap="round" zpos="3.004" d="M0.5469 0.4777c0.165-0.105 0.467 0.158-0.0744 0.279" />
+		<path id="line_6" pos="0.889664,0.631272" parent="background_control" src="line_6" stroke="255,114,0" strokewidth="6" linecap="round" zpos="3.003" d="M0.8897 0.3663L0.8897 0.8962" />
+		<path id="line_7" pos="0.468022,0.408353" parent="background_control" src="line_7" stroke="235,210,0" strokewidth="6" linecap="round" zpos="3.001" d="M0.6063 0.1863L0.3297 0.6304" />
+	</event>
+	<event id="4f" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.51165,0.522435" parent="background_control" src="line" fill="255,255,255" stroke="228,0,6" strokewidth="12" linecap="round" zpos="3" d="M0.2389 0.3504L0.7844 0.6945" />
+		<circle id="start" pos="0.0678332,0.794334" parent="background_control" src="start" fill="228,0,6" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0504818" y="0.771133" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.115507,0.795645" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.0981556" y="0.772444" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4g" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.506828,0.512577" parent="background_control" src="line" fill="255,255,255" stroke="30,228,44" strokewidth="12" linecap="round" zpos="3" d="M0.2024 0.5126L0.8113 0.5126" />
+		<circle id="start" pos="0.122448,0.856925" parent="background_control" src="start" fill="30,228,44" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.105096" y="0.833724" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.19568,0.859188" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.178329" y="0.835987" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4h" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.459584,0.500722" parent="background_control" src="line" fill="255,255,255" stroke="255,114,0" strokewidth="12" linecap="round" zpos="3" d="M0.1935 0.876L0.7257 0.1255" />
+		<circle id="start" pos="0.104248,0.913038" parent="background_control" src="start" fill="255,114,0" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0868966" y="0.889837" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.307926,0.917243" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.290574" y="0.894042" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4i" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.484895,0.475559" parent="background_control" src="line" stroke="38,60,255" strokewidth="12" linecap="round" zpos="3" d="M0.1328 0.4366c0 0 0.18-0.215 0.303-0.0307c0.13 0.196 0.267 0.324 0.402 0.153" />
+		<circle id="start" pos="0.104248,0.913038" parent="background_control" src="start" fill="38,60,255" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0868966" y="0.889837" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.307926,0.917243" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.290574" y="0.894042" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4i - original" redraw="true" >
+		<path id="line" pos="0.48333,0.476116" src="line" stroke="38,60,255" strokewidth="12" linecap="round" zpos="2" d="M0.1365 0.4378c0 0 0.178-0.211 0.298-0.0302c0.128 0.193 0.263 0.318 0.396 0.15" />
+		<circle id="start" pos="0.108421,0.905777" src="start" fill="38,60,255" stroke="0,0,0" strokewidth="1" zpos="2.002" x="0.0913315" y="0.882991" width="0.0341797" height="0.0455729" />
+		<circle id="stop" pos="0.309029,0.909907" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="2.001" x="0.291939" y="0.887121" width="0.0341797" height="0.0455729" />
+	</event>
+	<event id="4j" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.509166,0.546156" parent="background_control" src="line" stroke="0,187,186" strokewidth="12" linecap="round" zpos="3" d="M0.1815 0.1277c0 0-0.0687 0.461 0.0221 0.474c0.0846 0.0117 0.315-0.473 0.454-0.392c0.204 0.119-0.229 0.628-0.0292 0.724c0.0556 0.0267 0.141 0.0307 0.277-0.108" />
+		<circle id="start" pos="0.104248,0.913038" parent="background_control" src="start" fill="0,187,186" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0868966" y="0.889837" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.307926,0.917243" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.290574" y="0.894042" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4k" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.50215,0.445125" parent="background_control" src="line" stroke="85,0,216" strokewidth="12" linecap="round" zpos="3" d="M0.1042 0.6009L0.2917 0.2867L0.4872 0.5984L0.7212 0.2808L0.9001 0.6094" />
+		<circle id="start" pos="0.104248,0.913038" parent="background_control" src="start" fill="85,0,216" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0868966" y="0.889837" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.307926,0.917243" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.290574" y="0.894042" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4l" redraw="true" >
+		<rectangle id="background_control" pos="0.498207,0.50012" src="background_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="line" pos="0.503172,0.524944" parent="background_control" src="line" stroke="227,0,255" strokewidth="12" linecap="round" zpos="3" d="M0.05564 0.5226c0 0.055 0.0334 0.0996 0.0745 0.0996c0.0411 0 0.0745-0.0422 0.0745-0.0972c0-0.055 0.0334-0.0996 0.0745-0.0996c0.0411 0 0.0745 0.0446 0.0745 0.0996c0 0.055 0.0334 0.0996 0.0745 0.0996c0.0411 0 0.0745-0.0446 0.0745-0.0996c0-0.055 0.0334-0.0996 0.0745-0.0996c0.0411 0 0.0745 0.0446 0.0745 0.0996c0 0.055 0.0334 0.0996 0.0745 0.0996c0.0411 0 0.0745-0.0446 0.0745-0.0996c0-0.055 0.0334-0.0996 0.0745-0.0996c0.0411 0 0.0756 0.0443 0.0756 0.0993" />
+		<circle id="start" pos="0.104248,0.913038" parent="background_control" src="start" fill="227,0,255" stroke="0,0,0" strokewidth="1" zpos="3.002" x="0.0868966" y="0.889837" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.186094,0.914731" parent="background_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" x="0.168743" y="0.89153" width="0.0347029" height="0.046402" />
+	</event>
+	<event id="4m" redraw="true" >
+		<rectangle id="reference_control" pos="0.498207,0.50012" src="reference_control" fill="222,251,255" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00574493" y="0.00905355" width="0.984924" height="0.982132" pxwidth="1008.56" pxheight="754.277" />
+		<path id="background_sand" pos="0.515495,0.77313" src="background_sand" fill="233,223,181" zpos="3.001" d="M-0.04302 0.6313c0 0 0.409-0.142 0.557-0.00596c0.148 0.136 0.511-0.0398 0.511-0.0398L1.074 1.057L-0.02684 1.057L-0.04302 0.6313Z" />
+		<rectangle id="background_sky" pos="0.522106,0.359001" src="background_sky" fill="205,238,255" zpos="3" x="-0.0198708" y="-0.0411072" width="1.08395" height="0.800217" />
+		<circle id="background_sun" pos="0.225398,0.212305" parent="reference_control" src="background_sun" fill="254,255,108" zpos="3.002" x="0.14131" y="0.100298" width="0.168177" height="0.224015" />
+		<vector id="dinosaur" pos="0.542968,0.513799" parent="reference_control" src="dinosaur" zpos="4" hidden="true" />
+		<path id="path_1" pos="0.751681,0.452878" parent="reference_control" src="path_1" stroke="0,0,0" strokewidth="3" zpos="4.003" d="M0.8872 0.2044c0.000516 0.0176-0.0031 0.0322-0.00815 0.0431c-0.00488 0.0106-0.0103 0.0204-0.0192 0.0252c-0.00749 0.00527-0.0604 0.00845-0.0716 0.00138c-0.0136 0.00241-0.021 0.0136-0.0249 0.0297c-0.00641 0.026-0.00108 0.0902-0.0162 0.134c-0.00491 0.0144-0.0126 0.027-0.0203 0.0387c-0.0101 0.0153-0.0209 0.0299-0.032 0.0439c-0.0115 0.0145-0.0333 0.0361-0.0515 0.0627c-0.00778 0.0114-0.016 0.0191-0.0228 0.0318c-0.00475 0.0089-0.0046 0.0256-0.00217 0.0297c0.00335 0.00574 0.0171 0.0505 0.0174 0.0565" />
+		<path id="path_2" pos="0.441715,0.770427" parent="reference_control" src="path_2" stroke="0,0,0" strokewidth="3" zpos="4.005" d="M0.4169 0.6765c-0.0181 0.00426-0.0436 0.0154-0.0628 0.0264c-0.0226 0.0129-0.0418 0.0229-0.0666 0.042c-0.0162 0.0125-0.0188 0.0363-0.0124 0.0496c0.00856 0.0178 0.0276 0.0305 0.0466 0.0369c0.0418 0.014 0.204 0.0242 0.201-0.00127c-0.0001-0.000891 0.0922 0.0199 0.0894 0.0343" />
+		<path id="path_3" pos="0.387314,0.751444" parent="reference_control" src="path_3" stroke="0,0,0" strokewidth="3" zpos="4.006" d="M0.3409 0.6085c-0.0256 0.0364-0.0695 0.0913-0.115 0.112c-0.063 0.0289-0.0361 0.122 0.0466 0.13c0.0812 0.00749 0.255 0 0.247 0.0343c-0.00215 0.00968 0.0865-0.0089 0.0923-0.0203" />
+		<path id="path_4" pos="0.524559,0.711475" parent="reference_control" src="path_4" stroke="0,0,0" strokewidth="3" zpos="4.004" d="M0.4169 0.6765c0.00068-0.00016 0.00135-0.00031 0.00201-0.000453c-0.000226 0.00285-0.000693 0.00598-0.00104 0.00892L0.4146 0.728c-0.0011 0.00165-0.00113 0.00452 0 0.0055c0.0109 0.0102 0.025 0.0184 0.0435 0.0156c0.0355-0.00543 0.0505-0.0299 0.0513-0.0337L0.5075 0.7046c-0.00284-0.00729-0.00631-0.0138-0.00758-0.0234c0.00952 0.000801 0.039-0.00741 0.0478-0.00998c0.000646-0.000204-0.00604 0.0543 0.00285 0.061c0.0138 0.0105 0.0422 0.00587 0.0428 0.00572c0.0314-0.00763 0.0416-0.033 0.0423-0.0366" />
+		<path id="path_5" pos="0.61401,0.366521" parent="reference_control" src="path_5" stroke="0,0,0" strokewidth="3" zpos="4.007" d="M0.3409 0.6085c0.000426-0.000603 0.000847-0.0012 0.00126-0.0018c0.00296-0.0139 0.00732-0.04 0.00732-0.0728c0-0.013 0.0217-0.0247 0.0314-0.0343c0.0146-0.0144 0.00607-0.0642 0.0171-0.0763c0.0157-0.0172 0.0266 0.0133 0.0457-0.00572c0.00571-0.00572 0.0135-0.0467 0.0257-0.0477c0.0127-0.000996 0.0176 0.0149 0.0357 0.0267c0.0166 0.0108 0.0314-0.0324 0.0442-0.0248c0.00671 0.00399 0.0157 0.0248 0.0257 0.0381c0.00579 0.00774 0.02-0.00191 0.0342 0.00572c0.011 0.00591 0.0268 0.0332 0.033 0.0446c0.00825-0.00221 0.0156-0.00592 0.0218-0.0107c0.00631-0.00491 0.0112-0.012 0.0158-0.0194c0.0084-0.0136 0.0188-0.0349 0.017-0.0675c-0.00173-0.0298-0.00887-0.0631-0.00703-0.1c0.000649-0.0132 0.00249-0.025 0.00506-0.036c0.00725-0.0307 0.0203-0.0538 0.038-0.0702c0.00815-0.00755 0.018-0.0129 0.028-0.0177c0.0148-0.00721 0.0297-0.014 0.0499-0.0132c0.0161 0.00299 0.0269 0.0132 0.0373 0.0234c0.00596 0.0059 0.0135 0.0096 0.0208 0.014c0.0114 0.00673 0.018 0.0209 0.0186 0.0416" />
+		<circle id="start" pos="0.1084,0.927688" parent="reference_control" src="start" fill="38,60,255" stroke="0,0,0" strokewidth="1" zpos="4.002" x="0.0910485" y="0.904487" width="0.0347029" height="0.046402" />
+		<circle id="stop" pos="0.037964,0.927963" parent="reference_control" src="stop" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.001" x="0.0206126" y="0.904762" width="0.0347029" height="0.046402" />
+	</event>
+</events>

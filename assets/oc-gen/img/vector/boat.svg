@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="111.5px" height="97.525px" viewBox="0 0 111.5 97.525" enable-background="new 0 0 111.5 97.525" xml:space="preserve">
+<g id="sail_right">
+	<path id="colour_4_" fill="#EFEFEF" stroke="#000000" stroke-miterlimit="10" d="M63.652,11.172l0.071,61.966l23.614-1.432
+		l19.836-1.577C107.173,70.129,68.421,12.158,63.652,11.172z"/>
+</g>
+<g id="sail_left">
+	<path id="colour_3_" fill="#DDDDDD" stroke="#000000" stroke-miterlimit="10" d="M58.275,12.065c0,0-10.857,29.608-15.297,34.215
+		c0,0-15.462,21.878-28.787,27.305l23.193,0.659l20.592-0.104L58.275,12.065z"/>
+</g>
+<g id="boat">
+	<path id="colour" fill="#ED0A21" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M4,74.995
+		c0,0,48.689,8.328,100.398,0.089c0,0-10.949,16.039-13.753,16.812c-2.802,0.771-72.053,0.442-72.053,0.442l-2.704-0.355
+		C15.89,91.982,4.21,78.376,4,74.995z"/>
+</g>
+<g id="flag">
+	<path id="colour_1_" fill="#5FA0FF" stroke="#000000" stroke-miterlimit="10" d="M59.675,6.075c0.375-0.209-0.062,3.562-0.204,3.85
+		c-0.144,0.285-2.649,1.575-4.797,1.433c-2.149-0.145-2.575-0.87-5.011-0.87c-2.435,0-5.127,1.928-4.656,0.347
+		c1.147-3.856-2.062-7.21,0-5.42c2.149,1.866,5.646,0.046,8.366,0.261C56.093,5.889,56.451,7.865,59.675,6.075z"/>
+</g>
+<g id="mast">
+	<path id="colour_2_" fill="#683B11" stroke="#000000" stroke-miterlimit="10" d="M60.882,4.487c0,0,1.303,3.109,1.137,10.29
+		c-0.164,7.177-0.907,64.164-0.907,64.164l-0.765-0.26C60.348,78.681,59.085,7.476,60.882,4.487z"/>
+</g>
+</svg>

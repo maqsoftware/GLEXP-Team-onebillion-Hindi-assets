@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_icanslidethenumbers</phrase>
+			<phrase>6_likethis</phrase>
+			<phrase>6_iwantnine</phrase>
+			<phrase>6_soislideitintothebox</phrase>
+			<phrase>6_thenitouchtherobotsbutton</phrase>
+			<phrase>6_yourturn</phrase>
+			<phrase>6_slidethirteenintothebox</phrase>
+			<phrase>6_thentouchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_slidethirteenintothebox</phrase>
+			<phrase>6_thentouchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_slidethirteenintothebox</phrase>
+			<phrase>6_thentouchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nextfindnineteen</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_slidenineteenintothebox</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_slidenineteenintothebox</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_dothesameforfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findfifteen</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findfifteen</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowfindseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findseven</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findseven</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlook</phrase>
+			<phrase>6_eightisonemorethanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_findthenumberthatsonemorethanten</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findthenumberthatsonemorethanten</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_yes</phrase>
+			<phrase>6_elevenisonemorethanten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findthenumberthatsonemorethanten</phrase>
+			<phrase>6_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonemorethanthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonemorethanthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fourteenisonemorethanthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonemorethanthirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6j">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonemorethantwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonemorethantwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twentythreeisonemorethantwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonemorethantwentytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonemorethantwentyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonemorethantwentyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twentynineisonemorethantwentyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonemorethantwentyeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlook</phrase>
+			<phrase>6_nineteenisonelessthantwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_findthenumberthatsonelessthannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findthenumberthatsonelessthannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_good</phrase>
+			<phrase>6_eightisonelessthannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findthenumberthatsonelessthannine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6n">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonelessthanseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonelessthanseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_sixteenisonelessthanseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonelessthanseventeen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonelessthantwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonelessthantwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twentyfiveisonelessthantwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonelessthantwentysix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6p">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisonelessthanthirtythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisonelessthanthirtythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_thirtytwoisonelessthanthirtythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisonelessthanthirtythree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6q">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_five</phrase>
+			<phrase>6_seven</phrase>
+			<phrase>6_sixisbetweenfiveandseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumberisbetweennineandeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_whichnumberisbetweennineandeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_right</phrase>
+			<phrase>6_tenisbetweennineandeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumberisbetweennineandeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6s">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findthenumberbetweeneighteenandtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findthenumberbetweeneighteenandtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_nineteenisbetweeneighteenandtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findthenumberbetweeneighteenandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6t">
+		<phrasegroup id="PROMPT">
+			<phrase>6_choosethenumberbetweentwentysevenandtwentynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_choosethenumberbetweentwentysevenandtwentynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twentyeightisbetweentwentysevenandtwentynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_choosethenumberbetweentwentysevenandtwentynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6v">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_thirtyendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_chooseanumberlessthanthirtythatendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanumberlessthanthirtythatendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_good_6v</phrase>
+			<phrase>6_islessthanthirtyandendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>6_yeszeroislessthanthirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_chooseanumberlessthanthirtythatendsinzero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6w">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseanumberbiggerthanseventythatendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanumberbiggerthanseventythatendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_isbiggerthanseventyandendsinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_chooseanumberbiggerthanseventythatendsinzero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6x">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nextfindanumberwithtwozeros</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findanumberwithtwozeros</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredhastwozeros</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findanumberwithtwozeros</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6y">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowillcalloutsomenumbersyouhavetofindthemseehowmanyyoucanfindintwominutes</phrase>
+			<phrase>6_thistimerwillshowhowlongyouhaveleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_touchthetimertostart</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchthetimertostart</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_find</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_timesup</phrase>
+			<phrase>6_andlookhowmanynumbersyoufound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="numbers">
+		<phrasegroup id="PROMPT">
+			<phrase>6_zero</phrase>
+			<phrase>6_one</phrase>
+			<phrase>6_two</phrase>
+			<phrase>6_three</phrase>
+			<phrase>6_four</phrase>
+			<phrase>6_five_6y</phrase>
+			<phrase>6_six</phrase>
+			<phrase>6_seven_6y</phrase>
+			<phrase>6_eight</phrase>
+			<phrase>6_nine</phrase>
+			<phrase>6_ten</phrase>
+			<phrase>6_eleven</phrase>
+			<phrase>6_twelve</phrase>
+			<phrase>6_thirteen</phrase>
+			<phrase>6_fourteen</phrase>
+			<phrase>6_fifteen</phrase>
+			<phrase>6_sixteen</phrase>
+			<phrase>6_seventeen</phrase>
+			<phrase>6_eighteen</phrase>
+			<phrase>6_nineteen</phrase>
+			<phrase>6_twenty</phrase>
+			<phrase>6_twentyone</phrase>
+			<phrase>6_twentytwo</phrase>
+			<phrase>6_twentythree</phrase>
+			<phrase>6_twentyfour</phrase>
+			<phrase>6_twentyfive</phrase>
+			<phrase>6_twentysix</phrase>
+			<phrase>6_twentyseven</phrase>
+			<phrase>6_twentyeight</phrase>
+			<phrase>6_twentynine</phrase>
+			<phrase>6_thirty</phrase>
+			<phrase>6_thirtyone</phrase>
+			<phrase>6_thirtytwo</phrase>
+			<phrase>6_thirtythree</phrase>
+			<phrase>6_thirtyfour</phrase>
+			<phrase>6_thirtyfive</phrase>
+			<phrase>6_thirtysix</phrase>
+			<phrase>6_thirtyseven</phrase>
+			<phrase>6_thirtyeight</phrase>
+			<phrase>6_thirtynine</phrase>
+			<phrase>6_forty</phrase>
+			<phrase>6_fortyone</phrase>
+			<phrase>6_fortytwo</phrase>
+			<phrase>6_fortythree</phrase>
+			<phrase>6_fortyfour</phrase>
+			<phrase>6_fortyfive</phrase>
+			<phrase>6_fortysix</phrase>
+			<phrase>6_fortyseven</phrase>
+			<phrase>6_fortyeight</phrase>
+			<phrase>6_fortynine</phrase>
+			<phrase>6_fifty</phrase>
+			<phrase>6_fiftyone</phrase>
+			<phrase>6_fiftytwo</phrase>
+			<phrase>6_fiftythree</phrase>
+			<phrase>6_fiftyfour</phrase>
+			<phrase>6_fiftyfive</phrase>
+			<phrase>6_fiftysix</phrase>
+			<phrase>6_fiftyseven</phrase>
+			<phrase>6_fiftyeight</phrase>
+			<phrase>6_fiftynine</phrase>
+			<phrase>6_sixty</phrase>
+			<phrase>6_sixtyone</phrase>
+			<phrase>6_sixtytwo</phrase>
+			<phrase>6_sixtythree</phrase>
+			<phrase>6_sixtyfour</phrase>
+			<phrase>6_sixtyfive</phrase>
+			<phrase>6_sixtysix</phrase>
+			<phrase>6_sixtyseven</phrase>
+			<phrase>6_sixtyeight</phrase>
+			<phrase>6_sixtynine</phrase>
+			<phrase>6_seventy</phrase>
+			<phrase>6_seventyone</phrase>
+			<phrase>6_seventytwo</phrase>
+			<phrase>6_seventythree</phrase>
+			<phrase>6_seventyfour</phrase>
+			<phrase>6_seventyfive</phrase>
+			<phrase>6_seventysix</phrase>
+			<phrase>6_seventyseven</phrase>
+			<phrase>6_seventyeight</phrase>
+			<phrase>6_seventynine</phrase>
+			<phrase>6_eighty</phrase>
+			<phrase>6_eightyone</phrase>
+			<phrase>6_eightytwo</phrase>
+			<phrase>6_eightythree</phrase>
+			<phrase>6_eightyfour</phrase>
+			<phrase>6_eightyfive</phrase>
+			<phrase>6_eightysix</phrase>
+			<phrase>6_eightyseven</phrase>
+			<phrase>6_eightyeight</phrase>
+			<phrase>6_eightynine</phrase>
+			<phrase>6_ninety</phrase>
+			<phrase>6_ninetyone</phrase>
+			<phrase>6_ninetytwo</phrase>
+			<phrase>6_ninetythree</phrase>
+			<phrase>6_ninetyfour</phrase>
+			<phrase>6_ninetyfive</phrase>
+			<phrase>6_ninetysix</phrase>
+			<phrase>6_ninetyseven</phrase>
+			<phrase>6_ninetyeight</phrase>
+			<phrase>6_ninetynine</phrase>
+			<phrase>6_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_excellentyoufoundnumbersuptoonehundredonanumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drag">
+			<phrase>drag</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_rattle">
+			<phrase>cup_rattle</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp">
+			<phrase>burp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="timer">
+			<phrase>ping_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_move">
+			<phrase>robot_move</phrase>
+		</phrasegroup>
+		<phrasegroup id="wave">
+			<phrase>alien_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_button">
+			<phrase>metallic_clack_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop">
+			<phrase>sum_appears</phrase>
+		</phrasegroup>
+		<phrasegroup id="alarm">
+			<phrase>factory_alarm_7</phrase>
+		</phrasegroup>
+	</event>
+</audio>

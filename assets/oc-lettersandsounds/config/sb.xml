@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="140" >
+		<group id="but0"  pos="0.108101,0.319407" src="but0" zpos="0.004">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.108101,0.319407" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.0498047" y="0.241679" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<group id="but1"  pos="0.108101,0.506185" src="but1" zpos="0.005">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.108101,0.506185" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.0498047" y="0.428457" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<group id="but2"  pos="0.108101,0.692963" src="but2" zpos="0.006">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.108101,0.692963" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.0498047" y="0.615234" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<group id="but3"  pos="0.893173,0.319407" src="but3" zpos="0.007">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.893173,0.319407" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.834877" y="0.241679" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<group id="but4"  pos="0.893173,0.506185" src="but4" zpos="0.008">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.893173,0.506185" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.834877" y="0.428457" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<group id="but5"  pos="0.893173,0.692963" src="but5" zpos="0.009">
+			<linearGradient id="Gradient6" x1="0.257248" y1="-0.103479" x2="0.742752" y2="1.10348" >
+				<stop offset="0%" stop-color="rgb(81.7288%,84.722%,83.7871%)" stop-opacity="1"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+			</linearGradient>
+			<circle id="Circle1" pos="0.893173,0.692963" src="Circle1" fill="url(#Gradient6)"  zpos="0" widthtracksheight="true" x="0.834877" y="0.615234" width="0.116592" height="0.155457" pxwidth="119.391" pxheight="119.391" />
+			<circle id="main" pos="0.498364,0.501636" parent="Circle1" src="main" fill="0,249,64" fillopacity="0.94607" zpos="0.001" x="0.0335035" y="0.0367753" width="0.929721" height="0.929721" />
+		</group>
+		<image id="pic" pos="0.508863,0.359436" src="fc_dog" scalex="0.771927" scaley="0.771927" zpos="0" hidden="true" />
+		<circle id="swatchcurrent" pos="0.223022,0.865479" src="swatchcurrent" fill="255,224,0" fillopacity="0.89547" zpos="0.002" hidden="true" x="0.168823" y="0.793213" width="0.108398" height="0.144531" />
+		<circle id="swatchdone" pos="0.370968,0.865143" src="swatchdone" fill="8,208,60" fillopacity="0.89977" zpos="0.003" hidden="true" x="0.316769" y="0.792877" width="0.108398" height="0.144531" />
+		<rectangle id="textrect" pos="0.509026,0.828857" src="textrect" fill="255,255,255" zpos="0.001" hidden="true" x="0.209393" y="0.727478" width="0.599266" height="0.202759" />
+	</event>
+</events>

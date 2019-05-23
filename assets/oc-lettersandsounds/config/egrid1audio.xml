@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+			<phrase>egrid1_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>egrid1_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>egrid1_welldoneyoutouchedeveryword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

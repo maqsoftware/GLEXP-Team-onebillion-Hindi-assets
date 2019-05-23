@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171127.114129649">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_letswriteletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw3a_watchme</phrase>
+			<phrase>hw3a_ichoosefromthemenu</phrase>
+			<phrase>hw3a_nowiwilltrace</phrase>
+			<phrase>hw3a_finishedsoipressthearrow</phrase>
+			<phrase>hw3a_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_nowtracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>hw3a_nowtracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw3a_touchthearrowwhenyouarefinished</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw3a_lookwhatyouwrote</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMIND">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_2">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_3">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_nowwritetheletterinhereallbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>hw3a_nowwritethelettersinhereallbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_seeifyoucanwritetheletterbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMIND">
+			<phrase>hw3a_seeifyoucanwritethelettersbyyourself</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_3">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_nowchooseagainfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_1">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMIND">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_2">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_3">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_tracetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_1">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_nowwritebyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_nowwritebyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_3">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_writetheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>hw3a_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>hw3a_writetheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_default">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_chooseagainfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_last">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3a_makeyourlastchoicefromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3a_choosefromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3a_makeyourlastchoicefromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>hw3a_goodyouhadachancetowriteletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="letteron">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteroff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_water_droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="guidewipe">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="eraser">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="menu">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="choose">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrow">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="guideon">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

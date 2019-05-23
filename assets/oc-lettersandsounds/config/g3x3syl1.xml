@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<rectangle id="swatch" pos="0.205004,0.855787" src="swatch" fill="209,225,255" stroke="142,142,142" strokewidth="2" zpos="0" hidden="true" x="0.140476" y="0.807668" width="0.129055" height="0.0962372" />
+		<rectangle id="swatch2" pos="0.369059,0.746081" src="swatch2" fill="255,234,186" stroke="110,119,142" strokewidth="2" zpos="0.001" hidden="true" x="0.304531" y="0.697962" width="0.129055" height="0.0962372" />
+	</event>
+	<event id="horiz" >
+		<rectangle id="picrect" pos="0.736931,0.486481" src="picrect" fill="209,225,255" zpos="0" hidden="true" widthtracksheight="true" x="0.517078" y="0.105311" width="0.439705" height="0.762339" pxwidth="450.258" pxheight="585.477" />
+		<vector id="grid" pos="0.270164,0.451401" src="grid33" scalex="0.965161" scaley="1.07062" zpos="0.001" />
+		<text id="gridtext"  pos="0.141563,0.451622" src="gridtext" fill="209,225,255" zpos="0.005" hidden="true" x="0.0931664" y="0.384827" width="0.0967941" height="0.133591">
+<tspan x="0.0504453" y="0.67253" font-family="Helvetica" font-size="72.000000" fill="rgb(0%,0%,0%)" >ch</tspan>
+		</text>
+		<path id="lne0" pos="0.273081,0.937131" parent="picrect" src="lne0" fill="255,255,255" stroke="255,38,0" strokewidth="9.54" zpos="0.003" d="M0.0808912 0.937131L0.465272 0.937131" />
+		<path id="lne1" pos="0.731187,0.937131" parent="picrect" src="lne1" fill="255,255,255" stroke="86,86,86" strokewidth="9.54" zpos="0.004" d="M0.538997 0.937131L0.923377 0.937131" />
+		<image id="pic" pos="0.52306,0.36858" parent="picrect" src="fc_dog" scalex="0.686577" scaley="0.686577" zpos="0.002" hidden="true" />
+	</event>
+	<event id="vert" >
+		<rectangle id="picrect" pos="0.502069,0.817319" src="picrect" fill="209,225,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.143181" y="0.709854" width="0.717777" height="0.21493" pxwidth="735.004" pxheight="165.066" />
+		<vector id="grid" pos="0.500858,0.365402" src="grid33" scalex="0.965161" scaley="1.07062" zpos="0" />
+		<text id="gridtext"  pos="0.374393,0.368604" src="gridtext" fill="209,225,255" zpos="0.004" hidden="true" x="0.325996" y="0.301809" width="0.0967941" height="0.133591">
+<tspan x="0.0504453" y="0.67253" font-family="Helvetica" font-size="72.000000" fill="rgb(0%,0%,0%)" >ch</tspan>
+		</text>
+		<path id="lne0" pos="0.36016,0.877677" parent="picrect" src="lne0" fill="255,255,255" stroke="255,38,0" strokewidth="9.54" zpos="0.002" d="M0.242425 0.877677L0.477894 0.877677" />
+		<path id="lne1" pos="0.640792,0.877677" parent="picrect" src="lne1" fill="255,255,255" stroke="86,86,86" strokewidth="9.54" zpos="0.003" d="M0.523057 0.877677L0.758526 0.877677" />
+	</event>
+</events>

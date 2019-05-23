@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="wa">
+		<phrasegroup id="DEMO">
+			<phrase>welcome_welcome</phrase>
+			<phrase>welcome_mynameiszuleika</phrase>
+			<phrase>welcome_letsgetstarted</phrase>
+		</phrasegroup>
+	</event>
+</audio>

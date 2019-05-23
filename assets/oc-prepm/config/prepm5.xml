@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_highlight="228,45,169" scenes="q1,q2,q3,q4,q5" >
+		<rectangle id="bottom_bar" pos="0.5,0.905169" src="bottom_bar" fill="224,246,255" zpos="0.003" hidden="true" x="-0.00564194" y="0.801224" width="1.01128" height="0.207891" />
+		<rectangle id="eq_box" pos="0.5,0.852806" src="eq_box" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0953541" y="0.760859" width="0.809292" height="0.183894" pxwidth="828.715" pxheight="141.23" />
+		<rectangle id="video_box" pos="0.5,0.432192" src="video_box" fill="255,255,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.13768" y="0.15447" width="0.72464" height="0.555445" pxwidth="742.031" pxheight="426.582" />
+		<rectangle id="video_frame" pos="0.5,0.432192" src="video_frame" stroke="167,167,167" strokewidth="2.5" zpos="0.002" hidden="true" widthtracksheight="true" x="0.13768" y="0.15447" width="0.72464" height="0.555445" pxwidth="742.031" pxheight="426.582" />
+		<vector id="wrong_cross" pos="0.5,0.440267" src="wrong_cross" scalex="7.70822" scaley="7.70822" zpos="0.004" hidden="true" />
+	</event>
+	<event id="q1" mode="add" str="2,3" add="1,2,3" ans="3,4,5,6" max="10" >
+		<image id="q_image" pos="0.5,0.427643" src="prepm5_q1" scalex="0.811035" scaley="0.811035" zpos="3" hidden="true" />
+	</event>
+	<event id="q2" mode="sub" str="4,5,6" sub="2,3" ans="1,2,3,4" max="10" >
+		<image id="q_image" pos="0.5,0.427643" src="prepm5_q2" scalex="0.811035" scaley="0.811035" zpos="3" hidden="true" />
+	</event>
+	<event id="q3" mode="add" str="2,3,4,5" add="2,3,4,5" ans="4,5,6,7,8,9,10" max="10" >
+		<image id="q_image" pos="0.5,0.427643" src="prepm5_q3" scalex="0.811035" scaley="0.811035" zpos="3" hidden="true" />
+	</event>
+	<event id="q4" mode="sub" str="5,6,7,8" sub="1,2,3,4" ans="1,2,3,4,5,6,7" max="10" >
+		<image id="q_image" pos="0.5,0.427643" src="prepm5_q4" scalex="0.811035" scaley="0.811035" zpos="3" hidden="true" />
+	</event>
+	<event id="q5" mode="add" str="5,6,7,8" add="1,2,3,4,5" ans="6,7,8,9,10,11" max="20" >
+		<image id="q_image" pos="0.5,0.427643" src="prepm5_q5" scalex="0.811035" scaley="0.811035" zpos="3" hidden="true" />
+	</event>
+</events>

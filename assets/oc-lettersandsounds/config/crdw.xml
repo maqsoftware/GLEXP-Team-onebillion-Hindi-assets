@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="7e,7f" textsize="50" bigtextsize="80" colour="236,250,255" >
+		<rectangle id="front1" pos="0.164562,0.223714" src="front1" fill="255,255,255" stroke="0,0,0" strokewidth="2" zpos="0" widthtracksheight="true" x="0.0380859" y="0.131022" width="0.252953" height="0.185384" pxwidth="259.023" pxheight="142.375" cornerradius="0.0819795" />
+		<rectangle id="front2" pos="0.809093,0.835693" src="front2" fill="255,255,255" stroke="0,0,0" strokewidth="2" zpos="0.001" widthtracksheight="true" x="0.682617" y="0.743001" width="0.252953" height="0.185384" pxwidth="259.023" pxheight="142.375" cornerradius="0.0819795" />
+		<rectangle id="highswatch" pos="0.15065,0.732285" src="highswatch" fill="255,245,200" stroke="0,0,0" strokewidth="2" zpos="0.002" hidden="true" x="0.129528" y="0.702504" width="0.042244" height="0.0595601" />
+		<group id="bigcard"  pos="0.500387,0.463303" src="bigcard" zpos="1">
+			<rectangle id="stroke" pos="0.500387,0.463303" src="stroke" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1" widthtracksheight="true" x="0.302128" y="0.0806173" width="0.396519" height="0.765371" pxwidth="406.035" pxheight="587.805" cornerradius="0.0182269" />
+			<rectangle id="picbox" pos="0.499495,0.3472" parent="stroke" src="picbox" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1.001" hidden="true" x="0.00692674" y="0.00695118" width="0.985136" height="0.680498" />
+			<rectangle id="textbox" pos="0.503054,0.842389" parent="stroke" src="textbox" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1.002" hidden="true" x="0.0255616" y="0.774472" width="0.954986" height="0.135834" />
+		</group>
+	</event>
+</events>

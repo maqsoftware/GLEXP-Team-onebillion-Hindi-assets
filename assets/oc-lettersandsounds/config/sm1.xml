@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<rectangle id="highlightswatch" pos="0.0754395,0.754341" src="highlightswatch" fill="240,250,132" stroke="207,200,183" strokewidth="1" zpos="0.004" hidden="true" x="0.0485268" y="0.729075" width="0.0538254" height="0.050532" />
+		<image id="pic" pos="0.17112,0.422653" src="fc_table" scalex="0.523911" scaley="0.523911" zpos="0.003" />
+		<rectangle id="picrect0" pos="0.170898,0.423177" src="picrect0" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0" widthtracksheight="true" x="0.0332031" y="0.186198" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+		<rectangle id="picrect1" pos="0.498047,0.423177" src="picrect1" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0.001" widthtracksheight="true" x="0.360352" y="0.186198" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+		<rectangle id="picrect2" pos="0.825195,0.423177" src="picrect2" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0.002" widthtracksheight="true" x="0.6875" y="0.186198" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+	</event>
+</events>

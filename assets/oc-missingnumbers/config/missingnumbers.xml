@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" colour="221,248,255" >
+		<rectangle id="colour_dash_hilite" pos="0.802877,0.385796" src="colour_dash_hilite" fill="255,38,0" zpos="0.009" x="0.783024" y="0.359324" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_dash_normal" pos="0.747545,0.385089" src="colour_dash_normal" fill="214,214,214" zpos="0.01" x="0.727692" y="0.358617" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_disabled" pos="0.868174,0.539274" src="colour_number_button_disabled" fill="255,252,223" zpos="0.013" x="0.84832" y="0.512802" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_hilite" pos="0.744612,0.540423" src="colour_number_button_hilite" fill="255,250,195" zpos="0.007" x="0.724758" y="0.513952" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_number_button_normal" pos="0.808863,0.539696" src="colour_number_button_normal" fill="255,251,205" zpos="0.008" x="0.789009" y="0.513224" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_disabled" pos="0.869005,0.460238" src="colour_text_disabled" fill="214,214,214" zpos="0.012" x="0.849152" y="0.433767" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_draggable" pos="0.692522,0.463702" src="colour_text_draggable" fill="102,178,204" zpos="0.014" x="0.672668" y="0.43723" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_hilite" pos="0.80237,0.463875" src="colour_text_hilite" fill="255,38,0" zpos="0.005" x="0.782516" y="0.437403" width="0.0397072" height="0.0529429" />
+		<rectangle id="colour_text_normal" pos="0.747446,0.463559" src="colour_text_normal" fill="0,0,0" zpos="0.006" x="0.727592" y="0.437088" width="0.0397072" height="0.0529429" />
+		<rectangle id="drag_bar" pos="0.499374,0.875028" src="drag_bar" fill="255,253,192" zpos="0.011" x="-0.009655" y="0.74615" width="1.01806" height="0.257757" />
+		<path id="line_horizontal" pos="0.486713,0.204391" src="line_horizontal" fill="255,255,255" stroke="125,216,248" strokewidth="2" zpos="0.002" d="M0.1455 0.2044L0.8279 0.2044" />
+		<path id="line_vertical" pos="0.0591927,0.232694" src="line_vertical" fill="255,255,255" stroke="125,216,248" strokewidth="2" zpos="0.003" d="M0.05919 0.1494L0.05919 0.316" />
+		<rectangle id="number_box" pos="0.184853,0.0972137" src="number_box" fill="255,255,255" stroke="125,216,248" strokewidth="2" zpos="0.001" x="0.0940323" y="0.0295054" width="0.181641" height="0.135417" />
+		<rectangle id="number_box_big" pos="0.456033,0.380674" src="number_box_big" fill="255,255,255" stroke="125,216,248" strokewidth="2" zpos="0.015" x="0.27879" y="0.248535" width="0.354487" height="0.264277" />
+		<rectangle id="number_button" pos="0.289341,0.628301" src="number_button" fill="255,251,205" stroke="255,244,123" strokewidth="2" shadowcolour="193,193,193" shadowradius="2" shadowxoffset="0" shadowyoffset="2" zpos="0" x="0.250278" y="0.576218" width="0.078125" height="0.104167" cornerradius="0.122764" />
+		<path id="number_dash" pos="0.123252,0.133469" src="number_dash" fill="255,250,195" stroke="214,214,214" strokewidth="4" zpos="0.004" d="M0.1108 0.1335L0.1357 0.1335" />
+		<path id="number_dash_big" pos="0.322491,0.463994" src="number_dash_big" fill="255,250,195" stroke="214,214,214" strokewidth="7" zpos="0.016" d="M0.2932 0.464L0.3518 0.464" />
+	</event>
+</events>

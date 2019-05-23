@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="56" >
+	</event>
+	<event id="a" >
+		<image id="onset_rime" pos="0.5,0.5" src="onset_rime" scalex="0.5" scaley="0.5" zpos="0" />
+		<rectangle id="bottomrect" pos="0.5,0.912084" src="bottomrect" fill="233,253,195" zpos="1.002" x="0" y="0.824168" width="1" height="0.175832" />
+		<rectangle id="imageback" pos="0.780273,0.317708" src="imageback" fill="216,212,213" zpos="1" x="0.65332" y="0.148438" width="0.253906" height="0.338542" />
+		<rectangle id="imagerect" pos="0.780273,0.317708" src="imagerect" fill="255,255,255" zpos="1.001" hidden="true" x="0.655273" y="0.151042" width="0.25" height="0.333333" />
+		<rectangle id="labelrect" pos="0.5,0.43797" src="labelrect" fill="255,38,0" fillopacity="0.53393" zpos="1.003" hidden="true" x="0.343512" y="0.0617828" width="0.312977" height="0.752375" />
+		<rectangle id="bottomlabelswatch" pos="0.129278,0.544492" src="bottomlabelswatch" fill="255,58,222" zpos="2.003" hidden="true" x="0.106495" y="0.517298" width="0.0455666" height="0.0543874" />
+		<rectangle id="dash" pos="0.457923,0.203017" src="dash" fill="255,58,222" zpos="2.002" hidden="true" x="0.439348" y="0.200416" width="0.0371506" height="0.00520124" />
+		<rectangle id="greyswatch" pos="0.1481,0.632622" src="greyswatch" fill="203,200,200" zpos="2.004" hidden="true" x="0.125317" y="0.605428" width="0.0455666" height="0.0543874" />
+		<rectangle id="rect0" pos="0.519526,0.15984" parent="labelrect" src="rect0" fill="255,38,0" fillopacity="0.53393" zpos="2" hidden="true" x="0.32367" y="0.112092" width="0.391712" height="0.0954956" />
+		<rectangle id="rect1" pos="0.519526,0.314833" parent="labelrect" src="rect1" fill="255,38,0" fillopacity="0.53393" zpos="2.001" hidden="true" x="0.32367" y="0.267085" width="0.391712" height="0.0954956" />
+		<rectangle id="rect2" pos="0.519526,0.443596" parent="labelrect" src="rect2" fill="255,38,0" fillopacity="0.53393" zpos="2.005" hidden="true" x="0.32367" y="0.395848" width="0.391712" height="0.0954956" />
+	</event>
+	<event id="f" >
+		<rectangle id="rectb0" pos="0.5,0.160759" parent="labelrect" src="rectb0" fill="255,38,0" fillopacity="0.53393" zpos="0" hidden="true" x="0.304144" y="0.113011" width="0.391712" height="0.0954956" />
+		<rectangle id="rectb1" pos="0.5,0.288948" parent="labelrect" src="rectb1" fill="255,38,0" fillopacity="0.53393" zpos="0.001" hidden="true" x="0.304144" y="0.2412" width="0.391712" height="0.0954956" />
+		<rectangle id="rimeswatch" pos="0.22718,0.229474" src="rimeswatch" fill="0,142,231" zpos="0.002" hidden="true" x="0.210056" y="0.204478" width="0.0342484" height="0.0499929" />
+	</event>
+	<event id="h" >
+		<rectangle id="largerect" pos="0.509424,0.50117" src="largerect" fill="255,38,0" fillopacity="0.53393" zpos="0" hidden="true" x="0.0578842" y="0.088328" width="0.90308" height="0.825684" />
+		<rectangle id="smallrect1" pos="0.248166,0.847138" parent="largerect" src="smallrect1" fill="255,38,0" fillopacity="0.53393" zpos="0.007" hidden="true" x="0.180289" y="0.80363" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect2" pos="0.490388,0.107179" parent="largerect" src="smallrect2" fill="255,38,0" fillopacity="0.53393" zpos="0.001" hidden="true" x="0.422511" y="0.0636704" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect3" pos="0.132142,0.223438" parent="largerect" src="smallrect3" fill="255,38,0" fillopacity="0.53393" zpos="0.002" hidden="true" x="0.0642654" y="0.179929" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect4" pos="0.287653,0.492676" parent="largerect" src="smallrect4" fill="255,38,0" fillopacity="0.53393" zpos="0.003" hidden="true" x="0.219776" y="0.449167" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect5" pos="0.790286,0.224276" parent="largerect" src="smallrect5" fill="255,38,0" fillopacity="0.53393" zpos="0.004" hidden="true" x="0.722409" y="0.180767" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect6" pos="0.659753,0.579779" parent="largerect" src="smallrect6" fill="255,38,0" fillopacity="0.53393" zpos="0.005" hidden="true" x="0.591876" y="0.53627" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect7" pos="0.770809,0.847649" parent="largerect" src="smallrect7" fill="255,38,0" fillopacity="0.53393" zpos="0.006" hidden="true" x="0.702932" y="0.804141" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect8" pos="0.404229,0.673467" parent="largerect" src="smallrect8" fill="255,38,0" fillopacity="0.53393" zpos="0.008" hidden="true" x="0.336352" y="0.629959" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect9" pos="0.854041,0.414363" parent="largerect" src="smallrect9" fill="255,38,0" fillopacity="0.53393" zpos="0.009" hidden="true" x="0.786164" y="0.370854" width="0.135754" height="0.0870171" />
+		<rectangle id="smallrect10" pos="0.451594,0.338483" parent="largerect" src="smallrect10" fill="255,38,0" fillopacity="0.53393" zpos="0.01" hidden="true" x="0.383717" y="0.294975" width="0.135754" height="0.0870171" />
+	</event>
+	<event id="finale" textsize="180" >
+		<rectangle id="dash" pos="0.357919,0.562419" src="dash" fill="255,58,222" zpos="0.001" hidden="true" x="0.296875" y="0.554525" width="0.122088" height="0.0157876" />
+		<rectangle id="rect0" pos="0.754074,0.565466" parent="labelrect" src="rect0" fill="255,38,0" fillopacity="0.53393" zpos="0" hidden="true" x="0.284704" y="0.419529" width="0.938741" height="0.291875" />
+	</event>
+</events>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>scorehammer2_letsseehowyoudid</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY">
+			<phrase>scorehammer2_yougotnocorrectanswers</phrase>
+			<phrase>scorehammer2_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY2">
+			<phrase>scorehammer2_youscoredone</phrase>
+			<phrase>scorehammer2_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY3">
+			<phrase>scorehammer2_youscoredtwo</phrase>
+			<phrase>scorehammer2_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY4">
+			<phrase>scorehammer2_youscoredthree</phrase>
+			<phrase>scorehammer2_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY5">
+			<phrase>scorehammer2_youscoredfour</phrase>
+			<phrase>scorehammer2_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY6">
+			<phrase>scorehammer2_youscoredfive</phrase>
+			<phrase>scorehammer2_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY7">
+			<phrase>scorehammer2_youscoredsix</phrase>
+			<phrase>scorehammer2_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY8">
+			<phrase>scorehammer2_youscoredseven</phrase>
+			<phrase>scorehammer2_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY9">
+			<phrase>scorehammer2_youscoredeight</phrase>
+			<phrase>scorehammer2_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY10">
+			<phrase>scorehammer2_youscorednine</phrase>
+			<phrase>scorehammer2_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY11">
+			<phrase>scorehammer2_youdidityougoteverythingcorrectwelldone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="ding">
+			<phrase>gb_ding</phrase>
+		</phrasegroup>
+		<phrasegroup id="dong">
+			<phrase>gb_dong</phrase>
+		</phrasegroup>
+		<phrasegroup id="hit">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

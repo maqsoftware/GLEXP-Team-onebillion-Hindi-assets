@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_tencountersineachrow</phrase>
+			<phrase>1_thisrowhastenbluecounters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichrowhasninebluecountersandonegreenone</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichrowhasninebluecountersandonegreenone</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_whichrowhasninebluecountersandonegreenone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichrowhassevenbluecountersandthreegreenones</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichrowhassevenbluecountersandthreegreenones</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+			<phrase>1_whichrowhassevenbluecountersandthreegreenones</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichrowhaseightbluecountersandtwogreenones</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichrowhaseightbluecountersandtwogreenones</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichrowhaseightbluecountersandtwogreenones</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletsputthenumbersin</phrase>
+			<phrase>1_anumberismissing</phrase>
+			<phrase>1_iwillfillitin</phrase>
+			<phrase>1_therearenogreencountershere</phrase>
+			<phrase>1_soichoosezero</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_zero</phrase>
+			<phrase>1_equals</phrase>
+			<phrase>1_ten_1f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="DEMO">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichnumberismissingthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_nine</phrase>
+			<phrase>1_plus_1g</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_equals_1g</phrase>
+			<phrase>1_ten_1g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whatsthemissingnumber</phrase>
+			<phrase>1_fillitin</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whatsthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightplustwoequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichnumberismissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sevenplusthreeequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowforsomemorerows</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sixplusfourequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fiveplusfiveequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fourplussixequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+			<phrase>1_whatsthemissingnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_threeplussevenequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+			<phrase>1_whatsthemissingnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="DEMO">
+			<phrase>1_andthelastthreerows</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_twopluseightequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_thinkagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_oneplusnineequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_thinkagain</phrase>
+			<phrase>1_whatsthemissingnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichnumbershouldgointhebox</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_zeroplustenequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_thinkagain</phrase>
+			<phrase>1_whatsthemissingnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="DEMO">
+			<phrase>1_andagaintencountersineachrow</phrase>
+			<phrase>1_lookatthepattern</phrase>
+			<phrase>1_touchthisredbutton</phrase>
+			<phrase>1_andsaythesumwithme</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_tenpluszeroequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1s">
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchtheredbuttonagain</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_nineplusoneequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="PROMPT">
+			<phrase>1_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightplustwoequalsten_1t</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1u">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sevenplusthreeequalsten_1u</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1v">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sixplusfourequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1w">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fiveplusfiveequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1x">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fourplussixequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1y">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_threeplussevenequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1z">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_twopluseightequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1za">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_oneplusnineequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1zb">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheredbutton</phrase>
+			<phrase>1_thensaythesumwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_zeroplustenequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldoneyoulookedatthewaystomaketen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="rowon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="equon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="inbox">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="repeatequon">
+			<phrase>clack_can_opening</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_0">
+			<phrase>note_beepy_0</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>note_beepy_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>note_beepy_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>note_beepy_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>note_beepy_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>note_beepy_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>note_beepy_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_7">
+			<phrase>note_beepy_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_8">
+			<phrase>note_beepy_8</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_9">
+			<phrase>note_beepy_9</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_10">
+			<phrase>note_beepy_10</phrase>
+		</phrasegroup>
+	</event>
+</audio>

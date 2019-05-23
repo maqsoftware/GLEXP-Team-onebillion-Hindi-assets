@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" gradienttop="255,255,255" gradientbottom="255,255,255">
+        <image id="button1" pos="0.214802,0.364568" src="section1" zpos="0.000" target="X_Patterns_S1" parm="event1" />
+        <image id="button2" pos="0.443829,0.363556" src="section2" zpos="0.001" target="X_Patterns_S2" parm="event2" />
+        <image id="button3" pos="0.672855,0.363358" src="section3" zpos="0.002" target="X_Patterns_S3" parm="event3" />
+        <image id="button4" pos="0.172085,0.676539" src="section4" zpos="0.003" target="X_Patterns_S4" parm="event4" />
+        <image id="button5" pos="0.384933,0.676656" src="section5" zpos="0.004" target="X_Patterns_S5" parm="event5" />
+        <image id="button6" pos="0.597782,0.676987" src="section6" zpos="0.005" target="X_Patterns_S6" parm="event6" />
+        <image id="button7" pos="0.810631,0.676356" src="section7" zpos="0.006" target="X_Patterns_S7" parm="event7"/>
+    </event>
+</events>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" textsize="75" colour="254,255,255" >
+		<image id="layout" pos="0.5,0.5" src="layout" zpos="0" hidden="true" />
+		<rectangle id="frame" pos="0.261719,0.419922" src="frame" stroke="0,114,193" strokewidth="4" zpos="1.002" widthtracksheight="true" x="0.0810547" y="0.179688" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+		<linearGradient id="Gradient33" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(94.8%,99.7%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(76.1%,91.4%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bg" pos="0.261719,0.419922" src="bg" fill="url(#Gradient33)"  stroke="0,114,193" strokewidth="4" zpos="1.001" widthtracksheight="true" x="0.0810547" y="0.179688" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+		<vector id="button" pos="0.5,1.30352" parent="frame" src="button" scalex="0.74" scaley="0.74" fill="255,187,78" zpos="1" />
+		<group id="Group41"  pos="0.261719,0.544019" src="Group41" hasmask="true" zpos="1.015">
+			<vector id="avatar" pos="0.263184,0.55599" src="presenter_tilly" scalex="1.15" scaley="1.154" zpos="1" />
+			<rectangle id="mask" pos="0.261719,0.419922" src="mask" fill="255,255,255" zpos="1.001" widthtracksheight="true" x="0.0810547" y="0.179688" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+		</group>
+		<circle id="pos_3_1" pos="0.654186,0.360619" src="pos_3_1" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.012" x="0.634655" y="0.334577" width="0.0390625" height="0.0520833" />
+		<circle id="pos_3_2" pos="0.654033,0.51683" src="pos_3_2" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.014" x="0.634502" y="0.490789" width="0.0390625" height="0.0520833" />
+		<circle id="pos_3_3" pos="0.653931,0.673042" src="pos_3_3" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.013" x="0.634399" y="0.647" width="0.0390625" height="0.0520834" />
+		<circle id="pos_4_1" pos="0.606335,0.282513" src="pos_4_1" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.008" x="0.586803" y="0.256472" width="0.0390625" height="0.0520833" />
+		<circle id="pos_4_2" pos="0.606181,0.438725" src="pos_4_2" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.011" x="0.58665" y="0.412683" width="0.0390625" height="0.0520833" />
+		<circle id="pos_4_3" pos="0.606079,0.594936" src="pos_4_3" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.01" x="0.586548" y="0.568894" width="0.0390625" height="0.0520833" />
+		<circle id="pos_4_4" pos="0.606284,0.751147" src="pos_4_4" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.009" x="0.586752" y="0.725106" width="0.0390625" height="0.0520833" />
+		<circle id="pos_5_1" pos="0.565319,0.204408" src="pos_5_1" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.003" x="0.545788" y="0.178366" width="0.0390625" height="0.0520833" />
+		<circle id="pos_5_2" pos="0.565166,0.360619" src="pos_5_2" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.007" x="0.545634" y="0.334577" width="0.0390625" height="0.0520833" />
+		<circle id="pos_5_3" pos="0.565063,0.51683" src="pos_5_3" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.006" x="0.545532" y="0.490789" width="0.0390625" height="0.0520833" />
+		<circle id="pos_5_4" pos="0.565268,0.673042" src="pos_5_4" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.005" x="0.545737" y="0.647" width="0.0390625" height="0.0520834" />
+		<circle id="pos_5_5" pos="0.565115,0.829253" src="pos_5_5" fill="19,185,253" stroke="0,0,0" strokewidth="1" zpos="1.004" x="0.545583" y="0.803211" width="0.0390625" height="0.0520833" />
+	</event>
+</events>

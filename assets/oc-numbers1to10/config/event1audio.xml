@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletsgetstarted</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_lookonecomesfirst</phrase>
+			<phrase>1_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowyourturnwhatnumbercomesafterone</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whatnumbercomesafterone</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_whatcomesaftertwo</phrase>
+			<phrase>1_whatcomesafterthree</phrase>
+			<phrase>1_whatcomesafterfour</phrase>
+			<phrase>1_whatcomesafterfive</phrase>
+			<phrase>1_whatcomesaftersix</phrase>
+			<phrase>1_whatcomesafterseven</phrase>
+			<phrase>1_whatcomesaftereight</phrase>
+			<phrase>1_whatcomesafternine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>1_whatcomesaftertwo</phrase>
+			<phrase>1_whatcomesafterthree</phrase>
+			<phrase>1_whatcomesafterfour</phrase>
+			<phrase>1_whatcomesafterfive</phrase>
+			<phrase>1_whatcomesaftersix</phrase>
+			<phrase>1_whatcomesafterseven</phrase>
+			<phrase>1_whatcomesaftereight</phrase>
+			<phrase>1_whatcomesafternine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whatnumbercomesafterone</phrase>
+			<phrase>1_whatcomesaftertwo</phrase>
+			<phrase>1_whatcomesafterthree</phrase>
+			<phrase>1_whatcomesafterfour</phrase>
+			<phrase>1_whatcomesafterfive</phrase>
+			<phrase>1_whatcomesaftersix</phrase>
+			<phrase>1_whatcomesafterseven</phrase>
+			<phrase>1_whatcomesaftereight</phrase>
+			<phrase>1_whatcomesafternine</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_nowletscountbackwards</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_lookstartwithten</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowyourturnwhatcomesbeforeten</phrase>
+			<phrase>1_whatcomesbeforenine</phrase>
+			<phrase>1_whatcomesbeforeeight</phrase>
+			<phrase>1_whatcomesbeforeseven</phrase>
+			<phrase>1_whatcomesbeforesix</phrase>
+			<phrase>1_whatcomesbeforefive</phrase>
+			<phrase>1_whatcomesbeforefour</phrase>
+			<phrase>1_whatcomesbeforethree</phrase>
+			<phrase>1_whatcomesbeforetwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whatcomesbeforeten</phrase>
+			<phrase>1_whatcomesbeforenine</phrase>
+			<phrase>1_whatcomesbeforeeight</phrase>
+			<phrase>1_whatcomesbeforeseven</phrase>
+			<phrase>1_whatcomesbeforesix</phrase>
+			<phrase>1_whatcomesbeforefive</phrase>
+			<phrase>1_whatcomesbeforefour</phrase>
+			<phrase>1_whatcomesbeforethree</phrase>
+			<phrase>1_whatcomesbeforetwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_nine</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_ten</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_welldoneyouputonetotenandtentooneintherightorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

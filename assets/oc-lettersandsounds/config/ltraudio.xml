@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171011.163924870">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>ltr_letspractisewritingthisletter</phrase>
+			<phrase>ltr_firsttouchittohearitssound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>ltr_letspractisewritingtheseletters</phrase>
+			<phrase>ltr_firsttouchthemtohearthesound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>ltr_touchtheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>ltr_touchtheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>ltr_touchtheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REMINDER">
+			<phrase>ltr_touchtheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>ltr_letsseehowitsmade</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO.REPEAT">
+			<phrase>ltr_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>ltr_letsseehowtheyaremade</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO.REPEAT">
+			<phrase>ltr_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k">
+		<phrasegroup id="DEMO">
+			<phrase>ltr_nowyouhaveago</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l">
+		<phrasegroup id="PROMPT">
+			<phrase>ltr_goodnowpractisesomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n">
+		<phrasegroup id="PROMPT">
+			<phrase>ltr_onelastgo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>ltr_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>ltr_welldoneyoumadethisletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>ltr_welldoneyoumadetheseletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>cf_short_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="doton">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteron">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="scrape">
+			<phrase>cf_quite_steady_hum</phrase>
+		</phrasegroup>
+	</event>
+</audio>

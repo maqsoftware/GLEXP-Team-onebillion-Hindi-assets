@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+			<phrase>3_touchdotone</phrase>
+			<phrase>3_touchdottwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_touchdotthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchdotthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_nowtouchalltheotherdotsinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_nowtouchalltheotherdotsinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>3_touchthedotforthenextnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_nowcolourin</phrase>
+			<phrase>3_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_colourinyourstarpicture</phrase>
+			<phrase>3_usetwocolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>3_colourinyourstarpicture</phrase>
+			<phrase>3_usetwocolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthesedotsinorder</phrase>
+			<phrase>3_startwithdotone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthedotsinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_colourinyourboatpicture</phrase>
+			<phrase>3_useallthecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_colourinyourboatpicture</phrase>
+			<phrase>3_useallthecolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthesedotsinorder</phrase>
+			<phrase>3_startwithdotone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthedotsinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_colourinyourcarpicture</phrase>
+			<phrase>3_useallthecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_colourinyourcarpicture</phrase>
+			<phrase>3_useallthecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_brilliantyoujoinedthedotsintherightorderandcolouredinthepictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

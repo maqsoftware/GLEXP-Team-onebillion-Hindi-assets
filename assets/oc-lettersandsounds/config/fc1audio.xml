@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>fc1_letslookatmorewords</phrase>
+			<phrase>fc1_itaponthecard</phrase>
+			<phrase>fc1_andagain</phrase>
+			<phrase>fc1_onemoretap</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>fc1_yourturn</phrase>
+			<phrase>fc1_taponthecardlikeidid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>fc1_taponthecard</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE.REPEAT">
+			<phrase>fc1_taponthecard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>fc1_taponthecard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>fc1_andthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>fc1_taponthecard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>fc1_good</phrase>
+			<phrase>fc1_youdidsomewordpractice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="flip">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

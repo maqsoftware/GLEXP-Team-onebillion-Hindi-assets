@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sm1_letspractisewithsounds</phrase>
+			<phrase>sm1_listen</phrase>
+			<phrase>sm1_thisbeginswiththatsoundsoitouchit</phrase>
+			<phrase>sm1_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b1">
+		<phrasegroup id="PROMPT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm1_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="PROMPT">
+			<phrase>sm1_letspractisewithsounds</phrase>
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm1_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>sm1_verygood</phrase>
+			<phrase>sm1_nowtrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm1_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm1_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>sm1_whichbeginswiththissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sm1_welldoneyoumatchedthingstotheirstartingsound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="splat">
+			<phrase>click_hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="popoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

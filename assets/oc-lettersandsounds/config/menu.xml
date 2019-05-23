@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+        
+        
+        
+        <!-- TALKING HEAD - What Lisa said -->
+        <image id="button1" pos="0.10,0.10" src="menubutton1" zpos="0.001" target="X_TalkingHead" scalex="0.5" scaley="0.5" parm="th/demo=true/spellMode=letter/words=l,m,s,b,a;j,k,f,d,r;p,t,g,h,s;f,z,b,j,k;r,m,o,e,v" config="x-lettersandsounds" />
+        <image id="button2" pos="0.20,0.10" src="menubutton2" zpos="0.002" target="X_TalkingHead" scalex="0.5" scaley="0.5" parm="th/demo=true/spellMode=syllable/words=ha,ma,za,ka,ja;hu,lu,gu,bu,su;pe,ge,me,de,ye;ka,so,chu,du,ni;sa,si,pe,nu,to" config="x-lettersandsounds" />
+        <image id="button3" pos="0.30,0.10" src="menubutton3" zpos="0.003" target="X_TalkingHead" scalex="0.5" scaley="0.5" parm="th/demo=true/spellMode=sound/words=fc_bus,fc_bottle,fc_teeth,fc_eye;fc_basin,fc_bottle,fc_candle,fc_bed;fc_eyes,fc_lips,fc_flowers,fc_key;fc_frog,fc_pencil,fc_ship,fc_spoon;fc_flowers,fc_candle,fc_fork,fc_dog;fc_bread,fc_horse,fc_elephant,fc_frog;fc_doll,fc_basin,fc_torch,fc_horse/answers=fc_eye,fc_bottle,fc_lips,fc_spoon,fc_fork,fc_frog,fc_torch" config="x-lettersandsounds" />
+        <image id="button4" pos="0.40,0.10" src="menubutton4" zpos="0.004" target="X_TalkingHead" scalex="0.5" scaley="0.5" parm="th/demo=true/spellMode=syllable/words=fc_bus,fc_bottle,fc_teeth,fc_eye;fc_basin,fc_bottle,fc_candle,fc_bed;fc_eyes,fc_lips,fc_flowers,fc_key;fc_frog,fc_pencil,fc_ship,fc_spoon;fc_flowers,fc_candle,fc_fork,fc_dog;fc_bread,fc_horse,fc_elephant,fc_frog;fc_doll,fc_basin,fc_torch,fc_horse/answers=fc_eye,fc_bottle,fc_lips,fc_spoon,fc_fork,fc_frog,fc_torch" config="x-lettersandsounds" />
+        <image id="button5" pos="0.50,0.10" src="menubutton5" zpos="0.005" target="X_TalkingHead" scalex="0.5" scaley="0.5" parm="th/demo=false/spellMode=word/words=fc_pen,fc_pencil,fc_maize,fc_bowl,fc_zebra;fc_dog,fc_fruit,fc_flag,fc_river,fc_fish_n;fc_towel,fc_umbrella,fc_grass,fc_strawberry,fc_mountain;fc_aeroplane,fc_egg,fc_ball,fc_centipede,fc_girl;fc_banana,fc_glasses,fc_minibus,fc_rain,fc_car/answers=fc_pen,fc_fruit,fc_strawberry,fc_girl,fc_glasses" config="x-lettersandsounds" />
+        
+        
+        
+        <!-- EARLY LISTENING ACTIVITIES -->
+        
+        <!-- mode 1: words, pick odd one out, no text, intro and demo -->
+        <image id="button6" pos="0.10,0.25" src="menubutton1" zpos="0.006" target="X_Th2" scalex="0.5" scaley="0.5" parm="th2/presenter=true/mode=word/demo=true/showText=false/sets=fc_frog,fc_doll,fc_frog;fc_flower,fc_flower,fc_eye;fc_key,fc_cup,fc_cup;fc_eyes,fc_teeth,fc_teeth;fc_goat,fc_plate,fc_goat;fc_nose,fc_knife,fc_nose;fc_chicken,fc_chicken,fc_sheep;fc_aeroplane,fc_beard,fc_aeroplane;fc_shirt_2,fc_shirt_2,fc_jug;fc_maize,fc_handbag,fc_handbag" config="x-lettersandsounds" />
+
+        <!-- mode 2: words, pick matching pairs, no text, demo -->
+        <image id="button7" pos="0.20,0.25" src="menubutton2" zpos="0.007" target="X_Th3" scalex="0.5" scaley="0.5" parm="th2;th3/mode=word/demo=true/showText=false/sets=fc_bus,fc_bed,fc_bus;fc_hat,fc_fruit,fc_fruit;fc_socks,fc_socks,fc_tomato;fc_cat,fc_nose,fc_cat;fc_cow,fc_lemon,fc_lemon;fc_nose,fc_knife,fc_nose;fc_chicken,fc_pig,fc_pig;fc_aeroplane,fc_beard,fc_aeroplane;fc_sun,fc_sun,fc_flower;fc_donkey,fc_bowl,fc_bowl" config="x-lettersandsounds" />
+
+        <!-- mode 3: syllables, pick odd one out, no text, demo -->
+        <image id="button8" pos="0.30,0.25" src="menubutton3" zpos="0.008" target="X_Th2" scalex="0.5" scaley="0.5" parm="th2/presenter=false/mode=syllable/demo=true/showText=false/sets=be,ga,be;zu,chi,chi;po,pu,po;la,la,lu;ge,ke,ke;da,ma,da;zo,zi,zi;dzu,dzu,dzi" config="x-lettersandsounds" />
+
+        <!-- mode 4: phonemes, pick odd one out, no text -->
+        <image id="button9" pos="0.40,0.25" src="menubutton4" zpos="0.009" target="X_Th2" scalex="0.5" scaley="0.5" parm="th2/presenter=false/mode=phoneme/demo=true/showText=false/sets=t,s,t;f,g,g;l,l,b;m,z,m;g,g,l;k,g,k;d,d,b;z,s,z" config="x-lettersandsounds" />
+
+        <!-- mode 5: match talking head to word on screen, syllable breakdown, demo -->
+        <image id="button10" pos="0.50,0.25" src="menubutton5" zpos="0.010" target="X_Th2" scalex="0.5" scaley="0.5" parm="th2;th4/presenter=false/mode=word/demo=true/showText=true/sets=fc_frog,fc_doll,fc_bus;fc_flower,fc_hat,fc_eye;fc_key,fc_bed,fc_cup;fc_eyes,fc_fruit,fc_teeth;fc_socks,fc_plate,fc_goat;fc_tomato,fc_knife,fc_nose;fc_chicken,fc_cat,fc_sheep;fc_cow,fc_beard,fc_aeroplane;fc_lemon,fc_shirt_2,fc_jug;fc_maize,fc_chicken,fc_handbag/answers=fc_frog,fc_flower,fc_cup,fc_fruit,fc_socks,fc_nose,fc_chicken,fc_beard,fc_jug,fc_chicken" config="x-lettersandsounds" />
+        
+        <!-- sfx, pick odd one out -->
+        <image id="button11" pos="0.70,0.25" src="menubutton1" zpos="0.011" target="X_Th2" scalex="0.5" scaley="0.5" parm="th5/mode=sfx/demo=true/sets=clack_can_opening,zip_snap,clack_can_opening;clack_metallic,clack_metallic,hard_snap;thud_short_1,clunk_1,clunk_1;bleep_short_medium,bleep_short_medium,short_beep_2;boing_long,drummy_boing_up,boing_long;ping_5,splash_single_loud,ping_5;chime_1,chime_2,chime_2;musical_notes_2,musical_notes_2,chime_1;whoosh_fast_1,whoosh_down_3,whoosh_down_3" config="x-lettersandsounds" />
+
+        <!-- sfx, pick matching pairs -->
+        <image id="button12" pos="0.80,0.25" src="menubutton2" zpos="0.012" target="X_Th3" scalex="0.5" scaley="0.5" parm="th5;th6/mode=sfx/demo=true/sets=clack_can_opening,zip_snap,clack_can_opening;clack_metallic,clack_metallic,hard_snap;thud_short_1,clunk_1,clunk_1;bleep_short_medium,bleep_short_medium,short_beep_2;boing_long,drummy_boing_up,boing_long;ping_5,splash_single_loud,ping_5;chime_1,chime_2,chime_2;musical_notes_2,musical_notes_2,chime_1;whoosh_fast_1,whoosh_down_3,whoosh_down_3" config="x-lettersandsounds" />
+        
+        
+        <!-- ALPHABET -->
+        
+        <!-- mode 1 - alpha 3 -->
+        <image id="button13" pos="0.10,0.55" src="menubutton1" zpos="0.013" target="X_Alpha3" scalex="0.5" scaley="0.5" parm="alpha3/bpm=80/sfx=beat_5/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button14" pos="0.20,0.55" src="menubutton2" zpos="0.014" target="X_Alpha3" scalex="0.5" scaley="0.5" parm="alpha3/bpm=80/sfx=beat_6/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button15" pos="0.30,0.55" src="menubutton3" zpos="0.015" target="X_Alpha3" scalex="0.5" scaley="0.5" parm="alpha3/bpm=80/rhythm=rhythm_1/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button16" pos="0.40,0.55" src="menubutton4" zpos="0.016" target="X_Alpha3" scalex="0.5" scaley="0.5" parm="alpha3/bpm=80/rhythm=rhythm_3/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        
+        
+        <!-- mode 2 -->
+        <image id="button17" pos="0.10,0.70" src="menubutton1" zpos="0.017" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha4/bpm=80/sfx=beat_5/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button18" pos="0.20,0.70" src="menubutton2" zpos="0.018" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha4/bpm=80/sfx=beat_6/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button19" pos="0.30,0.70" src="menubutton3" zpos="0.019" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha4/bpm=80/rhythm=rhythm_1/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        <image id="button20" pos="0.40,0.70" src="menubutton4" zpos="0.020" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha4/bpm=80/rhythm=rhythm_3/letters=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" config="x-lettersandsounds" />
+        
+        
+        <!-- mode 5 -->
+        <image id="button21" pos="0.10,0.85" src="menubutton1" zpos="0.021" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha5/bpm=80/sfx=beat_5/letters=A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" config="x-lettersandsounds" />
+        <image id="button22" pos="0.20,0.85" src="menubutton2" zpos="0.022" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha5/bpm=80/sfx=beat_6/letters=A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" config="x-lettersandsounds" />
+        <image id="button23" pos="0.30,0.85" src="menubutton3" zpos="0.023" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha5/bpm=80/rhythm=rhythm_1/letters=A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" config="x-lettersandsounds" />
+        <image id="button24" pos="0.40,0.85" src="menubutton4" zpos="0.024" target="X_Alpha4" scalex="0.5" scaley="0.5" parm="alpha3;alpha5/bpm=80/rhythm=rhythm_3/letters=A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z" config="x-lettersandsounds" />
+        
+<!--        <image id="button1" pos="0.172085,0.364568" src="menubutton1" zpos="0" target="X_Letters_S1" parm="event1" config="x-lettersandsounds" />-->
+<!--        <image id="button2" pos="0.384933,0.363556" src="menubutton2" zpos="0.001" target="X_Letters_S2" parm="event2/words=fc_dad,fc_frog/mode=syl" config="x-lettersandsounds" />-->
+<!--        <image id="button3" pos="0.597782,0.363358" src="menubutton3" zpos="0.002" target="X_Puzzle" parm="puzzle/words=fc_dog,fc_elephant,fc_mum,fc_frog,fc_doll/format=puzzle9" config="x-lettersandsounds" />-->
+<!--        <image id="button4" pos="0.172085,0.664568" src="menubutton4" zpos="0.002" target="X_Grid33S" parm="grid33s/words=fc_dog,fc_elephant,fc_mum,fc_frog,fc_doll/sounds=g,a,l,u,n,m,ch,b,y" config="x-lettersandsounds" />-->
+<!--        <image id="button5" pos="0.384933,0.664568" src="menubutton5" zpos="0.002" target="X_Grid33Sp" parm="grid33sp/words=fc_dog,fc_mum,fc_moto" config="x-lettersandsounds" />-->
+<!--        <image id="button6" pos="0.597782,0.664568" src="menubutton6" zpos="0.002" target="X_Crdw" parm="crdw/words=fc_cup,fc_donkey,fc_eye,fc_soap,fc_fire,fc_jug/demo=true" config="x-lettersandsounds" />-->
+<!--        <image id="button7" pos="0.810631,0.664568" src="menubutton7" zpos="0.002" target="X_LetterTrace"  parm="lettertrace" config="x-lettersandsounds" />-->
+	</event>
+</events>

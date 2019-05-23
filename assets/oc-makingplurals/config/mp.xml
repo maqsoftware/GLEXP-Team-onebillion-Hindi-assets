@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" textsize="95" colour="254,255,255" >
+		<rectangle id="button_colour_disabled" pos="0.881804,0.874921" src="button_colour_disabled" fill="194,251,247" stroke="0,0,0" strokewidth="1" zpos="0.012" x="0.867123" y="0.855347" width="0.0293617" height="0.039149" />
+		<rectangle id="button_colour_hilited" pos="0.881388,0.824776" src="button_colour_hilited" fill="0,162,154" stroke="0,0,0" strokewidth="1" zpos="0.011" x="0.866707" y="0.805201" width="0.0293617" height="0.039149" />
+		<rectangle id="button_colour_normal" pos="0.835024,0.825203" src="button_colour_normal" fill="0,236,224" stroke="0,0,0" strokewidth="1" zpos="0.014" x="0.820343" y="0.805628" width="0.0293617" height="0.039149" />
+		<rectangle id="line_colour" pos="0.89081,0.936358" src="line_colour" fill="198,198,198" stroke="0,0,0" strokewidth="1" zpos="0.016" x="0.876129" y="0.916784" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_1" pos="0.176378,0.844383" src="row_colour_1" fill="234,250,255" stroke="0,0,0" strokewidth="1" zpos="0" x="0.161697" y="0.824809" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_2" pos="0.127851,0.844114" src="row_colour_2" fill="239,241,255" stroke="0,0,0" strokewidth="1" zpos="0.001" x="0.113171" y="0.824539" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_3" pos="0.0766697,0.844332" src="row_colour_3" fill="255,238,238" stroke="0,0,0" strokewidth="1" zpos="0.002" x="0.0619888" y="0.824758" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_4" pos="0.0839977,0.902189" src="row_colour_4" fill="253,254,213" stroke="0,0,0" strokewidth="1" zpos="0.003" x="0.0693169" y="0.882614" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_5" pos="0.127756,0.902056" src="row_colour_5" fill="255,242,224" stroke="0,0,0" strokewidth="1" zpos="0.004" x="0.113075" y="0.882482" width="0.0293617" height="0.039149" />
+		<rectangle id="row_colour_6" pos="0.175852,0.901176" src="row_colour_6" fill="232,254,230" stroke="0,0,0" strokewidth="1" zpos="0.005" x="0.161171" y="0.881602" width="0.0293617" height="0.039149" />
+		<rectangle id="symbol_colour_hilited" pos="0.652758,0.944639" src="symbol_colour_hilited" fill="254,159,249" stroke="0,0,0" strokewidth="1" zpos="0.015" x="0.638077" y="0.925064" width="0.0293617" height="0.039149" />
+		<rectangle id="symbol_colour_normal" pos="0.652815,0.882739" src="symbol_colour_normal" fill="214,214,214" stroke="0,0,0" strokewidth="1" zpos="0.013" x="0.638134" y="0.863164" width="0.0293617" height="0.039149" />
+		<rectangle id="text_colour_hilited" pos="0.652853,0.821124" src="text_colour_hilited" fill="242,53,45" stroke="0,0,0" strokewidth="1" zpos="0.01" x="0.638172" y="0.801549" width="0.0293617" height="0.039149" />
+		<rectangle id="text_colour_movable" pos="0.757666,0.821332" src="text_colour_movable" fill="0,174,230" stroke="0,0,0" strokewidth="1" zpos="0.007" x="0.742985" y="0.801758" width="0.0293617" height="0.039149" />
+		<rectangle id="text_colour_normal" pos="0.705568,0.82034" src="text_colour_normal" fill="0,0,0" stroke="0,0,0" strokewidth="1" zpos="0.006" x="0.690887" y="0.800766" width="0.0293617" height="0.039149" />
+		<rectangle id="text_colour_plural" pos="0.757437,0.88221" src="text_colour_plural" fill="255,161,0" stroke="0,0,0" strokewidth="1" zpos="0.009" x="0.742756" y="0.862635" width="0.0293617" height="0.039149" />
+		<rectangle id="text_colour_singular" pos="0.705095,0.882703" src="text_colour_singular" fill="115,229,16" stroke="0,0,0" strokewidth="1" zpos="0.008" x="0.690414" y="0.863129" width="0.0293617" height="0.039149" />
+		<rectangle id="button" pos="0.50051,0.882774" src="button" fill="0,162,154" shadowcolour="204,204,204" shadowradius="0" shadowxoffset="0" shadowyoffset="5" zpos="1.006" x="0.433594" y="0.821615" width="0.133832" height="0.12232" cornerradius="0.235294" />
+		<rectangle id="plural_box" pos="0.743164,0.453125" src="plural_box" fill="241,254,253" stroke="190,231,227" strokewidth="2" zpos="1" x="0.518555" y="0.153646" width="0.449219" height="0.598958" />
+		<rectangle id="plural_label" pos="0.743301,0.694682" src="plural_label" fill="26,190,2" zpos="1.001" x="0.547989" y="0.645854" width="0.390625" height="0.0976562" />
+		<group id="plural_symbol"  pos="0.743885,0.102249" src="plural_symbol" zpos="1.002">
+			<circle id="Circle9 copy" pos="0.716003,0.102173" src="Circle9 copy" fill="214,214,214" stroke="255,255,255" strokewidth="2" zpos="1" x="0.702141" y="0.0836894" width="0.0277252" height="0.036967" />
+			<circle id="Circle9 copy copy" pos="0.734352,0.10201" src="Circle9 copy copy" fill="214,214,214" stroke="255,255,255" strokewidth="2" zpos="1.001" x="0.72049" y="0.0835266" width="0.0277252" height="0.036967" />
+			<circle id="Circle9 copy copy copy" pos="0.752277,0.10261" src="Circle9 copy copy copy" fill="214,214,214" stroke="255,255,255" strokewidth="2" zpos="1.002" x="0.738415" y="0.0841268" width="0.0277252" height="0.036967" />
+			<circle id="Circle9 copy copy copy copy" pos="0.771347,0.101888" src="Circle9 copy copy copy copy" fill="214,214,214" stroke="255,255,255" strokewidth="2" zpos="1.003" x="0.757065" y="0.0834045" width="0.0285645" height="0.036967" />
+		</group>
+		<rectangle id="singular_box" pos="0.255859,0.453125" src="singular_box" fill="241,254,253" stroke="190,231,227" strokewidth="2" zpos="1.003" x="0.03125" y="0.153646" width="0.449219" height="0.598958" />
+		<rectangle id="singular_label" pos="0.256699,0.695964" src="singular_label" fill="26,190,2" zpos="1.004" x="0.0613861" y="0.647135" width="0.390625" height="0.0976562" />
+		<circle id="singular_symbol" pos="0.256195,0.102437" src="singular_symbol" fill="214,214,214" stroke="255,255,255" strokewidth="2" zpos="1.005" x="0.242332" y="0.0839539" width="0.0277252" height="0.036967" />
+		<vector id="presenter" pos="0.5,0.705729" src="annawithear" fill="0,236,224" zpos="2" />
+	</event>
+</events>

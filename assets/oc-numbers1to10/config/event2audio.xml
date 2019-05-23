@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_twogoeshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowyourturn</phrase>
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumbertoitsplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumbertoitsplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_dothisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumbertoitsplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtwonumbersaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillthesein</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillthesein</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowthreenumbersaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillthesein</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillthesein</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfournumbersaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_herefivenumbersaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthemissingnumberstotheirplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_verygoodyoufilledinthemissingnumbersintherightplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

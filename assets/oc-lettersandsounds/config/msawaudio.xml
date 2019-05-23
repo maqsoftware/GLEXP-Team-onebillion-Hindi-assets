@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="demo">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_letsputsomeletterstogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>msaw_letsmakesomewords</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>msaw_youllneedyourletterbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>msaw_youarelearningtoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="introduction">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_letsputsomeletterstogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>msaw_letsmakesomewords_introduction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="11">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_touchtheletterbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>msaw_touchtheletterbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="BOX.REPEAT">
+			<phrase>msaw_touchtheletterbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>msaw_touchthebuttonandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO2">
+			<phrase>msaw_touchthebuttonandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2">
+			<phrase>msaw_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>msaw_nowwatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON3">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON3.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>msaw_goodweputletterstogetherandgotanewsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.FINAL">
+			<phrase>msaw_greatyoumadeaword</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>msaw_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="12">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_letsdoitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>msaw_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="13">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>msaw_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="21">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_getreadyforsomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="22">
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="23">
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="31">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_therearelotsmoreletterswaitingforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="32">
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="33">
+		<phrasegroup id="BUTTON">
+			<phrase>msaw_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="BUTTON.REPEAT">
+			<phrase>msaw_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>msaw_great</phrase>
+			<phrase>msaw_weputletterstogetherandyoulistenedtothesounds</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>msaw_welldoneyoumadewords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="lid_open">
+			<phrase>cf_door_creak_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="letters_out">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_on">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch_button">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letters_home">
+			<phrase>click_snap_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>sandpaper_scrape_lengthened</phrase>
+		</phrasegroup>
+		<phrasegroup id="segment">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="box_slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="image_on">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="image_off">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

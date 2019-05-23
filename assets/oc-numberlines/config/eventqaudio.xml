@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Q1">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichtreehasmoreoranges</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichtreehasmoreoranges</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="PROMPT">
+			<phrase>q_chooseanumberthatismorethanseven</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_chooseanumberthatismorethanseven</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="PROMPT">
+			<phrase>q_chooseallthenumbersthatarelessthantwentyfour</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_chooseallthenumbersthatarelessthantwentyfour</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="PROMPT">
+			<phrase>q_ifthefrogdoesthreejumpswherewillitland</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_ifthefrogdoesthreejumpswherewillitland</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="PROMPT">
+			<phrase>q_ifthefrogdoesfourjumpsbackwherewillitland</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_ifthefrogdoesfourjumpsbackwherewillitland</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="PROMPT">
+			<phrase>q_makejumpstoshowtwelveminusfive</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_makejumpstoshowtwelveminusfive</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichnumberisonemorethanthirtyfivefindit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_whichnumberisonemorethanthirtyfivefindit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="PROMPT">
+			<phrase>q_findninetynineonthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_findninetynineonthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="PROMPT">
+			<phrase>q_choosetheboxthatmatchesthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosetheboxthatmatchesthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="PROMPT">
+			<phrase>q_choosetheboxthatmatchesthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosetheboxthatmatchesthenumberline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="PROMPT">
+			<phrase>6_seeifyoucandragtheshapesintoplacetomakeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_dragtheshapesintoplacetomakeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsaflowergrowinginaflowerpot</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_dragtheshapesintoplacetomakeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsahorse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythis</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_dragtheshapesintoplacetomakeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsapenguinsittingontheice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thisisthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_dragtheshapesintoplacetomakeapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsabus</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldoneyoudraggedshapesintoplacetomakepictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

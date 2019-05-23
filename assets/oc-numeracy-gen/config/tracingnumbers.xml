@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="masterl" >
+		<rectangle id="letterrect" pos="0.5,0.502508" src="letterrect" fill="255,38,0" fillopacity="0.192224" zpos="0" hidden="true" widthtracksheight="true" x="0.299839" y="0.213715" width="0.400322" height="0.577586" pxwidth="409.93" pxheight="443.586" />
+	</event>
+	<event id="_0" >
+		<path id="Path0" pos="0.5,0.495659" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.5 0.04422c-0.199 0-0.289 0.202-0.289 0.451c0 0.249 0.0904 0.451 0.289 0.451c0.199 0 0.289-0.202 0.289-0.451L0.7891 0.4957c0-0.249-0.0904-0.451-0.289-0.451Z" />
+		<rectangle id="xbox" pos="0.500001,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.140321" y="0.00268307" width="0.71936" height="0.985953" />
+	</event>
+	<event id="_1" >
+		<path id="Path0" pos="0.499999,0.495659" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.5 0.04253L0.5 0.9488" />
+		<rectangle id="xbox" pos="0.5,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.329032" y="0.00268307" width="0.341935" height="0.985953" />
+	</event>
+	<event id="_2" >
+		<path id="Path0" pos="0.502411,0.485079" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.2353 0.1826c0.0539-0.069 0.105-0.118 0.22-0.133c0.139-0.0187 0.293 0.0327 0.295 0.255c0.00283 0.316-0.515 0.487-0.515 0.636L0.7695 0.9398" />
+		<rectangle id="xbox" pos="0.5,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.155881" y="0.00268307" width="0.688237" height="0.985953" />
+	</event>
+	<event id="_3" >
+		<path id="Path0" pos="0.534183,0.490877" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.2622 0.0883c0 0 0.419-0.149 0.47 0.117c0.0444 0.232-0.347 0.273-0.347 0.273c0 0 0.422-0.000249 0.351 0.29c-0.0638 0.274-0.473 0.151-0.473 0.151" />
+		<rectangle id="xbox" pos="0.5,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.171866" y="0.00268307" width="0.656267" height="0.985953" />
+	</event>
+	<event id="_4" >
+		<path id="Path0" pos="0.5,0.365233" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.002" d="M0.5878 0.04544L0.1658 0.685L0.8342 0.685" />
+		<path id="Path1" pos="0.687832,0.698224" parent="letterrect" src="Path1" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.6878 0.448L0.6878 0.9485" />
+		<rectangle id="xbox" pos="0.501591,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.0792914" y="0.00268307" width="0.8446" height="0.985953" />
+	</event>
+	<event id="_5" >
+		<path id="Path0" pos="0.5,0.537455" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.7264 0.05112L0.2785 0.05112L0.2785 0.4374c0 0 0.463-0.101 0.463 0.255c0 0.331-0.418 0.253-0.483 0.228" />
+		<rectangle id="xbox" pos="0.481023,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.151379" y="0.00268307" width="0.659288" height="0.985953" />
+	</event>
+	<event id="_6" >
+		<path id="Path0" pos="0.5,0.498739" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.6952 0.04874c0 0-0.195 0.0181-0.341 0.148c-0.0876 0.0782-0.158 0.197-0.158 0.376c0 0.331 0.217 0.375 0.303 0.375c0.0773 0 0.266-0.048 0.288-0.244c0.0149-0.131-0.0824-0.29-0.259-0.292c-0.144-0.00224-0.29 0.119-0.314 0.288" />
+		<rectangle id="xbox" pos="0.489828,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.103829" y="0.00268307" width="0.771998" height="0.985953" />
+	</event>
+	<event id="_7" >
+		<path id="Path0" pos="0.5,0.500015" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.2033 0.05124L0.7967 0.05166L0.3598 0.9488" />
+		<rectangle id="xbox" pos="0.496855,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.0846182" y="0.00268307" width="0.824474" height="0.985953" />
+	</event>
+	<event id="_8" >
+		<path id="Path0" pos="0.5,0.495659" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.4942 0.04422c0 0-0.273 0-0.273 0.193c0 0.22 0.577 0.216 0.577 0.48c0 0.22-0.312 0.23-0.312 0.23c0 0-0.285 0-0.285-0.227c0-0.26 0.57-0.26 0.57-0.497c0-0.179-0.277-0.179-0.277-0.179L0.4942 0.04422Z" />
+		<rectangle id="xbox" pos="0.498066,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.112929" y="0.00268307" width="0.770273" height="0.985953" />
+	</event>
+	<event id="_9" >
+		<path id="Path0" pos="0.494999,0.308642" parent="letterrect" src="Path0" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.002" d="M0.7666 0.2216c-0.00598-0.0331-0.0155-0.06-0.0305-0.0818c-0.0564-0.0825-0.153-0.0933-0.224-0.0951c-0.0778-0.00188-0.251 0.0349-0.273 0.234c-0.015 0.132 0.0664 0.291 0.244 0.294c0.125 0.00195 0.228-0.0395 0.282-0.141" />
+		<path id="Path1" pos="0.771583,0.58478" parent="letterrect" src="Path1" stroke="47,42,43" strokewidth="35" linecap="round" linejoin="round" zpos="2.001" d="M0.7666 0.2213c0.00873 0.0485 0.01 0.11 0.01 0.189c0 0.482-0.000122 0.538-0.000122 0.538" />
+		<rectangle id="xbox" pos="0.524499,0.49566" parent="letterrect" src="xbox" fill="255,255,255" zpos="2" hidden="true" x="0.157049" y="0.00268307" width="0.734901" height="0.985953" />
+	</event>
+</events>

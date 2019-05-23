@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.093401893">
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_looksevenflowers</phrase>
+			<phrase>2_thisbuttonletsmeaddmore</phrase>
+			<phrase>2_nowtherearetwelveflowers</phrase>
+			<phrase>2_soichoosetwelve</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_plus</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_equals</phrase>
+			<phrase>2_twelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="DEMO">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_sixflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_usethebuttontoaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_usethebuttontoaddfivemoreflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanyflowersaretherenow</phrase>
+			<phrase>2_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_six</phrase>
+			<phrase>2_plus_2b</phrase>
+			<phrase>2_five_2b</phrase>
+			<phrase>2_equals_2b</phrase>
+			<phrase>2_eleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyflowersaretherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="DEMO">
+			<phrase>2_sevenfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_sevenfish</phrase>
+			<phrase>2_addfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_choosethenumber_2c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_right</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_sevenplusfourequalseleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_howmanyfisharetherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="DEMO">
+			<phrase>2_eightfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addfourmore_2d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_eightfish</phrase>
+			<phrase>2_addfourmore_2d</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_eightplusfourequalstwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyfisharetherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="DEMO">
+			<phrase>2_nineapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_nineapples</phrase>
+			<phrase>2_addfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow_2e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_nineplusfiveequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+			<phrase>2_howmanyapplesaretherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="DEMO">
+			<phrase>2_tenapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addfourapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_tenapples</phrase>
+			<phrase>2_addfourapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow_2e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_tenplusfourequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="DEMO">
+			<phrase>2_tencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addsixmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_tencounters</phrase>
+			<phrase>2_addsixmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow_2g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_tenplussixequalssixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="DEMO">
+			<phrase>2_tencounters_2i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addtenmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_tencounters_2i</phrase>
+			<phrase>2_addtenmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow_2g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_tenplustenequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="DEMO">
+			<phrase>2_thirteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_addsevencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_thirteencounters</phrase>
+			<phrase>2_addsevencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_howmanyaretherenow_2g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>2_thirteenplussevenequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale2j">
+		<phrasegroup id="DEMO">
+			<phrase>2_verygoodyouaddednumbersyoudidaddition</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="DEMO">
+			<phrase>2_letstryaddingbycountingon</phrase>
+			<phrase>2_elevencounters</phrase>
+			<phrase>2_iwantfifteen</phrase>
+			<phrase>2_soiaddmoreandcounton</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_nowitouchtheorangebutton</phrase>
+			<phrase>2_iaddedfourcounters</phrase>
+			<phrase>2_elevenplusfourequalsfifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="DEMO">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_tencounters_2l</phrase>
+			<phrase>2_iwantfourteen</phrase>
+			<phrase>2_soaddmoreandcountonwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_givemefourteencountersaltogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_goodfourteencounters</phrase>
+			<phrase>2_sotouchthisbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>2_touchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youaddedfourcounters</phrase>
+			<phrase>2_tenplusfourequalsfourteen_2l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowyoumustcountbyyourself</phrase>
+			<phrase>2_tencounters_2m</phrase>
+			<phrase>2_makethemuptoseventeen</phrase>
+			<phrase>2_thentouchtheorangebutton</phrase>
+			<phrase>2_ifyouaddtoomanytouchtheloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstogiveseventeen</phrase>
+			<phrase>2_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FIRSTPRESS">
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_makethemuptoseventeen_2m</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>2_addcounterstogiveseventeen</phrase>
+			<phrase>2_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_good</phrase>
+			<phrase>2_youaddedsevencounters</phrase>
+			<phrase>2_tenplussevenequalsseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_tenplussevenequalsseventeen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="DEMO">
+			<phrase>2_thirteencounters_2o</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_iwanttwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstomaketwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FIRSTPRESS">
+			<phrase>2_dontforgettocountontotwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youaddedsevencounters</phrase>
+			<phrase>2_thirteenplussevenequalstwenty_2o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_thirteenplussevenequalstwenty_2o</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="DEMO">
+			<phrase>2_fifteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_makethemuptotwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstomaketwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fifteenplusfiveequalstwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_fifteenplusfiveequalstwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2q">
+		<phrasegroup id="DEMO">
+			<phrase>2_fivecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_idlikethirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstomakethirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fivepluseightequalsthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_six_2q</phrase>
+			<phrase>2_seven_2q</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_fivepluseightequalsthirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="DEMO">
+			<phrase>2_sixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_makethemuptofifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstomakefifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_sixplusnineequalsfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_seven_2q</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_sixplusnineequalsfifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2s">
+		<phrasegroup id="DEMO">
+			<phrase>2_eightcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_iwanttwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_addcounterstomaketwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youaddedfourteencounters</phrase>
+			<phrase>2_eightplusfourteenequalstwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_addcounterstogivetherightnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>2_lookandlisten</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven_2l</phrase>
+			<phrase>2_twelve_2k</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_twentyone</phrase>
+			<phrase>2_twentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>2_eightplusfourteenequalstwentytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_excellentyouaddednumbersbycountingon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equcomplete">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpress">
+			<phrase>ping</phrase>
+		</phrasegroup>
+		<phrasegroup id="numpopon">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="objectson">
+			<phrase>note_beepy_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpopon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="repeatequon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="submit">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

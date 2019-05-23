@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_lookihaveaspecialboxforyou</phrase>
+			<phrase>mgp_ithasthelettersofthealphabet</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mgp_theselettersareclever</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>mgp_theyaresoundswrittendown</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>mgp_touchtheboxtoseesomeletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheboxtoseesomeletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a1">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_nowtouchtheletterstoheartheirsounds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchalettertohearitssound</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_touchalettertohearitssound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="adefault">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchalettertohearitssound</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mgp_whenyouknowthelettersyoullbeabletoread</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>mgp_illhelpyoulearnletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_whenyouknowthelettersyoullbeabletoread_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mgp_isntthatwonderful</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>mgp_illhelpyoulearnletters</phrase>
+			<phrase>mgp_touchyourletterbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchyourletterbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b0">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_touchthisoneandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>mgp_touchtheseandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheletterandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_touchthelettersandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b1">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_letshearwordswhichbeginwiththisletter</phrase>
+			<phrase>mgp_letshearwordswhichcontainthisletter</phrase>
+			<phrase>mgp_letshearwordswhichendwiththisletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>mgp_letshearwordswhichbeginwiththeseletters</phrase>
+			<phrase>mgp_letshearwordswhichcontaintheseletters</phrase>
+			<phrase>mgp_letshearwordswhichendwiththeseletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mgp_touchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO2">
+			<phrase>mgp_touchthemagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheletterandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_touchthelettersandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheletterandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_touchthelettersandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="bdefault">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheletterandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_again</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_touchthelettersandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="blast">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_touchtheletterandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_touchthelettersandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mgp_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c1">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_nowletsseeifyouremember</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_whichonegivesthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_whichgivethissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c2">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_chooseagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_chooseagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c3">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_again_c3</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_again_c3</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="cdefault">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_andagain_cdefault</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_andagain_cdefault</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="clast">
+		<phrasegroup id="PROMPT">
+			<phrase>mgp_onelasttime_clast</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>mgp_onelasttime_clast</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>mgp_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mgp_choosetheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>mgp_choosethelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>mgp_good_finale</phrase>
+			<phrase>mgp_youmettheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>mgp_good_finale</phrase>
+			<phrase>mgp_youmetthelettersforthissound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="lid_open">
+			<phrase>cf_door_creak_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="lid_close">
+			<phrase>click_double_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letters_out">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="letters_home">
+			<phrase>click_snap_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="letter_sting">
+			<phrase>ascending_twinkle</phrase>
+		</phrasegroup>
+		<phrasegroup id="letter_home">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="box_slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="image_on">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="image_off">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

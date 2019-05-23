@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<vector id="box" pos="0.15959,0.789022" src="box" scalex="1.48204" scaley="1.48204" zpos="0" hidden="true" />
+		<vector id="button" pos="0.490429,0.55246" src="letter_button" scalex="0.381039" scaley="0.381039" zpos="0.002" hidden="true" />
+		<rectangle id="imagebox" pos="0.798796,0.726606" src="imagebox" fill="4,51,255" zpos="0.004" hidden="true" widthtracksheight="" x="0.611328" y="0.476649" width="0.374935" height="0.499914" pxwidth="383.934" pxheight="383.934" />
+		<vector id="presenter" pos="0.5,0.676854" src="anna" scalex="1.11038" scaley="1.11038" zpos="0.003" hidden="true" />
+		<rectangle id="textbox" pos="0.491863,0.345146" src="textbox" fill="255,255,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.185604" y="0.216334" width="0.612518" height="0.257624" pxwidth="627.219" pxheight="197.855" />
+	</event>
+</events>

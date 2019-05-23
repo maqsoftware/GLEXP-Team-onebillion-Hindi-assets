@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171128.133802211">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>listenthendrag_letslistentonumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>listenthendrag_listen</phrase>
+			<phrase>listenthendrag_nowwatchme</phrase>
+			<phrase>listenthendrag_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>listenthendrag_listenthenchoosethenumberyouheard</phrase>
+			<phrase>listenthendrag_dragittothebox</phrase>
+			<phrase>listenthendrag_thismighthelp</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>listenthendrag_dragthisnumbertothebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>listenthendrag_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>listenthendrag_dragthisnumbertothebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>listenthendrag_dragthisnumbertothebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="FINAL">
+			<phrase>listenthendrag_goodyoulistenedthenpickedoutthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="type_digit">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_box_appear">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_box_hide">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_appear">
+			<phrase>sandpaper_scrape_long</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_drop">
+			<phrase>single_beep_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="dash_hilite">
+			<phrase>single_beep_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

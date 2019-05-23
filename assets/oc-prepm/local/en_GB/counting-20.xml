@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<parts>
+	<part start="1000" mid="1000" end="1000">0</part>
+	<part start="1540" mid="2160" end="2600">1</part>
+	<part start="2660" mid="3240" end="3680">2</part>
+	<part start="4020" mid="4640" end="5020">3</part>
+	<part start="5460" mid="6120" end="6460">4</part>
+	<part start="6620" mid="7360" end="7660">5</part>
+	<part start="7860" mid="8640" end="8980">6</part>
+	<part start="9180" mid="9840" end="10220">7</part>
+	<part start="10660" mid="11400" end="11740">8</part>
+	<part start="11940" mid="12640" end="12980">9</part>
+	<part start="13300" mid="14040" end="14660">10</part>
+	<part start="15620" mid="16200" end="16540">11</part>
+	<part start="16860" mid="17640" end="17980">12</part>
+	<part start="18180" mid="18920" end="19260">13</part>
+	<part start="19620" mid="20280" end="20620">14</part>
+	<part start="20780" mid="21320" end="21660">15</part>
+	<part start="21980" mid="22720" end="23020">16</part>
+	<part start="23340" mid="24040" end="24420">17</part>
+	<part start="24660" mid="25400" end="25780">18</part>
+	<part start="26100" mid="26960" end="27260">19</part>
+	<part start="27380" mid="28160" end="28820">20</part>
+</parts>

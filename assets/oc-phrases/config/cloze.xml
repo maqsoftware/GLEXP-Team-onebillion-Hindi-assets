@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="64" >
+		<rectangle id="toprect" pos="0.5,0.408203" src="toprect" fill="255,38,0" fillopacity="0.362654" zpos="0.001" hidden="true" x="0" y="0" width="1" height="0.816406" />
+		<rectangle id="bottomlabelswatch" pos="0.0780735,0.606929" src="bottomlabelswatch" fill="0,86,229" zpos="0.005" hidden="true" x="0.0626564" y="0.580251" width="0.0308342" height="0.0533549" />
+		<rectangle id="bottomrect" pos="0.5,0.907962" src="bottomrect" fill="220,254,217" zpos="0" x="0" y="0.815923" width="1" height="0.184077" />
+		<image id="imagebox" pos="0.500944,0.352311" parent="toprect" src="ph_cat_in_hat" scalex="0.419155" scaley="0.419155" zpos="0.002" hidden="true" opacity="0.542867" />
+		<rectangle id="textbox" pos="0.505301,0.872682" parent="toprect" src="textbox" zpos="0.003" x="0.0791092" y="0.745365" width="0.852383" height="0.254635" />
+		<rectangle id="underline" pos="0.721111,0.699636" src="underline" fill="255,38,0" zpos="0.004" widthtracksheight="true" x="0.651958" y="0.697683" width="0.138306" height="0.00390625" pxwidth="141.625" pxheight="3" />
+	</event>
+	<event id="phrase" >
+		<rectangle id="greyswatch" pos="0.0764523,0.467634" src="greyswatch" fill="252,247,215" zpos="3" x="0.0586662" y="0.444158" width="0.0355721" height="0.0469513" />
+	</event>
+	<event id="sentence" >
+		<rectangle id="greyswatch" pos="0.0764523,0.467634" src="greyswatch" fill="237,252,214" zpos="3" x="0.0586662" y="0.444158" width="0.0355721" height="0.0469513" />
+	</event>
+</events>

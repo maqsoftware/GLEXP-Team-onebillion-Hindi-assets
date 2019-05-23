@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" gradienttop="255,110,2" gradientbottom="255,255,26" colour="0,0,0" >
+		<vector id="camera_icon" pos="0.950834,0.0551303" src="camera_icon" scalex="0.833567" scaley="0.833567" zpos="0.005" />
+		<vector id="camera_progress" pos="0.5,0.857707" src="camera_progress" zpos="0.006" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.853673" src="recording_button" scalex="0.69313" scaley="0.69313" zpos="0.003" />
+		<vector id="recording_pulse" pos="0.045948,0.0503133" src="recording_pulse" scalex="0.501359" scaley="0.501359" zpos="0.004" hidden="true" />
+		<rectangle id="video_background" pos="0.5,0.5" src="video_background" fill="0,0,0" stroke="0,0,0" strokewidth="1" zpos="0" x="0" y="0" width="1" height="1" />
+		<rectangle id="video_frame" pos="0.5,0.5" src="video_frame" fill="0,0,0" stroke="0,0,0" strokewidth="1" zpos="0.001" x="0" y="0" width="1" height="1" />
+		<rectangle id="video_overlay" pos="0.5,0.5" src="video_overlay" fill="0,0,0" stroke="0,0,0" strokewidth="1" zpos="0.002" opacity="0.6" x="0" y="0" width="1" height="1" />
+	</event>
+</events>

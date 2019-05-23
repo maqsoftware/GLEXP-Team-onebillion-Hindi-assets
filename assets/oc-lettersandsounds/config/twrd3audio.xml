@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170306.092944267">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_letstypewords</phrase>
+			<phrase>twrd3_listen</phrase>
+			<phrase>twrd3_nowwatchme</phrase>
+			<phrase>twrd3_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>twrd3_letstypewords</phrase>
+			<phrase>twrd3_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>twrd3_nowtypetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>twrd3_nowtypetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>twrd3_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_nowtypethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_andthelastword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>twrd3_typetheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>twrd3_welldoneyoutypedwords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineshow">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

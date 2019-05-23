@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+    <phrase id="ph1" type="phrases" imagename="ph_cat_in_hat">a cat in a hat</phrase>
+    <phrase id="ph2" type="phrases" imagename="ph_boy_with_dog_in_bag">the boy and his dog</phrase>
+    <phrase id="ph3" type="phrases" imagename="ph_duck_in_grass">a duck in the grass</phrase>
+    <phrase id="ph4" type="phrases" imagename="ph_camel_at_door">a cam/el at the door</phrase>
+    <phrase id="ph5" type="phrases" imagename="ph_carrot_and_mushroom">a car/rot and a mush/room</phrase>
+</phrases>

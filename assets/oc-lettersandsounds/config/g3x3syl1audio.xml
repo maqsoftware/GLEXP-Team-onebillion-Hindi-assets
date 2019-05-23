@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>g3x3syl1_letsmakesomewords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>g3x3syl1_ilistentotheword</phrase>
+			<phrase>g3x3syl1_nowitouchthesyllablestomakeit</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>g3x3syl1_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>g3x3syl1_listentotheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>g3x3syl1_nowtouchsyllablestomakeit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>g3x3syl1_touchsyllablestomaketheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g3x3syl1_listenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>g3x3syl1_good</phrase>
+			<phrase>g3x3syl1_nowletstrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>g3x3syl1_touchsyllablestomaketheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g3x3syl1_listenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>g3x3syl1_touchsyllablestomaketheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g3x3syl1_listenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>g3x3syl1_welldoneyoumadewordsfromsyllables</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="lines">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteron">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

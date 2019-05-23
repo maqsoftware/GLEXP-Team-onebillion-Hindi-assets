@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180324.134050462">
+	<event id="p1_1">
+		<phrasegroup id="DEMO">
+			<phrase>pbn_nowyoulllookatnumbersandchoosethebiggerone</phrase>
+			<phrase>pbn_areyouready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>pbn_letscheck</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pbn_letslook</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>pbn_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p1_2">
+		<phrasegroup id="PROMPT">
+			<phrase>pbn_whichnumberisbiggerthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>pbn_letscheck</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pbn_letslook</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>pbn_thisnumberisbigger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p1_default">
+		<phrasegroup id="PROMPT">
+			<phrase>pbn_choosethebiggernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>pbn_letscheck</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>pbn_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pbn_letslook</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_1">
+		<phrasegroup id="DEMO">
+			<phrase>pbn_nowseeifyoucangettherestright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>pbn_choosethebiggernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>pbn_letslook</phrase>
+			<phrase>pbn_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pbn_whichnumberisbigger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_default">
+		<phrasegroup id="PROMPT">
+			<phrase>pbn_choosethebiggernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>pbn_letslook</phrase>
+			<phrase>pbn_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>pbn_whichnumberisbigger</phrase>
+			<phrase>pbn_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>pbn_goodyoupickedthebiggernumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="graphicson">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff" vol="1.5">
+			<phrase>pop_water_droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="unit">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="ten">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="hundred">
+			<phrase>zip_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

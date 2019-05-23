@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a1">
+		<phrasegroup id="DEMO">
+			<phrase>sm2_thisisaboutsounds</phrase>
+			<phrase>sm2_soyoumustlisten</phrase>
+			<phrase>sm2_getready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a2">
+		<phrasegroup id="DEMO">
+			<phrase>sm2_letspractisewithsounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a3">
+		<phrasegroup id="DEMO">
+			<phrase>sm2_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sm2_whichonebeginswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>sm2_whichoneendswiththissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.DEMO">
+			<phrase>sm2_whichonehasthissoundinit</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>sm2_thisone</phrase>
+			<phrase>sm2_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REMINDER">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT.REPEAT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT.REMINDER">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT.REMINDER.REPEAT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>sm2_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="INTRO">
+			<phrase>sm2_good</phrase>
+			<phrase>sm2_nowtrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT.REPEAT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.PROMPT.REPEAT">
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonebeginswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichoneendswiththissound_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT2.INCORRECT">
+			<phrase>sm2_tryagain</phrase>
+			<phrase>sm2_whichonehasthissoundinit_b</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sm2_welldoneyoumatchedthingstosounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="splat">
+			<phrase>click_hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="popoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

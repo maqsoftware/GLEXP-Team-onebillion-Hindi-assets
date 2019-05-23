@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<rectangle id="bg" pos="0.5,0.306917" src="bg" fill="255,255,255" zpos="0.001" widthtracksheight="true" x="0.280273" y="0.0139486" width="0.439453" height="0.585938" pxwidth="450" pxheight="450" />
+		<path id="frame" pos="0.5,0.5" parent="bg" src="frame" fill="0,114,193" zpos="0.003" d="M0.9944 0.00563L0.9944 0.9944L0.005631 0.9944L0.005631 0.00563L0.9944 0.00563ZM1.004 1.004L1.004 -0.004397L-0.004397 -0.004397L-0.004397 1.004L1.004 1.004Z" />
+		<rectangle id="shutter" pos="0.5,0.5" parent="bg" src="shutter" fill="19,185,253" stroke="0,114,193" strokewidth="2" zpos="0.002" widthtracksheight="true" x="0" y="-0.00111111" width="1" height="1.00222" pxwidth="450" pxheight="451" />
+		<rectangle id="textbox" pos="0.5,0.732091" src="textbox" fill="0,234,254" zpos="0" hidden="true" x="0.0312691" y="0.632151" width="0.937462" height="0.19988" />
+	</event>
+</events>

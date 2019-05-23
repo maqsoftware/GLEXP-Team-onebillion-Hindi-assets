@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171123.141337605">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sentmake_letsmakesentenceslisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sentmake_nowwatchme</phrase>
+			<phrase>sentmake_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>sentmake_getreadytolisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sentmake_thendragthewordstotheredlineintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>sentmake_thismighthelp</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sentmake_listenthendragthewordstotheredlineintherightorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sentmake_listenthendragthecorrectwordtotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="INTRO">
+			<phrase>sentmake_letstrysomemore</phrase>
+			<phrase>sentmake_youknowwhattodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sentmake_excellentyouputwordsintherightordertomakesentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff" vol="0.5">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="line" vol="0.5">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

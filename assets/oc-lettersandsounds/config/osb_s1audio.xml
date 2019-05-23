@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sb_letsseehowsyllablesmakewords</phrase>
+			<phrase>sb_touchthebutton</phrase>
+			<phrase>sb_seeifyoucantalkalong</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>sb_nowtouchthebuttonformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sb_greatyousawhowwordsarebrokenintosyllables</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="imageon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="texton">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="segment">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>blend</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

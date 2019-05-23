@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_looktherearethreecakes</phrase>
+			<phrase>6_touchthelinetoaddonemore</phrase>
+			<phrase>6_likethis</phrase>
+			<phrase>6_howmanycakesaretherenow</phrase>
+			<phrase>6_one</phrase>
+			<phrase>6_two</phrase>
+			<phrase>6_three</phrase>
+			<phrase>6_four</phrase>
+			<phrase>6_touchfour</phrase>
+			<phrase>6_threeaddonegivesfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowyourturn</phrase>
+			<phrase>6_therearefivecakes</phrase>
+			<phrase>6_touchthelinetoaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthelinetoaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanycakesaretherenow</phrase>
+			<phrase>6_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanycakesaretherenow</phrase>
+			<phrase>6_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_fiveaddonegivessix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_therearesixoranges</phrase>
+			<phrase>6_addonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearesixoranges</phrase>
+			<phrase>6_addonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_sixaddonegivesseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_therearesevenbananas</phrase>
+			<phrase>6_addonemore_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearesevenbananas</phrase>
+			<phrase>6_addonemore_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyaretherenow_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyaretherenow_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_sevenaddonegiveseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thereareeightsweets</phrase>
+			<phrase>6_addonemore_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_thereareeightsweets</phrase>
+			<phrase>6_addonemore_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyaretherenow_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyaretherenow_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_eightaddonegivesnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_therearenineapples</phrase>
+			<phrase>6_addonemore_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearenineapples</phrase>
+			<phrase>6_addonemore_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyaretherenow_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyaretherenow_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_nineaddonegivesten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowletstakethingsawaytherearefourbottlesoforangejuice</phrase>
+			<phrase>6_touchonetotakeitaway</phrase>
+			<phrase>6_likethis</phrase>
+			<phrase>6_therearethreebottlesleft</phrase>
+			<phrase>6_touchthree</phrase>
+			<phrase>6_fourtakeawayonegivesthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_therearesevenbottlesoforangejuice</phrase>
+			<phrase>6_takeawayone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearesevenbottlesoforangejuice</phrase>
+			<phrase>6_takeawayone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_seventakeawayonegivessix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thereareeightbananas</phrase>
+			<phrase>6_takeawayone_6i</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_thereareeightbananas</phrase>
+			<phrase>6_takeawayone_6i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyareleft_6i</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyareleft_6i</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_eighttakeawayonegivesseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6j">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thereareninemangoes</phrase>
+			<phrase>6_takeawayone_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_thereareninemangoes</phrase>
+			<phrase>6_takeawayone_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyareleft_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyareleft_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_ninetakeawayonegiveseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="PROMPT">
+			<phrase>6_therearetenapples</phrase>
+			<phrase>6_takeawayone_6k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearetenapples</phrase>
+			<phrase>6_takeawayone_6k</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyareleft_6k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyareleft_6k</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_tentakeawayonegivesnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l">
+		<phrasegroup id="PROMPT">
+			<phrase>6_therearetwocakes</phrase>
+			<phrase>6_takeawayone_6l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_therearetwocakes</phrase>
+			<phrase>6_takeawayone_6l</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_howmanyareleft_6l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_howmanyareleft_6l</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_twotakeawayonegivesone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldoneyoushowedhowmanythereareafteronethingisaddedortakenaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

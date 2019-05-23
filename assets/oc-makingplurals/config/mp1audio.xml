@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180326.130430133">
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>mp1_letslookatwordsformorethanoneofathing</phrase>
+			<phrase>mp1_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>mp1_lookonedot</phrase>
+			<phrase>mp1_singular</phrase>
+			<phrase>mp1_morethanonedot</phrase>
+			<phrase>mp1_plural</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>mp1_nowtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>mp1_touchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="DEMO">
+			<phrase>mp1_herearethosewordsagain</phrase>
+			<phrase>mp1_rememberoneofathing</phrase>
+			<phrase>mp1_singular</phrase>
+			<phrase>mp1_morethanoneofathing</phrase>
+			<phrase>mp1_plural</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mp1_forthesewordsthesingularandpluralarethesame</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>mp1_forthesewordsthesingularandpluralareverydifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>mp1_tomakethepluralsaletterisadded</phrase>
+			<phrase>mp1_tomakethepluralslettersareadded</phrase>
+			<phrase>mp1_lookatthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>mp1_lookatthepatternhere</phrase>
+			<phrase>mp1_andhere</phrase>
+			<phrase>mp1_tomakethepluralsaletterisadded</phrase>
+			<phrase>mp1_tomakethepluralslettersareadded</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>mp1_lookatthepatternhere</phrase>
+			<phrase>mp1_andhere</phrase>
+			<phrase>mp1_aletterischangedtomaketheplural</phrase>
+			<phrase>mp1_lettersarechangedtomaketheplural</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="DEMO">
+			<phrase>mp1_nowtrythis</phrase>
+			<phrase>mp1_singular</phrase>
+			<phrase>mp1_plural</phrase>
+			<phrase>mp1_buttheseareinthewrongorder</phrase>
+			<phrase>mp1_watchme</phrase>
+			<phrase>mp1_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>mp1_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="j">
+		<phrasegroup id="DEMO">
+			<phrase>mp1_goodtheyreinorder</phrase>
+			<phrase>mp1_letscompare</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mp1_thesingularandpluralarethesame</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>mp1_thesingularandpluralareverydifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>mp1_aletterisaddedtomakethepiural</phrase>
+			<phrase>mp1_lettersareaddedtomaketheplural</phrase>
+			<phrase>mp1_lookatthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>mp1_lookatthepatternhere</phrase>
+			<phrase>mp1_andhere</phrase>
+			<phrase>mp1_aletterisaddedtomakethepiural</phrase>
+			<phrase>mp1_lettersareaddedtomaketheplural</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>mp1_lookatthepatternhere</phrase>
+			<phrase>mp1_andhere</phrase>
+			<phrase>mp1_aletterischangedtomaketheplural</phrase>
+			<phrase>mp1_lettersarechangedtomaketheplural</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mp1_greatyoulearnedaboutmakingplurals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="buttonactive">
+			<phrase>cf_bell</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttontouch">
+			<phrase>single_click_light_shorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="imageon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordpicoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="singular">
+			<phrase>note1</phrase>
+		</phrasegroup>
+		<phrasegroup id="plural">
+			<phrase>note3 </phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>cf_fingersnap_shorter_1 </phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="singpattern">
+			<phrase>cf_shake_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="pluralpattern">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="underline">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

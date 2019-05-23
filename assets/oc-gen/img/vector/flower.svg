@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="97.333px" height="148.667px" viewBox="0 0 97.333 148.667" enable-background="new 0 0 97.333 148.667"
+	 xml:space="preserve">
+<ellipse id="colour_12_" fill="#6C5735" cx="46.513" cy="144.776" rx="4.262" ry="0.892"/>
+<g id="stem">
+	<path id="colour_11_" fill="#016937" d="M45.53,145.644c-0.167-0.004-5.822-16.352-8.18-36.23
+		c-1.389-11.699-1.319-22.541,0.206-32.229c1.917-12.171,6.15-22.545,12.582-30.834l1.772,1.376
+		C37.845,65.854,37.44,91.132,39.579,109.149c2.327,19.61,8.696,36.435,8.533,36.454C47.624,145.667,46.391,145.667,45.53,145.644z"
+		/>
+</g>
+<g id="petal_light_5">
+	
+		<ellipse id="colour_10_" transform="matrix(0.1979 -0.9802 0.9802 0.1979 19.8078 70.4571)" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" cx="52.955" cy="23.125" rx="18.657" ry="6.273"/>
+</g>
+<g id="petal_dark_5">
+	
+		<ellipse id="colour_9_" transform="matrix(0.0924 -0.9957 0.9957 0.0924 -30.9795 111.6039)" fill="#0072BC" stroke="#000000" stroke-miterlimit="10" cx="45.73" cy="72.796" rx="18.657" ry="6.271"/>
+</g>
+<g id="petal_light_4">
+	
+		<ellipse id="colour_8_" transform="matrix(-0.9925 0.1219 -0.1219 -0.9925 153.157 80.4637)" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" cx="74.117" cy="44.917" rx="18.656" ry="6.273"/>
+</g>
+<g id="petal_dark_4">
+	<path id="colour_7_" fill="#0072BC" stroke="#000000" stroke-miterlimit="10" d="M22.297,45.078
+		c10.234-1.214,18.859,0.59,19.269,4.03c0.407,3.44-7.557,7.213-17.791,8.429c-10.233,1.213-18.86-0.593-19.268-4.033
+		C4.099,50.064,12.064,46.291,22.297,45.078z"/>
+</g>
+<g id="petal_light_3">
+	
+		<ellipse id="colour_6_" transform="matrix(0.5345 0.8452 -0.8452 0.5345 87.4852 -19.617)" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" cx="61.551" cy="69.61" rx="18.659" ry="6.273"/>
+</g>
+<g id="petal_dark_3">
+	<path id="colour_5_" fill="#0072BC" stroke="#000000" stroke-miterlimit="10" d="M41.684,22.843
+		c4.814,9.111,6.234,17.81,3.171,19.428c-3.064,1.619-9.449-4.456-14.264-13.566c-4.814-9.113-6.234-17.81-3.171-19.429
+		C30.484,7.658,36.871,13.73,41.684,22.843z"/>
+</g>
+<g id="petal_light_2">
+	
+		<ellipse id="colour_4_" transform="matrix(0.6865 -0.7271 0.7271 0.6865 -37.8676 43.0725)" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" cx="31.018" cy="65.452" rx="18.656" ry="6.272"/>
+</g>
+<g id="petal_dark_2">
+	
+		<ellipse id="colour_3_" transform="matrix(0.7636 -0.6457 0.6457 0.7636 -4.7339 51.163)" fill="#0072BC" stroke="#000000" stroke-miterlimit="10" cx="67.501" cy="32.046" rx="18.661" ry="6.273"/>
+</g>
+<g id="petal_light_1">
+	
+		<ellipse id="colour_2_" transform="matrix(-0.9003 -0.4352 0.4352 -0.9003 31.308 81.3607)" fill="#00AEEF" stroke="#000000" stroke-miterlimit="10" cx="24.971" cy="37.095" rx="18.655" ry="6.273"/>
+</g>
+<g id="petal_dark_1">
+	<path id="colour" fill="#0072BC" stroke="#000000" stroke-miterlimit="10" d="M73.52,53.457
+		c9.277,4.485,15.577,10.648,14.068,13.77c-1.508,3.119-10.25,2.013-19.529-2.475c-9.277-4.484-15.576-10.648-14.068-13.769
+		C55.499,47.865,64.243,48.97,73.52,53.457z"/>
+</g>
+<g id="middle">
+	<path id="colour_1_" fill="#FFF200" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M56.62,47.039
+		c0,4.739-3.845,8.582-8.58,8.582c-4.746,0-8.584-3.843-8.584-8.582c0-4.74,3.839-8.584,8.584-8.584
+		C52.776,38.458,56.62,42.298,56.62,47.039z"/>
+</g>
+</svg>

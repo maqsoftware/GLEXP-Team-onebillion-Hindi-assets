@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<circle id="blob" pos="0.298641,0.178991" src="blob" fill="0,0,0" zpos="0.008" widthtracksheight="true" x="0.286434" y="0.162715" width="0.0244141" height="0.0325521" pxwidth="25" pxheight="25" />
+		<rectangle id="letterrect0" pos="0.266964,0.368993" src="letterrect0" fill="4,51,255" fillopacity="0.277401" zpos="0.003" widthtracksheight="true" x="0.189857" y="0.257909" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect1" pos="0.422321,0.36851" src="letterrect1" fill="4,51,255" fillopacity="0.277401" zpos="0.002" widthtracksheight="true" x="0.345214" y="0.257426" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect2" pos="0.577679,0.369517" src="letterrect2" fill="4,51,255" fillopacity="0.277401" zpos="0.001" widthtracksheight="true" x="0.500572" y="0.258433" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect3" pos="0.733036,0.368866" src="letterrect3" fill="4,51,255" fillopacity="0.277401" zpos="0.006" widthtracksheight="true" x="0.655929" y="0.257782" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect4" pos="0.267105,0.629705" src="letterrect4" fill="4,51,255" fillopacity="0.277401" zpos="0" widthtracksheight="true" x="0.189998" y="0.518621" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect5" pos="0.422368,0.629705" src="letterrect5" fill="4,51,255" fillopacity="0.277401" zpos="0.004" widthtracksheight="true" x="0.345262" y="0.518621" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect6" pos="0.577632,0.629705" src="letterrect6" fill="4,51,255" fillopacity="0.277401" zpos="0.007" widthtracksheight="true" x="0.500525" y="0.518621" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect7" pos="0.732895,0.629705" src="letterrect7" fill="4,51,255" fillopacity="0.277401" zpos="0.005" widthtracksheight="true" x="0.655788" y="0.518621" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="spacer" pos="0.356379,0.319445" src="spacer" fill="4,51,255" fillopacity="0.277401" stroke="0,0,0" strokewidth="1" zpos="0.009" hidden="true" widthtracksheight="true" x="0.332302" y="0.19134" width="0.0481529" height="0.25621" pxwidth="49.3086" pxheight="196.77" />
+	</event>
+	<event id="masterb" >
+		<image id="yourImage" pos="0.5,0.498069" src="yourImage" scalex="1.31789" scaley="1.31789" zpos="0" />
+		<circle id="blob" pos="0.298641,0.178991" src="blob" fill="0,0,0" zpos="1" widthtracksheight="true" x="0.286434" y="0.162715" width="0.0244141" height="0.0325521" pxwidth="25" pxheight="25" />
+		<rectangle id="letterrect0" pos="0.512249,0.241882" src="letterrect0" scalex="0.8" scaley="0.8" fill="4,51,255" fillopacity="0.277401" zpos="1.001" widthtracksheight="true" x="0.435142" y="0.130798" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+		<rectangle id="letterrect1" pos="0.512249,0.552307" src="letterrect1" scalex="0.8" scaley="0.8" fill="4,51,255" fillopacity="0.277401" zpos="1.002" widthtracksheight="true" x="0.435142" y="0.441223" width="0.154214" height="0.222168" pxwidth="157.915" pxheight="170.625" />
+	</event>
+</events>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+	<object id="balloon">
+		<scheme id="red">
+			<layer id="body"	 	 colour="210,44,41"/>
+			<layer id="end"			 colour="210,44,41"/>
+		</scheme>
+		<scheme id="yellow">
+			<layer id="body"	 	 colour="246,236,19"/>
+			<layer id="end"			 colour="246,236,19"/>
+		</scheme>
+	</object>
+
+	<object id="bead">
+		<scheme id="blue">
+			<layer id="normal"	 	 colour="0,177,235"/>
+			<layer id="selected"	 colour="0,221,255"/>
+		</scheme>
+		<scheme id="pink">
+			<layer id="normal"	 	 colour="255,51,168"/>
+			<layer id="selected"	 colour="255,65,215"/>
+		</scheme>
+		<scheme id="yellow">
+			<layer id="normal"	 	 colour="255,235,0"/>
+			<layer id="selected"	 colour="255,255,0"/>
+		</scheme>
+	</object>
+
+	<object id="bird">
+		<scheme id="yellow">
+			<layer id="body"	 	 colour="249,157,28"/>
+			<layer id="frame1"		 colour="242,105,34"/>
+			<layer id="frame2"		 colour="242,105,34"/>
+		</scheme>
+		<scheme id="blue">
+			<layer id="body"	 	 colour="0,173,238"/>
+			<layer id="frame1" 		 colour="0,112,187"/>
+			<layer id="frame2"		 colour="0,112,187"/>
+		</scheme>
+	</object>
+
+	<object id="boat">
+		<scheme id="red">
+			<layer id="flag"	 colour="95,160,255"/>
+			<layer id="boat"	 colour="237,10,33"/>
+		</scheme>
+		<scheme id="blue">
+			<layer id="flag"	 colour="241,90,36"/>
+			<layer id="boat"	 colour="0,113,188"/>
+		</scheme>
+		<scheme id="orange">
+			<layer id="flag"	 colour="241,90,36"/>
+			<layer id="boat"	 colour="235,91,40"/>
+		</scheme>
+	</object>
+
+	<object id="bottle">
+		<scheme id="orange">
+			<layer id="cap"		 colour="229,36,42"/>
+			<layer id="liquid"	 colour="244,149,40"/>
+		</scheme>
+	</object>
+
+	<object id="butterfly">
+		<scheme id="blue">
+			<layer id="body"	 colour="13,129,132"/>
+			<layer id="light_1"	 colour="0,240,255"/>
+			<layer id="light_2"	 colour="0,240,255"/>
+			<layer id="light_3"	 colour="0,240,255"/>
+			<layer id="light_4"	 colour="0,240,255"/>
+			<layer id="dark_1"	 colour="31,174,192"/>
+			<layer id="dark_2"	 colour="31,174,192"/>
+			<layer id="dark_3"	 colour="31,174,192"/>
+			<layer id="dark_4"	 colour="31,174,192"/>
+		</scheme>
+		<scheme id="orange">
+			<layer id="body"	 colour="190,39,45"/>
+			<layer id="light_1"	 colour="244,144,30"/>
+			<layer id="light_2"	 colour="244,144,30"/>
+			<layer id="light_3"	 colour="244,144,30"/>
+			<layer id="light_4"	 colour="244,144,30"/>
+			<layer id="dark_1"	 colour="234,28,36"/>
+			<layer id="dark_2"	 colour="234,28,36"/>
+			<layer id="dark_3"	 colour="234,28,36"/>
+			<layer id="dark_4"	 colour="234,28,36"/>
+		</scheme>
+		<scheme id="orange_yellow">
+			<layer id="body"	 colour="255,66,0"/>
+			<layer id="light_1"	 colour="255,239,123"/>
+			<layer id="light_2"	 colour="255,239,123"/>
+			<layer id="light_3"	 colour="255,239,123"/>
+			<layer id="light_4"	 colour="255,239,123"/>
+			<layer id="dark_1"	 colour="255,66,0"/>
+			<layer id="dark_2"	 colour="255,66,0"/>
+			<layer id="dark_3"	 colour="255,66,0"/>
+			<layer id="dark_4"	 colour="255,66,0"/>
+		</scheme>
+	</object>
+
+	<object id="cup">
+		<scheme id="yellow">
+			<layer id="body"	 colour="242,191,0"/>
+			<layer id="base"	 colour="242,191,0"/>
+		</scheme>
+		<scheme id="red">
+			<layer id="body"	 colour="226,28,37"/>
+			<layer id="base"	 colour="226,28,37"/>
+		</scheme>
+		<scheme id="purple">
+			<layer id="body"	 colour="166,57,149"/>
+			<layer id="base"	 colour="166,57,149"/>
+		</scheme>
+		<scheme id="pink">
+			<layer id="body"	 colour="249,112,162"/>
+			<layer id="base"	 colour="249,112,162"/>
+		</scheme>
+		<scheme id="orange">
+			<layer id="body"	 colour="247,146,30"/>
+			<layer id="base"	 colour="247,146,30"/>
+		</scheme>
+	</object>
+
+	<object id="cupcake">
+		<scheme id="pink">
+			<layer id="top"	 	 colour="234,19,121"/>
+			<layer id="base"	 colour="141,73,21"/>
+		</scheme>
+		<scheme id="yellow">
+			<layer id="top"	 	 colour="246,230,0"/>
+			<layer id="base"	 colour="141,73,21"/>
+		</scheme>
+		<scheme id="blue">
+			<layer id="top"	 	 colour="10,186,238"/>
+			<layer id="base"	 colour="141,73,21"/>
+		</scheme>
+		<scheme id="red">
+			<layer id="top"	 	 colour="210,44,41"/>
+			<layer id="base"	 colour="141,73,21"/>
+		</scheme>
+		
+	</object>
+	
+	<object id="cupWithBase">
+		<scheme id="yellow">
+			<layer id="body"	 colour="242,191,0"/>
+			<layer id="base"	 colour="242,191,0"/>
+		</scheme>
+		<scheme id="red">
+			<layer id="body"	 colour="226,28,37"/>
+			<layer id="base"	 colour="226,28,37"/>
+		</scheme>
+		<scheme id="purple">
+			<layer id="body"	 colour="166,57,149"/>
+			<layer id="base"	 colour="166,57,149"/>
+		</scheme>
+		<scheme id="pink">
+			<layer id="body"	 colour="249,112,162"/>
+			<layer id="base"	 colour="249,112,162"/>
+		</scheme>
+		<scheme id="orange">
+			<layer id="body"	 colour="247,146,30"/>
+			<layer id="base"	 colour="247,146,30"/>
+		</scheme>
+	</object>
+
+	<object id="fish">
+		<scheme id="orange">
+			<layer id="body"	 	 colour="241,90,36"/>
+			<layer id="top_fin"	 	 colour="239,119,38"/>
+			<layer id="bottom_fin"	 colour="198,77,40"/>
+		</scheme>
+		<scheme id="yellow">
+			<layer id="body"	 	 colour="241,227,20"/>
+			<layer id="top_fin"	 	 colour="239,225,38"/>
+			<layer id="bottom_fin"	 colour="197,205,10"/>
+		</scheme>
+		<scheme id="blue_fin_yellow">
+			<layer id="body"	 	 colour="255,255,0"/>
+			<layer id="top_fin"	 	 colour="87,196,234"/>
+			<layer id="bottom_fin"	 colour="0,113,188"/>
+		</scheme>
+		<scheme id="teal">
+			<layer id="body"	 	 colour="14,224,218"/>
+			<layer id="top_fin"	 	 colour="48,216,216"/>
+			<layer id="bottom_fin"	 colour="63,169,163"/>
+		</scheme>
+	</object>
+
+	<object id="plate">
+		<scheme id="green">
+			<layer id="border"	 colour="57,181,74"/>
+			<layer id="middle"	 colour="37,145,89"/>
+			<layer id="shine"	 colour="37,126,77"/>
+		</scheme>
+	</object>
+
+	<object id="ruggedflower">
+		<scheme id="orange">
+			<layer id="middle"	 colour="217,31,39"/>
+			<layer id="petals"	 colour="246,175,27"/>
+		</scheme>
+		<scheme id="purple">
+			<layer id="middle"	 colour="241,230,13"/>
+			<layer id="petals"	 colour="231,31,122"/>
+		</scheme>
+	</object>
+
+
+	<object id="star">
+		<scheme id="red">
+			<layer id="frame"	 colour="237,28,36"/>
+		</scheme>
+		<scheme id="yellow">
+			<layer id="frame"	 colour="255,255,0"/>
+		</scheme>
+		<scheme id="green">
+			<layer id="frame"	 colour="7,248,30"/>
+		</scheme>
+		<scheme id="purple">
+			<layer id="frame"	 colour="248,21,217"/>
+		</scheme>
+	</object>
+
+	<object id="tshirt">
+		<scheme id="pink">
+			<layer id="body"	 colour="232,58,141"/>
+		</scheme>
+	</object>
+
+	<object id="umbrella">
+		<scheme id="yellow">
+			<layer id="left" 	 colour="227,156,37"/>
+			<layer id="middle"	 colour="239,229,29"/>
+			<layer id="right"	 colour="239,229,29"/>
+		</scheme>
+		<scheme id="green">
+			<layer id="left"	 colour="109,132,22"/>
+			<layer id="middle"	 colour="167,200,30"/>
+			<layer id="right"	 colour="167,200,30"/>
+		</scheme>
+		<scheme id="blue">
+			<layer id="left"	 colour="72,136,156"/>
+			<layer id="middle"	 colour="103,197,226"/>
+			<layer id="right"	 colour="103,197,226"/>
+		</scheme>
+		<scheme id="red">
+			<layer id="left"	 colour="179,29,29"/>
+			<layer id="middle"	 colour="220,8,18"/>
+			<layer id="right"	 colour="220,8,18"/>
+		</scheme>
+	</object>
+	<object id="skin_colours">
+		<scheme id="en_GB">
+			<layer id="body"	 colour="251,234,209"/>
+		</scheme>
+		<scheme id="skin1">
+			<layer id="body"	 colour="240,208,180"/>
+		</scheme>
+		<scheme id="skin2">
+			<layer id="body"	 colour="236,193,156"/>
+		</scheme>
+		<scheme id="skin3">
+			<layer id="body"	 colour="223,178,139"/>
+		</scheme>
+		<scheme id="skin4">
+			<layer id="body"	 colour="207,158,118"/>
+		</scheme>
+		<scheme id="skin5">
+			<layer id="body"	 colour="185,135,103"/>
+		</scheme>
+		<scheme id="skin6">
+			<layer id="body"	 colour="173,118,77"/>
+		</scheme>
+		<scheme id="ny">
+			<layer id="body"	 colour="158,100,60"/>
+		</scheme>
+		<scheme id="skin8">
+			<layer id="body"	 colour="150,100,75"/>
+		</scheme>
+		<scheme id="skin9">
+			<layer id="body"	 colour="140,89,68"/>
+		</scheme>
+	</object>
+
+</objects>

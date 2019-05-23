@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="it0,it1,it2,it3,it4,it5" colour="255,255,255" >
+	</event>
+	<event id="it0" colour="255,255,255" >
+		<image id="obj" pos="0.5,0.466146" src="it_truck" zpos="1" hidden="true" />
+	</event>
+	<event id="it1" >
+	</event>
+	<event id="it2" >
+		<vector id="obj" pos="0.501894,0.490744" src="bananas" scalex="0.892099" scaley="0.892099" zpos="1" />
+	</event>
+	<event id="it3" >
+		<vector id="obj" pos="0.506078,0.544223" src="leaf" scalex="1.05" scaley="1.05" rotation="-127.052" zpos="1" />
+	</event>
+	<event id="masterb" >
+		<vector id="dropbox" pos="0.676758,0.505208" src="it_dropbox" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="1" />
+	</event>
+	<event id="it4" >
+		<vector id="obj" pos="0.203718,0.743755" src="it_ball1" scalex="1.37771" scaley="1.37771" zpos="2" />
+	</event>
+	<event id="it4-2" >
+		<vector id="obj" pos="0.493955,0.635248" parent="dropbox" src="it_ball1" scalex="1.37771" scaley="1.37771" zpos="2" />
+	</event>
+	<event id="it5" >
+		<image id="ballrect" pos="0.150223,0.800161" src="it_ballrect" zpos="2" hidden="true" />
+		<image id="confirm" pos="0.920635,0.867884" src="confirmNormal" zpos="3.004" selected="confirmHilite" disabled="confirmDisabled" />
+		<vector id="obj1" pos="0.140473,0.734047" src="it_ball1" scalex="1.43506" scaley="1.43506" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="3" />
+		<vector id="obj2" pos="0.195312,0.503906" src="it_ball2" scalex="1.18613" scaley="1.18613" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="3.001" />
+		<vector id="obj3" pos="0.332891,0.528984" src="it_ball3" scalex="0.621076" scaley="0.621076" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="3.002" />
+		<vector id="obj4" pos="0.342611,0.790623" src="it_ball4" scalex="1.41592" scaley="1.41592" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="3.003" />
+	</event>
+	<event id="it5-2" >
+		<vector id="obj1" pos="0.70888,0.706407" parent="dropbox" src="it_ball1" scalex="1.43506" scaley="1.43506" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="2" />
+		<vector id="obj2" pos="0.801567,0.259659" parent="dropbox" src="it_ball2" scalex="1.18613" scaley="1.18613" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="2.001" />
+		<vector id="obj3" pos="0.283792,0.221039" parent="dropbox" src="it_ball3" scalex="0.621076" scaley="0.621076" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="2.002" />
+		<vector id="obj4" pos="0.2342,0.706559" parent="dropbox" src="it_ball4" scalex="1.41592" scaley="1.41592" shadowcolour="0,0,0" shadowopacity="0.11" shadowradius="1" shadowxoffset="0" shadowyoffset="8" zpos="2.003" />
+	</event>
+</events>

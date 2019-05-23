@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_lookattheboxes</phrase>
+			<phrase>7_iwillputaraindropineachgreenbox</phrase>
+			<phrase>7_likethis</phrase>
+			<phrase>7_nextadrumfortheblueboxes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_chooseonethingandputitinallthegreenboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonethingforallthegreenboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_chooseadifferentthingfortheblueboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>7_chooseonethingforalltheblueboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>7_nowtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>7_nowtouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_youhavemadeapatternofsounds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>7_youhavemadeapatternofsounds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>7_touchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT5">
+			<phrase>7_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="PROMPT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7d">
+		<phrasegroup id="PROMPT">
+			<phrase>7_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7e">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7f">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethesoundsforthispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7g">
+		<phrasegroup id="PROMPT">
+			<phrase>7_trythispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7h">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichtwosoundswillyouchoosethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7i">
+		<phrasegroup id="PROMPT">
+			<phrase>7_trythispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7j">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowdothisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7k">
+		<phrasegroup id="PROMPT">
+			<phrase>7_makeonemorepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_chooseonesoundforeachcolourofbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_welldoneyoumadedifferentpatternsofsounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>alpha3_youhaveanameandlettershavenames</phrase>
+			<phrase>alpha3_letslistentothem</phrase>
+			<phrase>alpha3_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha3_whenarowflashestouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>alpha3_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>alpha3_seeifyoucanjoinin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>alpha3_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha3_letsdothesecondrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>alpha3_andagain</phrase>
+			<phrase>alpha3_joinin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>alpha3_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha3_nowforthethirdrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>alpha3_joinin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>alpha3_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha3_andthelastrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>alpha3_joinin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>alpha3_onemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>alpha3_touchtheflashingrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>alpha3_good</phrase>
+			<phrase>alpha3_wecallthissetoflettersthealphabet</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha3_getreadytosaythealphabet</phrase>
+			<phrase>alpha3_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha3_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>alpha3_welldoneyoumetthealphabet</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="letterson">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_1">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_2">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_3">
+			<phrase>bleep_short_medium</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_4">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_5">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_6">
+			<phrase>drum</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_1" vol="0.4">
+			<phrase>rhythm_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_2" vol="0.6">
+			<phrase>rhythm_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_3" vol="0.6">
+			<phrase>rhythm_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_touchthiswheel</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthewheel</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtouchthebasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_itsthenumbersfromzerototen</phrase>
+			<phrase>2_letshangthemontheline</phrase>
+			<phrase>2_zeroisthesmallestnumber</phrase>
+			<phrase>2_soitgoeshere</phrase>
+			<phrase>2_sixgoeshere</phrase>
+			<phrase>2_andtengoesattheend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_firstputthenumbersthatarebiggerthansixontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putthenumbersthatarebiggerthansixintherightplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthenumbersthatarebiggerthansixintherightplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowplacetheothernumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putthenumbersintherightplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thelinehasallthenumbersinorder</phrase>
+			<phrase>2_wecallitanumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthenumbersintherightplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowyoulldrawyourownnumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthetwobluedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthetwobluedots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="DEMO">
+			<phrase>2_nextputthesemarkson</phrase>
+			<phrase>2_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_dragallthepinkmarkstotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragallthepinkmarkstotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtouchthebasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i2">
+        <phrasegroup id="DEMO">
+            <phrase>2_thenumberszerototentheygoatthemarks</phrase>
+            <phrase>2_likethis_2i</phrase>
+        </phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_puttheothernumbersintherightplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putthenumbersontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_welldoneyoudrewanumberlinefromzerototen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthesmallestnumberonthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthesmallestnumberonthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_touchthesmallestnumberonthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthebiggestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebiggestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_touchthebiggestnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_threeislessthanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_chooseanumberthatislessthanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_chooseanumberthatislessthanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_chooseanumberthatislessthanfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseanumberthatismorethanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_chooseanumberthatismorethanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_chooseanumberthatismorethanfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="DEMO">
+			<phrase>2_heresseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchallthenumbersthataremorethanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchallthenumbersthataremorethanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_remembernumbersgetbiggertotheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchallthenumbersthataremorethanseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="DEMO">
+			<phrase>2_heresfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchallthenumbersthatarelessthanfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchallthenumbersthatarelessthanfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_remembernumbersgetsmallertotheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_touchallthenumbersthatarelessthanfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2t">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2u">
+        <phrasegroup id="DEMO">
+            <phrase>2_morenumbers</phrase>
+            <phrase>2_sevenisthesmallest</phrase>
+            <phrase>2_soitgoeshere_2t</phrase>
+            <phrase>2_letsputintheothernumbers</phrase>
+            <phrase>2_likethis_2u</phrase>
+        </phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowyourturn</phrase>
+			<phrase>2_puttheothernumbersintherightplaces_2v</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_puttheothernumbersintherightplaces_2v</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2w">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2x">
+        <phrasegroup id="DEMO">
+            <phrase>2_differentnumbers</phrase>
+            <phrase>2_twentyisthesmallest</phrase>
+            <phrase>2_soitgoeshere_2w</phrase>
+            <phrase>2_andtwentyninegoeshere</phrase>
+        </phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_puttheothernumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_puttheothernumbersinplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2y">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_twentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchallthenumbersthataremorethantwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchallthenumbersthataremorethantwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thenumbersgetbiggertotheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_touchallthenumbersthataremorethantwentysix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2za">
+		<phrasegroup id="DEMO">
+			<phrase>2_herestwentyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchallthenumbersthataresmallerthantwentyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchallthenumbersthataresmallerthantwentyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thenumbersgetsmallertotheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_touchallthenumbersthataresmallerthantwentyfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2zc">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchthebasketagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2zd">
+        <phrasegroup id="DEMO">
+            <phrase>2_newnumbers</phrase>
+            <phrase>2_thebiggestisfifty</phrase>
+            <phrase>2_soitgoeshere_2zc</phrase>
+        </phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_thistimeyoumustchoosethenumbersinordergoingbackwardssostartwithfortynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_choosethenumbersinorderfrombiggesttosmallest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthenumbersintherightplacesgoingbackwards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyoudrewnumberlinesandputthenumbersintherightplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drag">
+			<phrase>drag</phrase>
+		</phrasegroup>
+		<phrasegroup id="footstep">
+			<phrase>footstep</phrase>
+		</phrasegroup>
+		<phrasegroup id="basket_open">
+			<phrase>wood_creak</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_fly_out">
+			<phrase>mallet_percussion_descending</phrase>
+		</phrasegroup>
+		<phrasegroup id="peg_close">
+			<phrase>click_snap_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_grow">
+			<phrase>tone_up</phrase>
+		</phrasegroup>
+		<phrasegroup id="pulley">
+			<phrase>pulley_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_on">
+			<phrase>chime_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="basket_slide">
+			<phrase>wall_slide</phrase>
+		</phrasegroup>
+		<phrasegroup id="dot_touch">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="div_line">
+			<phrase>ping_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="draw_line">
+			<phrase>tone_up_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="xylo_scale">
+			<phrase>xylophone_scale_up</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>th2_thisisaboutlistening</phrase>
+			<phrase>th2_sogetyourearsready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>th2_listen</phrase>
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+			<phrase>th2_thisone</phrase>
+			<phrase>th2_rememberthisletsyoulistenagain</phrase>
+			<phrase>th2_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>th2_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+			<phrase>th2_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th2_listenagain</phrase>
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>th2_nowtrysomemorechoosethedifferentone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th2_listenagain</phrase>
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th2_listenagain</phrase>
+			<phrase>th2_whichonesaidsomethingdifferent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>th2_good</phrase>
+			<phrase>th2_youpractisedlistening</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="touch">
+			<phrase>click_plastic_single_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="popon">
+			<phrase>spatter_pop_5</phrase>
+		</phrasegroup>
+	</event>
+</audio>

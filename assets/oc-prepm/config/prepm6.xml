@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_highlight="228,45,169" scenes="q1,q2,q3,q4,q5" >
+		<rectangle id="work_rect" pos="0.5,0.490527" src="work_rect" fill="255,255,255" zpos="0.002" hidden="true" widthtracksheight="true" x="0.0421677" y="0.0357768" width="0.915665" height="0.9095" pxwidth="937.641" pxheight="698.496" />
+		<rectangle id="button" pos="0.317419,0.927679" parent="work_rect" src="button" fill="61,242,239" stroke="3,222,219" strokewidth="1" shadowcolour="0,0,0" shadowopacity="0.145908" shadowradius="0" shadowxoffset="0" shadowyoffset="3" zpos="0.001" hidden="true" x="0.269801" y="0.863759" width="0.0952357" height="0.127842" cornerradius="0.0926964" />
+		<circle id="counter" pos="0.558418,0.94541" parent="work_rect" src="counter" fill="236,0,140" zpos="0.003" hidden="true" x="0.517127" y="0.889981" width="0.0825834" height="0.110858" />
+		<path id="line" pos="0.5,0.222906" parent="work_rect" src="line" fill="236,0,140" stroke="210,210,210" strokewidth="5" zpos="0.004" hidden="true" d="M0.1019 0.2229L0.8981 0.2229" />
+		<rectangle id="loc_1" pos="0.752014,0.476121" parent="work_rect" src="loc_1" fill="236,0,140" zpos="0.005" hidden="true" widthtracksheight="true" x="0.704069" y="0.411761" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_2" pos="0.778844,0.297277" parent="work_rect" src="loc_2" fill="236,0,140" zpos="0.006" hidden="true" widthtracksheight="true" x="0.730899" y="0.232917" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_3" pos="0.726264,0.650988" parent="work_rect" src="loc_3" fill="236,0,140" zpos="0.007" hidden="true" widthtracksheight="true" x="0.678319" y="0.586629" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_4" pos="0.826266,0.633619" parent="work_rect" src="loc_4" fill="236,0,140" zpos="0.008" hidden="true" widthtracksheight="true" x="0.778321" y="0.569259" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_5" pos="0.879341,0.342625" parent="work_rect" src="loc_5" fill="236,0,140" zpos="0.009" hidden="true" widthtracksheight="true" x="0.831396" y="0.278265" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_6" pos="0.871338,0.501476" parent="work_rect" src="loc_6" fill="236,0,140" zpos="0.01" hidden="true" widthtracksheight="true" x="0.823393" y="0.437117" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_7" pos="0.984138,0.279085" parent="work_rect" src="loc_7" fill="236,0,140" zpos="0.011" hidden="true" widthtracksheight="true" x="0.936193" y="0.214725" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_8" pos="0.862548,0.77675" parent="work_rect" src="loc_8" fill="236,0,140" zpos="0.012" hidden="true" widthtracksheight="true" x="0.814603" y="0.71239" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_9" pos="0.972819,0.777818" parent="work_rect" src="loc_9" fill="236,0,140" zpos="0.013" hidden="true" widthtracksheight="true" x="0.924874" y="0.713458" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_10" pos="0.921739,0.916117" parent="work_rect" src="loc_10" fill="236,0,140" zpos="0.014" hidden="true" widthtracksheight="true" x="0.873794" y="0.851757" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_11" pos="0.951884,0.63849" parent="work_rect" src="loc_11" fill="236,0,140" zpos="0.015" hidden="true" widthtracksheight="true" x="0.903939" y="0.57413" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<rectangle id="loc_12" pos="0.982875,0.477977" parent="work_rect" src="loc_12" fill="236,0,140" zpos="0.016" hidden="true" widthtracksheight="true" x="0.934931" y="0.413617" width="0.0958898" height="0.12872" pxwidth="89.9102" pxheight="89.9102" />
+		<vector id="wrong_cross" pos="0.5,0.440267" src="wrong_cross" scalex="7.70822" scaley="7.70822" zpos="0" hidden="true" />
+	</event>
+	<event id="q1" mode="div" str="2" div="6,8,10,12" ans="3,4,5,6" max="10" >
+		<vector id="child_1" pos="0.398049,0.417173" src="child_1" scalex="0.76179" scaley="0.76179" zpos="3" hidden="true" />
+		<vector id="child_2" pos="0.624601,0.379005" src="child_2" scalex="0.887054" scaley="0.887054" zpos="3.001" hidden="true" />
+	</event>
+	<event id="q2" mode="div" str="3" div="3,9,12" ans="2,3,4" max="10" >
+		<vector id="child_1" pos="0.273087,0.412555" src="child_1" scalex="0.76179" scaley="0.76179" zpos="3" hidden="true" />
+		<vector id="child_2" pos="0.49964,0.374386" src="child_2" scalex="0.887054" scaley="0.887054" zpos="3.001" hidden="true" />
+		<vector id="child_3" pos="0.722612,0.382989" src="child_3" scalex="0.854729" scaley="0.854729" zpos="3.002" hidden="true" />
+	</event>
+	<event id="q3" mode="div" str="2" div="6,8,10,12" ans="3,4,5,6" max="10" >
+		<vector id="child_1" pos="0.397966,0.389591" src="child_3" scalex="0.854729" scaley="0.854729" zpos="3" hidden="true" />
+		<vector id="child_2" pos="0.62468,0.419782" src="child_1" scalex="0.76179" scaley="0.76179" zpos="3.001" hidden="true" />
+	</event>
+	<event id="q4" mode="mul" str="2,3" mul="3,4,5" ans="6,8,10,12,15" max="20" >
+	</event>
+	<event id="q5" mode="mul" str="2,3" mul="3,4,5" ans="6,8,9,10,12,15" max="20" >
+	</event>
+</events>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+        <image id="button1" pos="0.1,0.1" scalex="0.5" scaley="0.5" src="menubutton1" zpos="0" target="X_Mgp" parm="mgp/targetletter=is_a/graphemes=is_e,is_i,is_o,is_u/images=fc_apple,fc_onion,fc_dogs/distractors=is_q,is_w,is_e,is_r,is_t,is_y" config="x-lettersandsounds" />
+        <image id="button2" pos="0.2,0.1" scalex="0.5" scaley="0.5" src="menubutton2" zpos="0" target="X_Mgp" parm="mgp/targetletter=is_e/images=fc_plate,fc_broom,fc_wrap,fc_frog,fc_aeroplane/distractors=is_s,is_d,is_f,is_g,is_h,is_j" config="x-lettersandsounds" />
+        <image id="button3" pos="0.3,0.1" scalex="0.5" scaley="0.5" src="menubutton3" zpos="0.001" target="X_Mgp" parm="mgp/targetletter=is_ch/images=fc_door,fc_doll,fc_handbag/distractors=is_ch,is_ng,is_dz,is_o,is_l,is_k,is_s" config="x-lettersandsounds" />
+        <image id="button4" pos="0.4,0.1" scalex="0.5" scaley="0.5" src="menubutton4" zpos="0.001" target="X_Mgp" parm="mgp/targetletter=is_r/graphemes=is_l,is_k,is_p/images=fc_ball,fc_window_2,fc_egg,fc_mountain,fc_flag/distractors=is_t,is_g,is_k,is_p,is_a,is_d" config="x-lettersandsounds" />
+        
+        
+        <image id="buttonsyl1" pos="0.1,0.25" scalex="0.5" scaley="0.5" src="menubutton1" zpos="0" target="X_MakeSylWord" parm="msaw/demo=true/picture=false/syllables=false/repeats=1/words=isyl_na,isyl_ne,isyl_ka,isyl_ki,isyl_ma" config="x-lettersandsounds" />
+        <image id="buttonsyl2" pos="0.2,0.25" scalex="0.5" scaley="0.5" src="menubutton2" zpos="0" target="X_MakeSylWord" parm="msaw/demo=false/picture=false/syllables=false/repeats=2/words=isyl_ngu,isyl_ne,isyl_ka,isyl_ki,isyl_ma" config="x-lettersandsounds" />
+        <image id="buttonsyl3" pos="0.3,0.25" scalex="0.5" scaley="0.5" src="menubutton3" zpos="0.001" target="X_MakeSylWord" parm="msaw/demo=true/picture=false/syllables=false/repeats=3/words=isyl_na,isyl_ne,isyl_ka,isyl_ki,isyl_ma" config="x-lettersandsounds" />
+        <image id="buttonsyl4" pos="0.4,0.25" scalex="0.5" scaley="0.5" src="menubutton4" zpos="0" target="X_MakeSylWord" parm="msaw/demo=false/picture=true/syllables=false/repeats=1/words=fc_children,fc_put,fc_reject,fc_cup,fc_pineapple" config="x-lettersandsounds" />
+        <image id="buttonsyl5" pos="0.5,0.25" scalex="0.5" scaley="0.5" src="menubutton5" zpos="0.001" target="X_MakeSylWord" parm="msaw/demo=false/picture=false/syllables=false/repeats=2/words=fc_children,fc_put,fc_reject,fc_cup,fc_pineapple" config="x-lettersandsounds" />
+        <image id="buttonsyl6" pos="0.6,0.25" scalex="0.5" scaley="0.5" src="menubutton6" zpos="0.001" target="X_MakeSylWord" parm="msaw/demo=true/picture=true/syllables=true/repeats=3/words=fc_children,fc_put,fc_reject,fc_cup,fc_pineapple" config="x-lettersandsounds"/>
+
+
+        <image id="buttonrec1" pos="0.1,0.4" scalex="0.5" scaley="0.5" src="menubutton1" zpos="0" target="X_WordAudioRec" parm="wordaudiorec/demo=true/wordfeedback=false/words=fc_bowl,is_b;fc_dad,is_b;fc_fork,is_f;fc_dress,is_d;fc_pencil,is_p;fc_soap,is_s;fc_mirror,is_k" config="x-lettersandsounds" />
+        <image id="buttonrec2" pos="0.2,0.4" scalex="0.5" scaley="0.5" src="menubutton2" zpos="0.001" target="X_WordAudioRec" parm="wordaudiorec/demo=false/wordfeedback=false/words=fc_doll,isyl_chi;fc_handbag,isyl_chi;fc_hat,isyl_chi;fc_maize,isyl_chi;fc_frog,isyl_chu;fc_pen,isyl_cho" config="x-lettersandsounds" />
+        <image id="buttonrec3" pos="0.3,0.4" scalex="0.5" scaley="0.5" src="menubutton3" zpos="0.001" target="X_WordAudioRec" parm="wordaudiorec/demo=true/wordfeedback=true/words=fc_frog;fc_horse;fc_broom;fc_torch;fc_toothbrush;fc_banana" config="x-lettersandsounds" />
+        <image id="buttonrec4" pos="0.4,0.4" scalex="0.5" scaley="0.5" src="menubutton4" zpos="0" target="X_WordAudioRec" parm="wordaudiorec/demo=true/wordfeedback=true/words=fc_eyes,is_m;fc_frog,is_e;fc_fork,is_f;fc_dress,is_d;fc_pencil,is_p;fc_soap,is_s;fc_mirror,is_k" config="x-lettersandsounds" />
+        <image id="buttonrec5" pos="0.5,0.4" scalex="0.5" scaley="0.5" src="menubutton5" zpos="0.001" target="X_WordAudioRec" parm="wordaudiorec/demo=false/wordfeedback=true/words=fc_doll,isyl_chi;fc_frog,isyl_chu;fc_handbag,isyl_chi;fc_hat,isyl_chi;fc_maize,isyl_chi;fc_pen,isyl_cho" config="x-lettersandsounds" />
+        
+        
+        <image id="buttonbook6" pos="0.1,0.55" scalex="0.5" scaley="0.5" src="menubutton1" zpos="0.001" target="X_ReadingAudioRec" parm="staud/page=0/demo=full/intro=0" config="x-reading/books/xr-lostshoe"/>
+
+        <image id="buttonvid1"  pos="0.1,0.7" scalex="0.5" src="menubutton1"  zpos="0.001" target="X_WordVideoRec" parm="wordvideorec/demo=true/presenter=true/words=fc_dog,fc_fingers,fc_sack_1,fc_shop,fc_blackboard,fc_frog" config="x-lettersandsounds" />
+        <image id="buttonvid2"  pos="0.2,0.7" scalex="0.5" src="menubutton2"  zpos="0.001" target="X_WordVideoRec" parm="wordvideorec/demo=true/presenter=false/words=fc_dog,fc_fingers,fc_sack_1,fc_shop,fc_blackboard,fc_frog" config="x-lettersandsounds" />
+
+        <image id="buttonlg1"  pos="0.1,0.85" scalex="0.5" src="menubutton1"  zpos="0.001" target="X_Lg1" parm="lg1/presenter=false/trials=40/size=5/phase1=is_a,is_e,is_o,is_i/phase2=is_k,is_l,is_m,is_n/distractors=is_b,is_p,is_w,is_s" config="x-lettersandsounds" />
+
+
+        <!--
+        <image id="buttonvid2"  pos="0.2,0.7" scalex="0.5" src="menubutton2" zpos="0.001" target="X_WordVideoRec" parm="wordvideorec/demo=true/presenter=false/words=cap_thefathappypig,cap_theblueumbrella,cap_thechildrenplaying,cap_thekeyinthelock,cap_thebusychicken,cap_thehungrylion" config="x-lettersandsounds" />
+        <image id="buttonvid3"  pos="0.3,0.7" scalex="0.5" src="menubutton3" zpos="0.001" target="X_WordVideoRec" parm="wordvideorec/demo=false/presenter=false/words=cap_thecatisonthemat,cap_thehatisonthecat,cap_theeggisinthenest,cap_ilikeapples,cap_theboyissleeping,cap_thebabyiscrying" config="x-lettersandsounds" />
+    -->
+
+   	</event>
+</events>

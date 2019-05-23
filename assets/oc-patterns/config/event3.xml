@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j,3k,3l,3m" colour="255,255,255" >
+	</event>
+	<event id="3a" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.457443,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.004" scheme="sockLong pink" type="2" />
+		<vector id="dash_1" pos="0.5,1.00115" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.002" />
+		<vector id="obj_1" pos="0.0923823,0.429582" parent="background_control" src="shoe" zpos="4" type="1" />
+		<vector id="obj_2" pos="0.214069,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.001" scheme="sockLong pink" type="2" />
+		<vector id="obj_3" pos="0.335756,0.429582" parent="background_control" src="shoe" zpos="4.003" type="1" />
+		<vector id="obj_4" pos="0.57913,0.429582" parent="background_control" src="shoe" zpos="4.005" type="1" />
+		<vector id="obj_5" pos="0.700817,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.006" scheme="sockLong pink" type="2" />
+		<vector id="obj_6" pos="0.822504,0.429582" parent="background_control" src="shoe" zpos="4.007" type="1" />
+		<vector id="obj_7" pos="0.94419,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.008" scheme="sockLong pink" type="2" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="shoe" zpos="4.009" type="1" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.01" scheme="sockLong pink" type="2" locked="no" />
+	</event>
+	<event id="3b" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.57913,0.429582" parent="background_control" src="shoe" zpos="4.005" type="1" />
+		<vector id="dash_1" pos="0.5,1.00124" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.002" />
+		<vector id="obj_1" pos="0.214069,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.001" scheme="sockLong pink" type="2" />
+		<vector id="obj_2" pos="0.822504,0.429582" parent="background_control" src="shoe" zpos="4.007" type="1" />
+		<vector id="obj_3" pos="0.700817,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.006" scheme="sockLong pink" type="2" />
+		<vector id="obj_4" pos="0.94419,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.008" scheme="sockLong pink" type="2" />
+		<vector id="obj_5" pos="0.335756,0.429582" parent="background_control" src="shoe" zpos="4.003" type="1" />
+		<vector id="obj_6" pos="0.457443,0.423047" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.004" scheme="sockLong pink" type="2" />
+		<vector id="obj_7" pos="0.0923823,0.429582" parent="background_control" src="shoe" zpos="4" type="1" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="shoe" zpos="4.009" type="1" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="sockLong" scalex="1.2" scaley="1.2" zpos="4.01" scheme="sockLong pink" type="2" locked="no" />
+	</event>
+	<event id="3c" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.223205,0.438534" parent="background_control" src="bag" scalex="0.25" scaley="0.25" zpos="4.001" type="2" />
+		<vector id="dash_1" pos="0.5,1.00183" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.002" />
+		<vector id="obj_1" pos="0.0851534,0.422774" parent="background_control" src="tshirt" scalex="0.9" scaley="0.9" zpos="4" type="1" />
+		<vector id="obj_2" pos="0.361257,0.422774" parent="background_control" src="tshirt" scalex="0.9" scaley="0.9" zpos="4.003" type="1" />
+		<vector id="obj_3" pos="0.499308,0.438534" parent="background_control" src="bag" scalex="0.25" scaley="0.25" zpos="4.004" type="2" />
+		<vector id="obj_4" pos="0.63736,0.422774" parent="background_control" src="tshirt" scalex="0.9" scaley="0.9" zpos="4.005" type="1" />
+		<vector id="obj_5" pos="0.775411,0.438534" parent="background_control" src="bag" scalex="0.25" scaley="0.25" zpos="4.006" type="2" />
+		<vector id="obj_6" pos="0.913463,0.422774" parent="background_control" src="tshirt" scalex="0.9" scaley="0.9" zpos="4.007" type="1" />
+		<vector id="obj_7" pos="0.409989,0.821439" parent="background_control" src="bag" scalex="0.25" scaley="0.25" zpos="4.008" type="2" locked="no" />
+		<vector id="obj_8" pos="0.604088,0.821439" parent="background_control" src="tshirt" scalex="0.9" scaley="0.9" zpos="4.009" type="1" locked="no" />
+	</event>
+	<event id="3d" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.808578,0.443357" parent="background_control" src="ladybug" scalex="1.8" scaley="1.8" zpos="4.009" type="2" />
+		<vector id="dash_1" pos="0.5,0.999426" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="obj_1" pos="0.0701173,0.443357" parent="background_control" src="ladybug" scalex="1.8" scaley="1.8" zpos="4.003" type="2" />
+		<vector id="obj_2" pos="0.193194,0.393184" parent="background_control" src="leaf" scalex="0.9" scaley="0.7" zpos="4.004" type="1" />
+		<vector id="obj_3" pos="0.316271,0.443357" parent="background_control" src="ladybug" scalex="1.8" scaley="1.8" zpos="4.005" type="2" />
+		<vector id="obj_4" pos="0.439348,0.393184" parent="background_control" src="leaf" scalex="0.9" scaley="0.7" zpos="4.006" type="1" />
+		<vector id="obj_5" pos="0.562424,0.443357" parent="background_control" src="ladybug" scalex="1.8" scaley="1.8" zpos="4.007" type="2" />
+		<vector id="obj_6" pos="0.685501,0.393184" parent="background_control" src="leaf" scalex="0.9" scaley="0.7" zpos="4.008" type="1" />
+		<vector id="obj_7" pos="0.931655,0.393184" parent="background_control" src="leaf" scalex="0.9" scaley="0.7" zpos="4.01" type="1" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="ladybug" scalex="1.8" scaley="1.8" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="leaf" scalex="0.9" scaley="0.7" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3e" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.68988,0.42888" parent="background_control" src="1_bird" scalex="0.8" scaley="0.8" zpos="4.008" type="1" />
+		<vector id="place_2" pos="0.812804,0.39913" parent="background_control" src="1_flowerWithShortStem" scalex="0.7" scaley="0.7" zpos="4.009" type="2" />
+		<vector id="dash_1" pos="0.5,1.00277" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00373" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.011" />
+		<vector id="obj_1" pos="0.0752573,0.42888" parent="background_control" src="1_bird" scalex="0.8" scaley="0.8" zpos="4.003" type="1" />
+		<vector id="obj_2" pos="0.198182,0.42888" parent="background_control" src="1_bird" scalex="0.8" scaley="0.8" zpos="4.004" type="1" />
+		<vector id="obj_3" pos="0.321106,0.39913" parent="background_control" src="1_flowerWithShortStem" scalex="0.7" scaley="0.7" zpos="4.005" type="2" />
+		<vector id="obj_4" pos="0.444031,0.39913" parent="background_control" src="1_flowerWithShortStem" scalex="0.7" scaley="0.7" zpos="4.006" type="2" />
+		<vector id="obj_5" pos="0.566955,0.42888" parent="background_control" src="1_bird" scalex="0.8" scaley="0.8" zpos="4.007" type="1" />
+		<vector id="obj_6" pos="0.935729,0.39913" parent="background_control" src="1_flowerWithShortStem" scalex="0.7" scaley="0.7" zpos="4.01" type="2" />
+		<vector id="obj_7" pos="0.409989,0.821439" parent="background_control" src="1_flowerWithShortStem" scalex="0.7" scaley="0.7" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_8" pos="0.604088,0.821439" parent="background_control" src="1_bird" scalex="0.8" scaley="0.8" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3f" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.723842,0.44165" parent="background_control" src="frog" zpos="4.01" type="2" />
+		<vector id="place_2" pos="0.848933,0.400803" parent="background_control" src="leaf_2" scalex="1.2" scaley="1.2" zpos="4.011" type="1" />
+		<vector id="dash_1" pos="0.5,1.00174" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00271" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="obj_1" pos="0.0785987,0.44165" parent="background_control" src="frog" zpos="4.004" type="2" />
+		<vector id="obj_2" pos="0.223481,0.44165" parent="background_control" src="frog" zpos="4.006" type="2" />
+		<vector id="obj_3" pos="0.348572,0.400803" parent="background_control" src="leaf_2" scalex="1.2" scaley="1.2" zpos="4.007" type="1" />
+		<vector id="obj_4" pos="0.453869,0.400803" parent="background_control" src="leaf_2" scalex="1.2" scaley="1.2" zpos="4.005" type="1" />
+		<vector id="obj_5" pos="0.57896,0.44165" parent="background_control" src="frog" zpos="4.008" type="2" />
+		<vector id="obj_6" pos="0.954231,0.400803" parent="background_control" src="leaf_2" scalex="1.2" scaley="1.2" zpos="4.009" type="1" />
+		<vector id="obj_7" pos="0.409989,0.821439" parent="background_control" src="frog" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_8" pos="0.604088,0.821439" parent="background_control" src="leaf_2" scalex="1.2" scaley="1.2" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3g" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.197899,0.3843" parent="background_control" src="algae" scalex="0.7" scaley="0.7" zpos="4.006" type="1" />
+		<vector id="place_2" pos="0.320046,0.387771" parent="background_control" src="3_fish" scalex="0.55" scaley="0.55" rotation="90" zpos="4.005" type="2" />
+		<vector id="dash_1" pos="0.500001,0.999012" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,0.999038" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="obj_1" pos="0.0757521,0.3843" parent="background_control" src="algae" scalex="0.7" scaley="0.7" zpos="4.004" type="1" />
+		<vector id="obj_2" pos="0.442193,0.387771" parent="background_control" src="3_fish" scalex="0.55" scaley="0.55" rotation="90" zpos="4.007" type="2" />
+		<vector id="obj_3" pos="0.56434,0.3843" parent="background_control" src="algae" scalex="0.7" scaley="0.7" zpos="4.008" type="1" />
+		<vector id="obj_4" pos="0.686487,0.3843" parent="background_control" src="algae" scalex="0.7" scaley="0.7" zpos="4.009" type="1" />
+		<vector id="obj_5" pos="0.808634,0.387771" parent="background_control" src="3_fish" scalex="0.55" scaley="0.55" rotation="90" zpos="4.01" type="2" />
+		<vector id="obj_6" pos="0.930781,0.387772" parent="background_control" src="3_fish" scalex="0.55" scaley="0.55" rotation="90" zpos="4.011" type="2" />
+		<vector id="obj_7" pos="0.409989,0.821439" parent="background_control" src="3_fish" scalex="0.55" scaley="0.55" rotation="90" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_8" pos="0.604088,0.821439" parent="background_control" src="algae" scalex="0.7" scaley="0.7" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3h" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.786703,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.011" type="1" />
+		<vector id="place_2" pos="0.906657,0.387283" parent="background_control" src="sheep" scalex="0.8" scaley="0.8" zpos="4.012" type="2" />
+		<vector id="dash_1" pos="0.5,1.00333" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00262" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="obj_1" pos="0.105365,0.387283" parent="background_control" src="sheep" scalex="0.8" scaley="0.8" zpos="4.004" type="2" />
+		<vector id="obj_2" pos="0.225319,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.005" type="1" />
+		<vector id="obj_3" pos="0.305688,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.006" type="1" />
+		<vector id="obj_4" pos="0.386057,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.007" type="1" />
+		<vector id="obj_5" pos="0.506011,0.387283" parent="background_control" src="sheep" scalex="0.8" scaley="0.8" zpos="4.008" type="2" />
+		<vector id="obj_6" pos="0.625964,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.009" type="1" />
+		<vector id="obj_7" pos="0.706334,0.3527" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.01" type="1" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="sheep" scalex="0.8" scaley="0.8" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="cane" scalex="0.7" scaley="0.7" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3i" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.0693198,0.393795" parent="background_control" src="glassWithJuice" scalex="1.5" scaley="1.5" zpos="4.004" type="1" />
+		<vector id="place_2" pos="0.814788,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.011" type="2" />
+		<vector id="dash_1" pos="0.5,1.01128" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00531" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="obj_1" pos="0.175815,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.005" type="2" />
+		<vector id="obj_2" pos="0.282311,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.006" type="2" />
+		<vector id="obj_3" pos="0.388806,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.007" type="2" />
+		<vector id="obj_4" pos="0.495302,0.393795" parent="background_control" src="glassWithJuice" scalex="1.5" scaley="1.5" zpos="4.008" type="1" />
+		<vector id="obj_5" pos="0.601797,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.009" type="2" />
+		<vector id="obj_6" pos="0.708292,0.457584" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.01" type="2" />
+		<vector id="obj_7" pos="0.921283,0.393795" parent="background_control" src="glassWithJuice" scalex="1.5" scaley="1.5" zpos="4.012" type="1" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="apple" scalex="1.7" scaley="1.7" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="glassWithJuice" scalex="1.5" scaley="1.5" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3j" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.517835,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.008" type="1" />
+		<vector id="place_2" pos="0.723692,0.40847" parent="background_control" src="banana" scalex="0.5" scaley="0.5" rotation="40" zpos="4.01" type="2" />
+		<vector id="dash_1" pos="0.5,0.88434" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.004" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="obj_1" pos="0.0764339,0.40847" parent="background_control" src="banana" scalex="0.5" scaley="0.5" rotation="40" zpos="4.004" type="2" />
+		<vector id="obj_2" pos="0.194206,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.005" type="1" />
+		<vector id="obj_3" pos="0.292186,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.006" type="1" />
+		<vector id="obj_4" pos="0.400063,0.40847" parent="background_control" src="banana" scalex="0.5" scaley="0.5" rotation="40" zpos="4.007" type="2" />
+		<vector id="obj_5" pos="0.615815,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.009" type="1" />
+		<vector id="obj_6" pos="0.841464,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.011" type="1" />
+		<vector id="obj_7" pos="0.939687,0.459302" parent="background_control" src="orange" fill="255,114,0" zpos="4.012" type="1" />
+		<vector id="obj_8" pos="0.409989,0.821439" parent="background_control" src="banana" scalex="0.5" scaley="0.5" rotation="40" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_9" pos="0.604088,0.821439" parent="background_control" src="orange" fill="255,114,0" zpos="4.002" type="1" locked="no" />
+	</event>
+	<event id="3k" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.420424,0.451931" parent="background_control" src="cupcake" scalex="1.1" scaley="1.1" zpos="4.008" type="1" />
+		<vector id="place_2" pos="0.53688,0.349269" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.009" type="2" />
+		<vector id="place_3" pos="0.651357,0.349269" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.01" type="2" />
+		<vector id="dash_1" pos="0.5,1.00223" parent="place_3" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00223" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="dash_3" pos="0.5,1.00587" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.013" />
+		<vector id="obj_1" pos="0.0433474,0.349269" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.005" type="2" />
+		<vector id="obj_2" pos="0.157824,0.349269" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.006" type="2" />
+		<vector id="obj_3" pos="0.272301,0.451931" parent="background_control" src="cupcake" scalex="1.1" scaley="1.1" zpos="4.007" type="1" />
+		<vector id="obj_4" pos="0.765834,0.451931" parent="background_control" src="cupcake" scalex="1.1" scaley="1.1" zpos="4.011" type="1" />
+		<vector id="obj_5" pos="0.913957,0.451931" parent="background_control" src="cupcake" scalex="1.1" scaley="1.1" zpos="4.012" type="1" />
+		<vector id="obj_6" pos="0.317104,0.825412" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_7" pos="0.495691,0.825412" parent="background_control" src="cupcake" scalex="1.1" scaley="1.1" zpos="4.002" type="1" locked="no" />
+		<vector id="obj_8" pos="0.674278,0.825412" parent="background_control" src="candle" scalex="1.75" scaley="1.9" fill="169,71,255" zpos="4.004" type="2" locked="no" />
+	</event>
+	<event id="3l" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.408667,0.430319" parent="background_control" src="cupWithBase" scalex="-1.5" scaley="1.5" fill="236,34,0" zpos="4.009" type="3" />
+		<vector id="place_2" pos="0.515578,0.331062" parent="background_control" src="fork" scalex="0.7" scaley="0.7" fill="169,71,255" zpos="4.01" type="2" />
+		<vector id="place_3" pos="0.61952,0.334874" parent="background_control" src="spoon" scalex="0.8" scaley="0.8" zpos="4.011" type="1" />
+		<vector id="dash_1" pos="0.5,1.00424" parent="place_3" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,1.00415" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="dash_3" pos="0.5,1.00906" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.005" />
+		<vector id="obj_1" pos="0.0879343,0.430319" parent="background_control" src="cupWithBase" scalex="-1.5" scaley="1.5" fill="236,34,0" zpos="4.006" type="3" />
+		<vector id="obj_2" pos="0.194845,0.331062" parent="background_control" src="fork" scalex="0.7" scaley="0.7" fill="169,71,255" zpos="4.007" type="2" />
+		<vector id="obj_3" pos="0.298787,0.334874" parent="background_control" src="spoon" scalex="0.8" scaley="0.8" zpos="4.008" type="1" />
+		<vector id="obj_4" pos="0.7294,0.430319" parent="background_control" src="cupWithBase" scalex="-1.5" scaley="1.5" fill="236,34,0" zpos="4.012" type="3" />
+		<vector id="obj_5" pos="0.836311,0.331062" parent="background_control" src="fork" scalex="0.7" scaley="0.7" fill="169,71,255" zpos="4.013" type="2" />
+		<vector id="obj_6" pos="0.940253,0.334874" parent="background_control" src="spoon" scalex="0.8" scaley="0.8" zpos="4.014" type="1" />
+		<vector id="obj_7" pos="0.317104,0.825412" parent="background_control" src="fork" scalex="0.7" scaley="0.7" fill="169,71,255" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_8" pos="0.495691,0.825412" parent="background_control" src="spoon" scalex="0.8" scaley="0.8" zpos="4.002" type="1" locked="no" />
+		<vector id="obj_9" pos="0.674278,0.825412" parent="background_control" src="cupWithBase" scalex="-1.5" scaley="1.5" fill="236,34,0" zpos="4.004" type="3" locked="no" />
+	</event>
+	<event id="3m" redraw="true" >
+		<rectangle id="bottombar" pos="0.503162,0.92983" src="bottombar" fill="222,251,255" stroke="158,223,242" strokewidth="2" zpos="2" x="-0.0369606" y="0.632828" width="1.08025" height="0.594004" />
+		<rectangle id="background_control" pos="0.500683,0.50705" src="background_control" fill="77,245,0" stroke="158,223,242" strokewidth="2" zpos="3" hidden="true" widthtracksheight="true" x="0.00727844" y="0.02889" width="0.986809" height="0.956319" pxwidth="1010.49" pxheight="734.453" />
+		<vector id="place_1" pos="0.0632789,0.360216" parent="background_control" src="pen" scalex="0.8" scaley="0.8" zpos="4.006" type="3" locked="no" />
+		<vector id="place_2" pos="0.172024,0.369679" parent="background_control" src="pencil" scalex="0.7" scaley="0.7" zpos="4.007" type="1" />
+		<vector id="place_3" pos="0.280768,0.37778" parent="background_control" src="ruler" scalex="0.5" scaley="0.5" rotation="90" fill="169,71,255" zpos="4.008" type="2" />
+		<vector id="dash_1" pos="0.499999,0.998534" parent="place_3" src="dash" scalex="0.7" scaley="1" zpos="4" />
+		<vector id="dash_2" pos="0.5,0.998615" parent="place_2" src="dash" scalex="0.7" scaley="1" zpos="4.003" />
+		<vector id="dash_3" pos="0.5,0.998699" parent="place_1" src="dash" scalex="0.7" scaley="1" zpos="4.005" />
+		<vector id="obj_1" pos="0.389513,0.360216" parent="background_control" src="pen" scalex="0.8" scaley="0.8" zpos="4.009" type="3" />
+		<vector id="obj_2" pos="0.498258,0.369679" parent="background_control" src="pencil" scalex="0.7" scaley="0.7" zpos="4.01" type="1" />
+		<vector id="obj_3" pos="0.607003,0.37778" parent="background_control" src="ruler" scalex="0.5" scaley="0.5" rotation="90" fill="169,71,255" zpos="4.011" type="2" />
+		<vector id="obj_4" pos="0.715748,0.360216" parent="background_control" src="pen" scalex="0.8" scaley="0.8" zpos="4.012" type="3" />
+		<vector id="obj_5" pos="0.824492,0.369679" parent="background_control" src="pencil" scalex="0.7" scaley="0.7" zpos="4.013" type="1" />
+		<vector id="obj_6" pos="0.933237,0.37778" parent="background_control" src="ruler" scalex="0.5" scaley="0.5" rotation="90" fill="169,71,255" zpos="4.014" type="2" />
+		<vector id="obj_7" pos="0.317104,0.825412" parent="background_control" src="ruler" scalex="0.5" scaley="0.5" rotation="90" fill="169,71,255" zpos="4.001" type="2" locked="no" />
+		<vector id="obj_8" pos="0.495691,0.825412" parent="background_control" src="pencil" scalex="0.7" scaley="0.7" zpos="4.002" type="1" locked="no" />
+		<vector id="obj_9" pos="0.674278,0.825412" parent="background_control" src="pen" scalex="0.8" scaley="0.8" zpos="4.004" type="3" locked="no" />
+	</event>
+</events>

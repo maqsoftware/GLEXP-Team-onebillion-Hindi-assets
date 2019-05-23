@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookattherocksintheriver</phrase>
+			<phrase>3_andheresafrog</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthefrog</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="DEMO">
+			<phrase>3_thislineshowsthefrogsjump</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthefrogagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthefrog</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowmakeitjumptohere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthefrogtwice</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>3_touchthefrogagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="DEMO">
+			<phrase>3_thefrogstartedhere</phrase>
+			<phrase>3_howmanyjumpsdiditmaketoreachhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_countthejumpsthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_countthejumpsthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_letscheck</phrase>
+			<phrase>3_countwithme</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_fourjumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthejumpsthentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthefrogagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchthefrog</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_itjumpedtheotherway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="DEMO">
+			<phrase>3_makeitjumptohere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_makethefrogjumptothefirstrock</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_thefrogjumpedfromhere</phrase>
+			<phrase>3_howmanyjumpsdiditmaketoreachhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_countthejumps</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_countthejumps</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_letscheck</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_threejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthejumps</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowletsputnumbersontherocks</phrase>
+			<phrase>3_ifthefrogmakesonejumpwherewillitland</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_ifthefrogmakesonejumpwherewillitland</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yourerightwatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_ifthefrogmakesonejumpwherewillitland</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="DEMO">
+			<phrase>3_ifitmakesthreemorejumpswherewillitland</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_ifthefrogmakesthreemorejumpswherewillitland</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yeslook</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_ifthefrogmakesthreemorejumpswherewillitland</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="DEMO">
+			<phrase>3_thefrogisonfive</phrase>
+			<phrase>3_ifitmakesfourjumpsbackwhichnumberwillitlandon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchit_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_ifthefrogmakesfourjumpsbackwhichnumberwillitlandon</phrase>
+			<phrase>3_touchit_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yeswatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_ifthefrogmakesfourjumpsbackwhichnumberwillitlandon</phrase>
+			<phrase>3_touchit_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowletsputthesenumbersonanumberline</phrase>
+			<phrase>3_icanmakejumpsonthenumberline</phrase>
+			<phrase>3_tostartatoneitouchhere</phrase>
+			<phrase>3_iwanttojumpagain</phrase>
+			<phrase>3_soitouchhere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_startatoneandmakethreejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_startatoneandmakethreejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_touchthenumberlineatoneandmakethreejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_touchthenumberlineattwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_touchthenumberlineatthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowdifferentnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_startatsixandmaketwojumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_startatsixandmaketwojumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_startatsixandmaketwojumps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="DEMO">
+			<phrase>3_icanjumpbacktoo</phrase>
+			<phrase>3_watchmemaketwojumpsback</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="DEMO">
+			<phrase>3_yourturn_3q</phrase>
+			<phrase>3_startattwentyoneandmakethreejumpsback</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_startattwentyoneandmakethreejumpsback</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_startattwentyoneandmakethreejumpsback</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="DEMO">
+			<phrase>3_ifimaketwojumpsbackfromtwentywhichnumberwillilandon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchit_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_ifimaketwojumpsbackfromtwentywhichnumberwillilandon</phrase>
+			<phrase>3_touchit_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yeswatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_ifimaketwojumpsbackfromtwentywhichnumberwillilandon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="DEMO">
+			<phrase>3_anothersetofnumbers</phrase>
+			<phrase>3_startattwentynineandmakefourjumpsback</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_startattwentynineandmakefourjumpsback</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_startattwentynineandmakefourjumpsback</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3t">
+		<phrasegroup id="DEMO">
+			<phrase>3_ifimakethreejumpsbackfromtwentyeightwhichnumberwillilandon</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_ifimakethreejumpsbackfromtwentyeightwhichnumberwillilandon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yourerightwatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_ifimakethreejumpsbackfromtwentyeightwhichnumberwillilandon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_verygoodthefrogmadejumpsontherocksandyoumadejumpsonthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="stream">
+			<phrase>stream</phrase>
+		</phrasegroup>
+		<phrasegroup id="stack_appear">
+			<phrase>kalimba_scale</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog_croak">
+			<phrase>frog_croak</phrase>
+		</phrasegroup>
+		<phrasegroup id="cross_fade">
+			<phrase>magic_harp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note5">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_grow">
+			<phrase>tone_up</phrase>
+		</phrasegroup>
+		<phrasegroup id="arc_grow">
+			<phrase>arc_grow_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="arc_reduce">
+			<phrase>arc_reduce_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="line_click">
+			<phrase>ping_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_off">
+			<phrase>inhaler_puff</phrase>
+		</phrasegroup>
+	</event>
+</audio>

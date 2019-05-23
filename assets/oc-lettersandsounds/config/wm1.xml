@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="70" >
+		<image id="pic" pos="0.295931,0.381322" src="fc_dog" scalex="0.831329" scaley="0.831329" zpos="0" />
+		<rectangle id="textswatch" pos="0.805986,0.80408" src="textswatch" fill="137,101,232" stroke="0,0,0" strokewidth="2" zpos="0.003" hidden="true" x="0.780758" y="0.769958" width="0.050457" height="0.0682424" />
+		<path id="wordline" pos="0.296076,0.804688" src="wordline" fill="255,255,255" stroke="0,0,0" strokewidth="6" zpos="0.001" d="M0.113491 0.804687L0.478661 0.804687" />
+		<rectangle id="wordsrect" pos="0.802048,0.446849" src="wordsrect" fill="255,255,255" stroke="0,0,0" strokewidth="2" zpos="0.002" widthtracksheight="true" x="0.62624" y="0.227646" width="0.351616" height="0.438405" pxwidth="360.055" pxheight="336.695" />
+	</event>
+</events>

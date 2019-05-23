@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<rectangle id="level_1" pos="0.499846,0.23482" src="level_1" fill="205,252,255" zpos="0.002" widthtracksheight="true" x="0.000976562" y="0.127192" width="0.997738" height="0.215256" pxwidth="1021.68" pxheight="165.316" />
+		<group id="border_1"  pos="0.0490227,0.514954" src="border_1" zpos="0.004" fitheight="true">
+			<rectangle id="border_1" anchor="0,0.5" pos="-0.046875,0.514954" src="border_1" fill="255,255,255" zpos="0.001" x="-0.046875" y="-0.00394694" width="0.179108" height="1.0378" />
+			<linearGradient id="Gradient32" >
+				<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+			</linearGradient>
+			<rectangle id="border_1_shadow" pos="0.137402,0.498642" src="border_1_shadow" rotation="180" fill="url(#Gradient32)"  zpos="0" x="0.129883" y="-0.00380961" width="0.0150375" height="1.0049" />
+		</group>
+		<group id="border_2"  pos="0.950882,0.505839" src="border_2" zpos="0.005" fitheight="true">
+			<rectangle id="border_2" anchor="1,0.5" pos="1.0463,0.505839" src="border_2" fill="255,255,255" zpos="0.001" x="0.867188" y="-0.0130615" width="0.179108" height="1.0378" />
+			<linearGradient id="Gradient32" >
+				<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+				<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+			</linearGradient>
+			<rectangle id="border_2_shadow" pos="0.862988,0.500153" src="border_2_shadow" fill="url(#Gradient32)"  zpos="0" x="0.855469" y="-0.00229899" width="0.0150375" height="1.0049" />
+		</group>
+		<rectangle id="icon" pos="0.226545,0.50397" parent="level_1" src="icon" fill="255,245,127" zpos="0.003" hidden="true" x="0.158524" y="0.0814489" width="0.136042" height="0.845041" />
+		<rectangle id="level_2" pos="0.499846,0.500445" src="level_2" fill="224,252,163" zpos="0.001" widthtracksheight="true" x="0.000976562" y="0.392817" width="0.997738" height="0.215256" pxwidth="1021.68" pxheight="165.316" />
+		<rectangle id="level_3" pos="0.499846,0.763466" src="level_3" fill="255,245,127" zpos="0" widthtracksheight="true" x="0.000976562" y="0.655838" width="0.997738" height="0.215256" pxwidth="1021.68" pxheight="165.316" />
+	</event>
+</events>

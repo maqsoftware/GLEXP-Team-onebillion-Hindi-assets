@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" gradienttop="132,233,255" gradientbottom="186,249,255" button_colours="253,223,72;186,99,229;148,197,80;0,180,224;53,211,173;231,111,144" colour="254,255,255" >
+		<vector id="button_back" pos="0.0522461,0.061849" src="playzone_back_button" scalex="1.19061" scaley="1.19061" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="2" zpos="0.003" hidden="true" />
+		<vector id="cloud_1" pos="0.309502,0.233276" src="cloud_1" zpos="0" hidden="true" opacity="0.3" repos="-1" />
+		<vector id="cloud_2" pos="0.751629,0.603404" src="cloud_2" zpos="0.001" hidden="true" opacity="0.3" repos="1" />
+		<vector id="cloud_3" pos="0.950005,0.0946248" src="cloud_1" zpos="0.002" hidden="true" opacity="0.3" repos="1" />
+		<vector id="menu_button" pos="0.49054,0.429087" src="menu_button" scalex="0.42579" scaley="0.42579" fill="253,221,69" zpos="1" hidden="true" />
+		<vector id="menu_button_special" pos="0.489956,0.429326" src="menu_button_special" scalex="0.471833" scaley="0.471833" zpos="1.001" hidden="true" />
+		<rectangle id="bottom_bar" anchor="0.5,1" pos="0.497988,1.002" src="bottom_bar" fill="255,255,255" zpos="2" hidden="true" heighttrackswidth="true" x="-0.0109787" y="0.790471" width="1.01793" height="0.211533" pxwidth="1042.36" pxheight="162.457" />
+		<linearGradient id="Gradient54" x1="1" y1="0.5" x2="-1.11022e-16" y2="0.5" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="bottom_bar_gradient_left" pos="0.121645,0.900993" src="bottom_bar_gradient_left" fill="url(#Gradient54)"  zpos="2.004" hidden="true" x="0.113197" y="0.79157" width="0.0168953" height="0.218846" />
+		<linearGradient id="Gradient51" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="bottom_bar_gradient_right" pos="0.878145,0.900658" src="bottom_bar_gradient_right" fill="url(#Gradient51)"  zpos="2.002" hidden="true" x="0.869698" y="0.791234" width="0.0168953" height="0.218846" />
+		<rectangle id="bottom_bar_left" anchor="0,0.5" pos="-0.00268555,0.896937" src="bottom_bar_left" fill="255,255,255" zpos="2.003" hidden="true" x="-0.00268555" y="0.790553" width="0.118717" height="0.212769" />
+		<rectangle id="bottom_bar_right" anchor="0,0.5" pos="0.88393,0.897298" src="bottom_bar_right" fill="255,255,255" zpos="2.001" hidden="true" x="0.88393" y="0.790914" width="0.118717" height="0.212769" />
+		<rectangle id="media_bg" pos="0.344387,0.520907" parent="bottom_bar" src="media_bg" fill="102,204,1" zpos="2.005" hidden="true" x="0.269557" y="0.170045" width="0.14966" height="0.701724" />
+		<group id="media_delete_cross"  pos="0.395229,0.853419" src="media_delete_cross" zpos="2.009" hidden="true">
+			<group id="cross"  pos="0.395069,0.853068" src="cross" zpos="2.001">
+				<path id="Line3" pos="0.395069,0.853068" src="Line3" fill="0,234,254" stroke="255,255,255" strokewidth="4" zpos="2" d="M0.388 0.8436L0.4021 0.8625" />
+				<path id="Line3" pos="0.395069,0.853068" src="Line3" fill="0,234,254" stroke="255,255,255" strokewidth="4" zpos="2.001" d="M0.388 0.8625L0.4021 0.8436" />
+			</group>
+			<rectangle id="cross_bg" pos="0.395229,0.853419" src="cross_bg" fill="0,0,0" zpos="2" opacity="0.304253" x="0.380508" y="0.833791" width="0.0294418" height="0.0392558" />
+		</group>
+		<linearGradient id="Gradient53" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="media_gradient_bottom" pos="0.339844,0.958333" src="media_gradient_bottom" fill="url(#Gradient53)"  zpos="2.008" hidden="true" x="0.268555" y="0.947917" width="0.142578" height="0.0208333" />
+		<linearGradient id="Gradient52" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="media_gradient_top" pos="0.339897,0.84375" src="media_gradient_top" fill="url(#Gradient52)"  zpos="2.007" hidden="true" x="0.268608" y="0.833333" width="0.142578" height="0.0208333" />
+		<rectangle id="media_rect" pos="0.344387,0.520907" parent="bottom_bar" src="media_rect" fill="0,234,254" zpos="2.006" hidden="true" x="0.274354" y="0.200822" width="0.140066" height="0.640169" />
+	</event>
+	<event id="box" >
+		<vector id="box" pos="0.5,0.882161" src="box" scalex="0.901117" scaley="0.901117" zpos="5" />
+	</event>
+</events>

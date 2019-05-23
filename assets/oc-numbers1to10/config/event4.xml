@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="4a,4b,4c,4d,4e,4f" colour="190,239,255" >
+	</event>
+	<event id="4a" redraw="true" correctAnswer="5" phases="2" colour="201,241,255" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_2" pos="0.786454,0.840398" parent="background_control" src="counter" fill="255,76,191" zpos="4.003" />
+		<vector id="position_2_2" pos="0.453119,0.160993" parent="background_control" src="counter" fill="255,76,191" zpos="4.004" />
+		<vector id="position_3_2" pos="0.468381,0.512079" parent="background_control" src="counter" fill="255,76,191" zpos="4.001" />
+		<vector id="position_4_2" pos="0.620776,0.677192" parent="background_control" src="counter" fill="255,76,191" zpos="4.002" />
+		<vector id="position_5_2" pos="0.300169,0.34889" parent="background_control" src="counter" fill="255,76,191" zpos="4" />
+		<vector id="obj_1" pos="0.677089,0.728398" parent="background_control" src="counter" fill="255,76,191" zpos="5.004" />
+		<vector id="obj_2" pos="0.688472,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5.002" />
+		<vector id="obj_3" pos="0.52026,0.565208" parent="background_control" src="counter" fill="255,76,191" zpos="5.001" />
+		<vector id="obj_4" pos="0.352047,0.728398" parent="background_control" src="counter" fill="255,76,191" zpos="5.003" />
+		<vector id="obj_5" pos="0.352047,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.006" number="10" />
+	</event>
+	<event id="4b" redraw="true" correctAnswer="7" phases="2" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_2" pos="0.508155,0.744196" parent="background_control" src="star" scalex="1.30739" scaley="1.29907" fill="10,219,38" zpos="4.006" />
+		<vector id="position_2_2" pos="0.61941,0.526886" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4.004" />
+		<vector id="position_3_2" pos="0.396415,0.309123" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4.001" />
+		<vector id="position_4_2" pos="0.396415,0.526886" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4.003" />
+		<vector id="position_5_2" pos="0.173421,0.309123" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4" />
+		<vector id="position_6_2" pos="0.842404,0.309123" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4.005" />
+		<vector id="position_7_2" pos="0.61941,0.309123" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="4.002" />
+		<vector id="obj_1" pos="0.830387,0.744196" parent="background_control" src="star" scalex="1.30739" scaley="1.29907" fill="10,219,38" zpos="5.006" />
+		<vector id="obj_2" pos="0.498463,0.744119" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5.004" />
+		<vector id="obj_3" pos="0.341633,0.558062" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5.001" />
+		<vector id="obj_4" pos="0.173421,0.744119" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5.003" />
+		<vector id="obj_5" pos="0.173421,0.372006" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5" />
+		<vector id="obj_6" pos="0.842404,0.372006" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5.005" />
+		<vector id="obj_7" pos="0.509845,0.372006" parent="background_control" src="star" scalex="1.3" scaley="1.3" fill="10,219,38" zpos="5.002" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.006" number="10" />
+	</event>
+	<event id="4c" redraw="true" correctAnswer="9" phases="2" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_2" pos="0.916231,0.446987" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.008" />
+		<vector id="position_2_2" pos="0.318676,0.670592" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.003" />
+		<vector id="position_3_2" pos="0.717046,0.670592" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.006" />
+		<vector id="position_4_2" pos="0.517861,0.670592" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.004" />
+		<vector id="position_5_2" pos="0.717046,0.446987" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.007" />
+		<vector id="position_6_2" pos="0.119492,0.670592" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.001" />
+		<vector id="position_7_2" pos="0.517861,0.446987" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.005" />
+		<vector id="position_8_2" pos="0.119492,0.446987" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4" />
+		<vector id="position_9_2" pos="0.318676,0.446987" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="4.002" />
+		<vector id="obj_1" pos="0.732022,0.563405" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.008" />
+		<vector id="obj_2" pos="0.286954,0.78701" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.003" />
+		<vector id="obj_3" pos="0.732022,0.78701" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.006" />
+		<vector id="obj_4" pos="0.509488,0.78701" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.004" />
+		<vector id="obj_5" pos="0.509488,0.563405" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.007" />
+		<vector id="obj_6" pos="0.286954,0.563405" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.001" />
+		<vector id="obj_7" pos="0.732022,0.3398" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.005" />
+		<vector id="obj_8" pos="0.286954,0.3398" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5" />
+		<vector id="obj_9" pos="0.509488,0.3398" parent="background_control" src="square" scalex="1.1" scaley="1.1" fill="0,146,255" zpos="5.002" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="6.006" number="10" />
+	</event>
+	<event id="4d" redraw="true" correctAnswer="10" phases="3" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_3" pos="0.426915,0.0657805" parent="background_control" src="counter" fill="255,76,191" zpos="4" />
+		<vector id="position_2_3" pos="0.637372,0.870923" parent="background_control" src="counter" fill="255,76,191" zpos="4.001" />
+		<vector id="position_3_3" pos="0.637372,0.0657805" parent="background_control" src="counter" fill="255,76,191" zpos="4.002" />
+		<vector id="position_4_3" pos="0.426915,0.870923" parent="background_control" src="counter" fill="255,76,191" zpos="4.003" />
+		<vector id="position_5_3" pos="0.426915,0.669638" parent="background_control" src="counter" fill="255,76,191" zpos="4.004" />
+		<vector id="position_6_3" pos="0.426915,0.267066" parent="background_control" src="counter" fill="255,76,191" zpos="4.005" />
+		<vector id="position_7_3" pos="0.637372,0.267066" parent="background_control" src="counter" fill="255,76,191" zpos="4.006" />
+		<vector id="position_8_3" pos="0.426915,0.468352" parent="background_control" src="counter" fill="255,76,191" zpos="4.007" />
+		<vector id="position_9_3" pos="0.637372,0.669638" parent="background_control" src="counter" fill="255,76,191" zpos="4.008" />
+		<vector id="position_10_3" pos="0.637372,0.468352" parent="background_control" src="counter" fill="255,76,191" zpos="4.009" />
+		<vector id="position_1_2" pos="0.091085,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5" />
+		<vector id="position_2_2" pos="0.298696,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="5.001" />
+		<vector id="position_3_2" pos="0.301542,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5.002" />
+		<vector id="position_4_2" pos="0.091085,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="5.003" />
+		<vector id="position_5_2" pos="0.506307,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="5.004" />
+		<vector id="position_6_2" pos="0.511998,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5.005" />
+		<vector id="position_7_2" pos="0.722455,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5.006" />
+		<vector id="position_8_2" pos="0.932911,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="5.007" />
+		<vector id="position_9_2" pos="0.713918,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="5.008" />
+		<vector id="position_10_2" pos="0.921529,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="5.009" />
+		<vector id="obj_1" pos="0.091085,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="6" />
+		<vector id="obj_2" pos="0.253017,0.558062" parent="background_control" src="counter" fill="255,76,191" zpos="6.001" />
+		<vector id="obj_3" pos="0.41495,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="6.002" />
+		<vector id="obj_4" pos="0.091085,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="6.003" />
+		<vector id="obj_5" pos="0.403567,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="6.004" />
+		<vector id="obj_6" pos="0.609047,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="6.005" />
+		<vector id="obj_7" pos="0.770979,0.558062" parent="background_control" src="counter" fill="255,76,191" zpos="6.006" />
+		<vector id="obj_8" pos="0.932911,0.402019" parent="background_control" src="counter" fill="255,76,191" zpos="6.007" />
+		<vector id="obj_9" pos="0.609047,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="6.008" />
+		<vector id="obj_10" pos="0.921529,0.714106" parent="background_control" src="counter" fill="255,76,191" zpos="6.009" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="7" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.006" number="10" />
+	</event>
+	<event id="4e" redraw="true" correctAnswer="6" phases="3" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_3" pos="0.49789,0.500084" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4" />
+		<vector id="position_2_3" pos="0.498512,0.159578" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4.001" />
+		<vector id="position_3_3" pos="0.775632,0.335585" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4.002" />
+		<vector id="position_4_3" pos="0.112394,0.647673" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4.003" />
+		<vector id="position_5_3" pos="0.775992,0.819686" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4.004" />
+		<vector id="position_6_3" pos="0.383463,0.820255" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="4.005" />
+		<vector id="position_1_2" pos="0.221752,0.335585" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5" />
+		<vector id="position_2_2" pos="0.498512,0.159578" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5.001" />
+		<vector id="position_3_2" pos="0.775632,0.335585" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5.002" />
+		<vector id="position_4_2" pos="0.221752,0.647673" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5.003" />
+		<vector id="position_5_2" pos="0.76425,0.647673" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5.004" />
+		<vector id="position_6_2" pos="0.492821,0.820255" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="5.005" />
+		<vector id="obj_1" pos="0.299034,0.409533" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6" />
+		<vector id="obj_2" pos="0.498512,0.409458" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6.001" />
+		<vector id="obj_3" pos="0.69799,0.409533" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6.002" />
+		<vector id="obj_4" pos="0.299034,0.721621" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6.003" />
+		<vector id="obj_5" pos="0.686607,0.721621" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6.004" />
+		<vector id="obj_6" pos="0.492821,0.721822" parent="background_control" src="diamond" scalex="1.2" scaley="1" fill="10,219,38" zpos="6.005" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="7" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="7.006" number="10" />
+	</event>
+	<event id="4f" redraw="true" correctAnswer="8" phases="5" >
+		<rectangle id="background_control" pos="0.370758,0.53303" src="background_control" fill="38,165,53" zpos="2.001" hidden="true" widthtracksheight="true" x="0.0208664" y="0.0774892" width="0.699783" height="0.911082" pxwidth="716.578" pxheight="699.711" />
+		<rectangle id="background_control_sidebar" pos="0.864052,0.587245" src="background_control_sidebar" fill="10,219,38" zpos="2" hidden="true" widthtracksheight="true" x="0.733139" y="0.178396" width="0.261826" height="0.817698" pxwidth="268.109" pxheight="627.992" />
+		<vector id="back_cloud_1" pos="0.388154,0.330198" src="cloud" scalex="1.58791" scaley="1.58791" zpos="3.001" opacity="0.7" />
+		<vector id="back_cloud_2" pos="0.707653,0.0429128" src="cloud" scalex="2.3103" scaley="2.3103" zpos="3" opacity="0.7" />
+		<vector id="position_1_5" pos="0.144031,0.757565" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.003" />
+		<vector id="position_2_5" pos="0.840624,0.146307" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.002" />
+		<vector id="position_3_5" pos="0.766661,0.865408" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.006" />
+		<vector id="position_4_5" pos="0.218234,0.444566" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4" />
+		<vector id="position_5_5" pos="0.518091,0.256194" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.001" />
+		<vector id="position_6_5" pos="0.860706,0.595184" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.007" />
+		<vector id="position_7_5" pos="0.386825,0.830131" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.005" />
+		<vector id="position_8_5" pos="0.519176,0.59452" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="4.004" />
+		<vector id="position_1_4" pos="0.187483,0.47573" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.003" />
+		<vector id="position_2_4" pos="0.778496,0.253315" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.002" />
+		<vector id="position_3_4" pos="0.779073,0.705051" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.006" />
+		<vector id="position_4_4" pos="0.31755,0.252796" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5" />
+		<vector id="position_5_4" pos="0.546023,0.105741" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.001" />
+		<vector id="position_6_4" pos="0.89071,0.475459" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.007" />
+		<vector id="position_7_4" pos="0.289934,0.704046" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.005" />
+		<vector id="position_8_4" pos="0.546072,0.847476" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="5.004" />
+		<vector id="position_1_3" pos="0.260628,0.56747" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.003" />
+		<vector id="position_2_3" pos="0.648761,0.401719" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.002" />
+		<vector id="position_3_3" pos="0.657663,0.733221" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.006" />
+		<vector id="position_4_3" pos="0.111073,0.401719" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6" />
+		<vector id="position_5_3" pos="0.410183,0.401719" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.001" />
+		<vector id="position_6_3" pos="0.937939,0.733221" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.007" />
+		<vector id="position_7_3" pos="0.111073,0.733221" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.005" />
+		<vector id="position_8_3" pos="0.410183,0.733221" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="6.004" />
+		<vector id="position_1_2" pos="0.402824,0.589276" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.003" />
+		<vector id="position_2_2" pos="0.616931,0.116488" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.002" />
+		<vector id="position_3_2" pos="0.616931,0.352882" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.006" />
+		<vector id="position_4_2" pos="0.402824,0.352882" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7" />
+		<vector id="position_5_2" pos="0.402824,0.116488" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.001" />
+		<vector id="position_6_2" pos="0.616931,0.589276" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.007" />
+		<vector id="position_7_2" pos="0.402824,0.82567" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.005" />
+		<vector id="position_8_2" pos="0.616931,0.82567" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="7.004" />
+		<vector id="obj_1" pos="0.188717,0.726645" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.003" />
+		<vector id="obj_2" pos="0.616931,0.414557" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.002" />
+		<vector id="obj_3" pos="0.831038,0.414557" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.006" />
+		<vector id="obj_4" pos="0.188717,0.414557" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8" />
+		<vector id="obj_5" pos="0.402824,0.414557" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.001" />
+		<vector id="obj_6" pos="0.825347,0.726645" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.007" />
+		<vector id="obj_7" pos="0.400927,0.726645" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.005" />
+		<vector id="obj_8" pos="0.613137,0.726645" parent="background_control" src="star" scalex="1.2" scaley="1.2" fill="255,226,0" zpos="8.004" />
+		<vector id="number_1" pos="0.30028,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.008" number="1" />
+		<vector id="number_2" pos="0.761146,0.116698" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.009" number="2" />
+		<vector id="number_3" pos="0.30028,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="9" number="3" />
+		<vector id="number_4" pos="0.761146,0.311731" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.001" number="4" />
+		<vector id="number_5" pos="0.30028,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.003" number="5" />
+		<vector id="number_6" pos="0.761146,0.506764" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.002" number="6" />
+		<vector id="number_7" pos="0.30028,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.004" number="7" />
+		<vector id="number_8" pos="0.761146,0.701798" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.005" number="8" />
+		<vector id="number_9" pos="0.30028,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.007" number="9" />
+		<vector id="number_10" pos="0.761146,0.896831" parent="background_control_sidebar" src="numberButton_yellow" zpos="9.006" number="10" />
+	</event>
+</events>

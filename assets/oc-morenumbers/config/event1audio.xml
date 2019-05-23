@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_lookatthenumbers</phrase>
+			<phrase>1_fromone</phrase>
+			<phrase>1_toonehundred</phrase>
+			<phrase>1_thisisacolumnofnumbers</phrase>
+			<phrase>1_anothercolumn</phrase>
+			<phrase>1_andanother</phrase>
+			<phrase>1_nowlookatthepattern</phrase>
+			<phrase>1_allthesenumbersendineight</phrase>
+			<phrase>1_alltheseendinfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_findthecolumnwherethenumbersendinzero</phrase>
+			<phrase>1_slideyourfingerdownitfromthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findthecolumnwherethenumbersendinzero</phrase>
+			<phrase>1_slideyourfingerdownitfromthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_goallthewaydown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startatthetopofthecolumnwithzeros</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_thenumbersallendinzero</phrase>
+			<phrase>1_countwithme</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_twenty</phrase>
+			<phrase>1_thirty</phrase>
+			<phrase>1_forty</phrase>
+			<phrase>1_fifty</phrase>
+			<phrase>1_sixty</phrase>
+			<phrase>1_seventy</phrase>
+			<phrase>1_eighty</phrase>
+			<phrase>1_ninety</phrase>
+			<phrase>1_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowcolourinthecolumnwithfives</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_colourinthecolumnwithfives</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_goallthewaydown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startatthetopofthefivescolumncolouritallin</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_allthenumbersendinfive</phrase>
+			<phrase>1_letscount</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_fifteen</phrase>
+			<phrase>1_twentyfive</phrase>
+			<phrase>1_thirtyfive</phrase>
+			<phrase>1_fortyfive</phrase>
+			<phrase>1_fiftyfive</phrase>
+			<phrase>1_sixtyfive</phrase>
+			<phrase>1_seventyfive</phrase>
+			<phrase>1_eightyfive</phrase>
+			<phrase>1_ninetyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_colourinthecolumnwherethenumbersendintwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_colourinthecolumnwherethenumbersendintwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_goallthewaydown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startatthetopofthetwoscolumncolouritallin</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_theyallendintwo</phrase>
+			<phrase>1_countwithme</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_twelve</phrase>
+			<phrase>1_twentytwo</phrase>
+			<phrase>1_thirtytwo</phrase>
+			<phrase>1_fortytwo</phrase>
+			<phrase>1_fiftytwo</phrase>
+			<phrase>1_sixtytwo</phrase>
+			<phrase>1_seventytwo</phrase>
+			<phrase>1_eightytwo</phrase>
+			<phrase>1_ninetytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h1">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowwhereissixteen</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whereissixteen</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whereissixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h2">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findtwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findtwentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findtwentysix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h3">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findthirtysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findthirtysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findthirtysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_theyallendinsix</phrase>
+			<phrase>1_letscount</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_sixteen</phrase>
+			<phrase>1_twentysix</phrase>
+			<phrase>1_thirtysix</phrase>
+			<phrase>1_fortysix</phrase>
+			<phrase>1_fiftysix</phrase>
+			<phrase>1_sixtysix</phrase>
+			<phrase>1_seventysix</phrase>
+			<phrase>1_eightysix</phrase>
+			<phrase>1_ninetysix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i1">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nextfindthirtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findthirtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findthirtynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i2">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findfortynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findfortynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findfortynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i3">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findfiftynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findfiftynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findfiftynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_theyareintheninescolumn</phrase>
+			<phrase>1_countwithme</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_nineteen</phrase>
+			<phrase>1_twentynine</phrase>
+			<phrase>1_thirtynine</phrase>
+			<phrase>1_fortynine</phrase>
+			<phrase>1_fiftynine</phrase>
+			<phrase>1_sixtynine</phrase>
+			<phrase>1_seventynine</phrase>
+			<phrase>1_eightynine</phrase>
+			<phrase>1_ninetynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j1">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findseventyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findseventyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findseventyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j2">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findeightyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findeightyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findeightyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j3">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findninetyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findninetyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_findninetyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_theyareintheonescolumn</phrase>
+			<phrase>1_countwithme</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_eleven</phrase>
+			<phrase>1_twentyone</phrase>
+			<phrase>1_thirtyone</phrase>
+			<phrase>1_fortyone</phrase>
+			<phrase>1_fiftyone</phrase>
+			<phrase>1_sixtyone</phrase>
+			<phrase>1_seventyone</phrase>
+			<phrase>1_eightyone</phrase>
+			<phrase>1_ninetyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="DEMO">
+			<phrase>1_thistimesomenumbersarehiding</phrase>
+			<phrase>1_wherestwelve</phrase>
+			<phrase>1_here</phrase>
+			<phrase>1_itsinthetwoscolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>1_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_gooditsinthethreescolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_findthirtyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findthirtyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_findthirtyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsinthesevenscolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_wheressixtyeighthiding</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_wheressixtyeighthiding</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_findsixtyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesitsintheeightscolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowfindfiftyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findfiftyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_findfiftyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsinthefourscolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thelastonewheresseventyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_findseventyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_findseventyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesitsinthefivescolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldoneyouusedthepatterntofindnumbersinthecolumns</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="number_on">
+			<phrase>ping</phrase>
+		</phrasegroup>
+		<phrasegroup id="border_appear">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_appear">
+			<phrase>marimba_scale_up_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="grid_appears">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="num_mark">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cover_on">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="peel">
+			<phrase>slide_tear</phrase>
+		</phrasegroup>
+	</event>
+</audio>

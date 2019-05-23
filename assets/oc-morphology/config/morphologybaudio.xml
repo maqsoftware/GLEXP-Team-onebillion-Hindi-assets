@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180531.085120910">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>morph_nowwellcompletesomesentences</phrase>
+			<phrase>morph_getready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>morph_nowwellcompletesomesentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n">
+		<phrasegroup id="DEMO">
+			<phrase>morph_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>morph_andlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>morph_watchme</phrase>
+			<phrase>morph_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="o">
+		<phrasegroup id="DEMO">
+			<phrase>morph_listen</phrase>
+			<phrase>morph_thencompletethesentence</phrase>
+			<phrase>morph_dragfromhere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="o2">
+		<phrasegroup id="INCORRECT">
+			<phrase>morph_listen</phrase>
+			<phrase>morph_nowtryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p">
+		<phrasegroup id="PROMPT">
+			<phrase>morph_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>morph_listen</phrase>
+			<phrase>morph_nowtryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q">
+		<phrasegroup id="PROMPT">
+			<phrase>morph_youknowwhattodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>morph_welldoneyoucompletedsentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon" vol="0.5">
+			<phrase>switch_click_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonson">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonactive">
+			<phrase>alert_note</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttontouch">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="sentence">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>cf_stickhit</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff" vol="0.5">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide" vol="0.5">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="listen">
+			<phrase>cf_block</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

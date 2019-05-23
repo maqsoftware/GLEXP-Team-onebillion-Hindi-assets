@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171204.113934600">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>lg4_letsplaythelisteninggame</phrase>
+			<phrase>lg4_youllchooseapicturetomatchwhatyouhear</phrase>
+			<phrase>lg4_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>lg4_listenthenchoosethematchingpicture</phrase>
+			<phrase>lg4_thismighthelp</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>lg4_listenthenchoosethematchingpicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>lg4_verygoodyoumatchedpicturestothewordsyouheard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="shutter_open">
+			<phrase>cf_jawbone_shorter3</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutter_close">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="stars">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

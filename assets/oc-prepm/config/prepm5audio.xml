@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180119.151536290">
+	<event id="q1_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare2childreninavehicle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_str_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare3childreninavehicle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_add_1">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_1morechildgetsintothevehicle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_add_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_2morechildrengetintothevehicle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_add_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_3morechildrengetintothevehicle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_howmanychildrenarethereinthevehiclealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare3childreninthevehiclealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4childreninthevehiclealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5childreninthevehiclealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare6childreninthevehiclealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_str_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4childreninaclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_str_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5childreninaclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_str_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare6childreninaclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_sub_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_2ofthechildrenareboys</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_sub_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_3ofthechildrenareboys</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_therestaregirlshowmanygirlsarethereintheclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_1">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereis1girlintheclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare2girlsintheclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare3girlsintheclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4girlsintheclassroom</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare2tomatoesinabasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_str_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare3tomatoesinabasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_str_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4tomatoesinabasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_str_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5tomatoesinabasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_add_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_2tomatoesareaddedtothebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_add_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_3tomatoesareaddedtothebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_add_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_4tomatoesareaddedtothebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_add_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_5tomatoesareaddedtothebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_howmanytomatoesarethereinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare6tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_7">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare7tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare8tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_9">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare9tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare10tomatoesinthebasket</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5bottletopsonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare6bottletopsonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_7">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare7bottletopsonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare8bottletopsonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_sub_1">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_itakeaway1bottletop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_sub_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_itakeaway2bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_sub_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_itakeaway3bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_sub_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_itakeaway4bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_howmanybottletopsareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_1">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereis1bottletopleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare2bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare3bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare4bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare5bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare6bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_7">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_thereare7bottletopsleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inonehandihave5pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inonehandihave6pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_7">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inonehandihave7pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inonehandihave8pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_add_1">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inmyotherhandihave1pebble</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_add_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inmyotherhandihave2pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_add_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inmyotherhandihave3pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_add_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inmyotherhandihave4pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_add_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_inmyotherhandihave5pebbles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_howmanypebblesdoihavealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave6pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_7">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave7pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave8pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_9">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave9pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave10pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_11">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave11pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave12pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_13">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_ihave13pebblesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="counting_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_letsseehowyoucanuseyourfingerstohelpyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="counting_20">
+		<phrasegroup id="DEMO">
+			<phrase>prepm5_letsseehowyoucanusebottletopstohelpyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equation">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="count">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="highlight">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="video">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="image">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

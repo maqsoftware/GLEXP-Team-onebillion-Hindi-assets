@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_normal="0,0,0" colour_highlight="253,37,1" colour_inactive="214,214,214" colour_pattern="0,144,255" >
+		<rectangle id="drop_area" pos="0.502623,0.832219" src="drop_area" fill="255,255,255" zpos="0" hidden="true" x="0.371662" y="0.733505" width="0.261921" height="0.197428" />
+	</event>
+	<event id="pws1" >
+		<rectangle id="image_box" pos="0.863411,0.813629" src="image_box" fill="255,255,255" stroke="214,212,213" strokewidth="3" zpos="3.001" hidden="true" widthtracksheight="true" x="0.743164" y="0.6533" width="0.240494" height="0.320658" pxwidth="246.266" pxheight="246.266" />
+		<rectangle id="loc_1" pos="0.549484,0.362478" src="loc_1" fill="216,212,213" zpos="3.002" hidden="true" x="0.417648" y="0.326762" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_2" pos="0.85104,0.500239" src="loc_2" fill="216,212,213" zpos="3.003" hidden="true" x="0.719204" y="0.464523" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_3" pos="0.177734,0.511612" src="loc_3" fill="216,212,213" zpos="3.004" hidden="true" x="0.0458984" y="0.475896" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_4" pos="0.282845,0.140238" src="loc_4" fill="216,212,213" zpos="3.005" hidden="true" x="0.151009" y="0.104523" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_5" pos="0.817383,0.183467" src="loc_5" fill="216,212,213" zpos="3.006" hidden="true" x="0.685547" y="0.147751" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_6" pos="0.533264,0.599457" src="loc_6" fill="216,212,213" zpos="3.007" hidden="true" x="0.401428" y="0.563741" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_7" pos="0.160755,0.325801" src="loc_7" fill="216,212,213" zpos="3.008" hidden="true" x="0.0289192" y="0.290085" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_8" pos="0.613163,0.0648804" src="loc_8" fill="216,212,213" zpos="3.009" hidden="true" x="0.481327" y="0.0291646" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_9" pos="0.863071,0.315313" src="loc_9" fill="216,212,213" zpos="3.01" hidden="true" x="0.731236" y="0.279597" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_10" pos="0.482983,0.475667" src="loc_10" fill="216,212,213" zpos="3.011" hidden="true" x="0.351147" y="0.439952" width="0.263672" height="0.0714315" />
+		<rectangle id="loc_11" pos="0.450916,0.254054" src="loc_11" fill="216,212,213" zpos="3.012" hidden="true" x="0.31908" y="0.218338" width="0.263672" height="0.0714315" />
+		<vector id="word_bag" pos="0.118504,0.857671" src="word_bag" scalex="0.416292" scaley="0.416292" fill="0,234,255" zpos="3" hidden="true" />
+	</event>
+	<event id="pws2" >
+		<rectangle id="loc_1" pos="0.484852,0.504939" src="loc_1" fill="216,212,213" zpos="3.002" hidden="true" x="0.436024" y="0.481949" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_2" pos="0.588303,0.332316" src="loc_2" fill="216,212,213" zpos="3.003" hidden="true" x="0.539474" y="0.309326" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_3" pos="0.388386,0.231491" src="loc_3" fill="216,212,213" zpos="3.004" hidden="true" x="0.339558" y="0.208501" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_4" pos="0.298939,0.426656" src="loc_4" fill="216,212,213" zpos="3.005" hidden="true" x="0.250111" y="0.403666" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_5" pos="0.747238,0.397374" src="loc_5" fill="216,212,213" zpos="3.006" hidden="true" x="0.69841" y="0.374385" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_6" pos="0.842594,0.225042" src="loc_6" fill="216,212,213" zpos="3.007" hidden="true" x="0.793766" y="0.202052" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_7" pos="0.100178,0.192785" src="loc_7" fill="216,212,213" zpos="3.008" hidden="true" x="0.0513496" y="0.169795" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_8" pos="0.136189,0.376063" src="loc_8" fill="216,212,213" zpos="3.009" hidden="true" x="0.0873604" y="0.353073" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_9" pos="0.629429,0.162827" src="loc_9" fill="216,212,213" zpos="3.01" hidden="true" x="0.580601" y="0.139837" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_10" pos="0.28738,0.12323" src="loc_10" fill="216,212,213" zpos="3.011" hidden="true" x="0.238552" y="0.10024" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_11" pos="0.615063,0.586304" src="loc_11" fill="216,212,213" zpos="3.012" hidden="true" x="0.566235" y="0.563314" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_12" pos="0.352226,0.623901" src="loc_12" fill="216,212,213" zpos="3.013" hidden="true" x="0.303398" y="0.600911" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_13" pos="0.805859,0.680298" src="loc_13" fill="216,212,213" zpos="3.014" hidden="true" x="0.75703" y="0.657308" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_14" pos="0.911381,0.434062" src="loc_14" fill="216,212,213" zpos="3.015" hidden="true" x="0.862553" y="0.411072" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_15" pos="0.161449,0.572103" src="loc_15" fill="216,212,213" zpos="3.016" hidden="true" x="0.112621" y="0.549113" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_16" pos="0.471687,0.0941111" src="loc_16" fill="216,212,213" zpos="3.017" hidden="true" x="0.422859" y="0.0711212" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_17" pos="0.760124,0.0757141" src="loc_17" fill="216,212,213" zpos="3.018" hidden="true" x="0.711296" y="0.0527242" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_18" pos="0.437054,0.364451" src="loc_18" fill="216,212,213" zpos="3.019" hidden="true" x="0.388226" y="0.341461" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_19" pos="0.223213,0.267339" src="loc_19" fill="216,212,213" zpos="3.02" hidden="true" x="0.174385" y="0.244349" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_20" pos="0.88673,0.578171" src="loc_20" fill="216,212,213" zpos="3.021" hidden="true" x="0.837902" y="0.555181" width="0.0976562" height="0.0459798" />
+		<rectangle id="loc_21" pos="0.713402,0.496811" src="loc_21" fill="216,212,213" zpos="3.022" hidden="true" x="0.664574" y="0.473821" width="0.0976562" height="0.0459798" />
+		<rectangle id="syllables_box" pos="0.606714,0.493426" src="syllables_box" fill="255,255,255" zpos="3.001" hidden="true" widthtracksheight="true" x="0.263653" y="0.133565" width="0.686123" height="0.719721" pxwidth="702.59" pxheight="552.746" />
+		<vector id="word_bag" pos="0.112885,0.865148" src="word_bag" scalex="0.38348" scaley="0.38348" fill="251,86,111" zpos="3" hidden="true" />
+	</event>
+	<event id="pws3" colour_column_1="195,252,186" colour_column_2="255,187,242" colour_column_3="254,248,154" >
+		<rectangle id="word_rect" pos="0.529928,0.372004" src="word_rect" fill="255,255,255" zpos="3.001" hidden="true" widthtracksheight="true" x="0.239258" y="0.0579224" width="0.581341" height="0.628164" pxwidth="595.293" pxheight="482.43" />
+		<vector id="word_bag" pos="0.118504,0.857671" src="word_bag" scalex="0.416292" scaley="0.416292" fill="0,234,255" zpos="3" hidden="true" />
+		<rectangle id="word_size" pos="0.121667,0.867302" parent="word_rect" src="word_size" fill="255,255,255" zpos="3.002" hidden="true" x="-0.0146658" y="0.816222" width="0.272666" height="0.10216" />
+	</event>
+</events>

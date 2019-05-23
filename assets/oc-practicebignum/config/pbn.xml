@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" highlight_colour="0,180,0" >
+		<rectangle id="work_rect" pos="0.5,0.408318" src="work_rect" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.0232124" y="0.287511" width="0.953575" height="0.241613" pxwidth="976.461" pxheight="185.559" />
+		<rectangle id="num_1" pos="0.242574,0.700813" src="num_1" fill="255,255,255" zpos="0.002" hidden="true" heighttrackswidth="true" x="0.145508" y="0.629588" width="0.194133" height="0.142451" pxwidth="198.792" pxheight="109.402" />
+		<rectangle id="num_2" pos="0.733785,0.700813" src="num_2" fill="255,255,255" zpos="0.001" hidden="true" heighttrackswidth="true" x="0.636719" y="0.629588" width="0.194133" height="0.142451" pxwidth="198.792" pxheight="109.402" />
+		<vector id="presenter" pos="0.5,0.700256" src="anna" zpos="0.006" hidden="true" />
+		<rectangle id="unit_1" pos="0.243213,1.05501" parent="work_rect" src="unit_1" fill="21,147,252" stroke="3,118,206" strokewidth="1" zpos="0.005" hidden="true" widthtracksheight="true" x="0.227852" y="0.97417" width="0.0307232" height="0.161674" pxwidth="30" pxheight="30" />
+		<rectangle id="unit_10" pos="0.23066,0.94413" parent="work_rect" src="unit_10" fill="21,147,252" stroke="3,118,206" strokewidth="1" zpos="0.004" hidden="true" widthtracksheight="true" x="0.221443" y="0.895628" width="0.0184339" height="0.0970044" pxwidth="18" pxheight="18" />
+		<rectangle id="unit_100" pos="0.232196,0.957603" parent="work_rect" src="unit_100" fill="21,147,252" stroke="3,118,206" strokewidth="1" zpos="0.003" hidden="true" widthtracksheight="true" x="0.225539" y="0.922573" width="0.0133134" height="0.0700587" pxwidth="13" pxheight="13" />
+	</event>
+</events>

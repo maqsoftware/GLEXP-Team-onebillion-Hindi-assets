@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" textsize="95" colour="254,255,255" >
+		<vector id="obj_1" pos="0.164164,0.499489" src="soundbox" scalex="2.18048" scaley="2.18048" zpos="0" />
+		<vector id="obj_2" pos="0.500282,0.499489" src="soundbox" scalex="2.18048" scaley="2.18048" zpos="0.001" />
+		<vector id="obj_3" pos="0.836401,0.499489" src="soundbox" scalex="2.18048" scaley="2.18048" zpos="0.002" />
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="1" />
+	</event>
+</events>

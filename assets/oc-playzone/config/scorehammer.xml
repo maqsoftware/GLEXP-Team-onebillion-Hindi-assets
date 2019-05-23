@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" gradienttop="159,238,255" gradientbottom="217,249,255" >
+	</event>
+	<event id="finale" textsize="42" >
+		<vector id="hammer" pos="0.722731,0.723961" src="scorehammer_hammer" scalex="1.68376" scaley="1.68376" rotation="-36.7925" zpos="0.001" />
+		<vector id="hammer2" pos="0.548108,0.76592" src="scorehammer_hammer" scalex="1.68376" scaley="1.68376" rotation="22.9813" zpos="0.003" hidden="true" />
+		<vector id="machine" pos="0.5,0.501638" src="scorehammer_machine" zpos="0" />
+		<rectangle id="swatch" pos="0.117027,0.330976" src="swatch" fill="232,232,232" zpos="0.002" hidden="true" x="0.0918541" y="0.292043" width="0.0503464" height="0.0778656" />
+	</event>
+</events>

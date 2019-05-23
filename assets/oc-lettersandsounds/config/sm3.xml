@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="124" >
+		<rectangle id="highlightswatch" pos="0.0754395,0.754341" src="highlightswatch" fill="240,250,132" stroke="255,0,33" strokewidth="5" zpos="0.004" hidden="true" x="0.0485268" y="0.729075" width="0.0538254" height="0.050532" />
+		<rectangle id="incorrectswatch" pos="0.0767822,0.844739" src="incorrectswatch" fill="218,218,218" stroke="255,0,33" strokewidth="5" zpos="0.006" hidden="true" x="0.0498695" y="0.819473" width="0.0538254" height="0.050532" />
+		<image id="pic" pos="0.185356,0.380432" src="fc_table" scalex="0.523911" scaley="0.523911" zpos="0.003" />
+		<rectangle id="picrect0" pos="0.184681,0.36379" src="picrect0" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0" widthtracksheight="true" x="0.0469856" y="0.126811" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+		<rectangle id="picrect1" pos="0.5,0.36379" src="picrect1" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0.001" widthtracksheight="true" x="0.362305" y="0.126811" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+		<rectangle id="picrect2" pos="0.815319,0.36379" src="picrect2" fill="252,243,221" stroke="207,200,183" strokewidth="1" zpos="0.002" widthtracksheight="true" x="0.677624" y="0.126811" width="0.275391" height="0.473958" pxwidth="282" pxheight="364" cornerradius="0.0164835" />
+		<rectangle id="textbox" pos="0.5,0.801432" src="textbox" fill="240,250,132" stroke="207,200,183" strokewidth="1" zpos="0.005" hidden="true" x="0.363281" y="0.728516" width="0.273438" height="0.145833" />
+	</event>
+</events>
