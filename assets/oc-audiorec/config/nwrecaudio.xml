@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180504.172925953">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_nowyoullsaywordsthattillymadeup</phrase>
+			<phrase>nwrec_theyrenonsensewords</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>nwrec_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_tillymakesupnonsensewords</phrase>
+			<phrase>nwrec_andyouhavetosaythem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_firstwatchme</phrase>
+			<phrase>nwrec_itouchthebutton</phrase>
+			<phrase>nwrec_itouchitagain</phrase>
+			<phrase>nwrec_nowyourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_touchthebutton</phrase>
+			<phrase>nwrec_saytillyswordoutloud</phrase>
+			<phrase>nwrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nwrec_touchthebutton</phrase>
+			<phrase>nwrec_saytillyswordoutloud</phrase>
+			<phrase>nwrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>nwrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>nwrec_didyousayitliketilly</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>nwrec_touchthearrowformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nwrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_getreadytosaythisnonsenseword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nwrec_touchthebutton</phrase>
+			<phrase>nwrec_saytillyswordoutloud</phrase>
+			<phrase>nwrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>nwrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>nwrec_didyousayitliketilly</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nwrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>nwrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nwrec_touchthebutton</phrase>
+			<phrase>nwrec_saytillyswordoutloud</phrase>
+			<phrase>nwrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nwrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nwrec_touchthebutton</phrase>
+			<phrase>nwrec_saytillyswordoutloud</phrase>
+			<phrase>nwrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nwrec_icanthearyou</phrase>
+			<phrase>nwrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>nwrec_greattillymadeupwordsforyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wordon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="tilly_on">
+			<phrase>zip_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

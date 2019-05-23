@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="2a,2b,2c,2d,2e,2f,2g,2h,2i,2j,2k,2l" gradienttop="246,170,245" gradientbottom="252,221,255" colour_equation="24,125,10" colour_highlight="254,252,14" colour_box="250,227,249" subtract="true" colour="251,233,250" >
+		<vector id="bag_back" pos="0.720459,0.744723" src="bag_back" scalex="0.614" scaley="0.614" zpos="0.002" />
+		<vector id="bag_front" pos="0.720459,0.744723" src="bag_front" scalex="0.614" scaley="0.614282" zpos="0.003" />
+		<rectangle id="eqbox" pos="0.713934,0.378988" src="eqbox" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.456055" y="0.299642" width="0.515759" height="0.158691" pxwidth="528.137" pxheight="121.875" />
+		<rectangle id="numbox" pos="0.503922,0.180954" src="numbox" fill="255,255,255" zpos="0.001" hidden="true" heighttrackswidth="true" x="0.0797997" y="0.136002" width="0.848244" height="0.0899048" pxwidth="868.602" pxheight="69.0469" />
+	</event>
+	<event id="2a" equation="5,1,4" locs="0.434402,0.925" >
+		<vector id="bg_1" pos="0.268629,0.624743" src="tree" scalex="4.11475" scaley="4.11475" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.74673,0.542295" parent="bg_1" src="apple" scalex="1.09837" scaley="1.09837" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.250899,0.411151" parent="bg_1" src="apple" scalex="1.09837" scaley="1.09837" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.523793,0.37001" parent="bg_1" src="apple" scalex="1.09837" scaley="1.09837" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.3521,0.166206" parent="bg_1" src="apple" scalex="1.09837" scaley="1.09837" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="0.70525,0.204836" parent="bg_1" src="apple" scalex="1.09837" scaley="1.09837" zpos="3.005" hidden="true" />
+	</event>
+	<event id="2b" equation="3,1,2" locs="0.338423,0.925" >
+		<vector id="bg_1" pos="0.233489,0.655401" src="hangers" scalex="1.17529" scaley="1.17529" zpos="3" hidden="true" />
+		<vector id="bg_2" pos="0.284004,0.168357" parent="bg_1" src="peg" zpos="3.004" hidden="true" />
+		<vector id="bg_3" pos="0.506816,0.188157" parent="bg_1" src="peg" zpos="3.005" hidden="true" />
+		<vector id="bg_4" pos="0.725066,0.190251" parent="bg_1" src="peg" zpos="3.006" hidden="true" />
+		<vector id="obj_1" pos="0.287122,0.332176" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="223,39,123" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.512352,0.341232" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="223,39,123" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.731359,0.348957" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="223,39,123" zpos="3.003" hidden="true" />
+	</event>
+	<event id="2c" equation="4,1,3" locs="0.313293,0.925" >
+		<vector id="bg_1" pos="0.262569,0.744455" src="table" scalex="0.527148" scaley="0.527148" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.145287,-0.000393378" parent="bg_1" src="duck" scalex="0.177231" scaley="0.177231" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.383252,-0.000393378" parent="bg_1" src="duck" scalex="0.177231" scaley="0.177231" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.621217,-0.000393378" parent="bg_1" src="duck" scalex="0.177231" scaley="0.177231" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.859182,-0.000393378" parent="bg_1" src="duck" scalex="0.177231" scaley="0.177231" zpos="3.004" hidden="true" />
+	</event>
+	<event id="2d" equation="6,2,4" locs="0.264335,0.925,0.550049,0.925" >
+		<vector id="bg_1" pos="0.274911,0.78118" src="pot" scalex="0.480141" scaley="0.480141" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.116073,-0.254052" parent="bg_1" src="plant_1" scalex="0.458" scaley="0.45816" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.269635,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.423198,-0.254052" parent="bg_1" src="plant_1" scalex="0.458" scaley="0.45816" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.576761,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="0.730323,-0.2484" parent="bg_1" src="plant_3" scalex="0.458" scaley="0.458" zpos="3.005" hidden="true" />
+		<vector id="obj_6" pos="0.883886,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" zpos="3.006" hidden="true" />
+	</event>
+	<event id="2e" equation="5,3,2" locs="0.271842,0.925,0.665815,0.925,0.454311,0.63" >
+		<vector id="bg_1" pos="0.289972,0.725717" src="shelf" scalex="1.06309" scaley="1.06309" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.185859,0.114025" parent="bg_1" src="cup" fill="185,84,166" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.484356,0.114025" parent="bg_1" src="cup" fill="248,141,74" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.782852,0.114025" parent="bg_1" src="cup" fill="66,190,91" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.320941,0.582421" parent="bg_1" src="cup" fill="0,150,211" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="0.640533,0.582421" parent="bg_1" src="cup" fill="242,46,157" zpos="3.005" hidden="true" />
+	</event>
+	<event id="2f" equation="4,4,0" locs="0.178903,0.925,0.633092,0.925,0.418291,0.925,0.835815,0.925" >
+		<vector id="bg_1" pos="0.233489,0.655401" src="hangers" scalex="1.17529" scaley="1.17529" zpos="3" hidden="true" />
+		<vector id="bg_2" pos="0.261349,0.177749" parent="bg_1" src="peg" zpos="3.005" hidden="true" />
+		<vector id="bg_3" pos="0.430632,0.188157" parent="bg_1" src="peg" zpos="3.006" hidden="true" />
+		<vector id="bg_4" pos="0.599914,0.190251" parent="bg_1" src="peg" zpos="3.007" hidden="true" />
+		<vector id="bg_5" pos="0.769197,0.196034" parent="bg_1" src="peg" zpos="3.008" hidden="true" />
+		<vector id="obj_1" pos="0.269117,0.334107" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="168,56,254" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.433431,0.345674" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="168,56,254" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.605464,0.349536" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="168,56,254" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.770348,0.349536" parent="bg_1" src="sock" scalex="0.39319" scaley="0.39319" fill="168,56,254" zpos="3.004" hidden="true" />
+	</event>
+	<event id="2g" equation="7,3,4" locs="0.34,0.925,0.66,0.925,0.5,0.57" >
+		<vector id="bg_1" pos="0.262569,0.744455" src="table" scalex="0.527148" scaley="0.527148" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.287236,0.000871588" parent="bg_1" src="tin" scalex="0.54363" scaley="0.54363" fill="0,177,100" zpos="3.005" hidden="true" />
+		<vector id="obj_2" pos="0.499096,0.00853623" parent="bg_1" src="tin" scalex="0.54363" scaley="0.54363" fill="207,28,0" zpos="3.006" hidden="true" />
+		<vector id="obj_3" pos="0.710956,0.00853623" parent="bg_1" src="tin" scalex="0.54363" scaley="0.54363" fill="0,150,211" zpos="3.007" hidden="true" />
+		<vector id="obj_4" pos="0.181145,-0.129427" parent="bg_1" src="tin" scalex="0.5" scaley="0.5" fill="207,28,0" zpos="3.001" hidden="true" rescale="true" />
+		<vector id="obj_5" pos="0.396162,-0.129427" parent="bg_1" src="tin" scalex="0.5" scaley="0.5" fill="0,150,211" zpos="3.002" hidden="true" rescale="true" />
+		<vector id="obj_6" pos="0.605915,-0.129427" parent="bg_1" src="tin" scalex="0.5" scaley="0.5" fill="0,177,100" zpos="3.003" hidden="true" rescale="true" />
+		<vector id="obj_7" pos="0.815669,-0.129427" parent="bg_1" src="tin" scalex="0.5" scaley="0.5" fill="207,28,0" zpos="3.004" hidden="true" rescale="true" />
+	</event>
+	<event id="2h" equation="6,6,0" locs="0.55,0.925,0.16,0.925,0.84,0.925,0.25,0.925,0.45,0.925,0.75,0.925" >
+		<vector id="bg_1" pos="0.274911,0.78118" src="pot" scalex="0.480141" scaley="0.480141" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.116073,-0.254052" parent="bg_1" src="plant_1" scalex="0.458" scaley="0.45816" fill="254,251,1" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.269635,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" fill="254,251,1" zpos="3.002" hidden="true" top_zpos="true" />
+		<vector id="obj_3" pos="0.423198,-0.254052" parent="bg_1" src="plant_1" scalex="0.458" scaley="0.45816" fill="254,251,1" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.576761,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" fill="254,251,1" zpos="3.004" hidden="true" top_zpos="true" />
+		<vector id="obj_5" pos="0.730323,-0.2484" parent="bg_1" src="plant_3" scalex="0.458" scaley="0.458" fill="254,251,1" zpos="3.005" hidden="true" />
+		<vector id="obj_6" pos="0.883886,-0.120332" parent="bg_1" src="plant_2" scalex="0.458" scaley="0.458" fill="254,251,1" zpos="3.006" hidden="true" top_zpos="true" />
+	</event>
+	<event id="2i" equation="7,5,2" locs="0.31,0.925,0.69,0.925,0.12,0.925,0.88,0.925,0.5,0.925" >
+		<vector id="bg_1" pos="0.289972,0.725717" src="shelf" scalex="1.06309" scaley="1.06309" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.227271,0.0606571" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.407278,0.0606571" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.587285,0.0606571" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.767292,0.0606571" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="0.310593,0.534197" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.005" hidden="true" />
+		<vector id="obj_6" pos="0.489366,0.534197" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.006" hidden="true" />
+		<vector id="obj_7" pos="0.668138,0.534197" parent="bg_1" src="bottle" scalex="0.170426" scaley="0.170426" zpos="3.007" hidden="true" />
+	</event>
+	<event id="2j" equation="8,4,4" locs="0.21,0.925,0.79,0.925,0.5,0.925,0.316903,0.76" >
+		<vector id="bg_1" pos="0.283966,0.910473" src="soil" scalex="0.440541" scaley="0.440541" zpos="3.01" hidden="true" />
+		<vector id="bg_2" pos="0.234964,-9.88411" parent="bg_1" src="bush" scalex="0.634957" scaley="0.634957" zpos="3.008" hidden="true" />
+		<vector id="bg_3" pos="0.746014,-9.80204" parent="bg_1" src="bush" scalex="0.634957" scaley="0.634957" zpos="3.009" hidden="true" />
+		<vector id="obj_1" pos="-0.00184558,0.659881" parent="bg_2" src="tomato" scalex="0.606" scaley="0.606" zpos="3.007" hidden="true" />
+		<vector id="obj_2" pos="0.875103,0.498567" parent="bg_2" src="tomato" scalex="0.606" scaley="0.606" rotation="18.9885" zpos="3.006" hidden="true" />
+		<vector id="obj_3" pos="0.687764,0.728165" parent="bg_2" src="tomato" scalex="0.606" scaley="0.606" rotation="20.1215" zpos="3.005" hidden="true" />
+		<vector id="obj_4" pos="0.114616,0.363385" parent="bg_2" src="tomato" scalex="0.606" scaley="0.60629" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="-0.00184561,0.659881" parent="bg_3" src="tomato" scalex="0.606" scaley="0.606" zpos="3.003" hidden="true" />
+		<vector id="obj_6" pos="0.875103,0.498567" parent="bg_3" src="tomato" scalex="0.606" scaley="0.606" rotation="18.9885" zpos="3.002" hidden="true" />
+		<vector id="obj_7" pos="0.687764,0.728165" parent="bg_3" src="tomato" scalex="0.606" scaley="0.606" rotation="20.1215" zpos="3.001" hidden="true" />
+		<vector id="obj_8" pos="0.114616,0.363385" parent="bg_3" src="tomato" scalex="0.606" scaley="0.60629" zpos="3" hidden="true" />
+	</event>
+	<event id="2k" equation="9,4,5" locs="0.779698,0.925,0.478446,0.93,0.220921,0.932,0.391078,0.775" >
+		<vector id="bg_1" pos="0.269894,0.60625" src="tree_2" scalex="4.03239" scaley="4.03239" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.291675,0.371836" src="lemon" scalex="0.273088" scaley="0.273088" rotation="19.3657" zpos="3.001" hidden="true" />
+		<vector id="obj_2" pos="0.2179,0.437452" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.002" hidden="true" />
+		<vector id="obj_3" pos="0.371735,0.417081" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.003" hidden="true" />
+		<vector id="obj_4" pos="0.288666,0.475385" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.004" hidden="true" />
+		<vector id="obj_5" pos="0.19495,0.533928" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.005" hidden="true" />
+		<vector id="obj_6" pos="0.370259,0.511726" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.006" hidden="true" />
+		<vector id="obj_7" pos="0.213341,0.633405" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.007" hidden="true" />
+		<vector id="obj_8" pos="0.278466,0.571866" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.008" hidden="true" />
+		<vector id="obj_9" pos="0.360092,0.613762" src="lemon" scalex="0.273" scaley="0.273" rotation="19.3657" zpos="3.009" hidden="true" />
+	</event>
+	<event id="2l" equation="10,6,4" locs="0.5,0.925,0.18,0.925,0.82,0.925,0.66,0.807,0.34,0.807,0.5,0.657" >
+		<vector id="bg_1" pos="0.262569,0.744455" src="table" scalex="0.527148" scaley="0.527148" zpos="3" hidden="true" />
+		<vector id="obj_1" pos="0.0897179,0.0985285" parent="bg_1" src="orange" scalex="0.754621" scaley="0.754621" zpos="3.006" hidden="true" />
+		<vector id="obj_2" pos="0.292931,0.0985285" parent="bg_1" src="orange" scalex="0.754621" scaley="0.754621" zpos="3.007" hidden="true" />
+		<vector id="obj_3" pos="0.496145,0.0985285" parent="bg_1" src="orange" scalex="0.754621" scaley="0.754621" zpos="3.008" hidden="true" />
+		<vector id="obj_4" pos="0.699358,0.0985285" parent="bg_1" src="orange" scalex="0.754621" scaley="0.754621" zpos="3.009" hidden="true" />
+		<vector id="obj_5" pos="0.902571,0.0985285" parent="bg_1" src="orange" scalex="0.754621" scaley="0.754621" zpos="3.01" hidden="true" />
+		<vector id="obj_6" pos="0.145232,-0.026037" parent="bg_1" src="orange" scalex="0.69" scaley="0.69" zpos="3.001" hidden="true" rescale="true" />
+		<vector id="obj_7" pos="0.319649,-0.026037" parent="bg_1" src="orange" scalex="0.69" scaley="0.69" zpos="3.002" hidden="true" rescale="true" />
+		<vector id="obj_8" pos="0.494066,-0.026037" parent="bg_1" src="orange" scalex="0.69" scaley="0.69" zpos="3.003" hidden="true" rescale="true" />
+		<vector id="obj_9" pos="0.668483,-0.026037" parent="bg_1" src="orange" scalex="0.69" scaley="0.69" zpos="3.004" hidden="true" rescale="true" />
+		<vector id="obj_10" pos="0.8429,-0.026037" parent="bg_1" src="orange" scalex="0.69" scaley="0.69" zpos="3.005" hidden="true" rescale="true" />
+	</event>
+</events>

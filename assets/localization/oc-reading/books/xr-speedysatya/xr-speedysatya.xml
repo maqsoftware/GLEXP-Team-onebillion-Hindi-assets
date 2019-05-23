@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<segment id="ting">
+	<phrase id="p0_1" audio="true">Sacha wamasewera</phrase>
+	<phrase id="p1_1" audio="true">Sacha amakonda masewera. Amakonda kuthamanga ndi kudumpha ndi kuzungulira. Amakonda kuchita mpidigoli. Amayenda mwaliwiro!</phrase>
+	<phrase id="p2_1" audio="true">Banja la kwawo limasangalala nazo. Nthawi zina amalowa m’matope ndi kuperesa mawondo ake, koma palibe amadandaula. Amakonda kumuona akusewera. </phrase>
+	<phrase id="p3_1" audio="true">Koma kusukulu Sacha amagwa m’mavuto ndi aphunzitsi ake. “Sacha!” amatero. “Khala pansi. Ukusokoneza m’kalasi.”</phrase>
+	<phrase id="p4_1" audio="true">Lamulungu lililonse, mayi a Sacha amamutengera kokayenda. Amakhala ndi mpata wokwanira kuthamanga ndi kusewera. Sacha amakondwa ndi tsikuli!</phrase>
+	<phrase id="p5_1" audio="true">Podutsa m’mapiri, Sacha adumpha ngati kalulu ndi kujowa ngati mbawala. Mayi ake sangathe kum’peza! “Ndidikire, Sacha!” atero.</phrase>
+	<phrase id="p6_1" audio="true">M’dambo, Sacha akwawa ngati nankalizi. Akwawa ngati njoka. “Samala ndi minga!” akuwa mayi.</phrase>
+	<phrase id="p7_1" audio="true">Munkhalango, Sacha azendewera monga kangaude. Adumpha monga nkhwere. Mayi amuseka. Amakondwa kumuona Sacha akusangalala.</phrase>
+	<phrase id="p8_1" audio="true">Mumtsinje, Sacha asambira ngati bakha. Amilira pansi, monga chule. Mayi akhala m’mbali mwa madzi kuonetsetsa kuti ali bwinobwino. </phrase>
+	<phrase id="p9_1" audio="true">Pamiyala, Sacha akwera monga buluzi. Adumpha ngati mbuzi. “Samala m’mwambamo!” akuwa mayi. “Ukupita m’mwamba kwambiri!”</phrase>
+	<phrase id="p10_1" audio="true">Sacha akupiza manja ake monga mapiko. Akufuna akadauluka ndi kuyandama m’malere ngati mbalame. “Kulibe kuuluka lero!” atero mayi.</phrase>
+	<phrase id="p11_1" audio="true">Madzulo kutada, Sacha watopa. Akwera kumsana kwa mayi ake. Amutengera kunyumba kudutsa pamiyala, pamtsinje, mapiri ndi padambo.</phrase>
+	<phrase id="p12_1" audio="true">Kunyumba, Sacha agona pabedi. Mayi ake amuuza nthano ya mnyamata yemwe amangoyenda osaleka.</phrase>
+	<phrase id="p12_2" audio="true">Aliyense amwetulira pamene akumvetsera nthanoyo.</phrase>
+	<phrase id="p13_1" audio="true">M’maloto, Sacha athamanga ndi kudumpha komanso kugudubuzika. Adumpha ndi kujowa. Akwerakwera ndi kusambira pansi pa madzi.</phrase>
+	<phrase id="p14_1" audio="true">Koma maloto ake opambana ndi pomwe akuzungulira ndi kudumphira m’mwamba m’malere. Kodi mukudziwa? Sacha alota zoti akuuluka.</phrase>
+	<phrase id="ps0_1" audio="true">Sacha wamasewera</phrase>
+	<phrase id="ps1_1" audio="true">Sacha amakonda masewera. Amakonda kuthamanga ndi kudumpha ndi kuzungulira. Amakonda kuchita mpidigoli. Amayenda mwaliwiro!</phrase>
+	<phrase id="ps2_1" audio="true">Banja la kwawo limasangalala nazo. Nthawi zina amalowa m’matope ndi kuperesa mawondo ake, koma palibe amadandaula. Amakonda kumuona akusewera. </phrase>
+	<phrase id="ps3_1" audio="true">Koma kusukulu Sacha amagwa m’mavuto ndi aphunzitsi ake. “Sacha!” amatero. “Khala pansi. Ukusokoneza m’kalasi.”</phrase>
+	<phrase id="ps4_1" audio="true">Lamulungu lililonse, mayi a Sacha amamutengera kokayenda. Amakhala ndi mpata wokwanira kuthamanga ndi kusewera. Sacha amakondwa ndi tsikuli!</phrase>
+	<phrase id="ps5_1" audio="true">Podutsa m’mapiri, Sacha adumpha ngati kalulu ndi kujowa ngati mbawala. Mayi ake sangathe kum’peza! “Ndidikire, Sacha!” atero.</phrase>
+	<phrase id="ps6_1" audio="true">M’dambo, Sacha akwawa ngati nankalizi. Akwawa ngati njoka. “Samala ndi minga!” akuwa mayi.</phrase>
+	<phrase id="ps7_1" audio="true">Munkhalango, Sacha azendewera monga kangaude. Adumpha monga nkhwere. Mayi amuseka. Amakondwa kumuona Sacha akusangalala.</phrase>
+	<phrase id="ps8_1" audio="true">Mumtsinje, Sacha asambira ngati bakha. Amilira pansi, monga chule. Mayi akhala m’mbali mwa madzi kuonetsetsa kuti ali bwinobwino. </phrase>
+	<phrase id="ps9_1" audio="true">Pamiyala, Sacha akwera monga buluzi. Adumpha ngati mbuzi. “Samala m’mwambamo!” akuwa mayi. “Ukupita m’mwamba kwambiri!”</phrase>
+	<phrase id="ps10_1" audio="true">Sacha akupiza manja ake monga mapiko. Akufuna akadauluka ndi kuyandama m’malere ngati mbalame. “Kulibe kuuluka lero!” atero mayi.</phrase>
+	<phrase id="ps11_1" audio="true">Madzulo kutada, Sacha watopa. Akwera kumsana kwa mayi ake. Amutengera kunyumba kudutsa pamiyala, pamtsinje, mapiri ndi padambo.</phrase>
+	<phrase id="ps12_1" audio="true">Kunyumba, Sacha agona pabedi. Mayi ake amuuza nthano ya mnyamata yemwe amangoyenda osaleka.</phrase>
+	<phrase id="ps12_2" audio="true">Aliyense amwetulira pamene akumvetsera nthanoyo.</phrase>
+	<phrase id="ps13_1" audio="true">M’maloto, Sacha athamanga ndi kudumpha komanso kugudubuzika. Adumpha ndi kujowa. Akwerakwera ndi kusambira pansi pa madzi.</phrase>
+	<phrase id="ps14_1" audio="true">Koma maloto ake opambana ndi pomwe akuzungulira ndi kudumphira m’mwamba m’malere. Kodi mukudziwa? Sacha alota zoti akuuluka.</phrase>
+</segment>

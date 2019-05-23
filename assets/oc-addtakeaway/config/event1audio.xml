@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletscountthespotsonthedomino</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_touchsix</phrase>
+			<phrase>1_therearesixspotsaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_countallthespotsonthedomino</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespotsonthedomino</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearefourspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowcountthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearefivespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearesevenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_howmanyspotsaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_thereareeightspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearesevenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowcountthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearesixspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_thereareeightspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowtherearetwodominoes</phrase>
+			<phrase>1_letscountthespots</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_touchseven</phrase>
+			<phrase>1_therearesevenspotsaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_countallthespotsonthedominoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearefivespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearesevenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_thereareninespots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_howmanyspotsaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countallthespots</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_therearetenspots</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_welldoneyoucountedallthespotsononedominoandontwodominoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

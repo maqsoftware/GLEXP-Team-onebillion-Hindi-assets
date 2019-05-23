@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localisation>
+  <phrase id="t_square">square</phrase>
+  <phrase id="t_circle">circle</phrase>
+  <phrase id="t_rectangle">rectangle</phrase>
+  <phrase id="t_triangle">triangle</phrase>
+  <phrase id="t_hexagon">hexagon</phrase>
+  <phrase id="t_pentagon">pentagon</phrase>
+</localisation>

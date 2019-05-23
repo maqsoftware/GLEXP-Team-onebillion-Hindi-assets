@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<vector id="presenter" pos="0.5,0.765279" src="anna" zpos="0.001" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.929036" src="recording_button" scalex="0.632741" scaley="0.632741" zpos="0.002" hidden="true" />
+		<rectangle id="textbox" pos="0.5,0.5" src="textbox" fill="0,234,254" zpos="0" hidden="true" x="0.0312691" y="0.280683" width="0.937462" height="0.438634" />
+	</event>
+</events>

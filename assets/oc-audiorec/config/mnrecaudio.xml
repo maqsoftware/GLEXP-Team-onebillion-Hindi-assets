@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180509.192945031">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_nowyoullsaymissingnumbersoutloud</phrase>
+			<phrase>mnrec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mnrec_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_nowyoullsaymissingnumbersoutloud</phrase>
+			<phrase>mnrec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_lookatthesenumbers</phrase>
+			<phrase>mnrec_oneismissing</phrase>
+			<phrase>mnrec_watchme</phrase>
+			<phrase>mnrec_itouchthebutton</phrase>
+			<phrase>mnrec_itouchitagain</phrase>
+			<phrase>mnrec_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_whatsthemissingnumber</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythenumberloudly</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythemissingnumber</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mnrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>mnrec_wereyouright</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>mnrec_lookatthepattern</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_whatnumberismissingthistime</phrase>
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_thentouch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythemissingnumber</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mnrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>mnrec_wereyouright</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>mnrec_lookatthepatternthistime</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_whatsthemissingnumber</phrase>
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythemissingnumber</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_whatsthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythemissingnumber</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT">
+			<phrase>mnrec_whatsthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>mnrec_think</phrase>
+			<phrase>mnrec_touchthebutton</phrase>
+			<phrase>mnrec_saythemissingnumber</phrase>
+			<phrase>mnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>mnrec_icanthearyou</phrase>
+			<phrase>mnrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>mnrec_verygoodwepractisedwithmissingnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberin">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="allnumbersoff">
+			<phrase>zip_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberoff">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="newnumberson">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

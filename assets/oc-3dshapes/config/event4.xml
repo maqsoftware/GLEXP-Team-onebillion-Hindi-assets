@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="4a,4b" endscenes="4r,4r2,4r3,4s" conescenes="4c,4c2,4c3,4d,4d2,4d3,4d4,4d5,4d6,4d7,4e,4e2,4f,4g,4g2" pyrscenes="4h,4h2,4h3,4i,4i2,4j,4j2,4j3,4k,4k2,4k3,4l,4l2,4m,4n,4o,4o2,4p,4q,4q2" colour="186,247,255" >
+	</event>
+	<event id="4a" colour="190,247,255" >
+		<path id="ev_grass" pos="1.50124,0.720957" src="ev_grass" fill="172,247,149" zpos="2.002" d="M-0.0149918 0.472677c0.994-0.028 2.188-0.045 3.022 0.017c0.000 0.000 0.010 0.523 0.010 0.523L-0.0141449 1.01392L-0.0149918 0.472677Z" />
+		<vector id="ev_1_conetent" pos="0.223258,0.356176" parent="ev_grass" src="4_orangetent" scalex="1.32328" scaley="1.32328" zpos="2.018" />
+		<vector id="ev_1_pyrtent" pos="0.118939,0.189112" parent="ev_grass" src="4_redtent" scalex="1.12689" scaley="1.12689" zpos="2.019" />
+		<vector id="ev_2_conetent" pos="0.437874,-0.129605" parent="ev_grass" src="4_orangetentopen" scalex="1.39206" scaley="1.39206" zpos="2.008" />
+		<vector id="ev_2_conetentb" pos="0.597863,0.0151221" parent="ev_grass" src="4_bluetent" scalex="1.40494" scaley="1.40494" zpos="2.009" />
+		<vector id="ev_2_pyrtent" pos="0.511345,0.515495" parent="ev_grass" src="4_purpletent" scalex="-1.279" scaley="1.27888" zpos="2.017" />
+		<vector id="ev_3_conetent" pos="0.943254,-0.0231258" parent="ev_grass" src="4_bluetent" scalex="1.18516" scaley="1.40494" zpos="2.015" />
+		<vector id="ev_3_conetentb" pos="0.749468,0.631892" parent="ev_grass" src="4_orangetentopen" scalex="1.07183" scaley="1.07183" zpos="2.011" />
+		<vector id="ev_3_pyrtent" pos="0.715635,-0.0311897" parent="ev_grass" src="4_greentent" scalex="0.955412" scaley="0.955412" zpos="2.02" />
+		<vector id="ev_3_pyrtentb" pos="0.813824,0.129926" parent="ev_grass" src="4_redtentgirl" scalex="1.08861" scaley="1.08861" zpos="2.012" />
+		<vector id="ev_3_pyrtentc" pos="0.890255,0.581591" parent="ev_grass" src="4_yellowtent" scalex="1.1838" scaley="1.1838" zpos="2.014" />
+		<vector id="ev_4_blueboy" pos="0.0431892,0.41392" parent="ev_grass" src="4_blueboy" scalex="0.504657" scaley="0.504657" zpos="2.01" />
+		<vector id="ev_4_lightblueboy" pos="0.543774,-0.0741904" parent="ev_grass" src="4_lightblueboy" scalex="0.453102" scaley="0.453102" zpos="2.013" skinoffset="1" />
+		<vector id="ev_4_yellowgirl" pos="0.287787,0.469669" parent="ev_grass" src="4_yellowgirl" scalex="0.451731" scaley="0.451731" zpos="2.016" skinoffset="1" />
+		<path id="ev_bigbush" pos="0.936876,-0.0356327" parent="ev_grass" src="ev_bigbush" fill="43,168,66" zpos="2" d="M0.872308 -0.049967c0.007-0.039 0.019-0.035 0.023-0.009c0.003-0.023 0.011-0.070 0.018-0.071c0.011-0.002 0.013 0.022 0.015 0.036c0.008-0.076 0.015-0.109 0.028-0.086c0.005 0.009 0.008 0.033 0.009 0.064c0.003-0.013 0.011-0.025 0.016-0.006c0.007 0.028 0.008 0.053 0.009 0.089c0.012-0.022 0.024 0.102 0.024 0.102c0.000 0.000-0.020 0.061-0.020 0.061c-0.000 0.000-0.134-0.031-0.134-0.032c0.000-0.001 0.006-0.111 0.012-0.150Z" />
+		<path id="ev_littlebush" pos="0.870311,0.0524085" parent="ev_grass" src="ev_littlebush" fill="71,183,92" zpos="2.001" d="M0.848718 0.107078L0.889029 0.17524c0.000 0.000 0.012-0.010 0.015-0.031c0.005-0.033 0.002-0.094-0.004-0.127c-0.005-0.029-0.012-0.033-0.017-0.010c-0.001-0.014-0.002-0.028-0.003-0.039c-0.005-0.033-0.013-0.033-0.018 0.000c-0.001 0.006-0.002 0.012-0.002 0.019c-0.001-0.009-0.001-0.017-0.003-0.024c-0.005-0.033-0.013-0.033-0.018 0.000c-0.005 0.033-0.008 0.101-0.003 0.122c0.000 0.000 0.013 0.022 0.013 0.022Z" />
+		<vector id="ev_tree1" pos="0.159531,-0.249401" parent="ev_grass" src="4_tree" scalex="2.06723" scaley="1.79728" zpos="2.007" />
+		<vector id="ev_tree2" pos="0.340508,-0.206908" parent="ev_grass" src="4_tree" scalex="2.06723" scaley="1.79728" zpos="2.003" />
+		<vector id="ev_tree3" pos="0.191568,-0.0853458" parent="ev_grass" src="4_tree" scalex="2.06723" scaley="1.18411" zpos="2.004" />
+		<vector id="ev_tree4" pos="0.0141186,-0.174837" parent="ev_grass" src="4_tree" scalex="3.08461" scaley="2.69093" zpos="2.005" />
+		<vector id="ev_tree5" pos="0.371994,-0.118715" parent="ev_grass" src="4_tree" scalex="2.06723" scaley="1.18411" zpos="2.006" />
+		<rectangle id="backgroundrect" pos="0.494919,0.285762" src="backgroundrect" fill="250,254,217" zpos="6" opacity="0" fit="fitwidth,fitheight" x="0.143288" y="0.0307312" width="0.703262" height="0.510061" />
+	</event>
+	<event id="4c" text="t_cone" textsize="90" textcolour="28,85,151" >
+		<rectangle id="textbox" pos="0.49707,0.0794271" src="textbox" fill="255,255,255" fillopacity="0.31" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" x="0.335938" y="0.0182292" width="0.322266" height="0.122396" />
+	</event>
+	<event id="4e" >
+		<rectangle id="bottomrect" pos="0.5,0.869792" src="bottomrect" fill="164,236,255" zpos="2" fit="fitwidth" x="0" y="0.739583" width="1" height="0.260417" />
+		<rectangle id="4eobj0" pos="0.20923,0.496748" parent="bottomrect" src="4eobj0" fill="44,206,254" stroke="0,0,0" strokewidth="1" zpos="2.003" match="true" widthtracksheight="true" x="0.155567" y="0.215312" width="0.107327" height="0.562871" pxwidth="109.902" pxheight="112.574" />
+		<rectangle id="4eobj1" pos="0.413631,0.492832" parent="bottomrect" src="4eobj1" fill="252,83,246" stroke="0,0,0" strokewidth="1" zpos="2.001" widthtracksheight="true" x="0.324654" y="0.283203" width="0.177956" height="0.419258" pxwidth="182.227" pxheight="83.8516" />
+		<path id="4eobj2" pos="0.620203,0.498594" parent="bottomrect" src="4eobj2" fill="7,249,40" stroke="0,0,0" strokewidth="1" zpos="2.004" widthtracksheight="true" d="M0.546589 0.78748c0.000 0.000 0.074-0.580 0.073-0.577c-0.001 0.004 0.074 0.574 0.073 0.577c-0.001 0.002-0.146 0.000-0.146 0.000Z" />
+		<circle id="4eobj3" pos="0.790464,0.493154" parent="bottomrect" src="4eobj3" fill="254,210,0" stroke="0,0,0" strokewidth="1" zpos="2.002" widthtracksheight="true" x="0.729912" y="0.183125" width="0.121105" height="0.620059" pxwidth="124.012" pxheight="124.012" />
+	</event>
+	<event id="4h" text="t_pyramid" textsize="90" textcolour="28,85,151" >
+		<rectangle id="textbox" pos="0.49707,0.0794271" src="textbox" fill="255,255,255" fillopacity="0.31" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" x="0.335938" y="0.0182292" width="0.322266" height="0.122396" />
+	</event>
+	<event id="4l" >
+		<linearGradient id="Gradient14" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(92.1569%,87.0588%,59.2157%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,98.0392%,86.6667%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottomrect" pos="0.5,0.869792" src="bottomrect" fill="url(#Gradient14)"  zpos="2" fit="fitwidth" x="0" y="0.739583" width="1" height="0.260417" />
+		<rectangle id="4lobj0" pos="0.209902,0.487295" parent="bottomrect" src="4lobj0" fill="44,206,254" stroke="0,0,0" strokewidth="1" zpos="2.003" x="0.155571" y="0.209121" width="0.108662" height="0.556348" />
+		<circle id="4lobj1" pos="0.403177,0.494209" parent="bottomrect" src="4lobj1" fill="254,210,0" stroke="0,0,0" strokewidth="1" zpos="2.002" x="0.342625" y="0.18418" width="0.121105" height="0.620059" />
+		<path id="4lobj2" pos="0.598057,0.503213" parent="bottomrect" src="4lobj2" fill="182,126,246" stroke="0,0,0" strokewidth="1" zpos="2.004" match="true" d="M0.539494 0.780059c0.000 0.000 0.058-0.556 0.058-0.552c-0.001 0.004 0.060 0.549 0.059 0.551c-0.001 0.002-0.116 0.001-0.116 0.001Z" />
+		<rectangle id="4lobj3" pos="0.790249,0.493213" parent="bottomrect" src="4lobj3" fill="252,83,246" stroke="0,0,0" strokewidth="1" zpos="2.001" x="0.752995" y="0.207656" width="0.0745087" height="0.571113" />
+	</event>
+	<event id="4o" >
+		<linearGradient id="Gradient14" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(92.1569%,87.0588%,59.2157%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,98.0392%,86.6667%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottomrect" pos="0.5,0.869792" src="bottomrect" fill="url(#Gradient14)"  zpos="2" fit="fitwidth" x="0" y="0.739583" width="1" height="0.260417" />
+		<path id="4oobj0" pos="0.210228,0.503213" parent="bottomrect" src="4oobj0" fill="7,249,40" stroke="0,0,0" strokewidth="1" zpos="2.004" d="M0.151665 0.780059c0.000 0.000 0.058-0.556 0.058-0.552c-0.001 0.004 0.060 0.549 0.059 0.551c-0.001 0.002-0.116 0.001-0.116 0.001Z" />
+		<rectangle id="4oobj1" pos="0.40394,0.487295" parent="bottomrect" src="4oobj1" fill="44,206,254" stroke="0,0,0" strokewidth="1" zpos="2.003" match="true" x="0.349609" y="0.209121" width="0.108662" height="0.556348" />
+		<circle id="4oobj2" pos="0.610231,0.494209" parent="bottomrect" src="4oobj2" fill="254,210,0" stroke="0,0,0" strokewidth="1" zpos="2.002" x="0.549679" y="0.18418" width="0.121105" height="0.620059" />
+		<rectangle id="4oobj3" pos="0.790249,0.493213" parent="bottomrect" src="4oobj3" fill="252,83,246" stroke="0,0,0" strokewidth="1" zpos="2.001" x="0.752995" y="0.207656" width="0.0745087" height="0.571113" />
+	</event>
+	<event id="4s" textsize="96" numbers="1,2,3,4,5" answeridx="2" >
+		<rectangle id="numrect0" pos="0.224967,0.0913732" src="numrect0" fill="255,255,255" zpos="5.001" hidden="true" x="0.190326" y="0.0473847" width="0.0692825" height="0.0879771" />
+		<rectangle id="numrect1" pos="0.361747,0.0913732" src="numrect1" fill="255,255,255" zpos="5.004" hidden="true" x="0.327106" y="0.0473847" width="0.0692825" height="0.0879771" />
+		<rectangle id="numrect2" pos="0.498527,0.0913732" src="numrect2" fill="255,255,255" zpos="5" hidden="true" x="0.463885" y="0.0473847" width="0.0692826" height="0.0879771" />
+		<rectangle id="numrect3" pos="0.635307,0.0913732" src="numrect3" fill="255,255,255" zpos="5.003" hidden="true" x="0.600665" y="0.0473847" width="0.0692825" height="0.0879771" />
+		<rectangle id="numrect4" pos="0.772086,0.0913732" src="numrect4" fill="255,255,255" zpos="5.002" hidden="true" x="0.737445" y="0.0473847" width="0.0692825" height="0.0879771" />
+	</event>
+</events>

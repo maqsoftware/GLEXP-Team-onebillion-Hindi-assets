@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180606.114438080">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_nowiwantyoutospeakloudly</phrase>
+			<phrase>wrec_youcancheckwhatyousaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wrec_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_nowiwantyoutospeakloudly</phrase>
+			<phrase>wrec_youcancheckwhatyousaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_firstwatchme</phrase>
+			<phrase>wrec_itouchthebutton</phrase>
+			<phrase>wrec_itouchitagain</phrase>
+			<phrase>wrec_nowyourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_touchthebutton</phrase>
+			<phrase>wrec_saythewordoutloud</phrase>
+			<phrase>wrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wrec_touchthebutton</phrase>
+			<phrase>wrec_saythewordoutloud</phrase>
+			<phrase>wrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>wrec_didyousayitright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>wrec_touchthearrowformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_dothesameforthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wrec_touchthebutton</phrase>
+			<phrase>wrec_saythewordoutloud</phrase>
+			<phrase>wrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>wrec_didyousayitright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wrec_touchthebutton</phrase>
+			<phrase>wrec_saythewordoutloud</phrase>
+			<phrase>wrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>wrec_touchthebutton</phrase>
+			<phrase>wrec_saythewordoutloud</phrase>
+			<phrase>wrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_goodyoupractisedreadingwordsoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="texton">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutteropen">
+			<phrase>peel2</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutterclosed">
+			<phrase>shutteropening</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

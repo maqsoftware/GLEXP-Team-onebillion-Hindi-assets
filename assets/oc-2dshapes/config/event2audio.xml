@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_astraightline</phrase>
+			<phrase>2_acurvedline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_touchthestraightline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthestraightline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_astraightline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchthestraightline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosethecurvedline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosethecurvedline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_acurvedline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosethecurvedline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichlinesarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_whichlinesarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_chooseonlythecurvedlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseallthestraightlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseallthestraightlines</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_chooseonlythestraightlines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowletsusesomestraightlinestomakeshapes</phrase>
+			<phrase>2_likethis</phrase>
+			<phrase>2_atriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn_2g</phrase>
+			<phrase>2_dragthelinestomakeatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_dragthelinestomakeatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_makeanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_dragthelinestomakeatriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_andanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_dragthelinestomakeatriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimetherearefourlines</phrase>
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_asquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_arectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_makeadifferentrectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfivelines</phrase>
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youmadeapentagon</phrase>
+			<phrase>2_thissayspentagon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_sixlines</phrase>
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_youmadeahexagon</phrase>
+			<phrase>2_thissayshexagon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_verygoodyoumadeshapesandyoumetapentagonandahexagon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drop">
+			<phrase>click_snap_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_lookatthiscounter</phrase>
+			<phrase>7_youmustmoveittohere</phrase>
+			<phrase>7_sotouchthecuptoshakeit</phrase>
+			<phrase>7_countthespotsonthedice</phrase>
+			<phrase>7_one</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_three_end</phrase>
+			<phrase>7_movethecounterthreeplaces</phrase>
+			<phrase>7_one</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_three_end</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowyourturn</phrase>
+			<phrase>7_shakethecuptogetstarted</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_shakethecuptogetstarted</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>7_countthespotsthenmovethecounterthatnumberofplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>7_shakethecupagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>7_shakethecupagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>7_continueinthesamewayshakingthecupandmovingthecounter</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>7_continueinthesamewayshakingthecupandmovingthecounter</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_excellentyoumovedthecounterallthewayfromthestarttotheend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="tumbler_shake">
+			<phrase>diceShake</phrase>
+		</phrasegroup>
+		<phrasegroup id="tumbler_drop">
+			<phrase>diceRoll</phrase>
+		</phrasegroup>
+		<phrasegroup id="snake">
+			<phrase>snake</phrase>
+		</phrasegroup>
+		<phrasegroup id="ladder">
+			<phrase>ladder</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_move">
+			<phrase>moveCounter</phrase>
+		</phrasegroup>
+		<phrasegroup id="game_complete">
+			<phrase>gameComplete</phrase>
+		</phrasegroup>
+	</event>
+</audio>

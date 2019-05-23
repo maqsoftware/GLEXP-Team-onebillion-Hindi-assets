@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthesquare</phrase>
+			<phrase>4_aside</phrase>
+			<phrase>4_aside_4a</phrase>
+			<phrase>4_theymeetatacorner</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycornersdoesthesquarehave</phrase>
+			<phrase>4_countthemthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_countthecornersthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_countwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_ithasfourcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_countthecornersthenchoosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycornersdoesthetrianglehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_countthecornersthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_threecorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_countthecornersthenchoosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycornersdoesthisrectanglehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_countthecornersthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_fourcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_heresahexagonhowmanycorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanycornersdoesahexagonhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_one_4e</phrase>
+			<phrase>4_two_4e</phrase>
+			<phrase>4_three_4e</phrase>
+			<phrase>4_four_4e</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_six</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_ithassixcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowapentagonhowmanycorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanycornersdoesapentagonhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_one_4e</phrase>
+			<phrase>4_two_4e</phrase>
+			<phrase>4_three_4e</phrase>
+			<phrase>4_four_4e</phrase>
+			<phrase>4_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_fivecorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycornersdoesthecirclehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanycornersdoesthecirclehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_goodthecirclehasnocornersitiscurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagainhowmanycornerscanyousee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowlookattheseshapeswhichonehasthreecorners</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichshapehasthreecorners</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichshapehasthreecorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapehasfivecorners</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichshapehasfivecorners</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichshapehasfivecorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichtwoshapeshavefourcornerschoosethem</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichtwoshapeshavefourcornerschoosethem</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_iwantshapeswithfourcorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheshapeswithnocorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheshapeswithnocorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_rightcircleshavenocornerstheyarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_iwantshapeswithnocorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheshapewithsixcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheshapewithsixcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_choosetheshapewithsixcorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_excellentyoucountedcorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="note_1">
+			<phrase>note1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>note2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>note3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>note4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>note5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_5">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2_6">
+			<phrase>note_beepey_6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

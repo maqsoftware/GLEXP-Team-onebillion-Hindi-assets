@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_thechildrenaregoingtoabirthdayparty</phrase>
+			<phrase>2_theyhavepresents</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2a2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthebluebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthebluebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchthebluebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="DEMO">
+			<phrase>2_aboxisathreedshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b3">
+		<phrasegroup id="DEMO">
+			<phrase>2_thisthreedshapeiscalledacube</phrase>
+			<phrase>2_thissayscube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthecubetoturnit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="DEMO">
+			<phrase>2_thisisaface</phrase>
+			<phrase>2_anotherface</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_howmanyfacesarethere</phrase>
+			<phrase>2_toucheachfaceandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachfaceandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT.REPEAT">
+			<phrase>2_touchanotherface</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchaface</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_acubehassixfaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="DEMO">
+			<phrase>2_heresoneface</phrase>
+			<phrase>2_andsometwodshapes</phrase>
+			<phrase>2_rectangle</phrase>
+			<phrase>2_circle</phrase>
+			<phrase>2_square</phrase>
+			<phrase>2_triangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichonematchesthefaceofthecube</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_which2dshapematchesthefaceofthecube</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_yesthesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_tryagain</phrase>
+			<phrase>2_whichonematchesthefaceofthecube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="DEMO">
+			<phrase>2_herearesixsquaresallthesamesize</phrase>
+			<phrase>2_itouchonetoputitonthecube</phrase>
+			<phrase>2_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_puttheothersquaresonthecube</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthenextsquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_goodyoushowedthatthesixfacesareallthesametheyareallsquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowlookthisisacorner</phrase>
+			<phrase>2_anothercorner</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>2_one_2g</phrase>
+			<phrase>2_two_2g</phrase>
+			<phrase>2_three_2g</phrase>
+			<phrase>2_four_2g</phrase>
+			<phrase>2_five_2g</phrase>
+			<phrase>2_six_2g</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_howmanycornersarethere</phrase>
+			<phrase>2_toucheachoneandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchacorner</phrase>
+			<phrase>2_touchanothercorner</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2g</phrase>
+			<phrase>2_two_2g</phrase>
+			<phrase>2_three_2g</phrase>
+			<phrase>2_four_2g</phrase>
+			<phrase>2_five_2g</phrase>
+			<phrase>2_six_2g</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_acubehaseightcorners</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchacorner</phrase>
+			<phrase>2_touchanothercorner</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="DEMO">
+			<phrase>2_next</phrase>
+			<phrase>2_anedge</phrase>
+			<phrase>2_andanother</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_toucheachedgeandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchanedge</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2i</phrase>
+			<phrase>2_two_2i</phrase>
+			<phrase>2_three_2i</phrase>
+			<phrase>2_four_2i</phrase>
+			<phrase>2_five_2i</phrase>
+			<phrase>2_six_2i</phrase>
+			<phrase>2_seven_2i</phrase>
+			<phrase>2_eight_2i</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven</phrase>
+			<phrase>2_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_acubehastwelveedges</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_touchanedge</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowletscheckallthat</phrase>
+			<phrase>2_touchthecubeandwatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecubeandwatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>2_touchitagain_2j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j2">
+		<phrasegroup id="DEMO">
+			<phrase>2_acubehassixfacesandtheyareallthesametheyareallsquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchitagain_2j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchitagain_2j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j4">
+		<phrasegroup id="DEMO">
+			<phrase>2_ithastwelveedges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j5">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchitagain_2j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchitagain_2j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j6">
+		<phrasegroup id="DEMO">
+			<phrase>2_ithaseightcorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_good</phrase>
+			<phrase>2_nowtouchthecubetoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecubetoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimetouchtheyellowbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchtheyellowbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l2">
+		<phrasegroup id="DEMO">
+			<phrase>2_thisthreedshapeisacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_thissayscuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchthecuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m2">
+		<phrasegroup id="DEMO">
+			<phrase>2_eightcornerslikethecube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchitagain_2n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n2">
+		<phrasegroup id="DEMO">
+			<phrase>2_twelveedgeslikethecube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchitonemoretime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o2">
+		<phrasegroup id="DEMO">
+			<phrase>2_sixfaceslikethecube</phrase>
+			<phrase>2_butthistimetheyarenotallthesame</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="DEMO">
+			<phrase>2_lookthreepairsofrectangles</phrase>
+			<phrase>2_illputablueoneonthecuboidlikethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_touchtheotherbluerectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchtheotherbluerectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_itgoesontheoppositeface</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowforthegreenones</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthegreenrectanglesonthecuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_theyareonoppositefaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthelasttwoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthelasttwoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_theyareonoppositefaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_goodyousawthattheoppositefacesofacuboidarethesame</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2q">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtouchthecuboidtoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchthecuboidtoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="DEMO">
+			<phrase>2_twomorechildrenaregoingtothepartyandtheyhavepresents</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_chooseaboxthatislikeacube</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseaboxthatislikeacube</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_chooseaboxthatislikeacube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichtwoboxesarenotcubes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_whichtwoboxesarenotcubes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_righttheirfacesarenotallsquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_lookagain</phrase>
+			<phrase>2_chooseaboxthatisnotacube</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_greatyoumetacubeandacuboidtheyarethreedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="footsteps">
+			<phrase>footstep_single_on_grass</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_grow">
+			<phrase>object_grow_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="cube_morph">
+			<phrase>cube_rotate_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cube_rotate">
+			<phrase>cube_rotate_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill_cube">
+			<phrase>fill_cube</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="square_pop_on">
+			<phrase>square_pop</phrase>
+		</phrasegroup>
+		<phrasegroup id="face_snap">
+			<phrase>face_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>ping</phrase>
+		</phrasegroup>
+		<phrasegroup id="text">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="corner">
+			<phrase>corner</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_5">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="cuboid_note_6">
+			<phrase>note_beepey_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_face">
+			<phrase>face_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

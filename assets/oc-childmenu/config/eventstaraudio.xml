@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>star_welldone</phrase>
+			<phrase>star_youveearnedyourfirststar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>star_whichcolourwouldyoulike</phrase>
+			<phrase>star_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>star_chooseonestar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="DEMO">
+			<phrase>star_welldone</phrase>
+			<phrase>star_youveearnedanotherstar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>star_chooseone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>star_chooseonestar</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>star_itlooksgood</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trophy">
+		<phrasegroup id="DEMO">
+			<phrase>star_tenstarsyouvecompletedthislevel</phrase>
+			<phrase>star_soyouveearnedatrophy</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>star_tenstarsyouvecompletedthislevel</phrase>
+			<phrase>star_andyouhaveanothertrophy</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>star_bytheendyoullhavetentrophies</phrase>
+			<phrase>star_thatmakesfivegood</phrase>
+			<phrase>star_thereareonlyfourmoretocollect</phrase>
+			<phrase>star_therearejustthreemoretocollectyouaredoingreallywell</phrase>
+			<phrase>star_onlytwomoretocollectbrilliant</phrase>
+			<phrase>star_justonemoreandyoullbefinished</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>star_nowyouareonanewlevel</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>star_youhavefinished</phrase>
+			<phrase>star_andyouhavetentrophies</phrase>
+			<phrase>star_thatiswonderful</phrase>
+			<phrase>star_youhavelearnedsomuch</phrase>
+			<phrase>star_nowyoucanreadallthebooksbyyourselfenjoy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit">
+		<phrasegroup id="DEMO">
+			<phrase>star_letsseewhatsnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>star_touchthebigbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>star_touchthebigbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="starfly">
+			<phrase>chime_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="starson">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="musicalsting">
+			<phrase>kalimba_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardon">
+			<phrase>cf_belltree</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardfly">
+			<phrase>mallet_percussion_descending</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardslot">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="trophiesslide">
+			<phrase>cf_short_slide_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="topbaron">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="topbarstarslide">
+			<phrase>whoosh_up_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

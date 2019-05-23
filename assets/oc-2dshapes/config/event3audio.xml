@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180301.162051835">
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookatthesquare</phrase>
+			<phrase>3_thisisaside</phrase>
+			<phrase>3_thisisanother</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_touchanysideofthesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchanysideofthesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_touchanysideofthesquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowchooseanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_chooseanotherside</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_chooseanotherside</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysidesaretherealtogether</phrase>
+			<phrase>3_countthem</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthesidesofthesquare</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_countthesidesthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_countwithme</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_asquarehasfoursidestheyareallthesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysidesdoesarectanglehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthesidesthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_countwithme</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_arectanglehasfoursides</phrase>
+			<phrase>3_thesetwoarethesamelength</phrase>
+			<phrase>3_andthesetwoarethesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysidesdoesatrianglehave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthesidesthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_letscount</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_atrianglehasthreesides</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_ahexagonhowmanysides</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanysidesdoesahexagonhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_ahexagonhassixsides</phrase>
+			<phrase>3_one_3g</phrase>
+			<phrase>3_two_3g</phrase>
+			<phrase>3_three_3g</phrase>
+			<phrase>3_four_3g</phrase>
+			<phrase>3_five</phrase>
+			<phrase>3_six</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_apentagonhowmanysides</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanysidesdoesapentagonhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_fivesides</phrase>
+			<phrase>3_one_3g</phrase>
+			<phrase>3_two_3g</phrase>
+			<phrase>3_three_3g</phrase>
+			<phrase>3_four_3g</phrase>
+			<phrase>3_five</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookthreesides</phrase>
+			<phrase>3_soitgoestothethree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_dragtheshapestothenumberstoshowhowmanysidestheyhave</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_dragtheshapestothenumberstoshowhowmanysidestheyhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_dothesamehere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_dragtheshapestothenumberstoshowhowmanysidestheyhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_anothersetforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_dragtheshapestothenumberstoshowhowmanysidestheyhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_dragtheshapestothenumberstoshowhowmanysidestheyhave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale3m">
+		<phrasegroup id="DEMO">
+			<phrase>3_goodyoulearnedaboutsides</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="DEMO">
+			<phrase>3_letsdomoreworkonshapes</phrase>
+			<phrase>3_looktheselinesareallthesamelength</phrase>
+			<phrase>3_whichshapewilltheymake</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapehasfoursidesthesamelength</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yesthesidesofasquareareallthesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_whichshapehasfoursidesthesamelength</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichshapewilltheselinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapewillthelinesmake</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yesarectangle</phrase>
+			<phrase>3_thesetwosidesarethesamelength</phrase>
+			<phrase>3_andthesetwoarethesamelength_3o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_whichshapewillthelinesmake</phrase>
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichshapewillyouchoosethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapewillthelinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yesatrianglehasthreesides</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichshapewilltheselinesmake_3q</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapewillthelinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_goodapentagonhasfivesides</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowchoosethetrianglethatmatchestheselines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichtrianglewillthelinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yesitssidesareallthesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_whichtrianglewillthelinesmake</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichtrianglewilltheselinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichtrianglewillthelinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yestwosidesarethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3t">
+		<phrasegroup id="PROMPT">
+			<phrase>3_andthelastonesixlines</phrase>
+			<phrase>3_whichshapewilltheymake_3t</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapewillthelinesmake</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_thatsrightahexagonhassixsides</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_goodyoudraggedlinestomatchtheshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="show_2">
+			<phrase>chime_ascending</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="show">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop">
+			<phrase>tone_12</phrase>
+		</phrasegroup>
+	</event>
+</audio>

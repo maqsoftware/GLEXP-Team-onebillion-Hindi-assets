@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+			<phrase>3_twocakes</phrase>
+			<phrase>3_addonecake</phrase>
+			<phrase>3_nowtherearethreecakes</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_three_end</phrase>
+			<phrase>3_touchthree</phrase>
+			<phrase>3_lookhowweshowit</phrase>
+			<phrase>3_thismeansadd</phrase>
+			<phrase>3_thismeansgivesorequals</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_three_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowyourturn</phrase>
+			<phrase>3_twocakes</phrase>
+			<phrase>3_addtwocakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycakesaretherenow</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanycakesaretherenow</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_two</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_four_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="DEMO">
+			<phrase>3_twocakes</phrase>
+			<phrase>3_addthreecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycakesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanycakesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_two</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_five_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="DEMO">
+			<phrase>3_threesweets</phrase>
+			<phrase>3_addthreesweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_three</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_six_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="DEMO">
+			<phrase>3_twosweets</phrase>
+			<phrase>3_addfoursweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_two</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_six_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="DEMO">
+			<phrase>3_fourapples</phrase>
+			<phrase>3_addoneapple</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_four</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_five_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="DEMO">
+			<phrase>3_fourapples</phrase>
+			<phrase>3_addthreeapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_four</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_seven_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="DEMO">
+			<phrase>3_threeoranges</phrase>
+			<phrase>3_addfiveoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyorangesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyorangesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_three</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_five</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_eight_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_fiveoranges</phrase>
+			<phrase>3_addtwooranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyorangesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyorangesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_five</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_seven_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="DEMO">
+			<phrase>3_twobananas</phrase>
+			<phrase>3_addonebanana</phrase>
+			<phrase>3_thenaddtwomorebananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanybananasaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanybananasaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_two</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_one</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_five_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="DEMO">
+			<phrase>3_onebanana</phrase>
+			<phrase>3_addthreebananas</phrase>
+			<phrase>3_thenaddthreemorebananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanybananasaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanybananasaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_add</phrase>
+			<phrase>3_three</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_seven_end</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_goodyouaddedthingsandyoumetthesignsthatmeanaddandequals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

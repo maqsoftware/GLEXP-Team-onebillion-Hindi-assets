@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180525.144044860">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_letspractisereadingoutloud</phrase>
+			<phrase>prrec_doyourbest</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>prrec_yourelearningtoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_letspractisereadingoutloud</phrase>
+			<phrase>prrec_doyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_firstwatchme</phrase>
+			<phrase>prrec_itouchthebutton</phrase>
+			<phrase>prrec_itouchitagain</phrase>
+			<phrase>prrec_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_touchthebutton</phrase>
+			<phrase>prrec_readthesentenceoutloud</phrase>
+			<phrase>prrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prrec_touchthebutton</phrase>
+			<phrase>prrec_readthesentenceoutloud</phrase>
+			<phrase>prrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>prrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>prrec_didyoureadwell</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT">
+			<phrase>prrec_nextoneyouknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prrec_touchthebutton</phrase>
+			<phrase>prrec_readthesentenceoutloud</phrase>
+			<phrase>prrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>prrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prrec_touchthebutton</phrase>
+			<phrase>prrec_readthesentenceoutloud</phrase>
+			<phrase>prrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prrec_touchthebutton</phrase>
+			<phrase>prrec_readthesentenceoutloud</phrase>
+			<phrase>prrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>prrec_icanthearyou</phrase>
+			<phrase>prrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="end">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_nowletshearthestoryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>prrec_verygoodyoupractisedreadingoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="paraon">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="line">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Note">
+		<phrasegroup id="NONE2.REPEAT">
+			<phrase>1_sheilaihavecombinedalltheaudioforsections1and2astheyaresosimilarihopeokay</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlooktherearetwosweetsinthisset</phrase>
+			<phrase>1_icanaddanother</phrase>
+			<phrase>1_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_addonesweettotheset</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_addonesweettotheset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_touchinsidethelooptoaddasweet</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_howmanysweetsaretherenow</phrase>
+			<phrase>1_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain</phrase>
+			<phrase>1_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>1_look</phrase>
+			<phrase>1_thismeansadd</phrase>
+			<phrase>1_andthismeansgivesorequals</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_two</phrase>
+			<phrase>1_add</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_equals</phrase>
+			<phrase>1_three</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearefourstarsinthesetaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearefourstarsinthesetaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanystarsaretherenow</phrase>
+			<phrase>1_touchthenumber_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1d</phrase>
+			<phrase>1_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_four</phrase>
+			<phrase>1_add</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_equals_1d</phrase>
+			<phrase>1_five</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearesixflowersaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearesixflowersaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1e</phrase>
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_six</phrase>
+			<phrase>1_add</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_equals_1e</phrase>
+			<phrase>1_seven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearetwofishaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearetwofishaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_iwantyoutoaddtwofish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1f</phrase>
+			<phrase>1_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_two</phrase>
+			<phrase>1_add</phrase>
+			<phrase>1_two_1f</phrase>
+			<phrase>1_equals_1f</phrase>
+			<phrase>1_four_1f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearefourcandlesaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearefourcandlesaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1g</phrase>
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_thismeansaddwealsocallitplus</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_four_1f</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_two_1f</phrase>
+			<phrase>1_equals_1g</phrase>
+			<phrase>1_six_1g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearefivediamondsaddthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearefivediamondsaddthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanydiamondsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanydiamondsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1h</phrase>
+			<phrase>1_howmanydiamondsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_five_1h</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_three_1h</phrase>
+			<phrase>1_equals_1h</phrase>
+			<phrase>1_eight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearefourflowersaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearefourflowersaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1h</phrase>
+			<phrase>1_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_four_1f</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_four_1i</phrase>
+			<phrase>1_equals_1i</phrase>
+			<phrase>1_eight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearesixstarsaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearesixstarsaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1h</phrase>
+			<phrase>1_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_six_1g</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_four_1i</phrase>
+			<phrase>1_equals_1j</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearethreecandlesaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearethreecandlesaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1h</phrase>
+			<phrase>1_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_three_1k</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_five_1k</phrase>
+			<phrase>1_equals_1k</phrase>
+			<phrase>1_eight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearetwosquaresaddsevenmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearetwosquaresaddsevenmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanysquaresaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanysquaresaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1l</phrase>
+			<phrase>1_howmanysquaresaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_two_1f</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_seven_1l</phrase>
+			<phrase>1_equals_1l</phrase>
+			<phrase>1_nine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_therearefivesweetsaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_therearefivesweetsaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>1_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_countagain_1l</phrase>
+			<phrase>1_howmanysweetsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_five_1k</phrase>
+			<phrase>1_plus</phrase>
+			<phrase>1_five_1k</phrase>
+			<phrase>1_equals_1m</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_verygoodyouaddedthingsandcountedthetotalandweshoweditusingplusandequals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="spawn">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="equation">
+			<phrase>equation</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="PROMPT">
+			<phrase>5_lookatthesethreedshapes</phrase>
+			<phrase>5_choosethetwocubes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosethetwocubes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thisisthebiggeroneanditistilted</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_choosethetwocubes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowchoosethetwocuboids</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_nowchoosethetwocuboids</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thiscuboidistaller</phrase>
+			<phrase>5_thisoneisthicker</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_iwanttwocuboids</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findtwocones</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_findtwocones</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thisoneisupdsidedown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_findtwocones</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findtwocylinders</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_findtwocylinders</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thisoneislongandthin</phrase>
+			<phrase>5_thisoneisshorterandwider</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_findtwocylinders</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimefindtwopyramids</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosetwopyramids</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thispyramidisthetallerone</phrase>
+			<phrase>5_thisisshorterandwider</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_choosetwopyramids</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findtwospheres</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_findtwospheres</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thisisthesmallerone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_findtwospheres</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowchooseacubeandapyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseacubeandapyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_thepyramidisupsidedown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_iwantacubeandapyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_chooseasphereandacone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseasphereandacone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_chooseasphereandacone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_chooseacylinderandacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseacylinderandacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_chooseacylinderandacuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosetwoshapesthatarepointedatthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosetwoshapesthatarepointedatthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_aconeispointed</phrase>
+			<phrase>5_soisapyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_choosetwoshapesthatarepointedatthetop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosetheshapewithfacesthataretriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosetheshapewithfacesthataretriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_choosetheshapewithfacesthataretriangles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosealltheshapeswithacurvedsurface</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosealltheshapeswithacurvedsurface</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_lookattheircurvedsurfaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_choosealltheshapeswithacurvedsurface</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_excellentyoumatchedthreedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide-on">
+			<phrase>whoosh_fast_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide-off">
+			<phrase>whoosh_fast_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180620.120713850">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_nowwellpractisesubtracting</phrase>
+			<phrase>addsub_usingcounters</phrase>
+			<phrase>addsub_getready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_nowwellpractisesubtracting</phrase>
+			<phrase>addsub_usingcounters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_whatstheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_watchme</phrase>
+			<phrase>addsub_itouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>addsub_itouchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>addsub_icountthecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>addsub_thenichoosetheanswerfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>addsub_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="epref">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2">
+			<phrase>addsub_touchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>addsub_nowcountthecounters</phrase>
+			<phrase>addsub_andchoosetheanswerfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>addsub_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="PROMPT">
+			<phrase>addsub_trythisone</phrase>
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2">
+			<phrase>addsub_touchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>addsub_nowcount</phrase>
+			<phrase>addsub_andchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="PROMPT">
+			<phrase>addsub_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>addsub_nowfindtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE4.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE5.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>addsub_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="PROMPT">
+			<phrase>addsub_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="BUTTON2.REPEAT">
+			<phrase>addsub_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>addsub_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>addsub_countthecounters</phrase>
+			<phrase>addsub_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>addsub_welldone</phrase>
+			<phrase>addsub_youpractisedsubtractingwithcounters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="eqnon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_on">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonactive_1">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonactive">
+			<phrase>tone_12</phrase>
+		</phrasegroup>
+		<phrasegroup id="beep_1">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="beep_2">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_1">
+			<phrase>click_hard_wood</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_2">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>blend</phrase>
+		</phrasegroup>
+		<phrasegroup id="choose">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="final" vol="1.2">
+			<phrase>light_click_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="counteroff">
+			<phrase>liquid_blip</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>marimba_scale_up</phrase>
+		</phrasegroup>
+	</event>
+</audio>

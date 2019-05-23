@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" coord_africa="21.18" >
+		<rectangle id="text_box" pos="0.49896,0.808294" src="text_box" fill="239,255,254" zpos="0.001" hidden="true" widthtracksheight="true" x="0.140224" y="0.666494" width="0.717472" height="0.2836" pxwidth="734.691" pxheight="217.805" />
+		<vector id="bubble" pos="0.175808,0.0950368" src="bubble" scalex="0.72" scaley="0.72" zpos="0.003" hidden="true" />
+		<vector id="bubble_bg" pos="0.177299,0.0973053" src="bubble_bg" scalex="0.72" scaley="0.72" fill="89,177,250" zpos="0.002" hidden="true" opacity="0.8" />
+		<vector id="earthmap_pin" pos="1.05916,0.158757" parent="text_box" src="earthmap_pin" scalex="0.47258" scaley="0.47258" zpos="0.004" hidden="true" />
+		<rectangle id="image_box" pos="0.500626,0.332097" src="image_box" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.142517" y="0.0495758" width="0.716217" height="0.565043" pxwidth="733.406" pxheight="433.953" />
+	</event>
+</events>

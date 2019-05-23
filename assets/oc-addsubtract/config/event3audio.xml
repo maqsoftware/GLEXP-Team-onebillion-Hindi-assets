@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_looktwobirds</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_touchthelinetoaddanotherbird</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchthelinetoaddanotherbird</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_touchthelinetoaddanotherbird</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanybirdsaretherenow</phrase>
+			<phrase>3_choosethenumberfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasonebirdaddtwomoreonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addtwobirdsonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_touchaline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybirdsareintherownow</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanybirdsareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybirdsareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasnobirdsaddthreebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addthreebirdsonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybirdsareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanybirdsareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybirdsareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="DEMO">
+			<phrase>3_letsaddnobirdstothisrowzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanybirdsareintherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanybirdsareintherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanybirdsareintherow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowlookatthepattern</phrase>
+			<phrase>3_theseareallwaystomakethree</phrase>
+			<phrase>3_getreadytosaythemwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_threepluszeroequalsthree</phrase>
+			<phrase>3_twoplusoneequalsthree</phrase>
+			<phrase>3_oneplustwoequalsthree</phrase>
+			<phrase>3_zeroplusthreeequalsthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="DEMO">
+			<phrase>3_nextarowoffish</phrase>
+			<phrase>3_letsaddnomorefishtoitzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfisharethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasthreefishaddonemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addonefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_therearetwofishinthisrow</phrase>
+			<phrase>3_addtwofish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addtwofish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_theresonefishinthisrowaddthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addthreefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_therearenofishinthisrow</phrase>
+			<phrase>3_addfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookatthepattern</phrase>
+			<phrase>3_theseareallwaystomakefour</phrase>
+			<phrase>3_saythemwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_fourpluszeroequalsfour</phrase>
+			<phrase>3_threeplusoneequalsfour</phrase>
+			<phrase>3_twoplustwoequalsfour</phrase>
+			<phrase>3_oneplusthreeequalsfour</phrase>
+			<phrase>3_zeroplusfourequalsfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="DEMO">
+			<phrase>3_thisrowhascounters</phrase>
+			<phrase>3_letsaddnomoretoitzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasfourcounters</phrase>
+			<phrase>3_addonecounter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addonecounter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasthreecountersaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addtwocounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhastwocountersaddthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addthreecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="PROMPT">
+			<phrase>3_theresonecounterinthisrow</phrase>
+			<phrase>3_addfourcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addfourcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thisrowhasnocounters</phrase>
+			<phrase>3_addfivecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_addfivecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_countagain_3m</phrase>
+			<phrase>3_howmanycountersareintherownow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowlookatthispattern</phrase>
+			<phrase>3_theseareallwaystomakefive</phrase>
+			<phrase>3_saythemwithme_3s</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_fivepluszeroequalsfive</phrase>
+			<phrase>3_fourplusoneequalsfive</phrase>
+			<phrase>3_threeplustwoequalsfive</phrase>
+			<phrase>3_twoplusthreeequalsfive</phrase>
+			<phrase>3_oneplusfourequalsfive</phrase>
+			<phrase>3_zeroplusfiveequalsfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_welldoneyousawallthewaystomakethreeandfourandfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equation">
+			<phrase>equation</phrase>
+		</phrasegroup>
+		<phrasegroup id="spawn">
+			<phrase>click</phrase>
+		</phrasegroup>
+        <phrasegroup id="switch">
+            <phrase>numberswitch</phrase>
+        </phrasegroup>
+	</event>
+</audio>

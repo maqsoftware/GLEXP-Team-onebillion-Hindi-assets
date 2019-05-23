@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="142" >
+		<rectangle id="picbox" pos="0.5,0.329427" src="picbox" zpos="0.001" x="0.283203" y="0.0403646" width="0.433594" height="0.578125" />
+		<rectangle id="textbox" pos="0.5,0.803174" src="textbox" zpos="0" x="0.303068" y="0.733953" width="0.393864" height="0.138443" />
+	</event>
+	<event id="a" >
+		<vector id="presenter" pos="0.502995,0.703669" src="anna" zpos="3" />
+	</event>
+</events>

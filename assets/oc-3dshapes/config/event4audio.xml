@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_letsvisitthechildrentheyareplayingintents</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_tentsarethreedshapeschooseoneofthem</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_chooseoneofthetents</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowchoosetheboystent</phrase>
+			<phrase>4_nowchoosethegirlstent</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_nowchoosetheboystent</phrase>
+			<phrase>4_nowchoosethegirlstent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchitagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c3">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisthreedshapeiscalledacone</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_thissayscone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="DEMO">
+			<phrase>4_thetopoftheconeispointed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthepoint</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthepointofthecone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d3">
+		<phrasegroup id="DEMO">
+			<phrase>4_thispartiscurved</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d4">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthecurvedpartofthecone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d5">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowtouchtheconetoseethebottomofit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d6">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_nowtouchtheconetoseethebottomofit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d7">
+		<phrasegroup id="DEMO">
+			<phrase>4_itisaflatface</phrase>
+			<phrase>4_wecallitthebaseofthecone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthesetwodshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichonematchesthebaseofthecone</phrase>
+			<phrase>4_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichshapematchesthebaseofthecone</phrase>
+			<phrase>4_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_yesthebaseisacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichshapematchesthebaseofthecone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="DEMO">
+			<phrase>4_soletschecktheconeagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_itispointedatthetop</phrase>
+			<phrase>4_thispartiscurved_4f</phrase>
+			<phrase>4_andthebaseisacircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtouchtheconetoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_nowtouchtheconetoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchitagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h3">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisthreedshapeiscalledapyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_thissayspyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthepyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthepyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookithasapointatthetop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthepoint_4j2</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthepoint_4j2</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisisaface</phrase>
+			<phrase>4_letsseehowmanyfacesthereare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_toucheachfaceandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_toucheachfaceandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+			<phrase>4_andthefaceatthebottomfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k3">
+		<phrasegroup id="DEMO">
+			<phrase>4_thepyramidhasfivefaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthisface</phrase>
+			<phrase>4_herearesometwodshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapematchesthefaceofthepyramid</phrase>
+			<phrase>4_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichshapematchesthefaceofthepyramid</phrase>
+			<phrase>4_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_yesitsatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichshapematchesthefaceofthepyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="DEMO">
+			<phrase>4_fourfacesofthispyramidaretriangleslook</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtouchthepyramidtoseethefifthface</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthepyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisisthefaceatthebottomofthepyramid</phrase>
+			<phrase>4_wecallitthebase</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_lookatthetwodshapesagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapematchesthebaseofthepyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichshapematchesthebaseofthepyramid</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_yesthebaseisasquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichshapematchesthebaseofthepyramid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="DEMO">
+			<phrase>4_soletscheckallthat</phrase>
+			<phrase>4_thepyramidhasapointatthetop</phrase>
+			<phrase>4_fourofitsfivefacesaretriangles</phrase>
+			<phrase>4_thebaseisasquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtouchthepyramidtoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthepyramidtoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r2">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowchoosetwoothertentsthatlooklikecones</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_nowchoosetwoothertentsthatlooklikecones</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_choosetwotentsthatlooklikecones</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanyofthesetentsareshapedlikepyramids</phrase>
+			<phrase>4_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanyofthesetentsareshapedlikepyramids</phrase>
+			<phrase>4_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_howmanyofthesetentsareshapedlikepyramids</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_welldoneyoumettheconeandthepyramidtheyarethreedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="magic_harp">
+			<phrase>magic_harp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cube_rotate">
+			<phrase>cube_rotate_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="scene_change">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="text">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="tent_zoom">
+			<phrase>object_grow_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_shrink">
+			<phrase>object_shrink</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

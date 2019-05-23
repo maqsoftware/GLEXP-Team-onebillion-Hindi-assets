@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+    <event id="Notes">
+        <phrasegroup id="NONE2.REPEAT">
+            <phrase>2_sheilaihavecombinedalltheaudioforsections1and2astheyaresosimilarihopeokay</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2a">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanyapplesareonthetree</phrase>
+            <phrase>2_touchthenumber</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanyapplesareonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="REMIND">
+            <phrase>2_counttheapples</phrase>
+            <phrase>2_thentouchthenumber</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain</phrase>
+            <phrase>2_howmanyapplesareonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtouchoneappletotakeitaway</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_touchoneappletotakeitaway</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanyapplesareleftonthetree</phrase>
+            <phrase>2_touchthenumber</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanyapplesareleftonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain</phrase>
+            <phrase>2_howmanyapplesareleftonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="DEMO2">
+            <phrase>2_rememberthissignmeanstakeaway</phrase>
+            <phrase>2_andthismeansequals</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_five</phrase>
+            <phrase>2_takeaway</phrase>
+            <phrase>1_one</phrase>
+            <phrase>2_equals</phrase>
+            <phrase>1_four</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2b">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2b</phrase>
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_takeawayonesock</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawayonesock</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2b</phrase>
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_three</phrase>
+            <phrase>2_takeaway</phrase>
+            <phrase>1_one</phrase>
+            <phrase>2_equals_2b</phrase>
+            <phrase>2_two</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2c">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanytoyducksarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanytoyducksarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2c</phrase>
+            <phrase>2_howmanytoyducksarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_takeawayoneduck</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawayoneduck</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanyducksareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanyducksareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2c</phrase>
+            <phrase>2_howmanyducksareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_four</phrase>
+            <phrase>2_takeaway</phrase>
+            <phrase>1_one</phrase>
+            <phrase>2_equals_2c</phrase>
+            <phrase>1_three</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2d">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2d</phrase>
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawaytwoflowers</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawaytwoflowers</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2d</phrase>
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>2_six</phrase>
+            <phrase>2_takeaway</phrase>
+            <phrase>2_two</phrase>
+            <phrase>2_equals_2d</phrase>
+            <phrase>1_four</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2e">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanycupsarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanycupsarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2e</phrase>
+            <phrase>2_howmanycupsarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_takeawaythreecups</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawaythreecups</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanycupsareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanycupsareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2e</phrase>
+            <phrase>2_howmanycupsareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="DEMO2">
+            <phrase>2_nowlook</phrase>
+            <phrase>2_thismeanstakeawaywealsocallitminus</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_five</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_three</phrase>
+            <phrase>2_equals_2e</phrase>
+            <phrase>2_two</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2f">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2e</phrase>
+            <phrase>2_howmanysocksareontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawayfoursocks</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawayfoursocks</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_lookagain</phrase>
+            <phrase>2_howmanysocksareleftontheline</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_four</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_four</phrase>
+            <phrase>2_equals_2f</phrase>
+            <phrase>2_zero</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2g">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanytinsareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanytinsareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2g</phrase>
+            <phrase>2_howmanytinsareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_takeawaythreetins</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawaythreetins</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanytinsareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanytinsareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2g</phrase>
+            <phrase>2_howmanytinsareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_seven</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_three</phrase>
+            <phrase>2_equals_2g</phrase>
+            <phrase>1_four</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2h">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2g</phrase>
+            <phrase>2_howmanyflowersarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawaysixflowers</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawaysixflowers</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_lookagain</phrase>
+            <phrase>2_howmanyflowersareleftinthetub</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_six</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_six</phrase>
+            <phrase>2_equals_2h</phrase>
+            <phrase>2_zero</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2i">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanybottlesarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanybottlesarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2i</phrase>
+            <phrase>2_howmanybottlesarethere</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawayfivebottles</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_nowtakeawayfivebottles</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanybottlesareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanybottlesareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2i</phrase>
+            <phrase>2_howmanybottlesareleftontheshelves</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_seven</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_five</phrase>
+            <phrase>2_equals_2i</phrase>
+            <phrase>2_two</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2j">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanytomatoesaregrowing</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanytomatoesaregrowing</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2j</phrase>
+            <phrase>2_howmanytomatoesaregrowing</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawayfourtomatoes</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawayfourtomatoes</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanytomatoesareleftontheplants</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanytomatoesareleftontheplants</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2j</phrase>
+            <phrase>2_howmanytomatoesareleftontheplants</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_eight</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_four</phrase>
+            <phrase>2_equals_2j</phrase>
+            <phrase>1_four</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2k">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanylemonsareonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanylemonsareonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2k</phrase>
+            <phrase>2_howmanylemonsareonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_nowtakeawayfourlemons</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawayfourlemons</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanylemonsareleftonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanylemonsareleftonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2k</phrase>
+            <phrase>2_howmanylemonsareleftonthetree</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_nine</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>1_four</phrase>
+            <phrase>2_equals_2k</phrase>
+            <phrase>1_five</phrase>
+        </phrasegroup>
+    </event>
+    <event id="2l">
+        <phrasegroup id="PROMPT">
+            <phrase>2_howmanyorangesareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT.REPEAT">
+            <phrase>2_howmanyorangesareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT">
+            <phrase>2_countagain_2l</phrase>
+            <phrase>2_howmanyorangesareonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2">
+            <phrase>2_takeawaysixoranges</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT2.REPEAT">
+            <phrase>2_takeawaysixoranges</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3">
+            <phrase>2_howmanyorangesareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="PROMPT3.REPEAT">
+            <phrase>2_howmanyorangesareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="INCORRECT2">
+            <phrase>2_countagain_2l</phrase>
+            <phrase>2_howmanyorangesareleftonthetable</phrase>
+        </phrasegroup>
+        <phrasegroup id="FINAL">
+            <phrase>1_ten</phrase>
+            <phrase>2_minus</phrase>
+            <phrase>2_six</phrase>
+            <phrase>2_equals_2l</phrase>
+            <phrase>1_four</phrase>
+        </phrasegroup>
+    </event>
+    <event id="finale">
+        <phrasegroup id="DEMO">
+            <phrase>2_excellentyoucountedandtookawayandweshoweditusingminusandequals</phrase>
+        </phrasegroup>
+    </event>
+    <event id="sfx">
+        <phrasegroup id="takeaway">
+            <phrase>takeaway</phrase>
+        </phrasegroup>
+        <phrasegroup id="equation">
+            <phrase>equation</phrase>
+        </phrasegroup>
+    </event>
+</audio>

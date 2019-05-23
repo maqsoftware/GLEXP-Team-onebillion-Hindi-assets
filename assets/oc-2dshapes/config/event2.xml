@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="2a,2b,2c,2d,2e" gradienttop="220,168,251" gradientbottom="254,251,255" colour="254,251,255" >
+	</event>
+	<event id="2a" >
+		<path id="line_1" pos="0.500961,0.649684" src="line_1" stroke="228,33,27" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3" hidden="true" d="M0.207245 0.634018c0.209 0.145 0.382-0.113 0.587 0.055" />
+		<path id="line_2" pos="0.500664,0.310977" src="line_2" fill="0,234,254" stroke="20,157,233" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.001" hidden="true" d="M0.196796 0.310816L0.804531 0.311137" />
+	</event>
+	<event id="2b" correct="2" >
+	</event>
+	<event id="2c" correct="1" delete="true" >
+	</event>
+	<event id="2d" correct="1,3" delete="true" >
+		<path id="line_1" pos="0.225786,0.557139" src="line_1" stroke="242,127,23" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.001" hidden="true" d="M0.173489 0.322906c0.176 0.067 0.079 0.201 0.048 0.236c-0.036 0.041-0.119 0.142 0.048 0.232" />
+		<path id="line_2" pos="0.47138,0.605031" src="line_2" fill="0,234,254" stroke="20,157,233" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.002" hidden="true" d="M0.471992 0.359782L0.470768 0.850281" />
+		<path id="line_3" pos="0.759573,0.574221" src="line_3" stroke="48,173,56" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3" hidden="true" d="M0.609001 0.426727c0.301-0.071 0.289 0.300 0.271 0.366" />
+		<path id="line_4" pos="0.426882,0.197805" src="line_4" stroke="228,33,27" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.003" hidden="true" d="M0.698986 0.197805L0.154778 0.197805" />
+	</event>
+	<event id="2e" correct="1,2,3" delete="true" >
+		<path id="line_1" pos="0.319035,0.267344" src="line_1" stroke="242,127,23" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.004" hidden="true" d="M0.530636 0.267344L0.107433 0.267344" />
+		<path id="line_2" pos="0.909054,0.545431" src="line_2" fill="0,234,254" stroke="48,173,56" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.003" hidden="true" d="M0.909054 0.265467L0.909054 0.825394" />
+		<path id="line_3" pos="0.466717,0.803309" src="line_3" stroke="105,25,111" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.002" hidden="true" d="M0.679928 0.803309L0.253506 0.803309" />
+		<path id="line_4" pos="0.340549,0.540538" src="line_4" stroke="215,55,219" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3.001" hidden="true" d="M0.120159 0.525386c0.000 0.000 0.032 0.078 0.084 0.069c0.053-0.008 0.080-0.111 0.123-0.114c0.043-0.003 0.087 0.116 0.143 0.113c0.056-0.003 0.090-0.072 0.090-0.072" />
+		<path id="line_5" pos="0.715549,0.467603" src="line_5" stroke="20,157,233" strokewidth="10" shadowcolour="0,0,0" shadowradius="16.6264" shadowxoffset="0" shadowyoffset="1.02405" zpos="3" hidden="true" d="M0.698685 0.261683c0.000 0.000 0.075-0.001 0.076 0.097c0.001 0.098-0.113 0.124-0.119 0.316" />
+	</event>
+	<event id="master2" scenes="2f,2g,2h,2i,2j,2k,2l,2m,2n" gradienttop="220,168,251" gradientbottom="254,251,255" colour_text="75,126,170" colour="195,244,253" >
+		<rectangle id="workrect" pos="0.513445,0.545176" src="workrect" fill="0,234,254" stroke="0,0,0" strokewidth="0.25" zpos="3" hidden="true" widthtracksheight="true" x="0.053318" y="0.128337" width="0.920254" height="0.833679" pxwidth="942.34" pxheight="640.266" />
+		<rectangle id="box" pos="0.771426,0.504679" parent="workrect" src="box" fill="229,248,255" stroke="164,159,199" strokewidth="1.5" zpos="3.001" widthtracksheight="true" x="0.571881" y="0.0977805" width="0.39909" height="0.813798" pxwidth="376.078" pxheight="521.047" cornerradius="0.030827" />
+		<circle id="dot" pos="0.26641,0.0795263" parent="workrect" src="dot" fill="0,0,2" zpos="3.002" hidden="true" x="0.257079" y="0.065793" width="0.018662" height="0.0274666" />
+		<rectangle id="text_box" pos="0.501537,0.116081" src="text_box" fill="55,201,55" zpos="3.003" hidden="true" widthtracksheight="true" x="0.289051" y="0.0470708" width="0.424973" height="0.138021" pxwidth="435.172" pxheight="106" />
+	</event>
+	<event id="2f" >
+		<path id="drop_1" pos="-0.596757,0.431313" parent="box" src="drop_1" fill="26,190,2" zpos="6.003" hidden="true" d="M-0.434614 0.656046L-0.410422 0.656049L-0.771073 0.206578L-0.783092 0.221746L-0.434614 0.656046Z" />
+		<path id="drop_2" pos="-0.945089,0.431313" parent="box" src="drop_2" fill="26,190,2" zpos="6.004" hidden="true" d="M-1.10723 0.656046L-1.13142 0.656049L-0.770774 0.206578L-0.758754 0.221746L-1.10723 0.656046Z" />
+		<path id="drop_3" pos="-0.771611,0.648151" parent="box" src="drop_3" fill="26,190,2" zpos="6.005" hidden="true" d="M-1.11933 0.640928L-1.13142 0.656049L-0.411799 0.65535L-0.423988 0.640253L-1.11933 0.640928Z" />
+		<path id="line_1" pos="0.707969,0.492668" parent="box" src="line_1" fill="26,190,2" zpos="6" drop="1" d="M0.870112 0.717401L0.894304 0.717403L0.533653 0.267933L0.521634 0.283101L0.870112 0.717401Z" />
+		<path id="line_2" pos="0.271546,0.693226" parent="box" src="line_2" fill="26,190,2" zpos="6.001" drop="2" d="M0.109404 0.917959L0.0852114 0.917961L0.445862 0.46849L0.457881 0.483659L0.109404 0.917959Z" />
+		<path id="line_3" pos="0.515201,0.151306" parent="box" src="line_3" fill="26,190,2" zpos="6.002" drop="3" d="M0.167487 0.144083L0.155388 0.159203L0.875014 0.158505L0.862824 0.143408L0.167487 0.144083Z" />
+		<path id="obj" pos="0.264167,0.449056" parent="workrect" src="obj" fill="26,190,2" stroke="0,0,0" strokewidth="2" zpos="6.006" hidden="true" d="M0.264217 0.266683L0.407463 0.631428L0.120872 0.630793L0.264217 0.266683Z" />
+	</event>
+	<event id="2g" >
+		<path id="drop_1" pos="0.277078,0.687203" parent="workrect" src="drop_1" fill="251,140,33" zpos="6.003" hidden="true" d="M0.107667 0.680546L0.102446 0.693859L0.45171 0.693859L0.446488 0.680546L0.107667 0.680546Z" />
+		<path id="drop_2" pos="0.362018,0.469995" parent="workrect" src="drop_2" fill="251,140,33" zpos="6.004" hidden="true" d="M0.441502 0.692584L0.451945 0.692582L0.277314 0.247406L0.272091 0.260718L0.441502 0.692584Z" />
+		<path id="drop_3" pos="0.192228,0.469995" parent="workrect" src="drop_3" fill="251,140,33" zpos="6.005" hidden="true" d="M0.112744 0.692584L0.102301 0.692582L0.276933 0.247406L0.282155 0.260718L0.112744 0.692584Z" />
+		<path id="line_1" pos="0.498432,0.951862" parent="box" src="line_1" fill="251,140,33" zpos="6" drop="1" d="M0.0739373 0.943683L0.0608563 0.960041L0.936007 0.960041L0.922923 0.943683L0.0739373 0.943683Z" />
+		<path id="line_2" pos="0.326944,0.617542" parent="box" src="line_2" fill="251,140,33" zpos="6.001" drop="2" d="M0.526107 0.89106L0.552275 0.891058L0.1147 0.344023L0.101614 0.360381L0.526107 0.89106Z" />
+		<path id="line_3" pos="0.597521,0.310145" parent="box" src="line_3" fill="251,140,33" zpos="6.002" drop="3" d="M0.398358 0.583664L0.37219 0.583661L0.809766 0.0366269L0.822851 0.0529843L0.398358 0.583664Z" />
+		<path id="obj" pos="0.277198,0.470731" parent="workrect" src="obj" fill="251,140,33" stroke="0,0,0" strokewidth="2" zpos="6.006" hidden="true" d="M0.277182 0.248096L0.45183 0.693365L0.102566 0.693365L0.277182 0.248096Z" />
+	</event>
+	<event id="2h" >
+		<path id="drop_1" pos="0.245485,0.808908" parent="workrect" src="drop_1" fill="59,71,254" zpos="6" hidden="true" d="M0.108551 0.802437L0.101567 0.815378L0.389402 0.815378L0.389402 0.802437L0.108551 0.802437Z" />
+		<path id="drop_2" pos="0.245485,0.548677" parent="workrect" src="drop_2" fill="59,71,254" zpos="6.001" hidden="true" d="M0.113217 0.815378L0.389402 0.303563L0.389402 0.281975L0.101567 0.815378L0.113217 0.815378Z" />
+		<path id="drop_3" pos="0.384849,0.548677" parent="workrect" src="drop_3" fill="59,71,254" zpos="6.002" hidden="true" d="M0.380296 0.815378L0.389402 0.815378L0.389402 0.281975L0.380296 0.298851L0.380296 0.815378Z" />
+		<path id="line_1" pos="0.427869,0.0866564" parent="box" src="line_1" fill="59,71,254" zpos="6.003" drop="1" d="M0.0847525 0.0787054L0.0672546 0.0946075L0.788483 0.0946075L0.788483 0.0787054L0.0847525 0.0787054Z" />
+		<path id="line_2" pos="0.590339,0.602157" parent="box" src="line_2" fill="59,71,254" zpos="6.004" drop="2" d="M0.258915 0.929881L0.950953 0.30096L0.950953 0.274432L0.229725 0.929881L0.258915 0.929881Z" />
+		<path id="line_3" pos="0.167701,0.492735" parent="box" src="line_3" fill="59,71,254" zpos="6.005" drop="3" d="M0.156292 0.82046L0.17911 0.82046L0.17911 0.165011L0.156292 0.185748L0.156292 0.82046Z" />
+		<path id="obj" pos="0.245485,0.548677" parent="workrect" src="obj" fill="59,71,254" stroke="0,0,0" strokewidth="2" zpos="6.006" hidden="true" d="M0.389402 0.281975L0.389402 0.815378L0.101567 0.815378L0.389402 0.281975Z" />
+	</event>
+	<event id="2i" >
+		<path id="drop_1" pos="0.26677,0.283247" parent="workrect" src="drop_1" fill="250,54,63" zpos="6" hidden="true" d="M0.113731 0.289784L0.419824 0.289784L0.423393 0.27671L0.110146 0.27671L0.113731 0.289784Z" />
+		<path id="drop_2" pos="0.191116,0.562948" parent="workrect" src="drop_2" fill="250,54,63" zpos="6.001" hidden="true" d="M0.267113 0.849187L0.272086 0.830967L0.120115 0.27671L0.110146 0.27671L0.267113 0.849187Z" />
+		<path id="drop_3" pos="0.342729,0.562948" parent="workrect" src="drop_3" fill="250,54,63" zpos="6.002" hidden="true" d="M0.267113 0.849187L0.423393 0.27671L0.413321 0.27671L0.262065 0.830779L0.267113 0.849187Z" />
+		<path id="line_1" pos="0.512451,0.927887" parent="box" src="line_1" fill="250,54,63" zpos="6.003" drop="1" d="M0.128981 0.935919L0.895961 0.935919L0.904904 0.919854L0.119999 0.919854L0.128981 0.935919Z" />
+		<path id="line_2" pos="0.315709,0.393534" parent="box" src="line_2" fill="250,54,63" zpos="6.004" drop="2" d="M0.506133 0.745266L0.518596 0.722878L0.137801 0.0418029L0.112821 0.0418029L0.506133 0.745266Z" />
+		<path id="line_3" pos="0.713233,0.520131" parent="box" src="line_3" fill="250,54,63" zpos="6.005" drop="3" d="M0.52376 0.871863L0.915353 0.1684L0.890114 0.1684L0.511113 0.849242L0.52376 0.871863Z" />
+		<path id="obj" pos="0.26677,0.562948" parent="workrect" src="obj" fill="250,54,63" stroke="0,0,0" strokewidth="2" zpos="6.006" hidden="true" d="M0.110146 0.27671L0.423393 0.27671L0.267113 0.849187L0.110146 0.27671Z" />
+	</event>
+	<event id="2j" >
+		<path id="drop_1" pos="0.275543,0.754059" parent="workrect" src="drop_1" fill="250,67,176" zpos="6" hidden="true" d="M0.119628 0.760164L0.431458 0.760164L0.431458 0.747954L0.119628 0.747954L0.119628 0.760164Z" />
+		<path id="drop_2" pos="0.123776,0.53069" parent="workrect" src="drop_2" fill="250,67,176" zpos="6.001" hidden="true" d="M0.119628 0.760165L0.127925 0.760165L0.127925 0.301215L0.119628 0.301215L0.119628 0.760165Z" />
+		<path id="drop_3" pos="0.275543,0.30732" parent="workrect" src="drop_3" fill="250,67,176" zpos="6.002" hidden="true" d="M0.119628 0.313425L0.431458 0.313425L0.431458 0.301215L0.119628 0.301215L0.119628 0.313425Z" />
+		<path id="drop_4" pos="0.42731,0.53069" parent="workrect" src="drop_4" fill="250,67,176" zpos="6.003" hidden="true" d="M0.423162 0.760165L0.431458 0.760165L0.431458 0.301215L0.423162 0.301215L0.423162 0.760165Z" />
+		<path id="line_1" pos="0.459038,0.204807" parent="box" src="line_1" fill="250,67,176" zpos="6.004" drop="1,3" d="M0.0683608 0.212309L0.849714 0.212309L0.849714 0.197305L0.0683608 0.197305L0.0683608 0.212309Z" />
+		<path id="line_2" pos="0.285058,0.631806" parent="box" src="line_2" fill="250,67,176" zpos="6.005" drop="2,4" d="M0.274663 0.913786L0.295452 0.913786L0.295452 0.349825L0.274663 0.349825L0.274663 0.913786Z" />
+		<path id="line_3" pos="0.538876,0.0705289" parent="box" src="line_3" fill="250,67,176" zpos="6.006" drop="1,3" d="M0.148199 0.0780311L0.929553 0.0780311L0.929553 0.0630267L0.148199 0.0630267L0.148199 0.0780311Z" />
+		<path id="line_4" pos="0.730425,0.566073" parent="box" src="line_4" fill="250,67,176" zpos="6.007" drop="2,4" d="M0.720031 0.848053L0.740819 0.848053L0.740819 0.284092L0.720031 0.284092L0.720031 0.848053Z" />
+		<path id="obj" pos="0.275543,0.530689" parent="workrect" src="obj" fill="250,67,176" stroke="0,0,0" strokewidth="2" zpos="6.008" hidden="true" d="M0.119628 0.760164L0.431458 0.760164L0.431458 0.301215L0.119628 0.301215L0.119628 0.760164Z" />
+	</event>
+	<event id="2k" >
+		<path id="drop_1" pos="0.264562,0.646947" parent="workrect" src="drop_1" fill="251,140,35" zpos="6" hidden="true" d="M0.095223 0.653052L0.433901 0.653052L0.433901 0.640842L0.095223 0.640842L0.095223 0.653052Z" />
+		<path id="drop_2" pos="0.0993712,0.504992" parent="workrect" src="drop_2" fill="251,140,35" zpos="6.001" hidden="true" d="M0.095223 0.653053L0.103519 0.653053L0.103519 0.356932L0.095223 0.356932L0.095223 0.653053Z" />
+		<path id="drop_3" pos="0.264562,0.363037" parent="workrect" src="drop_3" fill="251,140,35" zpos="6.002" hidden="true" d="M0.095223 0.369142L0.433901 0.369142L0.433901 0.356932L0.095223 0.356932L0.095223 0.369142Z" />
+		<path id="drop_4" pos="0.429753,0.504992" parent="workrect" src="drop_4" fill="251,140,35" zpos="6.003" hidden="true" d="M0.425605 0.653053L0.433901 0.653053L0.433901 0.356932L0.425605 0.356932L0.425605 0.653053Z" />
+		<path id="line_1" pos="0.489672,0.857141" parent="box" src="line_1" fill="251,140,35" zpos="6.004" drop="1,3" d="M0.065359 0.864643L0.913986 0.864643L0.913986 0.849639L0.065359 0.849639L0.065359 0.864643Z" />
+		<path id="line_2" pos="0.305275,0.608303" parent="box" src="line_2" fill="251,140,35" zpos="6.005" drop="2,4" d="M0.294881 0.79024L0.31567 0.79024L0.31567 0.426365L0.294881 0.426365L0.294881 0.79024Z" />
+		<path id="line_3" pos="0.479384,0.136254" parent="box" src="line_3" fill="251,140,35" zpos="6.006" drop="1,3" d="M0.0550708 0.143757L0.903698 0.143757L0.903698 0.128752L0.0550708 0.128752L0.0550708 0.143757Z" />
+		<path id="line_4" pos="0.664498,0.37351" parent="box" src="line_4" fill="251,140,35" zpos="6.007" drop="2,4" d="M0.654104 0.555448L0.674892 0.555448L0.674892 0.191573L0.654104 0.191573L0.654104 0.555448Z" />
+		<path id="obj" pos="0.264562,0.504992" parent="workrect" src="obj" fill="251,140,35" stroke="0,0,0" strokewidth="2" zpos="6.008" hidden="true" d="M0.095223 0.653052L0.433901 0.653052L0.433901 0.356932L0.095223 0.356932L0.095223 0.653052Z" />
+	</event>
+	<event id="2l" >
+		<path id="drop_1" pos="0.269948,0.822939" parent="workrect" src="drop_1" fill="24,186,254" zpos="6" hidden="true" d="M0.181384 0.829044L0.358512 0.829044L0.358512 0.816834L0.181384 0.816834L0.181384 0.829044Z" />
+		<path id="drop_2" pos="0.185533,0.535914" parent="workrect" src="drop_2" fill="24,186,254" zpos="6.001" hidden="true" d="M0.181384 0.829044L0.189681 0.829044L0.189681 0.242783L0.181384 0.242783L0.181384 0.829044Z" />
+		<path id="drop_3" pos="0.269948,0.248888" parent="workrect" src="drop_3" fill="24,186,254" zpos="6.002" hidden="true" d="M0.181384 0.254993L0.358512 0.254993L0.358512 0.242783L0.181384 0.242783L0.181384 0.254993Z" />
+		<path id="drop_4" pos="0.354363,0.535914" parent="workrect" src="drop_4" fill="24,186,254" zpos="6.003" hidden="true" d="M0.350215 0.829044L0.358512 0.829044L0.358512 0.242783L0.350215 0.242783L0.350215 0.829044Z" />
+		<path id="line_1" pos="0.356953,0.891788" parent="box" src="line_1" fill="24,186,254" zpos="6.004" drop="1,3" d="M0.135039 0.89929L0.578867 0.89929L0.578867 0.884286L0.135039 0.884286L0.135039 0.89929Z" />
+		<path id="line_2" pos="0.622089,0.463685" parent="box" src="line_2" fill="24,186,254" zpos="6.005" drop="2,4" d="M0.611694 0.823886L0.632483 0.823886L0.632483 0.103484L0.611694 0.103484L0.611694 0.823886Z" />
+		<path id="line_3" pos="0.254996,0.389673" parent="box" src="line_3" fill="24,186,254" zpos="6.006" drop="1,3" d="M0.033082 0.397175L0.47691 0.397175L0.47691 0.382171L0.033082 0.382171L0.033082 0.397175Z" />
+		<path id="line_4" pos="0.812869,0.580289" parent="box" src="line_4" fill="24,186,254" zpos="6.007" drop="2,4" d="M0.802475 0.940489L0.823263 0.940489L0.823263 0.220088L0.802475 0.220088L0.802475 0.940489Z" />
+		<path id="obj" pos="0.269948,0.535914" parent="workrect" src="obj" fill="24,186,254" stroke="0,0,0" strokewidth="2" zpos="6.008" hidden="true" d="M0.181384 0.829044L0.358512 0.829044L0.358512 0.242783L0.181384 0.242783L0.181384 0.829044Z" />
+	</event>
+	<event id="2m" caption="t_pentagon" >
+		<path id="drop_1" pos="0.275811,0.736457" parent="workrect" src="drop_1" fill="132,70,234" zpos="6" hidden="true" d="M0.174462 0.742563L0.377159 0.742563L0.377159 0.730352L0.174462 0.730352L0.174462 0.742563Z" />
+		<path id="drop_2" pos="0.147472,0.598837" parent="workrect" src="drop_2" fill="132,70,234" zpos="6.001" hidden="true" d="M0.182736 0.738814L0.120099 0.455086L0.112208 0.45886L0.174845 0.742587L0.182736 0.738814Z" />
+		<path id="drop_3" pos="0.196639,0.376684" parent="workrect" src="drop_3" fill="132,70,234" zpos="6.002" hidden="true" d="M0.276194 0.284068L0.112208 0.459421L0.117085 0.4693L0.281071 0.293947L0.276194 0.284068Z" />
+		<path id="drop_4" pos="0.35515,0.376684" parent="workrect" src="drop_4" fill="132,70,234" zpos="6.003" hidden="true" d="M0.439581 0.459421L0.275595 0.284068L0.270718 0.293947L0.434704 0.4693L0.439581 0.459421Z" />
+		<path id="drop_5" pos="0.404317,0.598837" parent="workrect" src="drop_5" fill="132,70,234" zpos="6.004" hidden="true" d="M0.43169 0.455086L0.369053 0.738814L0.376944 0.742587L0.439581 0.45886L0.43169 0.455086Z" />
+		<path id="line_1" pos="0.354982,0.0962062" parent="box" src="line_1" fill="132,70,234" zpos="6.005" drop="1" d="M0.101032 0.103709L0.608932 0.103709L0.608932 0.0887036L0.101032 0.0887036L0.101032 0.103709Z" />
+		<path id="line_2" pos="0.219852,0.725966" parent="box" src="line_2" fill="132,70,234" zpos="6.006" drop="2" d="M0.308213 0.897971L0.151263 0.549324L0.131492 0.553961L0.288441 0.902607L0.308213 0.897971Z" />
+		<path id="line_3" pos="0.641402,0.73829" parent="box" src="line_3" fill="132,70,234" zpos="6.007" drop="3" d="M0.840741 0.624483L0.429842 0.839958L0.442062 0.852097L0.852961 0.636622L0.840741 0.624483Z" />
+		<path id="line_4" pos="0.292019,0.335237" parent="box" src="line_4" fill="132,70,234" zpos="6.008" drop="4" d="M0.503578 0.436905L0.0926792 0.221429L0.0804596 0.233569L0.491359 0.449044L0.503578 0.436905Z" />
+		<path id="line_5" pos="0.753724,0.297981" parent="box" src="line_5" fill="132,70,234" zpos="6.009" drop="5" d="M0.822312 0.12134L0.665363 0.469986L0.685135 0.474623L0.842084 0.125977L0.822312 0.12134Z" />
+		<path id="obj" pos="0.275894,0.513328" parent="workrect" src="obj" fill="132,70,234" stroke="0,0,0" strokewidth="2" zpos="6.01" hidden="true" d="M0.112208 0.459538L0.27555 0.284068L0.439581 0.46024L0.377567 0.742587L0.17446 0.742587L0.112208 0.459538Z" />
+	</event>
+	<event id="2n" caption="t_hexagon" >
+		<path id="drop_1" pos="0.269875,0.291611" parent="workrect" src="drop_1" fill="55,201,55" zpos="6" hidden="true" d="M0.178808 0.297716L0.360941 0.297716L0.360941 0.285505L0.178808 0.285505L0.178808 0.297716Z" />
+		<path id="drop_2" pos="0.402882,0.404632" parent="workrect" src="drop_2" fill="55,201,55" zpos="6.001" hidden="true" d="M0.353756 0.291611L0.444823 0.523759L0.452007 0.517654L0.360941 0.285505L0.353756 0.291611Z" />
+		<path id="drop_3" pos="0.402882,0.630675" parent="workrect" src="drop_3" fill="55,201,55" zpos="6.002" hidden="true" d="M0.444823 0.511548L0.353756 0.743696L0.360941 0.749802L0.452007 0.517653L0.444823 0.511548Z" />
+		<path id="drop_4" pos="0.269875,0.743696" parent="workrect" src="drop_4" fill="55,201,55" zpos="6.003" hidden="true" d="M0.178808 0.749802L0.360941 0.749802L0.360941 0.737591L0.178808 0.737591L0.178808 0.749802Z" />
+		<path id="drop_5" pos="0.136867,0.630675" parent="workrect" src="drop_5" fill="55,201,55" zpos="6.004" hidden="true" d="M0.185993 0.743696L0.0949267 0.511548L0.0877418 0.517653L0.178808 0.749802L0.185993 0.743696Z" />
+		<path id="drop_6" pos="0.136867,0.404632" parent="workrect" src="drop_6" fill="55,201,55" zpos="6.005" hidden="true" d="M0.0949267 0.523759L0.185993 0.291611L0.178808 0.285505L0.0877418 0.517654L0.0949267 0.523759Z" />
+		<path id="line_1" pos="0.683018,0.473906" parent="box" src="line_1" fill="55,201,55" zpos="6.006" drop="1,4" d="M0.454833 0.481408L0.911204 0.481408L0.911204 0.466403L0.454833 0.466403L0.454833 0.481408Z" />
+		<path id="line_2" pos="0.237601,0.228446" parent="box" src="line_2" fill="55,201,55" zpos="6.007" drop="2,5" d="M0.114507 0.0895644L0.342692 0.37483L0.360695 0.367328L0.13251 0.0820622L0.114507 0.0895644Z" />
+		<path id="line_3" pos="0.249681,0.668026" parent="box" src="line_3" fill="55,201,55" zpos="6.008" drop="3,6" d="M0.354772 0.521642L0.126587 0.806908L0.14459 0.81441L0.372775 0.529144L0.354772 0.521642Z" />
+		<path id="line_4" pos="0.334105,0.892594" parent="box" src="line_4" fill="55,201,55" zpos="6.009" drop="1,4" d="M0.10592 0.900096L0.56229 0.900096L0.56229 0.885092L0.10592 0.885092L0.10592 0.900096Z" />
+		<path id="line_5" pos="0.723641,0.77323" parent="box" src="line_5" fill="55,201,55" zpos="6.01" drop="2,5" d="M0.846735 0.912112L0.61855 0.626846L0.600547 0.634349L0.828732 0.919614L0.846735 0.912112Z" />
+		<path id="line_6" pos="0.708606,0.227389" parent="box" src="line_6" fill="55,201,55" zpos="6.011" drop="3,6" d="M0.603515 0.373773L0.8317 0.0885073L0.813697 0.0810051L0.585512 0.366271L0.603515 0.373773Z" />
+		<path id="obj" pos="0.269874,0.517653" parent="workrect" src="obj" fill="55,201,55" stroke="0,0,0" strokewidth="2" zpos="6.012" hidden="true" d="M0.178808 0.749802L0.360941 0.749802L0.452007 0.517653L0.360941 0.285505L0.178808 0.285505L0.0877418 0.517653L0.178808 0.749802Z" />
+	</event>
+</events>
