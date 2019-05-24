@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170620.225710152">
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_lookatthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>7_sheisinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>7_heisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>7_sheisontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_choosethechildinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethechildinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethechildinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethechildontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethechildontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethechildontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7d">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichchildisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichchildisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichchildisontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7e">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichflowerpotisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichflowerpotisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichflowerpotisontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7f">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowchoosetheflowerpotontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheflowerpotontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheflowerpotontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7g">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosetheflowerpotinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheflowerpotinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheflowerpotinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7h">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethegiraffeinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7i">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichgiraffeisontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7j">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichgiraffeisontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7k">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethefishontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethefishontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethefishontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7l">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethesheepontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethesheepontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethesheepontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7m">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethedinosaurinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethedinosaurinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethedinosaurinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7n">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowtherearejusttwochildren</phrase>
+			<phrase>7_whichchildisontheright_7n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichchildisontheright_7n</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichchildisontheright_7n</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7o">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethetreeontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethetreeontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethetreeontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7p">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethehouseontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethehouseontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethehouseontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7q">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethepictureontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethepictureontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethepictureontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7r">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosetheumbrellaontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheumbrellaontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheumbrellaontheright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7s">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethechairinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethechairinthemiddle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethechairinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7t">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowlookattheblueballoon</phrase>
+			<phrase>7_choosethenextballoonontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_lookattheblueballoon</phrase>
+			<phrase>7_choosethenextballoonontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_lookattheblueballoon</phrase>
+			<phrase>7_choosethenextballoonontheleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7u">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosetheballoontotherightoftheblueballoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheballoontotherightoftheblueballoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheballoontotherightoftheblueballoon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7v">
+		<phrasegroup id="PROMPT">
+			<phrase>7_lookatthegreystar</phrase>
+			<phrase>7_choosethenextstarontheright</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethenextstartotherightofthegreystar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethenextstartotherightofthegreystar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7w">
+		<phrasegroup id="PROMPT">
+			<phrase>7_lookatthewhitestar</phrase>
+			<phrase>7_choosethenextstarontheleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethenextstartotheleftofthewhitestar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethenextstartotheleftofthewhitestar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>7_verygoodyoupickedoutthingsontheleftandontherightandinthemiddle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

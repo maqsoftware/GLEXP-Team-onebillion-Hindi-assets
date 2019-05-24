@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="intro,1b,1b2,1b3,1c,1d,1e,1f,1g,1h,1i,1j,1k" gradienttop="246,253,181" gradientbottom="250,254,226" >
+		<rectangle id="objrect" pos="0.767904,0.855021" src="objrect" fill="254,238,214" zpos="0.002" hidden="true" x="0.535309" y="0.707438" width="0.465191" height="0.295166" />
+		<rectangle id="Rectangle1" pos="0.5,0.854167" src="Rectangle1" fill="233,219,186" stroke="213,197,164" strokewidth="2" zpos="0.001" x="-0.00195312" y="0.705729" width="1.00391" height="0.296875" />
+		<rectangle id="strip" pos="0.5,0.741152" src="strip" fill="254,238,214" zpos="0" x="-0.00195312" y="0.692708" width="1.00391" height="0.0968882" />
+		<vector id="cupboardback" pos="0.287109,0.507874" src="1_cupboardback " scalex="1.87935" scaley="1.87935" zpos="1" />
+	</event>
+	<event id="intro" >
+		<vector id="inbag" pos="0.788708,0.477416" parent="cupboardback" src="1_inbag" scalex="0.260377" scaley="0.260377" zpos="4.012" />
+		<vector id="inball" pos="0.494593,0.744678" parent="cupboardback" src="1_inball" scalex="0.715007" scaley="0.715007" zpos="4.009" />
+		<vector id="inbat" pos="0.658909,0.194886" parent="cupboardback" src="1_inbat" scalex="0.481641" scaley="0.481641" rotation="-158.062" zpos="4.008" />
+		<vector id="inbook" pos="0.606962,0.546207" parent="cupboardback" src="1_inbook" scalex="2.46912" scaley="2.46912" rotation="-6.77934" zpos="4.013" />
+		<vector id="inclock" pos="0.475601,0.450933" parent="cupboardback" src="1_inclock" scalex="0.499543" scaley="0.499543" zpos="4.01" />
+		<vector id="indrum" pos="0.757335,0.747654" parent="cupboardback" src="1_indrum" scalex="0.540558" scaley="0.540558" zpos="4.011" />
+		<vector id="inshoe" pos="0.796012,0.249986" parent="cupboardback" src="shoe" scalex="-0.693" scaley="0.692646" zpos="4.007" />
+		<vector id="outbag" pos="0.407459,-0.127842" parent="objrect" src="1_outbag" scalex="0.310104" scaley="0.310104" zpos="4" />
+		<vector id="outball" pos="0.407981,0.533464" parent="objrect" src="1_outball" scalex="1.54966" scaley="1.54966" zpos="4.002" />
+		<vector id="outbat" pos="0.0610644,-0.47129" parent="objrect" src="1_outbat" scalex="0.47963" scaley="0.47963" rotation="-84.7354" zpos="4.004" />
+		<vector id="outbook" pos="0.139738,0.491809" parent="objrect" src="1_outbook" scalex="0.757031" scaley="0.757031" rotation="6.93015" zpos="4.003" />
+		<vector id="outclock" pos="0.755371,0.199219" src="1_outclock" scalex="0.280152" scaley="0.280152" zpos="4.005" />
+		<vector id="outdrum" pos="0.740305,-0.0587262" parent="objrect" src="1_outdrum" scalex="0.585124" scaley="0.585" zpos="4.001" />
+		<vector id="outshoe" pos="0.74047,0.548835" parent="objrect" src="shoe" scalex="0.872954" scaley="0.872954" zpos="4.006" />
+		<vector id="doorclosed" pos="0.630068,0.455431" parent="cupboardback" src="1_doorclosed" scalex="1.879" scaley="1.879" zpos="5.002" />
+		<vector id="doorhalfopen" pos="0.552224,0.539171" parent="cupboardback" src="1_doorhalfopen" scalex="1.879" scaley="1.879" zpos="5.001" hidden="true" />
+		<vector id="dooropen" pos="-0.0980641,0.581384" parent="doorclosed" src="1_dooropen" scalex="1.879" scaley="1.879" zpos="5" hidden="true" />
+	</event>
+	<event id="1b2" target="doorclosed" >
+	</event>
+	<event id="1d" target="inshoe" >
+	</event>
+	<event id="1e" target="outshoe" >
+	</event>
+	<event id="1f" target="outbag" >
+	</event>
+	<event id="1g" target="inbag" >
+	</event>
+	<event id="1h" target="outclock" >
+	</event>
+	<event id="1i" target="inbook" >
+	</event>
+	<event id="1j" target="outball" >
+	</event>
+	<event id="1k" target="indrum" >
+	</event>
+	<event id="masterb" scenes="1l,1l2,1m,1n,1o,1p,1q,1r" colour="247,253,214" >
+		<vector id="cupboard" pos="0.501617,0.333984" src="1_wallcupboard" scalex="1.62292" scaley="1.623" zpos="0" />
+		<vector id="table" pos="0.498018,0.908641" src="1_table" scalex="1.64111" scaley="1" zpos="0.001" />
+		<vector id="obj_bluebowl" pos="0.220587,0.838445" parent="cupboard" src="1_bluebowl" scalex="0.609" scaley="0.609" zpos="1" />
+		<vector id="obj_bluetin" pos="0.78635,-0.00135459" parent="table" src="1_bluetin" scalex="0.502" scaley="0.502" zpos="1.001" />
+		<vector id="obj_bottle" pos="0.171491,0.351716" parent="cupboard" src="1_bottle" scalex="0.447" scaley="0.447" zpos="1.002" />
+		<vector id="obj_greencup" pos="0.256766,0.0594128" parent="table" src="1_cup" scalex="0.901" scaley="0.901" zpos="1.009" />
+		<vector id="obj_greentin" pos="0.873052,0.27621" parent="table" src="1_greentin" scalex="0.536" scaley="0.536" zpos="1.003" />
+		<vector id="obj_plate" pos="0.174027,0.328629" parent="table" src="1_plate" scalex="0.325" scaley="0.325" zpos="1.004" />
+		<vector id="obj_redtin" pos="0.691702,0.391524" parent="cupboard" src="1_redtin" scalex="0.459" scaley="0.459" zpos="1.005" />
+		<vector id="obj_whitecup" pos="0.429884,0.842784" parent="cupboard" src="1_whitecup" scalex="0.744" scaley="0.744" zpos="1.006" />
+		<vector id="obj_yellowcup" pos="0.329447,0.30223" parent="table" src="1_cup" scalex="0.901" scaley="0.901" fill="255,211,0" zpos="1.008" />
+		<vector id="obj_yellowjug" pos="0.346139,0.34958" parent="cupboard" src="1_yellowjug" scalex="1.338" scaley="1.338" zpos="1.007" />
+		<group id="opendoors"  pos="0.500092,0.390625" src="opendoors" zpos="2" hidden="true">
+			<vector id="leftopendoor" pos="-0.0330532,0.625832" parent="cupboard" src="1_leftopendoor" scalex="1.623" scaley="1.623" zpos="2" />
+			<vector id="rightopendoor" pos="1.02702,0.625832" parent="cupboard" src="1_leftopendoor" scalex="-1.623" scaley="1.623" zpos="2.001" />
+		</group>
+		<group id="halfopendoors"  pos="0.500259,0.384115" src="halfopendoors" zpos="3" hidden="true">
+			<vector id="lefthalfopen" pos="0.222518,0.611369" parent="cupboard" src="1_righthalfopen" scalex="-1.623" scaley="1.623" zpos="3.001" />
+			<vector id="righthalfopen" pos="0.772112,0.611369" parent="cupboard" src="1_righthalfopen" scalex="1.623" scaley="1.623" zpos="3" />
+		</group>
+		<group id="closeddoors"  pos="0.500488,0.354818" src="closeddoors" zpos="4">
+			<vector id="leftcloseddoor" pos="0.264047,0.546283" parent="cupboard" src="1_leftcloseddoor" scalex="1.623" scaley="1.623" zpos="4" />
+			<vector id="rightcloseddoor" pos="0.731488,0.546283" parent="cupboard" src="1_leftcloseddoor" scalex="-1.623" scaley="1.623" zpos="4.001" />
+		</group>
+		<rectangle id="shelf1" pos="0.504336,0.891722" parent="cupboard" src="shelf1" fill="255,121,143" fillopacity="0.96185" zpos="5.001" hidden="true" x="0.0931481" y="0.883236" width="0.822376" height="0.016972" />
+		<rectangle id="shelf2" pos="0.504336,0.501153" parent="cupboard" src="shelf2" fill="255,121,143" fillopacity="0.96185" zpos="5" hidden="true" x="0.0931481" y="0.492667" width="0.822376" height="0.016972" />
+		<rectangle id="table1" pos="0.496836,0.378434" parent="table" src="table1" fill="255,121,143" fillopacity="0.96185" zpos="5.003" hidden="true" x="0.0610062" y="0.36273" width="0.871659" height="0.0314075" />
+		<rectangle id="table2" pos="0.494263,0.152233" parent="table" src="table2" fill="255,121,143" fillopacity="0.96185" zpos="5.002" hidden="true" x="0.11903" y="0.140404" width="0.750467" height="0.023658" />
+	</event>
+	<event id="1l2" target="cupboard" >
+	</event>
+	<event id="1m" target="obj_bluebowl" >
+	</event>
+	<event id="1n" target="obj_yellowjug" >
+	</event>
+	<event id="1o" target="obj_plate" >
+	</event>
+	<event id="1p" target="obj_greencup" >
+	</event>
+	<event id="1q" target="obj_bluetin" >
+	</event>
+	<event id="1r" >
+	</event>
+</events>

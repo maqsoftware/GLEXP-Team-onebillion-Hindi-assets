@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170313.154413077">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>vps_youwillnowwatchashortvideoofastudentpassingatest</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_youcandowellinatesttoojusttryyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>vps_nowforavideoyouwillseeastudentreadingsyllablesinatestareyouready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillreadsyllablesinatestlikethatstudentyoucandoit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>vps_inthisvideoyouwillseeastudentreadingwordsinatestgetready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillreadwordsinatestlikethatstudentdoyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>vps_inthisvideoyouwillseeastudentchoosingwordstomatchpicturesinatestready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillchoosewordsinatesttomatchpicturesyoucandoit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="DEMO">
+			<phrase>vps_nowyouwillseeastudentreadingaparagraphandansweringquestionsinatestgetready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillreadaparagraphandanswerquestionsinatestdoyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>vps_nowyouwillseeastudentwritingwordsinatestready</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillwritewordsinatestlikethatstudentshowhowwellyoucando</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="DEMO">
+			<phrase>vps_nowyouwillseeastudentreadingwordsinatesttheyaremadeupwordshavealook</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillreadmadeupwordsinatestlikethatstudentyoucandoit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="DEMO">
+			<phrase>vps_nowyouwillseeastudentsayingthefirstsoundfromawordinatestlistencarefully</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>vps_soonyouwillsaysoundsinatestlikethatstudentitseasyjustlistencarefully</phrase>
+		</phrasegroup>
+	</event>
+</audio>

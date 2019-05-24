@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="7a,7b,7c,7d,7e,7f,7g,7h,7i,7j,7k,7l,7m,7n,7o,7p,7q,7r,7s,7t,7u,7v,7w" colour="255,235,235" >
+		<rectangle id="homerect" pos="0.5,0.779312" src="homerect" fill="255,38,0" fillopacity="0.409158" zpos="0" hidden="true" x="0.176582" y="0.728338" width="0.646835" height="0.101949" />
+	</event>
+	<event id="7a" >
+		<vector id="obj_boy1" pos="0.151364,-1.6124" parent="homerect" src="7a_boy1" scalex="0.585677" scaley="0.585677" zpos="3" skinoffset="1" />
+		<vector id="obj_girl1" pos="0.518117,-2.2972" parent="homerect" src="7a_girl1" scalex="0.822559" scaley="0.822559" zpos="3.001" />
+		<vector id="obj_girl2" pos="0.862341,-1.4081" parent="homerect" src="7a_girl2" scalex="0.555888" scaley="0.555888" zpos="3.002" />
+	</event>
+	<event id="7b" target="obj_girl2" >
+		<vector id="obj_boy" anchor="0.5,1" pos="0.84045,0.746258" parent="homerect" src="7b_boy" scalex="0.812934" scaley="0.812934" zpos="3" />
+		<vector id="obj_girl1" anchor="0.5,1" pos="0.170537,0.679804" parent="homerect" src="7b_girl1" scalex="0.674835" scaley="0.674835" zpos="3.001" />
+		<vector id="obj_girl2" anchor="0.5,1" pos="0.502932,0.641539" parent="homerect" src="7b_girl2" scalex="0.548186" scaley="0.548186" zpos="3.002" skinoffset="1" />
+	</event>
+	<event id="7c" target="obj_girl1" >
+	</event>
+	<event id="7d" target="obj_boy" >
+	</event>
+	<event id="7e" target="obj_flowers1" >
+		<vector id="obj_flowers1" anchor="0.5,1" pos="0.0365054,0.719068" parent="homerect" src="7e_flowers1" scalex="1.06575" scaley="1.06575" zpos="3" />
+		<vector id="obj_flowers2" anchor="0.5,1" pos="0.511323,0.699245" parent="homerect" src="7e_flowers2" scalex="1.06467" scaley="1.06467" zpos="3.002" />
+		<vector id="obj_flowers3" anchor="0.5,1" pos="0.920016,0.713929" parent="homerect" src="7e_flowers3" scalex="1.07326" scaley="1.07326" zpos="3.001" />
+	</event>
+	<event id="7f" target="obj_flowers3" >
+	</event>
+	<event id="7g" target="obj_flowers2" >
+	</event>
+	<event id="7h" target="obj_2" >
+		<vector id="obj_1" pos="0.239497,0.499708" src="7h_giraffe" scalex="1.32358" scaley="1.32358" zpos="3.001" />
+		<vector id="obj_2" pos="0.51351,0.576485" src="7h_giraffe" scalex="0.9898" scaley="0.9898" zpos="3" />
+		<vector id="obj_3" pos="0.789062,0.534602" src="7h_giraffe" scalex="1.17709" scaley="1.17709" zpos="3.002" />
+	</event>
+	<event id="7i" target="obj_3" >
+	</event>
+	<event id="7j" target="obj_1" >
+	</event>
+	<event id="7k" target="obj_fish1" >
+		<vector id="obj_fish1" pos="0.0201753,-2.01417" parent="homerect" src="7k_fish1" scalex="-0.723" scaley="0.723" zpos="3" />
+		<vector id="obj_fish2" pos="0.481064,-2.00082" parent="homerect" src="7k_fish2" scalex="0.722902" scaley="0.722902" zpos="3.001" />
+		<vector id="obj_fish3" pos="1.00057,-2.01971" parent="homerect" src="7k_fish3" scalex="-0.723" scaley="0.723" zpos="3.002" />
+	</event>
+	<event id="7l" target="obj_3" >
+		<vector id="obj_1" pos="0.0199983,-2.01621" parent="homerect" src="4h_sheep" scalex="1.05953" scaley="1.05953" zpos="3" />
+		<vector id="obj_2" pos="0.521891,-2.01621" parent="homerect" src="4h_sheep" scalex="-1.06" scaley="1.05953" zpos="3.001" />
+		<vector id="obj_3" pos="0.980857,-2.01621" parent="homerect" src="4h_sheep" scalex="-1.06" scaley="1.05953" zpos="3.002" />
+	</event>
+	<event id="7m" target="obj_dinosaur2" >
+		<vector id="obj_dinosaur1" pos="0.0261376,-2.12877" parent="homerect" src="7m_dinosaur1" scalex="-1.249" scaley="1.249" zpos="3" />
+		<vector id="obj_dinosaur2" pos="0.487167,-2.112" parent="homerect" src="7m_dinosaur2" scalex="-1.249" scaley="1.249" zpos="3.001" />
+		<vector id="obj_dinosaur3" pos="0.989638,-2.12733" parent="homerect" src="7m_dinosaur3" scalex="1.24872" scaley="1.24872" zpos="3.002" />
+	</event>
+	<event id="7n" target="obj_girl2" >
+		<vector id="obj_boy" pos="0.382324,0.494141" src="7n_boy" scalex="0.812547" scaley="0.812547" zpos="3.001" />
+		<vector id="obj_girl2" pos="0.634852,0.585477" src="7b_girl2" scalex="0.5504" scaley="0.5504" zpos="3" skinoffset="1" />
+	</event>
+	<event id="7o" target="obj_tree2" >
+		<vector id="obj_tree1" pos="0.253155,-1.97151" parent="homerect" src="7o_tree1" scalex="3.14444" scaley="3.14444" zpos="3" />
+		<vector id="obj_tree2" pos="0.702307,-2.40835" parent="homerect" src="7o_tree2" scalex="3.17113" scaley="3.17113" zpos="3.001" />
+	</event>
+	<event id="7p" target="obj_house1" >
+		<vector id="obj_house1" pos="0.296549,0.528778" src="7p_house1" scalex="2.94764" scaley="2.94764" zpos="3" />
+		<vector id="obj_house2" pos="0.706055,0.528778" src="7p_house2" scalex="2.948" scaley="2.948" zpos="3.001" />
+	</event>
+	<event id="7q" target="obj_pic1" >
+		<group id="obj_pic1"  pos="0.166335,-2.1529" parent="homerect" src="obj_pic1" zpos="3.001">
+			<vector id="7q_pic1" pos="0.284278,0.508464" src="7q_pic1" scalex="0.644093" scaley="0.644093" zpos="3" />
+			<rectangle id="Rectangle3" pos="0.497631,0.501614" parent="7q_pic1" src="Rectangle3" stroke="152,49,94" strokewidth="5" shadowcolour="0,0,0" shadowopacity="0.745837" shadowradius="3" shadowxoffset="1" shadowyoffset="1" zpos="3.001" x="-0.000846699" y="0.00130503" width="0.996956" height="1.00062" />
+		</group>
+		<group id="obj_pic2"  pos="0.862447,-1.97565" parent="homerect" src="obj_pic2" stroke="152,49,94" strokewidth="5" zpos="3">
+			<vector id="7q_pic2" pos="0.734695,0.526716" src="7q_pic2" scalex="0.359208" scaley="0.359208" zpos="3" />
+			<rectangle id="Rectangle2" pos="0.499112,0.502481" parent="7q_pic2" src="Rectangle2" stroke="152,49,94" strokewidth="5" shadowcolour="0,0,0" shadowopacity="0.745837" shadowradius="3" shadowxoffset="1" shadowyoffset="1" zpos="3.001" x="-0.00139501" y="0.00333405" width="1.00101" height="0.998294" />
+		</group>
+	</event>
+	<event id="7r" target="obj_umbrella2" >
+		<vector id="obj_umbrella1" pos="0.278328,0.544947" src="7r_umbrella1" scalex="1.1" scaley="1.1" rotation="20" zpos="3" />
+		<linearGradient id="Gradient10" >
+			<stop offset="0%" stop-color="rgb(0%,92.2%,96.7%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(2.72%,66.6%,63.2%)" stop-opacity="1"/>
+		</linearGradient>
+		<vector id="obj_umbrella2" pos="0.716637,0.53095" src="7r_umbrella" scalex="1.1" scaley="1.1" rotation="-20" fill="url(#Gradient10)"  zpos="3.001" />
+	</event>
+	<event id="7s" target="obj_2" >
+		<vector id="obj_1" pos="0.0123493,-1.9335" parent="homerect" src="7s_chair" scalex="1.031" scaley="1.031" zpos="3" />
+		<vector id="obj_2" pos="0.505603,-1.90835" parent="homerect" src="7s_chair" scalex="1.031" scaley="1.031" fill="23,201,201" zpos="3.002" />
+		<vector id="obj_3" pos="0.999729,-1.9332" parent="homerect" src="7s_chair" scalex="-1.031" scaley="1.031" fill="255,222,2" zpos="3.001" />
+	</event>
+	<event id="7t" target="obj_2" >
+		<vector id="obj_1" pos="0.17606,0.474691" src="7t_balloon" scalex="0.81477" scaley="0.81477" fill="254,40,57" zpos="3.003" />
+		<vector id="obj_2" pos="0.39172,0.589961" src="7t_balloon" scalex="0.81477" scaley="0.81477" fill="137,219,11" zpos="3.002" />
+		<vector id="obj_3" pos="0.609383,0.475677" src="7t_balloon" scalex="0.81477" scaley="0.81477" fill="0,96,206" zpos="3.001" />
+		<vector id="obj_4" pos="0.823242,0.589539" src="7t_balloon" scalex="0.81477" scaley="0.81477" zpos="3" />
+	</event>
+	<event id="7u" target="obj_4" >
+	</event>
+	<event id="7v" target="obj_3" >
+		<vector id="obj_1" pos="0.151949,0.499054" src="6_star" scalex="0.820747" scaley="0.820747" fill="254,251,0" zpos="3" />
+		<vector id="obj_2" pos="0.384394,0.499054" src="6_star" scalex="0.820747" scaley="0.820747" fill="188,188,187" zpos="3.001" />
+		<vector id="obj_3" pos="0.616839,0.499054" src="6_star" scalex="0.820747" scaley="0.820747" fill="0,96,206" zpos="3.002" />
+		<vector id="obj_4" pos="0.849284,0.499054" src="6_star" scalex="0.820747" scaley="0.820747" fill="255,255,255" zpos="3.003" />
+	</event>
+	<event id="7w" target="obj_3" >
+	</event>
+</events>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" subtitletextsize="48" colour="254,255,255" >
+		<linearGradient id="Gradient22" x1="1" y1="0.5" x2="-1.11022e-16" y2="0.5" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="gradient_left" pos="0.106104,0.0838039" src="gradient_left" fill="url(#Gradient22)"  zpos="0.007" x="0.0976562" y="-0.000360926" width="0.0168953" height="0.16833" />
+		<linearGradient id="Gradient22" x1="1" y1="0.5" x2="-1.11022e-16" y2="0.5" >
+			<stop offset="0%" stop-color="rgb(3.28%,4.02%,3.76%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="0.19859"/>
+		</linearGradient>
+		<rectangle id="gradient_right" pos="0.895166,0.0838039" src="gradient_right" rotation="180" fill="url(#Gradient22)"  zpos="0.01" x="0.886719" y="-0.000360926" width="0.0168953" height="0.16833" />
+		<rectangle id="playlist_mask" anchor="0,0.5" pos="0.0993538,0.0834885" src="playlist_mask" fill="255,206,1" zpos="0" x="0.0993538" y="-0.000991821" width="0.803967" height="0.168961" />
+		<rectangle id="top_bar_left" anchor="0,0.5" pos="-0.00390625,0.0993449" src="top_bar_left" fill="255,255,255" zpos="0.008" x="-0.00390625" y="-0.00703939" width="0.101562" height="0.212769" />
+		<rectangle id="top_bar_right" anchor="0,0.5" pos="0.90332,0.100647" src="top_bar_right" fill="255,255,255" zpos="0.009" x="0.90332" y="-0.0057373" width="0.100178" height="0.212769" />
+		<rectangle id="video_frame" pos="0.500488,0.582156" src="video_frame" fill="0,0,0" fillopacity="0.2" zpos="0.001" x="0.0976562" y="0.175379" width="0.805664" height="0.813553" />
+		<rectangle id="video_preview1" pos="0.197983,0.0832647" src="video_preview1" fill="255,37,0" fillopacity="0.646833" zpos="0.004" x="0.106567" y="0.0150757" width="0.182831" height="0.136378" />
+		<rectangle id="video_preview2" pos="0.381454,0.0832647" src="video_preview2" fill="255,37,0" fillopacity="0.646833" zpos="0.006" x="0.290039" y="0.0150757" width="0.182831" height="0.136378" />
+		<rectangle id="video_selector" pos="0.0985641,0.0823797" src="video_selector" fill="0,146,255" zpos="0.005" hidden="true" x="0.0732079" y="0.0520732" width="0.0507126" height="0.060613" />
+		<rectangle id="video_textbox" pos="0.500977,0.87827" src="video_textbox" fill="255,37,0" fillopacity="0.646833" zpos="0.003" hidden="true" x="0.106445" y="0.787511" width="0.789062" height="0.181519" />
+		<rectangle id="video_video" pos="0.500421,0.484022" src="video_video" fill="0,0,0" zpos="0.002" x="0.104492" y="0.185491" width="0.791858" height="0.597061" />
+	</event>
+</events>

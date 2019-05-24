@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="3a,3b,3c,3d,3e,3f,3g" colour="255,234,225" >
+		<linearGradient id="Gradient10" x1="0.405405" y1="1.06757" x2="0.594595" y2="-0.0675675" >
+			<stop offset="0%" stop-color="rgb(77.2%,93.8%,68.5%)" stop-opacity="1"/>
+			<stop offset="99.9055%" stop-color="rgb(67.2%,82.2%,61.1%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="floor" pos="0.5,0.884872" src="floor" fill="url(#Gradient10)"  stroke="166,179,144" strokewidth="5" zpos="0" x="-0.00585938" y="0.761932" width="1.01172" height="0.24588" />
+		<vector id="shelves" pos="0.387066,-1.12581" parent="floor" src="3_shelves" scalex="1.275" scaley="1.27503" zpos="0.001" />
+		<rectangle id="initialposition" pos="0.782709,0.833038" src="initialposition" fill="255,100,98" fillopacity="0.559677" zpos="1.003" hidden="true" x="0.773251" y="0.821604" width="0.0189171" height="0.0228678" />
+		<rectangle id="shelf1" pos="0.503875,0.126692" parent="shelves" src="shelf1" fill="255,100,98" fillopacity="0.559677" zpos="1" hidden="true" x="0.107062" y="0.1187" width="0.793625" height="0.0159843" />
+		<rectangle id="shelf2" pos="0.503875,0.443164" parent="shelves" src="shelf2" fill="255,100,98" fillopacity="0.559677" zpos="1.001" hidden="true" x="0.107062" y="0.435172" width="0.793625" height="0.0159843" />
+		<rectangle id="shelf3" pos="0.503875,0.779675" parent="shelves" src="shelf3" fill="255,100,98" fillopacity="0.559677" zpos="1.002" hidden="true" x="0.107062" y="0.771683" width="0.793625" height="0.0159843" />
+		<vector id="obj_books" pos="0.295799,0.414177" parent="shelves" src="3_books" scalex="1.05119" scaley="0.936125" zpos="2" />
+		<vector id="obj_car" pos="0.330432,0.741883" parent="shelves" src="3_car" scalex="0.120433" scaley="0.120433" zpos="2.001" />
+		<vector id="obj_crayons" pos="0.685686,0.761955" parent="shelves" src="3_crayons" scalex="0.201292" scaley="0.201292" zpos="2.002" />
+		<vector id="obj_flowers" pos="0.668579,-0.0129373" parent="shelves" src="3_flowers" scalex="0.79396" scaley="0.79396" zpos="2.003" />
+		<vector id="obj_oranges" pos="0.296796,0.0243552" parent="shelves" src="3_oranges" scalex="0.719896" scaley="0.719896" zpos="2.004" />
+		<group id="obj_picturegroup"  pos="0.477728,0.393089" src="obj_picturegroup" zpos="2.005">
+			<vector id="pictureframe" pos="0.477728,0.393089" src="3_pictureframe" scalex="1.43062" scaley="1.43062" zpos="2" />
+			<image id="picture" pos="0.489961,0.50074" parent="pictureframe" src="3_picture" scalex="0.520568" scaley="0.527826" zpos="2.001" />
+		</group>
+	</event>
+	<event id="3b" target="obj_oranges" >
+	</event>
+	<event id="3c" target="obj_car" >
+	</event>
+	<event id="3d" target="obj_books" >
+	</event>
+	<event id="3e" target="obj_flowers" >
+	</event>
+	<event id="3f" target="obj_picturegroup" >
+	</event>
+	<event id="3g" target="obj_crayons" >
+	</event>
+	<event id="masterb" scenes="3h,3i,3j,3k,3l,3m,3n,3o,3p" colour="255,234,225" >
+		<linearGradient id="Gradient10" x1="0.405405" y1="1.06757" x2="0.594595" y2="-0.0675675" >
+			<stop offset="0%" stop-color="rgb(77.2%,93.8%,68.5%)" stop-opacity="1"/>
+			<stop offset="99.9055%" stop-color="rgb(67.2%,82.2%,61.1%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="floor" pos="0.5,0.884872" src="floor" fill="url(#Gradient10)"  stroke="166,179,144" strokewidth="5" zpos="0" x="-0.00585938" y="0.761932" width="1.01172" height="0.24588" />
+	</event>
+	<event id="3h" target="bottom" >
+		<vector id="main" pos="0.502731,0.606771" src="3_drawers" scalex="1.41017" scaley="1.41017" zpos="2" />
+		<vector id="other" pos="0.366747,0.274209" src="3_flowers" scalex="0.854623" scaley="0.854623" zpos="2.001" />
+	</event>
+	<event id="3i" target="top" >
+	</event>
+	<event id="3j" target="middle" >
+	</event>
+	<event id="3k" target="middle" >
+		<vector id="main" pos="0.493694,0.594894" src="3_boxes" scalex="2.06117" scaley="2.06117" zpos="2" />
+	</event>
+	<event id="3l" target="top" >
+	</event>
+	<event id="3m" target="bottom" >
+		<group id="main"  pos="0.419922,0.413744" src="main" zpos="2.001">
+			<group id="bottom"  pos="0.343805,0.631172" src="bottom" stroke="133,65,39" strokewidth="4" zpos="2.002">
+				<vector id="picbottom" pos="0.344242,0.631125" src="3_fishingpic" scalex="0.416985" scaley="0.416985" zpos="2.001" />
+				<rectangle id="backbottom" pos="0.497156,0.501996" parent="picbottom" src="backbottom" fill="4,51,255" shadowcolour="0,0,0" shadowopacity="0.391053" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="2" x="-0.00504901" y="0.00350003" width="1.00441" height="0.996992" />
+				<rectangle id="framebottom" pos="0.497156,0.501996" parent="picbottom" src="framebottom" stroke="133,65,39" strokewidth="4" shadowcolour="0,0,0" shadowopacity="0.169223" shadowradius="0" shadowxoffset="1" shadowyoffset="1" zpos="2.002" x="-0.00504901" y="0.00350003" width="1.00441" height="0.996992" />
+			</group>
+			<group id="middle"  pos="0.416643,0.409014" src="middle" stroke="133,65,39" strokewidth="4" zpos="2.001">
+				<vector id="picmiddle" pos="0.416725,0.40876" src="3_birdpic" scalex="0.273374" scaley="0.273374" zpos="2.001" />
+				<rectangle id="backmiddle" pos="0.49863,0.503733" parent="picmiddle" src="backmiddle" shadowcolour="0,0,0" shadowopacity="0.391053" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="2" x="-0.00101246" y="0.00491616" width="0.999285" height="0.997634" />
+				<rectangle id="framemiddle" pos="0.49863,0.503733" parent="picmiddle" src="framemiddle" stroke="133,65,39" strokewidth="4" shadowcolour="0,0,0" shadowopacity="0.169223" shadowradius="0" shadowxoffset="1" shadowyoffset="1" zpos="2.002" x="-0.00101246" y="0.00491616" width="0.999285" height="0.997634" />
+			</group>
+			<group id="top"  pos="0.419922,0.186849" src="top" stroke="133,65,39" strokewidth="4" zpos="2">
+				<vector id="pictop" pos="0.419922,0.186849" src="3_trainpic" scalex="0.369087" scaley="0.369087" zpos="2.001" />
+				<rectangle id="backtop" pos="0.501593,0.499723" parent="pictop" src="backtop" fill="4,51,255" shadowcolour="0,0,0" shadowopacity="0.391053" shadowradius="3" shadowxoffset="5" shadowyoffset="5" zpos="2" x="0.004678" y="0.00347761" width="0.993829" height="0.992491" />
+				<rectangle id="frametop" pos="0.501593,0.499723" parent="pictop" src="frametop" stroke="133,65,39" strokewidth="4" shadowcolour="0,0,0" shadowopacity="0.169223" shadowradius="0" shadowxoffset="1" shadowyoffset="1" zpos="2.002" x="0.004678" y="0.00347761" width="0.993829" height="0.992491" />
+			</group>
+		</group>
+		<vector id="other" pos="0.813965,0.654948" src="3_chair" scalex="0.971371" scaley="0.971371" zpos="2" />
+	</event>
+	<event id="3n" target="top" >
+	</event>
+	<event id="3o" target="top" >
+		<group id="main"  pos="0.409132,0.39031" src="main" shadowcolour="0,0,0" shadowopacity="0.205805" shadowradius="3" shadowxoffset="3" shadowyoffset="3" zpos="2.001">
+			<rectangle id="otherbackrect" pos="0.409132,0.39031" src="otherbackrect" fill="255,100,98" fillopacity="0.559677" stroke="129,129,129" strokewidth="2" zpos="2" hidden="true" widthtracksheight="true" x="0.343151" y="0.0315501" width="0.131962" height="0.717519" pxwidth="135.129" pxheight="551.055" />
+			<vector id="bottom" pos="0.535768,0.895229" parent="otherbackrect" src="3_star" scalex="2.01918" scaley="2.01918" fill="255,156,2" zpos="2.005" />
+			<vector id="middle" pos="0.521199,0.540944" parent="otherbackrect" src="3_star" scalex="2.01918" scaley="2.01918" fill="236,50,186" zpos="2.004" />
+			<vector id="middleish" pos="0.533335,0.715358" parent="otherbackrect" src="3_star" scalex="1.73459" scaley="1.73459" fill="138,197,62" zpos="2.006" />
+			<circle id="nail" pos="0.522562,0.0316084" parent="otherbackrect" src="nail" fill="188,188,188" stroke="114,117,119" strokewidth="1" zpos="2.007" x="0.47816" y="0.0207202" width="0.0888041" height="0.0217764" />
+			<path id="thread" pos="0.522562,0.443152" parent="otherbackrect" src="thread" fill="188,188,188" stroke="129,129,129" strokewidth="2" zpos="2.001" d="M0.5226 0.03225L0.5226 0.8541" />
+			<vector id="top" pos="0.536722,0.173637" parent="otherbackrect" src="3_star" scalex="2.01918" scaley="2.01918" zpos="2.002" />
+			<vector id="topish" pos="0.538509,0.360775" parent="otherbackrect" src="3_star" scalex="1.73459" scaley="1.73459" fill="248,235,49" zpos="2.003" />
+		</group>
+		<vector id="other" pos="0.813965,0.654948" src="3_chair" scalex="0.971371" scaley="0.971371" zpos="2" />
+	</event>
+	<event id="3p" target="bottom" >
+	</event>
+</events>

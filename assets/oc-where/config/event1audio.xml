@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170620.085053992">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowtouchthecupboarddoor</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_nowtouchthecupboarddoor</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>1_nowtouchthecupboarddoor</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b3">
+		<phrasegroup id="DEMO">
+			<phrase>1_itopens</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="DEMO">
+			<phrase>1_look</phrase>
+			<phrase>1_thisbatisinsidethecupboard</phrase>
+			<phrase>1_thisdrumisoutsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_choosetheshoethatisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetheshoethatisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheshoethatisinsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheshoethatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetheshoethatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheshoethatisoutsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheschoolbagthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetheschoolbagthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheschoolbagthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheschoolbagthatisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetheschoolbagthatisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheschoolbagthatisinsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichclockisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichclockisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichclockisoutsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichbookisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichbookisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichbookisinsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetheballthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetheballthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetheballthatisoutsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichdrumisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichdrumisinsidethecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichdrumisinsidethecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowtouchthiscupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthiscupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_takethebluebowloutofthecupboardandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_takethebluebowloutofthecupboardandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>1_touchthebluebowlanddragitontothetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_movethebluebowlontothetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>1_movethebluebowlontothetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_taketheyellowjugoutofthecupboardandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_movetheyellowjugontothetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_movetheyellowjugontothetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_lookatthewhiteplateonthetable</phrase>
+			<phrase>1_putitintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_putthewhiteplateintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_putthewhiteplateintothecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putthegreencupintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_putthegreencupintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_putthegreencupintothecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putthebluetinintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_putthebluetinintothecupboard</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_putthebluetinintothecupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowtakeeverythingoutofthecupboardandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_takeeverythingoutofthecupboardandputitonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_verygoodyouchosethingsthatwereinsideandoutsideacupboardandyoumovedthingsintoandoutofacupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

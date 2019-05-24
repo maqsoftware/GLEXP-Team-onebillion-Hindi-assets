@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="2a,2b,2c,2d,2e,2f,2g,2h,2i" gradienttop="239,245,225" gradientbottom="245,245,230" >
+		<rectangle id="floor" pos="0.5,0.86263" src="floor" fill="217,216,171" stroke="209,182,156" strokewidth="9" zpos="0" x="-0.00976562" y="0.71224" width="1.01953" height="0.300781" />
+		<rectangle id="Rectangle2" pos="0.851988,0.501302" src="Rectangle2" fill="255,255,255" stroke="209,182,156" strokeopacity="0.556911" strokewidth="1" zpos="0.001" x="0.696667" y="0" width="0.310642" height="1.0026" />
+		<vector id="obj_table" pos="0.35498,0.64974" src="2_table" scalex="1.05957" scaley="1.05957" zpos="1" />
+		<vector id="obj_bag" pos="0.709952,0.566338" parent="obj_table" src="1_inbag" scalex="0.280001" scaley="0.280001" zpos="1.01" />
+		<vector id="obj_ball" pos="0.259841,0.499724" parent="Rectangle2" src="1_inball" scalex="0.851915" scaley="0.851915" zpos="1.009" />
+		<vector id="obj_blueshoe" pos="0.284025,0.179246" parent="Rectangle2" src="2_blueshoe" scalex="-0.384" scaley="0.384225" zpos="1.002" />
+		<vector id="obj_cake" pos="0.59948,0.843813" parent="Rectangle2" src="2_cake" scalex="0.299612" scaley="0.299612" zpos="1.003" />
+		<vector id="obj_glass" pos="0.199108,0.692994" parent="Rectangle2" src="2_glass" scalex="0.875732" scaley="0.875732" zpos="1.004" />
+		<vector id="obj_newspaper" pos="0.661818,0.401423" parent="Rectangle2" src="2_newspaper" scalex="0.659661" scaley="0.659661" zpos="1.005" />
+		<vector id="obj_pencil" pos="0.278529,0.352331" parent="Rectangle2" src="2_pencil" scalex="0.380919" scaley="0.380919" rotation="12.5123" zpos="1.006" />
+		<vector id="obj_spoon" pos="0.577474,0.261087" parent="Rectangle2" src="2_spoon" scalex="0.369017" scaley="0.369017" rotation="-68.5041" zpos="1.007" />
+		<vector id="obj_train" pos="0.653735,0.629594" parent="Rectangle2" src="2_train" scalex="0.552282" scaley="0.552282" zpos="1.008" />
+		<vector id="obj_yellowjug" pos="0.303693,-0.0333746" parent="obj_table" src="2_yellowjug" scalex="1.57273" scaley="1.57273" zpos="1.001" />
+		<rectangle id="destbottom" pos="0.501556,0.73296" parent="obj_table" src="destbottom" fill="255,38,0" fillopacity="0.311844" zpos="2" hidden="true" x="0.0244363" y="0.382443" width="0.954239" height="0.701035" />
+		<rectangle id="desttop" pos="0.502921,-0.0620976" parent="obj_table" src="desttop" fill="255,38,0" fillopacity="0.311844" zpos="2.001" hidden="true" x="0.0230565" y="-0.293755" width="0.95973" height="0.463315" />
+	</event>
+	<event id="2ax" >
+		<vector id="obj_bag" pos="0.709952,0.566338" parent="obj_table" src="1_inbag" scalex="0.280001" scaley="0.280001" zpos="5.009" dest="bottom" />
+		<vector id="obj_ball" pos="0.257907,0.717863" parent="obj_table" src="1_inball" scalex="0.851915" scaley="0.851915" zpos="5.008" dest="bottom" />
+		<vector id="obj_blueshoe" pos="0.476515,0.636362" parent="obj_table" src="2_blueshoe" scalex="-0.384" scaley="0.384225" zpos="5.001" dest="bottom" />
+		<vector id="obj_cake" pos="0.589227,0.0369704" parent="obj_table" src="2_cake" scalex="0.299612" scaley="0.299612" zpos="5.002" dest="top" />
+		<vector id="obj_glass" pos="0.118255,0.048853" parent="obj_table" src="2_glass" scalex="0.875732" scaley="0.875732" zpos="5.003" dest="top" />
+		<vector id="obj_newspaper" pos="0.834831,0.105649" parent="obj_table" src="2_newspaper" scalex="0.659661" scaley="0.659661" zpos="5.004" dest="top" />
+		<vector id="obj_pencil" pos="0.398552,0.85558" parent="obj_table" src="2_pencil" scalex="0.380919" scaley="0.380919" rotation="12.5123" zpos="5.005" dest="bottom" />
+		<vector id="obj_spoon" pos="0.336332,0.0952166" parent="obj_table" src="2_spoon" scalex="0.369017" scaley="0.369017" rotation="-68.5041" zpos="5.006" dest="top" />
+		<vector id="obj_train" pos="0.716169,0.810163" parent="obj_table" src="2_train" scalex="0.552282" scaley="0.552282" zpos="5.007" dest="bottom" />
+		<vector id="obj_yellowjug" pos="0.303693,-0.0333746" parent="obj_table" src="2_yellowjug" scalex="1.57273" scaley="1.57273" zpos="5" dest="top" />
+	</event>
+	<event id="2b" target="obj_ball" >
+	</event>
+	<event id="2c" target="obj_glass" >
+	</event>
+	<event id="2d" target="obj_spoon" >
+	</event>
+	<event id="2e" target="obj_blueshoe" >
+	</event>
+	<event id="2f" target="obj_pencil" >
+	</event>
+	<event id="2g" target="obj_newspaper" >
+	</event>
+	<event id="2h" target="obj_train" >
+	</event>
+	<event id="2i" target="obj_cake" >
+	</event>
+	<event id="masterb" scenes="2j,2k,2l,2m,2n,2o,2p" gradienttop="239,245,225" gradientbottom="245,245,230" >
+		<rectangle id="floor" pos="0.5,0.855469" src="floor" fill="217,216,171" stroke="209,182,156" strokewidth="9" zpos="0" x="-0.00976562" y="0.697917" width="1.01953" height="0.315104" />
+		<vector id="2_widetable" pos="0.5,-0.225207" parent="floor" src="2_widetable" scalex="1.06352" scaley="1.06352" zpos="0.001" />
+		<vector id="obj_bluebook" pos="0.807954,0.0649323" parent="2_widetable" src="2_bluebook" scalex="1.11129" scaley="0.594768" rotation="-7.41385" zpos="1.007" />
+		<vector id="obj_greenjug" pos="0.299485,-0.0374434" parent="2_widetable" src="2_greenjug" scalex="1.21509" scaley="1.21509" zpos="1" />
+		<vector id="obj_handbag" pos="0.568399,0.582788" parent="2_widetable" src="2_handbag" scalex="0.75363" scaley="0.75363" zpos="1.001" />
+		<vector id="obj_newspaper" pos="0.624191,0.0743963" parent="2_widetable" src="2_newspaper" scalex="0.61008" scaley="0.61008" zpos="1.002" />
+		<vector id="obj_pinkbook" pos="0.182509,0.819653" parent="2_widetable" src="2_book" scalex="1.14996" scaley="0.875052" zpos="1.005" />
+		<vector id="obj_present" pos="0.363439,0.656448" parent="2_widetable" src="2_present" scalex="0.928906" scaley="0.928906" zpos="1.003" />
+		<vector id="obj_redtinbottom" pos="0.852692,0.833093" parent="2_widetable" src="2_redtin" scalex="0.485121" scaley="0.485121" zpos="1.006" />
+		<vector id="obj_redtintop" pos="0.145852,-0.0391216" parent="2_widetable" src="2_redtin" scalex="0.42851" scaley="0.42851" zpos="1.009" />
+		<vector id="obj_yellowbowl" pos="0.458757,0.0586524" parent="2_widetable" src="2_yellowbowl" scalex="0.725139" scaley="0.725139" zpos="1.008" />
+		<vector id="obj_yellowjug" pos="0.752117,0.613969" parent="2_widetable" src="2_yellowjug" scalex="1.67956" scaley="1.67956" zpos="1.004" />
+	</event>
+	<event id="2j" target="obj_bluebook" >
+	</event>
+	<event id="2k" target="obj_yellowjug" >
+	</event>
+	<event id="2l" target="obj_redtinbottom" >
+	</event>
+	<event id="2m" target="obj_present" >
+	</event>
+	<event id="2n" target="obj_yellowbowl" >
+	</event>
+	<event id="2o" target="obj_handbag" >
+	</event>
+	<event id="2p" target="obj_pinkbook" >
+	</event>
+</events>
