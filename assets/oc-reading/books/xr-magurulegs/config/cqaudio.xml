@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.101012920">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_theseanimalslookfunnywithoutlegs</phrase>
+			<phrase>cq_seeifyoucannamethemall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lookatmaguruscrownandbeardandhisloudspeaker</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_dotheanimalswantlegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_no</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theyarehappyandexcited</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_magurulivesatthetopofthemountaintouchhishouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theanimalsareclimbinguptogetlegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchthehouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanylegsdidthebirdget</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thebirdgottwolegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howdoesthemillipedefeelnow</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_happy</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_sad</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_themillipedeisveryhappyhegotlotsoflegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_poorsnakecanmaguruhelphimletssee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p11">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_nowyouknowwhysnakeshavenolegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Walipoamka, watu walifanya kazi mashambani. Lakini hakukuwa na mawio ya kuwaambia muda gani hasa wa kuanza kazi, hivyo walikuwa hawaamki muda mmoja." frames="1620780">
+		<timing id="0" start="0.000" end="1.284" startframe="0" framelength="56623" text="Walipoamka"/>
+		<timing id="1" start="1.793" end="2.940" startframe="79063" framelength="50589" text="watu"/>
+		<timing id="2" start="3.337" end="4.793" startframe="147154" framelength="64201" text="walifanya"/>
+		<timing id="3" start="5.394" end="6.327" startframe="237870" framelength="41150" text="kazi"/>
+		<timing id="4" start="6.813" end="8.260" startframe="300473" framelength="63807" text="mashambani"/>
+		<timing id="5" start="8.656" end="9.903" startframe="381750" framelength="54971" text="Lakini"/>
+		<timing id="6" start="10.449" end="11.754" startframe="460795" framelength="57545" text="hakukuwa"/>
+		<timing id="7" start="12.209" end="12.984" startframe="538418" framelength="34198" text="na"/>
+		<timing id="8" start="13.697" end="14.917" startframe="604031" framelength="53827" text="mawio"/>
+		<timing id="9" start="15.602" end="16.300" startframe="688041" framelength="30777" text="ya"/>
+		<timing id="10" start="16.490" end="17.998" startframe="727200" framelength="66521" text="kuwaambia"/>
+		<timing id="11" start="18.501" end="19.480" startframe="815910" framelength="43179" text="muda"/>
+		<timing id="12" start="20.058" end="21.148" startframe="884557" framelength="48058" text="gani"/>
+		<timing id="13" start="21.667" end="22.665" startframe="955497" framelength="44049" text="hasa"/>
+		<timing id="14" start="23.276" end="24.078" startframe="1026478" framelength="35375" text="wa"/>
+		<timing id="15" start="24.712" end="25.835" startframe="1089795" framelength="49535" text="kuanza"/>
+		<timing id="16" start="26.585" end="27.540" startframe="1172382" framelength="42148" text="kazi"/>
+		<timing id="17" start="28.063" end="29.069" startframe="1237598" framelength="44323" text="hivyo"/>
+		<timing id="18" start="29.467" end="30.761" startframe="1299506" framelength="57047" text="walikuwa"/>
+		<timing id="19" start="31.213" end="32.719" startframe="1376513" framelength="66378" text="hawaamki"/>
+		<timing id="20" start="33.008" end="34.061" startframe="1455660" framelength="46448" text="muda"/>
+		<timing id="21" start="34.390" end="35.701" startframe="1516614" framelength="57786" text="mmoja"/>
+	</timings>
+</xml>

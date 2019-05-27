@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+			<phrase>3_somethingismissingfromthepattern</phrase>
+			<phrase>3_thatsit</phrase>
+			<phrase>3_shoe</phrase>
+			<phrase>3_sock</phrase>
+			<phrase>3_shoe</phrase>
+			<phrase>3_sock</phrase>
+			<phrase>3_shoe</phrase>
+			<phrase>3_sock</phrase>
+			<phrase>3_shoe</phrase>
+			<phrase>3_sock</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_somethingismissingfromthepattern</phrase>
+			<phrase>3_fillitin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthing</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whatismissingfromthispattern</phrase>
+			<phrase>3_fillitin</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthing_3c</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_fillinthemissingthing_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthing_3d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thistimetwothingsaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_dothisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_trythis</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_dothis</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_herethreethingsaremissing</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3k</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_fillinthemissingthings_3m</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_goodyoufilledinwhatwasmissinginthepatterns</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="“Hapana,” alisema Neema. “Itabidi nitafute chakula. Sina muda wa kusaidia wanawake vizee.”" frames="771243">
+		<timing id="0" start="0.000" end="0.860" startframe="0" framelength="37912" text="Hapana"/>
+		<timing id="1" start="1.348" end="2.419" startframe="59462" framelength="47230" text="alisema"/>
+		<timing id="2" start="2.901" end="3.823" startframe="127944" framelength="40657" text="Neema"/>
+		<timing id="3" start="4.434" end="5.418" startframe="195561" framelength="43374" text="Itabidi"/>
+		<timing id="4" start="6.035" end="7.094" startframe="266141" framelength="46698" text="nitafute"/>
+		<timing id="5" start="7.781" end="8.662" startframe="343133" framelength="38852" text="chakula"/>
+		<timing id="6" start="9.356" end="10.249" startframe="412620" framelength="39344" text="Sina"/>
+		<timing id="7" start="10.907" end="11.549" startframe="481004" framelength="28299" text="muda"/>
+		<timing id="8" start="12.240" end="12.962" startframe="539781" framelength="31822" text="wa"/>
+		<timing id="9" start="13.485" end="14.527" startframe="594670" framelength="45966" text="kusaidia"/>
+		<timing id="10" start="15.018" end="16.101" startframe="662299" framelength="47742" text="wanawake"/>
+		<timing id="11" start="16.680" end="17.489" startframe="735591" framelength="35652" text="vizee"/>
+	</timings>
+</xml>

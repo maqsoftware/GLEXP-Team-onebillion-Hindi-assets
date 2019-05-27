@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_look</phrase>
+			<phrase>1_abanana</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_touchittodrawit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthebananatodrawit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowrubyourfingeroveryourdrawingtocolouritin</phrase>
+			<phrase>1_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REMINDER">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="DEMO">
+			<phrase>1_lookadrawingisflat</phrase>
+			<phrase>1_wesayitistwodimensionalortwod</phrase>
+			<phrase>1_thissaystwod</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_abananaisnotflat</phrase>
+			<phrase>1_itisthreed</phrase>
+			<phrase>1_thissaysthreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nextanorange</phrase>
+			<phrase>1_touchittodrawit_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheorangetodrawit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR">
+			<phrase>1_nowcolourinyourdrawing</phrase>
+			<phrase>1_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD">
+			<phrase>1_whichshapeisflatlikeacircle</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD.REPEAT">
+			<phrase>1_whichshapeisflatlikeacircle</phrase>
+			<phrase>1_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_whichshapeisflatlikeacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesthedrawingisflat</phrase>
+			<phrase>1_itistwod</phrase>
+			<phrase>1_anorangeisroundandthicklikeaball</phrase>
+			<phrase>1_itisthreed_1e</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_anapple</phrase>
+			<phrase>1_touchittodrawit_1h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchtheappletodrawit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR">
+			<phrase>1_colourinyourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD">
+			<phrase>1_whichoneislikeaball</phrase>
+			<phrase>1_chooseit_1h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD.REPEAT">
+			<phrase>1_whichoneislikeaball</phrase>
+			<phrase>1_chooseit_1h</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_whichoneislikeaball</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesanappleisroundandthicklikeaball</phrase>
+			<phrase>1_itisthreed_1h</phrase>
+			<phrase>1_yourdrawingistwod</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowacandleinacandlestick</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthecandle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR">
+			<phrase>1_colourinyourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD">
+			<phrase>1_choosethetwodshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTD.REPEAT">
+			<phrase>1_choosethetwodshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_lookagain</phrase>
+			<phrase>1_whichshapeisflat</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesadrawingisflat</phrase>
+			<phrase>1_itistwod_1k</phrase>
+			<phrase>1_acandleisnotflatitisthreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_abookmakeadrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthebook</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR">
+			<phrase>1_colouritin</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_lookitsarectangle</phrase>
+			<phrase>1_arectangleisaflatshapeitistwod</phrase>
+			<phrase>1_abookhasthickness</phrase>
+			<phrase>1_abookisthreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="PROMPT">
+			<phrase>1_andthelastoneatoybrickdrawit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthebricktodrawit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR">
+			<phrase>1_colourinyourdrawing_1q</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPTCOLOUR.REPEAT">
+			<phrase>1_rubyourfingeralloveryourdrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsasquare</phrase>
+			<phrase>1_asquareisaflatshapeitistwod</phrase>
+			<phrase>1_atoybrickhasthickness</phrase>
+			<phrase>1_itisthreed_1q</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_aballoon</phrase>
+			<phrase>1_acircle</phrase>
+			<phrase>1_abox</phrase>
+			<phrase>1_arectangle</phrase>
+			<phrase>1_ajarofhoney</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichshapesarethreedchoosethem</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethethreedshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_acircleistwod</phrase>
+			<phrase>1_choosethethreedshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>1_arectangleistwod</phrase>
+			<phrase>1_choosethethreedshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_rightballoonsandboxesandjarshavethicknesstheyarethreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1u">
+		<phrasegroup id="DEMO">
+			<phrase>1_lookatthese</phrase>
+			<phrase>1_atriangle</phrase>
+			<phrase>1_ashoe</phrase>
+			<phrase>1_anegg</phrase>
+			<phrase>1_ahexagon</phrase>
+			<phrase>1_abottleofwater</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetwodshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethetwodshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetwodshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_atriangleandhexagonareflat</phrase>
+			<phrase>1_theyaretwod</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1v">
+		<phrasegroup id="DEMO">
+			<phrase>1_andthelastset</phrase>
+			<phrase>1_acircle</phrase>
+			<phrase>1_apentagon</phrase>
+			<phrase>1_asquare</phrase>
+			<phrase>1_atomato</phrase>
+			<phrase>1_arectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethethreedshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethethreedshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethethreedshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_youcanholdatomatoandfeelitsthicknessatomatoisthreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1w">
+		<phrasegroup id="DEMO">
+			<phrase>1_soletscheck</phrase>
+			<phrase>1_acircle</phrase>
+			<phrase>1_asquare</phrase>
+			<phrase>1_arectangle</phrase>
+			<phrase>1_atriangle</phrase>
+			<phrase>1_apentagon</phrase>
+			<phrase>1_ahexagon</phrase>
+			<phrase>1_thesearealltwodshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1x">
+		<phrasegroup id="DEMO">
+			<phrase>1_andnext</phrase>
+			<phrase>1_abanana</phrase>
+			<phrase>1_ashoe</phrase>
+			<phrase>1_abook</phrase>
+			<phrase>1_abottleofwater</phrase>
+			<phrase>1_anapple</phrase>
+			<phrase>1_thesethingsarethreed</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldoneyoulearnedabouttwodshapesandthreedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide">
+			<phrase>slide_whistle_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="text">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="popon">
+			<phrase>single_beep_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="roll">
+			<phrase>drop_apple</phrase>
+		</phrasegroup>
+		<phrasegroup id="tumble">
+			<phrase>dice_roll_close_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

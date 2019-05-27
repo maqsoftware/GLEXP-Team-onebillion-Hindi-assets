@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159px" height="159px" viewBox = "0 0 159 159">
+<g transform="translate(0,159) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="circle" d="M79.96 149.9c38.6 0 70-31.3 70-70c0-38.6-31.3-70-70-70c-38.6 0-70 31.3-70 70c0 38.6 31.3 70 70 70Z" stroke="rgb(76.6%,64.2%,93.5%)" stroke-width="4.167" fill="rgb(91%,84.3%,100%)"  />
+		<g id="sign" >
+			<path id="Text2" d="M56.4 72.56c-2.08 0-3.12 1.74-3.12 5.22L53.28 79.4c0 3.48 1.04 5.22 3.12 5.22L106.7 84.62c2 0 3-1.74 3-5.22L109.7 77.78c0-3.48-1-5.22-3-5.22L56.4 72.56Z" stroke="rgb(76.6%,64.2%,93.5%)" stroke-width="6" fill="rgb(100%,100%,100%)"  />
+			<path id="Line1Stroke" d="M106.5 83.34L57.8 83.34L57.8 83.34c-2.96 0-5.37-2.4-5.37-5.37c0-2.96 2.4-5.37 5.37-5.37L106.5 72.6L106.5 72.6c2.96 0 5.37 2.4 5.37 5.37c0 2.96-2.4 5.37-5.37 5.37Z" stroke="rgb(76.6%,64.2%,93.5%)" stroke-width="6" fill="rgb(100%,100%,100%)"  />
+			<path id="Line1Stroke copy" d="M106.5 83.34L57.8 83.34L57.8 83.34c-2.96 0-5.37-2.4-5.37-5.37c0-2.96 2.4-5.37 5.37-5.37L106.5 72.6L106.5 72.6c2.96 0 5.37 2.4 5.37 5.37c0 2.96-2.4 5.37-5.37 5.37Z" stroke="none" fill="rgb(100%,100%,100%)"  />
+		</g>
+	</g>
+</g>
+</svg>

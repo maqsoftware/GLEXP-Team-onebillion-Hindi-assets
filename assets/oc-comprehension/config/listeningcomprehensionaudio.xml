@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180420.120954203">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>listencomp_nowyoulllistentoastory</phrase>
+			<phrase>listencomp_andanswersomequestions</phrase>
+			<phrase>listencomp_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>listencomp_nowyoulllistentoastory</phrase>
+			<phrase>listencomp_andanswersomequestions</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>listencomp_touchthestoryboxandlistencarefully</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>listencomp_touchthestoryboxandlistencarefully</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>listencomp_youcanlistenagainifyoulike</phrase>
+			<phrase>listencomp_ortouchthearrowforthequestions</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>listencomp_nowtouchthearrowforthequestions</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>listencomp_youcanlistenagainifyoulike</phrase>
+			<phrase>listencomp_ortouchthearrowforthequestions</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>listencomp_nowtouchthearrowforthequestions</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>listencomp_chooseyouranswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>listencomp_chooseyouranswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>listencomp_chooseyouranswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>listencomp_listen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>listencomp_goodyoulistenedandansweredquestions</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="buttonactive">
+			<phrase>click_pop</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>click_hard_wood</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowtouch">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="mcbuttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="fullquestion">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="mctouch">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpress">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="newquestion">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

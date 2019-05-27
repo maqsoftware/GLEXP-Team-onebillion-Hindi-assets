@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_look</phrase>
+			<phrase>5_threeapples</phrase>
+			<phrase>5_takeawayoneapple</phrase>
+			<phrase>5_thatleavestwoapples</phrase>
+			<phrase>5_touchtwo</phrase>
+			<phrase>5_lookhowweshowit</phrase>
+			<phrase>5_thissignmeanstakeaway</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_two_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="DEMO">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_fourapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_touchthreeapplestotakethemaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_touchthreeapplestotakethemaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyapplesareleft</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyapplesareleft</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_howmanyapplesareleft</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_four</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_one_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="DEMO">
+			<phrase>5_fiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaytwoapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawaytwoapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyapplesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyapplesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanyapplesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_five</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_three_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="DEMO">
+			<phrase>5_fivesweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfoursweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfoursweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanysweetsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanysweetsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagainhowmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_five</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_one_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="DEMO">
+			<phrase>5_threesweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaythreesweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawaythreesweets</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanysweetsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanysweetsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagainhowmanysweetsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_three</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_zero_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="DEMO">
+			<phrase>5_sixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaythreecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawaythreecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_six</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_three_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="DEMO">
+			<phrase>5_sixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfivecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagainhowmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_six</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_one_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="DEMO">
+			<phrase>5_sevenoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfiveoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfiveoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagainhowmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_seven</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_two_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="DEMO">
+			<phrase>5_sevenoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaytwooranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawaytwooranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanyorangesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_seven</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_five_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="DEMO">
+			<phrase>5_eightbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfourbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfourbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eight</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_four_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="DEMO">
+			<phrase>5_eightbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfivebananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfivebananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanybananasareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eight</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_three_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="DEMO">
+			<phrase>5_ninebottlesofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawaythreebottles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawaythreebottles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_nine</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_six_end</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="DEMO">
+			<phrase>5_tenbottlesofjuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_takeawayfivebottles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_takeawayfivebottles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_howmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagainhowmanybottlesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_ten</phrase>
+			<phrase>5_takeaway</phrase>
+			<phrase>5_five</phrase>
+			<phrase>5_equals</phrase>
+			<phrase>5_five_end</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_verygoodyoupractisedtakingawayandyoumetthesignthatmeanstakeaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

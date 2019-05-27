@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Buibui Anansi na rafiki yake Sungura waliishi kijijini. Sungura aliotesha mboga mboga nyingi alizogawana na Anansi." frames="401156">
+		<timing id="0" start="0.000" end="0.552" startframe="0" framelength="24323" text="Buibui"/>
+		<timing id="1" start="0.552" end="1.151" startframe="24323" framelength="26446" text="Anansi"/>
+		<timing id="2" start="1.151" end="1.296" startframe="50769" framelength="6397" text="na"/>
+		<timing id="3" start="1.296" end="1.688" startframe="57166" framelength="17263" text="rafiki"/>
+		<timing id="4" start="1.688" end="2.003" startframe="74429" framelength="13882" text="yake"/>
+		<timing id="5" start="2.003" end="2.612" startframe="88311" framelength="26861" text="Sungura"/>
+		<timing id="6" start="2.612" end="3.253" startframe="115172" framelength="28281" text="waliishi"/>
+		<timing id="7" start="3.253" end="4.001" startframe="143453" framelength="32973" text="kijijini"/>
+		<timing id="8" start="4.642" end="5.377" startframe="204693" framelength="32451" text="Sungura"/>
+		<timing id="9" start="5.377" end="6.083" startframe="237144" framelength="31102" text="aliotesha"/>
+		<timing id="10" start="6.083" end="6.380" startframe="268246" framelength="13111" text="mboga"/>
+		<timing id="11" start="6.380" end="6.766" startframe="281357" framelength="17006" text="mboga"/>
+		<timing id="12" start="6.766" end="7.396" startframe="298363" framelength="27781" text="nyingi"/>
+		<timing id="13" start="7.396" end="8.353" startframe="326144" framelength="42232" text="alizogawana"/>
+		<timing id="14" start="8.353" end="8.531" startframe="368376" framelength="7837" text="na"/>
+		<timing id="15" start="8.531" end="9.097" startframe="376213" framelength="24943" text="Anansi"/>
+	</timings>
+</xml>

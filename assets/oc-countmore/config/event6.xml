@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="6a,6b,6c,6d,6e,6f,6g,6h" gradienttop="145,255,243" gradientbottom="200,251,245" colour_highlight="255,249,94" colour_num="25,63,105" colour_highlight2="138,138,138" colour="155,155,155" >
+		<rectangle id="workrect" pos="0.495081,0.517789" src="workrect" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.214069" y="0.0901184" width="0.562023" height="0.855342" pxwidth="575.512" pxheight="656.902" />
+		<circle id="obj_1" pos="0.408461,0.159145" parent="workrect" src="obj_1" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.001" hidden="true" x="0.334722" y="0.0945429" width="0.147477" height="0.129205" />
+		<circle id="obj_2" pos="0.611202,0.159145" parent="workrect" src="obj_2" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.002" hidden="true" x="0.537463" y="0.0945429" width="0.147477" height="0.129205" />
+		<circle id="obj_3" pos="0.408461,0.323533" parent="workrect" src="obj_3" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.003" hidden="true" x="0.334722" y="0.25893" width="0.147477" height="0.129205" />
+		<circle id="obj_4" pos="0.611202,0.323533" parent="workrect" src="obj_4" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.004" hidden="true" x="0.537463" y="0.25893" width="0.147477" height="0.129205" />
+		<circle id="obj_5" pos="0.408461,0.48792" parent="workrect" src="obj_5" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.005" hidden="true" x="0.334722" y="0.423317" width="0.147477" height="0.129205" />
+		<circle id="obj_6" pos="0.611202,0.48792" parent="workrect" src="obj_6" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.006" hidden="true" x="0.537463" y="0.423317" width="0.147477" height="0.129205" />
+		<circle id="obj_7" pos="0.408461,0.652307" parent="workrect" src="obj_7" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.007" hidden="true" x="0.334722" y="0.587704" width="0.147477" height="0.129205" />
+		<circle id="obj_8" pos="0.611202,0.652307" parent="workrect" src="obj_8" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.008" hidden="true" x="0.537463" y="0.587704" width="0.147477" height="0.129205" />
+		<circle id="obj_9" pos="0.408461,0.816694" parent="workrect" src="obj_9" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.009" hidden="true" x="0.334722" y="0.752092" width="0.147477" height="0.129205" />
+		<circle id="obj_10" pos="0.611202,0.816694" parent="workrect" src="obj_10" fill="255,255,255" stroke="31,82,124" strokewidth="2" zpos="0.01" hidden="true" x="0.537463" y="0.752092" width="0.147477" height="0.129205" />
+	</event>
+	<event id="6a" start="1" >
+	</event>
+	<event id="6b" target="even" >
+	</event>
+	<event id="6c" target="even" >
+	</event>
+	<event id="6d" target="odd" >
+	</event>
+	<event id="6e" target="odd" delete="true" >
+	</event>
+	<event id="6f" start="11" >
+	</event>
+	<event id="6g" target="even" >
+	</event>
+	<event id="6h" target="even" >
+	</event>
+	<event id="master2" scenes="6k,6l,6m,6n" gradienttop="145,255,243" gradientbottom="200,251,245" >
+		<rectangle id="bottombar" pos="0.506655,0.860334" src="bottombar" fill="255,253,196" stroke="222,180,71" strokewidth="2" zpos="3" x="-0.00553894" y="0.712285" width="1.02439" height="0.296097" />
+		<rectangle id="box_1" pos="0.277582,0.382245" src="box_1" stroke="247,36,6" strokewidth="6.28098" zpos="3.001" heighttrackswidth="true" x="0.104542" y="0.219727" width="0.346081" height="0.325038" pxwidth="354.387" pxheight="249.629" cornerradius="0.0633149" />
+		<rectangle id="box_2" pos="0.722639,0.382245" src="box_2" stroke="7,100,252" strokewidth="6.28098" zpos="3.002" heighttrackswidth="true" x="0.549599" y="0.219727" width="0.346081" height="0.325038" pxwidth="354.387" pxheight="249.629" cornerradius="0.0633149" />
+	</event>
+	<event id="6k" locs="0.456055,0.37963,0.632812,0.648148,0.879883,0.648148,0.0917969,0.310185,0.552734,0.287037,0.382812,0.680556,0.198242,0.708333,0.814453,0.291667,0.741211,0.75463,0.262695,0.259259" nums="1,2,3,4,5,6,7,8,9,10" >
+	</event>
+	<event id="6l" >
+	</event>
+	<event id="6m" locs="0.743164,0.606481,0.243164,0.652778,0.646484,0.726852,0.341797,0.296296,0.43457,0.699074,0.5625,0.310185,0.189453,0.268519,0.820312,0.263889,0.890625,0.648148,0.0917969,0.546296" nums="11,12,13,14,15,16,17,18,19,20" >
+	</event>
+	<event id="6n" locs="0.442383,0.240741,0.126953,0.740741,0.0800781,0.277778,0.333008,0.287037,0.501953,0.782407,0.835938,0.282407,0.566406,0.240741,0.776367,0.731481,0.899414,0.777778,0.620117,0.740741,0.407227,0.643519,0.214844,0.310185,0.273438,0.74537,0.706055,0.375" nums="4,2,3,5,7,8,10,11,12,13,15,17,19,20" >
+	</event>
+</events>

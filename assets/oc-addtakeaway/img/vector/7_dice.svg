@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="103.488px" height="103.489px" viewBox="0 0 103.488 103.489" enable-background="new 0 0 103.488 103.489"
+	 xml:space="preserve">
+<path id="frame" fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M101.989,93.851
+	c0,4.493-3.644,8.14-8.138,8.14H9.638c-4.495,0-8.14-3.646-8.14-8.14V9.639C1.5,5.145,5.144,1.5,9.638,1.5H93.85
+	c4.492,0,8.138,3.645,8.138,8.139L101.989,93.851L101.989,93.851z"/>
+<g id="roll_1">
+	<circle id="dot_1_1" cx="51.744" cy="51.744" r="11.938"/>
+</g>
+<g id="roll_2">
+	<circle id="dot_2_2" cx="83.809" cy="82.974" r="11.938"/>
+	<circle id="dot_2_1" cx="19.421" cy="20.366" r="11.938"/>
+</g>
+<g id="roll_3">
+	<circle id="dot_3_3" cx="83.809" cy="82.974" r="11.938"/>
+	<circle id="dot_3_2" cx="51.744" cy="51.744" r="11.938"/>
+	<circle id="dot_3_1" cx="19.421" cy="20.366" r="11.938"/>
+</g>
+<g id="roll_4">
+	<circle id="dot_4_4" cx="83.809" cy="82.974" r="11.938"/>
+	<circle id="dot_4_3" cx="20.311" cy="83.863" r="11.938"/>
+	<circle id="dot_4_2" cx="82.918" cy="19.477" r="11.938"/>
+	<circle id="dot_4_1" cx="19.421" cy="20.366" r="11.938"/>
+</g>
+<g id="roll_5">
+	<circle id="dot_5_5" cx="83.809" cy="82.974" r="11.938"/>
+	<circle id="dot_5_4" cx="20.311" cy="83.863" r="11.938"/>
+	<circle id="dot_5_3" cx="51.689" cy="51.541" r="11.938"/>
+	<circle id="dot_5_2" cx="82.918" cy="19.477" r="11.938"/>
+	<circle id="dot_5_1" cx="19.421" cy="20.366" r="11.938"/>
+</g>
+<g id="roll_6">
+	<circle id="dot_6_6" cx="83.809" cy="82.974" r="11.938"/>
+	<circle id="dot_6_5" cx="19.421" cy="83.863" r="11.938"/>
+	<circle id="dot_6_4" cx="83.809" cy="51.541" r="11.938"/>
+	<circle id="dot_6_3" cx="19.421" cy="51.541" r="11.938"/>
+	<circle id="dot_6_2" cx="83.809" cy="19.477" r="11.938"/>
+	<circle id="dot_6_1" cx="19.421" cy="20.366" r="11.938"/>
+</g>
+</svg>

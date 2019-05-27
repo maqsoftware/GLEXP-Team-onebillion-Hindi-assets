@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps5_2.aif</url>
+	<relurl>ps5_2.aif</relurl>
+	<timings text="Vipi ataweza kuifikisha choroko yake kwao?" frames="366964">
+		<timing id="0" start="0.000" end="0.734" startframe="0" framelength="32389" text="Vipi"/>
+		<timing id="1" start="1.078" end="2.054" startframe="47546" framelength="43042" text="ataweza"/>
+		<timing id="2" start="2.707" end="3.875" startframe="119379" framelength="51508" text="kuifikisha"/>
+		<timing id="3" start="4.450" end="5.318" startframe="196249" framelength="38288" text="choroko"/>
+		<timing id="4" start="6.083" end="6.834" startframe="268264" framelength="33116" text="yake"/>
+		<timing id="5" start="7.730" end="8.321" startframe="340879" framelength="26085" text="kwao"/>
+	</timings>
+</xml>

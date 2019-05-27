@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookatthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_sheisinfrontofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>4_heisbehindthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_whichchildisinfrontofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisinfrontofthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisinfrontofthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichchildisbehindthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisbehindthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisbehindthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichchildisbehindthewallthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisbehindthewall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisbehindthewall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichchildisstandinginfrontofatree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisstandinginfrontofatree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisstandinginfrontofatree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichchildisstandingbehindtheflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisstandingbehindtheflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisstandingbehindtheflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichchildisstandingbehindatree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichchildisstandingbehindatree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichchildisstandingbehindatree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisstandinginfrontofthehouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisstandinginfrontofthehouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisstandinginfrontofthehouse</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisstandingbehindthesheep</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisstandingbehindthesheep</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisstandingbehindthesheep</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisbehindtheboywiththeyellowtshirt</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisbehindtheboywiththeyellowtshirt</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisbehindtheboywiththeyellowtshirt</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thistimewhoisinfrontoftheboywithglasses</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisinfrontoftheboywithglasses</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisinfrontoftheboywithglasses</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisbehindtheboywiththegreencap</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisbehindtheboywiththegreencap</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisbehindtheboywiththegreencap</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisinfrontofthegirlwiththepinkbow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisinfrontofthegirlwiththepinkbow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisinfrontofthegirlwiththepinkbow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whoisbehindtheboywiththefootball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whoisbehindtheboywiththefootball</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whoisbehindtheboywiththefootball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_excellentyoupickedoutthechildrenwhowereinfrontandbehind</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

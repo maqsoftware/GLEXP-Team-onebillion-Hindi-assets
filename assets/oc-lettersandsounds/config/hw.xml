@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_highlight="253,173,90" >
+		<rectangle id="board" pos="0.5,0.470052" src="board" fill="53,53,53" zpos="0" widthtracksheight="true" x="0.0410156" y="0.138021" width="0.917969" height="0.664062" pxwidth="940" pxheight="510" />
+		<vector id="arrow_next" pos="0.951172,0.920592" src="arrow_next" scalex="0.661094" scaley="0.661094" zpos="0.006" hidden="true" />
+		<vector id="eraser" pos="0.710161,0.918859" src="blackboard_eraser" scalex="0.886972" scaley="0.886972" zpos="0.004" hidden="true" />
+		<vector id="eraser_2" pos="0.710106,0.913183" src="blackboard_eraser_2" scalex="0.87834" scaley="0.87834" rotation="-24.5314" zpos="0.007" hidden="true" />
+		<rectangle id="extra_area" pos="0.31172,0.907908" src="extra_area" fill="255,255,255" stroke="163,59,93" strokewidth="1" zpos="0.011" hidden="true" x="0.0256844" y="0.828776" width="0.572071" height="0.158264" />
+		<vector id="frame" pos="0.5,0.49902" parent="board" src="blackboard_frame" scalex="0.979174" scaley="0.979174" zpos="0.003" />
+		<rectangle id="letterrect" pos="0.477125,0.473951" src="letterrect" fill="255,38,0" fillopacity="0.192224" zpos="0.005" hidden="true" widthtracksheight="true" x="0.382175" y="0.347351" width="0.189899" height="0.253199" pxwidth="194.457" pxheight="194.457" />
+		<path id="line_bottom" pos="0.500127,0.386275" parent="board" src="line_bottom" fill="171,80,109" stroke="163,59,93" strokewidth="1" zpos="0.001" hidden="true" d="M0.02872 0.3863L0.9715 0.3863" />
+		<path id="line_top" pos="0.500127,0.386275" parent="board" src="line_top" fill="171,80,109" stroke="163,59,93" strokewidth="1" zpos="0.002" hidden="true" d="M0.02872 0.3863L0.9715 0.3863" />
+		<rectangle id="picture_bg" pos="0.116252,1.11808" parent="board" src="picture_bg" rotation="5" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.100322" shadowradius="0" shadowxoffset="1" shadowyoffset="7" zpos="0.008" hidden="true" x="0.0471036" y="0.990633" width="0.138298" height="0.254902" />
+		<vector id="picture_pin" pos="0.115875,0.983094" parent="board" src="picture_pin" scalex="0.251456" scaley="0.251456" rotation="14.5341" zpos="0.009" hidden="true" />
+		<vector id="presenter" pos="0.276936,0.67544" src="annawithear" zpos="0.01" hidden="true" />
+	</event>
+</events>

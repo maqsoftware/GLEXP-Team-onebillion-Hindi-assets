@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180105.130128983">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>strdmetx_letslistentoastory</phrase>
+			<phrase>strdmetx_youllseethewordstoo</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>strdmetx_theyturnredwhentheyarespoken</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>strdmetx_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="anna_on">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="anna_off">
+			<phrase>cf_stickhit</phrase>
+		</phrasegroup>
+		<phrasegroup id="shimmer">
+			<phrase>cf_belltree</phrase>
+		</phrasegroup>
+	</event>
+</audio>

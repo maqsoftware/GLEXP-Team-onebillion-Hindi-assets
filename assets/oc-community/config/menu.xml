@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" colour_lowlight="232,232,232" colour_star_1="129,220,68" colour_star_2="185,84,255" colour_star_3="241,255,16" colour_star_4="237,30,88" colour_star_5="35,215,231" colour_star_6="255,105,197" colour_star_7="255,150,0" colour_star_8="0,248,233" colour_star_9="255,205,3" colour_star_10="0,87,168" colour_star_11="255,92,80" colour_star_12="114,255,0" colour_star_13="138,107,203" colour_star_14="226,114,55" colour_star_15="29,117,255" colour_star_16="0,212,25" colour_star_17="195,0,87" colour_star_18="255,239,66" colour_star_19="225,93,201" colour_star_20="255,1,1" colour_star_border="220,220,220" colour_week_1="62,185,64" colour_week_2="254,205,47" colour_week_3="252,13,27" colour_week_4="25,149,251" colour="254,255,255" >
+		<rectangle id="work_rect" pos="0.5,0.462827" src="work_rect" fill="220,220,220" zpos="0" hidden="true" widthtracksheight="true" x="0.185635" y="0.22904" width="0.628731" height="0.467575" pxwidth="643.82" pxheight="359.098" />
+		<rectangle id="icon_small" pos="0.0057791,-0.0791045" parent="work_rect" src="icon_small" fill="220,220,220" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="5" zpos="0.002" hidden="true" x="-0.09394" y="-0.257383" width="0.199438" height="0.356558" />
+		<rectangle id="week_bar_work_rect" pos="0.5,0.0180969" src="week_bar_work_rect" zpos="0.024" hidden="true" heighttrackswitdth="true" x="0.00514984" y="0.00233968" width="0.9897" height="0.0315145" />
+		<rectangle id="icon_big" pos="0.5141,0.542065" parent="work_rect" src="icon_big" fill="220,220,220" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="5" zpos="0.001" hidden="true" widthtracksheight="true" x="0.204583" y="-0.0110629" width="0.619033" height="1.10626" pxwidth="398.546" pxheight="397.254" />
+		<vector id="icon_small_star" pos="0.961008,0.00249548" parent="icon_small" src="reward_star" scalex="1.5" scaley="1.5" rotation="-9.6848" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.003" hidden="true" />
+		<rectangle id="portrait" pos="0.947134,0.055926" src="portrait" fill="0,0,0" zpos="0.007" hidden="true" x="0.893013" y="-0.000437419" width="0.108242" height="0.112727" />
+		<rectangle id="portrait_label" pos="0.921829,0.153806" src="portrait_label" fill="217,31,2" zpos="0.006" hidden="true" x="0.842209" y="0.112152" width="0.159241" height="0.0833079" />
+		<vector id="presenter" pos="0.110596,0.72814" src="anna" scalex="1.13012" scaley="1.13012" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="5" zpos="0.004" hidden="true" />
+		<rectangle id="shadow" pos="0.532049,0.701642" src="shadow" fill="220,220,220" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="3" shadowyoffset="5" zpos="0.005" hidden="true" x="0.34901" y="0.515172" width="0.366077" height="0.37294" />
+		<rectangle id="text_box" pos="0.5,0.0551758" src="text_box" fill="220,220,220" zpos="0.023" hidden="true" x="0.22504" y="0.00221761" width="0.549919" height="0.105916" />
+		<vector id="top_bar_star_1" pos="0.078125,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.008" hidden="true" />
+		<vector id="top_bar_star_2" pos="0.138463,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.009" hidden="true" />
+		<vector id="top_bar_star_3" pos="0.1988,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.01" hidden="true" />
+		<vector id="top_bar_star_4" pos="0.259138,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.011" hidden="true" />
+		<vector id="top_bar_star_5" pos="0.319475,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.012" hidden="true" />
+		<vector id="top_bar_star_6" pos="0.379813,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.013" hidden="true" />
+		<vector id="top_bar_star_7" pos="0.440151,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.014" hidden="true" />
+		<vector id="top_bar_star_8" pos="0.500488,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.015" hidden="true" />
+		<vector id="top_bar_star_9" pos="0.560826,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.016" hidden="true" />
+		<vector id="top_bar_star_10" pos="0.621163,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.017" hidden="true" />
+		<vector id="top_bar_star_11" pos="0.681501,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.018" hidden="true" />
+		<vector id="top_bar_star_12" pos="0.741839,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.019" hidden="true" />
+		<vector id="top_bar_star_13" pos="0.802176,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.02" hidden="true" />
+		<vector id="top_bar_star_14" pos="0.862514,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.021" hidden="true" />
+		<vector id="top_bar_star_15" pos="0.922852,0.0442708" src="reward_star" scalex="1.5" scaley="1.5" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="0.022" hidden="true" />
+		<rectangle id="week_bar_block" pos="0.0108309,0.504196" parent="week_bar_work_rect" src="week_bar_block" fill="220,220,220" zpos="0.025" hidden="true" x="0.0049105" y="0.256294" width="0.0118407" height="0.495804" />
+		<vector id="box" pos="0.5,0.882161" src="box" scalex="0.901117" scaley="0.901117" zpos="1.001" hidden="true" />
+		<linearGradient id="Gradient107" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(72.9%,97.6%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(51.8%,91.4%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="box_overlay" pos="0.500759,0.5" src="box_overlay" fill="url(#Gradient107)"  zpos="1" hidden="true" x="0.000759125" y="-0.0078125" width="1" height="1.01562" />
+	</event>
+	<event id="new_day" >
+		<vector id="button_start" pos="0.50293,0.5" src="tick_button" scalex="0.680058" scaley="0.680058" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="3" shadowyoffset="5" zpos="5" />
+	</event>
+</events>

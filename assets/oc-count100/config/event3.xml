@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master3a" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i" gradienttop="254,227,169" gradientbottom="253,242,215" textcolour="73,73,73" linecolour="255,174,58" >
+		<linearGradient id="Gradient6" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(99.6%,86.7%,65.9%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,94.1%,81.2%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottombar" pos="0.502424,0.939514" src="bottombar" fill="url(#Gradient6)"  stroke="253,213,142" strokewidth="1" zpos="0.001" x="-0.0125389" y="0.837362" width="1.02993" height="0.204305" />
+		<rectangle id="workrect" pos="0.501973,0.456795" src="workrect" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.0810547" y="0.220881" width="0.841837" height="0.471827" pxwidth="862.041" pxheight="362.363" />
+	</event>
+	<event id="3a" cnum="10" nums="7,10,12" redraw="true" >
+		<vector id="obj" pos="0.0533617,0.110009" parent="workrect" src="bird" scalex="0.186491" scaley="0.186491" zpos="3" hidden="true" colour_body="0,207,255" colour_wing_closed="44,130,255" />
+	</event>
+	<event id="3b" cnum="20" nums="25,15,20" >
+	</event>
+	<event id="3c" cnum="24" nums="24,14,34" >
+	</event>
+	<event id="3d" cnum="20" nums="30,25,20" redraw="true" >
+		<vector id="obj" pos="0.0527144,0.10324" parent="workrect" src="frog" scalex="0.306868" scaley="0.306868" zpos="3" hidden="true" />
+	</event>
+	<event id="3e" cnum="30" nums="30,15,25" >
+	</event>
+	<event id="3f" cnum="35" nums="36,41,35" >
+	</event>
+	<event id="3g" cnum="30" nums="40,30,25" redraw="true" >
+		<vector id="obj" pos="0.0522042,0.104127" parent="workrect" src="lemon" scalex="0.326689" scaley="0.326689" rotation="9.72654" zpos="3" hidden="true" />
+	</event>
+	<event id="3h" cnum="36" nums="36,32,39" >
+	</event>
+	<event id="3i" cnum="43" nums="50,43,39" >
+	</event>
+	<event id="master3j" scenes="3j,3k,3l,3m,3n,3o,3p,3q,3r,3s,3t" gradienttop="254,227,169" gradientbottom="253,242,215" textcolour="73,73,73" linecolour="255,174,58" >
+		<linearGradient id="Gradient6" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(99.6%,86.7%,65.9%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,94.1%,81.2%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottombar" pos="0.502424,0.939514" src="bottombar" fill="url(#Gradient6)"  stroke="253,213,142" strokewidth="1" zpos="3.001" x="-0.0125389" y="0.837362" width="1.02993" height="0.204305" />
+		<vector id="button1" pos="0.40135,0.92352" src="button" scalex="0.499145" scaley="0.499145" fill="254,77,0" zpos="3.002" colour_background="251,53,6" />
+		<vector id="button2" pos="0.600424,0.921532" src="button" scalex="0.406366" scaley="0.406366" fill="255,228,0" zpos="3.003" colour_background="254,225,8" />
+		<rectangle id="workrect" pos="0.501973,0.456795" src="workrect" fill="255,255,255" zpos="3" hidden="true" heighttrackswidth="true" x="0.0810547" y="0.220881" width="0.841837" height="0.471827" pxwidth="862.041" pxheight="362.363" />
+	</event>
+	<event id="3j" cnum="23" redraw="true" button="true" >
+		<vector id="obj" pos="0.0510417,0.10035" parent="workrect" src="flower_3j" scalex="0.497345" scaley="0.497345" zpos="6" hidden="true" />
+	</event>
+	<event id="3k" cnum="26" >
+	</event>
+	<event id="3l" cnum="31" redraw="true" >
+		<vector id="obj" pos="0.0503669,0.103045" parent="workrect" src="chocolate" scalex="0.200126" scaley="0.200126" zpos="6" hidden="true" />
+	</event>
+	<event id="3m" cnum="37" redraw="true" >
+		<vector id="obj" pos="0.0509352,0.10035" parent="workrect" src="egg" scalex="0.582425" scaley="0.582425" zpos="6" hidden="true" />
+	</event>
+	<event id="3n" cnum="43" redraw="true" >
+		<vector id="obj" pos="0.0580155,0.10173" parent="workrect" src="strawberry" scalex="0.59155" scaley="0.59155" zpos="6" hidden="true" />
+	</event>
+	<event id="3o" cnum="50" redraw="true" >
+		<vector id="obj" pos="0.0524573,0.10173" parent="workrect" src="star" scalex="0.842342" scaley="0.842342" zpos="6" hidden="true" colour_background="206,99,255" />
+	</event>
+	<event id="3p" cnum="45" redraw="true" >
+		<vector id="obj" pos="0.0522583,0.10035" parent="workrect" src="counter" scalex="0.565395" scaley="0.565395" zpos="6" hidden="true" colour_background="236,14,118" />
+	</event>
+	<event id="3q" cnum="33" redraw="true" >
+		<vector id="obj" pos="0.0522114,0.100178" parent="workrect" src="lemon" scalex="0.314206" scaley="0.314206" zpos="6" hidden="true" />
+	</event>
+	<event id="3r" cnum="28" redraw="true" >
+		<vector id="obj" pos="0.0520408,0.0994437" parent="workrect" src="tomato" scalex="0.627541" scaley="0.627541" zpos="6" hidden="true" />
+	</event>
+	<event id="3s" cnum="17" redraw="true" >
+		<vector id="obj" pos="0.123934,0.268229" src="egg" scalex="0.582425" scaley="0.582425" zpos="6" hidden="true" />
+	</event>
+	<event id="3t" cnum="6" redraw="true" >
+		<vector id="obj" pos="0.0585819,0.10311" parent="workrect" src="cake" scalex="0.187827" scaley="0.187827" zpos="6" hidden="true" />
+	</event>
+</events>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180115.110752387">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sbs3_letsseehowwordsaremadefromletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sbs3_touchthebutton</phrase>
+			<phrase>sbs3_seeifyoucantalkalong</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sbs3_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>sbs3_touchthebuttonformorewords</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sbs3_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sbs3_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sbs3_greatyousawhowwordsaremadefromletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="buttonon">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonactive">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="touchbutton">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="segment">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>blend</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>note3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

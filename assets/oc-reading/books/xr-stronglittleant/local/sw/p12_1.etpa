@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p12_1.aif</url>
+	<relurl>p12_1.aif</relurl>
+	<timings text="Nje, kifaranga cha kuku wa njano akamuona Siafu na choroko yake. " frames="264865">
+		<timing id="0" start="0.000" end="0.666" startframe="0" framelength="29378" text="Nje"/>
+		<timing id="1" start="0.923" end="1.513" startframe="40693" framelength="26031" text="kifaranga"/>
+		<timing id="2" start="1.513" end="1.754" startframe="66724" framelength="10611" text="cha"/>
+		<timing id="3" start="1.754" end="2.098" startframe="77335" framelength="15177" text="kuku"/>
+		<timing id="4" start="2.098" end="2.214" startframe="92512" framelength="5125" text="wa"/>
+		<timing id="5" start="2.214" end="2.859" startframe="97637" framelength="28443" text="njano"/>
+		<timing id="6" start="3.471" end="4.167" startframe="153078" framelength="30703" text="akamuona"/>
+		<timing id="7" start="4.167" end="4.712" startframe="183781" framelength="24014" text="Siafu"/>
+		<timing id="8" start="4.712" end="4.861" startframe="207795" framelength="6560" text="na"/>
+		<timing id="9" start="4.861" end="5.243" startframe="214355" framelength="16862" text="choroko"/>
+		<timing id="10" start="5.243" end="5.744" startframe="231217" framelength="22109" text="yake"/>
+	</timings>
+</xml>

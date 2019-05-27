@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl9_wakati.aif</url>
+	<relurl>psyl9_wakati.aif</relurl>
+	<timings text="wa - ka - ti" frames="72617">
+		<timing id="0" start="0.000" end="0.569" startframe="0" framelength="25096" text="wa"/>
+		<timing id="1" start="0.762" end="1.186" startframe="33588" framelength="18700" text="ka"/>
+		<timing id="2" start="1.347" end="1.647" startframe="59423" framelength="13194" text="ti"/>
+	</timings>
+</xml>

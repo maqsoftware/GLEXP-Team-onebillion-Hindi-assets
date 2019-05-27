@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="Ni kiboko! Kiboko anamwachia Jack apande mgongoni mwake. Wanaelea kwenye bafu." frames="1060025">
+		<timing id="0" start="0.000" end="0.737" startframe="0" framelength="32504" text="Ni"/>
+		<timing id="1" start="1.600" end="2.623" startframe="70574" framelength="45081" text="kiboko"/>
+		<timing id="2" start="3.997" end="4.928" startframe="176248" framelength="41059" text="Kiboko"/>
+		<timing id="3" start="6.517" end="7.903" startframe="287390" framelength="61112" text="anamwachia"/>
+		<timing id="4" start="9.232" end="10.069" startframe="407135" framelength="36894" text="Jack"/>
+		<timing id="5" start="11.346" end="12.394" startframe="500348" framelength="46239" text="apande"/>
+		<timing id="6" start="13.629" end="14.815" startframe="601034" framelength="52312" text="mgongoni"/>
+		<timing id="7" start="16.117" end="17.052" startframe="710750" framelength="41240" text="mwake"/>
+		<timing id="8" start="18.572" end="19.726" startframe="819030" framelength="50885" text="Wanaelea"/>
+		<timing id="9" start="21.206" end="22.084" startframe="935197" framelength="38702" text="kwenye"/>
+		<timing id="10" start="23.354" end="24.037" startframe="1029897" framelength="30128" text="bafu"/>
+	</timings>
+</xml>

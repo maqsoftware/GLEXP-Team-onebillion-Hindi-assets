@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p6_1.aif</url>
+	<relurl>p6_1.aif</relurl>
+	<timings text="Lakini punde, chandarua cha Badi kikadondoka kutoka darini." frames="235035">
+		<timing id="0" start="0.000" end="0.533" startframe="0" framelength="23518" text="Lakini"/>
+		<timing id="1" start="0.533" end="1.149" startframe="23518" framelength="27156" text="punde"/>
+		<timing id="2" start="1.411" end="2.006" startframe="62236" framelength="26227" text="chandarua"/>
+		<timing id="3" start="2.006" end="2.167" startframe="88463" framelength="7115" text="cha"/>
+		<timing id="4" start="2.167" end="2.865" startframe="95578" framelength="30773" text="Badi"/>
+		<timing id="5" start="3.163" end="4.229" startframe="139488" framelength="46998" text="kikadondoka"/>
+		<timing id="6" start="4.229" end="4.799" startframe="186486" framelength="25130" text="kutoka"/>
+		<timing id="7" start="4.799" end="5.330" startframe="211616" framelength="23419" text="darini"/>
+	</timings>
+</xml>

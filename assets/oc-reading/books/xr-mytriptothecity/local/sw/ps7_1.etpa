@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Maepuli yalionekana kuwa matamu na makachu. Yalinukia vizuri na yaling’aa sana." frames="821117">
+		<timing id="0" start="0.000" end="1.140" startframe="0" framelength="50278" text="Maepuli"/>
+		<timing id="1" start="2.340" end="3.778" startframe="103191" framelength="63413" text="yalionekana"/>
+		<timing id="2" start="4.746" end="5.415" startframe="209291" framelength="29524" text="kuwa"/>
+		<timing id="3" start="6.217" end="7.195" startframe="274161" framelength="43143" text="matamu"/>
+		<timing id="4" start="7.874" end="8.626" startframe="347253" framelength="33173" text="na"/>
+		<timing id="5" start="9.384" end="10.463" startframe="413841" framelength="47596" text="makachu"/>
+		<timing id="6" start="11.350" end="12.602" startframe="500532" framelength="55208" text="Yalinukia"/>
+		<timing id="7" start="13.212" end="14.201" startframe="582634" framelength="43614" text="vizuri"/>
+		<timing id="8" start="14.911" end="15.635" startframe="657577" framelength="31944" text="na"/>
+		<timing id="9" start="16.132" end="17.239" startframe="711410" framelength="48849" text="yaling’aa"/>
+		<timing id="10" start="17.908" end="18.619" startframe="789734" framelength="31383" text="sana"/>
+	</timings>
+</xml>

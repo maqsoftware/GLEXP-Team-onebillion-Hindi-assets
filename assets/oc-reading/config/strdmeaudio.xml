@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180105.130128983">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>strdme_letslistentoastory</phrase>
+			<phrase>strdme_thisstoryhasquestionsforyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>strdme_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+</audio>

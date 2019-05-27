@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p11_2.aif</url>
+	<relurl>p11_2.aif</relurl>
+	<timings text="“Ningependa kuwa na kaka na dada,” Adia alisema." frames="187731">
+		<timing id="0" start="0.000" end="0.643" startframe="0" framelength="28353" text="Ningependa"/>
+		<timing id="1" start="0.643" end="0.931" startframe="28353" framelength="12688" text="kuwa"/>
+		<timing id="2" start="0.931" end="1.106" startframe="41041" framelength="7744" text="na"/>
+		<timing id="3" start="1.106" end="1.789" startframe="48785" framelength="30121" text="kaka"/>
+		<timing id="4" start="1.948" end="2.172" startframe="85907" framelength="9884" text="na"/>
+		<timing id="5" start="2.172" end="2.761" startframe="95791" framelength="25960" text="dada"/>
+		<timing id="6" start="3.220" end="3.617" startframe="142007" framelength="17492" text="Adia"/>
+		<timing id="7" start="3.617" end="4.257" startframe="159499" framelength="28232" text="alisema"/>
+	</timings>
+</xml>

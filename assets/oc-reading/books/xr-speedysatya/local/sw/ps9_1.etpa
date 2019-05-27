@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Kwenye majabali, Mosi anakwea juu kama mjusi. Anaruka kama mbuzi. “Kuwa makini huko!” mama alionya. “Umepanda juu sana!”" frames="1285461">
+		<timing id="0" start="0.000" end="0.797" startframe="0" framelength="35145" text="Kwenye"/>
+		<timing id="1" start="1.143" end="2.321" startframe="50426" framelength="51925" text="majabali"/>
+		<timing id="2" start="3.025" end="4.067" startframe="133412" framelength="45956" text="Mosi"/>
+		<timing id="3" start="4.534" end="5.787" startframe="199957" framelength="55234" text="anakwea"/>
+		<timing id="4" start="6.484" end="7.258" startframe="285951" framelength="34121" text="juu"/>
+		<timing id="5" start="7.984" end="8.846" startframe="352110" framelength="37992" text="kama"/>
+		<timing id="6" start="9.538" end="10.420" startframe="420627" framelength="38907" text="mjusi"/>
+		<timing id="7" start="11.149" end="12.447" startframe="491657" framelength="57240" text="Anaruka"/>
+		<timing id="8" start="12.981" end="13.849" startframe="572442" framelength="38287" text="kama"/>
+		<timing id="9" start="14.401" end="15.289" startframe="635086" framelength="39156" text="mbuzi"/>
+		<timing id="10" start="16.255" end="17.010" startframe="716827" framelength="33301" text="Kuwa"/>
+		<timing id="11" start="17.622" end="18.722" startframe="777142" framelength="48501" text="makini"/>
+		<timing id="12" start="19.306" end="20.022" startframe="851407" framelength="31560" text="huko"/>
+		<timing id="13" start="20.823" end="21.652" startframe="918301" framelength="36545" text="mama"/>
+		<timing id="14" start="22.150" end="23.287" startframe="976812" framelength="50136" text="alionya"/>
+		<timing id="15" start="24.925" end="26.069" startframe="1099194" framelength="50463" text="Umepanda"/>
+		<timing id="16" start="26.865" end="27.736" startframe="1184736" framelength="38441" text="juu"/>
+		<timing id="17" start="28.374" end="29.149" startframe="1251274" framelength="34187" text="sana"/>
+	</timings>
+</xml>

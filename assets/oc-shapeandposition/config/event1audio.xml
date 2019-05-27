@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookitsaheart</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_lookatthishalf</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>1_thishalfisthesamebuttheotherwayround</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>1_onehalfisareflectionoftheother</phrase>
+			<phrase>1_likeinamirror</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>1_wesaythisshapeissymmetrical</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_oneoftheseshapesissymmetricalwhichone</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_comparethetwohalves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_comparethetwohalves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesymmetricalshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichoneissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesymmetricalshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichshapeissymmetrical</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_comparethetwohalves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="DEMO">
+			<phrase>1_herestheheartagain</phrase>
+			<phrase>1_firstidrawastraightlinefromdottodot</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_nowitouchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>1_thetwohalvesmatchexactly</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>1_somylineisalineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_drawalinetojointhedots</phrase>
+			<phrase>1_useyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowtouchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REMINDER">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatchexactly_1i</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistriangleissymmetrical</phrase>
+			<phrase>1_jointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatchexactly_1i</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_anothersymmetricalshape</phrase>
+			<phrase>1_jointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_touchtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_seehowthetwohalvesmatch</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thisisatshirt</phrase>
+			<phrase>1_jointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowtouchtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsamatch</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nextadress</phrase>
+			<phrase>1_jointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_foldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_amatch</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookatthistriangle</phrase>
+			<phrase>1_idrawaline</phrase>
+			<phrase>1_andtouchtheshape</phrase>
+			<phrase>1_thetwopartsdontmatch</phrase>
+			<phrase>1_mylineisnotalineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowyoutry</phrase>
+			<phrase>1_jointhesedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowtouchtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatch</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimeanarrow</phrase>
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowfoldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_amatch</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="PROMPT">
+			<phrase>1_heresanothershape</phrase>
+			<phrase>1_jointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawalinetojointhedots</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromonedottotheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_foldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatchexactly_1i</phrase>
+			<phrase>1_youdrewthelineofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowdrawthelineofsymmetryforthisshape</phrase>
+			<phrase>1_thereisonlyonedottohelpyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_startatthedotanddrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startatthedotanddrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatchexactly_1i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1s">
+		<phrasegroup id="PROMPT">
+			<phrase>1_drawthelineofsymmetryforthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_startatthedotanddrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromthedotthroughthemiddleoftheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_foldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowdrawitforthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_startatthedotanddrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromthedotthroughthemiddleoftheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_foldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_amatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1u">
+		<phrasegroup id="PROMPT">
+			<phrase>1_drawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_startatthedotanddrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinefromthedotthroughthemiddleoftheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowfoldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_anothermatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1v">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetherearenodotstohelpyoudrawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawthelineofsymmetryforthisshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinethroughthemiddlefromtoptobottom</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowfoldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thetwohalvesmatchexactly_1i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1w">
+		<phrasegroup id="PROMPT">
+			<phrase>1_drawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawthelineofsymmetryforthisshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinethroughthemiddlefromsidetoside</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_touchtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_amatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1x">
+		<phrasegroup id="PROMPT">
+			<phrase>1_drawthelineofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawthelineofsymmetryforthisshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinethroughthemiddlefromtoptobottom</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_touchtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_itsamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1y">
+		<phrasegroup id="PROMPT">
+			<phrase>1_tryitforthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawthelineofsymmetryforthisshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_drawalinethroughthemiddlefromtoptobottom</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>1_nowfoldtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>1_touchtheshapetofoldit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_anothermatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_verygoodyouchosethesymmetricalshapesandyoudrewlinesofsymmetry</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="hiliteleft">
+			<phrase>hiliteleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="hiliteright">
+			<phrase>hiliteright</phrase>
+		</phrasegroup>
+		<phrasegroup id="dotspopon">
+			<phrase>dotspopon</phrase>
+		</phrasegroup>
+		<phrasegroup id="lightclick">
+			<phrase>lightclick</phrase>
+		</phrasegroup>
+		<phrasegroup id="shapefolding">
+			<phrase>shapefolding</phrase>
+		</phrasegroup>
+		<phrasegroup id="shapeopening">
+			<phrase>shapeopening</phrase>
+		</phrasegroup>
+	</event>
+</audio>

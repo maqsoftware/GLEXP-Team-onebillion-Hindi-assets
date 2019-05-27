@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p14_2.aif</url>
+	<relurl>p14_2.aif</relurl>
+	<timings text="Jack ataota nini usiku huu?" frames="97284">
+		<timing id="0" start="0.000" end="0.474" startframe="0" framelength="20911" text="Jack"/>
+		<timing id="1" start="0.508" end="1.069" startframe="22403" framelength="24718" text="ataota"/>
+		<timing id="2" start="1.069" end="1.382" startframe="47121" framelength="13839" text="nini"/>
+		<timing id="3" start="1.382" end="1.814" startframe="60960" framelength="19054" text="usiku"/>
+		<timing id="4" start="1.814" end="2.206" startframe="80014" framelength="17270" text="huu"/>
+	</timings>
+</xml>

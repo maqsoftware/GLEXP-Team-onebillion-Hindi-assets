@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_youcanputabirdonthewire</phrase>
+			<phrase>2_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowyourturn</phrase>
+			<phrase>2_putfourbirdsonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putfourbirdsonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fourbirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_hangfivesocksonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_hangfivesocksonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2c</phrase>
+			<phrase>2_two_2c</phrase>
+			<phrase>2_three_2c</phrase>
+			<phrase>2_four_2c</phrase>
+			<phrase>2_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fivesocks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_hangsixvestsonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_hangsixvestsonthewire</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2d</phrase>
+			<phrase>2_two_2d</phrase>
+			<phrase>2_three_2d</phrase>
+			<phrase>2_four_2d</phrase>
+			<phrase>2_five_2d</phrase>
+			<phrase>2_six</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_sixvests</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowputsixfishinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putsixfishinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2e</phrase>
+			<phrase>2_two_2e</phrase>
+			<phrase>2_three_2e</phrase>
+			<phrase>2_four_2e</phrase>
+			<phrase>2_five_2e</phrase>
+			<phrase>2_six_2e</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_sixfish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putfourladybirdsontheleaf</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putfourladybirdsontheleaf</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2f</phrase>
+			<phrase>2_two_2f</phrase>
+			<phrase>2_three_2f</phrase>
+			<phrase>2_four_2f</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fourladybirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putfivetomatoesontheplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putfivetomatoesontheplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2g</phrase>
+			<phrase>2_two_2g</phrase>
+			<phrase>2_three_2g</phrase>
+			<phrase>2_four_2g</phrase>
+			<phrase>2_five_2g</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fivetomatoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putsixcandlesonthebirthdaycake</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_putsixcandlesonthebirthdaycake</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one_2h</phrase>
+			<phrase>2_two_2h</phrase>
+			<phrase>2_three_2h</phrase>
+			<phrase>2_four_2h</phrase>
+			<phrase>2_five_2h</phrase>
+			<phrase>2_six_2h</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_sixcandles</phrase>
+			<phrase>2_welldoneyoushowedfourthingsandfivethingsandsixthings</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

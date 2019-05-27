@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Jongoo alihuzunika sana. Mguu wake uliuma sana. Lakini kila mmoja alikuwa na shughuli zake na hakuna aliyeweza kusaidia." frames="460172">
+		<timing id="0" start="0.000" end="0.644" startframe="0" framelength="28393" text="Jongoo"/>
+		<timing id="1" start="0.644" end="1.741" startframe="28393" framelength="48371" text="alihuzunika"/>
+		<timing id="2" start="1.741" end="2.281" startframe="76764" framelength="23827" text="sana"/>
+		<timing id="3" start="2.952" end="3.400" startframe="130188" framelength="19751" text="Mguu"/>
+		<timing id="4" start="3.400" end="3.913" startframe="149939" framelength="22642" text="wake"/>
+		<timing id="5" start="3.913" end="4.495" startframe="172581" framelength="25634" text="uliuma"/>
+		<timing id="6" start="4.495" end="5.073" startframe="198215" framelength="25497" text="sana"/>
+		<timing id="7" start="5.600" end="6.091" startframe="246980" framelength="21642" text="Lakini"/>
+		<timing id="8" start="6.091" end="6.437" startframe="268622" framelength="15253" text="kila"/>
+		<timing id="9" start="6.437" end="7.055" startframe="283875" framelength="27247" text="mmoja"/>
+		<timing id="10" start="7.055" end="7.510" startframe="311122" framelength="20068" text="alikuwa"/>
+		<timing id="11" start="7.510" end="7.664" startframe="331190" framelength="6788" text="na"/>
+		<timing id="12" start="7.664" end="8.167" startframe="337978" framelength="22195" text="shughuli"/>
+		<timing id="13" start="8.167" end="8.570" startframe="360173" framelength="17745" text="zake"/>
+		<timing id="14" start="8.570" end="8.721" startframe="377918" framelength="6671" text="na"/>
+		<timing id="15" start="8.721" end="9.155" startframe="384589" framelength="19148" text="hakuna"/>
+		<timing id="16" start="9.155" end="9.691" startframe="403737" framelength="23657" text="aliyeweza"/>
+		<timing id="17" start="9.691" end="10.435" startframe="427394" framelength="32778" text="kusaidia"/>
+	</timings>
+</xml>

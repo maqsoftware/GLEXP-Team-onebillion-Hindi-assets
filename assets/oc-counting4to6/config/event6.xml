@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="6a,6b,6c,6d,6e,6f" gradienttop="62,209,251" gradientbottom="234,250,252" colour="255,240,255" >
+	</event>
+	<event id="6a" redraw="true" colour="255,240,255" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.235746,0.494751" parent="background_control" src="tracing_dash4" scalex="1.01" scaley="1.05" zpos="2.001" />
+		<vector id="obj_1" pos="0.697147,0.307529" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.004" />
+		<vector id="obj_2" pos="0.86047,0.307529" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.005" />
+		<vector id="obj_3" pos="0.697147,0.681973" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.006" />
+		<vector id="obj_4" pos="0.86047,0.681973" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.007" />
+		<vector id="trace" pos="0.233437,0.494751" parent="background_control" src="trace_4" zpos="2.002" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.003" hidden="true" />
+	</event>
+	<event id="6b" redraw="true" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2.001" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.235746,0.494751" parent="background_control" src="tracing_dash4" scalex="1.01" scaley="1.05" zpos="2.002" />
+		<vector id="obj_1" pos="0.697147,0.307529" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.004" />
+		<vector id="obj_2" pos="0.86047,0.307529" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.005" />
+		<vector id="obj_3" pos="0.697147,0.681973" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.006" />
+		<vector id="obj_4" pos="0.86047,0.681973" parent="background_control" src="cat" scalex="1.2" scaley="1.2" zpos="2.007" />
+		<vector id="trace" pos="0.233437,0.494751" parent="background_control" src="trace_4" zpos="2.003" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2" hidden="true" />
+	</event>
+	<event id="6c" redraw="true" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.254571,0.496388" parent="background_control" src="tracing_dash5" scaley="1.03" zpos="2.001" />
+		<vector id="obj_1" pos="0.646468,0.296018" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.004" scheme="bird blue" />
+		<vector id="obj_2" pos="0.750494,0.497639" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.85452,0.293516" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.005" scheme="bird blue" />
+		<vector id="obj_4" pos="0.646468,0.69926" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.007" scheme="bird blue" />
+		<vector id="obj_5" pos="0.85452,0.696758" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.008" scheme="bird blue" />
+		<vector id="trace" pos="0.254571,0.496388" parent="background_control" src="trace_5" zpos="2.002" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.003" hidden="true" />
+	</event>
+	<event id="6d" redraw="true" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2.001" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.254571,0.496388" parent="background_control" src="tracing_dash5" scaley="1.03" zpos="2.002" />
+		<vector id="obj_1" pos="0.646468,0.296018" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.004" scheme="bird blue" />
+		<vector id="obj_2" pos="0.750494,0.497639" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.85452,0.293516" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.005" scheme="bird blue" />
+		<vector id="obj_4" pos="0.646468,0.69926" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.007" scheme="bird blue" />
+		<vector id="obj_5" pos="0.85452,0.696758" parent="background_control" src="bird" scalex="1.47262" scaley="1.47262" zpos="2.008" scheme="bird blue" />
+		<vector id="trace" pos="0.254571,0.496388" parent="background_control" src="trace_5" zpos="2.003" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2" hidden="true" />
+	</event>
+	<event id="6e" redraw="true" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.267125,0.489592" parent="background_control" src="tracing_dash6" scalex="1.04" scaley="1.06" zpos="2.001" />
+		<vector id="obj_1" pos="0.603234,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.004" />
+		<vector id="obj_2" pos="0.741365,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.005" />
+		<vector id="obj_3" pos="0.879497,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.006" />
+		<vector id="obj_4" pos="0.603234,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.007" />
+		<vector id="obj_5" pos="0.741365,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.008" />
+		<vector id="obj_6" pos="0.879497,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.009" />
+		<vector id="trace" pos="0.267042,0.489592" parent="background_control" src="trace_6" zpos="2.002" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.003" hidden="true" />
+	</event>
+	<event id="6f" redraw="true" >
+		<rectangle id="background_control" pos="0.499319,0.529071" src="background_control" fill="255,176,0" zpos="2.001" hidden="true" widthtracksheight="true" x="0.015625" y="0.14385" width="0.967388" height="0.770442" pxwidth="990.605" pxheight="591.699" />
+		<image id="dash" pos="0.267125,0.489592" parent="background_control" src="tracing_dash6" scalex="1.04" scaley="1.06" zpos="2.002" />
+		<vector id="obj_1" pos="0.603234,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.004" />
+		<vector id="obj_2" pos="0.741365,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.005" />
+		<vector id="obj_3" pos="0.879497,0.374646" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.006" />
+		<vector id="obj_4" pos="0.603234,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.007" />
+		<vector id="obj_5" pos="0.741365,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.008" />
+		<vector id="obj_6" pos="0.879497,0.604539" parent="background_control" src="tomato" scalex="1.1847" scaley="1.1847" zpos="2.009" />
+		<vector id="trace" pos="0.267042,0.489592" parent="background_control" src="trace_6" zpos="2.003" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2" hidden="true" />
+	</event>
+</events>

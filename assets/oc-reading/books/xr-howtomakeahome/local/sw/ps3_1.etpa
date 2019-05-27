@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps3_1.aif</url>
+	<relurl>ps3_1.aif</relurl>
+	<timings text="Wana wote wawili walitaka kumvutia baba yao." frames="360076">
+		<timing id="0" start="0.000" end="0.910" startframe="0" framelength="40126" text="Wana"/>
+		<timing id="1" start="1.141" end="1.924" startframe="50327" framelength="34507" text="wote"/>
+		<timing id="2" start="2.561" end="3.381" startframe="112957" framelength="36128" text="wawili"/>
+		<timing id="3" start="3.844" end="4.780" startframe="169519" framelength="41292" text="walitaka"/>
+		<timing id="4" start="4.993" end="6.078" startframe="220206" framelength="47845" text="kumvutia"/>
+		<timing id="5" start="6.563" end="7.344" startframe="289426" framelength="34444" text="baba"/>
+		<timing id="6" start="7.642" end="8.165" startframe="337030" framelength="23046" text="yao"/>
+	</timings>
+</xml>

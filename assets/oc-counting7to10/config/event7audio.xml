@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="PROMPT">
+			<phrase>7_touchanysquare</phrase>
+			<phrase>7_chooseanothersquare</phrase>
+			<phrase>7_nowtryalltheothersquaresonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_touchanysquare</phrase>
+			<phrase>7_chooseanothersquare</phrase>
+			<phrase>7_nowtryalltheothersquaresonebyone</phrase>
+			<phrase>7_chooseanotherwhitesquare</phrase>
+			<phrase>7_choosethelastwhitesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>7_nowtracethenumber</phrase>
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>7_nowtracethenumber</phrase>
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>7_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>7_seven</phrase>
+			<phrase>7_eight</phrase>
+			<phrase>7_nine</phrase>
+			<phrase>7_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>7_verygoodyoupracticedtracingthenumbersseveneightnineandten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

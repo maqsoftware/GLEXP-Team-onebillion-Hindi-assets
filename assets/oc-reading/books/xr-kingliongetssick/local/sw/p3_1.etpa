@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="Sherehe ilipokwisha, kila mmoja alikwenda zake kwao. Wanyama walikuwa wamechoka sana, lakini walikuwa na furaha." frames="387158">
+		<timing id="0" start="0.000" end="0.557" startframe="0" framelength="24545" text="Sherehe"/>
+		<timing id="1" start="0.557" end="1.573" startframe="24545" framelength="44835" text="ilipokwisha"/>
+		<timing id="2" start="2.064" end="2.422" startframe="91020" framelength="15808" text="kila"/>
+		<timing id="3" start="2.422" end="2.791" startframe="106828" framelength="16266" text="mmoja"/>
+		<timing id="4" start="2.791" end="3.379" startframe="123094" framelength="25923" text="alikwenda"/>
+		<timing id="5" start="3.379" end="3.682" startframe="149017" framelength="13349" text="zake"/>
+		<timing id="6" start="3.682" end="4.195" startframe="162366" framelength="22635" text="kwao"/>
+		<timing id="7" start="4.554" end="5.077" startframe="200836" framelength="23076" text="Wanyama"/>
+		<timing id="8" start="5.077" end="5.467" startframe="223912" framelength="17204" text="walikuwa"/>
+		<timing id="9" start="5.467" end="6.271" startframe="241116" framelength="35414" text="wamechoka"/>
+		<timing id="10" start="6.271" end="6.837" startframe="276530" framelength="24993" text="sana"/>
+		<timing id="11" start="7.213" end="7.601" startframe="318092" framelength="17107" text="lakini"/>
+		<timing id="12" start="7.601" end="8.099" startframe="335199" framelength="21981" text="walikuwa"/>
+		<timing id="13" start="8.099" end="8.215" startframe="357180" framelength="5110" text="na"/>
+		<timing id="14" start="8.215" end="8.779" startframe="362290" framelength="24868" text="furaha"/>
+	</timings>
+</xml>

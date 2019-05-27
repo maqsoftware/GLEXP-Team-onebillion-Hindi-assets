@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170512.124735232">
+	<event id="sfx">
+			<phrasegroup id="lid_open">
+			<phrase>cf_door_creak_short</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.100823400">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatcolouristheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_red</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_yellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_itsredwithapattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thereisachickeninthepicture</phrase>
+			<phrase>cq_findthechicken</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_gooditisawhitechicken</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_findthechicken</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thegirlkickstheballwithheryellowshoeisshegoodatkickingletsfindout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_acatishelpingtoo</phrase>
+			<phrase>cq_findthecat</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thecatiskickingwithtwolegs</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_findthecat</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanybluebirdsareinthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_nine</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_therearefourbirdsintheairandfiveontheground</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatisthegirlcarrying</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_abucket</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_aladder</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_shewantstoclimbuptolookforherball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p11">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_wherewilltheredballgonextletssee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p12">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_goodbyeredball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p13_1.aif</url>
+	<relurl>p13_1.aif</relurl>
+	<timings text="“Mguu wangu wa mia moja thelathini na saba,” alilalama Jongoo. " frames="214286">
+		<timing id="0" start="0.000" end="0.378" startframe="0" framelength="16673" text="Mguu"/>
+		<timing id="1" start="0.378" end="0.750" startframe="16673" framelength="16393" text="wangu"/>
+		<timing id="2" start="0.750" end="0.913" startframe="33066" framelength="7203" text="wa"/>
+		<timing id="3" start="0.913" end="1.105" startframe="40269" framelength="8442" text="mia"/>
+		<timing id="4" start="1.105" end="1.597" startframe="48711" framelength="21723" text="moja"/>
+		<timing id="5" start="1.597" end="2.303" startframe="70434" framelength="31111" text="thelathini"/>
+		<timing id="6" start="2.303" end="2.418" startframe="101545" framelength="5083" text="na"/>
+		<timing id="7" start="2.418" end="3.036" startframe="106628" framelength="27267" text="saba"/>
+		<timing id="8" start="3.482" end="4.242" startframe="153573" framelength="33496" text="alilalama"/>
+		<timing id="9" start="4.242" end="4.859" startframe="187069" framelength="27217" text="Jongoo"/>
+	</timings>
+</xml>

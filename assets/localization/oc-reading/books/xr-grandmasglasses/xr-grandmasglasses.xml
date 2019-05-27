@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<segment id="ting">
+	<phrase id="p0_1" audio="true">Magalasi a agogo ali kuti?</phrase>
+	<phrase id="p1_1" audio="true">Agogo amataya magalasi awo pafupipafupi. Sangathe kuona popanda magalasi awo. Koma atha kuwaona bwanji ngati sangathe kuwona?</phrase>
+	<phrase id="p2_1" audio="true">Agogo akufunika ine ndiwathandize. Ine ndine katswiri wofufuza magalasi. Ndimayang’ana m’mwamba ndi pansi. </phrase>
+	<phrase id="p2_2" audio="true">Ndimawapeza magalasi a agogo nthawi zonse.</phrase>
+	<phrase id="p3_1" audio="true">Tsiku lina ndinawapeza magalasi a agogo kubafa. Anali pasinki.</phrase>
+	<phrase id="p3_2" audio="true">Nthawi ina ndinawapeza pabedi la agogo. Anali pafupi ndi pilo wawo.</phrase>
+	<phrase id="p4_1" audio="true">Nthawi ina ndinawapeza magalasi a agogo pamutu pawo! Anaiwala kuti anali pamenepo.</phrase>
+	<phrase id="p4_2" audio="true">Koma lero, sindingathe kuwapeza magalasi a agogo paliponse!</phrase>
+	<phrase id="p5_1" audio="true">Ndayang’ana m’bafa. Ndayang’ana pabedi la agogo.</phrase>
+	<phrase id="p5_2" audio="true">Ndayang’ana m’makabati ngakhalenso pamutu pa agogo!</phrase>
+	<phrase id="p6_1" audio="true">Ndayang’ana pansi pa mpando wa agogo. Palibe kalikonse! Palibe magalasi!</phrase>
+	<phrase id="p6_2" audio="true">Ndikudabwa kuti ali kuti.</phrase>
+	<phrase id="p7_1" audio="true">“Mwachita chiyani lero, agogo?” ndifunsa. “Ndiuzeni malo onse omwe munapitako.”</phrase>
+	<phrase id="p7_2" audio="true">Agogo aganiza nthawi yaitali komanso mozama.</phrase>
+	<phrase id="p8_1" audio="true">“Poyamba,” atero agogo, “Vini anabwera kudzamwa tiyi.” </phrase>
+	<phrase id="p8_2" audio="true">“Magalasi anu munali nawo nthawi imeneyo?” ndifunsa. </phrase>
+	<phrase id="p8_3" audio="true">“Inde,” atero. “Ndimatha kumuona Vini bwino.” </phrase>
+	<phrase id="p9_1" audio="true">“Kenaka Laju anabwera kudzatenga juzi lomwe ndinaluka,” atero agogo. “Ndipo ndinalemba makalata, choncho ndiyenera kuti ndinali nawobe nthawi imeneyo.”</phrase>
+	<phrase id="p10_1" audio="true">“Kenaka ndinalankhula ndi mchimwene wanga pafoni,” atero agogo.</phrase>
+	<phrase id="p10_2" audio="true">“Munalankhulana kwa nthawi yaitali?” ndifunsa.</phrase>
+	<phrase id="p10_3" audio="true">“Inde,” atero agogo.</phrase>
+	<phrase id="p11_1" audio="true">“Mumaluka nthawi imene mumalankhulana?” ndifunsa.</phrase>
+	<phrase id="p11_2" audio="true">“Inde!” atero agogo.</phrase>
+	<phrase id="p11_3" audio="true">Ndikuganiza ndikudziwa komwe magalasi a agogo angakhale.</phrase>
+	<phrase id="p12_1" audio="true">Awa ali apa! Pafupi ndi foni. Akulungika mu ulusi.</phrase>
+	<phrase id="p12_2" audio="true">Ndawapeza magalasi a agogo!</phrase>
+	<phrase id="ps0_1" audio="true">Magalasi a agogo ali kuti?</phrase>
+	<phrase id="ps1_1" audio="true">Agogo amataya magalasi awo pafupipafupi. Sangathe kuona popanda magalasi awo. Koma atha kuwaona bwanji ngati sangathe kuwona?</phrase>
+	<phrase id="ps2_1" audio="true">Agogo akufunika ine ndiwathandize. Ine ndine katswiri wofufuza magalasi. Ndimayang’ana m’mwamba ndi pansi. </phrase>
+	<phrase id="ps2_2" audio="true">Ndimawapeza magalasi a agogo nthawi zonse.</phrase>
+	<phrase id="ps3_1" audio="true">Tsiku lina ndinawapeza magalasi a agogo kubafa. Anali pasinki.</phrase>
+	<phrase id="ps3_2" audio="true">Nthawi ina ndinawapeza pabedi la agogo. Anali pafupi ndi pilo wawo.</phrase>
+	<phrase id="ps4_1" audio="true">Nthawi ina ndinawapeza magalasi a agogo pamutu pawo! Anaiwala kuti anali pamenepo.</phrase>
+	<phrase id="ps4_2" audio="true">Koma lero, sindingathe kuwapeza magalasi a agogo paliponse!</phrase>
+	<phrase id="ps5_1" audio="true">Ndayang’ana m’bafa. Ndayang’ana pabedi la agogo.</phrase>
+	<phrase id="ps5_2" audio="true">Ndayang’ana m’makabati ngakhalenso pamutu pa agogo!</phrase>
+	<phrase id="ps6_1" audio="true">Ndayang’ana pansi pa mpando wa agogo. Palibe kalikonse! Palibe magalasi!</phrase>
+	<phrase id="ps6_2" audio="true">Ndikudabwa kuti ali kuti.</phrase>
+	<phrase id="ps7_1" audio="true">“Mwachita chiyani lero, agogo?” ndifunsa. “Ndiuzeni malo onse omwe munapitako.”</phrase>
+	<phrase id="ps7_2" audio="true">Agogo aganiza nthawi yaitali komanso mozama.</phrase>
+	<phrase id="ps8_1" audio="true">“Poyamba,” atero agogo, “Vini anabwera kudzamwa tiyi.” </phrase>
+	<phrase id="ps8_2" audio="true">“Magalasi anu munali nawo nthawi imeneyo?” ndifunsa. </phrase>
+	<phrase id="ps8_3" audio="true">“Inde,” atero. “Ndimatha kumuona Vini bwino.” </phrase>
+	<phrase id="ps9_1" audio="true">“Kenaka Laju anabwera kudzatenga juzi lomwe ndinaluka,” atero agogo. “Ndipo ndinalemba makalata, choncho ndiyenera kuti ndinali nawobe nthawi imeneyo.”</phrase>
+	<phrase id="ps10_1" audio="true">“Kenaka ndinalankhula ndi mchimwene wanga pafoni,” atero agogo.</phrase>
+	<phrase id="ps10_2" audio="true">“Munalankhulana kwa nthawi yaitali?” ndifunsa.</phrase>
+	<phrase id="ps10_3" audio="true">“Inde,” atero agogo.</phrase>
+	<phrase id="ps11_1" audio="true">“Mumaluka nthawi imene mumalankhulana?” ndifunsa.</phrase>
+	<phrase id="ps11_2" audio="true">“Inde!” atero agogo.</phrase>
+	<phrase id="ps11_3" audio="true">Ndikuganiza ndikudziwa komwe magalasi a agogo angakhale.</phrase>
+	<phrase id="ps12_1" audio="true">Awa ali apa! Pafupi ndi foni. Akulungika mu ulusi.</phrase>
+	<phrase id="ps12_2" audio="true">Ndawapeza magalasi a agogo!</phrase>
+</segment>

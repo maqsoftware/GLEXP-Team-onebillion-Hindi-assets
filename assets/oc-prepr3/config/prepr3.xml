@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+		<rectangle id="hiswatch" pos="0.215282,0.293037" src="hiswatch" fill="249,207,83" zpos="0" hidden="true" x="0.150692" y="0.232315" width="0.129181" height="0.121445" />
+	</event>
+	<event id="passage" textsize="40" >
+		<image id="arrow" pos="0.950748,0.917923" src="confirmNormal" scalex="0.624605" scaley="0.624605" zpos="3.001" />
+		<rectangle id="textbox" pos="0.5,0.393127" src="textbox" fill="255,38,0" fillopacity="0.368841" zpos="3" hidden="true" x="0.129883" y="0.2724" width="0.740234" height="0.241455" />
+	</event>
+	<event id="questions" textsize="40" >
+		<rectangle id="labelbox" pos="0.494074,0.311752" src="labelbox" fill="208,245,251" stroke="194,229,235" strokewidth="1" zpos="3.001" x="0.304688" y="0.262405" width="0.378773" height="0.0986938" cornerradius="0.0458856" />
+		<rectangle id="textbox" pos="0.5,0.5" src="textbox" fill="255,38,0" fillopacity="0.368841" zpos="3" hidden="true" x="0.304724" y="0.0830053" width="0.390553" height="0.833989" />
+	</event>
+</events>

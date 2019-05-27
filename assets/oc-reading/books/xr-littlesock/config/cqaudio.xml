@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.101405912">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lookatthebasket</phrase>
+			<phrase>cq_howmanysockscanyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_fivesockswaitingtobewashed</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howislittlesockfeeling</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_worried</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_happy</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_hesworriedbecauseheslost</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_willmousehelplittlesockletssee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchspider</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_spiderishanginginherweb</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchspider</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whereisthemarblegoing</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_tothebasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_tothedrawers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_themarbleisrollingtowardsthedrawersthatswherethecleansockslive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p10">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thesocksaretogetheragainbutlittlesockdidnotgetwashedlittlesockisstilldirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl8_mipira.aif</url>
+	<relurl>psyl8_mipira.aif</relurl>
+	<timings text="mi - pi - ra" frames="77381">
+		<timing id="0" start="0.000" end="0.504" startframe="0" framelength="22225" text="mi"/>
+		<timing id="1" start="0.725" end="1.123" startframe="31966" framelength="17576" text="pi"/>
+		<timing id="2" start="1.378" end="1.755" startframe="60757" framelength="16624" text="ra"/>
+	</timings>
+</xml>

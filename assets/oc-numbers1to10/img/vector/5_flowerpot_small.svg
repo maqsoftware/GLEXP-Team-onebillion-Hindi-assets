@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="553.859px" height="197.945px" viewBox="0 0 553.859 197.945" enable-background="new 0 0 553.859 197.945"
+	 xml:space="preserve">
+<polygon id="colback" fill="#A0CC4F" stroke="#130200" stroke-width="3" stroke-miterlimit="10" points="522.729,2.722 
+	30.667,1.501 4.894,18.852 548.756,20.448 "/>
+<polygon id="shadowback" opacity="0.2" enable-background="new    " points="522.729,2.722 30.667,1.501 6.707,18.914 
+	548.756,20.448 "/>
+<rect id="colleftfoot" x="55.886" y="176.355" transform="matrix(-1 -0.0014 0.0014 -1 131.9447 371.3712)" fill="#A0CC4F" stroke="#130200" stroke-width="4" stroke-miterlimit="10" width="20.429" height="18.57"/>
+<rect id="shadowleftfoot" x="55.886" y="176.355" transform="matrix(-1 -0.0014 0.0014 -1 131.9447 371.3712)" opacity="0.2" enable-background="new    " width="20.429" height="18.57"/>
+<polygon id="colrightfoot" fill="#A0CC4F" stroke="#130200" stroke-width="4" stroke-miterlimit="10" points="493.537,195.942 
+	473.11,195.91 473.135,177.341 493.562,177.373 "/>
+<polygon id="shadowrightfoot" opacity="0.2" enable-background="new    " points="493.537,195.942 473.11,195.91 473.135,177.341 
+	493.562,177.373 "/>
+<polygon id="colfront" fill="#A0CC4E" stroke="#130200" stroke-width="6" stroke-miterlimit="10" points="21.685,29.597 
+	33.414,182.513 520.206,183.583 538.055,30.732 "/>
+<path id="shadowfront" opacity="0.2" enable-background="new    " d="M171.466,40.991c77.017,3.202,303.258,18.304,299.561,85.085
+	c-1.228,22.139-25.996,46.125-70.563,55.532l117.358,0.174l18.052-140.254l-80.096-0.118c-0.053,0.113-0.099,0.229-0.146,0.346
+	c-0.148,0.354-0.492,0.569-0.854,0.569l-0.358-0.073c-0.352-0.144-0.566-0.483-0.569-0.845L171.466,40.991L171.466,40.991z"/>
+<line fill="none" stroke="#130200" stroke-width="3" stroke-miterlimit="10" x1="33.272" y1="19.568" x2="31.616" y2="1.151"/>
+<line fill="none" stroke="#130200" stroke-width="3" stroke-miterlimit="10" x1="521.829" y1="2.219" x2="519.53" y2="20.631"/>
+<path id="dirt" fill="#DEB062" d="M505.438,12.838c-1.283-1.045-12.024-0.39-12.736,1.416c-5.868-0.127-12.544-0.255-19.916-0.38
+	c0.41-0.603-30.604-0.794-30.438-0.446c-11.787-0.15-24.539-0.294-37.992-0.43c0.205-0.442-16.776-5.351-18.119-3.273
+	c-1.281-1.047-29.32,2.844-37.778,2.776c0.099-0.311-31.155-0.221-31.155-0.221c-7.438-0.047-14.914-0.098-22.398-0.14l0.006-0.036
+	c0.002-3.003-17.126-3.977-18.468-1.896c-1.282-1.047-3.4-1.733-5.806-1.74c-3.599-0.005-43.064,3.337-50.002,3.311
+	c-1.406-2.001-16.242-2.043-17.671-0.062c-19.385-0.061-37.832-0.096-54.686-0.11c0,0-36.097-2.677-36.666,0.019
+	c-8.063,0.018-15.405,0.039-21.916,0.077c-0.817-2.533-34.173-2.525-34.178,0.479l0.044,0.242
+	c-20.24,2.041-33.768,9.479-33.768,9.479l503.791,3.031c0,0,1.361-4.833-2.508-8.006C523.077,16.927,506.78,10.762,505.438,12.838z"
+	/>
+<polygon id="coltop" fill="#A0CC4E" stroke="#130200" stroke-width="4" stroke-miterlimit="10" points="3.02,18.744 3.002,39.795 
+	550.836,41.131 550.857,20.08 "/>
+</svg>

@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Nura akakimbia mbali na kaka zake. Alipanda juu kabisa ya mti wake maalum kutafakari. Hakuna yeyote aliyeweza kupanda haraka kama Nura." frames="533919">
+		<timing id="0" start="0.000" end="0.632" startframe="0" framelength="27874" text="Nura"/>
+		<timing id="1" start="0.678" end="1.380" startframe="29880" framelength="30993" text="akakimbia"/>
+		<timing id="2" start="1.380" end="1.790" startframe="60873" framelength="18048" text="mbali"/>
+		<timing id="3" start="1.790" end="1.957" startframe="78921" framelength="7390" text="na"/>
+		<timing id="4" start="1.957" end="2.207" startframe="86311" framelength="11003" text="kaka"/>
+		<timing id="5" start="2.207" end="2.774" startframe="97314" framelength="25020" text="zake"/>
+		<timing id="6" start="3.546" end="4.191" startframe="156388" framelength="28414" text="Alipanda"/>
+		<timing id="7" start="4.191" end="4.456" startframe="184802" framelength="11717" text="juu"/>
+		<timing id="8" start="4.456" end="5.060" startframe="196519" framelength="26640" text="kabisa"/>
+		<timing id="9" start="5.060" end="5.247" startframe="223159" framelength="8239" text="ya"/>
+		<timing id="10" start="5.247" end="5.512" startframe="231398" framelength="11675" text="mti"/>
+		<timing id="11" start="5.512" end="5.913" startframe="243073" framelength="17684" text="wake"/>
+		<timing id="12" start="5.913" end="6.637" startframe="260757" framelength="31948" text="maalum"/>
+		<timing id="13" start="6.637" end="7.588" startframe="292705" framelength="41943" text="kutafakari"/>
+		<timing id="14" start="8.482" end="8.940" startframe="374046" framelength="20218" text="Hakuna"/>
+		<timing id="15" start="8.940" end="9.675" startframe="394264" framelength="32386" text="yeyote"/>
+		<timing id="16" start="9.675" end="10.240" startframe="426650" framelength="24954" text="aliyeweza"/>
+		<timing id="17" start="10.240" end="10.826" startframe="451604" framelength="25810" text="kupanda"/>
+		<timing id="18" start="10.826" end="11.396" startframe="477414" framelength="25167" text="haraka"/>
+		<timing id="19" start="11.396" end="11.715" startframe="502581" framelength="14058" text="kama"/>
+		<timing id="20" start="11.715" end="12.107" startframe="516639" framelength="17280" text="Nura"/>
+	</timings>
+</xml>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whodoyouthinklolosfriendswillbeletsgowithherandfindout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thereisaladybirdonlolosfoottouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theladybirdisenjoyingthegrasswithlolo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_thereisaladybirdonlolosfoottouchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatelsecanyouseeinthesky</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_acloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_astar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thestarshinesatnightwiththemoon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanystarsareinthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_onetwothreefourfivesixseveneightstarsshiningbrightly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howdoeslolodescribetherain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_coolandwet</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_hotanddry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_therainwatersthegroundsotheplantscangrowitsrefreshingonahotday</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_checkagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchthelightening</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_loloiswatchingthestormthroughthewindowthelightningisflashinginthesky</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchthelightening</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p11">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_loloiseatinganappletouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_lolohaspickedtheapplefromthetreeandnowshessittinginthetreetoeatit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_checkagain</phrase>
+			<phrase>cq_loloiseatinganappletouchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p12">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lolosfriendsareyourfriendstoomakesureyousayhello</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

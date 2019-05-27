@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" >
+	</event>
+	<event id="anna" >
+		<vector id="anna" anchor="0.5,1" pos="0.484577,1.04167" src="anna" zpos="0" />
+	</event>
+	<event id="a" textsize="40" >
+		<vector id="arrow" pos="0.95097,0.92063" src="arrow_next" scalex="0.6475" scaley="0.6475" zpos="0.001" hidden="true" />
+		<path id="bullet_0" pos="0.253021,0.602862" src="bullet_0" fill="33,193,252" shadowcolour="0,0,0" shadowopacity="0.121807" shadowradius="1" shadowxoffset="0" shadowyoffset="3" zpos="0.005" d="M0.2312 0.5597L0.2312 0.6461L0.2748 0.6015L0.2312 0.5597Z" />
+		<path id="bullet_1" pos="0.253021,0.715233" src="bullet_1" fill="33,193,252" shadowcolour="0,0,0" shadowopacity="0.121807" shadowradius="1" shadowxoffset="0" shadowyoffset="3" zpos="0.006" d="M0.2312 0.672L0.2312 0.7584L0.2748 0.7139L0.2312 0.672Z" />
+		<path id="bullet_2" pos="0.253021,0.827604" src="bullet_2" fill="33,193,252" shadowcolour="0,0,0" shadowopacity="0.121807" shadowradius="1" shadowxoffset="0" shadowyoffset="3" zpos="0.007" d="M0.2312 0.7844L0.2312 0.8708L0.2748 0.8262L0.2312 0.7844Z" />
+		<rectangle id="picbox" pos="0.5,0.23024" src="picbox" fill="0,0,255" fillopacity="0.404995" zpos="0" hidden="true" widthtracksheight="true" x="0.346188" y="0.0251567" width="0.307625" height="0.410166" pxwidth="315.008" pxheight="315.008" />
+		<rectangle id="swatch" pos="0.117802,0.437139" src="swatch" fill="218,218,218" shadowcolour="0,0,0" shadowopacity="0.121807" shadowradius="1" shadowxoffset="0" shadowyoffset="3" zpos="0.008" hidden="true" x="0.0840569" y="0.393545" width="0.0674896" height="0.0871887" />
+		<rectangle id="textbox_0" pos="0.61557,0.608599" src="textbox_0" fill="0,0,255" fillopacity="0.404995" zpos="0.002" hidden="true" x="0.306431" y="0.571106" width="0.618279" height="0.0749868" />
+		<rectangle id="textbox_1" pos="0.61557,0.721774" src="textbox_1" fill="0,0,255" fillopacity="0.404995" zpos="0.003" hidden="true" x="0.306431" y="0.68428" width="0.618279" height="0.0749868" />
+		<rectangle id="textbox_2" pos="0.61557,0.834948" src="textbox_2" fill="0,0,255" fillopacity="0.404995" zpos="0.004" hidden="true" x="0.306431" y="0.797455" width="0.618279" height="0.0749868" />
+	</event>
+	<event id="l" >
+		<vector id="arrow" pos="0.959694,0.92006" src="arrow_next" scalex="0.6475" scaley="0.6475" zpos="0" hidden="true" />
+		<rectangle id="textbox1" pos="0.688314,0.210281" src="textbox1" fill="0,0,255" fillopacity="0.404995" zpos="0.001" hidden="true" x="0.297689" y="0.178965" width="0.78125" height="0.0626322" />
+		<rectangle id="textbox2" pos="0.688314,0.33252" src="textbox2" fill="0,0,255" fillopacity="0.404995" zpos="0.002" hidden="true" x="0.297689" y="0.301203" width="0.78125" height="0.0626322" />
+	</event>
+</events>

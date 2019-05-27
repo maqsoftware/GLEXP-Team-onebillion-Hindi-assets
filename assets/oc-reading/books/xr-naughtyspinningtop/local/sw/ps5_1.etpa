@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps5_1.aif</url>
+	<relurl>ps5_1.aif</relurl>
+	<timings text="Balu anarusha pia juu. Inaanguka kwenye bega lake." frames="522690">
+		<timing id="0" start="0.000" end="0.787" startframe="0" framelength="34706" text="Balu"/>
+		<timing id="1" start="1.348" end="2.381" startframe="59435" framelength="45574" text="anarusha"/>
+		<timing id="2" start="3.060" end="3.792" startframe="134924" framelength="32304" text="pia"/>
+		<timing id="3" start="4.582" end="5.350" startframe="202077" framelength="33860" text="juu"/>
+		<timing id="4" start="6.050" end="7.165" startframe="266795" framelength="49193" text="Inaanguka"/>
+		<timing id="5" start="7.931" end="8.741" startframe="349746" framelength="35714" text="kwenye"/>
+		<timing id="6" start="9.544" end="10.410" startframe="420873" framelength="38187" text="bega"/>
+		<timing id="7" start="11.140" end="11.852" startframe="491292" framelength="31398" text="lake"/>
+	</timings>
+</xml>

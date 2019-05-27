@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_letspracticesomewordsforwherethingsare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichballisonthetable</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichballisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_whichballisonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichballisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichballisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_whichballisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichballisonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichballisonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_whichballisonthemat</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosesomethingpinkthatisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosesomethingpinkthatisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosesomethingpinkthatisonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowlookatthegreencapputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthegreencaponthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthegreencaponthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_taketheblueballoffthetableandputitonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_taketheblueballoffthetableandputitonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttheblueballonthemat</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_takethebagfromunderthetableandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_takethebagfromunderthetableandputitonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthebagonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_taketheshoefromthematandputitunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_taketheshoefromthematandputitunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_taketheshoefromthematandputitunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_taketheballfromunderthetableandputitonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_taketheballfromunderthetableandputitonthemat</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_taketheballfromunderthetableandputitonthemat</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="DEMO">
+			<phrase>5_nowlook</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_putthetoycarabovetheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthetoycarabovetheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthetoycarabovetheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_putthecrayonsbelowtheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthecrayonsbelowtheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthecrayonsbelowtheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_puttheclockjusttotherightofthecrayons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttheclockjusttotherightofthecrayons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttheclockjusttotherightofthecrayons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_theschoolbaggoesnexttotheclock</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_theschoolbaggoesnexttotheclock</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_theschoolbaggoesnexttotheclock</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thetorchgoesjustabovetheschoolbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_thetorchgoesjustabovetheschoolbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thetorchgoesjustabovetheschoolbag</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thesunglassesgoabovethetorch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_thesunglassesgoabovethetorch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thesunglassesgoabovethetorch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5r">
+		<phrasegroup id="PROMPT">
+			<phrase>5_puttheboatbetweenthetorchandtheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttheboatbetweenthetorchandtheball</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttheboatbetweenthetorchandtheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5s">
+		<phrasegroup id="PROMPT">
+			<phrase>5_puttheduckbetweenthecarandthesunglasses</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttheduckbetweenthecarandthesunglasses</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttheduckbetweenthecarandthesunglasses</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5t">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thetrumpetgoesbesidethecar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_thetrumpetgoesbesidethecar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thetrumpetgoesbesidethecar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5u">
+		<phrasegroup id="PROMPT">
+			<phrase>5_putthemagnifyingglassbesidethecrayons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthemagnifyingglassbesidethecrayons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthemagnifyingglassbesidethecrayons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5v">
+		<phrasegroup id="PROMPT">
+			<phrase>5_puttheteddybearbelowthetrumpet</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttheteddybearbelowthetrumpet</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttheteddybearbelowthetrumpet</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_goodyoupractisedlotsofwordsthatsaywherethingsare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170312.182022090">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_nowyoullreadsomesentences</phrase>
+			<phrase>sentread_getready</phrase>
+			<phrase>sentread_youarelearningtoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="capsfs">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_lookatthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_thisisasentenceaboutit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="capsfsopt">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_asentencestartswithacapitalletter</phrase>
+			<phrase>sentread_thedotattheendiscalledafullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="capsfsfw">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_seeifyoucansaythefirstword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="comma">
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_letsreadsomemoresentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="commaopt">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_butfirstlookatthecomma</phrase>
+			<phrase>sentread_itbreaksupthesentenceandmakesiteasiertoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="commafw">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_seeifyoucansaythefirstword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="qm">
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_letsreadsomequestions</phrase>
+		</phrasegroup>
+	</event>
+	<event id="qmopt">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_firstlookatthequestionmark</phrase>
+			<phrase>sentread_itgoesattheendofaquestion</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_firstlookatthesequestionmarks</phrase>
+			<phrase>sentread_theytellyouthatthisisaquestion</phrase>
+		</phrasegroup>
+	</event>
+	<event id="qmfw">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_seeifyoucansaythefirstword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="exc">
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_letsreadsomemoresentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="excopt">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_butfirstlookatthisitisanexclamationmark</phrase>
+			<phrase>sentread_weuseittoshowsurpriseandshouting</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_butfirstlookatthese</phrase>
+			<phrase>sentread_theyareexclamationmarks</phrase>
+			<phrase>sentread_weusethemtoshowsurpriseandshouting</phrase>
+		</phrasegroup>
+	</event>
+	<event id="excfw">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_seeifyoucansaythefirstword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="quote">
+		<phrasegroup id="DEMO2">
+			<phrase>sentread_letsreadsomemoresentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="quoteopt">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_butfirstlookatthesetheyarequotationmarks</phrase>
+			<phrase>sentread_theygoatthebeginningandendofwhatsomeoneissaying</phrase>
+		</phrasegroup>
+	</event>
+	<event id="quotefw">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_seeifyoucansaythefirstword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentread_saytheword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sentread_touchtheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>sentread_nowthenextone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentread_saytheword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_rememberwebeginatthefirstword</phrase>
+			<phrase>sentread_wegointhisdirection</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="INTRO">
+			<phrase>sentread_letsdosomemore</phrase>
+			<phrase>sentread_trytosayeachwordbeforeyoutouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentread_saytheword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentread_saytheword</phrase>
+			<phrase>sentread_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finalecapsfs">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_verygoodyoureadsentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finalecomma">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_greatyoumetsentenceswithcommas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finaleqm">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_goodyoumetquestionsandquestionmarks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finaleexc">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_verygoodyoumetsentenceswithexclamationmarks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finalequote">
+		<phrasegroup id="DEMO">
+			<phrase>sentread_greatyoumetsentenceswithquotationmarks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordson">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="red">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

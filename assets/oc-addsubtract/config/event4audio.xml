@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_looktwoapples</phrase>
+			<phrase>4_theboxcanholdthreeapples</phrase>
+			<phrase>4_soiaddonemore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_fillthisboxtogivethreeapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_dragapplestofillthebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_dragapplestofillthebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_twoplusoneequalsthree</phrase>
+			<phrase>4_oneplustwoequalsthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sotwoplusoneis</phrase>
+			<phrase>4_thesameas</phrase>
+			<phrase>4_oneplustwo</phrase>
+			<phrase>4_theybothgivethree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thisboxhasthreecakesitcanholdfourfillit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_filltheboxwithcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowfillthisboxtogivefourcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_filltheboxwithcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sothreeplusoneis</phrase>
+			<phrase>4_thesameas_4c</phrase>
+			<phrase>4_oneplusthree</phrase>
+			<phrase>4_theybothgivefour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thisboxhasthreechocolateeggsitcanholdfivefillit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_filltheboxwithchocolateeggs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_nowfillthisboxtogivefivechocolateeggs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_filltheboxwithchocolateeggs</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sothreeplustwois</phrase>
+			<phrase>4_thesameas_4d</phrase>
+			<phrase>4_twoplusthree</phrase>
+			<phrase>4_theybothgivefive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlook</phrase>
+			<phrase>4_twoplusone</phrase>
+			<phrase>4_oneplustwo_4e</phrase>
+			<phrase>4_theymatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethematchingone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_makeanothermatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="FINAL2">
+			<phrase>4_sotwoplusoneisthesameas</phrase>
+			<phrase>4_oneplustwo_4h</phrase>
+			<phrase>4_theygivethree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_twopluszeroisthesameas</phrase>
+			<phrase>4_zeroplustwo</phrase>
+			<phrase>4_theygivetwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL4">
+			<phrase>4_fourplusoneisthesameas</phrase>
+			<phrase>4_oneplusfour</phrase>
+			<phrase>4_theygivefive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextmatchallthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethematchingone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethematchingone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="FINAL">
+			<phrase>4_nowsaywithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_threepluszeroequalsthree</phrase>
+			<phrase>4_zeroplusthreeequalsthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_fourplustwoequalssix</phrase>
+			<phrase>4_twoplusfourequalssix</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL4">
+			<phrase>4_fiveplustwoequalsseven</phrase>
+			<phrase>4_twoplusfiveequalsseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_herearesomemoretomatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethematchingone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosethematchingone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makeamatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="FINAL">
+			<phrase>4_nowsaywithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_fourpluszeroisthesameas</phrase>
+			<phrase>4_zeroplusfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>4_sixplusoneisthesameas</phrase>
+			<phrase>4_oneplussix</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL4">
+			<phrase>4_fiveplusthreeisthesameas</phrase>
+			<phrase>4_threeplusfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_goodwhenyouaddtwonumbersitdoesnotmatterwhichgoesfirsttheansweristhesame</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equation">
+			<phrase>equation</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>equationslide</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>4_eqtouch</phrase>
+		</phrasegroup>
+	</event>
+</audio>

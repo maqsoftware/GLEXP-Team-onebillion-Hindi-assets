@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="“Mbu!” alisema Badi. “Nitakupata tu.”" frames="163308">
+		<timing id="0" start="0.000" end="0.771" startframe="0" framelength="34000" text="Mbu"/>
+		<timing id="1" start="1.008" end="1.592" startframe="44466" framelength="25757" text="alisema"/>
+		<timing id="2" start="1.592" end="2.137" startframe="70223" framelength="24013" text="Badi"/>
+		<timing id="3" start="2.524" end="3.387" startframe="111298" framelength="38055" text="Nitakupata"/>
+		<timing id="4" start="3.387" end="3.703" startframe="149353" framelength="13955" text="tu"/>
+	</timings>
+</xml>

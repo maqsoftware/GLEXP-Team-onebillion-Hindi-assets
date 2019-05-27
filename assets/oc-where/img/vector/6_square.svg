@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170px" height="170px" viewBox = "0 0 170 170">
+<g transform="translate(0,170) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="colour" d="M10 160.9L160.9 160.9L160.9 10L10 10L10 160.9Z" stroke="rgb(0%,0%,0%)" stroke-width="3" fill="rgb(89.4%,23.1%,77.3%)"  />
+	</g>
+</g>
+</svg>

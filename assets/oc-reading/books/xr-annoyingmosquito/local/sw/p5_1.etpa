@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Ziiiiiii! Sauti ikaenda juu kwenye dari." frames="192379">
+		<timing id="0" start="0.000" end="1.369" startframe="0" framelength="60353" text="Ziiiiiii"/>
+		<timing id="1" start="1.659" end="2.486" startframe="73153" framelength="36496" text="Sauti"/>
+		<timing id="2" start="2.550" end="3.109" startframe="112463" framelength="24654" text="ikaenda"/>
+		<timing id="3" start="3.109" end="3.601" startframe="137117" framelength="21699" text="juu"/>
+		<timing id="4" start="3.670" end="3.934" startframe="161865" framelength="11632" text="kwenye"/>
+		<timing id="5" start="3.934" end="4.362" startframe="173497" framelength="18882" text="dari"/>
+	</timings>
+</xml>

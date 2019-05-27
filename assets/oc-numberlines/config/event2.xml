@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master2" scenes="2a,2b,2c,2d" gradienttop="174,255,252" gradientbottom="233,255,254" colour="245,254,232" >
+		<rectangle id="workrect" pos="0.500822,0.51843" src="workrect" stroke="180,169,148" strokewidth="2" zpos="0" hidden="true" heighttrackswidth="true" x="0.000724792" y="0.16952" width="1.00019" height="0.69782" pxwidth="1024.2" pxheight="535.926" />
+		<linearGradient id="Gradient15" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(82.7451%,100%,70.5882%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(67.0588%,100%,53.3333%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottombar" pos="0.515168,1.0022" parent="workrect" src="bottombar" fill="url(#Gradient15)"  stroke="178,238,159" strokewidth="1" zpos="0.001" x="-0.0143061" y="0.769004" width="1.05895" height="0.466395" />
+		<vector id="pole1" pos="0.0998417,0.458662" parent="workrect" src="mom_pulley" scalex="0.612315" scaley="0.612315" zpos="0.031" />
+		<image id="box_front" pos="0.826973,-0.173314" parent="bottombar" src="2a_hamper_front" zpos="0.045" />
+		<vector id="rope" pos="6.81184,0.1143" parent="pole1" src="rope" scalex="0.991873" scaley="1.02351" zpos="0.007" />
+		<image id="box_back" pos="0.499978,0.5" parent="box_front" src="2a_hamper_back" zpos="0.044" />
+		<group id="box_top"  pos="0.499978,0.5" parent="box_front" src="box_top" zpos="0.046">
+			<image id="frame1" pos="0.499978,0.5" parent="box_front" src="2a_hamper_step1" zpos="0" />
+			<image id="frame2" pos="0.499978,0.5" parent="box_front" src="2a_hamper_step2" zpos="0.001" hidden="true" />
+			<image id="frame3" pos="0.499978,0.5" parent="box_front" src="2a_hamper_step3" zpos="0.002" hidden="true" />
+		</group>
+		<vector id="npeg1" pos="0.0617916,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.008" />
+		<vector id="npeg2" pos="0.0969926,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.009" />
+		<vector id="npeg3" pos="0.132194,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.01" />
+		<vector id="npeg4" pos="0.167394,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.011" />
+		<vector id="npeg5" pos="0.202595,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.012" />
+		<vector id="npeg6" pos="0.237796,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.013" />
+		<vector id="npeg7" pos="0.272997,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.014" />
+		<vector id="npeg8" pos="0.308198,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.015" />
+		<vector id="npeg9" pos="0.343399,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.016" />
+		<vector id="npeg10" pos="0.3786,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.017" />
+		<vector id="npeg11" pos="0.413801,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.018" />
+		<vector id="npeg12" pos="0.449002,0.299036" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.019" />
+		<rectangle id="numbox0" pos="0.784646,1.25173" parent="box_front" src="numbox0" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.033" hidden="true" x="0.626888" y="1.06278" width="0.315516" height="0.377882" />
+		<rectangle id="numbox1" pos="-2.2213,1.01892" parent="box_front" src="numbox1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.039" hidden="true" x="-2.37906" y="0.829983" width="0.315516" height="0.377882" />
+		<rectangle id="numbox2" pos="-1.77983,1.17489" parent="box_front" src="numbox2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.038" hidden="true" x="-1.93759" y="0.985949" width="0.315516" height="0.377882" />
+		<rectangle id="numbox3" pos="-4.10906,1.04642" parent="box_front" src="numbox3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.043" hidden="true" x="-4.26682" y="0.857479" width="0.315516" height="0.377882" />
+		<rectangle id="numbox4" pos="-2.71841,1.1123" parent="box_front" src="numbox4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.04" hidden="true" x="-2.87617" y="0.923354" width="0.315516" height="0.377882" />
+		<rectangle id="numbox5" pos="-3.6175,1.19647" parent="box_front" src="numbox5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.042" hidden="true" x="-3.77526" y="1.00753" width="0.315516" height="0.377882" />
+		<rectangle id="numbox6" pos="-0.291526,1.19899" parent="box_front" src="numbox6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.035" hidden="true" x="-0.449284" y="1.01005" width="0.315516" height="0.377882" />
+		<rectangle id="numbox7" pos="0.255002,1.24342" parent="box_front" src="numbox7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.034" hidden="true" x="0.0972439" y="1.05448" width="0.315516" height="0.377882" />
+		<rectangle id="numbox8" pos="-0.796908,1.06242" parent="box_front" src="numbox8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.036" hidden="true" x="-0.954666" y="0.873483" width="0.315516" height="0.377882" />
+		<rectangle id="numbox9" pos="-1.30637,1.16461" parent="box_front" src="numbox9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.037" hidden="true" x="-1.46413" y="0.975671" width="0.315516" height="0.377882" />
+		<rectangle id="numbox10" pos="-3.19417,1.03004" parent="box_front" src="numbox10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.041" hidden="true" x="-3.35193" y="0.841095" width="0.315516" height="0.377882" />
+		<vector id="obj1" pos="0.148938,13.319" parent="rope" src="tee" scalex="0.860352" scaley="0.860352" zpos="0.002" />
+		<vector id="obj2" pos="0.20441,9.10328" parent="rope" src="sock" scalex="0.78489" scaley="0.78489" zpos="0.003" />
+		<vector id="obj3" pos="0.239152,8.95901" parent="rope" src="sock" scalex="0.78489" scaley="0.78489" zpos="0.004" />
+		<vector id="obj4" pos="0.290756,20.8775" parent="rope" src="trousers" scalex="0.696249" scaley="0.696249" zpos="0.005" />
+		<vector id="obj5" pos="0.367217,12.6455" parent="rope" src="skirt" scalex="1.17313" scaley="1.17313" zpos="0.006" />
+		<vector id="peg1" pos="0.484203,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.02" />
+		<vector id="peg2" pos="0.519404,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.021" />
+		<vector id="peg3" pos="0.554605,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.022" />
+		<vector id="peg4" pos="0.589806,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.023" />
+		<vector id="peg5" pos="0.625007,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.024" />
+		<vector id="peg6" pos="0.660208,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.025" />
+		<vector id="peg7" pos="0.695409,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.026" />
+		<vector id="peg8" pos="0.73061,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.027" />
+		<vector id="peg9" pos="0.765811,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.028" />
+		<vector id="peg10" pos="0.801012,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.029" />
+		<vector id="peg11" pos="0.836213,0.575352" parent="rope" src="peg" scalex="1.1645" scaley="1.1645" zpos="0.03" />
+		<vector id="pole2" pos="0.95075,0.458662" parent="workrect" src="pole" scalex="0.61158" scaley="0.61158" zpos="0.032" />
+	</event>
+	<event id="2a" target="wheel" >
+		<vector id="mom" pos="0.641454,0.503013" parent="pole1" src="mom" scalex="0.624518" scaley="0.624518" zpos="3" hidden="true" />
+	</event>
+	<event id="2b" target="box" >
+	</event>
+	<event id="2c" target="num" nums="7,8,9" >
+	</event>
+	<event id="2d" target="num" nums="1,2,3,4,5" >
+	</event>
+	<event id="master2f" gradienttop="174,255,252" gradientbottom="233,255,254" scenes="2f,2g,2i,2i2,2k,2l,2m,2o,2p,2r,2t,2u,2w,2x,2y,2za,2zc,2zd" maincolour="0,38,255" divcolour="251,2,255" numcolour="0,0,0" hilitecolour="194,12,246" colour="254,64,255" >
+		<linearGradient id="Gradient15" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(82.7451%,100%,70.5882%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(67.0588%,100%,53.3333%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottombar" pos="0.500158,0.900581" src="bottombar" fill="url(#Gradient15)"  stroke="178,238,159" strokewidth="1" zpos="3" hidden="true" x="-0.00878906" y="0.798559" width="1.01789" height="0.204046" />
+		<image id="box_front" pos="0.89917,-0.286088" parent="bottombar" src="2a_hamper_front" zpos="3.007" />
+		<rectangle id="numberline" pos="0.500622,0.40109" src="numberline" stroke="0,0,0" strokewidth="5" zpos="3.001" hidden="true" heighttrackswidth="true" x="0.064537" y="0.280045" width="0.872169" height="0.242091" pxwidth="893.102" pxheight="185.926" />
+		<vector id="arrow" pos="0.844806,-0.156007" parent="numberline" src="arrow" scalex="1.52896" scaley="1.52896" zpos="3.005" hidden="true" />
+		<vector id="arrowhead" pos="0.00764103,0.416623" parent="numberline" src="triangle" zpos="3.002" hidden="true" />
+		<image id="box_back" pos="0.499978,0.5" parent="box_front" src="2a_hamper_back" zpos="3.006" />
+		<group id="box_top"  pos="0.498741,0.497762" parent="box_front" src="box_top" zpos="3.008">
+			<image id="frame1" pos="0.498741,0.497762" parent="box_front" src="2a_hamper_step1" zpos="3" />
+			<image id="frame2" pos="0.498741,0.497762" parent="box_front" src="2a_hamper_step2" zpos="3.001" hidden="true" />
+			<image id="frame3" pos="0.498741,0.497762" parent="box_front" src="2a_hamper_step3" zpos="3.002" hidden="true" />
+		</group>
+		<circle id="dot1" pos="0.00494896,0.495861" parent="numberline" src="dot1" fill="1,71,255" zpos="3.003" hidden="true" x="-0.00998539" y="0.424123" width="0.0298687" height="0.143475" />
+		<circle id="dot2" pos="0.988888,0.49189" parent="numberline" src="dot2" fill="1,71,255" zpos="3.004" hidden="true" x="0.973954" y="0.420153" width="0.0298687" height="0.143475" />
+	</event>
+	<event id="2f" target="dot" >
+	</event>
+	<event id="2g" target="divline" >
+	</event>
+	<event id="2i" target="box" droplocs="0.66,0.713,0.202,0.261,0.404,0.719,0.593,0.216,0.727,0.286,0.469,0.28,0.254,0.738,0.806,0.764,0.530,0.726,0.138,0.719,0.332,0.229" startnum="0" >
+	</event>
+	<event id="2i2" target="num" >
+	</event>
+	<event id="2k" target="tnum" num="0" single="true" >
+	</event>
+	<event id="2l" target="tnum" num="10" single="true" >
+	</event>
+	<event id="2m" target="tnum" num="0,1,2,3,4" single="true" hilitenum="5" >
+	</event>
+	<event id="2o" target="tnum" num="6,7,8,9,10" single="true" >
+	</event>
+	<event id="2p" target="tnum" num="8,9,10" single="false" hilitenum="7" >
+	</event>
+	<event id="2r" target="tnum" num="0,1,2,3" single="false" hilitenum="4" >
+	</event>
+	<event id="2t" target="box" droplocs="0.232,0.197,0.676,0.764,0.496,0.732,0.593,0.401,0.736,0.261,0.370,0.452,0.185,0.726,0.836,0.751,0.468,0.178,0.117,0.222,0.286,0.707" startnum="7" >
+	</event>
+	<event id="2u" target="num" >
+	</event>
+	<event id="2w" target="box" droplocs="0.734,0.242,0.613,0.312,0.525,0.535,0.697,0.738,0.077,0.197,0.435,0.751,0.845,0.732,0.186,0.490,0.394,0.242,0.269,0.222,0.310,0.738" startnum="20" >
+	</event>
+	<event id="2x" target="num" >
+	</event>
+	<event id="2y" target="tnum" num="7,8,9,10" single="false" hilitenum="6" >
+	</event>
+	<event id="2za" target="tnum" num="0,1,2,3" single="false" hilitenum="4" >
+	</event>
+	<event id="2zc" target="box" droplocs=" 0.684,0.242,0.289,0.732,0.456,0.254,0.742,0.738,0.262,0.216,0.858,0.738,0.592,0.522,0.171,0.477,0.505,0.757,0.370,0.458,0.083,0.254" startnum="40" >
+	</event>
+	<event id="2zd" target="num" order="true" >
+	</event>
+</events>

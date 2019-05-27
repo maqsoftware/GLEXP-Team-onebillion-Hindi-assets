@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p10_3.aif</url>
+	<relurl>p10_3.aif</relurl>
+	<timings text="Kucheza katika maji ilikuwa raha sana." frames="153458">
+		<timing id="0" start="0.000" end="0.490" startframe="0" framelength="21610" text="Kucheza"/>
+		<timing id="1" start="0.490" end="0.919" startframe="21610" framelength="18933" text="katika"/>
+		<timing id="2" start="0.919" end="1.462" startframe="40543" framelength="23941" text="maji"/>
+		<timing id="3" start="1.959" end="2.496" startframe="86405" framelength="23681" text="ilikuwa"/>
+		<timing id="4" start="2.496" end="2.813" startframe="110086" framelength="13956" text="raha"/>
+		<timing id="5" start="2.813" end="3.480" startframe="124042" framelength="29416" text="sana"/>
+	</timings>
+</xml>

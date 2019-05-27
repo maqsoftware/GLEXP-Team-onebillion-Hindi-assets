@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p7_2.aif</url>
+	<relurl>p7_2.aif</relurl>
+	<timings text="“Samahani,” alisema Shoro. “Niko bize hivi sasa. Kuna kazi lazima niimalize.”" frames="325944">
+		<timing id="0" start="0.000" end="0.943" startframe="0" framelength="41565" text="Samahani"/>
+		<timing id="1" start="0.943" end="1.552" startframe="41565" framelength="26871" text="alisema"/>
+		<timing id="2" start="1.552" end="2.155" startframe="68436" framelength="26614" text="Shoro"/>
+		<timing id="3" start="2.709" end="3.096" startframe="119484" framelength="17029" text="Niko"/>
+		<timing id="4" start="3.096" end="3.502" startframe="136513" framelength="17917" text="bize"/>
+		<timing id="5" start="3.502" end="3.749" startframe="154430" framelength="10916" text="hivi"/>
+		<timing id="6" start="3.749" end="4.371" startframe="165346" framelength="27424" text="sasa"/>
+		<timing id="7" start="5.365" end="5.690" startframe="236575" framelength="14333" text="Kuna"/>
+		<timing id="8" start="5.690" end="6.039" startframe="250908" framelength="15408" text="kazi"/>
+		<timing id="9" start="6.039" end="6.538" startframe="266316" framelength="22023" text="lazima"/>
+		<timing id="10" start="6.538" end="7.391" startframe="288339" framelength="37605" text="niimalize"/>
+	</timings>
+</xml>

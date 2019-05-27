@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyflowersarethere</phrase>
+			<phrase>5_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyflowersarethere</phrase>
+			<phrase>5_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanyflowersarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyfootballsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyfootballsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5b</phrase>
+			<phrase>5_howmanyfootballsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyumbrellasarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyumbrellasarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5c</phrase>
+			<phrase>5_howmanyumbrellasarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyhatsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyhatsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5d</phrase>
+			<phrase>5_howmanyhatsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyshoesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyshoesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5e</phrase>
+			<phrase>5_howmanyshoesarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanysocksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanysocksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5f</phrase>
+			<phrase>5_howmanysocksarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowlookatthispicture</phrase>
+			<phrase>5_howmanyboatsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyboatsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5g</phrase>
+			<phrase>5_howmanyboatsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyballoonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyballoonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5h</phrase>
+			<phrase>5_howmanyballoonsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5i</phrase>
+			<phrase>5_howmanyfisharethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanybirdsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanybirdsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5j</phrase>
+			<phrase>5_howmanybirdsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanycarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanycarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_howmanycarsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanylionsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanylionsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_howmanylionsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyoftheboatsareblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyoftheboatsareblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5m</phrase>
+			<phrase>5_howmanyoftheboatsareblue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_howmanyoftheballoonsareyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_howmanyoftheballoonsareyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5m</phrase>
+			<phrase>5_howmanyoftheballoonsareyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_verygoodyoucounteduptosixthings</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

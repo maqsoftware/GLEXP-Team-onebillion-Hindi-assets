@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171228.114156139">
+	<event id="demo">
+		<phrasegroup id="DEMO">
+			<phrase>cwys1c_letscountthesquaresintens</phrase>
+			<phrase>cwys1c_nowlook</phrase>
+			<phrase>cwys1c_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p1_1">
+		<phrasegroup id="DEMO">
+			<phrase>cwys1c_onehundredsquares</phrase>
+			<phrase>cwys1c_howmanysquaresaretherealtogethercountinhundreds</phrase>
+			<phrase>cwys1c_choosethenumberfromhere</phrase>
+			<phrase>cwys1c_dragittotheredline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countinhundreds</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>cwys1c_countinhundreds</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p1_2">
+		<phrasegroup id="DEMO">
+			<phrase>cwys1c_onehundredsquares</phrase>
+			<phrase>cwys1c_howmanysquaresaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countinhundreds</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p1_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countinhundreds</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_1">
+		<phrasegroup id="DEMO">
+			<phrase>cwys1c_howmanysquaresnow</phrase>
+			<phrase>cwys1c_countthehundreds</phrase>
+			<phrase>cwys1c_thenthetens</phrase>
+			<phrase>cwys1c_thentheunits</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>cwys1c_onehundredsquares</phrase>
+			<phrase>cwys1c_howmanysquaresaretherealtogether</phrase>
+			<phrase>cwys1c_choosethenumberfromhere</phrase>
+			<phrase>cwys1c_dragittotheredline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countthesquaresinhundredstensandunits</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>cwys1c_countthesquaresinhundredstensandunits</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_2">
+		<phrasegroup id="PROMPT">
+			<phrase>cwys1c_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countthesquaresinhundredstensandunits</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countthesquaresinhundredstensandunits</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2_last">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>cwys1c_countthesquaresinhundredstensandunits</phrase>
+			<phrase>cwys1c_thendragthenumbertotheredline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>cwys1c_excellentwelookedatnumberswithhundredstensandunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="squareson">
+			<phrase>camera_flash</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineon">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberon">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="ten">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="unit">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="panel">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="tenoff">
+			<phrase>spatter_pop_2 </phrase>
+		</phrasegroup>
+		<phrasegroup id="hundred">
+			<phrase>zip_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="makehundred">
+			<phrase>slide_whistle_short </phrase>
+		</phrasegroup>
+		<phrasegroup id="hundredoff">
+			<phrase>spatter_pop_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="type">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="cordigit">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="lines">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="redline">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

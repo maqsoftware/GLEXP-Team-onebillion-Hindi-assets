@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/p9_1.aif</url>
+	<relurl>p9_1.aif</relurl>
+	<timings text="Maxi aliendelea kulifuata jahazi. Alielea kwenye mawimbi. Mwezi uling’aa mgongoni mwake." frames="406108">
+		<timing id="0" start="0.000" end="0.842" startframe="0" framelength="37137" text="Maxi"/>
+		<timing id="1" start="1.080" end="2.012" startframe="47631" framelength="41086" text="aliendelea"/>
+		<timing id="2" start="2.012" end="2.845" startframe="88717" framelength="36741" text="kulifuata"/>
+		<timing id="3" start="2.845" end="3.568" startframe="125458" framelength="31871" text="jahazi"/>
+		<timing id="4" start="3.988" end="5.032" startframe="175880" framelength="46030" text="Alielea"/>
+		<timing id="5" start="5.082" end="5.390" startframe="224105" framelength="13596" text="kwenye"/>
+		<timing id="6" start="5.390" end="6.061" startframe="237701" framelength="29588" text="mawimbi"/>
+		<timing id="7" start="6.568" end="7.136" startframe="289643" framelength="25068" text="Mwezi"/>
+		<timing id="8" start="7.136" end="8.010" startframe="314711" framelength="38527" text="uling’aa"/>
+		<timing id="9" start="8.210" end="8.771" startframe="362080" framelength="24702" text="mgongoni"/>
+		<timing id="10" start="8.771" end="9.209" startframe="386782" framelength="19326" text="mwake"/>
+	</timings>
+</xml>

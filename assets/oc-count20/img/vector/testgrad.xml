@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="1" >
+		<linearGradient id="Gradient5" >
+			<stop offset="0%" stop-color="rgb(100%,0%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+		</linearGradient>
+		<circle id="Circle1" pos="0.516285,0.569079" src="Circle1" fill="url(#Gradient5)"  stroke="0,0,0" strokewidth="1" zpos="0.001" x="0.417934" y="0.480754" width="0.196701" height="0.176651" />
+		<linearGradient id="Gradient6" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(100%,81.3568%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(7.02248%,8.92988%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<path id="Path1" pos="0.818026,0.303645" src="Path1" fill="url(#Gradient6)"  stroke="0,0,0" strokewidth="3" zpos="0.002" d="M0.779278 0.225332c-0.036 0.024-0.067 0.091-0.062 0.121c0.005 0.030 0.028 0.046 0.045 0.053c0.017 0.007 0.145-0.049 0.153-0.078c0.008-0.029-0.055-0.036-0.059-0.069c-0.005-0.032-0.019-0.050-0.032-0.010c-0.014 0.040-0.057 0.101-0.056 0.086c0.001-0.015 0.047-0.128 0.011-0.103Z" />
+		<linearGradient id="Gradient6" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(100%,81.3568%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(7.02248%,8.92988%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="Rectangle1" pos="0.395323,0.231728" src="Rectangle1" fill="url(#Gradient6)"  stroke="0,0,0" strokewidth="1" zpos="0" x="0.314472" y="0.151922" width="0.161701" height="0.159612" />
+	</event>
+</events>

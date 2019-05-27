@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl10_vizuri.aif</url>
+	<relurl>psyl10_vizuri.aif</relurl>
+	<timings text="vi - zu - ri" frames="91423">
+		<timing id="0" start="0.000" end="0.645" startframe="0" framelength="28432" text="vi"/>
+		<timing id="1" start="0.817" end="1.409" startframe="36020" framelength="26096" text="zu"/>
+		<timing id="2" start="1.635" end="2.073" startframe="72107" framelength="19316" text="ri"/>
+	</timings>
+</xml>

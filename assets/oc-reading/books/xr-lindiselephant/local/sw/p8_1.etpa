@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p8_1.aif</url>
+	<relurl>p8_1.aif</relurl>
+	<timings text="Asubuhi iliyofuata, Linda aliona umbo kwa mbali." frames="212159">
+		<timing id="0" start="0.000" end="0.732" startframe="0" framelength="32290" text="Asubuhi"/>
+		<timing id="1" start="0.732" end="1.892" startframe="32290" framelength="51163" text="iliyofuata"/>
+		<timing id="2" start="2.656" end="3.115" startframe="117135" framelength="20247" text="Linda"/>
+		<timing id="3" start="3.115" end="3.634" startframe="137382" framelength="22866" text="aliona"/>
+		<timing id="4" start="3.634" end="4.122" startframe="160248" framelength="21525" text="umbo"/>
+		<timing id="5" start="4.168" end="4.356" startframe="183788" framelength="8310" text="kwa"/>
+		<timing id="6" start="4.356" end="4.811" startframe="192098" framelength="20061" text="mbali"/>
+	</timings>
+</xml>

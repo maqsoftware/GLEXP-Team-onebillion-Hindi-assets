@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl1_kucheza.aif</url>
+	<relurl>psyl1_kucheza.aif</relurl>
+	<timings text="ku - che - za" frames="86986">
+		<timing id="0" start="0.000" end="0.420" startframe="0" framelength="18504" text="ku"/>
+		<timing id="1" start="0.668" end="1.138" startframe="29446" framelength="20757" text="che"/>
+		<timing id="2" start="1.362" end="1.776" startframe="60059" framelength="18269" text="za"/>
+	</timings>
+</xml>

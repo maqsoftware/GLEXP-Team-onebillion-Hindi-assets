@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" gradienttop="168,236,255" gradientbottom="255,255,255" tree_colours="249,103,105;255,245,127;255,196,76;248,159,75;232,91,173;162,217,109;102,170,75;133,167,95;68,189,99" word_colours="201,121,7;141,26,201;9,9,168;37,123,89" >
+		<vector id="bord_1" pos="0.189205,0.455611" src="bord_1" scalex="0.718142" scaley="0.718141" zpos="0.02" hidden="true" />
+		<vector id="bord_2" pos="0.185837,0.46302" src="bord_2" scalex="0.745505" scaley="0.745505" zpos="0.019" hidden="true" />
+		<rectangle id="bottom_bar" pos="0.502731,0.92805" src="bottom_bar" fill="183,244,162" zpos="0.012" x="-0.00545502" y="0.827062" width="1.01637" height="0.201976" />
+		<rectangle id="bottom_bar" pos="0.48502,0.924634" src="bottom_bar" fill="171,246,145" zpos="0.015" hidden="true" x="-0.0498734" y="0.835424" width="1.06979" height="0.178421" />
+		<vector id="box_number" pos="0.0950089,0.870743" src="box_number" zpos="0.026" />
+		<vector id="cloud_1" pos="0.793319,0.109182" src="cloud_1" scalex="0.547859" scaley="0.547859" zpos="0.013" hidden="true" opacity="0.9" />
+		<vector id="cloud_2" pos="0.491693,0.0839283" src="cloud_2" scalex="0.90816" scaley="0.871904" zpos="0.014" hidden="true" opacity="0.9" />
+		<vector id="landscape_0_1" pos="0.508327,0.815099" src="landscape_0_1" scalex="3.8" scaley="3.8" zpos="0.009" hidden="true" />
+		<vector id="landscape_0_2" pos="0.508327,0.815099" src="landscape_0_2" scalex="3.8" scaley="3.8" zpos="0.01" hidden="true" />
+		<vector id="landscape_0_3" pos="0.508327,0.820047" src="landscape_0_3" scalex="3.8" scaley="3.8" zpos="0.011" hidden="true" />
+		<vector id="landscape_1_1" pos="0.496655,0.810028" src="landscape_1_1" zpos="0.006" hidden="true" />
+		<vector id="landscape_1_2" pos="0.498398,0.811981" src="landscape_1_2" zpos="0.007" hidden="true" />
+		<vector id="landscape_1_3" pos="0.497726,0.804169" src="landscape_1_3" zpos="0.008" hidden="true" />
+		<vector id="landscape_2_1" pos="0.496922,0.732778" src="landscape_2_1" zpos="0.003" hidden="true" />
+		<vector id="landscape_2_2" pos="0.496635,0.721059" src="landscape_2_2" zpos="0.004" hidden="true" />
+		<vector id="landscape_2_3" pos="0.497505,0.732127" src="landscape_2_3" zpos="0.005" hidden="true" />
+		<vector id="landscape_3_1" pos="0.497089,0.639221" src="landscape_3_1" zpos="0" hidden="true" />
+		<vector id="landscape_3_2" pos="0.496925,0.622294" src="landscape_3_2" zpos="0.001" hidden="true" />
+		<vector id="landscape_3_3" pos="0.496868,0.63206" src="landscape_3_3" zpos="0.002" hidden="true" />
+		<path id="line" pos="0.505901,0.956731" src="line" fill="255,255,255" stroke="255,255,255" strokewidth="4" zpos="0.018" hidden="true" d="M0.4718 0.9567L0.54 0.9567" />
+		<vector id="nest" pos="0.058546,0.612988" src="nest" scalex="1.30601" scaley="1.30601" fill="119,181,93" zpos="0.025" />
+		<vector id="tree_1" pos="0.480469,0.716146" src="tree_1" scalex="1.62175" scaley="1.62175" fill="239,118,187" zpos="0.021" hidden="true" />
+		<vector id="tree_2" pos="0.483904,0.668739" src="tree_2" scalex="1.30365" scaley="1.30365" fill="239,118,187" zpos="0.022" hidden="true" />
+		<vector id="tree_3" pos="0.473419,0.603841" src="tree_3" scalex="1.55115" scaley="1.55115" fill="239,118,187" zpos="0.023" hidden="true" />
+		<vector id="tree_4" pos="0.484839,0.575846" src="tree_4" scalex="1.86934" scaley="1.86934" fill="239,118,187" zpos="0.024" hidden="true" />
+		<rectangle id="word_rect_big" pos="0.490046,0.257327" src="word_rect_big" fill="255,255,255" zpos="0.016" hidden="true" x="0.244915" y="0.175873" width="0.490261" height="0.162908" />
+		<rectangle id="word_rect_small" pos="0.840759,0.928533" src="word_rect_small" fill="255,255,255" zpos="0.017" hidden="true" x="0.695724" y="0.876938" width="0.29007" height="0.10319" />
+	</event>
+</events>

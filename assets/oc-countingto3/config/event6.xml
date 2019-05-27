@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" gradienttop="210,255,249" gradientbottom="230,255,251" scenes="6a,6b,6c,6d,6e,6f,6g,6h" >
+	</event>
+	<event id="6a" redraw="true" oranges="1" >
+		<image id="dash" pos="0.267334,0.501551" src="tracing_dash1" scaley="1.02" zpos="1.001" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.515838,0.50125" parent="dash" src="trace_1" zpos="1.002" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.003" hidden="true" />
+	</event>
+	<event id="6b" redraw="true" oranges="1" >
+		<image id="dash" pos="0.267334,0.501551" src="tracing_dash1" scaley="1.02" zpos="1.002" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.515838,0.50125" parent="dash" src="trace_1" zpos="1.003" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.001" hidden="true" />
+	</event>
+	<event id="6c" redraw="true" oranges="2" >
+		<image id="dash" pos="0.268097,0.506175" src="tracing_dash2" scalex="1.01" scaley="1.045" zpos="1.001" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.496415,0.499261" parent="dash" src="trace_2" zpos="1.002" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.003" hidden="true" />
+	</event>
+	<event id="6d" redraw="true" oranges="2" >
+		<image id="dash" pos="0.268097,0.506175" src="tracing_dash2" scalex="1.01" scaley="1.045" zpos="1.002" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.496415,0.499261" parent="dash" src="trace_2" zpos="1.003" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.001" hidden="true" />
+	</event>
+	<event id="6e" redraw="true" oranges="3" >
+		<image id="dash" pos="0.265976,0.50474" src="tracing_dash3" scalex="1.02" scaley="1.04" zpos="1.001" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.500833,0.499437" parent="dash" src="trace_3" zpos="1.002" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.003" hidden="true" />
+	</event>
+	<event id="6f" redraw="true" oranges="3" >
+		<image id="dash" pos="0.265976,0.50474" src="tracing_dash3" scalex="1.02" scaley="1.04" zpos="1.002" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.500833,0.499437" parent="dash" src="trace_3" zpos="1.003" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.001" hidden="true" />
+	</event>
+	<event id="6g" redraw="true" oranges="0" >
+		<image id="dash" pos="0.263901,0.509084" src="tracing_dash0" scalex="1.02" scaley="1.05" zpos="1.001" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.499123,0.495154" parent="dash" src="trace_0" zpos="1.002" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.003" hidden="true" />
+	</event>
+	<event id="6h" redraw="true" oranges="0" >
+		<image id="dash" pos="0.263901,0.509084" src="tracing_dash0" scalex="1.02" scaley="1.05" zpos="1.002" />
+		<vector id="orange_bowl" pos="0.714355,0.503906" src="orange_bowl" scalex="0.835878" scaley="0.835878" zpos="1" />
+		<vector id="trace" pos="0.499123,0.495154" parent="dash" src="trace_0" zpos="1.003" />
+		<vector id="trace_arrow" pos="0.945797,0.927053" src="trace_arrow" zpos="1.001" hidden="true" />
+	</event>
+</events>

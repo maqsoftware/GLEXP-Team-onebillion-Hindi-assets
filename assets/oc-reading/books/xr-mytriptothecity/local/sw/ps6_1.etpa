@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Katika soko, kulikuwa na kibanda kikubwa kikiuza matunda mengi. Kulikuwa na mafungu kwa mafungu ya ndizi, mapera na machungwa matamu." frames="1384477">
+		<timing id="0" start="0.000" end="0.796" startframe="0" framelength="35115" text="Katika"/>
+		<timing id="1" start="1.181" end="2.121" startframe="52103" framelength="41437" text="soko"/>
+		<timing id="2" start="3.499" end="4.708" startframe="154299" framelength="53321" text="kulikuwa"/>
+		<timing id="3" start="6.617" end="7.482" startframe="291828" framelength="38134" text="na"/>
+		<timing id="4" start="8.131" end="9.158" startframe="358561" framelength="45326" text="kibanda"/>
+		<timing id="5" start="9.656" end="10.611" startframe="425816" framelength="42130" text="kikubwa"/>
+		<timing id="6" start="11.161" end="12.589" startframe="492193" framelength="62999" text="kikiuza"/>
+		<timing id="7" start="13.078" end="14.272" startframe="576733" framelength="52669" text="matunda"/>
+		<timing id="8" start="14.869" end="15.759" startframe="655726" framelength="39234" text="mengi"/>
+		<timing id="9" start="16.435" end="17.570" startframe="724797" framelength="50062" text="Kulikuwa"/>
+		<timing id="10" start="18.062" end="18.809" startframe="796523" framelength="32975" text="na"/>
+		<timing id="11" start="19.346" end="20.357" startframe="853148" framelength="44594" text="mafungu"/>
+		<timing id="12" start="20.880" end="21.600" startframe="920811" framelength="31764" text="kwa"/>
+		<timing id="13" start="21.999" end="22.978" startframe="970141" framelength="43209" text="mafungu"/>
+		<timing id="14" start="23.492" end="24.221" startframe="1035984" framelength="32155" text="ya"/>
+		<timing id="15" start="24.644" end="25.673" startframe="1086797" framelength="45397" text="ndizi"/>
+		<timing id="16" start="26.169" end="27.222" startframe="1154060" framelength="46442" text="mapera"/>
+		<timing id="17" start="27.689" end="28.410" startframe="1221078" framelength="31781" text="na"/>
+		<timing id="18" start="28.755" end="29.763" startframe="1268085" framelength="44464" text="machungwa"/>
+		<timing id="19" start="30.433" end="31.394" startframe="1342114" framelength="42363" text="matamu"/>
+	</timings>
+</xml>

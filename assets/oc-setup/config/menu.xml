@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event id="master_home" colour="0,0,0" >
+        <path id="home_line_step_1" pos="0.515471,0.726562" src="home_line_step_1" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.003" d="M0 0.7266L1.031 0.7266" />
+        <path id="home_line_step_2" pos="0.525391,0.453125" src="home_line_step_2" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.004" d="M0 0.4531L1.051 0.4531" />
+        <path id="home_line_step_3" pos="0.514479,0.179688" src="home_line_step_3" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.005" d="M0 0.1797L1.029 0.1797" />
+        <rectangle id="home_number_step_1" pos="0.078125,0.316406" src="home_number_step_1" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.002" text="1" x="0.0195312" y="0.21875" width="0.117188" height="0.195312" />
+        <rectangle id="home_number_step_2" pos="0.078125,0.589844" src="home_number_step_2" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.001" text="2" x="0.0195312" y="0.492188" width="0.117188" height="0.195312" />
+        <rectangle id="home_number_step_3" pos="0.078125,0.863281" src="home_number_step_3" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0" text="3" x="0.0195312" y="0.765625" width="0.117188" height="0.195312" />
+        <vector id="home_onebillion_logo" pos="0.0771484,0.0867971" src="onebillion_logo" zpos="1.002" />
+        <rectangle id="home_title_left" pos="0.343407,0.0898438" src="home_title_left" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="1.001" text="onecourse setup" x="0.15786" y="0.0507812" width="0.371094" height="0.078125" />
+        <rectangle id="home_title_right" pos="0.78236,0.0898438" src="home_title_right" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="1" text="XPRIZE USE ONLY" x="0.596813" y="0.0507812" width="0.371094" height="0.078125" />
+        <rectangle id="home_button_step_1_example" pos="0.820312,0.342448" src="home_button_step_1_example" fill="64,181,73" stroke="255,255,255" strokewidth="3" zpos="2" text="Test onecourse" x="0.664062" y="0.303385" width="0.3125" height="0.078125" />
+        <rectangle id="home_button_step_1_video" pos="0.322266,0.342448" src="home_button_step_1_video" fill="64,181,73" stroke="255,255,255" strokewidth="3" zpos="2.001" text="Watch video" x="0.166016" y="0.303385" width="0.3125" height="0.078125" />
+        <rectangle id="home_label_step_1" pos="0.322266,0.270833" src="home_label_step_1" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="2.002" text="Test this tablet" x="0.166016" y="0.251302" width="0.3125" height="0.0390625" />
+        <rectangle id="home_button_step_set_date_time" pos="0.820312,0.589844" src="home_button_step_set_date_time" fill="252,207,12" stroke="0,0,0" strokewidth="3" zpos="3" text="Set date and time" x="0.664062" y="0.550781" width="0.3125" height="0.078125" />
+        <rectangle id="home_field_step_2_date" pos="0.371094,0.589844" src="home_field_step_2_date" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="3.003" text="Connecting to NTP server..." x="0.166016" y="0.550781" width="0.410156" height="0.078125" />
+        <rectangle id="home_label_step_2_1" pos="0.322266,0.52474" src="home_label_step_2_1" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="3.002" text="Current date and time" x="0.166016" y="0.505208" width="0.3125" height="0.0390625" />
+        <rectangle id="home_label_step_2_2" pos="0.820312,0.52474" src="home_label_step_2_2" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="3.001" text="If incorrect" x="0.664062" y="0.505208" width="0.3125" height="0.0390625" />
+        <rectangle id="home_label_step_2_no_server" pos="0.322266,0.654948" src="home_label_step_2_no_server" fill="0,0,0" stroke="253,214,4" strokewidth="3" zpos="3.004" text="No time server found" x="0.166016" y="0.635417" width="0.3125" height="0.0390625" />
+        <rectangle id="home_label_step_2_server_ok" pos="0.322266,0.654948" src="home_label_step_2_server_ok" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="3.005" text="Synced from time server" x="0.166016" y="0.635417" width="0.3125" height="0.0390625" />
+        <rectangle id="home_button_activate_onecourse" pos="0.5,0.863281" src="home_button_activate_onecourse" fill="243,61,49" stroke="255,255,255" strokewidth="3" zpos="4" text="Set trial start date" x="0.280273" y="0.811198" width="0.439453" height="0.104167" />
+    </event>
+	<event id="master_set_date" colour="0,0,0" >
+		<rectangle id="date_title" pos="0.5,0.186198" src="date_title" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="0" text="Select the CURRENT DATE" x="0" y="0.153646" width="1" height="0.0651042" />
+	</event>
+	<event id="master_set_trial" colour="0,0,0" >
+		<rectangle id="trial_title" pos="0.5,0.186198" src="trial_title" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="0" text="Select the date the field trial STARTED or STARTS" x="0" y="0.153646" width="1" height="0.0651042" />
+	</event>
+	<event id="master_confirm" colour="0,0,0" >
+		<rectangle id="confirmation_button_cancel" pos="0.244141,0.895833" src="confirmation_button_cancel" fill="252,207,12" stroke="0,0,0" strokewidth="3" zpos="0" text="No, return to setup" x="0.0732422" y="0.856771" width="0.341797" height="0.078125" />
+		<rectangle id="confirmation_button_start" pos="0.756836,0.895833" src="confirmation_button_start" fill="64,181,73" stroke="255,255,255" strokewidth="3" zpos="0.003" text="Yes, complete setup" x="0.585938" y="0.856771" width="0.341797" height="0.078125" />
+		<rectangle id="confirmation_field_date" pos="0.317383,0.355469" src="confirmation_field_date" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="0.004" text="Test onecourse" x="0.0732422" y="0.322917" width="0.488281" height="0.0651042" />
+		<rectangle id="confirmation_field_trial" pos="0.317383,0.615885" src="confirmation_field_trial" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="0.002" text="Test onecourse" x="0.0732422" y="0.583333" width="0.488281" height="0.0651042" />
+		<rectangle id="confirmation_label_date" pos="0.317383,0.290365" src="confirmation_label_date" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.001" text="Current date and time" x="0.0732422" y="0.270833" width="0.488281" height="0.0390625" />
+		<rectangle id="confirmation_label_question" pos="0.500488,0.824219" src="confirmation_label_question" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.006" text="Are both of these correct?" x="0.0732422" y="0.804688" width="0.854492" height="0.0390625" />
+		<rectangle id="confirmation_label_trial_start" pos="0.317383,0.550781" src="confirmation_label_trial_start" fill="0,0,0" stroke="119,119,119" strokewidth="3" zpos="0.005" text="Date the field trial started / starts" x="0.0732422" y="0.53125" width="0.488281" height="0.0390625" />
+		<vector id="confirmation_onebillion_logo" pos="0.0771484,0.0867971" src="onebillion_logo" zpos="0.009" />
+		<rectangle id="confirmation_title_left" pos="0.343407,0.0898438" src="confirmation_title_left" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="0.008" text="onecourse setup" x="0.15786" y="0.0507812" width="0.371094" height="0.078125" />
+		<rectangle id="confirmation_title_right" pos="0.78236,0.0898438" src="confirmation_title_right" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="0.007" text="XPRIZE USE ONLY" x="0.596813" y="0.0507812" width="0.371094" height="0.078125" />
+	</event>
+	<event id="master_video" colour="0,0,0" >
+	</event>
+	<event id="master_final" >
+		<rectangle id="final_label_1" pos="0.5,0.420573" src="final_label_1" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="2" text="The device has been setup." x="0" y="0.388021" width="1" height="0.0651042" />
+		<rectangle id="final_label_2" pos="0.5,0.498698" src="final_label_2" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="2.001" text="It will shut down automatically within 30s." x="0" y="0.466146" width="1" height="0.0651042" />
+		<rectangle id="final_label_3" pos="0.5,0.576823" src="final_label_3" fill="0,0,0" stroke="255,255,255" strokewidth="3" zpos="2.002" text="Please only turn the device back on when giving it to the child." x="0" y="0.544271" width="1" height="0.0651042" />
+		<rectangle id="final_progress" pos="0.50079,0.934896" src="final_progress" fill="64,181,73" stroke="0,0,0" strokewidth="3" zpos="2.006" x="0.183407" y="0.902344" width="0.634766" height="0.0651042" />
+		<vector id="final_onebillion_logo" pos="0.0771484,0.0867971" src="onebillion_logo" zpos="2.005" />
+		<rectangle id="final_title_left" pos="0.343407,0.0898438" src="final_title_left" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="2.004" text="onecourse setup" x="0.15786" y="0.0507812" width="0.371094" height="0.078125" />
+		<rectangle id="final_title_right" pos="0.78236,0.0898438" src="final_title_right" fill="255,255,255" stroke="255,255,255" strokewidth="3" zpos="2.003" text="XPRIZE USE ONLY" x="0.596813" y="0.0507812" width="0.371094" height="0.078125" />
+	</event>
+</events>

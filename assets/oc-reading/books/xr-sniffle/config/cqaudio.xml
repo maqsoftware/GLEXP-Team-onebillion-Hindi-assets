@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_doesdivyafeelwell</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_no</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_divyaissickshehasarednoseandahotface</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchthewinnerscup</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_divyasteamwonthegame</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+			<phrase>cq_touchthewinnerscup</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_shoulddivyahugherfriendstoday</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_no</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_thinkagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_divyamightpasshersnifflestoherfriendstheymightgetsicktoo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thecupiscastingashadowonthewalltouchtheshadow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_lookhowbigtheshadowis</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_thecupiscastingashadowonthewalltouchtheshadow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_itlookslikeeveryonessicknow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p11">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchpoojasrednose</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_divyapassedhergermsontopoojanowsheissickaswell</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchpoojasrednose</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p12">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_poordivyamaybesheshouldhavestayedathomewhenshewassick</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

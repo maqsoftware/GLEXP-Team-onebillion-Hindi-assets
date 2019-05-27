@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" textsize="95" colour="254,255,255" >
+		<vector id="obj_1" pos="0.170025,0.465296" src="smiley" scalex="2" scaley="2" zpos="0" />
+		<vector id="obj_2" pos="0.499813,0.458201" src="smiley" scalex="2" scaley="2" zpos="0.001" />
+		<vector id="obj_3" pos="0.829601,0.461431" src="smiley" scalex="2" scaley="2" zpos="0.002" />
+		<circle id="pos_1" pos="0.500174,0.823535" src="pos_1" fill="39,39,36" zpos="0.003" x="0.478672" y="0.794866" width="0.0430031" height="0.0573374" />
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="1" />
+	</event>
+</events>

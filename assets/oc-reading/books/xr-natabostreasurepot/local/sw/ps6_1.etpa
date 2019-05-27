@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Kaka zake walijua wapi hasa watamuona. “Samahani!” walisema. “Tafadhali shuka.” Walimrai sana hata wakafikia kumbembeleza kwa muziki." frames="1558575">
+		<timing id="0" start="0.000" end="0.731" startframe="0" framelength="32240" text="Kaka"/>
+		<timing id="1" start="1.674" end="2.632" startframe="73815" framelength="42247" text="zake"/>
+		<timing id="2" start="3.982" end="5.090" startframe="175622" framelength="48848" text="walijua"/>
+		<timing id="3" start="6.459" end="7.368" startframe="284826" framelength="40119" text="wapi"/>
+		<timing id="4" start="8.715" end="9.510" startframe="384317" framelength="35072" text="hasa"/>
+		<timing id="5" start="10.574" end="11.802" startframe="466318" framelength="54161" text="watamuona"/>
+		<timing id="6" start="13.179" end="14.464" startframe="581205" framelength="56664" text="Samahani"/>
+		<timing id="7" start="15.479" end="16.651" startframe="682638" framelength="51680" text="walisema"/>
+		<timing id="8" start="17.659" end="18.886" startframe="778744" framelength="54130" text="Tafadhali"/>
+		<timing id="9" start="19.856" end="20.906" startframe="875634" framelength="46309" text="shuka"/>
+		<timing id="10" start="21.968" end="23.215" startframe="968791" framelength="55012" text="Walimrai"/>
+		<timing id="11" start="24.056" end="24.997" startframe="1060853" framelength="41526" text="sana"/>
+		<timing id="12" start="26.084" end="26.923" startframe="1150297" framelength="36996" text="hata"/>
+		<timing id="13" start="28.210" end="29.511" startframe="1244051" framelength="57395" text="wakafikia"/>
+		<timing id="14" start="30.294" end="31.696" startframe="1335957" framelength="61835" text="kumbembeleza"/>
+		<timing id="15" start="32.793" end="33.586" startframe="1446159" framelength="34966" text="kwa"/>
+		<timing id="16" start="34.328" end="35.342" startframe="1513873" framelength="44702" text="muziki"/>
+	</timings>
+</xml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master4a" colour_main="0,38,255" colour_div="20,157,236" colour_num="0,0,0" colour_equation="33,186,4" scenes="4a2,4b,4c,4d,4e,4f,4i,4j,4k" gradienttop="255,238,196" gradientbottom="255,248,228" colour_curve="251,42,132" colour="26,193,0" >
+		<rectangle id="numberline" pos="1.48223,0.53613" src="numberline" stroke="0,0,0" strokewidth="5" zpos="0.001" hidden="true" heighttrackswidth="true" x="0.174126" y="0.415085" width="2.61621" height="0.242091" pxwidth="2679" pxheight="185.926" />
+		<vector id="arrowhead" pos="0.130554,0.685212" parent="numberline" src="triangle" zpos="0" hidden="true" />
+		<vector id="button" pos="0.5,0.831884" src="plus_button_round" scalex="0.442371" scaley="0.442371" zpos="0.003" hidden="true" />
+		<rectangle id="eqbox" pos="0.50523,0.166855" src="eqbox" stroke="0,0,0" strokewidth="1" zpos="0.002" hidden="true" heighttrackswidth="true" x="0.223957" y="0.0951335" width="0.562546" height="0.143443" pxwidth="576.047" pxheight="110.164" />
+	</event>
+	<event id="4a2" equ="12,4,16" >
+	</event>
+	<event id="4b" equ="9,5,14" >
+	</event>
+	<event id="4c" equ="10,7,17" >
+	</event>
+	<event id="4d" equ="12,3,15" >
+	</event>
+	<event id="4e" equ="15,5,20" >
+	</event>
+	<event id="4f" equ="10,10,20" >
+	</event>
+	<event id="4g" equ="9,11,20" >
+	</event>
+	<event id="4h" equ="15,10,25" >
+	</event>
+	<event id="4i" equ="5,9,14" >
+	</event>
+	<event id="4j" equ="3,10,13" >
+	</event>
+	<event id="4k" equ="2,12,14" >
+	</event>
+	<event id="master4l" colour_main="0,38,255" colour_div="20,157,236" colour_num="0,0,0" colour_equation="127,60,45" scenes="4l,4m,4n,4o,4p,4q,4s,4t" gradienttop="255,238,196" gradientbottom="255,248,228" colour_curve="251,42,132" freemode="true">
+		<vector id="arrowhead" pos="0.515682,0.580968" src="triangle" zpos="3" hidden="true" />
+		<vector id="button" pos="0.5,0.831884" src="plus_button_round" scalex="0.442371" scaley="0.442371" zpos="3.003" hidden="true" />
+		<rectangle id="eqbox" pos="0.50523,0.166855" src="eqbox" stroke="0,0,0" strokewidth="1" zpos="3.002" hidden="true" heighttrackswidth="true" x="0.223957" y="0.0951335" width="0.562546" height="0.143443" pxwidth="576.047" pxheight="110.164" />
+		<rectangle id="numberline" pos="1.48223,0.53613" src="numberline" stroke="0,0,0" strokewidth="5" zpos="3.001" hidden="true" heighttrackswidth="true" x="0.174126" y="0.415085" width="2.61621" height="0.242091" pxwidth="2679" pxheight="185.926" />
+	</event>
+	<event id="4l" equ="10,5,15">
+		<rectangle id="cover" pos="0.837748,0.507606" parent="eqbox" src="cover" stroke="147,78,59" strokewidth="2" stroke-dasharray="8,4" zpos="6" hidden="true" widthtracksheight="true" x="0.726795" y="0.0989646" width="0.221906" height="0.817282" pxwidth="127.828" pxheight="90.0352" />
+	</event>
+	<event id="4m" equ="8,6,14" >
+	</event>
+	<event id="4n" equ="11,3,14" >
+	</event>
+	<event id="4o" equ="14,6,20" >
+	</event>
+	<event id="4p" equ="20,5,25" >
+	</event>
+	<event id="4q" equ="10,9,19" >
+	</event>
+	<event id="4s" equ="3,11,14" >
+	</event>
+	<event id="4t" equ="7,12,19" >
+	</event>
+</events>

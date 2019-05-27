@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><creator program="PhraseAnal 1.14" user="Rosanna"></creator>
+    <url>file:///Users/pedroloureiro/OBB%20dir/assets/oc-reading/books/xr-favouritefriend/local/sw/psyl4_kupe.m4a</url>
+    <relurl>psyl4_kupe.aif</relurl>
+    <timings text="ku - pe" frames="41191"><timing framelength="18624" id="0" end="0.422" text="ku" startframe="0" start="0.000"></timing>
+        <timing framelength="14096" id="1" end="0.934" text="pe" startframe="27095" start="0.614"></timing>
+    </timings>
+</xml>

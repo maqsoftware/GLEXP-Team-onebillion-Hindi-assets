@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps5_2.aif</url>
+	<relurl>ps5_2.aif</relurl>
+	<timings text="Akaenda zake huku akifuta machozi kwa kutumia mkonga wake." frames="451661">
+		<timing id="0" start="0.000" end="1.049" startframe="0" framelength="46277" text="Akaenda"/>
+		<timing id="1" start="1.416" end="2.379" startframe="62426" framelength="42498" text="zake"/>
+		<timing id="2" start="2.767" end="3.523" startframe="122010" framelength="33356" text="huku"/>
+		<timing id="3" start="3.992" end="5.044" startframe="176050" framelength="46384" text="akifuta"/>
+		<timing id="4" start="5.256" end="6.006" startframe="231794" framelength="33075" text="machozi"/>
+		<timing id="5" start="6.442" end="6.910" startframe="284097" framelength="20655" text="kwa"/>
+		<timing id="6" start="7.150" end="8.141" startframe="315320" framelength="43711" text="kutumia"/>
+		<timing id="7" start="8.488" end="9.410" startframe="374333" framelength="40658" text="mkonga"/>
+		<timing id="8" start="9.675" end="10.242" startframe="426683" framelength="24978" text="wake"/>
+	</timings>
+</xml>

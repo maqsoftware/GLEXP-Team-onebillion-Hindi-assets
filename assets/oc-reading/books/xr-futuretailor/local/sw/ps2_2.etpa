@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps2_2.aif</url>
+	<relurl>ps2_2.aif</relurl>
+	<timings text="“Wote wawili mngeweza kujifunza kushona kama mimi,” alisema. " frames="663369">
+		<timing id="0" start="0.324" end="1.134" startframe="14277" framelength="35725" text="Wote"/>
+		<timing id="1" start="1.607" end="2.486" startframe="70849" framelength="38773" text="wawili"/>
+		<timing id="2" start="3.687" end="4.656" startframe="162598" framelength="42748" text="mngeweza"/>
+		<timing id="3" start="5.872" end="6.912" startframe="258957" framelength="45878" text="kujifunza"/>
+		<timing id="4" start="8.306" end="9.128" startframe="366282" framelength="36284" text="kushona"/>
+		<timing id="5" start="10.401" end="11.052" startframe="458704" framelength="28709" text="kama"/>
+		<timing id="6" start="12.037" end="12.760" startframe="530849" framelength="31863" text="mimi"/>
+		<timing id="7" start="13.774" end="14.765" startframe="607422" framelength="43727" text="alisema"/>
+	</timings>
+</xml>

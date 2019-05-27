@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180502.101028940">
+	<event id="q1_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare2children</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_div_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare6mangoesequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_div_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare8mangoesequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_div_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare10mangoesequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_div_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare12mangoesequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_howmanymangoesdoeseachchildget</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets3mangoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets4mangoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets5mangoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q1_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets6mangoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_str_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare3children</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_div_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare3bottletopsequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_div_9">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare9bottletopsequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_div_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare12bottletopsequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_howmanybottletopsdoeseachchildget</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets2bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets3bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets4bottletops</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare2children_q3_str_2</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_div_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare6bananasequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_div_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare8bananasequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_div_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare10bananasequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_div_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_theyshare12bananasequallybetweenthemselves</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_howmanybananasdoeseachchildget</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets3bananas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets4bananas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets5bananas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_eachchildgets6bananas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_childrenstandin2lines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_str_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_childrenstandin3lines</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_mul_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare3childrenineachline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_mul_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare4childrenineachline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_mul_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare5childrenineachline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_howmanychildrenaretherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare6childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare8childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_9">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare9childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare10childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare12childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4_ans_15">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare15childrenaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_2">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare2rowsofcoconuttrees</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_str_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare3rowsofcoconuttrees</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_mul_3">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare3coconuttreesineachrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_mul_4">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare4coconuttreesineachrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_mul_5">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare5coconuttreesineachrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_end">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_howmanycoconuttreesaretherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_6">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare6coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_8">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare8coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_9">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare9coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare10coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_12">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare12coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5_ans_15">
+		<phrasegroup id="DEMO">
+			<phrase>prepm6_thereare15coconuttreesaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="obj_show">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_show">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="num_show">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

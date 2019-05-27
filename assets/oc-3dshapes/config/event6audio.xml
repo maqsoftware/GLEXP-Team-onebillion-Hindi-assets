@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_somethingishidinghere</phrase>
+			<phrase>6_itouchthescreentoshowitlikethis</phrase>
+			<phrase>6_itsanorange</phrase>
+			<phrase>6_itislikeasphere</phrase>
+			<phrase>6_soitouchthesphere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_touchthebluepartofthescreentoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchthebluepartofthescreentoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>6_abattery</phrase>
+			<phrase>6_nowchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>6_choosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_yesthebatteryislikeacylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_touchtoseemore</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+			<phrase>6_whichshapedoesthebatterymatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatshidinghere</phrase>
+			<phrase>6_showit</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchthescreentoshowwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>6_itsabookwhichshapedoesitmatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>6_whichshapedoesthebookmatch</phrase>
+			<phrase>6_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_yesthebookislikeacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_showmore</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+			<phrase>6_whichshapedoesthebookmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatsnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>6_aballoonwhichshapedoesitmatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>6_whichshapedoestheballoonmatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_thisballoonisasphere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_showmore</phrase>
+			<phrase>6_thenchooseagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+			<phrase>6_whichshapedoestheballoonmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_dothesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>6_itsafunnel</phrase>
+			<phrase>6_nowchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>6_whichshapedoesthefunnelmatch</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_thefunnelislikeacone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_showmore</phrase>
+			<phrase>6_thenchooseagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+			<phrase>6_whichshapedoesthefunnelmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlook</phrase>
+			<phrase>6_thistimeicanseeonlypartofwhatshiding</phrase>
+			<phrase>6_ithinkitmatchesthis</phrase>
+			<phrase>6_yesasuitcasewhichislikeacuboid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatshidinghere</phrase>
+			<phrase>6_seeifyoucanfindout</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsatennisballwhichisasphere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_yesthedieislikeacube</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_exploresomemore</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="PROMPT">
+			<phrase>6_haveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_goodtheglassisacylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_exploresomemore</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6j">
+		<phrasegroup id="PROMPT">
+			<phrase>6_andanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_findoutwhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_yesthisclockislikeacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_exploresomemore</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="DEMO">
+			<phrase>6_nextilluseaspecialglasstoseewhatshiding</phrase>
+			<phrase>6_likethis</phrase>
+			<phrase>6_ithinkitsshapedlikeasphere</phrase>
+			<phrase>6_soitouchthesphere_6k</phrase>
+			<phrase>6_yesanapplewhichislikeasphere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_usetheglasstoseewhatshidinghere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_acandleitisacylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6m">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythisone_6m</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_adominoisacuboid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6n">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatsnext_6n</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_yesitsapyramidinegypt</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o">
+		<phrasegroup id="PROMPT">
+			<phrase>6_tryanotherone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsanicecreamanditisshapedlikeacone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6p">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatshidinghere_6p</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsalogwhichislikeacylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6q">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowforthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_usetheglasstoseewhatshiding</phrase>
+			<phrase>6_thenchoosethematchingshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_itsearthourplanetitslikeasphere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_welldoneyoumatchedrealobjectstotheirshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="object_touch">
+			<phrase>object_touch</phrase>
+		</phrasegroup>
+		<phrasegroup id="segment_tick">
+			<phrase>click_snap_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="xylophone_1">
+			<phrase>xylophone_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="xylophone_2">
+			<phrase>xylophone_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="xylophone_3">
+			<phrase>xylophone_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="xylophone_4">
+			<phrase>xylophone_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_grow">
+			<phrase>object_grow_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

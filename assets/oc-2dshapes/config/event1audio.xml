@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_fourshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_toucheachshapetohearitsname</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_toucheachshapetohearitsname</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_asquare</phrase>
+			<phrase>1_acircle</phrase>
+			<phrase>1_atriangle</phrase>
+			<phrase>1_arectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowtouchthecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_acircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_touchthecircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_asquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_arectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesithasturnedbutitsstillarectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetherectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_atriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesithasgrownbutitsstillatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowchoosetwosquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetwosquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_thatshapeisnotasquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_twosquaresoneisbiggerthantheother</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethreecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethreecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_thatshapeisnotacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_threecirclestheyarealldifferentsizes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_itsacircle</phrase>
+			<phrase>1_thissayscircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_drawtheshape</phrase>
+			<phrase>1_startattheredarrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_acircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startattheredarrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>1_followtheshapeallthewayround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowdrawthisshape</phrase>
+			<phrase>1_startattheredarrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_asquare</phrase>
+			<phrase>1_thissayssquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_startattheredarrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>1_followtheshapeallthewayround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_arectangle</phrase>
+			<phrase>1_thissaysrectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>1_followtheshapeallthewayround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_drawthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_drawtheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_atriangle</phrase>
+			<phrase>1_thissaystriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>1_followtheshapeallthewayround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldoneyoumetfourshapesandyoudrewthem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="magic_harp">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="text_up">
+			<phrase>text_up</phrase>
+		</phrasegroup>
+	</event>
+</audio>

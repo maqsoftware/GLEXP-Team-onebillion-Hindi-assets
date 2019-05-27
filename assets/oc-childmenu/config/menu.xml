@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" colour_bar_1="227,254,255" colour_bar_2="250,255,218" colour_bar_3="255,246,218" colour_bar_4="236,250,255" colour_bar_5="255,251,213" colour_bar_6="250,242,255" colour_bar_7="232,255,236" colour_bar_8="255,255,220" colour_bar_9="234,251,255" colour_bar_10="251,241,255" colour_lowlight="232,232,232" colour_star_1="114,217,54" colour_star_2="173,143,254" colour_star_3="252,131,1" colour_star_4="41,207,226" colour_star_5="251,74,183" colour="254,255,255" >
+		<rectangle id="top_bar" anchor="0.5,0" pos="0.5,-0.00232951" src="top_bar" fill="255,255,255" zpos="0.014" x="0" y="-0.00232951" width="1" height="0.114583" />
+		<rectangle id="work_rect" pos="0.5,0.488609" src="work_rect" fill="0,234,254" zpos="0" hidden="true" widthtracksheight="true" x="0.0241909" y="0.12175" width="0.951618" height="0.733719" pxwidth="974.457" pxheight="563.496" />
+		<vector id="choice_star_1" pos="0.502052,0.268032" parent="work_rect" src="reward_star" scalex="3.33303" scaley="3.33303" zpos="0.025" hidden="true" />
+		<vector id="choice_star_2" pos="0.657455,0.46406" parent="work_rect" src="reward_star" scalex="3.33303" scaley="3.33303" zpos="0.026" hidden="true" />
+		<vector id="choice_star_3" pos="0.59749,0.778434" parent="work_rect" src="reward_star" scalex="3.33303" scaley="3.33303" zpos="0.027" hidden="true" />
+		<vector id="choice_star_4" pos="0.404562,0.778171" parent="work_rect" src="reward_star" scalex="3.33303" scaley="3.33303" zpos="0.028" hidden="true" />
+		<vector id="choice_star_5" pos="0.346068,0.463942" parent="work_rect" src="reward_star" scalex="3.33303" scaley="3.33303" zpos="0.029" hidden="true" />
+		<rectangle id="icon" pos="0.502008,0.535825" parent="work_rect" src="icon" fill="0,234,254" zpos="0.001" hidden="true" widthtracksheight="true" x="0.303581" y="0.193796" width="0.396856" height="0.684059" pxwidth="386.719" pxheight="385.465" />
+		<vector id="presenter" pos="0.110596,0.72814" src="anna" scalex="1.13012" scaley="1.13012" zpos="0.002" hidden="true" />
+		<rectangle id="shadow" pos="0.532049,0.701642" src="shadow" fill="0,234,254" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="3" shadowyoffset="5" zpos="0.003" hidden="true" x="0.34901" y="0.515172" width="0.366077" height="0.37294" />
+		<vector id="top_bar_star_1" pos="0.157227,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.015" hidden="true" />
+		<vector id="top_bar_star_2" pos="0.23329,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.016" hidden="true" />
+		<vector id="top_bar_star_3" pos="0.309353,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.017" hidden="true" />
+		<vector id="top_bar_star_4" pos="0.385417,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.018" hidden="true" />
+		<vector id="top_bar_star_5" pos="0.46148,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.019" hidden="true" />
+		<vector id="top_bar_star_6" pos="0.537543,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.02" hidden="true" />
+		<vector id="top_bar_star_7" pos="0.613607,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.021" hidden="true" />
+		<vector id="top_bar_star_8" pos="0.68967,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.022" hidden="true" />
+		<vector id="top_bar_star_9" pos="0.765733,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.023" hidden="true" />
+		<vector id="top_bar_star_10" pos="0.841797,0.508967" parent="top_bar" src="reward_star" scalex="2.00775" scaley="2.00775" zpos="0.024" hidden="true" />
+		<vector id="trophy_1" pos="0.307646,0.923642" src="trophy_1" scalex="0.566" scaley="0.565795" zpos="0.004" hidden="true" />
+		<vector id="trophy_2" pos="0.380864,0.923619" src="trophy_2" scalex="0.566" scaley="0.566" zpos="0.005" hidden="true" />
+		<vector id="trophy_3" pos="0.454081,0.923619" src="trophy_3" scalex="0.566" scaley="0.566" fill="227,254,255" zpos="0.006" hidden="true" />
+		<vector id="trophy_4" pos="0.527299,0.922882" src="trophy_4" scalex="0.566" scaley="0.566" zpos="0.007" hidden="true" />
+		<vector id="trophy_5" pos="0.600517,0.923619" src="trophy_5" scalex="0.566" scaley="0.566" zpos="0.008" hidden="true" />
+		<vector id="trophy_6" pos="0.673735,0.923619" src="trophy_6" scalex="0.566" scaley="0.566" zpos="0.009" hidden="true" />
+		<vector id="trophy_7" pos="0.746953,0.923619" src="trophy_7" scalex="0.566" scaley="0.566" zpos="0.01" hidden="true" />
+		<vector id="trophy_8" pos="0.820171,0.923619" src="trophy_8" scalex="0.566" scaley="0.566" zpos="0.011" hidden="true" />
+		<vector id="trophy_9" pos="0.893388,0.923619" src="trophy_9" scalex="0.566" scaley="0.566" zpos="0.012" hidden="true" />
+		<vector id="trophy_10" pos="0.966606,0.923619" src="trophy_10" scalex="0.566" scaley="0.566" zpos="0.013" hidden="true" />
+		<vector id="button_start" pos="0.5,0.5" src="tick_button" scalex="0.680058" scaley="0.680058" shadowcolour="0,0,0" shadowopacity="0.132601" shadowradius="0" shadowxoffset="3" shadowyoffset="5" zpos="10.001" hidden="true" />
+		<rectangle id="overlay" pos="0.497829,0.5" src="overlay" fill="255,255,255" zpos="10" hidden="true" x="-0.00217056" y="-0.0078125" width="1" height="1.01562" />
+		<rectangle id="night_bg" pos="0.5,0.5" src="night_bg" fill="5,17,36" zpos="20" hidden="true" x="0" y="-0.0078125" width="1" height="1.01562" />
+		<group id="night_moon"  pos="0.5,0.433355" src="night_moon" zpos="20.016" hidden="true">
+			<rectangle id="cover_1" pos="0.499508,0.433355" src="cover_1" fill="5,17,36" zpos="20.001" x="0.447266" y="0.289886" width="0.104485" height="0.286936" />
+			<circle id="cover_2" pos="0.5,0.43369" src="cover_2" fill="5,17,36" zpos="20.002" x="0.397541" y="0.297078" width="0.204918" height="0.273224" />
+			<circle id="cover_3" pos="0.5,0.43369" src="cover_3" fill="255,249,151" zpos="20.003" x="0.397541" y="0.297078" width="0.204918" height="0.273224" />
+			<circle id="moon" pos="0.5,0.43369" src="moon" fill="255,249,151" zpos="20" x="0.397541" y="0.297078" width="0.204918" height="0.273224" />
+		</group>
+		<vector id="night_star_1" pos="0.582037,0.122994" src="night_star" scalex="0.689941" scaley="0.689941" rotation="10" zpos="20.001" hidden="true" />
+		<vector id="night_star_2" pos="0.19084,0.806715" src="night_star" scalex="0.689941" scaley="0.689941" rotation="40" zpos="20.002" hidden="true" />
+		<vector id="night_star_3" pos="0.332087,0.15254" src="night_star" scalex="0.689941" scaley="0.689941" rotation="-10" zpos="20.003" hidden="true" />
+		<vector id="night_star_4" pos="0.663527,0.689375" src="night_star" scalex="0.689941" scaley="0.689941" rotation="-30" zpos="20.004" hidden="true" />
+		<vector id="night_star_5" pos="0.12055,0.483966" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.005" hidden="true" />
+		<vector id="night_star_6" pos="0.783373,0.519687" src="night_star" scalex="0.689941" scaley="0.689941" rotation="12" zpos="20.006" hidden="true" />
+		<vector id="night_star_7" pos="0.125364,0.122277" src="night_star" scalex="0.689941" scaley="0.689941" rotation="45" zpos="20.007" hidden="true" />
+		<vector id="night_star_8" pos="0.283724,0.570849" src="night_star" scalex="0.689941" scaley="0.689941" rotation="-95" zpos="20.008" hidden="true" />
+		<vector id="night_star_9" pos="0.472719,0.836011" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.009" hidden="true" />
+		<vector id="night_star_10" pos="0.840532,0.864001" src="night_star" scalex="0.689941" scaley="0.689941" rotation="-10" zpos="20.01" hidden="true" />
+		<vector id="night_star_11" pos="0.242433,0.323334" src="night_star" scalex="0.689941" scaley="0.689941" rotation="16.2544" zpos="20.011" hidden="true" />
+		<vector id="night_star_12" pos="0.888792,0.105187" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.012" hidden="true" />
+		<vector id="night_star_13" pos="0.815916,0.321511" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.013" hidden="true" />
+		<vector id="night_star_14" pos="0.91271,0.635323" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.014" hidden="true" />
+		<vector id="night_star_15" pos="0.0554943,0.699232" src="night_star" scalex="0.689941" scaley="0.689941" zpos="20.015" hidden="true" />
+		<vector id="box" pos="0.519028,0.458018" src="box" scalex="1.625" scaley="1.625" zpos="50.002" hidden="true" />
+		<vector id="bubble" pos="0.600788,0.520665" src="bubble" scalex="0.0870115" scaley="0.0870115" zpos="50.003" hidden="true" />
+		<rectangle id="lock_bg" pos="0.5,0.5" src="lock_bg" fill="0,0,0" zpos="50" hidden="true" x="0" y="-0.0078125" width="1" height="1.01562" />
+		<linearGradient id="Gradient38" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(91.4%,88.6%,83.1%)" stop-opacity="1"/>
+			<stop offset="0%" stop-color="rgb(91.4%,88.6%,83.1%)" stop-opacity="1"/>
+			<stop offset="0.481592%" stop-color="rgb(51.8%,91.4%,91.4%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(72.9%,97.6%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(84.3%,80%,72.9%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="play_zone_bg" pos="0.5,0.5" src="play_zone_bg" fill="url(#Gradient38)"  zpos="50.001" hidden="true" x="0" y="-0.0078125" width="1" height="1.01562" />
+	</event>
+</events>

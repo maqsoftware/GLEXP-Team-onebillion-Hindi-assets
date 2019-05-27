@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Lakini Anansi alikuwa buibui mchoyo. Siku moja, alimfungia Sungura nje ya shamba." frames="1163950">
+		<timing id="0" start="0.000" end="0.834" startframe="0" framelength="36759" text="Lakini"/>
+		<timing id="1" start="2.418" end="3.469" startframe="106645" framelength="46358" text="Anansi"/>
+		<timing id="2" start="4.724" end="5.730" startframe="208342" framelength="44366" text="alikuwa"/>
+		<timing id="3" start="6.920" end="7.905" startframe="305176" framelength="43444" text="buibui"/>
+		<timing id="4" start="9.091" end="10.065" startframe="400896" framelength="42975" text="mchoyo"/>
+		<timing id="5" start="11.793" end="12.713" startframe="520087" framelength="40578" text="Siku"/>
+		<timing id="6" start="14.064" end="14.984" startframe="620224" framelength="40584" text="moja"/>
+		<timing id="7" start="16.381" end="17.631" startframe="722393" framelength="55145" text="alimfungia"/>
+		<timing id="8" start="19.017" end="20.054" startframe="838631" framelength="45763" text="Sungura"/>
+		<timing id="9" start="21.605" end="22.473" startframe="952793" framelength="38280" text="nje"/>
+		<timing id="10" start="23.873" end="24.512" startframe="1052804" framelength="28158" text="ya"/>
+		<timing id="11" start="25.703" end="26.393" startframe="1133510" framelength="30440" text="shamba"/>
+	</timings>
+</xml>

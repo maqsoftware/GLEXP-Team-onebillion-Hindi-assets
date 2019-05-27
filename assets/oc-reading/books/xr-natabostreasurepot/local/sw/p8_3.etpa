@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p8_3.aif</url>
+	<relurl>p8_3.aif</relurl>
+	<timings text="Nura alijiuliza ni mgeni gani huyu, lakini hakushuka kutoka mtini." frames="244560">
+		<timing id="0" start="0.000" end="0.360" startframe="0" framelength="15876" text="Nura"/>
+		<timing id="1" start="0.360" end="1.315" startframe="15876" framelength="42124" text="alijiuliza"/>
+		<timing id="2" start="1.548" end="1.712" startframe="68277" framelength="7205" text="ni"/>
+		<timing id="3" start="1.712" end="2.069" startframe="75482" framelength="15755" text="mgeni"/>
+		<timing id="4" start="2.069" end="2.399" startframe="91237" framelength="14553" text="gani"/>
+		<timing id="5" start="2.399" end="2.929" startframe="105790" framelength="23381" text="huyu"/>
+		<timing id="6" start="3.183" end="3.653" startframe="140386" framelength="20717" text="lakini"/>
+		<timing id="7" start="3.653" end="4.504" startframe="161103" framelength="37517" text="hakushuka"/>
+		<timing id="8" start="4.504" end="5.000" startframe="198620" framelength="21867" text="kutoka"/>
+		<timing id="9" start="5.000" end="5.546" startframe="220487" framelength="24073" text="mtini"/>
+	</timings>
+</xml>

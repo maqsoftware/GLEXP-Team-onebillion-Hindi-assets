@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p1_2.aif</url>
+	<relurl>p1_2.aif</relurl>
+	<timings text="“Usiwe mpumbavu,” mama alisema. “Tembo hawalali vyumbani.”" frames="214217">
+		<timing id="0" start="0.000" end="0.419" startframe="0" framelength="18472" text="Usiwe"/>
+		<timing id="1" start="0.419" end="1.342" startframe="18472" framelength="40692" text="mpumbavu"/>
+		<timing id="2" start="1.717" end="2.052" startframe="75699" framelength="14798" text="mama"/>
+		<timing id="3" start="2.052" end="2.834" startframe="90497" framelength="34466" text="alisema"/>
+		<timing id="4" start="3.302" end="3.646" startframe="145616" framelength="15187" text="Tembo"/>
+		<timing id="5" start="3.646" end="4.255" startframe="160803" framelength="26856" text="hawalali"/>
+		<timing id="6" start="4.255" end="4.858" startframe="187659" framelength="26558" text="vyumbani"/>
+	</timings>
+</xml>

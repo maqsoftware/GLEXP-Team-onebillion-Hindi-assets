@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps6_2.aif</url>
+	<relurl>ps6_2.aif</relurl>
+	<timings text="“Kwa nini kuna kiza?” alihoji. “Umenipa sumu?”" frames="428167">
+		<timing id="0" start="0.000" end="0.490" startframe="0" framelength="21619" text="Kwa"/>
+		<timing id="1" start="1.211" end="2.054" startframe="53421" framelength="37181" text="nini"/>
+		<timing id="2" start="2.820" end="3.495" startframe="124366" framelength="29776" text="kuna"/>
+		<timing id="3" start="3.994" end="4.745" startframe="176117" framelength="33126" text="kiza"/>
+		<timing id="4" start="5.316" end="6.464" startframe="234435" framelength="50627" text="alihoji"/>
+		<timing id="5" start="7.316" end="8.387" startframe="322637" framelength="47212" text="Umenipa"/>
+		<timing id="6" start="9.033" end="9.709" startframe="398364" framelength="29803" text="sumu"/>
+	</timings>
+</xml>

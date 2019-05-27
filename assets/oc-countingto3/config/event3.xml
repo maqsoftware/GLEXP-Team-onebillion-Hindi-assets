@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j" gradienttop="224,255,180" gradientbottom="224,255,180" >
+	</event>
+	<event id="3a" redraw="true" repositionObjects="false" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.001" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.002" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.006" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.003" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.005" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.008" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.007" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.009" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.004" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1.01">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.011">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.012">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3b" redraw="true" repositionObjects="false" correctContainer="1" correctQuantity="1" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.001" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.002" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.006" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.003" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.005" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.008" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.007" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.009" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.004" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1.01">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.011">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.012">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3c" redraw="true" repositionObjects="true" correctContainer="2" correctQuantity="2" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.007" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.011" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.006" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.009" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.008" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.01" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.012" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3d" redraw="true" repositionObjects="true" correctContainer="3" correctQuantity="3" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3e" redraw="true" repositionObjects="false" correctContainer="1" correctQuantity="3" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3f" redraw="true" repositionObjects="true" correctContainer="2" correctQuantity="2" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3g" redraw="true" repositionObjects="true" correctContainer="3" correctQuantity="2" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3h" redraw="true" repositionObjects="false" correctContainer="1" correctQuantity="3" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3i" redraw="true" repositionObjects="true" correctContainer="2" correctQuantity="3" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+	<event id="3j" redraw="true" repositionObjects="true" correctContainer="3" correctQuantity="1" placements="3,2_4,1_3_5" >
+		<vector id="box_1" pos="0.176758,0.438802" src="box" zpos="1.003" colour="63,216,80" />
+		<vector id="box_2" pos="0.499023,0.438802" src="box" zpos="1.004" colour="255,95,39" />
+		<vector id="box_3" pos="0.821289,0.438802" src="box" zpos="1.005" colour="0,207,255" />
+		<vector id="obj_1" pos="0.0770397,0.879023" src="flower" scalex="2.13484" scaley="2.13484" zpos="1.009" />
+		<vector id="obj_2" pos="0.226566,0.808262" src="bird" scalex="1.2" scaley="1.2" zpos="1.006" scheme="bird blue" />
+		<vector id="obj_3" pos="0.348338,0.914398" src="fish" scalex="1.2" scaley="1.2" zpos="1.008" scheme="fish orange" />
+		<vector id="obj_4" pos="0.458963,0.850136" src="pencil" scalex="0.550037" scaley="0.550037" zpos="1.011" />
+		<vector id="obj_5" pos="0.616532,0.811694" src="frog" zpos="1.01" />
+		<vector id="obj_6" pos="0.759218,0.87547" src="shoe" zpos="1.012" />
+		<vector id="obj_7" pos="0.914183,0.843758" src="cat" scalex="1.04252" scaley="1.04252" zpos="1.007" />
+		<group id="placement_1"  pos="0.177151,0.438802" src="placement_1" zpos="1">
+			<circle id="placement_1_1" pos="0.107231,0.280797" src="placement_1_1" fill="0,0,0" zpos="1.002" x="0.0974655" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_2" pos="0.142191,0.359799" src="placement_1_2" fill="0,0,0" zpos="1" x="0.132425" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_3" pos="0.177151,0.438802" src="placement_1_3" fill="0,0,0" zpos="1.003" x="0.167385" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_4" pos="0.212111,0.517804" src="placement_1_4" fill="0,0,0" zpos="1.004" x="0.202345" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_1_5" pos="0.24707,0.596807" src="placement_1_5" fill="0,0,0" zpos="1.001" x="0.237305" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_2"  pos="0.499023,0.438802" src="placement_2" zpos="1.001">
+			<circle id="placement_2_1" pos="0.429104,0.280797" src="placement_2_1" fill="0,0,0" zpos="1.002" x="0.419338" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_2" pos="0.464064,0.359799" src="placement_2_2" fill="0,0,0" zpos="1" x="0.454298" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_3" pos="0.499023,0.438802" src="placement_2_3" fill="0,0,0" zpos="1.003" x="0.489258" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_4" pos="0.533983,0.517804" src="placement_2_4" fill="0,0,0" zpos="1.004" x="0.524218" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_2_5" pos="0.568943,0.596807" src="placement_2_5" fill="0,0,0" zpos="1.001" x="0.559177" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+		<group id="placement_3"  pos="0.821289,0.438802" src="placement_3" zpos="1.002">
+			<circle id="placement_3_1" pos="0.751369,0.280797" src="placement_3_1" fill="0,0,0" zpos="1.002" x="0.741604" y="0.267776" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_2" pos="0.786329,0.359799" src="placement_3_2" fill="0,0,0" zpos="1" x="0.776564" y="0.346779" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_3" pos="0.821289,0.438802" src="placement_3_3" fill="0,0,0" zpos="1.003" x="0.811523" y="0.425781" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_4" pos="0.856249,0.517804" src="placement_3_4" fill="0,0,0" zpos="1.004" x="0.846483" y="0.504784" width="0.0195312" height="0.0260417" />
+			<circle id="placement_3_5" pos="0.891209,0.596807" src="placement_3_5" fill="0,0,0" zpos="1.001" x="0.881443" y="0.583786" width="0.0195312" height="0.0260417" />
+		</group>
+	</event>
+</events>

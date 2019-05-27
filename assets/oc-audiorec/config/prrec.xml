@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<rectangle id="textbox" pos="0.5,0.463542" src="textbox" fill="0,234,254" zpos="0" hidden="true" x="0.0654297" y="0.0989583" width="0.869141" height="0.729167" />
+		<path id="line" pos="0.5,0.782143" parent="textbox" src="line" fill="255,255,255" stroke="215,215,215" strokewidth="3" zpos="0.002" hidden="true" d="M0.1507 0.7821L0.8493 0.7821" />
+		<vector id="presenter" pos="0.5,0.765279" src="anna" zpos="0.001" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.929036" src="recording_button" scalex="0.632741" scaley="0.632741" zpos="0.003" hidden="true" />
+	</event>
+</events>

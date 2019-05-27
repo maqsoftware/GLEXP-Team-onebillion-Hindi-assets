@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_look</phrase>
+			<phrase>5_afish</phrase>
+			<phrase>5_afish</phrase>
+			<phrase>5_afish</phrase>
+			<phrase>5_afrog</phrase>
+			<phrase>5_thisistheoddoneout</phrase>
+			<phrase>5_socrossitout</phrase>
+			<phrase>5_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_whichistheoddoneout</phrase>
+			<phrase>5_crossitout</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneout</phrase>
+			<phrase>5_crossitout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichistheoddoneout_5c</phrase>
+			<phrase>5_crossitout_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneout_5c</phrase>
+			<phrase>5_crossitout_5c</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichoftheseistheoddoneout</phrase>
+			<phrase>5_crossitout_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichoftheseistheoddoneout</phrase>
+			<phrase>5_crossitout_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichistheoddoneoutthistime</phrase>
+			<phrase>5_crossitout_5h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneoutthistime</phrase>
+			<phrase>5_crossitout_5h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichistheoddoneout_5j</phrase>
+			<phrase>5_crossitout_5j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneout_5j</phrase>
+			<phrase>5_crossitout_5j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichistheoddoneoutthistimecrossitout</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneoutthistimecrossitout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5l</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5m</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5m</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichistheoddoneoutcrossitout</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichistheoddoneoutcrossitout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_crossouttheoddoneout_5o</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_crossouttheoddoneout_5o</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_verygoodyoucrossedoutthedifferentoneineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

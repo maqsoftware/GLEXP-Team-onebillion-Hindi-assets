@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Saida na Neema walikuwa mapacha. Wazazi wao walifariki walipokuwa wachanga, na hivyo wasichana waliishi peke yao. Walikuwa masikini sana." frames="1373199">
+		<timing id="0" start="0.000" end="1.061" startframe="0" framelength="46808" text="Saida"/>
+		<timing id="1" start="1.670" end="2.296" startframe="73644" framelength="27606" text="na"/>
+		<timing id="2" start="2.960" end="3.911" startframe="130546" framelength="41908" text="Neema"/>
+		<timing id="3" start="4.786" end="5.921" startframe="211066" framelength="50030" text="walikuwa"/>
+		<timing id="4" start="6.459" end="7.661" startframe="284848" framelength="53009" text="mapacha"/>
+		<timing id="5" start="8.232" end="9.394" startframe="363025" framelength="51267" text="Wazazi"/>
+		<timing id="6" start="10.095" end="11.017" startframe="445185" framelength="40648" text="wao"/>
+		<timing id="7" start="11.596" end="12.790" startframe="511382" framelength="52679" text="walifariki"/>
+		<timing id="8" start="13.489" end="14.699" startframe="594872" framelength="53355" text="walipokuwa"/>
+		<timing id="9" start="15.363" end="16.484" startframe="677519" framelength="49434" text="wachanga"/>
+		<timing id="10" start="17.307" end="18.094" startframe="763246" framelength="34692" text="na"/>
+		<timing id="11" start="18.851" end="19.694" startframe="831323" framelength="37183" text="hivyo"/>
+		<timing id="12" start="20.322" end="21.440" startframe="896205" framelength="49301" text="wasichana"/>
+		<timing id="13" start="22.078" end="23.253" startframe="973653" framelength="51808" text="waliishi"/>
+		<timing id="14" start="24.003" end="24.779" startframe="1058520" framelength="34237" text="peke"/>
+		<timing id="15" start="25.369" end="26.290" startframe="1118784" framelength="40594" text="yao"/>
+		<timing id="16" start="26.933" end="28.046" startframe="1187764" framelength="49081" text="Walikuwa"/>
+		<timing id="17" start="28.622" end="29.839" startframe="1262248" framelength="53657" text="masikini"/>
+		<timing id="18" start="30.408" end="31.138" startframe="1340991" framelength="32208" text="sana"/>
+	</timings>
+</xml>

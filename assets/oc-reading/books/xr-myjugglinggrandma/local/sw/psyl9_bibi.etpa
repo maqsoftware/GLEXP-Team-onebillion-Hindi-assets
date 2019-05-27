@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl9_bibi.aif</url>
+	<relurl>psyl9_bibi.aif</relurl>
+	<timings text="Bi - bi" frames="42579">
+		<timing id="0" start="0.000" end="0.484" startframe="0" framelength="21343" text="Bi"/>
+		<timing id="1" start="0.662" end="0.966" startframe="29202" framelength="13377" text="bi"/>
+	</timings>
+</xml>

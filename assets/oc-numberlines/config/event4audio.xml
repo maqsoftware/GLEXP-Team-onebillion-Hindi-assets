@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180102.093532515">
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookabirdsnest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanyeggsarethere</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanyeggsarethere</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_counttheeggs</phrase>
+			<phrase>4_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="DEMO">
+			<phrase>4_rightthreeeggs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_touchthenesttoaddoneegg</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenesttoaddoneegg</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>4_touchthenesttoaddoneegg</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanyeggsaretherenow</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_howmanyeggsaretherenow</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_counttheeggs</phrase>
+			<phrase>4_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_yestherearefoureggs</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_plus</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_equals</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_wecanshowthisonanumberline</phrase>
+			<phrase>4_itstartswiththree</phrase>
+			<phrase>4_soletsstartthenumberlineatthree</phrase>
+			<phrase>4_likethis</phrase>
+			<phrase>4_nowimustaddone</phrase>
+			<phrase>4_soimakeonejumponthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_touchthelineatthreetomakeonejump</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthelineatthreetomakeonejump</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_touchthelineatthreetomakeonejump</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="DEMO">
+			<phrase>4_westartedwiththreeeggs</phrase>
+			<phrase>4_thenaddedone</phrase>
+			<phrase>4_sonowwehavefour</phrase>
+			<phrase>4_three</phrase>
+			<phrase>4_plus</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_equals</phrase>
+			<phrase>4_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="DEMO">
+			<phrase>4_thistimetherearefoureggs</phrase>
+			<phrase>4_sowestartthenumberlineatfour</phrase>
+			<phrase>4_likethis_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowaddtwoeggstothenest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_touchthenesttwice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="DEMO">
+			<phrase>4_youaddedtwoeggs</phrase>
+			<phrase>4_somaketwojumpsonthenumberlinestartingatfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_maketwojumpsstartingatfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_makeonemorejump</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_maketwojumpsstartingatfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_makeonemorejump</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichnumberdidyoureach</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_whichnumberdidyoureach</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_lookagain</phrase>
+			<phrase>4_whichnumberdidyoureach</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="DEMO">
+			<phrase>4_westartedwithfoureggsthenadded</phrase>
+			<phrase>4_one_4m</phrase>
+			<phrase>4_two</phrase>
+			<phrase>4_sonowwehavesix</phrase>
+			<phrase>4_four_4m</phrase>
+			<phrase>4_plus_4m</phrase>
+			<phrase>4_two_4m</phrase>
+			<phrase>4_equals_4m</phrase>
+			<phrase>4_six</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="DEMO">
+			<phrase>4_heresalongernumberline</phrase>
+			<phrase>4_letsuseittofindtheanswertothis</phrase>
+			<phrase>4_ten</phrase>
+			<phrase>4_plus_4n</phrase>
+			<phrase>4_three_4n</phrase>
+			<phrase>4_itstartswithten</phrase>
+			<phrase>4_sowestartthenumberlineatten</phrase>
+			<phrase>4_youmustaddthreeso</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_makethreejumpsstartingatten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makethreejumpsstartingatten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>4_maketwomorejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>4_makeonemorejump</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_makethreejumpsstartingatten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_maketwomorejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>4_makeonemorejump</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_whatistenplusthree</phrase>
+			<phrase>4_touchtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>4_whatistenplusthree</phrase>
+			<phrase>4_touchtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT4">
+			<phrase>4_lookagain_4n</phrase>
+			<phrase>4_wheredidyourjumpsend</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_right</phrase>
+			<phrase>4_ten_4n</phrase>
+			<phrase>4_plus_4n2</phrase>
+			<phrase>4_three_4n2</phrase>
+			<phrase>4_equals_4n</phrase>
+			<phrase>4_thirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowtrythisone</phrase>
+			<phrase>4_twelve</phrase>
+			<phrase>4_plus_4o</phrase>
+			<phrase>4_six_4o</phrase>
+			<phrase>4_itstartswithtwelveso</phrase>
+			<phrase>4_startthenumberlineattwelve</phrase>
+			<phrase>4_nowmakesixjumpsstartingattwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_youneedsixjumpsstartingattwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_youneedsixjumpsstartingattwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_whatistwelveplussix</phrase>
+			<phrase>4_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>4_whatistwelveplussix</phrase>
+			<phrase>4_findtheansweronthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT4">
+			<phrase>4_lookagain_4n</phrase>
+			<phrase>4_wheredidyourjumpsend</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_yes</phrase>
+			<phrase>4_twelve_4o</phrase>
+			<phrase>4_plus_4o2</phrase>
+			<phrase>4_six_4o2</phrase>
+			<phrase>4_equals_4o</phrase>
+			<phrase>4_eighteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="DEMO">
+			<phrase>4_letshaveanothergo</phrase>
+			<phrase>4_fifteen</phrase>
+			<phrase>4_plus_4p</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_itstartswithfifteen</phrase>
+			<phrase>4_sofifteengoeshere</phrase>
+			<phrase>4_nowyoumustaddfivesomakefivejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_youneedfivejumpsstartingatfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_youneedfivejumpsstartingatfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_whatisfifteenplusfive</phrase>
+			<phrase>4_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>4_whatisfifteenplusfive</phrase>
+			<phrase>4_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT4">
+			<phrase>4_lookagain_4n</phrase>
+			<phrase>4_wheredidyourjumpsend</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thatsright</phrase>
+			<phrase>4_fifteen_4p</phrase>
+			<phrase>4_plus_4p2</phrase>
+			<phrase>4_five_4p</phrase>
+			<phrase>4_equals_4p</phrase>
+			<phrase>4_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="DEMO">
+			<phrase>4_heresanother</phrase>
+			<phrase>4_eight</phrase>
+			<phrase>4_plus_4q</phrase>
+			<phrase>4_eight_4q</phrase>
+			<phrase>4_itstartswitheight</phrase>
+			<phrase>4_soeightgoeshere</phrase>
+			<phrase>4_nowmakethejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makethejumpsstartingateight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_youneedeightjumpsstartingateight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_whatiseightpluseight</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>4_whatiseightpluseight</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT4">
+			<phrase>4_lookagain_4n</phrase>
+			<phrase>4_whatiseightpluseight</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_good</phrase>
+			<phrase>4_eight_4q2</phrase>
+			<phrase>4_plus_4q2</phrase>
+			<phrase>4_eight_4q3</phrase>
+			<phrase>4_equals_4q</phrase>
+			<phrase>4_sixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisisthelastsum</phrase>
+			<phrase>4_fourteen</phrase>
+			<phrase>4_plus_4r</phrase>
+			<phrase>4_six_4r</phrase>
+			<phrase>4_itstartswithfourteen</phrase>
+			<phrase>4_sofourteengoeshere</phrase>
+			<phrase>4_makethejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_makethejumps</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_youneedsixjumpsstartingatfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_whatisfourteenplussix</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>4_whatisfourteenplussix</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT4">
+			<phrase>4_lookagain_4n</phrase>
+			<phrase>4_whatisfourteenplussix</phrase>
+			<phrase>4_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_verygood</phrase>
+			<phrase>4_fourteen_4r</phrase>
+			<phrase>4_plus_4r2</phrase>
+			<phrase>4_six_4r2</phrase>
+			<phrase>4_equals_4r</phrase>
+			<phrase>4_twenty_4r</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale4r">
+		<phrasegroup id="DEMO">
+			<phrase>4_excellentyouusednumberlinestodoaddition</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s">
+		<phrasegroup id="DEMO">
+			<phrase>4_letsdomoreworkwithnumberlines</phrase>
+			<phrase>4_look</phrase>
+			<phrase>4_thisnumberlinestartsatfourteen</phrase>
+			<phrase>4_andtherearefourjumps</phrase>
+			<phrase>4_one_4s</phrase>
+			<phrase>4_two_4s</phrase>
+			<phrase>4_three_4s</phrase>
+			<phrase>4_four_4s</phrase>
+			<phrase>4_thelastjumpendsateighteen</phrase>
+			<phrase>4_lookatthetwoboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichonematchesthenumberline</phrase>
+			<phrase>4_touchit_4s</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_youreright</phrase>
+			<phrase>4_fourteen_4s</phrase>
+			<phrase>4_plus_4s</phrase>
+			<phrase>4_one_4s2</phrase>
+			<phrase>4_two_4s2</phrase>
+			<phrase>4_three_4s2</phrase>
+			<phrase>4_four_4s2</phrase>
+			<phrase>4_equals_4s</phrase>
+			<phrase>4_eighteen_4s</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t">
+		<phrasegroup id="DEMO">
+			<phrase>4_nowlookatthisnumberline</phrase>
+			<phrase>4_andtheseboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichonematchesthenumberline_4t</phrase>
+			<phrase>4_chooseit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_right</phrase>
+			<phrase>4_thirteen_4t</phrase>
+			<phrase>4_plus_4s</phrase>
+			<phrase>4_one_4s2</phrase>
+			<phrase>4_two_4s2</phrase>
+			<phrase>4_three_4s2</phrase>
+			<phrase>4_four_4s2</phrase>
+			<phrase>4_five_4t</phrase>
+			<phrase>4_six_4t</phrase>
+			<phrase>4_seven</phrase>
+			<phrase>4_equals_4t</phrase>
+			<phrase>4_twenty_4t</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4u">
+		<phrasegroup id="DEMO">
+			<phrase>4_anewnumberline</phrase>
+			<phrase>4_andthreeboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichonematchesthenumberline_4t</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thatsright</phrase>
+			<phrase>4_sixteen_4u</phrase>
+			<phrase>4_plus_4s</phrase>
+			<phrase>4_one_4s2</phrase>
+			<phrase>4_two_4s2</phrase>
+			<phrase>4_three_4s2</phrase>
+			<phrase>4_four_4s2</phrase>
+			<phrase>4_equals_4t</phrase>
+			<phrase>4_twenty_4t</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4v">
+		<phrasegroup id="DEMO">
+			<phrase>4_onemorenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheboxthatmatchesit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_yes_4v</phrase>
+			<phrase>4_eleven</phrase>
+			<phrase>4_plus_4s</phrase>
+			<phrase>4_one_4s2</phrase>
+			<phrase>4_two_4s2</phrase>
+			<phrase>4_three_4s2</phrase>
+			<phrase>4_four_4s2</phrase>
+			<phrase>4_five_4t</phrase>
+			<phrase>4_equals_4t</phrase>
+			<phrase>4_sixteen_4v</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_choosetheboxthatmatchesthenumberline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_welldonewecanusenumberlinestoshowaddition</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="pop">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="stack_appear">
+			<phrase>kalimba_scale</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale0">
+			<phrase>first_number</phrase>
+		</phrasegroup>
+		<phrasegroup id="egg_pop">
+			<phrase>egg_pop_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="cross_fade">
+			<phrase>magic_harp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale1">
+			<phrase>xylo_scale_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale2">
+			<phrase>xylo_scale_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale3">
+			<phrase>xylo_scale_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale4">
+			<phrase>xylo_scale_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale5">
+			<phrase>xylo_scale_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale6">
+			<phrase>xylo_scale_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale7">
+			<phrase>xylo_scale_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="scale8">
+			<phrase>xylo_scale_8</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_on">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_line_on">
+			<phrase>number_line_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="arc_grow">
+			<phrase>arc_grow_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="div_line">
+			<phrase>div_line</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_on">
+			<phrase>pop_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_off">
+			<phrase>inhaler_puff</phrase>
+		</phrasegroup>
+		<phrasegroup id="sum_appear">
+			<phrase>sum_appears</phrase>
+		</phrasegroup>
+		<phrasegroup id="arc_grow2">
+			<phrase>arc_grow_short2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

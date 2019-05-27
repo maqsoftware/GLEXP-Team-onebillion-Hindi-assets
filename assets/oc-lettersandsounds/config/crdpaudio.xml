@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>crdp_letsplayamemorygame</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO2">
+			<phrase>crdp_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>crdp_tapcardstoturnthemover</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>crdp_tapcardstoturnthemover</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>crdp_tapcardstoturnthemover</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>crdp_good</phrase>
+			<phrase>crdp_nowtrythese</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>crdp_excellentyoumatchedallthecards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="splat">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="flip">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="flybig">
+			<phrase>hiss_aerosol</phrase>
+		</phrasegroup>
+		<phrasegroup id="flyaway">
+			<phrase>peel2</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

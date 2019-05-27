@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_theorangelineisalineofsymmetry</phrase>
+			<phrase>2_youhavetocolourinallthewhitepartsofthedrawing</phrase>
+			<phrase>2_sofirstchooseacolour</phrase>
+			<phrase>2_thenchooseaparttocolourin</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_offyougo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thetwohalvesmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowcolourinthebutterfly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thetwohalvesmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_colourthisin</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thetwohalvesmatch</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thetophalfmatchesthebottomhalf</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowlookthisishalfofadrawing</phrase>
+			<phrase>2_andthisisalineofsymmetry</phrase>
+			<phrase>2_toucheachpartofthedrawingontheleftoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingontheleftoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_goodthedrawingiscomplete</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_nowcolouritin</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_atshirt</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_completethisdrawinginthesameway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingontheleftoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_nowcolouritin</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_atreewithflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_completethisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingontheleftoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_colouritin</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_ahouseandtwotrees</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingontheleftoftheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_startcolouring</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_akitchencupboard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowtrythisoneithastwolinesofsymmetry</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingonthetopleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_colouritin</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_apatternofcolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thisisthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_toucheachpartofthedrawingonthetopleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>2_youhavenotfinishedyet</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>2_startcolouring</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>2_colourinallthewhitepartsofthedrawing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_apatternoffishandheartsandflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyoufinishedthedrawingsandyoucolouredthemin</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="touchpot">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill1">
+			<phrase>fill1</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill2">
+			<phrase>fill2</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill3">
+			<phrase>fill3</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill4">
+			<phrase>fill4</phrase>
+		</phrasegroup>
+		<phrasegroup id="showpots">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="showmirrors">
+			<phrase>copywhite</phrase>
+		</phrasegroup>
+	</event>
+</audio>

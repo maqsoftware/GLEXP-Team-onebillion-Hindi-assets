@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps5_2.aif</url>
+	<relurl>ps5_2.aif</relurl>
+	<timings text="Fisi alipenda sana kumtia Sungura matatani." frames="384694">
+		<timing id="0" start="0.000" end="0.743" startframe="0" framelength="32779" text="Fisi"/>
+		<timing id="1" start="1.501" end="2.388" startframe="66203" framelength="39090" text="alipenda"/>
+		<timing id="2" start="3.174" end="3.850" startframe="139984" framelength="29805" text="sana"/>
+		<timing id="3" start="4.721" end="5.544" startframe="208190" framelength="36320" text="kumtia"/>
+		<timing id="4" start="6.169" end="7.060" startframe="272065" framelength="39264" text="Sungura"/>
+		<timing id="5" start="7.974" end="8.723" startframe="351648" framelength="33046" text="matatani"/>
+	</timings>
+</xml>

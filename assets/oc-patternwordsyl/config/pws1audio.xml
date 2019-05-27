@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171204.122557361">
+	<event id="bag">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_letsworkonwords</phrase>
+			<phrase>pws1_touchthewordbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_touchthewordbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws1_touchthewordbag</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_1">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_watchme</phrase>
+			<phrase>pws1_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws1_tryagain</phrase>
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_2">
+		<phrasegroup id="PROMPT">
+			<phrase>pws1_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_dragthewordtoitsmatchingword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="pattern">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_nowlookatthepattern</phrase>
+			<phrase>pws1_allthewordshavethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>pws1_butitcansounddifferent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_1">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_nexttouchthewordyouhearandsayittoo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws1_tryagain</phrase>
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_2">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_goodnowdotherest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws1_tryagain</phrase>
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="find_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>pws1_tryagain</phrase>
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws1_touchthisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>pws1_verygoodyoumatchedwords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="pattern">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="bigletters">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="bagon">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="bagshake">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="outofbag">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="backtobag">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordswap">
+			<phrase>slide_tear</phrase>
+		</phrasegroup>
+	</event>
+</audio>

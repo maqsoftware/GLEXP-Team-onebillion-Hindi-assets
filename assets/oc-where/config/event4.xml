@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" gradienttop="64,209,251" gradientbottom="233,250,252" scenes="4a,4b,4c,4d,4e,4f,4g,4h,4i,4j,4k,4l,4m,4n" >
+		<vector id="cloud" pos="0.759714,0.00828544" src="4_cloud" scalex="1.05199" scaley="1.05203" zpos="0.001" opacity="0.301726" />
+		<vector id="cloudbig" pos="0.474621,0.185305" src="4_cloud" scalex="0.470323" scaley="0.470323" zpos="0.002" opacity="0.301726" />
+		<rectangle id="grass" pos="0.5,0.870168" src="grass" fill="155,225,162" zpos="0" x="0" y="0.740336" width="1" height="0.259664" />
+		<rectangle id="layoutrect" pos="0.497107,0.608693" src="layoutrect" fill="255,38,0" fillopacity="0.720375" stroke="0,0,0" strokewidth="1" zpos="0.003" hidden="true" widthtracksheight="true" x="0.180737" y="0.466085" width="0.63274" height="0.285217" pxwidth="647.926" pxheight="219.047" />
+	</event>
+	<event id="4a" >
+		<vector id="kid_boy" pos="0.802594,-0.0475164" parent="layoutrect" src="4a_boy" scalex="0.816795" scaley="0.816795" zpos="5" skinoffset="1" />
+		<rectangle id="h_kid_boy" pos="0.487106,0.267187" parent="kid_boy" src="h_kid_boy" fill="255,153,151" fillopacity="0.648266" zpos="5.001" x="-0.00430684" y="0.00555562" width="0.982826" height="0.523262" />
+		<rectangle id="obj_grass" pos="0.509958,0.0947863" parent="grass" src="obj_grass" fill="155,225,162" zpos="10.001" x="0.170395" y="0.0520651" width="0.679127" height="0.0854422" />
+		<vector id="obj_grassfringe_left" pos="0.185303,0.926956" parent="layoutrect" src="4_grassfringe" zpos="10.002" />
+		<vector id="obj_grassfringe_middle" pos="0.553479,0.914491" parent="layoutrect" src="4_grassfringe" zpos="10.003" />
+		<vector id="obj_grassfringe_right" pos="0.833248,0.925048" parent="layoutrect" src="4_grassfringe" zpos="10.004" />
+		<vector id="obj_stonewall" pos="0.504627,0.499643" parent="layoutrect" src="4_stonewall" scalex="1.22201" scaley="1.0527" zpos="10" />
+		<vector id="kid_girl" pos="0.23448,0.424781" parent="layoutrect" src="4a_girl" scalex="0.686078" scaley="0.686078" zpos="15" skinoffset="0" />
+		<rectangle id="h_kid_girl" pos="0.491252,0.508433" parent="kid_girl" src="h_kid_girl" fill="255,153,151" fillopacity="0.648266" zpos="15.001" x="-0.0227882" y="0.00627132" width="1.02808" height="1.00432" />
+	</event>
+	<event id="4b" target="kid_boy" >
+		<vector id="kid_girl" pos="0.218006,-0.116122" parent="layoutrect" src="4b_girl" scalex="0.859352" scaley="0.859352" zpos="5" />
+		<rectangle id="h_kid_girl" pos="0.499572,0.273752" parent="kid_girl" src="h_kid_girl" fill="255,153,151" fillopacity="0.648266" zpos="5.001" x="0.00227278" y="-0.0032342" width="0.994599" height="0.553973" />
+		<vector id="kid_boy" pos="0.80862,0.401954" parent="layoutrect" src="4b_boy" scalex="0.576339" scaley="0.576339" zpos="15" />
+		<rectangle id="h_kid_boy" pos="0.499693,0.50804" parent="kid_boy" src="h_kid_boy" fill="255,153,151" fillopacity="0.648266" zpos="15.001" x="0.0145475" y="0.00629943" width="0.970292" height="1.00348" />
+	</event>
+	<event id="4c" target="kid_boy1" >
+		<vector id="kid_boy1" pos="0.857237,-0.114907" parent="layoutrect" src="4c_boy1" scalex="0.873292" scaley="0.873292" zpos="5" />
+		<rectangle id="h_kid_boy1" pos="0.506685,0.281905" parent="kid_boy1" src="h_kid_boy1" fill="255,153,151" fillopacity="0.648266" zpos="5.001" x="0.0017458" y="0.00476134" width="1.00988" height="0.554288" />
+		<vector id="kid_boy2" pos="0.52807,0.293049" parent="layoutrect" src="4c_boy2" scalex="0.769056" scaley="0.769056" zpos="15" />
+		<vector id="kid_girl" pos="0.178918,0.0527142" parent="layoutrect" src="4c_girl" scalex="0.958153" scaley="0.958153" zpos="15.001" />
+		<rectangle id="h_kid_boy2" pos="0.502778,0.500132" parent="kid_boy2" src="h_kid_boy2" fill="255,153,151" fillopacity="0.648266" zpos="15.002" x="-0.0191385" y="0.00808615" width="1.04383" height="0.984092" />
+		<rectangle id="h_kid_girl" pos="0.490068,0.497562" parent="kid_girl" src="h_kid_girl" fill="255,153,151" fillopacity="0.648266" zpos="15.003" x="0.0197988" y="0.00528369" width="0.940539" height="0.984556" />
+	</event>
+	<event id="4d" target="kid_boy" >
+		<vector id="kid_boy" pos="0.735641,0.527343" src="4b_boy" scalex="0.463093" scaley="0.463093" zpos="5" />
+		<rectangle id="h_kid_boy" pos="0.523888,0.198091" parent="kid_boy" src="h_kid_boy" fill="255,153,151" fillopacity="0.648266" zpos="5.001" x="0.0356686" y="-0.00482786" width="0.976439" height="0.405838" />
+		<vector id="kid_girl1" pos="0.286621,0.598958" src="4d_girl" scalex="0.543803" scaley="0.543803" zpos="15.001" />
+		<vector id="kid_girl2" pos="0.501953,0.473231" src="4c_girl" scalex="0.993483" scaley="0.993483" zpos="15" />
+		<rectangle id="h_kid_girl1" pos="0.473965,0.496248" parent="kid_girl1" src="h_kid_girl1" fill="255,153,151" fillopacity="0.648266" zpos="15.003" x="-0.0480145" y="-0.00194437" width="1.04396" height="0.996384" />
+		<rectangle id="h_kid_girl2" pos="0.496194,0.495122" parent="kid_girl2" src="h_kid_girl2" fill="255,153,151" fillopacity="0.648266" zpos="15.002" x="0.025958" y="-0.00473085" width="0.940471" height="0.999706" />
+	</event>
+	<event id="4e" target="kid_boy1" >
+		<vector id="obj_tree2" anchor="0.5,1" pos="0.321121,0.210727" parent="grass" src="4e_tree" scalex="3.17804" scaley="3.17804" zpos="3.002" />
+		<vector id="kid_boy" pos="0.136719,0.617188" src="4b_boy" scalex="0.478671" scaley="0.478671" zpos="3" />
+		<vector id="kid_boy1" anchor="0.5,1" pos="0.611731,0.406821" parent="grass" src="4e_boy1" scalex="0.574192" scaley="0.574192" zpos="3.005" skinoffset="+1" />
+		<vector id="kid_girl1" pos="0.684646,0.713952" parent="obj_tree2" src="4e_girl1" scalex="0.392847" scaley="0.392847" zpos="3.001" skinoffset="-1" />
+		<vector id="kid_girl2" anchor="0.5,1" pos="0.869111,0.149299" parent="grass" src="4e_girl2" scalex="0.667962" scaley="0.667962" zpos="3.004" />
+		<rectangle id="h_kid_boy" pos="0.487495,0.437999" parent="kid_boy" src="h_kid_boy" fill="255,153,151" fillopacity="0.648266" zpos="3.01" x="-0.00634492" y="-0.00947232" width="0.98768" height="0.894943" />
+		<rectangle id="h_kid_boy1" pos="0.650101,0.426552" parent="kid_boy1" src="h_kid_boy1" fill="255,153,151" fillopacity="0.648266" zpos="3.009" x="0.296433" y="-0.00515237" width="0.707337" height="0.863409" />
+		<path id="h_kid_girl1" pos="0.625044,0.323151" parent="kid_girl1" src="h_kid_girl1" fill="255,153,151" fillopacity="0.648266" zpos="3.011" d="M0.6325 -0.04898c0 0-0.436 0.115-0.437 0.116c-0.00176 0.00117 0.129 0.628 0.129 0.628L0.7705 0.688L1.057 0.5378c0 0-0.15-0.412-0.15-0.412c0 0-0.274-0.174-0.274-0.174Z" />
+		<rectangle id="h_kid_girl2" pos="0.59409,0.501907" parent="kid_girl2" src="h_kid_girl2" fill="255,153,151" fillopacity="0.648266" zpos="3.008" x="0.19646" y="0.00213676" width="0.795259" height="0.99954" />
+		<vector id="obj_flowers" anchor="0.5,1" pos="0.124512,0.423196" parent="grass" src="4e_flowers" scalex="0.49688" scaley="0.49688" zpos="3.006" />
+		<vector id="obj_grassfringe" anchor="0.5,1" pos="0.130594,0.384902" parent="grass" src="4e_grassfringe" scalex="0.669441" scaley="1" zpos="3.007" />
+		<vector id="obj_tree1" anchor="0.5,1" pos="0.651445,0.206966" parent="grass" src="4e_tree" scalex="3.09855" scaley="3.18895" zpos="3.003" />
+	</event>
+	<event id="4f" target="kid_boy" >
+	</event>
+	<event id="4g" target="kid_girl1" >
+	</event>
+	<event id="4h" target="kid_girl1" >
+		<vector id="kid_boy1" anchor="0.5,1" pos="0.591425,0.380965" parent="grass" src="4h_boy1" scalex="0.441406" scaley="0.441406" zpos="3.002" />
+		<vector id="obj_sheep" anchor="0.5,1" pos="0.858441,0.425566" parent="grass" src="4h_sheep" scalex="-0.735" scaley="0.735216" zpos="3.005" />
+		<vector id="kid_boy2" pos="0.103227,0.227572" parent="kid_boy1" src="4h_boy2" scalex="0.611344" scaley="0.611344" zpos="3.001" />
+		<vector id="kid_girl" pos="0.553574,-0.517356" parent="obj_sheep" src="4b_girl" scalex="0.750367" scaley="0.750367" zpos="3" />
+		<vector id="kid_girl1" anchor="0.5,1" pos="0.240001,0.338812" parent="grass" src="4h_girl1" scalex="0.562568" scaley="0.562568" zpos="3.004" />
+		<rectangle id="h_kid_boy1" pos="0.505594,0.501873" parent="kid_boy1" src="h_kid_boy1" fill="255,153,151" fillopacity="0.648266" zpos="3.008" x="0.0156719" y="0.00919267" width="0.979845" height="0.98536" />
+		<path id="h_kid_boy2" pos="0.514447,0.502213" parent="kid_boy2" src="h_kid_boy2" fill="255,153,151" fillopacity="0.648266" zpos="3.009" d="M0.426 1.009L0.426 0.3387L1.011 0.3387L1.011 -0.004673L0.01792 -0.004673L0.01792 1.009L0.426 1.009Z" />
+		<rectangle id="h_kid_girl" pos="0.497642,0.372522" parent="kid_girl" src="h_kid_girl" fill="255,153,151" fillopacity="0.648266" zpos="3.007" x="0.0212209" y="0.000248976" width="0.952842" height="0.744547" />
+		<rectangle id="h_kid_girl1" pos="0.499723,0.508071" parent="kid_girl1" src="h_kid_girl1" fill="255,153,151" fillopacity="0.648266" zpos="3.006" x="-0.0255598" y="0.00299846" width="1.05056" height="1.01015" />
+		<vector id="obj_house" anchor="0.5,1" pos="0.248695,0.111475" parent="grass" src="4h_house" scalex="3.66422" scaley="3.66422" zpos="3.003" />
+	</event>
+	<event id="4i" target="kid_girl" >
+	</event>
+	<event id="4j" target="kid_boy2" >
+	</event>
+	<event id="4k" target="kid_boy2" >
+		<vector id="kid_boy1" pos="0.864395,-0.452567" parent="grass" src="4k_boy1" scalex="0.573843" scaley="0.573843" zpos="3.005" />
+		<vector id="kid_boy2" pos="0.589844,-0.406379" parent="grass" src="4k_boy2" scalex="0.553605" scaley="0.553605" zpos="3.004" />
+		<vector id="kid_boy3" pos="0.52382,-1.05577" parent="grass" src="4k_boy3" scalex="0.982109" scaley="0.982109" zpos="3" />
+		<vector id="kid_girl1" pos="0.20752,-0.942724" parent="grass" src="4k_girl1" scalex="0.873539" scaley="0.873539" zpos="3.001" />
+		<vector id="kid_girl2" pos="0.804174,-0.825941" parent="grass" src="4k_girl2" scalex="0.743637" scaley="0.743637" zpos="3.002" />
+		<vector id="kid_girl3" pos="0.294434,-0.384444" parent="grass" src="4k_girl3" scalex="0.544868" scaley="0.544868" zpos="3.003" />
+		<rectangle id="h_kid_boy1" pos="0.488202,0.505321" parent="kid_boy1" src="h_kid_boy1" fill="255,153,151" fillopacity="0.648266" zpos="3.007" x="-0.00530178" y="0.00394443" width="0.987009" height="1.00275" />
+		<rectangle id="h_kid_boy2" pos="0.497874,0.489595" parent="kid_boy2" src="h_kid_boy2" fill="255,153,151" fillopacity="0.648266" zpos="3.008" x="0.0228681" y="-0.0135568" width="0.950011" height="1.0063" />
+		<path id="h_kid_boy3" pos="0.481732,0.506586" parent="kid_boy3" src="h_kid_boy3" fill="255,153,151" fillopacity="0.648266" zpos="3.011" d="M0.5503 1.004L0.5503 0.4194L0.9493 0.4194L0.9493 0.009044L0.01417 0.009044L0.01417 1.004L0.5503 1.004Z" />
+		<path id="h_kid_girl1" pos="0.514655,0.494922" parent="kid_girl1" src="h_kid_girl1" fill="255,153,151" fillopacity="0.648266" zpos="3.01" d="M1.01 0.001384L0.01921 0.001384L0.01921 0.9885L0.6265 0.9885L0.6265 0.3897L1.01 0.3897L1.01 0.001384Z" />
+		<path id="h_kid_girl2" pos="0.4792,0.491943" parent="kid_girl2" src="h_kid_girl2" fill="255,153,151" fillopacity="0.648266" zpos="3.012" d="M0.509 0.2667L0.9684 0.2667L0.9684 -0.002471L-0.009954 -0.002471L-0.009954 0.9864L0.509 0.9864L0.509 0.2667Z" />
+		<rectangle id="h_kid_girl3" pos="0.43637,0.510466" parent="kid_girl3" src="h_kid_girl3" fill="255,153,151" fillopacity="0.648266" zpos="3.009" x="0.00906749" y="-0.00412889" width="0.854605" height="1.02919" />
+		<rectangle id="obj_dummy" pos="0.0528927,0.739766" src="obj_dummy" fill="255,255,255" zpos="3.006" hidden="true" x="0.0425758" y="0.725006" width="0.0206337" height="0.0295207" />
+	</event>
+	<event id="4l" target="kid_girl2" >
+	</event>
+	<event id="4m" target="kid_girl3" >
+	</event>
+	<event id="4n" target="kid_boy3" >
+	</event>
+</events>

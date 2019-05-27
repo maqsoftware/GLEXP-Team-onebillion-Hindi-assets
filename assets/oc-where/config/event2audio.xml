@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170620.085053992">
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>2_thejugisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>2_theschoolbagisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_puttheballunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheballunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_puttheballunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_puttheglassofjuiceonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheglassofjuiceonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_puttheglassofjuiceonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthespoononthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthespoononthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthespoononthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_puttheshoeunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_puttheshoeunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_puttheshoeunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthepencilunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthepencilunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthepencilunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthenewspaperonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthenewspaperonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthenewspaperonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthetoyengineunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthetoyengineunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthetoyengineunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_putthecakeonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_putthecakeonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_putthecakeonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowwhichbookisonthetable</phrase>
+			<phrase>2_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_whichbookisonthetable</phrase>
+			<phrase>2_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichbookisonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whichjugisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_whichjugisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_whichjugisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosetheredtinthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosetheredtinthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosetheredtinthatisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosesomethinggreenthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosesomethinggreenthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosesomethinggreenthatisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosesomethingyellowthatisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosesomethingyellowthatisonthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosesomethingyellowthatisonthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosesomethingbluethatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosesomethingbluethatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosesomethingbluethatisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="PROMPT">
+			<phrase>2_choosesomethingpinkthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosesomethingpinkthatisunderthetable</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_choosesomethingpinkthatisunderthetable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyouputthingsonandunderthetableandyouchosethingstomatchwhatisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

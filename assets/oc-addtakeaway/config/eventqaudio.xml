@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Q1">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyspotsareonthisdomino</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="NONE">
+			<phrase>q_therearefiveapplesonthetree</phrase>
+			<phrase>q_addtwomoreapples</phrase>
+			<phrase>q_howmanyapplesaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_addtwomoreapples</phrase>
+			<phrase>q_howmanyapplesaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="NONE">
+			<phrase>q_therearefivefishinthesea</phrase>
+			<phrase>q_addthreemorefish</phrase>
+			<phrase>q_howmanyfisharetherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_addthreemorefish</phrase>
+			<phrase>q_howmanyfisharetherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="NONE">
+			<phrase>q_thereareninesocksontheline</phrase>
+			<phrase>q_touchfoursockstotakethemaway</phrase>
+			<phrase>q_clickonfoursockstotakethemaway</phrase>
+			<phrase>q_howmanysocksareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_touchfoursockstotakethemaway</phrase>
+			<phrase>q_clickonfoursockstotakethemaway</phrase>
+			<phrase>q_howmanysocksareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="NONE">
+			<phrase>q_therearethreebirds</phrase>
+			<phrase>q_addtwomorebirdsonthelines</phrase>
+			<phrase>q_howmanybirdsaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_addtwomorebirdsonthelines</phrase>
+			<phrase>q_howmanybirdsaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="NONE">
+			<phrase>q_therearefourshoes</phrase>
+			<phrase>q_addfourmoreshoesonthelines</phrase>
+			<phrase>q_howmanyshoesaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_addfourmoreshoesonthelines</phrase>
+			<phrase>q_howmanyshoesaretherenow</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="NONE">
+			<phrase>q_thereareeightcandles</phrase>
+			<phrase>q_touchfivecandlestotakethemaway</phrase>
+			<phrase>q_howmanycandlesareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_touchfivecandlestotakethemaway</phrase>
+			<phrase>q_howmanycandlesareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="NONE">
+			<phrase>q_therearenineballoons</phrase>
+			<phrase>q_touchfiveballoonstotakethemaway</phrase>
+			<phrase>q_howmanyballoonsareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_touchfiveballoonstotakethemaway</phrase>
+			<phrase>q_howmanyballoonsareleft</phrase>
+			<phrase>q_touchthenumberthentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

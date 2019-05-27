@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <!-- Tablet Care -->
+    <video id="tablet_care_enGB"                    frame="tablet_care"                         file="tablet_care_enGB.mp4"                     subtitles="tablet_care_enGB.srt"          title="Tablet care: English"/>
+
+    <!-- Animals -->
+    <video id="animals_barbary_macaque"             frame="animals_barbary_macaque"             file="animals_barbary_macaque.mp4"              subtitles="animals_barbary_macaque.srt"   title="Animals: Barbary macaque"/>
+    <video id="animals_black_bear"                  frame="animals_black_bear"                  file="animals_black_bear.mp4"                   subtitles="animals_black_bear.srt"        title="Animals: Black bear"/>
+
+    <!-- Birds -->
+    <video id="birds_swan"                          frame="birds_swan"                          file="birds_swan.mp4"                           subtitles="birds_swan.srt"                title="Birds: Swan"/>
+
+    <!-- Cities Aerial -->
+    <video id="cities_aerial_london"                frame="cities_aerial_london"                file="cities_aerial_london.mp4"                 subtitles="cities_aerial_london.srt"      title="Cities Aerial: London"/>
+    <video id="cities_aerial_night"                 frame="cities_aerial_night"                 file="cities_aerial_night.mp4"                  subtitles="cities_aerial_night.srt"       title="Cities Aerial: Night"/>
+
+    <!-- Countries Aerial -->
+    <video id="countries_aerial_norway2"            frame="countries_aerial_norway2"            file="countries_aerial_norway2.mp4"             subtitles=""                              title="Countries Aerial: Norway"/>
+    <video id="countries_aerial_uae"                frame="countries_aerial_uae"                file="countries_aerial_uae.mp4"                 subtitles="countries_aerial_uae.srt"      title="Countries Aerial: UAE"/>
+
+    <!-- Countries Markets -->
+    <video id="countries_market_india"              frame="countries_market_india"              file="countries_market_india.mp4"               subtitles="countries_market_india.srt"    title="Countries Market: India"/>
+
+    <!-- Dinosaurs -->
+    <video id="dinosaurs_trex_walk"                 frame="dinosaurs_trex_walk"                 file="dinosaurs_trex_walk.mp4"                  subtitles="dinosaurs_trex_walk.srt"       title="Dinosaurs: T-Rex"/>
+
+    <!-- Drawing -->
+    <video id="drawing_duck"                        frame="drawing_duck"                        file="drawing_duck.mp4"                         subtitles="drawing_duck.srt"              title="Drawing: Duck"/>
+    <video id="drawing_elephant"                    frame="drawing_elephant"                    file="drawing_elephant.mp4"                     subtitles="drawing_elephant.srt"          title="Drawing: Elephant"/>
+    <video id="drawing_ship"                        frame="drawing_ship"                        file="drawing_ship.mp4"                         subtitles="drawing_ship.srt"              title="Drawing: Ship"/>
+    <video id="drawing_turtle"                      frame="drawing_turtle"                      file="drawing_turtle.mp4"                       subtitles="drawing_turtle.srt"            title="Drawing: Turtle"/>
+
+    <!-- Earth -->
+    <video id="earth_rotation"                      frame="earth_rotation"                      file="earth_rotation.mp4"                       subtitles="earth_rotation.srt"            title="Earth: Rotation"/>
+
+    <!-- Plants -->
+    <video id="flowers_rose"                        frame="flowers_rose"                        file="flowers_rose.mp4"                         subtitles="flowers_rose.srt"              title="Plants: Rose"/>
+
+    <!-- Him -->
+    <video id="him_honey"                           frame="him_honey"                           file="him_honey.mp4"                            subtitles="him_honey.srt"                 title="Honey"/>
+
+    <!-- Insects -->
+    <video id="insects_beetle"                      frame="insects_beetle"                      file="insects_beetle.mp4"                       subtitles="insects_beetle.srt"            title="Insects: Beetle"/>
+    <video id="insects_butterfly"                   frame="insects_butterfly"                   file="insects_butterfly.mp4"                    subtitles="insects_butterfly.srt"         title="Insects: Butterfly"/>
+    <video id="insects_mantis"                      frame="insects_mantis"                      file="insects_mantis.mp4"                       subtitles="insects_mantis.srt"            title="Insects: Mantis"/>
+    <video id="insects_spider"                      frame="insects_spider"                      file="insects_spider.mp4"                       subtitles="insects_spider.srt"            title="Insects: Spider"/>
+
+    <!-- Jobs -->
+    <video id="jobs_construction_turbine"           frame="jobs_construction_turbine"           file="jobs_construction_turbine.mp4"            subtitles="jobs_construction_turbine.srt" title="Jobs: Turbine construction"/>
+
+    <!-- Marine -->
+    <video id="marine_diving"                       frame="marine_diving"                       file="marine_diving.mp4"                        subtitles="marine_diving.srt"             title="Marine: Diving"/>
+    <video id="marine_jellyfish"                    frame="marine_jellyfish"                    file="marine_jellyfish.mp4"                     subtitles="marine_jellyfish.srt"          title="Marine: Jellyfish"/>
+
+    <!-- Origami -->
+    <video id="origami_elephant"                    frame="origami_elephant"                    file="origami_elephant.mp4"                     subtitles="origami_elephant.srt"          title="Origami: Elephant"/>
+    <video id="origami_rabbit"                      frame="origami_rabbit"                      file="origami_rabbit.mp4"                       subtitles="origami_rabbit.srt"            title="Origami: Rabbit"/>
+
+    <!-- Space -->
+    <video id="space_capsule"                       frame="space_capsule"                       file="space_capsule.mp4"                        subtitles="space_capsule.srt"             title="Space: Capsule"/>
+    <video id="space_milkway"                       frame="space_milkway"                       file="space_milkway.mp4"                        subtitles="space_milkway.srt"             title="Space: Milkyway"/>
+    <video id="space_shuttle_launch"                frame="space_shuttle_launch"                file="space_shuttle_launch.mp4"                 subtitles="space_shuttle_launch.srt"      title="Space: Shuttle launch"/>
+
+    <!-- Sport -->
+    <video id="sport_bodyboarding"                  frame="sport_bodyboarding"                  file="sport_bodyboarding.mp4"                   subtitles="sport_bodyboarding.srt"       title="Sport: Bodyboarding"/>
+    <video id="sport_motorbike_jump"                frame="sport_motorbike_jump"                file="sport_motorbike_jump.mp4"                 subtitles="sport_motorbike_jump.srt"     title="Sport: Motorbike jump"/>
+
+    <!-- Transport -->
+    <video id="transport_aeroplane_takeoff"         frame="transport_aeroplane_takeoff"         file="transport_aeroplane_takeoff.mp4"          subtitles="transport_aeroplane_takeoff.srt" title="Transport: Aeroplane takeoff"/>
+    <video id="transport_aeroplane_view"            frame="transport_aeroplane_view"            file="transport_aeroplane_view.mp4"             subtitles="transport_aeroplane_view.srt"    title="Transport: Aeroplane view"/>
+    <video id="travel_cruise_ship"                  frame="travel_cruise_ship"                  file="travel_cruise_ship.mp4"                   subtitles="travel_cruise_ship.srt"          title="Transport: Cruise ship"/>
+
+</playlist>

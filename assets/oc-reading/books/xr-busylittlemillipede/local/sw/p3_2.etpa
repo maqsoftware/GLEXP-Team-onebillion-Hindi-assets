@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p3_2.aif</url>
+	<relurl>p3_2.aif</relurl>
+	<timings text="“Niko bize!” Jongoo alijibu kwa sauti. “Sina muda wa kuongea. Nina kazi lazima niimalize.”" frames="359281">
+		<timing id="0" start="0.000" end="0.331" startframe="0" framelength="14578" text="Niko"/>
+		<timing id="1" start="0.331" end="1.056" startframe="14578" framelength="31979" text="bize"/>
+		<timing id="2" start="1.231" end="1.677" startframe="54307" framelength="19641" text="Jongoo"/>
+		<timing id="3" start="1.677" end="2.254" startframe="73948" framelength="25436" text="alijibu"/>
+		<timing id="4" start="2.254" end="2.376" startframe="99384" framelength="5408" text="kwa"/>
+		<timing id="5" start="2.376" end="3.098" startframe="104792" framelength="31839" text="sauti"/>
+		<timing id="6" start="3.723" end="4.138" startframe="164203" framelength="18296" text="Sina"/>
+		<timing id="7" start="4.138" end="4.443" startframe="182499" framelength="13431" text="muda"/>
+		<timing id="8" start="4.443" end="4.595" startframe="195930" framelength="6718" text="wa"/>
+		<timing id="9" start="4.595" end="5.393" startframe="202648" framelength="35202" text="kuongea"/>
+		<timing id="10" start="6.073" end="6.437" startframe="267812" framelength="16078" text="Nina"/>
+		<timing id="11" start="6.437" end="6.842" startframe="283890" framelength="17859" text="kazi"/>
+		<timing id="12" start="6.842" end="7.314" startframe="301749" framelength="20798" text="lazima"/>
+		<timing id="13" start="7.314" end="8.147" startframe="322547" framelength="36734" text="niimalize"/>
+	</timings>
+</xml>

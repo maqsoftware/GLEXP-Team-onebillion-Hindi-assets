@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p12_1.aif</url>
+	<relurl>p12_1.aif</relurl>
+	<timings text="Lolo alifurahi sana Mati aliporudi. “Nashukuru sana ng’ombe wangu wako salama,” alisema. “Lakini muhimu kuliko yote, nimefurahi kukupata tena.”" frames="515883">
+		<timing id="0" start="0.000" end="0.597" startframe="0" framelength="26323" text="Lolo"/>
+		<timing id="1" start="0.597" end="1.207" startframe="26323" framelength="26907" text="alifurahi"/>
+		<timing id="2" start="1.207" end="1.652" startframe="53230" framelength="19607" text="sana"/>
+		<timing id="3" start="1.652" end="1.952" startframe="72837" framelength="13268" text="Mati"/>
+		<timing id="4" start="1.952" end="2.768" startframe="86105" framelength="35974" text="aliporudi"/>
+		<timing id="5" start="3.619" end="4.185" startframe="159619" framelength="24924" text="Nashukuru"/>
+		<timing id="6" start="4.185" end="4.642" startframe="184543" framelength="20163" text="sana"/>
+		<timing id="7" start="4.642" end="4.972" startframe="204706" framelength="14577" text="ng’ombe"/>
+		<timing id="8" start="4.972" end="5.272" startframe="219283" framelength="13232" text="wangu"/>
+		<timing id="9" start="5.272" end="5.569" startframe="232515" framelength="13071" text="wako"/>
+		<timing id="10" start="5.569" end="6.115" startframe="245586" framelength="24072" text="salama"/>
+		<timing id="11" start="6.115" end="6.828" startframe="269658" framelength="31470" text="alisema"/>
+		<timing id="12" start="7.483" end="8.002" startframe="330006" framelength="22904" text="Lakini"/>
+		<timing id="13" start="8.002" end="8.510" startframe="352910" framelength="22391" text="muhimu"/>
+		<timing id="14" start="8.510" end="8.899" startframe="375301" framelength="17145" text="kuliko"/>
+		<timing id="15" start="8.899" end="9.547" startframe="392446" framelength="28579" text="yote"/>
+		<timing id="16" start="9.912" end="10.700" startframe="437107" framelength="34757" text="nimefurahi"/>
+		<timing id="17" start="10.700" end="11.285" startframe="471864" framelength="25802" text="kukupata"/>
+		<timing id="18" start="11.285" end="11.698" startframe="497666" framelength="18217" text="tena"/>
+	</timings>
+</xml>

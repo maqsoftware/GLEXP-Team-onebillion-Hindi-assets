@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Karibu na soko, alikuwepo mwanamke aliyekuwa na helikopta ya buluu. “Oh! Tazama ile!” nilisema. Lakini mama alinivuta." frames="587334">
+		<timing id="0" start="0.000" end="0.437" startframe="0" framelength="19278" text="Karibu"/>
+		<timing id="1" start="0.437" end="0.594" startframe="19278" framelength="6917" text="na"/>
+		<timing id="2" start="0.594" end="1.298" startframe="26195" framelength="31051" text="soko"/>
+		<timing id="3" start="1.850" end="2.696" startframe="81571" framelength="37321" text="alikuwepo"/>
+		<timing id="4" start="2.696" end="3.557" startframe="118892" framelength="37981" text="mwanamke"/>
+		<timing id="5" start="3.821" end="4.650" startframe="168525" framelength="36519" text="aliyekuwa"/>
+		<timing id="6" start="4.650" end="4.832" startframe="205044" framelength="8053" text="na"/>
+		<timing id="7" start="4.832" end="5.691" startframe="213097" framelength="37863" text="helikopta"/>
+		<timing id="8" start="5.993" end="6.206" startframe="264276" framelength="9417" text="ya"/>
+		<timing id="9" start="6.206" end="6.862" startframe="273693" framelength="28934" text="buluu"/>
+		<timing id="10" start="7.598" end="8.149" startframe="335093" framelength="24298" text="Oh"/>
+		<timing id="11" start="8.411" end="9.000" startframe="370915" framelength="25989" text="Tazama"/>
+		<timing id="12" start="9.000" end="9.591" startframe="396904" framelength="26057" text="ile"/>
+		<timing id="13" start="9.931" end="10.781" startframe="437942" framelength="37514" text="nilisema"/>
+		<timing id="14" start="10.912" end="11.379" startframe="481228" framelength="20586" text="Lakini"/>
+		<timing id="15" start="11.379" end="11.967" startframe="501814" framelength="25932" text="mama"/>
+		<timing id="16" start="12.346" end="13.318" startframe="544461" framelength="42873" text="alinivuta"/>
+	</timings>
+</xml>

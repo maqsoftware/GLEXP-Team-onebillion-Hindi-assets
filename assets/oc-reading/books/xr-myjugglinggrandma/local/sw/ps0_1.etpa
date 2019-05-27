@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Bibi yangu anayecheza cheza" frames="190692">
+		<timing id="0" start="0.000" end="0.488" startframe="0" framelength="21527" text="Bibi"/>
+		<timing id="1" start="1.050" end="1.666" startframe="46308" framelength="27175" text="yangu"/>
+		<timing id="2" start="2.233" end="3.244" startframe="98475" framelength="44578" text="anayecheza"/>
+		<timing id="3" start="3.891" end="4.324" startframe="171613" framelength="19079" text="cheza"/>
+	</timings>
+</xml>

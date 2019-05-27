@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_thegirlistallerthantheboy</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>3_theboyisshorterthanthegirl</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_whichchildistaller</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichchildistaller</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetallerchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichchildisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichchildisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetheshorterchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichboyisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichboyisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetheshorterboy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichgirlistaller</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichgirlistaller</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetallergirl</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtherearethreechildren</phrase>
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thistimetherearefourchildren</phrase>
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetheshortestchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetallestchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowlookatthefivegiraffes</phrase>
+			<phrase>3_whichgiraffeisthetallest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichgiraffeisthetallest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_whichgiraffeisthetallest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichgiraffeistheshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichgiraffeistheshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_whichgiraffeistheshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichtwogiraffesarethesameheight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichtwogiraffesarethesameheight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_whichtwogiraffesarethesameheight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosetheshortesttree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosetheshortesttree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetheshortesttree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosethetallesttree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosethetallesttree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosethetallesttree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_choosetwotreesthatarethesameheight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosetwotreesthatarethesameheight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_choosetwotreesthatarethesameheight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowlooksheistheshortestchild</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_soshegoesfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>3_heisnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>3_nowthechildrenareinorderofheightshortestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_putthesechildreninorderofheightshortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_putthechildreninorderofheightshortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_putthechildreninorderfromshortesttotallest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="PROMPT">
+			<phrase>3_putthegiraffesinordershortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_putthegiraffesinordershortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putthegiraffesinorderfromshortesttotallest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="PROMPT">
+			<phrase>3_puttheflagpolesinorderbutthistimeputthetallestonefirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_puttheflagpolesinordertallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_puttheflagpolesinorderfromtallesttoshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3t">
+		<phrasegroup id="PROMPT">
+			<phrase>3_putthetreesinordertallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_putthetreesinordertallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putthetreesinorderfromtallesttoshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3u">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowputtheseinordershortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_puttheseinordershortestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_puttheminorderfromshortesttotallest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3v">
+		<phrasegroup id="PROMPT">
+			<phrase>3_puttheseinordertallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_puttheseinordertallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_puttheminorderfromtallesttoshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_verygoodyouchosethetallestandtheshortestandthesameheightandyouputthingsinorderofheight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

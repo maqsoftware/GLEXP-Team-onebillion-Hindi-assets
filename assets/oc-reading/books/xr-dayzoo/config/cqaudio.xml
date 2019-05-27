@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.100903090">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanypeopleareinthecar</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_fourpeoplemumdadandtwochildrenallgoingtothezoo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thereisamonkeyinthepicture</phrase>
+			<phrase>cq_findthemonkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_itsalittlemonkeywithalongtail</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_findthemonkey</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanyelephantsareinthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_two_p3</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thereisamotherelephantanditsbaby</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatelsewilltheyfindatthezooletssee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchtheballoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_itsaredballoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchtheballoon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_theresagiraffeinthepicture</phrase>
+			<phrase>cq_findthegiraffe</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thegiraffeandotheranimalsarewatchingthefamilyleave</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain_p7</phrase>
+			<phrase>cq_findthegiraffe</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thechildrenaresleepynowbutveryhappy</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

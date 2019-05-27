@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/ps4_1.aif</url>
+	<relurl>ps4_1.aif</relurl>
+	<timings text="Ng’ombe kipenzi wa Lolo aliitwa Aliya. Alikuwa mkuu wa kundi lote la ng’ombe. Mati alipenda kumuimbia. Alipomwimbia, Aliya alikuja aliko Mati." frames="1372352">
+		<timing id="0" start="0.000" end="0.789" startframe="0" framelength="34811" text="Ng’ombe"/>
+		<timing id="1" start="1.126" end="2.344" startframe="49642" framelength="53714" text="kipenzi"/>
+		<timing id="2" start="2.813" end="3.593" startframe="124038" framelength="34392" text="wa"/>
+		<timing id="3" start="4.225" end="5.062" startframe="186316" framelength="36906" text="Lolo"/>
+		<timing id="4" start="5.563" end="6.722" startframe="245331" framelength="51106" text="aliitwa"/>
+		<timing id="5" start="7.179" end="8.032" startframe="316601" framelength="37612" text="Aliya"/>
+		<timing id="6" start="8.659" end="9.885" startframe="381852" framelength="54070" text="Alikuwa"/>
+		<timing id="7" start="10.323" end="11.285" startframe="455236" framelength="42433" text="mkuu"/>
+		<timing id="8" start="11.835" end="12.623" startframe="521945" framelength="34717" text="wa"/>
+		<timing id="9" start="13.290" end="14.095" startframe="586098" framelength="35510" text="kundi"/>
+		<timing id="10" start="14.678" end="15.676" startframe="647313" framelength="44008" text="lote"/>
+		<timing id="11" start="16.223" end="17.013" startframe="715454" framelength="34839" text="la"/>
+		<timing id="12" start="17.440" end="18.476" startframe="769104" framelength="45686" text="ng’ombe"/>
+		<timing id="13" start="19.133" end="20.017" startframe="843763" framelength="38997" text="Mati"/>
+		<timing id="14" start="20.427" end="21.640" startframe="900809" framelength="53512" text="alipenda"/>
+		<timing id="15" start="22.021" end="23.354" startframe="971142" framelength="58788" text="kumuimbia"/>
+		<timing id="16" start="23.813" end="25.204" startframe="1050142" framelength="61347" text="Alipomwimbia"/>
+		<timing id="17" start="25.915" end="26.852" startframe="1142831" framelength="41333" text="Aliya"/>
+		<timing id="18" start="27.308" end="28.499" startframe="1204266" framelength="52557" text="alikuja"/>
+		<timing id="19" start="28.843" end="29.874" startframe="1271956" framelength="45470" text="aliko"/>
+		<timing id="20" start="30.424" end="31.119" startframe="1341685" framelength="30667" text="Mati"/>
+	</timings>
+</xml>

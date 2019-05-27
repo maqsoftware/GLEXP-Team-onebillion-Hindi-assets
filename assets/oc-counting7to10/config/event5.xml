@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="5a,5b,5c,5d,5e" colour="255,240,218" >
+	</event>
+	<event id="5a" redraw="true" number="5" correct_object="3" >
+		<group id="obj_3"  pos="0.786133,0.486979" src="obj_3" zpos="1.002">
+			<rectangle id="Rectangle15 copy copy" pos="0.786133,0.486979" src="Rectangle15 copy copy" stroke="255,159,222" strokewidth="8" linecap="round" linejoin="round" zpos="1" widthtracksheight="true" x="0.600586" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_11" pos="0.38583,0.21665" parent="Rectangle15 copy copy" src="dot_11" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.326619" y="0.10415" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.61417,0.21665" parent="Rectangle15 copy copy" src="dot_12" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.55496" y="0.10415" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.61417,0.5" parent="Rectangle15 copy copy" src="dot_13" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.55496" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.38583,0.5" parent="Rectangle15 copy copy" src="dot_14" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.326619" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.38583,0.78335" parent="Rectangle15 copy copy" src="dot_15" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.326619" y="0.67085" width="0.118421" height="0.225" />
+			<circle id="dot_16" pos="0.61417,0.78335" parent="Rectangle15 copy copy" src="dot_16" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.55496" y="0.67085" width="0.118421" height="0.225" />
+		</group>
+		<path id="draw" pos="0.532016,0.523213" parent="obj_3" src="draw" stroke="92,68,214" strokewidth="15" linecap="round" linejoin="round" shadowcolour="109,109,109" shadowopacity="0.8" shadowradius="11.7029" shadowxoffset="-0.345282" shadowyoffset="4.49157" zpos="1.003" d="M0.1636 1.165c0 0 0.222-1.07 0.737-1.28" />
+		<group id="obj_1"  pos="0.213867,0.486979" src="obj_1" zpos="1.001">
+			<rectangle id="Rectangle15" pos="0.213867,0.486979" src="Rectangle15" stroke="255,159,222" strokewidth="8" linecap="round" linejoin="round" zpos="1" widthtracksheight="true" x="0.0283203" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_1" pos="0.387819,0.244883" parent="Rectangle15" src="dot_1" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.328608" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_2" pos="0.5,0.5" parent="Rectangle15" src="dot_2" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.440789" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_3" pos="0.612181,0.244883" parent="Rectangle15" src="dot_3" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.552971" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_4" pos="0.612181,0.755117" parent="Rectangle15" src="dot_4" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.552971" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_5" pos="0.387819,0.755117" parent="Rectangle15" src="dot_5" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.328608" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_2"  pos="0.5,0.815811" src="obj_2" zpos="1.004">
+			<rectangle id="Rectangle15 copy" pos="0.5,0.815811" src="Rectangle15 copy" stroke="255,159,222" strokewidth="8" linecap="round" linejoin="round" zpos="1" widthtracksheight="true" x="0.314453" y="0.685603" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_11" pos="0.38583,0.21665" parent="Rectangle15 copy" src="dot_11" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.326619" y="0.10415" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.61417,0.21665" parent="Rectangle15 copy" src="dot_12" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.55496" y="0.10415" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.61417,0.5" parent="Rectangle15 copy" src="dot_13" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.55496" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.38583,0.5" parent="Rectangle15 copy" src="dot_14" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.326619" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.38583,0.78335" parent="Rectangle15 copy" src="dot_15" fill="248,26,198" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.326619" y="0.67085" width="0.118421" height="0.225" />
+		</group>
+		<rectangle id="title" pos="0.5,0.160965" src="title" fill="255,255,255" stroke="0,0,0" strokewidth="1" linecap="round" zpos="1" x="0.397305" y="0.0240377" width="0.205391" height="0.273855" />
+	</event>
+	<event id="5b" redraw="true" number="7" correct_object="2" >
+		<path id="draw" pos="0.187609,0.788422" src="draw" stroke="255,117,14" strokewidth="15" linecap="round" linejoin="round" shadowcolour="109,109,109" shadowopacity="0.8" shadowradius="11.7029" shadowxoffset="-0.345282" shadowyoffset="4.49157" zpos="1.004" d="M0.1116 0.8494L0.2636 0.7274" />
+		<group id="obj_1"  pos="0.213867,0.486979" src="obj_1" zpos="1.001">
+			<rectangle id="Rectangle15" pos="0.213867,0.486979" src="Rectangle15" stroke="149,204,127" strokewidth="8" zpos="1" widthtracksheight="true" x="0.0283203" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_1" pos="0.206584,0.244883" parent="Rectangle15" src="dot_1" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.147374" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_2" pos="0.430947,0.244883" parent="Rectangle15" src="dot_2" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.371736" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_3" pos="0.318765,0.5" parent="Rectangle15" src="dot_3" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.259555" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_4" pos="0.206584,0.755117" parent="Rectangle15" src="dot_4" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.147374" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_5" pos="0.430947,0.755117" parent="Rectangle15" src="dot_5" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.371736" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_6" pos="0.793416,0.244883" parent="Rectangle15" src="dot_6" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.734205" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_7" pos="0.793416,0.755117" parent="Rectangle15" src="dot_7" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.734205" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_2"  pos="0.5,0.815811" src="obj_2" zpos="1.003">
+			<rectangle id="Rectangle15 copy" pos="0.5,0.815811" src="Rectangle15 copy" stroke="149,204,127" strokewidth="8" zpos="1" widthtracksheight="true" x="0.314453" y="0.685603" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_8" pos="0.162824,0.244883" parent="Rectangle15 copy" src="dot_8" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.103613" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_9" pos="0.387186,0.244883" parent="Rectangle15 copy" src="dot_9" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.327976" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_10" pos="0.275005,0.5" parent="Rectangle15 copy" src="dot_10" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.215795" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_11" pos="0.162824,0.755117" parent="Rectangle15 copy" src="dot_11" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.103613" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.387186,0.755117" parent="Rectangle15 copy" src="dot_12" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.327976" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.837176,0.244883" parent="Rectangle15 copy" src="dot_13" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.777966" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.612814,0.755117" parent="Rectangle15 copy" src="dot_14" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.553603" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.724995,0.5" parent="Rectangle15 copy" src="dot_15" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.665784" y="0.3875" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_3"  pos="0.786133,0.486979" src="obj_3" zpos="1.002">
+			<rectangle id="Rectangle15 copy copy" pos="0.786133,0.486979" src="Rectangle15 copy copy" stroke="149,204,127" strokewidth="8" zpos="1" widthtracksheight="true" x="0.600586" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_16" pos="0.571793,0.242383" parent="Rectangle15 copy copy" src="dot_16" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.512582" y="0.129883" width="0.118421" height="0.225" />
+			<circle id="dot_17" pos="0.796155,0.242383" parent="Rectangle15 copy copy" src="dot_17" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.736945" y="0.129883" width="0.118421" height="0.225" />
+			<circle id="dot_18" pos="0.683974,0.4975" parent="Rectangle15 copy copy" src="dot_18" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.624764" y="0.385" width="0.118421" height="0.225" />
+			<circle id="dot_19" pos="0.571793,0.752617" parent="Rectangle15 copy copy" src="dot_19" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.512582" y="0.640117" width="0.118421" height="0.225" />
+			<circle id="dot_20" pos="0.796155,0.752617" parent="Rectangle15 copy copy" src="dot_20" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.736945" y="0.640117" width="0.118421" height="0.225" />
+			<circle id="dot_21" pos="0.203845,0.247383" parent="Rectangle15 copy copy" src="dot_21" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.144634" y="0.134883" width="0.118421" height="0.225" />
+			<circle id="dot_22" pos="0.203845,0.757617" parent="Rectangle15 copy copy" src="dot_22" fill="0,185,16" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.144634" y="0.645117" width="0.118421" height="0.225" />
+		</group>
+		<rectangle id="title" pos="0.5,0.160965" src="title" fill="255,255,255" stroke="0,0,0" strokewidth="1" linecap="round" zpos="1" x="0.397305" y="0.0240377" width="0.205391" height="0.273855" />
+	</event>
+	<event id="5c" redraw="true" number="8" correct_object="1" >
+		<path id="draw" pos="0.163721,0.810486" src="draw" stroke="5,83,249" strokewidth="15" linecap="round" linejoin="round" shadowcolour="109,109,109" shadowopacity="0.8" shadowradius="11.7029" shadowxoffset="-0.345282" shadowyoffset="4.49157" zpos="1.004" d="M0.08768 0.8715L0.2398 0.7495" />
+		<group id="obj_1"  pos="0.213867,0.486979" src="obj_1" zpos="1.001">
+			<rectangle id="Rectangle15" pos="0.213867,0.486979" src="Rectangle15" stroke="255,158,102" strokewidth="8" zpos="1" widthtracksheight="true" x="0.0283203" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_1" pos="0.206584,0.244883" parent="Rectangle15" src="dot_1" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.147374" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_2" pos="0.318765,0.5" parent="Rectangle15" src="dot_2" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.259555" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_3" pos="0.206584,0.755117" parent="Rectangle15" src="dot_3" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.147374" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_4" pos="0.430947,0.244883" parent="Rectangle15" src="dot_4" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.371736" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_5" pos="0.430947,0.755117" parent="Rectangle15" src="dot_5" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.371736" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_6" pos="0.793416,0.755117" parent="Rectangle15" src="dot_6" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.734205" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_7" pos="0.793416,0.244883" parent="Rectangle15" src="dot_7" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.734205" y="0.132383" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_2"  pos="0.5,0.815811" src="obj_2" zpos="1.003">
+			<rectangle id="Rectangle15 copy" pos="0.5,0.815811" src="Rectangle15 copy" stroke="255,158,102" strokewidth="8" zpos="1" widthtracksheight="true" x="0.314453" y="0.685603" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_8" pos="0.165954,0.244883" parent="Rectangle15 copy" src="dot_8" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.106743" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_9" pos="0.278135,0.5" parent="Rectangle15 copy" src="dot_9" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.218925" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_10" pos="0.165954,0.755117" parent="Rectangle15 copy" src="dot_10" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.106743" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_11" pos="0.390317,0.755117" parent="Rectangle15 copy" src="dot_11" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.331106" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.390317,0.244883" parent="Rectangle15 copy" src="dot_12" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.331106" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.609683,0.755117" parent="Rectangle15 copy" src="dot_13" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.550473" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.721865,0.5" parent="Rectangle15 copy" src="dot_14" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.662654" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.834046,0.244883" parent="Rectangle15 copy" src="dot_15" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.774836" y="0.132383" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_3"  pos="0.786133,0.486979" src="obj_3" zpos="1.002">
+			<rectangle id="Rectangle15 copy copy" pos="0.786133,0.486979" src="Rectangle15 copy copy" stroke="255,158,102" strokewidth="8" zpos="1" widthtracksheight="true" x="0.600586" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_16" pos="0.165368,0.755117" parent="Rectangle15 copy copy" src="dot_16" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.106157" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_17" pos="0.389731,0.244883" parent="Rectangle15 copy copy" src="dot_17" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.33052" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_18" pos="0.165368,0.244883" parent="Rectangle15 copy copy" src="dot_18" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.106157" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_19" pos="0.389731,0.755117" parent="Rectangle15 copy copy" src="dot_19" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.33052" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_20" pos="0.610269,0.755117" parent="Rectangle15 copy copy" src="dot_20" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.551059" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_21" pos="0.610269,0.244883" parent="Rectangle15 copy copy" src="dot_21" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.551059" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_22" pos="0.834632,0.244883" parent="Rectangle15 copy copy" src="dot_22" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.775421" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_23" pos="0.834632,0.755117" parent="Rectangle15 copy copy" src="dot_23" fill="255,124,0" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.775421" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<rectangle id="title" pos="0.5,0.160965" src="title" fill="255,255,255" stroke="0,0,0" strokewidth="1" linecap="round" zpos="1" x="0.397305" y="0.0240377" width="0.205391" height="0.273855" />
+	</event>
+	<event id="5d" redraw="true" number="9" correct_object="1" >
+		<path id="draw" pos="0.106283,0.771922" src="draw" stroke="246,37,0" strokewidth="15" linecap="round" linejoin="round" shadowcolour="109,109,109" shadowopacity="0.8" shadowradius="11.7029" shadowxoffset="-0.345282" shadowyoffset="4.49157" zpos="1.004" d="M0.03025 0.8329L0.1823 0.7109" />
+		<group id="obj_1"  pos="0.213867,0.486979" src="obj_1" zpos="1.001">
+			<rectangle id="Rectangle15" pos="0.213867,0.486979" src="Rectangle15" stroke="180,123,187" strokewidth="8" zpos="1" widthtracksheight="true" x="0.0283203" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_1" pos="0.16709,0.244883" parent="Rectangle15" src="dot_1" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_2" pos="0.279271,0.5" parent="Rectangle15" src="dot_2" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.220061" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_3" pos="0.16709,0.755117" parent="Rectangle15" src="dot_3" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_4" pos="0.391453,0.755117" parent="Rectangle15" src="dot_4" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_5" pos="0.391453,0.244883" parent="Rectangle15" src="dot_5" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_6" pos="0.608547,0.244883" parent="Rectangle15" src="dot_6" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.549337" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_7" pos="0.608547,0.755117" parent="Rectangle15" src="dot_7" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_8" pos="0.720729,0.5" parent="Rectangle15" src="dot_8" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.661518" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_9" pos="0.83291,0.244883" parent="Rectangle15" src="dot_9" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_10" pos="0.83291,0.755117" parent="Rectangle15" src="dot_10" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.01" x="0.7737" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_2"  pos="0.5,0.815811" src="obj_2" zpos="1.003">
+			<rectangle id="Rectangle15 copy" pos="0.5,0.815811" src="Rectangle15 copy" stroke="180,123,187" strokewidth="8" zpos="1" widthtracksheight="true" x="0.314453" y="0.685603" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_11" pos="0.16709,0.244883" parent="Rectangle15 copy" src="dot_11" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.279271,0.5" parent="Rectangle15 copy" src="dot_12" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.220061" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.391453,0.244883" parent="Rectangle15 copy" src="dot_13" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.391453,0.755117" parent="Rectangle15 copy" src="dot_14" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.16709,0.755117" parent="Rectangle15 copy" src="dot_15" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_16" pos="0.608547,0.755117" parent="Rectangle15 copy" src="dot_16" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_17" pos="0.608547,0.244883" parent="Rectangle15 copy" src="dot_17" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.549337" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_18" pos="0.83291,0.244883" parent="Rectangle15 copy" src="dot_18" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_19" pos="0.83291,0.755117" parent="Rectangle15 copy" src="dot_19" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.7737" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_3"  pos="0.786133,0.486979" src="obj_3" zpos="1.002">
+			<rectangle id="Rectangle15 copy copy" pos="0.786133,0.486979" src="Rectangle15 copy copy" stroke="180,123,187" strokewidth="8" zpos="1" widthtracksheight="true" x="0.600586" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_20" pos="0.16709,0.244883" parent="Rectangle15 copy copy" src="dot_20" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_21" pos="0.16709,0.5" parent="Rectangle15 copy copy" src="dot_21" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.107879" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_22" pos="0.16709,0.755117" parent="Rectangle15 copy copy" src="dot_22" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_23" pos="0.391453,0.755117" parent="Rectangle15 copy copy" src="dot_23" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_24" pos="0.391453,0.5" parent="Rectangle15 copy copy" src="dot_24" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.332242" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_25" pos="0.391453,0.244883" parent="Rectangle15 copy copy" src="dot_25" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_26" pos="0.608547,0.755117" parent="Rectangle15 copy copy" src="dot_26" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_27" pos="0.720729,0.5" parent="Rectangle15 copy copy" src="dot_27" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.661518" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_28" pos="0.83291,0.244883" parent="Rectangle15 copy copy" src="dot_28" fill="112,34,171" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+		</group>
+		<rectangle id="title" pos="0.5,0.160965" src="title" fill="255,255,255" stroke="0,0,0" strokewidth="1" linecap="round" zpos="1" x="0.397305" y="0.0240377" width="0.205391" height="0.273855" />
+	</event>
+	<event id="5e" redraw="true" number="10" correct_object="2" >
+		<path id="draw" pos="0.183561,0.786397" src="draw" stroke="247,61,241" strokewidth="15" linecap="round" linejoin="round" shadowcolour="109,109,109" shadowopacity="0.8" shadowradius="11.7029" shadowxoffset="-0.345282" shadowyoffset="4.49157" zpos="1.004" d="M0.1075 0.8474L0.2596 0.7254" />
+		<group id="obj_1"  pos="0.213867,0.486979" src="obj_1" zpos="1.001">
+			<rectangle id="Rectangle15" pos="0.213867,0.486979" src="Rectangle15" stroke="125,160,203" strokewidth="8" zpos="1" widthtracksheight="true" x="0.0283203" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_1" pos="0.608547,0.755117" parent="Rectangle15" src="dot_1" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_2" pos="0.83291,0.244883" parent="Rectangle15" src="dot_2" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_3" pos="0.391453,0.755117" parent="Rectangle15" src="dot_3" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_4" pos="0.279271,0.5" parent="Rectangle15" src="dot_4" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.220061" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_10" pos="0.391453,0.244883" parent="Rectangle15" src="dot_10" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_16" pos="0.83291,0.755117" parent="Rectangle15" src="dot_16" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.01" x="0.7737" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_18" pos="0.608547,0.244883" parent="Rectangle15" src="dot_18" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.549337" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_19" pos="0.16709,0.755117" parent="Rectangle15" src="dot_19" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_20" pos="0.720729,0.5" parent="Rectangle15" src="dot_20" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.661518" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_26" pos="0.16709,0.244883" parent="Rectangle15" src="dot_26" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_2"  pos="0.5,0.815811" src="obj_2" zpos="1.003">
+			<rectangle id="Rectangle15 copy" pos="0.5,0.815811" src="Rectangle15 copy" stroke="125,160,203" strokewidth="8" zpos="1" widthtracksheight="true" x="0.314453" y="0.685603" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_11" pos="0.608547,0.755117" parent="Rectangle15 copy" src="dot_11" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_12" pos="0.83291,0.244883" parent="Rectangle15 copy" src="dot_12" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_13" pos="0.391453,0.755117" parent="Rectangle15 copy" src="dot_13" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_14" pos="0.279271,0.5" parent="Rectangle15 copy" src="dot_14" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.220061" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_17" pos="0.391453,0.244883" parent="Rectangle15 copy" src="dot_17" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_24" pos="0.16709,0.244883" parent="Rectangle15 copy" src="dot_24" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_27" pos="0.608547,0.244883" parent="Rectangle15 copy" src="dot_27" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.549337" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_28" pos="0.16709,0.755117" parent="Rectangle15 copy" src="dot_28" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_29" pos="0.83291,0.755117" parent="Rectangle15 copy" src="dot_29" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.7737" y="0.642617" width="0.118421" height="0.225" />
+		</group>
+		<group id="obj_3"  pos="0.786133,0.486979" src="obj_3" zpos="1.002">
+			<rectangle id="Rectangle15 copy copy" pos="0.786133,0.486979" src="Rectangle15 copy copy" stroke="125,160,203" strokewidth="8" zpos="1" widthtracksheight="true" x="0.600586" y="0.356771" width="0.371094" height="0.260417" pxwidth="380" pxheight="200" cornerradius="0.25" />
+			<circle id="dot_5" pos="0.391453,0.755117" parent="Rectangle15 copy copy" src="dot_5" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.005" x="0.332242" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_6" pos="0.608547,0.244883" parent="Rectangle15 copy copy" src="dot_6" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.006" x="0.549337" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_7" pos="0.391453,0.5" parent="Rectangle15 copy copy" src="dot_7" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.008" x="0.332242" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_8" pos="0.16709,0.5" parent="Rectangle15 copy copy" src="dot_8" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.003" x="0.107879" y="0.3875" width="0.118421" height="0.225" />
+			<circle id="dot_9" pos="0.83291,0.755117" parent="Rectangle15 copy copy" src="dot_9" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.01" x="0.7737" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_15" pos="0.16709,0.244883" parent="Rectangle15 copy copy" src="dot_15" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.001" x="0.107879" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_21" pos="0.16709,0.755117" parent="Rectangle15 copy copy" src="dot_21" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.004" x="0.107879" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_22" pos="0.83291,0.244883" parent="Rectangle15 copy copy" src="dot_22" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.007" x="0.7737" y="0.132383" width="0.118421" height="0.225" />
+			<circle id="dot_23" pos="0.608547,0.755117" parent="Rectangle15 copy copy" src="dot_23" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.009" x="0.549337" y="0.642617" width="0.118421" height="0.225" />
+			<circle id="dot_25" pos="0.391453,0.244883" parent="Rectangle15 copy copy" src="dot_25" fill="0,144,222" stroke="0,0,0" strokewidth="0.25" linecap="round" zpos="1.002" x="0.332242" y="0.132383" width="0.118421" height="0.225" />
+		</group>
+		<rectangle id="title" pos="0.5,0.160965" src="title" fill="255,255,255" stroke="0,0,0" strokewidth="1" linecap="round" zpos="1" x="0.397305" y="0.0240377" width="0.205391" height="0.273855" />
+	</event>
+</events>

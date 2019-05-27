@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="7a" colour="235,249,223" >
+	</event>
+	<event id="7a" redraw="true" colour_1="170,238,255" colour_2="255,156,235" colour_3="239,1,146" total_rows="5" total_columns="7" border_size="2" border_colour="80,80,80" links="snake_1,snake_2,snake_3,snake_4,ladder_1,ladder_2" link_snake_1="15,2" link_snake_2="13,3" link_snake_3="10,6" link_snake_4="21,11" link_ladder_1="5,12" link_ladder_2="14,19" >
+		<rectangle id="grid" pos="0.612305,0.533854" src="grid" fill="255,189,39" stroke="0,0,0" strokewidth="0.25" zpos="1" hidden="true" widthtracksheight="true" x="0.236328" y="0.175781" width="0.751953" height="0.716146" pxwidth="770" pxheight="550" />
+		<vector id="counter" pos="0.0694805,0.905426" parent="grid" src="counter" scalex="0.720621" scaley="0.720621" fill="249,226,6" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.016" />
+		<vector id="dice_1" pos="0.0687466,0.512413" src="7_dice" scalex="0.740572" scaley="0.740572" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.013" />
+		<vector id="dice_2" pos="0.170946,0.548658" src="7_dice" scalex="0.740572" scaley="0.740572" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.014" />
+		<vector id="ladder_1" pos="0.584176,0.697576" parent="grid" src="7_ladder" scalex="1.2" scaley="1.2" rotation="34.3272" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.005" />
+		<path id="ladder_1_path" pos="0.577159,0.705529" parent="grid" src="ladder_1_path" stroke="0,0,0" strokewidth="5" zpos="1.011" d="M0.653556 0.892216c0.000 0.000-0.039-0.031-0.032-0.132c0.014-0.077-0.042-0.030-0.052-0.067c-0.015-0.052 0.019-0.028-0.009-0.090c-0.015-0.033-0.055 0.019-0.059-0.085" />
+		<vector id="ladder_2" pos="0.283668,0.302776" parent="grid" src="7_ladder" scalex="1.2" scaley="1.2" rotation="-24.8643" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.006" />
+		<path id="ladder_2_path" pos="0.277417,0.301168" parent="grid" src="ladder_2_path" stroke="0,0,0" strokewidth="5" zpos="1.012" d="M0.216487 0.458622c0.000 0.000 0.050-0.001 0.053-0.056c0.002-0.047-0.024-0.032-0.012-0.078c0.014-0.053 0.056-0.046 0.063-0.081c0.010-0.046-0.027-0.083 0.018-0.100" />
+		<vector id="snake_1" pos="0.152597,0.697273" parent="grid" src="7_snake" scalex="0.8" scaley="0.8" rotation="-15.2076" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.001" />
+		<path id="snake_1_path" pos="0.162773,0.706325" parent="grid" src="snake_1_path" stroke="0,0,0" strokewidth="5" zpos="1.007" d="M0.0663758 0.522564c0.000 0.000 0.034 0.023 0.011 0.092c-0.018 0.053 0.112-0.015 0.067 0.064c-0.066 0.116 0.056 0.098 0.079 0.103c0.043 0.009-0.028 0.105-0.024 0.108" />
+		<vector id="snake_2" pos="0.364047,0.696674" parent="grid" src="7_snake" scalex="0.7" scaley="0.7" rotation="-41.6789" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.002" />
+		<path id="snake_2_path" pos="0.355767,0.707855" parent="grid" src="snake_2_path" stroke="0,0,0" strokewidth="5" zpos="1.008" d="M0.347129 0.539837c0.000 0.000-0.043 0.059-0.014 0.076c0.032 0.019 0.064 0.028 0.003 0.091c-0.026 0.027 0.052 0.077 0.060 0.105c0.011 0.040-0.051 0.032-0.056 0.064" />
+		<vector id="snake_3" pos="0.783465,0.703061" parent="grid" src="7_snake" scalex="-0.656" scaley="0.655737" rotation="28.6461" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.003" />
+		<path id="snake_3_path" pos="0.780029,0.691154" parent="grid" src="snake_3_path" stroke="0,0,0" strokewidth="5" zpos="1.009" d="M0.836222 0.511037c0.000 0.000-0.031 0.049-0.016 0.080c0.023 0.049 0.018 0.035-0.035 0.066c-0.015 0.009 0.062 0.107-0.011 0.114c-0.060 0.006-0.043 0.074-0.022 0.101" />
+		<vector id="snake_4" pos="0.645271,0.298286" parent="grid" src="7_snake" scalex="0.7" scaley="0.7" rotation="-41.6789" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.004" />
+		<path id="snake_4_path" pos="0.643428,0.295451" parent="grid" src="snake_4_path" stroke="0,0,0" strokewidth="5" zpos="1.01" d="M0.643684 0.0997514c0.000 0.000 0.000 0.050-0.036 0.096c-0.026 0.032 0.063 0.025 0.048 0.066c-0.017 0.045-0.052 0.056-0.027 0.101c0.031 0.056 0.078 0.023 0.015 0.129" />
+		<vector id="tumbler" pos="0.124512,0.757812" src="7_shaker" scalex="2.96352" scaley="3.01903" shadowcolour="0,0,0" shadowopacity="0.21" shadowradius="2.32355" shadowxoffset="3.33333" shadowyoffset="3.894" zpos="1.015" />
+	</event>
+</events>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="“Hebu niletee juisi ya machungwa, tafadhali,” Baba alisema." frames="475734">
+		<timing id="0" start="0.000" end="0.644" startframe="0" framelength="28421" text="Hebu"/>
+		<timing id="1" start="0.991" end="1.978" startframe="43698" framelength="43545" text="niletee"/>
+		<timing id="2" start="2.196" end="3.049" startframe="96834" framelength="37624" text="juisi"/>
+		<timing id="3" start="3.233" end="3.831" startframe="142595" framelength="26336" text="ya"/>
+		<timing id="4" start="5.304" end="6.179" startframe="233919" framelength="38558" text="machungwa"/>
+		<timing id="5" start="6.665" end="7.580" startframe="293927" framelength="40341" text="tafadhali"/>
+		<timing id="6" start="8.170" end="8.912" startframe="360286" framelength="32735" text="Baba"/>
+		<timing id="7" start="9.200" end="10.058" startframe="405720" framelength="37829" text="alisema"/>
+	</timings>
+</xml>

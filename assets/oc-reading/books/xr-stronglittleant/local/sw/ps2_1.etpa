@@ -1,0 +1,32 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Siafu na familia yake walipenda sana choroko. Na hii moja ndio kwanza imeanza kuchepua. Siafu akaushika ule mche uliochepua na kuuvuta kwa nguvu zake zote." frames="1910379">
+		<timing id="0" start="0.000" end="0.976" startframe="0" framelength="43054" text="Siafu"/>
+		<timing id="1" start="1.557" end="2.428" startframe="68646" framelength="38442" text="na"/>
+		<timing id="2" start="2.913" end="4.089" startframe="128476" framelength="51861" text="familia"/>
+		<timing id="3" start="4.600" end="5.711" startframe="202882" framelength="48956" text="yake"/>
+		<timing id="4" start="6.155" end="7.475" startframe="271425" framelength="58226" text="walipenda"/>
+		<timing id="5" start="8.034" end="9.107" startframe="354287" framelength="47339" text="sana"/>
+		<timing id="6" start="9.459" end="10.711" startframe="417152" framelength="55202" text="choroko"/>
+		<timing id="7" start="11.040" end="11.993" startframe="486880" framelength="42012" text="Na"/>
+		<timing id="8" start="12.482" end="13.391" startframe="550477" framelength="40077" text="hii"/>
+		<timing id="9" start="13.941" end="15.051" startframe="614778" framelength="48991" text="moja"/>
+		<timing id="10" start="15.734" end="16.839" startframe="693884" framelength="48723" text="ndio"/>
+		<timing id="11" start="17.449" end="18.417" startframe="769518" framelength="42666" text="kwanza"/>
+		<timing id="12" start="19.700" end="20.925" startframe="868784" framelength="54011" text="imeanza"/>
+		<timing id="13" start="21.708" end="22.811" startframe="957323" framelength="48640" text="kuchepua"/>
+		<timing id="14" start="23.597" end="24.842" startframe="1040649" framelength="54896" text="Siafu"/>
+		<timing id="15" start="25.336" end="26.690" startframe="1117331" framelength="59698" text="akaushika"/>
+		<timing id="16" start="27.391" end="28.316" startframe="1207940" framelength="40811" text="ule"/>
+		<timing id="17" start="28.896" end="29.926" startframe="1274315" framelength="45413" text="mche"/>
+		<timing id="18" start="31.501" end="33.142" startframe="1389210" framelength="72369" text="uliochepua"/>
+		<timing id="19" start="33.870" end="34.881" startframe="1493646" framelength="44605" text="na"/>
+		<timing id="20" start="35.194" end="36.337" startframe="1552051" framelength="50430" text="kuuvuta"/>
+		<timing id="21" start="36.673" end="37.447" startframe="1617286" framelength="34141" text="kwa"/>
+		<timing id="22" start="38.013" end="39.160" startframe="1676390" framelength="50551" text="nguvu"/>
+		<timing id="23" start="39.707" end="40.676" startframe="1751064" framelength="42768" text="zake"/>
+		<timing id="24" start="41.228" end="42.345" startframe="1818166" framelength="49239" text="zote"/>
+	</timings>
+</xml>

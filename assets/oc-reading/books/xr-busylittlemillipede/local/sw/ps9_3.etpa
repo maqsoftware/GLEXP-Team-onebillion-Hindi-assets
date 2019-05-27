@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/ps9_3.aif</url>
+	<relurl>ps9_3.aif</relurl>
+	<timings text="Hakuna aliyekuwa na muda wa kumsaidia Jongoo, masikini." frames="533832">
+		<timing id="0" start="0.000" end="0.839" startframe="0" framelength="36987" text="Hakuna"/>
+		<timing id="1" start="1.648" end="2.697" startframe="72658" framelength="46270" text="aliyekuwa"/>
+		<timing id="2" start="3.522" end="4.126" startframe="155331" framelength="26616" text="na"/>
+		<timing id="3" start="4.759" end="5.533" startframe="209875" framelength="34133" text="muda"/>
+		<timing id="4" start="6.406" end="6.994" startframe="282518" framelength="25917" text="wa"/>
+		<timing id="5" start="7.601" end="8.793" startframe="335200" framelength="52593" text="kumsaidia"/>
+		<timing id="6" start="9.565" end="10.360" startframe="421798" framelength="35073" text="Jongoo"/>
+		<timing id="7" start="11.238" end="12.105" startframe="495608" framelength="38224" text="masikini"/>
+	</timings>
+</xml>

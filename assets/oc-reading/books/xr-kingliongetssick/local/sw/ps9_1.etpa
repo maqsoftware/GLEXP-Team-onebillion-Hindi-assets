@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Sungura alifikiri kwa haraka haraka. “Ndio,” alijibu. “Lakini dawa ni vigumu kuipata.”" frames="885659">
+		<timing id="0" start="0.000" end="0.951" startframe="0" framelength="41960" text="Sungura"/>
+		<timing id="1" start="1.670" end="2.935" startframe="73631" framelength="55804" text="alifikiri"/>
+		<timing id="2" start="3.812" end="4.432" startframe="168111" framelength="27357" text="kwa"/>
+		<timing id="3" start="5.195" end="6.149" startframe="229093" framelength="42072" text="haraka"/>
+		<timing id="4" start="6.731" end="7.590" startframe="296825" framelength="37896" text="haraka"/>
+		<timing id="5" start="8.666" end="9.439" startframe="382163" framelength="34100" text="Ndio"/>
+		<timing id="6" start="10.442" end="11.372" startframe="460481" framelength="41012" text="alijibu"/>
+		<timing id="7" start="12.369" end="13.284" startframe="545461" framelength="40373" text="Lakini"/>
+		<timing id="8" start="14.238" end="15.094" startframe="627876" framelength="37772" text="dawa"/>
+		<timing id="9" start="16.165" end="16.792" startframe="712883" framelength="27629" text="ni"/>
+		<timing id="10" start="17.823" end="18.706" startframe="785996" framelength="38951" text="vigumu"/>
+		<timing id="11" start="19.311" end="20.083" startframe="851632" framelength="34027" text="kuipata"/>
+	</timings>
+</xml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-helloSW" indent="N" lineheight="1.5" paraheight="1.33" fontsize="42" changetoken="20171110.154656802">
+	<page pageno="0">
+		<para>Habari!</para>
+	</page>
+	<page pageno="1">
+		<para>Jina langu ni Lila. Nina rafiki wengi. Nifuate tukasalimie!</para>
+	</page>
+	<page pageno="2">
+		<para>Habari, jua! Wewe ni kubwa na unang’aa. Unaujaza mchana na nuru yako ya ujotojoto.</para>
+	</page>
+	<page pageno="3">
+		<para>Habari, majani! Wewe ni laini na kijani. Tunapenda kukuhisi tukikukanyaga kwa miguu.</para>
+	</page>
+	<page pageno="4">
+		<para>Habari, anga! Wewe ni pana na buluu. Wakati mwengine mawingu huelea pia.</para>
+	</page>
+	<page pageno="5">
+		<para>Habari, mwezi! Unang’aa usiku. Kukiwa na giza, unaleta mwanga wako.</para>
+	</page>
+	<page pageno="6">
+		<para>Habari, nyota! Mnameremeta na kung’aa. Mnang’arisha anga wakati wa usiku.</para>
+	</page>
+	<page pageno="7">
+		<para>Habari, upepo! Wewe huzuiliki na uko huria. Unavuma kwenye miti na unacheza na majani.</para>
+	</page>
+	<page pageno="8" picjustify="left">
+		<para>Habari mvua!</para>
+		<para>Unaleta ubaridi na umajimaji.</para>
+		<para>Unaponyesha, unaleta maji safi ardhini.</para>
+	</page>
+	<page pageno="9" picjustify="right">
+		<para>Habari, kimbunga!</para>
+		<para>Umwesa wako unaweza ukatisha.</para>
+		<para>Maradi yako yananguruma kwa sauti kubwa!</para>
+	</page>
+	<page pageno="10">
+		<para>Habari, matone ya umande! Wewe ni baridi na safi. Asubuhi, unaleta unyevu nyevu ardhini.</para>
+	</page>
+	<page pageno="11" picjustify="left">
+		<para>Habari, mti!</para>
+		<para>Wewe ni mrefu na madhubuti.</para>
+		<para>Unatupa kivuli na matunda ya kula.</para>
+	</page>
+	<page pageno="12">
+		<para>Habari, ndege! Unaruka angani. Unajaza siku zetu na nyimbo zenye kupendeza.</para>
+	</page>
+</book>

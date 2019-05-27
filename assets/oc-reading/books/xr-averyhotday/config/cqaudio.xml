@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchtheflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_eventheflowersweretoohot</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+			<phrase>cq_touchtheflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_werethechildrenallowedtogoswimming</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_no</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_thinkagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_mumsaidtheymustnotgointothewater</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchtheredtop</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thechidrenweretoohotwiththeirclotheson</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+			<phrase>cq_touchtheredtop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thewaterwascoolwhatdoyouthinkthechildrendidnextguess</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howdidthechildrenfeel</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_grumpy</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_happy</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_thinkagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theywerecoolatlasttheydforgottenthatmumtoldthemnottogointheriver</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatwasthecoweating</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_grass</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_clothes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_ohnothecowwaseatingthechildrensclothes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p10">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thechildrendidntlistentotheirmumandtheylosttheirclothes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

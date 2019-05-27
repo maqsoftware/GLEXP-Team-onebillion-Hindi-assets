@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="79" boxesperrow="7" fill="239,075,122;178,214,129;107,200,197;128,158,210;154,140,155;245,127,032;252,187,108;227,046,187;138,154,206;187,217,125;140,213,234;226,96,149;249,203,089;189,167,122;190,130,185;240,081,070;244,125,067;127,206,202;235,199,222;121,194,087;239,077,127;255,220,073;180,138,190;253,194,015;139,215,248" stroke="217,056,109;148,193,097;050,178,165;087,129,193;130,118,131;236,106,035;247,163,071;211,113,173;101,125,190;152,202,078;102,189,209;205,069,131;218,162,040;159,134,090;170,108,173;214,038,039;216,087,039;088,195,184;214,157,198;085,185,072;217,043,107;253,181,021;138,83,161;231,175,034;027,156,215" >
+		<rectangle id="mainrect" pos="0.5,0.514341" src="mainrect" fill="4,51,255" fillopacity="0.163184" zpos="0" hidden="true" widthtracksheight="true" x="0.176758" y="0.140884" width="0.646484" height="0.746913" pxwidth="662" pxheight="573.629" />
+		<rectangle id="boxhiswatch" pos="-0.130824,0.804115" parent="mainrect" src="boxhiswatch" fill="255,237,131" stroke="140,178,218" strokewidth="3" zpos="0.004" hidden="true" x="-0.185724" y="0.722184" width="0.1098" height="0.163862" />
+		<rectangle id="letterswatch" pos="-0.151981,0.109122" parent="mainrect" src="letterswatch" fill="194,56,242" stroke="140,178,218" strokewidth="3" zpos="0.003" hidden="true" x="-0.198481" y="0.053715" width="0.0930006" height="0.110815" />
+		<path id="ropeend" pos="0.706735,0.881112" parent="mainrect" src="ropeend" stroke="140,178,218" strokewidth="3" zpos="0.001" d="M0.6447 0.8427c0.056-0.00447 0.0914 0.000528 0.102 0.00612c0.0106 0.00559 0.022 0.0322 0.0139 0.0336c-0.00817 0.00141-0.0297-0.0195-0.0374-0.0318c-0.00767-0.0123-0.00695-0.018-0.000767-0.0137c0.00619 0.00433 0.000334-0.00524-0.000268 0.0157c-0.000648 0.0225 0.00315 0.0366 0.0117 0.0509c0.0103 0.0173 0.0225 0.027 0.0225 0.027" />
+		<path id="ropestart" pos="0.0371153,0.155416" parent="mainrect" src="ropestart" stroke="140,178,218" strokewidth="3" zpos="0.002" d="M0.1006 0.1238L0.01198 0.1234c0.00285 0.00835 0.0105 0.0113 0.00972 0.0252c-0.000755 0.0139-0.00682 0.0242-0.0127 0.0234c-0.0134-0.00169-0.0104-0.0207-0.0068-0.0294c0.00358-0.00869 0.0143-0.013 0.0123-0.0193c-0.00213-0.00647-0.00341-0.00461-0.00557-0.00116c-0.00216 0.00346-0.00217-0.00155 0.00111 0.00428c0.00327 0.00583 0.00466 0.0117 0.00194 0.0205c-0.00335 0.0108-0.0208 0.0359-0.0384 0.0471" />
+		<rectangle id="_box1" pos="0.101964,0.120621" parent="mainrect" src="_box1" fill="229,253,255" stroke="174,209,215" strokewidth="1" zpos="1" x="0.0453172" y="0.0341371" width="0.113293" height="0.172967" cornerradius="0.0020445" />
+		<rectangle id="_box2" pos="0.905589,0.361194" parent="mainrect" src="_box2" fill="229,253,255" stroke="174,209,215" strokewidth="1" zpos="1.001" x="0.848943" y="0.274711" width="0.113293" height="0.172967" cornerradius="0.0020445" />
+		<vector id="back_dots_large" pos="0.8475,0.838338" src="alphabet_back_dots_large" zpos="1.003" />
+		<vector id="back_dots_small" pos="0.918987,0.642334" src="alphabet_back_dots_small" zpos="1.004" />
+		<vector id="back_grid" pos="0.824551,0.641998" src="alphabet_back_grid" zpos="1.005" />
+		<vector id="back_stripes_left" pos="0.734814,0.647497" src="alphabet_back_stripes_left" zpos="1.006" />
+		<vector id="back_stripes_right" pos="0.750668,0.832545" src="alphabet_back_stripes_right" zpos="1.007" />
+		<rectangle id="cornerrect" pos="0.992963,0.133539" parent="mainrect" src="cornerrect" stroke="255,38,0" strokewidth="1" zpos="1.002" hidden="true" widthtracksheight="true" x="0.983522" y="0.122643" width="0.0188822" height="0.0217911" pxwidth="12.5" pxheight="12.5" />
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="2" />
+	</event>
+</events>

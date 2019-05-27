@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" >
+		<vector id="presenter" pos="0.5,0.765279" src="anna" zpos="0.001" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.929036" src="recording_button" scalex="0.632741" scaley="0.632741" zpos="0.003" hidden="true" />
+		<rectangle id="textbox" pos="0.5,0.732091" src="textbox" fill="0,234,254" zpos="0" hidden="true" x="0.0312691" y="0.632151" width="0.937462" height="0.19988" />
+		<group id="window"  pos="0.5,0.48763" src="window" zpos="0.002" hidden="true">
+			<rectangle id="frame" pos="0.500217,0.364695" src="frame" stroke="0,114,193" strokewidth="4" zpos="0.001" widthtracksheight="true" x="0.319553" y="0.124461" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+			<group id="group"  pos="0.499783,0.48763" src="group" hasmask="true" zpos="0">
+				<vector id="avatar" pos="0.502224,0.499202" src="presenter_tilly" scalex="1.15" scaley="1.154" zpos="0.001" />
+				<linearGradient id="Gradient12" x1="0.5" y1="1" x2="0.5" y2="0" >
+					<stop offset="0%" stop-color="rgb(94.8%,99.7%,100%)" stop-opacity="1"/>
+					<stop offset="100%" stop-color="rgb(76.1%,91.4%,100%)" stop-opacity="1"/>
+				</linearGradient>
+				<rectangle id="bg" pos="0.499783,0.363932" src="bg" fill="url(#Gradient12)"  zpos="0" widthtracksheight="true" x="0.319118" y="0.123698" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+				<rectangle id="mask" pos="0.499783,0.363932" src="mask" fill="255,255,255" zpos="0.002" widthtracksheight="true" x="0.319118" y="0.123698" width="0.361328" height="0.480469" pxwidth="370" pxheight="369" />
+			</group>
+		</group>
+	</event>
+</events>

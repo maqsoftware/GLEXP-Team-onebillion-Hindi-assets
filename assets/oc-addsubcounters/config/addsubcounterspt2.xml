@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="60" >
+		<rectangle id="boxl1" pos="0.294796,0.16595" src="boxl1" fill="0,0,255" fillopacity="0.364137" zpos="0" hidden="true" x="0.16227" y="0.117259" width="0.265053" height="0.0973816" />
+		<rectangle id="boxl2" pos="0.294796,0.305669" src="boxl2" fill="0,0,255" fillopacity="0.364137" zpos="0.002" hidden="true" x="0.16227" y="0.256978" width="0.265053" height="0.0973816" />
+		<rectangle id="boxr1" pos="0.720097,0.16595" src="boxr1" fill="0,0,255" fillopacity="0.364137" zpos="0.001" hidden="true" x="0.58757" y="0.117259" width="0.265053" height="0.0973816" />
+		<circle id="button" pos="0.500927,0.891103" src="button" fill="252,40,27" stroke="223,37,43" strokewidth="1" shadowcolour="0,0,0" shadowopacity="0.353844" shadowradius="3" shadowxoffset="0" shadowyoffset="2" zpos="0.003" x="0.466747" y="0.84553" width="0.0683594" height="0.0911458" />
+		<rectangle id="swatch" pos="0.168682,0.898926" src="swatch" fill="255,155,21" stroke="223,37,43" strokewidth="1" shadowcolour="0,0,0" shadowopacity="0.353844" shadowradius="3" shadowxoffset="0" shadowyoffset="2" zpos="0.004" hidden="true" x="0.135609" y="0.85527" width="0.0661469" height="0.0873108" />
+	</event>
+	<event id="anna" >
+		<vector id="anna" anchor="0.5,1" pos="0.484577,1.04167" src="anna" zpos="0" />
+	</event>
+</events>

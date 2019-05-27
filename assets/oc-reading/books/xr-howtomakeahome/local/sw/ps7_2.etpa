@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="Na kila akiuliza hivyo, Ali alijibu, “Haishi mtu yeyote.”" frames="532345">
+		<timing id="0" start="0.000" end="0.485" startframe="0" framelength="21401" text="Na"/>
+		<timing id="1" start="1.014" end="1.800" startframe="44723" framelength="34637" text="kila"/>
+		<timing id="2" start="2.260" end="3.353" startframe="99679" framelength="48173" text="akiuliza"/>
+		<timing id="3" start="3.719" end="4.345" startframe="163998" framelength="27617" text="hivyo"/>
+		<timing id="4" start="5.075" end="5.993" startframe="223792" framelength="40489" text="Ali"/>
+		<timing id="5" start="6.278" end="7.195" startframe="276848" framelength="40430" text="alijibu"/>
+		<timing id="6" start="7.760" end="8.637" startframe="342212" framelength="38690" text="Haishi"/>
+		<timing id="7" start="9.641" end="10.460" startframe="425160" framelength="36136" text="mtu"/>
+		<timing id="8" start="10.935" end="11.940" startframe="482232" framelength="44327" text="yeyote"/>
+	</timings>
+</xml>

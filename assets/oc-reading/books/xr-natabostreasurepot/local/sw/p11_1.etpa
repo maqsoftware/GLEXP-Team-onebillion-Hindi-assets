@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Njiani, Nura alilalamika “Natamani ningekuwa na dada badala ya kaka,” Nura alisema." frames="356532">
+		<timing id="0" start="0.000" end="0.870" startframe="0" framelength="38384" text="Njiani"/>
+		<timing id="1" start="1.109" end="1.706" startframe="48893" framelength="26339" text="Nura"/>
+		<timing id="2" start="1.706" end="2.845" startframe="75232" framelength="50224" text="alilalamika"/>
+		<timing id="3" start="3.240" end="3.893" startframe="142869" framelength="28810" text="Natamani"/>
+		<timing id="4" start="3.893" end="4.443" startframe="171679" framelength="24270" text="ningekuwa"/>
+		<timing id="5" start="4.443" end="4.625" startframe="195949" framelength="8003" text="na"/>
+		<timing id="6" start="4.625" end="5.266" startframe="203952" framelength="28284" text="dada"/>
+		<timing id="7" start="5.536" end="5.968" startframe="244141" framelength="19043" text="badala"/>
+		<timing id="8" start="5.968" end="6.144" startframe="263184" framelength="7748" text="ya"/>
+		<timing id="9" start="6.144" end="6.717" startframe="270932" framelength="25305" text="kaka"/>
+		<timing id="10" start="7.071" end="7.455" startframe="311810" framelength="16971" text="Nura"/>
+		<timing id="11" start="7.455" end="8.085" startframe="328781" framelength="27751" text="alisema"/>
+	</timings>
+</xml>

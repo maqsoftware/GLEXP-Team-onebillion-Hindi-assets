@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Pia korofi" frames="54811">
+		<timing id="0" start="0.000" end="0.496" startframe="0" framelength="21877" text="Pia"/>
+		<timing id="1" start="0.617" end="1.243" startframe="27212" framelength="27599" text="korofi"/>
+	</timings>
+</xml>

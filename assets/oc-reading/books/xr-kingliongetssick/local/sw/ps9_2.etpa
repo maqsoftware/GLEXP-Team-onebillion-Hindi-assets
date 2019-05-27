@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps9_2.aif</url>
+	<relurl>ps9_2.aif</relurl>
+	<timings text="“Lazima uipate,” Simba alilazimisha. “Au nitakula wewe badala yake.”" frames="621674">
+		<timing id="0" start="0.000" end="0.915" startframe="0" framelength="40341" text="Lazima"/>
+		<timing id="1" start="1.723" end="2.713" startframe="75989" framelength="43644" text="uipate"/>
+		<timing id="2" start="3.491" end="4.286" startframe="153938" framelength="35066" text="Simba"/>
+		<timing id="3" start="5.004" end="6.257" startframe="220673" framelength="55240" text="alilazimisha"/>
+		<timing id="4" start="7.431" end="8.124" startframe="327727" framelength="30528" text="Au"/>
+		<timing id="5" start="8.903" end="9.915" startframe="392619" framelength="44644" text="nitakula"/>
+		<timing id="6" start="10.405" end="10.983" startframe="458877" framelength="25478" text="wewe"/>
+		<timing id="7" start="11.866" end="12.772" startframe="523306" framelength="39931" text="badala"/>
+		<timing id="8" start="13.516" end="14.097" startframe="596066" framelength="25608" text="yake"/>
+	</timings>
+</xml>

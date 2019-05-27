@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180504.120807143">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_nowyoullsaysomenumbersoutloud</phrase>
+			<phrase>nrec_andcheckifyousaidthemright</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>nrec_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_nowyoullsaysomenumbersoutloud</phrase>
+			<phrase>nrec_andcheckifyousaidthemright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_firstwatchme</phrase>
+			<phrase>nrec_itouchthebutton</phrase>
+			<phrase>nrec_itouchitagain</phrase>
+			<phrase>nrec_nowyourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_touchthebutton</phrase>
+			<phrase>nrec_saythenumberloudly</phrase>
+			<phrase>nrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nrec_touchthebutton</phrase>
+			<phrase>nrec_saythenumberloudly</phrase>
+			<phrase>nrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nrec_icanthearyou</phrase>
+			<phrase>nrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>nrec_icanthearyou</phrase>
+			<phrase>nrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>nrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>nrec_didyousayitright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>nrec_touchthearrowformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_getreadytosaythisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nrec_touchthebutton</phrase>
+			<phrase>nrec_saythenumberloudly</phrase>
+			<phrase>nrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nrec_icanthearyou</phrase>
+			<phrase>nrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>nrec_icanthearyou</phrase>
+			<phrase>nrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>nrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>nrec_didyousayitright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>nrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nrec_touchthebutton</phrase>
+			<phrase>nrec_saythenumberloudly</phrase>
+			<phrase>nrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>nrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>nrec_touchthebutton</phrase>
+			<phrase>nrec_saythenumberloudly</phrase>
+			<phrase>nrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>nrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>nrec_goodyousaidnumbersoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="numberon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180606.164649550">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_nowyoulluseanumberlineforsubtraction</phrase>
+			<phrase>spnl_itsfun</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>spnl_getready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_nowyoulluseanumberlineforsubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_look</phrase>
+			<phrase>spnl_whatstheanswer</phrase>
+			<phrase>spnl_heresthenumberline</phrase>
+			<phrase>spnl_forsubtractionwestartatthisend</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>spnl_watchme</phrase>
+			<phrase>spnl_itouchthefirstnumber</phrase>
+			<phrase>spnl_nowitsonthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>spnl_itouchthesecondnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>spnl_lookatthesemarks</phrase>
+			<phrase>spnl_theymatchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>spnl_sowhatstheanswer</phrase>
+			<phrase>spnl_wecountbackfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>spnl_theanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO7">
+			<phrase>spnl_itsinplace</phrase>
+			<phrase>spnl_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1_1">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_whatstheanswer</phrase>
+			<phrase>spnl_heresthenumberline</phrase>
+			<phrase>spnl_forsubtractionwestartattheend</phrase>
+			<phrase>spnl_touchthefirstnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>spnl_nowitsonthenumberline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>spnl_touchthefirstnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1_2">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_touchthesecondnumbertoshowthemarks</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>spnl_touchthesecondnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1_3">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_whatstheanswer</phrase>
+			<phrase>spnl_countbackfromhere</phrase>
+			<phrase>spnl_thenchoosetheanswerfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>spnl_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>spnl_thisistheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>spnl_letscheck</phrase>
+			<phrase>spnl_wecountbackfromthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2_1">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_nowtrythisone</phrase>
+			<phrase>spnl_toucheachnumberwhenitgoesred</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2_2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2_3">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_nowcountbackalongthenumberline</phrase>
+			<phrase>spnl_andchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>spnl_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>spnl_thisistheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>spnl_letscheck</phrase>
+			<phrase>spnl_wecountbackfromthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3_1">
+		<phrasegroup id="PROMPT">
+			<phrase>spnl_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3_2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3_3">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_nowcountback</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>spnl_andchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>spnl_thisistheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>spnl_letscheck</phrase>
+			<phrase>spnl_wecountbackfromthisnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default_1">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default_2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default_3">
+		<phrasegroup id="PROMPT">
+			<phrase>spnl_findtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_countbackalongthenumberline</phrase>
+			<phrase>spnl_thenchoosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>spnl_thisistheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>spnl_letscheck</phrase>
+			<phrase>spnl_wecountbackfromthisnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last_1">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spnl_touchtherednumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>spnl_verygood</phrase>
+			<phrase>spnl_youusedanumberlinetodosubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="eqnon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="line">
+			<phrase>click_snap_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="red">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="start">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="unit">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="ten">
+			<phrase>click_snap_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="firstmark" vol="0.3">
+			<phrase>note_beepey_8</phrase>
+		</phrasegroup>
+		<phrasegroup id="thickmark" vol="0.3">
+			<phrase>note_beepey_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="othermark" vol="0.3">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="ans">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="final">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>thud_short_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

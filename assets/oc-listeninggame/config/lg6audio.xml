@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180522.071958200">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>lg6_letspracticeadding</phrase>
+			<phrase>lg6_youllchoosetheanswers</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUB.DEMO">
+			<phrase>lg6_letspracticesubtracting</phrase>
+			<phrase>lg6_youllchoosetheanswers</phrase>
+		</phrasegroup>
+		<phrasegroup id="MIX.DEMO">
+			<phrase>lg6_letsdoaddingandsubtracting</phrase>
+			<phrase>lg6_youllchoosetheanswers</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>lg6_itsfun</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>lg6_look</phrase>
+			<phrase>lg6_whatstheanswer</phrase>
+			<phrase>lg6_youllfindithere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>lg6_choosetheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER.REPEAT">
+			<phrase>lg6_choosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>lg6_choosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>lg6_choosetheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>lg6_verygoodyoupractisedadding</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUB.DEMO">
+			<phrase>lg6_greatyoupractisedsubtracting</phrase>
+		</phrasegroup>
+		<phrasegroup id="MIX.DEMO">
+			<phrase>lg6_welldoneyouaddedandsubtracted</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="shutter_open">
+			<phrase>cf_jawbone_shorter3</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutter_close">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="stars">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="eqnon">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="eqnoff" vol="0.5">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="answerin">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+	</event>
+</audio>

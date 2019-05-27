@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Presenter">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_nowforaquiz</phrase>
+			<phrase>Quiz_ithastenquestions</phrase>
+			<phrase>Quiz_ifyougetthemallrightyouwillwinacertificate</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>Quiz_nowforthetenquizquestionsseeifyoucangetthemallright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q1">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_puteightapplesonthetree</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_puteightapplesonthetree</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_putsevenspotsonthedog</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_putsevenspotsonthedog</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_puttenstarsontheflag</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_puttenstarsontheflag</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_howmanybirdsarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_howmanybirdsarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_howmanyapplesarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_howmanyapplesarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_howmanyspoonsarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_howmanyspoonsarethere</phrase>
+			<phrase>Quiz_dragthenumbertothebox</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_whichsetmatchesthenumber</phrase>
+			<phrase>Quiz_touchit</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_whichsetmatchesthenumber</phrase>
+			<phrase>Quiz_touchit</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_whichsetmatchesthenumber</phrase>
+			<phrase>Quiz_touchit</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_whichsetmatchesthenumber</phrase>
+			<phrase>Quiz_touchit</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_whichsetdoesnotmatchthenumber</phrase>
+			<phrase>Quiz_crossitout</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_whichsetdoesnotmatchthenumbercrossitout</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="NONE">
+			<phrase>Quiz_whichsetdoesnotmatchthenumbercrossitout</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>Quiz_whichsetdoesnotmatchthenumbercrossitout</phrase>
+			<phrase>Quiz_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

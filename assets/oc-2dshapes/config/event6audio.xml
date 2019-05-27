@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180409.092138224">
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_looksomesquares</phrase>
+			<phrase>6_letsmakeapatterninhere</phrase>
+			<phrase>6_lookhowtheyfittogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_slidethesquareintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_letsaddmoresquares</phrase>
+			<phrase>6_looknogaps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_continuethepattern</phrase>
+			<phrase>6_fillthewhitebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_continuethepattern</phrase>
+			<phrase>6_fillthewhitebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_good</phrase>
+			<phrase>6_seehowthesquaresfittogethernogaps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="DEMO">
+			<phrase>6_nexttriangles</phrase>
+			<phrase>6_watchme</phrase>
+			<phrase>6_lookthetwotrianglesmakeasquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlook</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_filltherestofthewhitebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_continuethepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_verygood</phrase>
+			<phrase>6_seehowthetrianglesfittogethernogaps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="DEMO">
+			<phrase>6_nextahexagon</phrase>
+			<phrase>6_andadifferentwhitebox</phrase>
+			<phrase>6_watchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_draghexagonstocompletetherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_draghexagonstocompletetherow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="DEMO">
+			<phrase>6_letschangecolourforthenextrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_finishtherow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6m">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowseeifyoucancompletethepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_continuethepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldone</phrase>
+			<phrase>6_andlooknogaps</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6n">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowforsomecircles</phrase>
+			<phrase>6_lookthepatternhasbeenstarted</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_dragcirclestocompletethepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragcirclestocompletethepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_looktherearegapseverywhere</phrase>
+			<phrase>6_thatsbecausecirclesarecurved</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale6n">
+		<phrasegroup id="DEMO">
+			<phrase>6_welldoneyoumadepatternsfromtwodshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6p">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookivemadeapatternforyou</phrase>
+			<phrase>6_atriangle</phrase>
+			<phrase>6_atriangle</phrase>
+			<phrase>6_asquare</phrase>
+			<phrase>6_theyallfittogether</phrase>
+			<phrase>6_watchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_nice</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_choosetherightcolour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_youveusedthatcolouralready</phrase>
+			<phrase>6_chooseadifferentoneforthisshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6r">
+		<phrasegroup id="DEMO">
+			<phrase>6_heresanotherpattern</phrase>
+			<phrase>6_atriangle</phrase>
+			<phrase>6_atriangle</phrase>
+			<phrase>6_asquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_colouritin</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_thatlooksgood</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_choosetherightcolour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6s">
+		<phrasegroup id="DEMO">
+			<phrase>6_andanotherone</phrase>
+			<phrase>6_ahexagon</phrase>
+			<phrase>6_atriangle</phrase>
+			<phrase>6_atriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_colouritin</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usethreecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_verygood_6s</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_choosetherightcolour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6t">
+		<phrasegroup id="DEMO">
+			<phrase>6_thelastpattern</phrase>
+			<phrase>6_acircle</phrase>
+			<phrase>6_anothercurvedshape</phrase>
+			<phrase>6_lotsofgaps</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usejusttwocolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_colourinallthewhiteshapes</phrase>
+			<phrase>6_usejusttwocolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_good_6t</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_choosetherightcolour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_usejusttwocolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_youcolouredinpatternswelldone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tile_settle">
+			<phrase>tile_settle</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_fill">
+			<phrase>water_droplet_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="shape_clunk">
+			<phrase>click_pop</phrase>
+		</phrasegroup>
+		<phrasegroup id="pot">
+			<phrase>liquid_blip_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

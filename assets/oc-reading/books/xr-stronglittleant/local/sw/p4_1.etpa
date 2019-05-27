@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Siafu akasombwa na maji. Akatapa tapa huku na huko, akijikwamua na kujiokoa. Safi sana siafu mdogo mwenye nguvu!" frames="462473">
+		<timing id="0" start="0.000" end="0.601" startframe="0" framelength="26483" text="Siafu"/>
+		<timing id="1" start="0.601" end="1.223" startframe="26483" framelength="27430" text="akasombwa"/>
+		<timing id="2" start="1.223" end="1.393" startframe="53913" framelength="7509" text="na"/>
+		<timing id="3" start="1.393" end="1.900" startframe="61422" framelength="22369" text="maji"/>
+		<timing id="4" start="2.416" end="3.080" startframe="106561" framelength="29248" text="Akatapa"/>
+		<timing id="5" start="3.080" end="3.481" startframe="135809" framelength="17712" text="tapa"/>
+		<timing id="6" start="3.481" end="3.781" startframe="153521" framelength="13211" text="huku"/>
+		<timing id="7" start="3.781" end="3.971" startframe="166732" framelength="8375" text="na"/>
+		<timing id="8" start="3.971" end="4.485" startframe="175107" framelength="22661" text="huko"/>
+		<timing id="9" start="4.710" end="5.756" startframe="207727" framelength="46091" text="akijikwamua"/>
+		<timing id="10" start="5.756" end="5.962" startframe="253818" framelength="9124" text="na"/>
+		<timing id="11" start="5.962" end="6.868" startframe="262942" framelength="39951" text="kujiokoa"/>
+		<timing id="12" start="7.315" end="7.784" startframe="322609" framelength="20669" text="Safi"/>
+		<timing id="13" start="7.784" end="8.455" startframe="343278" framelength="29608" text="sana"/>
+		<timing id="14" start="8.848" end="9.337" startframe="390207" framelength="21572" text="siafu"/>
+		<timing id="15" start="9.337" end="9.730" startframe="411779" framelength="17294" text="mdogo"/>
+		<timing id="16" start="9.730" end="10.003" startframe="429073" framelength="12079" text="mwenye"/>
+		<timing id="17" start="10.003" end="10.487" startframe="441152" framelength="21321" text="nguvu"/>
+	</timings>
+</xml>

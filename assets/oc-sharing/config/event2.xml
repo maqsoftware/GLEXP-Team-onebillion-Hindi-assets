@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="2a,2b,2c,2d,2e,2f,2g,2h,2i,2j,2k,2l,2m,2n" colour="252,255,233" >
+		<rectangle id="background_bottom" pos="0.500032,0.877106" src="background_bottom" fill="206,249,152" stroke="152,200,35" strokewidth="3" linecap="round" zpos="0.001" x="-0.103516" y="0.72817" width="1.2071" height="0.297872" />
+		<rectangle id="background_floor" pos="0.500032,0.627106" src="background_floor" fill="224,218,206" zpos="0" x="-0.103516" y="0.47817" width="1.2071" height="0.297872" />
+		<vector id="container_1" pos="0.252483,0.414062" src="2_child_1" scalex="0.7" scaley="0.7" zpos="1" />
+		<vector id="container_2" pos="0.746582,0.408138" src="2_child_2" scalex="0.7" scaley="0.7" zpos="1.001" />
+		<rectangle id="number_1" pos="0.233377,0.869675" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="1.002" number="1" x="0.180664" y="0.769618" width="0.105427" height="0.200114" />
+		<rectangle id="number_2" pos="0.366514,0.869675" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="1.003" number="2" x="0.313801" y="0.769618" width="0.105427" height="0.200114" />
+		<rectangle id="number_3" pos="0.499651,0.869675" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="1.004" number="3" x="0.446938" y="0.769618" width="0.105427" height="0.200114" />
+		<rectangle id="number_4" pos="0.632788,0.869675" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="1.005" number="4" x="0.580074" y="0.769618" width="0.105427" height="0.200114" />
+		<rectangle id="number_5" pos="0.765924,0.869675" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="1.006" number="5" x="0.713211" y="0.769618" width="0.105427" height="0.200114" />
+	</event>
+	<event id="2a" redraw="false" placement="bottom" colour="252,255,233" >
+		<vector id="object_1" pos="0.412533,0.872793" src="2_clock" zpos="3" />
+		<vector id="object_2" pos="0.584213,0.872793" src="2_clock" zpos="3.001" />
+	</event>
+	<event id="2b" redraw="false" placement="bottom" >
+		<vector id="object_1" pos="0.413509,0.872793" src="2_toy_robot" scalex="0.25" scaley="0.25" zpos="3" />
+		<vector id="object_2" pos="0.58519,0.872793" src="2_toy_robot" scalex="0.25" scaley="0.25" zpos="3.001" />
+	</event>
+	<event id="2c" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.573471,0.806808" src="mango" scalex="0.18" scaley="0.18" zpos="3.003" />
+		<vector id="object_2" pos="0.427181,0.926178" src="mango" scalex="0.18" scaley="0.18" zpos="3" />
+		<vector id="object_3" pos="0.573471,0.926178" src="mango" scalex="0.18" scaley="0.18" zpos="3.001" />
+		<vector id="object_4" pos="0.427181,0.806808" src="mango" scalex="0.18" scaley="0.18" zpos="3.002" />
+	</event>
+	<event id="2d" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.573471,0.806808" src="cupcake" scalex="0.9" scaley="0.9" zpos="3.003" />
+		<vector id="object_2" pos="0.427181,0.926178" src="cupcake" scalex="0.9" scaley="0.9" zpos="3" />
+		<vector id="object_3" pos="0.573471,0.926178" src="cupcake" scalex="0.9" scaley="0.9" zpos="3.001" />
+		<vector id="object_4" pos="0.427181,0.806808" src="cupcake" scalex="0.9" scaley="0.9" zpos="3.002" />
+	</event>
+	<event id="2e" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.592026,0.798828" src="2_toy_car" scalex="0.125" scaley="0.125" zpos="3.003" />
+		<vector id="object_2" pos="0.40765,0.936595" src="2_toy_car" scalex="0.125" scaley="0.125" zpos="3" />
+		<vector id="object_3" pos="0.592026,0.936595" src="2_toy_car" scalex="0.125" scaley="0.125" zpos="3.001" />
+		<vector id="object_4" pos="0.40765,0.798828" src="2_toy_car" scalex="0.125" scaley="0.125" zpos="3.002" />
+	</event>
+	<event id="2f" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.500326,0.936595" src="orange" zpos="3.004" />
+		<vector id="object_2" pos="0.387142,0.936595" src="orange" zpos="3" />
+		<vector id="object_3" pos="0.500326,0.798828" src="orange" zpos="3.005" />
+		<vector id="object_4" pos="0.387142,0.798828" src="orange" zpos="3.002" />
+		<vector id="object_5" pos="0.61351,0.936595" src="orange" zpos="3.001" />
+		<vector id="object_6" pos="0.61351,0.798828" src="orange" zpos="3.003" />
+	</event>
+	<event id="2g" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.500326,0.936595" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3.004" />
+		<vector id="object_2" pos="0.387142,0.936595" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3" />
+		<vector id="object_3" pos="0.500326,0.798828" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3.005" />
+		<vector id="object_4" pos="0.387142,0.798828" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3.002" />
+		<vector id="object_5" pos="0.61351,0.936595" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3.001" />
+		<vector id="object_6" pos="0.61351,0.798828" src="2_biscuit" scalex="0.9" scaley="0.9" zpos="3.003" />
+	</event>
+	<event id="2h" redraw="false" placement="bottom" >
+		<vector id="object_1" pos="0.724277,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3.004" />
+		<vector id="object_2" pos="0.575069,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3" />
+		<vector id="object_3" pos="0.276653,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3.005" />
+		<vector id="object_4" pos="0.127445,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3.002" />
+		<vector id="object_5" pos="0.873486,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3.001" />
+		<vector id="object_6" pos="0.425861,0.813614" src="2_balloon" scalex="0.6" scaley="0.6" zpos="3.003" />
+	</event>
+	<event id="2i" redraw="false" placement="bottom" >
+		<vector id="object_1" pos="0.57478,0.922602" src="banana" scalex="0.35" scaley="0.35" zpos="3.007" />
+		<vector id="object_2" pos="0.57478,0.803981" src="banana" scalex="0.35" scaley="0.35" zpos="3.003" />
+		<vector id="object_3" pos="0.276363,0.922602" src="banana" scalex="0.35" scaley="0.35" zpos="3.004" />
+		<vector id="object_4" pos="0.723988,0.922602" src="banana" scalex="0.35" scaley="0.35" zpos="3.006" />
+		<vector id="object_5" pos="0.276363,0.803981" src="banana" scalex="0.35" scaley="0.35" zpos="3.002" />
+		<vector id="object_6" pos="0.425571,0.922602" src="banana" scalex="0.35" scaley="0.35" zpos="3.001" />
+		<vector id="object_7" pos="0.425571,0.803981" src="banana" scalex="0.35" scaley="0.35" zpos="3.005" />
+		<vector id="object_8" pos="0.723988,0.803981" src="banana" scalex="0.35" scaley="0.35" zpos="3" />
+	</event>
+	<event id="2j" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.577384,0.922602" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.007" />
+		<vector id="object_2" pos="0.577384,0.803981" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.003" />
+		<vector id="object_3" pos="0.268551,0.922602" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.004" />
+		<vector id="object_4" pos="0.7318,0.922602" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.006" />
+		<vector id="object_5" pos="0.268551,0.803981" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.002" />
+		<vector id="object_6" pos="0.422967,0.922602" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.001" />
+		<vector id="object_7" pos="0.422967,0.803981" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3.005" />
+		<vector id="object_8" pos="0.7318,0.803981" src="pencil" scalex="0.6" scaley="0.6" rotation="210" zpos="3" />
+	</event>
+	<event id="2k" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.582458,0.923045" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.006" />
+		<vector id="object_2" pos="0.418571,0.80662" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.001" />
+		<vector id="object_3" pos="0.418571,0.923045" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.005" />
+		<vector id="object_4" pos="0.254684,0.923045" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.004" />
+		<vector id="object_5" pos="0.746346,0.80662" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.003" />
+		<vector id="object_6" pos="0.254684,0.80662" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3" />
+		<vector id="object_7" pos="0.746346,0.923045" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.007" />
+		<vector id="object_8" pos="0.582458,0.80662" src="2_notebook" scalex="1.1" scaley="1.1" zpos="3.002" />
+	</event>
+	<event id="2l" redraw="false" placement="bottom" >
+		<vector id="object_1" pos="0.66363,0.923045" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.007" />
+		<vector id="object_2" pos="0.336312,0.80662" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.001" />
+		<vector id="object_3" pos="0.82729,0.80662" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.008" />
+		<vector id="object_4" pos="0.499971,0.80662" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.002" />
+		<vector id="object_5" pos="0.499971,0.923045" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.006" />
+		<vector id="object_6" pos="0.172653,0.923045" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.004" />
+		<vector id="object_7" pos="0.82729,0.923045" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.009" />
+		<vector id="object_8" pos="0.172653,0.80662" src="2_egg" scalex="0.6" scaley="0.6" zpos="3" />
+		<vector id="object_9" pos="0.336312,0.923045" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.005" />
+		<vector id="object_10" pos="0.66363,0.80662" src="2_egg" scalex="0.6" scaley="0.6" zpos="3.003" />
+	</event>
+	<event id="2m" redraw="false" placement="center" >
+		<vector id="object_1" pos="0.72309,0.864833" src="2_present" scalex="1.5" scaley="1.5" zpos="3.008" />
+		<vector id="object_2" pos="0.131229,0.80662" src="2_present" scalex="1.5" scaley="1.5" zpos="3" />
+		<vector id="object_3" pos="0.575125,0.80662" src="2_present" scalex="1.5" scaley="1.5" zpos="3.002" />
+		<vector id="object_4" pos="0.575125,0.923045" src="2_present" scalex="1.5" scaley="1.5" zpos="3.005" />
+		<vector id="object_5" pos="0.131229,0.923045" src="2_present" scalex="1.5" scaley="1.5" zpos="3.003" />
+		<vector id="object_6" pos="0.42716,0.923045" src="2_present" scalex="1.5" scaley="1.5" zpos="3.004" />
+		<vector id="object_7" pos="0.279195,0.864833" src="2_present" scalex="1.5" scaley="1.5" zpos="3.009" />
+		<vector id="object_8" pos="0.42716,0.80662" src="2_present" scalex="1.5" scaley="1.5" zpos="3.001" />
+		<vector id="object_9" pos="0.871056,0.80662" src="2_present" scalex="1.5" scaley="1.5" zpos="3.006" />
+		<vector id="object_10" pos="0.871056,0.923045" src="2_present" scalex="1.5" scaley="1.5" zpos="3.007" />
+	</event>
+	<event id="2n" redraw="false" placement="bottom" >
+		<vector id="object_1" pos="0.350006,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.004" />
+		<vector id="object_2" pos="0.249695,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.009" />
+		<vector id="object_3" pos="0.0490723,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3" />
+		<vector id="object_4" pos="0.65094,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.005" />
+		<vector id="object_5" pos="0.450317,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.001" />
+		<vector id="object_6" pos="0.751251,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.008" />
+		<vector id="object_7" pos="0.149384,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.003" />
+		<vector id="object_8" pos="0.851562,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.006" />
+		<vector id="object_9" pos="0.550629,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.002" />
+		<vector id="object_10" pos="0.951874,0.870265" src="2_flower_pot" scalex="0.6" scaley="0.6" zpos="3.007" />
+	</event>
+</events>

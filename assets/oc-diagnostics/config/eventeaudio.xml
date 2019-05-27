@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>E_touchthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>E_egala</phrase>
+		</phrasegroup>
+	</event>
+</audio>

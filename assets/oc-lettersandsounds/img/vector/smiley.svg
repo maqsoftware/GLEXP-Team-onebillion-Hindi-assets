@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108px" height="132.5px" viewBox="0 0 108 132.5" enable-background="new 0 0 108 132.5" xml:space="preserve">
+<g id="matched" display="none">
+
+		<circle id="frame" display="inline" fill="#8DFF7D" stroke="#7CC977" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.12" r="47.08"/>
+	<circle id="talking" fill="none" stroke="#EC1C24" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.121" r="47.08"/>
+	<g id="hair" display="inline">
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M40.218,34.958c0,0,7.406-4.575,25.584-0.845"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M39.707,35.227
+			c0,0-6.217-22.05,19.322-28.179"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M48.291,32.227
+			c0,0-1.667-15.418,20.684-20.068"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M67.291,34.566
+			c0,0,11.193-4.823,17.982-4.112"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M58.088,32.227
+			c0,0,5.758-11.09,20.396-11.09"/>
+	</g>
+</g>
+<g id="correct" display="none">
+
+		<circle id="frame" display="inline" fill="#EABDFF" stroke="#D89CFF" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.12" r="47.08"/>
+
+		<circle id="talking" display="inline" fill="none" stroke="#EC1C24" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.121" r="47.08"/>
+	<g id="hair_1_" display="inline">
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M40.218,34.958c0,0,7.406-4.575,25.584-0.845"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M39.707,35.227
+			c0,0-6.217-22.05,19.322-28.179"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M48.291,32.227
+			c0,0-1.667-15.418,20.684-20.068"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M67.291,34.566
+			c0,0,11.193-4.823,17.982-4.112"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M58.088,32.227
+			c0,0,5.758-11.09,20.396-11.09"/>
+	</g>
+</g>
+<g id="normal">
+
+		<circle id="frame" fill="#FFDD15" stroke="#FFC200" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.121" r="47.08"/>
+
+		<circle id="talking" display="none" fill="none" stroke="#EC1C24" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.121" r="47.08"/>
+	<g id="hair">
+		<g>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M39.405,35.487
+				c0,0,2.767,6.838,8.935,11.764s15.737,7.94,25.344,4.294"/>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M47.989,33.487
+				c0,0,3.925,9.6,16.627,13.632c5.202,1.651,11.876,3.201,20.356,1.471"/>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M66.988,33.826
+				c4.535,1.005,5.949,2.284,9.365,3.6c8.619,3.32,2.049,3.991,13.461,1.494"/>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M57.785,33.487
+				c0,0,2.285,5.839,13.775,8.764c5.348,1.362,9.256,2.875,18.021,1.457"/>
+		</g>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M40.583,35.218c0,0,10.364-5.576,25.584-1.845"/>
+	</g>
+</g>
+<g id="paired" display="none">
+
+		<circle display="inline" fill="#A9F3FF" stroke="#77DBE5" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.12" r="47.08"/>
+
+		<circle id="talking" display="inline" fill="none" stroke="#EC1C24" stroke-width="4" stroke-miterlimit="10" cx="54.304" cy="80.121" r="47.08"/>
+	<g display="inline">
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M40.012,35.131c0,0,7.406-4.575,25.583-0.845"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M38.039,33.739
+			c0,0-13.188-7.373-26.376,3.301"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M46.771,32.4
+			c0,0-1.667-15.418,20.684-20.068"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M66.771,33.739
+			c0,0,8.511-4.136,18.558-1.358"/>
+		<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d="M56.566,32.4
+			c0,0,5.759-11.09,20.396-11.09"/>
+	</g>
+</g>
+<g id="eyes">
+	<circle cx="40.314" cy="68.547" r="3.855"/>
+	<circle cx="69.912" cy="68.547" r="3.855"/>
+</g>
+<g id="mouth">
+	<g>
+		<path id="mouth_a" d="M55.382,99.1c-6.014,0-15.801,0.174-15.801,5.17c0,5,9.503,9.049,15.519,9.049
+			c6.019,0,15.521-4.049,15.521-9.049C70.618,99.271,61.398,99.1,55.382,99.1z"/>
+		<path id="mouth_e" d="M54.716,102.775c-9.657,0-17.484,1.011-17.484,3.141c0,2.131,7.829,7.443,17.484,7.443
+			c9.656,0,17.484-5.312,17.484-7.443C72.2,103.786,64.372,102.775,54.716,102.775z"/>
+		<path id="mouth_i" d="M55.613,104.521c-7.489,0-15.028-0.479-15.028,1.785c0,2.266,6.702,2.639,14.192,2.639
+			s14.804-0.373,14.804-2.639C69.579,104.041,63.105,104.521,55.613,104.521z"/>
+		<circle id="mouth_o" cx="54.757" cy="105.842" r="7.71"/>
+		<path id="mouth_u" d="M54.727,106.553c-3.17,0-6.342,0.627-6.342,3.092c0,2.463,3.168,3.543,6.342,3.543
+			c3.174,0,6.342-1.084,6.342-3.543C61.066,107.18,57.898,106.553,54.727,106.553z"/>
+		<path id="mouth_a_end" d="M55.337,101.294c-5.004,0-13.146,0.146-13.146,4.301c0,4.156,7.905,7.526,12.909,7.526
+			c5.006,0,12.909-3.37,12.909-7.526C68.007,101.438,60.339,101.294,55.337,101.294z"/>
+		<path id="mouth_e_end" d="M54.716,103.734c-7.911,0-14.326,0.826-14.326,2.57c0,1.741,6.413,6.098,14.326,6.098
+			c7.912,0,14.326-4.354,14.326-6.098C69.042,104.561,62.628,103.734,54.716,103.734z"/>
+		<path id="mouth_i_end" d="M55.499,104.99c-5.887,0-11.811-0.379-11.811,1.404c0,1.773,5.267,2.065,11.156,2.065
+			c5.887,0,11.633-0.291,11.633-2.065C66.475,104.611,61.389,104.99,55.499,104.99z"/>
+		<circle id="mouth_o_end" cx="54.757" cy="106.523" r="5.797"/>
+		<path id="mouth_u_end" d="M54.727,107.42c-2.346,0-4.685,0.463-4.685,2.282c0,1.817,2.339,2.618,4.685,2.618
+			c2.347,0,4.687-0.801,4.687-2.618C59.411,107.883,57.07,107.42,54.727,107.42z"/>
+	</g>
+	<g>
+		<path id="mouth_6" d="M76.232,94.786L76.232,94.786c0.074-0.496-0.207-1.013-0.623-1.147c-0.418-0.14-0.815,0.148-0.894,0.646
+			c-7.641,24.611-33.043,17.232-39.051,5.902c-0.249-0.443-0.728-0.593-1.07-0.33c-0.343,0.261-0.416,0.826-0.167,1.272
+			c5.955,10.541,16.759,13.334,23.821,12.177c12.065-2.011,17.127-12.229,17.974-18.498L76.232,94.786z"/>
+		<path id="mouth_5" d="M70.102,102.68c0.701-1.188,1.144-2.486,1.144-2.486c0.096-2.365-1.418-1.301-3.181-0.166
+			c-2.58,1.664-4.371,2.777-12.469,3.553c-6.391,0.605-10.968-0.114-13.572-0.602c-1.2-0.229-3.385-1.438-4.277-0.613
+			c-0.767,0.703,0.806,2.722,1.901,3.66c3.945,3.387,9.548,6.115,17.674,4.899c8.205-1.226,12.074-7.062,12.783-8.284L70.102,102.68
+			z"/>
+		<path id="mouth_4" d="M62.796,103.227c-1.508-1.461-2.021-1.562-4.44-2.519c-1.004-0.396-4.29-1.063-6.731-0.812
+			c-3.172,0.321-4.395,0.978-5.279,1.742c-0.425,0.368-1.333,1.898-0.978,3.163c1.017,3.593,3.945,6.123,8.128,6.396
+			c4.741,0.304,8.521-2.66,9.549-4.562c0.258-0.5,1.021-2.188-0.233-3.405h-0.013L62.796,103.227L62.796,103.227z"/>
+		<path id="mouth_3" d="M64.029,107.169c2.146-4.022,0.611-6.627-2.036-8.442c-1.979-1.349-4.244-2.229-10.652-1.313
+			c-4.805,0.687-9.39,4.458-6.882,9.942c1.933,4.242,6.188,5.313,10.811,4.711c6.26-0.818,8.051-3.566,8.763-4.898L64.029,107.169
+			L64.029,107.169z"/>
+		<path id="mouth_2" d="M68.811,104.938c1.356-1.547,1.235-1.625,1.974-2.918c0.768-1.326-0.566-2.543-1.8-1.207
+			c-1.948,2.1-6.519,5.179-13.729,5.344c-4.259,0.099-6.776-0.246-9.783-1.153c-1.373-0.41-3.448-1.442-4.356-1.938
+			c-1.002-0.556-2.256-2.146-3.156-1.463c-0.772,0.592,1.255,3.213,2.193,4.176c3.378,3.479,8.522,5.772,15.625,5.404
+			c7.361-0.386,11.836-4.826,13.021-6.24L68.811,104.938L68.811,104.938z"/>
+		<path id="mouth_1" d="M65.669,101.854c-2.549-1.217-3.301-1.237-6.969-1.823c-1.517-0.24-6.292-0.401-9.626,0.222
+			c-4.309,0.809-5.808,1.648-6.794,2.541c-0.477,0.436-1.263,2.092-0.376,3.282c2.525,3.407,7.393,5.474,13.334,5.099
+			c6.691-0.426,11.048-3.938,11.837-5.979c0.204-0.53,0.754-2.326-1.382-3.346L65.669,101.854z"/>
+
+			<path id="mouth_0" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M37.408,106.611c4.785,3.715,10.781,5.938,17.31,5.938c6.527,0,12.523-2.229,17.31-5.938"/>
+
+			<path id="mouth_7" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M81.843,91.864c-3.271,11.926-14.188,20.688-27.153,20.688c-12.891,0-23.755-8.659-27.1-20.479"/>
+	</g>
+</g>
+</svg>

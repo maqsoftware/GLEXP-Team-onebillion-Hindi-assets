@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour_text_lowlight="209,209,209" >
+		<rectangle id="eq_box" pos="0.5,0.438881" src="eq_box" fill="255,255,255" zpos="0.002" hidden="true" widthtracksheight="true" x="0.191284" y="0.35172" width="0.617432" height="0.174321" pxwidth="632.251" pxheight="133.879" />
+		<rectangle id="box" pos="0.820563,0.514749" parent="eq_box" src="box" fill="255,255,255" stroke="255,194,33" strokewidth="2.5" zpos="0.003" hidden="true" x="0.697728" y="0.106031" width="0.245671" height="0.817436" />
+		<vector id="presenter" pos="0.5,0.765279" src="anna" zpos="0" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.929036" src="recording_button" scalex="0.632741" scaley="0.632741" zpos="0.001" hidden="true" />
+	</event>
+</events>

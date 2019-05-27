@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="Bibi akacheza cheza usiku na mchana. Na hata wakati mwezi ulikuwepo angani!" frames="903160">
+		<timing id="0" start="0.000" end="0.808" startframe="0" framelength="35638" text="Bibi"/>
+		<timing id="1" start="2.442" end="3.634" startframe="107702" framelength="52556" text="akacheza"/>
+		<timing id="2" start="4.793" end="5.680" startframe="211383" framelength="39087" text="cheza"/>
+		<timing id="3" start="6.663" end="7.744" startframe="293817" framelength="47699" text="usiku"/>
+		<timing id="4" start="8.365" end="9.041" startframe="368908" framelength="29786" text="na"/>
+		<timing id="5" start="9.854" end="10.703" startframe="434559" framelength="37427" text="mchana"/>
+		<timing id="6" start="11.396" end="12.092" startframe="502566" framelength="30699" text="Na"/>
+		<timing id="7" start="13.172" end="14.043" startframe="580886" framelength="38402" text="hata"/>
+		<timing id="8" start="14.622" end="15.720" startframe="644828" framelength="48442" text="wakati"/>
+		<timing id="9" start="16.426" end="17.350" startframe="724387" framelength="40753" text="mwezi"/>
+		<timing id="10" start="17.989" end="19.073" startframe="793300" framelength="47819" text="ulikuwepo"/>
+		<timing id="11" start="19.357" end="20.079" startframe="853639" framelength="31856" text="angani"/>
+	</timings>
+</xml>

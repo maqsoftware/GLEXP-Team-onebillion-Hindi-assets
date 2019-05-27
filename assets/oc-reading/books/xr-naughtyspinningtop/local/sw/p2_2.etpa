@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p2_2.aif</url>
+	<relurl>p2_2.aif</relurl>
+	<timings text="Haraka kama umwesa, anavuta uzi." frames="134795">
+		<timing id="0" start="0.000" end="0.411" startframe="0" framelength="18138" text="Haraka"/>
+		<timing id="1" start="0.411" end="0.683" startframe="18138" framelength="11983" text="kama"/>
+		<timing id="2" start="0.683" end="1.449" startframe="30121" framelength="33801" text="umwesa"/>
+		<timing id="3" start="1.960" end="2.599" startframe="86446" framelength="28172" text="anavuta"/>
+		<timing id="4" start="2.599" end="3.057" startframe="114618" framelength="20177" text="uzi"/>
+	</timings>
+</xml>

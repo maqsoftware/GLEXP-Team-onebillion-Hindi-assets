@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="Siku moja, mama yangu alisema alikuwa na kitu cha kunishangaza. “Kesho tutakwenda mjini,” alisema. “Kwenye soko kubwa.”" frames="387263">
+		<timing id="0" start="0.000" end="0.244" startframe="0" framelength="10764" text="Siku"/>
+		<timing id="1" start="0.244" end="0.906" startframe="10764" framelength="29201" text="moja"/>
+		<timing id="2" start="1.142" end="1.430" startframe="50346" framelength="12726" text="mama"/>
+		<timing id="3" start="1.430" end="1.760" startframe="63072" framelength="14557" text="yangu"/>
+		<timing id="4" start="1.760" end="2.566" startframe="77629" framelength="35543" text="alisema"/>
+		<timing id="5" start="2.727" end="3.212" startframe="120243" framelength="21420" text="alikuwa"/>
+		<timing id="6" start="3.212" end="3.370" startframe="141663" framelength="6933" text="na"/>
+		<timing id="7" start="3.370" end="3.606" startframe="148596" framelength="10408" text="kitu"/>
+		<timing id="8" start="3.606" end="3.800" startframe="159004" framelength="8576" text="cha"/>
+		<timing id="9" start="3.800" end="4.713" startframe="167580" framelength="40275" text="kunishangaza"/>
+		<timing id="10" start="4.988" end="5.471" startframe="219950" framelength="21311" text="Kesho"/>
+		<timing id="11" start="5.471" end="6.119" startframe="241261" framelength="28571" text="tutakwenda"/>
+		<timing id="12" start="6.119" end="6.398" startframe="269832" framelength="12321" text="mjini"/>
+		<timing id="13" start="6.398" end="7.131" startframe="282153" framelength="32321" text="alisema"/>
+		<timing id="14" start="7.679" end="7.988" startframe="338628" framelength="13632" text="Kwenye"/>
+		<timing id="15" start="7.988" end="8.371" startframe="352260" framelength="16889" text="soko"/>
+		<timing id="16" start="8.371" end="8.781" startframe="369149" framelength="18114" text="kubwa"/>
+	</timings>
+</xml>

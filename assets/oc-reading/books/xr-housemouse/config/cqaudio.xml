@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.101422548">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_findmouseinthepictureandtouchher</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_shewantstolookinsidethattallhouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchthepuppysnose</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thepuppyismuchbiggerthanmouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p6">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_poormousewherewillshetrynextletssee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_touchthefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thefishisintheglasstankmouseiswatchinghim</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain_p7</phrase>
+			<phrase>cq_touchthefish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whichwouldmouseliketofind</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_awarmdryplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_acolddampplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_miceliketobewarmanddry</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_thinkagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lookatthefireitkeepstheroomwarmnowmouseneedsaplacetoliedown</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p10">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_atlastmouseisfastasleepwithhappydreams</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

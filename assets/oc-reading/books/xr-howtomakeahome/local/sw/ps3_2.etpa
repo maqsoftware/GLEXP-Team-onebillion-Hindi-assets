@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps3_2.aif</url>
+	<relurl>ps3_2.aif</relurl>
+	<timings text="Ali alianza kwa kukata miti. Na kwa miti hiyo, atajenga vibanda vingi. Vibanda vitakavyokuwa madhubuti na salama." frames="906777">
+		<timing id="0" start="0.000" end="0.669" startframe="0" framelength="29487" text="Ali"/>
+		<timing id="1" start="1.049" end="2.107" startframe="46244" framelength="46684" text="alianza"/>
+		<timing id="2" start="2.471" end="3.109" startframe="108960" framelength="28168" text="kwa"/>
+		<timing id="3" start="3.414" end="4.302" startframe="150543" framelength="39172" text="kukata"/>
+		<timing id="4" start="4.596" end="5.309" startframe="202663" framelength="31447" text="miti"/>
+		<timing id="5" start="5.795" end="6.482" startframe="255572" framelength="30275" text="Na"/>
+		<timing id="6" start="6.948" end="7.596" startframe="306418" framelength="28562" text="kwa"/>
+		<timing id="7" start="7.953" end="8.768" startframe="350719" framelength="35970" text="miti"/>
+		<timing id="8" start="9.319" end="9.977" startframe="410974" framelength="29020" text="hiyo"/>
+		<timing id="9" start="10.465" end="11.491" startframe="461506" framelength="45252" text="atajenga"/>
+		<timing id="10" start="11.845" end="12.869" startframe="522370" framelength="45166" text="vibanda"/>
+		<timing id="11" start="13.208" end="13.964" startframe="582466" framelength="33366" text="vingi"/>
+		<timing id="12" start="14.476" end="15.432" startframe="638396" framelength="42155" text="Vibanda"/>
+		<timing id="13" start="15.903" end="17.313" startframe="701322" framelength="62198" text="vitakavyokuwa"/>
+		<timing id="14" start="17.623" end="18.818" startframe="777162" framelength="52694" text="madhubuti"/>
+		<timing id="15" start="19.147" end="19.599" startframe="844369" framelength="19957" text="na"/>
+		<timing id="16" start="19.828" end="20.562" startframe="874405" framelength="32372" text="salama"/>
+	</timings>
+</xml>

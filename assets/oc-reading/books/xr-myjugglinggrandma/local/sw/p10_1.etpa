@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/p10_1.aif</url>
+	<relurl>p10_1.aif</relurl>
+	<timings text="Bibi alicheza hata wakati babu akiwa amelala! Babu alilala vizuri sasa." frames="307606">
+		<timing id="0" start="0.000" end="0.489" startframe="0" framelength="21551" text="Bibi"/>
+		<timing id="1" start="0.489" end="1.129" startframe="21551" framelength="28224" text="alicheza"/>
+		<timing id="2" start="1.129" end="1.491" startframe="49775" framelength="15988" text="hata"/>
+		<timing id="3" start="1.491" end="1.942" startframe="65763" framelength="19876" text="wakati"/>
+		<timing id="4" start="1.942" end="2.570" startframe="85639" framelength="27677" text="babu"/>
+		<timing id="5" start="2.969" end="3.439" startframe="130943" framelength="20700" text="akiwa"/>
+		<timing id="6" start="3.439" end="4.065" startframe="151643" framelength="27613" text="amelala"/>
+		<timing id="7" start="4.453" end="5.149" startframe="196381" framelength="30693" text="Babu"/>
+		<timing id="8" start="5.364" end="5.870" startframe="236570" framelength="22308" text="alilala"/>
+		<timing id="9" start="5.870" end="6.440" startframe="258878" framelength="25139" text="vizuri"/>
+		<timing id="10" start="6.440" end="6.975" startframe="284017" framelength="23589" text="sasa"/>
+	</timings>
+</xml>

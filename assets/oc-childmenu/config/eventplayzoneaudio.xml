@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170515.145800552">
+	<event id="audio">
+		<phrasegroup id="DEMO">
+			<phrase>playzone_youhaveworkedveryhardtodaywelldone</phrase>
+			<phrase>playzone_letsdosomethingdifferent</phrase>
+		</phrasegroup>
+	</event>
+	<event id="unit">
+		<phrasegroup id="PROMPT">
+			<phrase>playzone_touchthebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>playzone_touchthebox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="starfly">
+			<phrase>chime_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="starson">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="musicalsting">
+			<phrase>kalimba_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardon">
+			<phrase>cf_belltree</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardfly">
+			<phrase>mallet_percussion_descending</phrase>
+		</phrasegroup>
+		<phrasegroup id="awardslot">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="trophiesslide">
+			<phrase>cf_short_slide_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="topbaron">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="topbarstarslide">
+			<phrase>whoosh_up_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

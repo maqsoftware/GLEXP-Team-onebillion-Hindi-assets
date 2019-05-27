@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p0_1.aif</url>
+	<relurl>p0_1.aif</relurl>
+	<timings text="Kuwarejesha ng’ombe nyumbani" frames="76338">
+		<timing id="0" start="0.000" end="0.741" startframe="0" framelength="32687" text="Kuwarejesha"/>
+		<timing id="1" start="0.741" end="1.109" startframe="32687" framelength="16203" text="ng’ombe"/>
+		<timing id="2" start="1.109" end="1.731" startframe="48890" framelength="27448" text="nyumbani"/>
+	</timings>
+</xml>

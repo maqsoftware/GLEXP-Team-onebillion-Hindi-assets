@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.132128823">
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_countwithmeintwos</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_six</phrase>
+			<phrase>3_eight</phrase>
+			<phrase>3_ten</phrase>
+			<phrase>3_twelve</phrase>
+			<phrase>3_fourteen</phrase>
+			<phrase>3_sixteen</phrase>
+			<phrase>3_eighteen</phrase>
+			<phrase>3_twenty</phrase>
+			<phrase>3_lookatthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_countonintwosuptofifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_countonintwosuptofifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twentytwo</phrase>
+			<phrase>3_twentyfour</phrase>
+			<phrase>3_twentysix</phrase>
+			<phrase>3_twentyeight</phrase>
+			<phrase>3_thirty</phrase>
+			<phrase>3_thirtytwo</phrase>
+			<phrase>3_thirtyfour</phrase>
+			<phrase>3_thirtysix</phrase>
+			<phrase>3_thirtyeight</phrase>
+			<phrase>3_forty</phrase>
+			<phrase>3_fortytwo</phrase>
+			<phrase>3_fortyfour</phrase>
+			<phrase>3_fortysix</phrase>
+			<phrase>3_fortyeight</phrase>
+			<phrase>3_fifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookatthepattern_3a</phrase>
+			<phrase>3_whichnumbercomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_whichnumbercomesnextinthepattern</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookatthepatternagain</phrase>
+			<phrase>3_thenumbersendintwo</phrase>
+			<phrase>3_four_3c</phrase>
+			<phrase>3_six_3c</phrase>
+			<phrase>3_eight_3c</phrase>
+			<phrase>3_andzero</phrase>
+			<phrase>3_wecallthemevennumbers</phrase>
+			<phrase>3_yourturn</phrase>
+			<phrase>3_chooseanevennumberinthisrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_chooseanevennumberintheyellowrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_countwithme</phrase>
+			<phrase>3_fiftytwo</phrase>
+			<phrase>3_fiftyfour</phrase>
+			<phrase>3_fiftysix</phrase>
+			<phrase>3_fiftyeight</phrase>
+			<phrase>3_sixty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowchooseanevennumberhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_chooseanevennumberintheyellowrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_sixtytwo</phrase>
+			<phrase>3_sixtyfour</phrase>
+			<phrase>3_sixtysix</phrase>
+			<phrase>3_sixtyeight</phrase>
+			<phrase>3_seventy</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_dothesameforthisrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_chooseanevennumberintheyellowrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_seventytwo</phrase>
+			<phrase>3_seventyfour</phrase>
+			<phrase>3_seventysix</phrase>
+			<phrase>3_seventyeight</phrase>
+			<phrase>3_eighty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowchoosetheotherevennumbersinorder</phrase>
+			<phrase>3_starthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosetheotherevennumbersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookatthepattern_3a</phrase>
+			<phrase>3_whichevennumbercomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eightytwo</phrase>
+			<phrase>3_eightyfour</phrase>
+			<phrase>3_eightysix</phrase>
+			<phrase>3_eightyeight</phrase>
+			<phrase>3_ninety</phrase>
+			<phrase>3_ninetytwo</phrase>
+			<phrase>3_ninetyfour</phrase>
+			<phrase>3_ninetysix</phrase>
+			<phrase>3_ninetyeight</phrase>
+			<phrase>3_onehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_goodthatsalltheevennumbersfromtwotoonehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookillcolourinacolumnofevennumbers</phrase>
+			<phrase>3_likethis</phrase>
+			<phrase>3_thesenumbersallendintwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_colourintheothercolumnsofevennumbers</phrase>
+			<phrase>3_startatthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_colourinallthecolumnsofevennumbers</phrase>
+			<phrase>3_startatthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_colouritinallthewaydown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_colourinacolumnofevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_colourinallthecolumnsofevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_theseendinfour</phrase>
+			<phrase>3_theseendinsix</phrase>
+			<phrase>3_theseendineight</phrase>
+			<phrase>3_theseendinzero</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_theyareallevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowlook</phrase>
+			<phrase>3_thesearenotevennumbers</phrase>
+			<phrase>3_wecallthemoddnumbers</phrase>
+			<phrase>3_theseoddnumbersendinone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_seeifyoucancolourtheothercolumnsofoddnumbers</phrase>
+			<phrase>3_startatthetop</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_colourinallthecolumnsofoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_colouritinallthewaydown</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_colourinacolumnofoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_colourinallthecolumnsofoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_theseendinthree</phrase>
+			<phrase>3_theseendinfive</phrase>
+			<phrase>3_theseendinseven</phrase>
+			<phrase>3_theseendinnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_greatthatsalltheoddnumbersfromonetoninetynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_soherearetheevennumbers</phrase>
+			<phrase>3_andthesearetheoddnumbers</phrase>
+			<phrase>3_lookatthepattern_3j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowseeifyoucanchoosefourevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosefourevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_choosefourevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_choosefourevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_thistimechoosefouroddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_choosefouroddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_choosefouroddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_choosefouroddnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale3n">
+		<phrasegroup id="DEMO">
+			<phrase>3_welldoneyoupractisedwithoddandevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3na">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowwhichofthesenumbersareeven</phrase>
+			<phrase>3_touchthem</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtheevennumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_touchtheevennumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3nb">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whicharetheevennumbershere</phrase>
+			<phrase>3_touchthem_3nb</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtheevennumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_touchtheevennumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3nc">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowfindtheoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtheoddnumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_findtheoddnumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3nd">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whicharetheoddnumbershere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtheoddnumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_findtheoddnumbers</phrase>
+			<phrase>3_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3ne">
+		<phrasegroup id="PROMPT">
+			<phrase>3_morenumbers</phrase>
+			<phrase>3_whichareeven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_findalltheevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_findalltheevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3nf">
+		<phrasegroup id="PROMPT">
+			<phrase>3_onelastset</phrase>
+			<phrase>3_whicharetheoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_findalltheoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_findalltheoddnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o1">
+		<phrasegroup id="DEMO">
+			<phrase>3_letspickoutoddandevennumbers</phrase>
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o2">
+		<phrasegroup id="DEMO">
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+			<phrase>3_yourturn</phrase>
+			<phrase>3_puttheothernumbersinthecorrectboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_puttheothernumbersinthecorrectboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putallthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r1">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchtherobotsbuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r2">
+		<phrasegroup id="PROMPT">
+			<phrase>3_putthenumbersintheboxes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_putthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putallthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_right</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s1">
+		<phrasegroup id="PROMPT">
+			<phrase>3_getmorenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s2">
+		<phrasegroup id="PROMPT">
+			<phrase>3_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_putthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putallthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_great</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3t1">
+		<phrasegroup id="PROMPT">
+			<phrase>3_haveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3t2">
+		<phrasegroup id="REPEAT">
+			<phrase>3_putthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putallthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_verygood</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3u1">
+		<phrasegroup id="PROMPT">
+			<phrase>3_andthelastset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_touchtherobotsbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3u2">
+		<phrasegroup id="REPEAT">
+			<phrase>3_putthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_putallthenumbersintheboxes</phrase>
+			<phrase>3_thentouchthebutton_3o2</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_thegreenboxisforoddnumbers</phrase>
+			<phrase>3_thepinkboxisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_welldoneyoupickedoutoddandevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="grid_appears">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="note5">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="note6">
+			<phrase>note_6</phrase>
+		</phrasegroup>
+		<phrasegroup id="note7">
+			<phrase>note_7</phrase>
+		</phrasegroup>
+		<phrasegroup id="note8">
+			<phrase>note_8</phrase>
+		</phrasegroup>
+		<phrasegroup id="note9">
+			<phrase>note_9</phrase>
+		</phrasegroup>
+		<phrasegroup id="note10">
+			<phrase>note_10</phrase>
+		</phrasegroup>
+		<phrasegroup id="boxes_on">
+			<phrase>stars_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="boxes_off">
+			<phrase>stars_off</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_appear">
+			<phrase>button_apper</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_click">
+			<phrase>object_touch</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp">
+			<phrase>burp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="timer">
+			<phrase>ping_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="boxes_on2">
+			<phrase>clock_like_beep</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_move">
+			<phrase>robot_move</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_wave">
+			<phrase>alien_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="robot_button">
+			<phrase>metallic_clack_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

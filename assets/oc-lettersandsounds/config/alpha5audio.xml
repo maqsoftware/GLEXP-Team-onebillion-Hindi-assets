@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>alpha5_letssaythealphabet</phrase>
+			<phrase>alpha5_thistimeyoullseethecapitalletters</phrase>
+			<phrase>alpha5_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha5_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>alpha5_getreadytojoinin</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>alpha5_good</phrase>
+			<phrase>alpha5_nowonemoretime</phrase>
+			<phrase>alpha5_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>alpha5_touchthegrid</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>alpha5_verygoodyoupractisedsayingthealphabet</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="letterson">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_1">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_2">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_3">
+			<phrase>bleep_short_medium</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_4">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_5">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="beat_6">
+			<phrase>drum</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_1" vol="0.4">
+			<phrase>rhythm_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_2" vol="0.6">
+			<phrase>rhythm_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="rhythm_3" vol="0.6">
+			<phrase>rhythm_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

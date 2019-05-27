@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="Siku iliyofuata basi la kijiji lilisimama, nilikaa baina ya mama na shangazi. Nilivaa nguo zangu nzuri zaidi za safari. Nilijisikia kama mtu mzima." frames="593684">
+		<timing id="0" start="0.000" end="0.367" startframe="0" framelength="16182" text="Siku"/>
+		<timing id="1" start="0.367" end="1.397" startframe="16182" framelength="45440" text="iliyofuata"/>
+		<timing id="2" start="1.694" end="2.210" startframe="74699" framelength="22763" text="basi"/>
+		<timing id="3" start="2.210" end="2.390" startframe="97462" framelength="7929" text="la"/>
+		<timing id="4" start="2.390" end="2.823" startframe="105391" framelength="19104" text="kijiji"/>
+		<timing id="5" start="2.823" end="3.851" startframe="124495" framelength="45345" text="lilisimama"/>
+		<timing id="6" start="4.228" end="4.998" startframe="186467" framelength="33945" text="nilikaa"/>
+		<timing id="7" start="4.998" end="5.298" startframe="220412" framelength="13236" text="baina"/>
+		<timing id="8" start="5.298" end="5.485" startframe="233648" framelength="8221" text="ya"/>
+		<timing id="9" start="5.485" end="5.830" startframe="241869" framelength="15234" text="mama"/>
+		<timing id="10" start="5.830" end="6.010" startframe="257103" framelength="7916" text="na"/>
+		<timing id="11" start="6.010" end="6.822" startframe="265019" framelength="35826" text="shangazi"/>
+		<timing id="12" start="7.673" end="8.312" startframe="338358" framelength="28210" text="Nilivaa"/>
+		<timing id="13" start="8.312" end="8.539" startframe="366568" framelength="10021" text="nguo"/>
+		<timing id="14" start="8.539" end="8.909" startframe="376589" framelength="16319" text="zangu"/>
+		<timing id="15" start="8.909" end="9.442" startframe="392908" framelength="23490" text="nzuri"/>
+		<timing id="16" start="9.442" end="9.920" startframe="416398" framelength="21057" text="zaidi"/>
+		<timing id="17" start="9.920" end="10.140" startframe="437455" framelength="9704" text="za"/>
+		<timing id="18" start="10.140" end="10.961" startframe="447159" framelength="36240" text="safari"/>
+		<timing id="19" start="11.369" end="12.214" startframe="501365" framelength="37293" text="Nilijisikia"/>
+		<timing id="20" start="12.214" end="12.512" startframe="538658" framelength="13129" text="kama"/>
+		<timing id="21" start="12.512" end="12.927" startframe="551787" framelength="18285" text="mtu"/>
+		<timing id="22" start="12.927" end="13.462" startframe="570072" framelength="23612" text="mzima"/>
+	</timings>
+</xml>

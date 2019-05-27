@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="32" linespacing="27" >
+	</event>
+	<event id="a" >
+		<vector id="presenter" anchor="0.5,1" pos="0.508217,1.03782" src="annawithear" zpos="2" />
+	</event>
+	<event id="passage" >
+		<vector id="arrow" pos="0.95097,0.92063" src="arrow_next" scalex="0.6475" scaley="0.6475" zpos="2.002" hidden="true" />
+		<circle id="centrepoint" pos="0.500336,0.475286" src="centrepoint" fill="255,0,0" stroke="0,0,255" strokewidth="2" zpos="2.003" hidden="true" x="0.492523" y="0.464869" width="0.015625" height="0.0208333" />
+		<vector id="smalltick" pos="0.503048,0.905932" src="tick" scalex="0.210288" scaley="0.210288" zpos="2.001" />
+		<rectangle id="textbox" pos="0.499874,0.475759" src="textbox" fill="0,0,255" fillopacity="0.309392" zpos="2" hidden="true" x="0.0707588" y="0.112503" width="0.858231" height="0.726512" />
+	</event>
+	<event id="question" >
+		<rectangle id="answersrect" pos="0.57847,0.681857" src="answersrect" fill="4,51,255" fillopacity="0.526545" zpos="2.001" hidden="true" x="0.270931" y="0.412476" width="0.615078" height="0.538762" />
+		<group id="button1"  pos="0.295227,0.448542" src="button1" zpos="2.005" hidden="true">
+			<circle id="dim" pos="0.295227,0.448542" src="dim" fill="218,218,218" stroke="193,193,193" strokewidth="3" zpos="2.002" hidden="true" widthtracksheight="true" x="0.274712" y="0.421188" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+			<circle id="feedback" pos="0.295227,0.448542" src="feedback" fill="254,192,45" stroke="253,154,39" strokewidth="3" zpos="2.003" hidden="true" widthtracksheight="true" x="0.274712" y="0.421188" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+			<circle id="high" pos="0.295227,0.448542" src="high" fill="255,252,0" stroke="255,222,2" strokewidth="3" zpos="2.001" hidden="true" widthtracksheight="true" x="0.274712" y="0.421188" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+			<circle id="normal" pos="0.295227,0.448542" src="normal" fill="32,191,240" stroke="72,141,200" strokewidth="3" zpos="2" widthtracksheight="true" x="0.274712" y="0.421188" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+		</group>
+		<group id="button2"  pos="0.0395004,0.319802" parent="answersrect" src="button2" zpos="2.003" hidden="true">
+			<circle id="dim" pos="0.295227,0.584773" src="dim" fill="218,218,218" stroke="193,193,193" strokewidth="3" zpos="2.002" hidden="true" widthtracksheight="true" x="0.274712" y="0.557419" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+			<circle id="high" pos="0.295227,0.584773" src="high" fill="255,252,0" stroke="255,222,2" strokewidth="3" zpos="2.001" hidden="true" widthtracksheight="true" x="0.274712" y="0.557419" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+			<circle id="normal" pos="0.295227,0.584773" src="normal" fill="32,191,240" stroke="72,141,200" strokewidth="3" zpos="2" widthtracksheight="true" x="0.274712" y="0.557419" width="0.0410309" height="0.0547078" pxwidth="42.0156" pxheight="42.0156" />
+		</group>
+		<rectangle id="questionrect" pos="0.577431,0.298508" src="questionrect" fill="4,51,255" fillopacity="0.526545" zpos="2" hidden="true" x="0.268852" y="0.26238" width="0.617157" height="0.0722555" />
+		<rectangle id="swatch" pos="0.106955,0.205226" src="swatch" fill="255,219,82" zpos="2.004" hidden="true" x="0.0745964" y="0.153798" width="0.0647163" height="0.102854" />
+		<rectangle id="textrect1" pos="0.554844,0.0749351" parent="answersrect" src="textrect1" fill="4,51,255" fillopacity="0.526545" zpos="2.002" hidden="true" x="0.111636" y="0.0167288" width="0.886417" height="0.116413" />
+	</event>
+</events>

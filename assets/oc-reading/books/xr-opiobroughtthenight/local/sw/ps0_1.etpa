@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Jinsi Omi alivyoleta usiku kwao" frames="264399">
+		<timing id="0" start="0.000" end="0.788" startframe="0" framelength="34752" text="Jinsi"/>
+		<timing id="1" start="1.229" end="1.875" startframe="54182" framelength="28512" text="Omi"/>
+		<timing id="2" start="2.320" end="3.498" startframe="102310" framelength="51936" text="alivyoleta"/>
+		<timing id="3" start="3.993" end="4.812" startframe="176112" framelength="36086" text="usiku"/>
+		<timing id="4" start="5.431" end="5.995" startframe="239503" framelength="24896" text="kwao"/>
+	</timings>
+</xml>

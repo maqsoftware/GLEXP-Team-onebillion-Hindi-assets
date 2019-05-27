@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/p5_3.aif</url>
+	<relurl>p5_3.aif</relurl>
+	<timings text="Omi alikunywa chai na mara tu akapatwa na usingizi." frames="229142">
+		<timing id="0" start="0.000" end="0.695" startframe="0" framelength="30641" text="Omi"/>
+		<timing id="1" start="0.920" end="1.560" startframe="40567" framelength="28226" text="alikunywa"/>
+		<timing id="2" start="1.560" end="2.139" startframe="68793" framelength="25521" text="chai"/>
+		<timing id="3" start="2.436" end="2.607" startframe="107425" framelength="7523" text="na"/>
+		<timing id="4" start="2.607" end="3.029" startframe="114948" framelength="18650" text="mara"/>
+		<timing id="5" start="3.029" end="3.391" startframe="133598" framelength="15942" text="tu"/>
+		<timing id="6" start="3.648" end="4.295" startframe="160890" framelength="28512" text="akapatwa"/>
+		<timing id="7" start="4.295" end="4.464" startframe="189402" framelength="7463" text="na"/>
+		<timing id="8" start="4.464" end="5.196" startframe="196865" framelength="32277" text="usingizi"/>
+	</timings>
+</xml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180315.120328966">
+	<event id="bag">
+		<phrasegroup id="DEMO">
+			<phrase>pws3_letslookatwordsthatrhyme</phrase>
+			<phrase>pws3_touchthewordbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>pws3_letslookatwordsthatbegininthesameway</phrase>
+			<phrase>pws3_touchthewordbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws3_touchthewordbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws3_touchthewordbag</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_1">
+		<phrasegroup id="DEMO">
+			<phrase>pws3_watchme</phrase>
+			<phrase>pws3_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>pws3_dragthewordtothecorrectcolumn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws3_dragthewordtothecorrectcolumn</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>pws3_dragthewordtothecorrectcolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_2">
+		<phrasegroup id="PROMPT">
+			<phrase>pws3_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws3_dragthewordtothecorrectcolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="match_default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>pws3_dragthewordtothecorrectcolumn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="pattern">
+		<phrasegroup id="DEMO">
+			<phrase>pws3_nowlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>pws3_greatyouputrhymingwordstogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>pws3_greatwelookedatwordsthatbegininthesameway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="bagon">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="bagshake">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordout">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="outofbag">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="backtobag">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+	</event>
+</audio>

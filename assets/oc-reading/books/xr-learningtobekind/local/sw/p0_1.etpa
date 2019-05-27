@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p0_1.aif</url>
+	<relurl>p0_1.aif</relurl>
+	<timings text="Kujifunza ukarimu" frames="64328">
+		<timing id="0" start="0.000" end="0.745" startframe="0" framelength="32873" text="Kujifunza"/>
+		<timing id="1" start="0.745" end="1.459" startframe="32873" framelength="31455" text="ukarimu"/>
+	</timings>
+</xml>

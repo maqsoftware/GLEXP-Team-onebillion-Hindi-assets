@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171211.203101814">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_letsmakewordsthatrhyme</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>onsetandrime_nowwatchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>onsetandrime_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_listen_c</phrase>
+			<phrase>onsetandrime_thencompletetheword</phrase>
+			<phrase>onsetandrime_draglettersfromhere</phrase>
+			<phrase>onsetandrime_thismighthelp</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>onsetandrime_nowtrysomemore</phrase>
+			<phrase>onsetandrime_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>onsetandrime_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_lookatthepattern</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_andlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_nowseehowquicklyyoucanfindeachword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>onsetandrime_touchthisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="j">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>onsetandrime_touchthisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>onsetandrime_excellentyoumadewordsthatrhymedtheyallsharedthis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="onset">
+			<phrase>click_plastic_single_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="rowdown">
+			<phrase>reveal1</phrase>
+		</phrasegroup>
+		<phrasegroup id="rimedown">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="paneloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="reshuffle">
+			<phrase>marimba_scale_up</phrase>
+		</phrasegroup>
+		<phrasegroup id="pattern">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="scatter">
+			<phrase>boing_long</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordfly">
+			<phrase>cf_clap</phrase>
+		</phrasegroup>
+		<phrasegroup id="bigryme">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180503.155104529">
+	<event id="a">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_touchthetigerandsayhello</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandsayhello</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandsayhello</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_touchthetigerandtellheryourname</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandtellheryourname</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandtellheryourname</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_tellthetigeryourfavouritecolour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_tellthetigeryourfavouritecolour</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_dontforgettotouchthetigerbeforeyouspeak</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_whydontyoutellthetigerastory</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_whydontyoutellthetigerastory</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_dontforgettotouchthetigerbeforeyouspeak</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_tellthetigerajoke</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_tellthetigerajoke</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_dontforgettotouchthetigerbeforeyouspeak</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_seeifyoucanmakethetigerlaugh</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_seeifyoucanmakethetigerlaugh</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_dontforgettotouchthetigerbeforeyouspeak</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2a">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_touchthetigerandreadthiswordoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandreadthiswordoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandreadthiswordoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_touchthetigerandreadthissentenceoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandreadthissentenceoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandreadthissentenceoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_readthiswordoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandreadthiswordoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandreadthiswordoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_readthissentenceoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eb_touchthetigerandreadthissentenceoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>eb_touchthetigerandreadthissentenceoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="final">
+		<phrasegroup id="PROMPT">
+			<phrase>eb_saygoodbyetothetiger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="beep">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+	</event>
+</audio>

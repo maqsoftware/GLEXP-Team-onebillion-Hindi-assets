@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="“Hapana!” alisema Nura. “Sishuki. Nitakaa hapa usiku kucha!”" frames="648048">
+		<timing id="0" start="0.000" end="0.708" startframe="0" framelength="31243" text="Hapana"/>
+		<timing id="1" start="2.723" end="3.669" startframe="120075" framelength="41722" text="alisema"/>
+		<timing id="2" start="4.785" end="5.543" startframe="211035" framelength="33428" text="Nura"/>
+		<timing id="3" start="6.514" end="7.499" startframe="287274" framelength="43438" text="Sishuki"/>
+		<timing id="4" start="8.789" end="9.765" startframe="387604" framelength="43023" text="Nitakaa"/>
+		<timing id="5" start="10.753" end="11.448" startframe="474212" framelength="30631" text="hapa"/>
+		<timing id="6" start="12.413" end="13.353" startframe="547421" framelength="41452" text="usiku"/>
+		<timing id="7" start="14.159" end="14.695" startframe="624402" framelength="23646" text="kucha"/>
+	</timings>
+</xml>

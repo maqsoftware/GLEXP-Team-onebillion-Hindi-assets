@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p6_1.aif</url>
+	<relurl>p6_1.aif</relurl>
+	<timings text="“Sio mbali,” Ramila aliongezea. “Lakini mimi ni mzee na siwezi kutembea haraka. Zaidi ya yote, ningependa kuwa na mwenzangu wa kuzungumza naye.”" frames="527365">
+		<timing id="0" start="0.000" end="0.331" startframe="0" framelength="14579" text="Sio"/>
+		<timing id="1" start="0.331" end="1.061" startframe="14579" framelength="32233" text="mbali"/>
+		<timing id="2" start="1.301" end="1.772" startframe="57386" framelength="20777" text="Ramila"/>
+		<timing id="3" start="1.772" end="2.772" startframe="78163" framelength="44104" text="aliongezea"/>
+		<timing id="4" start="2.859" end="3.390" startframe="126089" framelength="23390" text="Lakini"/>
+		<timing id="5" start="3.390" end="3.723" startframe="149479" framelength="14721" text="mimi"/>
+		<timing id="6" start="3.723" end="3.980" startframe="164200" framelength="11316" text="ni"/>
+		<timing id="7" start="3.980" end="4.471" startframe="175516" framelength="21640" text="mzee"/>
+		<timing id="8" start="4.471" end="4.683" startframe="197156" framelength="9362" text="na"/>
+		<timing id="9" start="4.683" end="5.127" startframe="206518" framelength="19582" text="siwezi"/>
+		<timing id="10" start="5.127" end="5.803" startframe="226100" framelength="29805" text="kutembea"/>
+		<timing id="11" start="5.803" end="6.487" startframe="255905" framelength="30192" text="haraka"/>
+		<timing id="12" start="6.741" end="7.359" startframe="297284" framelength="27246" text="Zaidi"/>
+		<timing id="13" start="7.359" end="7.497" startframe="324530" framelength="6084" text="ya"/>
+		<timing id="14" start="7.497" end="8.189" startframe="330614" framelength="30517" text="yote"/>
+		<timing id="15" start="8.426" end="9.132" startframe="371585" framelength="31139" text="ningependa"/>
+		<timing id="16" start="9.132" end="9.412" startframe="402724" framelength="12357" text="kuwa"/>
+		<timing id="17" start="9.412" end="9.570" startframe="415081" framelength="6966" text="na"/>
+		<timing id="18" start="9.570" end="10.452" startframe="422047" framelength="38885" text="mwenzangu"/>
+		<timing id="19" start="10.648" end="10.840" startframe="469578" framelength="8488" text="wa"/>
+		<timing id="20" start="10.840" end="11.518" startframe="478066" framelength="29875" text="kuzungumza"/>
+		<timing id="21" start="11.518" end="11.958" startframe="507941" framelength="19424" text="naye"/>
+	</timings>
+</xml>

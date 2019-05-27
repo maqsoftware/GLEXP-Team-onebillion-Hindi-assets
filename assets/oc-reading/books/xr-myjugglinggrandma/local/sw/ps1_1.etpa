@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="Bibi alijifunza kucheza cheza jikoni. “Nitazame, babu!” alisema." frames="616436">
+		<timing id="0" start="0.000" end="0.630" startframe="0" framelength="27768" text="Bibi"/>
+		<timing id="1" start="1.842" end="3.013" startframe="81234" framelength="51647" text="alijifunza"/>
+		<timing id="2" start="3.881" end="4.810" startframe="171170" framelength="40946" text="kucheza"/>
+		<timing id="3" start="6.019" end="6.734" startframe="265442" framelength="31527" text="cheza"/>
+		<timing id="4" start="7.549" end="8.370" startframe="332901" framelength="36236" text="jikoni"/>
+		<timing id="5" start="9.552" end="10.568" startframe="421250" framelength="44814" text="Nitazame"/>
+		<timing id="6" start="11.530" end="12.223" startframe="508481" framelength="30553" text="babu"/>
+		<timing id="7" start="13.176" end="13.978" startframe="581042" framelength="35394" text="alisema"/>
+	</timings>
+</xml>

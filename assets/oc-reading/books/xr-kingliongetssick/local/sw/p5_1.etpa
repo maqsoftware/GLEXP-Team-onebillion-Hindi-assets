@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/p5_1.aif</url>
+	<relurl>p5_1.aif</relurl>
+	<timings text="Fisi alitabasamu kiujanja na akasema, “Oh Mfalme mkuu, usijali.  Hakika Sungura anajua dawa ya ugonjwa huu.”" frames="398110">
+		<timing id="0" start="0.000" end="0.284" startframe="0" framelength="12503" text="Fisi"/>
+		<timing id="1" start="0.284" end="1.099" startframe="12503" framelength="35983" text="alitabasamu"/>
+		<timing id="2" start="1.099" end="1.730" startframe="48486" framelength="27798" text="kiujanja"/>
+		<timing id="3" start="1.730" end="1.834" startframe="76284" framelength="4607" text="na"/>
+		<timing id="4" start="1.834" end="2.613" startframe="80891" framelength="34357" text="akasema"/>
+		<timing id="5" start="3.049" end="3.323" startframe="134462" framelength="12072" text="Oh"/>
+		<timing id="6" start="3.323" end="3.968" startframe="146534" framelength="28465" text="Mfalme"/>
+		<timing id="7" start="3.968" end="4.550" startframe="174999" framelength="25639" text="mkuu"/>
+		<timing id="8" start="4.624" end="5.782" startframe="203897" framelength="51078" text="usijali"/>
+		<timing id="9" start="6.253" end="6.709" startframe="275754" framelength="20094" text="Hakika"/>
+		<timing id="10" start="6.709" end="7.412" startframe="295848" framelength="31025" text="Sungura"/>
+		<timing id="11" start="7.412" end="7.870" startframe="326873" framelength="20213" text="anajua"/>
+		<timing id="12" start="7.870" end="8.136" startframe="347086" framelength="11712" text="dawa"/>
+		<timing id="13" start="8.136" end="8.284" startframe="358798" framelength="6519" text="ya"/>
+		<timing id="14" start="8.284" end="8.764" startframe="365317" framelength="21164" text="ugonjwa"/>
+		<timing id="15" start="8.764" end="9.100" startframe="386481" framelength="14817" text="huu"/>
+	</timings>
+</xml>

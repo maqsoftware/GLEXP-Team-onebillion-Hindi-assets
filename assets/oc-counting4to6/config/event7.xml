@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="7a,7b" gradienttop="254,196,214" gradientbottom="255,255,255" colour="255,240,255" >
+	</event>
+	<event id="7a" redraw="true" colour="255,240,255" >
+		<rectangle id="background_control" pos="0.501518,0.527613" src="background_control" fill="255,192,0" stroke="200,97,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.015625" y="0.0643412" width="0.971786" height="0.926544" pxwidth="995.109" pxheight="711.586" />
+		<image id="dash_4" pos="0.239223,0.469666" src="tracing_dash4" scalex="1.02" scaley="1.04" zpos="2.001" hidden="true" />
+		<image id="dash_5" pos="0.239223,0.469666" src="tracing_dash5" scaley="1.02" zpos="2.002" hidden="true" />
+		<image id="dash_6" pos="0.239223,0.469666" src="tracing_dash6" scalex="1.04" scaley="1.06" zpos="2.003" hidden="true" />
+		<vector id="dot_1" pos="0.0773784,0.923034" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.017" colour="139,188,33" />
+		<vector id="dot_2" pos="0.182894,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.018" colour="0,158,223" />
+		<vector id="dot_3" pos="0.288411,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.019" colour="160,94,182" />
+		<vector id="dot_4" pos="0.393927,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.02" colour="255,255,0" />
+		<vector id="dot_5" pos="0.499443,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.021" colour="255,61,19" />
+		<vector id="dot_6" pos="0.604959,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.022" colour="231,57,139" />
+		<vector id="dot_7" pos="0.710475,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.023" colour="118,39,107" />
+		<vector id="dot_8" pos="0.815991,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.024" colour="250,190,19" />
+		<vector id="dot_9" pos="0.921507,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.025" colour="0,255,255" />
+		<vector id="star_1" pos="0.567865,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.008" />
+		<vector id="star_2" pos="0.732223,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.009" />
+		<vector id="star_3" pos="0.896582,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.01" />
+		<vector id="star_4" pos="0.567865,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.011" />
+		<vector id="star_5" pos="0.732223,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.012" />
+		<vector id="star_6" pos="0.896582,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.013" />
+		<vector id="star_7" pos="0.567865,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.014" />
+		<vector id="star_8" pos="0.732223,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.015" />
+		<vector id="star_9" pos="0.896582,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.016" />
+		<vector id="trace_4" pos="0.23987,0.469666" src="trace_4" zpos="2.004" hidden="true" />
+		<vector id="trace_5" pos="0.239727,0.469666" src="trace_5" zpos="2.005" hidden="true" />
+		<vector id="trace_6" pos="0.23918,0.469666" src="trace_6" zpos="2.006" hidden="true" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.007" hidden="true" />
+	</event>
+	<event id="7b" redraw="true" >
+		<rectangle id="background_control" pos="0.501518,0.527613" src="background_control" fill="255,192,0" stroke="200,97,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.015625" y="0.0643412" width="0.971786" height="0.926544" pxwidth="995.109" pxheight="711.586" />
+		<image id="dash_4" pos="0.239223,0.469666" src="tracing_dash4" scalex="1.02" scaley="1.04" zpos="2.001" hidden="true" />
+		<image id="dash_5" pos="0.239223,0.469666" src="tracing_dash5" scaley="1.02" zpos="2.002" hidden="true" />
+		<image id="dash_6" pos="0.239223,0.469666" src="tracing_dash6" scalex="1.04" scaley="1.06" zpos="2.003" hidden="true" />
+		<vector id="dot_1" pos="0.0773784,0.923034" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.017" colour="139,188,33" />
+		<vector id="dot_2" pos="0.182894,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.018" colour="0,158,223" />
+		<vector id="dot_3" pos="0.288411,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.019" colour="160,94,182" />
+		<vector id="dot_4" pos="0.393927,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.02" colour="255,255,0" />
+		<vector id="dot_5" pos="0.499443,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.021" colour="255,61,19" />
+		<vector id="dot_6" pos="0.604959,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.022" colour="231,57,139" />
+		<vector id="dot_7" pos="0.710475,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.023" colour="118,39,107" />
+		<vector id="dot_8" pos="0.815991,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.024" colour="250,190,19" />
+		<vector id="dot_9" pos="0.921507,0.924607" parent="background_control" src="dot" scalex="1.6" scaley="1.6" zpos="2.025" colour="0,255,255" />
+		<vector id="star_1" pos="0.567865,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.008" />
+		<vector id="star_2" pos="0.732223,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.009" />
+		<vector id="star_3" pos="0.896582,0.241873" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.01" />
+		<vector id="star_4" pos="0.567865,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.011" />
+		<vector id="star_5" pos="0.732223,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.012" />
+		<vector id="star_6" pos="0.896582,0.437458" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.013" />
+		<vector id="star_7" pos="0.567865,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.014" />
+		<vector id="star_8" pos="0.732223,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.015" />
+		<vector id="star_9" pos="0.896582,0.633043" parent="background_control" src="star" scalex="1.38067" scaley="1.38067" zpos="2.016" />
+		<vector id="trace_4" pos="0.23987,0.469666" src="trace_4" zpos="2.004" hidden="true" />
+		<vector id="trace_5" pos="0.239727,0.469666" src="trace_5" zpos="2.005" hidden="true" />
+		<vector id="trace_6" pos="0.23918,0.469666" src="trace_6" zpos="2.006" hidden="true" />
+		<vector id="trace_arrow" pos="0.0467834,0.923635" src="trace_arrow" zpos="2.007" hidden="true" />
+	</event>
+</events>

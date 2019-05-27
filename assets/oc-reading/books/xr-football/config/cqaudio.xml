@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170823.115733266">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_howmanyfootballsareinthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thegirlhasafootballandsohastheboy</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lookatthechildrentheyarelisteningcarefullytomolokotheirfootballcoach</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thereisonefootballinthispicturefindit</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theboywantstogetthefootballfromthegirl</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_findthefootballinthispicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatdoyouthinkthesurprisewillbewellfindoutlater</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whatisthefootballcoachcarrying</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_abigbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_anewfootball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_perhapsthesurpriseisinthatbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_nowthechildrenwilllooklikearealteamhowexciting</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

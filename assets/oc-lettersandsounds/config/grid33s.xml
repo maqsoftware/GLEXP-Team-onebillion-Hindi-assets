@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="100" scenes="a,b,c" >
+		<vector id="grid" pos="0.297119,0.462952" src="grid33" scalex="1.03924" scaley="1.1294" zpos="0" />
+		<image id="pic" pos="0.771017,0.483971" src="fc_dog" scalex="0.686577" scaley="0.686577" zpos="0.001" hidden="true" />
+	</event>
+</events>

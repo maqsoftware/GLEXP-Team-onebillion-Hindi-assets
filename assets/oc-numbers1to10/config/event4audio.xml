@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycountersarethere</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_therearestillfivecounters</phrase>
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanybluesquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybluesquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain_4c</phrase>
+			<phrase>4_howmanybluesquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanybluesquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain_4c</phrase>
+			<phrase>4_howmanybluesquaresarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain_4c</phrase>
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow_4c</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain_4c</phrase>
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_howmanyaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>4_countagain_4c</phrase>
+			<phrase>4_howmanycountersarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain_4e</phrase>
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain_4e</phrase>
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_howmanyaretherethistime_4e</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>4_countagain_4e</phrase>
+			<phrase>4_howmanydiamondsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyaretherenow_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>4_howmanyaretherethistime_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>4_howmanyaretherenow_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE3">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT5">
+			<phrase>4_howmanyaretherenow_4b</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT5">
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_thenumberhasnotchanged</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE4">
+			<phrase>4_countagain_4b</phrase>
+			<phrase>4_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_welldoneyousawthatthenumberdoesnotchangewhenyoumovethingsaround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

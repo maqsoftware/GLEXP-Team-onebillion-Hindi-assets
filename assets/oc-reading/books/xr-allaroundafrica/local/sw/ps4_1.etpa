@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Volumes/Ting/audio/master/sw/xr-library_stories/xr-allaroundafricaSW/ps4_1.aif</url>
+	<relurl>ps4_1.aif</relurl>
+	<timings text="Kadogo na Saida walikimbia kutoka Afrika Kusini mpaka pwani ya magharibi ya bara hilo. Ilikuwa kazi ngumu, lakini watu walijitokeza kuwashangilia." frames="2060635">
+		<timing id="0" start="0.000" end="0.861" startframe="0" framelength="37986" text="Kadogo"/>
+		<timing id="1" start="1.695" end="2.695" startframe="74752" framelength="44100" text="na"/>
+		<timing id="2" start="3.085" end="4.331" startframe="136063" framelength="54945" text="Saida"/>
+		<timing id="3" start="5.132" end="6.560" startframe="226331" framelength="62946" text="walikimbia"/>
+		<timing id="4" start="7.771" end="8.979" startframe="342707" framelength="53280" text="kutoka"/>
+		<timing id="5" start="10.139" end="11.604" startframe="447145" framelength="64605" text="Afrika"/>
+		<timing id="6" start="12.741" end="14.191" startframe="561885" framelength="63926" text="Kusini"/>
+		<timing id="7" start="15.339" end="16.568" startframe="676452" framelength="54181" text="mpaka"/>
+		<timing id="8" start="17.627" end="18.798" startframe="777336" framelength="51639" text="pwani"/>
+		<timing id="9" start="19.566" end="20.500" startframe="862880" framelength="41154" text="ya"/>
+		<timing id="10" start="21.442" end="22.500" startframe="945573" framelength="46679" text="magharibi"/>
+		<timing id="11" start="23.577" end="24.680" startframe="1039749" framelength="48651" text="ya"/>
+		<timing id="12" start="25.417" end="26.478" startframe="1120910" framelength="46781" text="bara"/>
+		<timing id="13" start="27.256" end="28.556" startframe="1201968" framelength="57356" text="hilo"/>
+		<timing id="14" start="29.643" end="31.001" startframe="1307235" framelength="59905" text="Ilikuwa"/>
+		<timing id="15" start="32.001" end="33.105" startframe="1411264" framelength="48657" text="kazi"/>
+		<timing id="16" start="34.056" end="35.110" startframe="1501857" framelength="46510" text="ngumu"/>
+		<timing id="17" start="36.197" end="37.658" startframe="1596273" framelength="64449" text="lakini"/>
+		<timing id="18" start="38.929" end="40.041" startframe="1716761" framelength="49041" text="watu"/>
+		<timing id="19" start="42.596" end="44.457" startframe="1878475" framelength="82069" text="walijitokeza"/>
+		<timing id="20" start="45.563" end="46.726" startframe="2009309" framelength="51326" text="kuwashangilia"/>
+	</timings>
+</xml>

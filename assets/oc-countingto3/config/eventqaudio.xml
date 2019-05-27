@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="q1">
+		<phrasegroup id="PROMPT">
+			<phrase>q_touchtwostars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_touchtwostars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2">
+		<phrasegroup id="PROMPT">
+			<phrase>q_touchthreestars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_touchthreestars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyfrogsarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyfrogsarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyumbrellasarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyumbrellasarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanytomatoesarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanytomatoesarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q6">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyflowersarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyflowersarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q7">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyfootballsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyfootballsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q8">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyshoesarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyshoesarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q9">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanyfisharethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyfisharethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q10">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanypencilsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanypencilsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="placeObject">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="selectColour">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="colourObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="dropObject">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_spin">
+			<phrase>wheel_spin</phrase>
+		</phrasegroup>
+		<phrasegroup id="wheel_stop">
+			<phrase>wheel_stop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

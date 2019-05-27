@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+    <event id="intro">
+        <phrasegroup id="DEMO">
+            <phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+        </phrasegroup>
+    </event>
+	<event id="1a">
+		<phrasegroup id="NONE">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookatthetrees</phrase>
+			<phrase>1_thisonehasmoreoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichtreehasmoreoranges</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesfouroranges</phrase>
+			<phrase>1_threeoranges</phrase>
+			<phrase>1_fourismorethanthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_touchthetreewithmoreoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichtreehasmoreorangesthistime</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_rightsixoranges</phrase>
+			<phrase>1_fiveoranges</phrase>
+			<phrase>1_sixismorethanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_touchthetreewithmoreoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanyorangesareonthistree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthemthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_counttheorangesonthetree</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_counttheorangesonthetree</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanyareonthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthemthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_counttheorangesonthetree</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_counttheorangesonthetree</phrase>
+			<phrase>1_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fiveismorethantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanyorangesareonthistree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_counttheorangesonthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_counttheorangesonthetree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanyareonthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_counttheorangesonthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_counttheorangesonthetree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightismorethansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichtreehasmoreoranges</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookattheplates</phrase>
+			<phrase>1_thisonehasfewertomatoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesthreetomatoes</phrase>
+			<phrase>1_fivetomatoes</phrase>
+			<phrase>1_threeislessthanfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanytomatoesareonthisplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_howmanytomatoesareontheplate</phrase>
+			<phrase>1_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_countthetomatoes</phrase>
+			<phrase>1_thentouchthenumber_1l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="DEMO">
+			<phrase>1_howmanytomatoesareonthisplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_countthemthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_countthetomatoes</phrase>
+			<phrase>1_thentouchthenumber_1l</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_countthetomatoes</phrase>
+			<phrase>1_thentouchthenumber_1l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_thatsrightfiveislessthaneight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichplatehasfewertomatoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookatthebricks</phrase>
+			<phrase>1_thisstackhasonebrick</phrase>
+			<phrase>1_andthishastwo</phrase>
+			<phrase>1_twoismorethanone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichstackhasmorebricksthegreenoneortheredone</phrase>
+			<phrase>1_touchit_1o</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichstackhasmorebricksthegreenoneortheredone</phrase>
+			<phrase>1_touchit_1o</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_tenbricks</phrase>
+			<phrase>1_sevenbricks</phrase>
+			<phrase>1_tenismorethanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_whichstackhasmorebricksthegreenoneortheredone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="DEMO">
+			<phrase>1_thebluestackhasthreebricks</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichstackhasonebrickmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_thebluestackhasthreebricks</phrase>
+			<phrase>1_whichstackhasonebrickmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesfourbricks</phrase>
+			<phrase>1_fourisonemorethanthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_thebluestackhasthreebricks</phrase>
+			<phrase>1_whichstackhasonebrickmore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="DEMO">
+			<phrase>1_thisstackhassixbricks</phrase>
+			<phrase>1_andthishasfive</phrase>
+			<phrase>1_fiveisonelessthansix</phrase>
+			<phrase>1_thewhitestackhasninebricks</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichstackhasonebrickless</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_thewhitestackhasninebricks</phrase>
+			<phrase>1_whichstackhasonebrickless</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yesithaseightbricks</phrase>
+			<phrase>1_eightisonelessthannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_thewhitestackhasninebricks</phrase>
+			<phrase>1_whichstackhasonebrickless</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletsputthestacksinorder</phrase>
+			<phrase>1_watchmemovethestackoften</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_putthestacksinorderfromonetoten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_putthestacksinorderfromonetoten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1u">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowtouchthebee</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_touchthebee</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_watch</phrase>
+			<phrase>1_thebeeisflyingtotherightthenumbersaregettingbigger</phrase>
+			<phrase>1_whenyoucountupfromonethenumbersgetbigger</phrase>
+			<phrase>1_thebeeisflyingtotheleftthenumbersaregettingsmaller</phrase>
+			<phrase>1_whenyoucountbacktoonethenumbersgetsmaller</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1v">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook</phrase>
+			<phrase>1_fiveismorethantwo</phrase>
+			<phrase>1_fiveisbiggerthantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_chooseanumberthatisbiggerthanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_chooseanumberthatisbiggerthanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_chooseanumberthatisbiggerthanseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1zb">
+		<phrasegroup id="PROMPT">
+			<phrase>1_chooseanumberthatisbiggerthaneight</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_chooseanumberthatisbiggerthaneight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_chooseanumberthatisbiggerthaneight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1zb1">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlook_1zb1</phrase>
+			<phrase>1_fourislessthanseven</phrase>
+			<phrase>1_fourissmallerthanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_chooseanumberthatissmallerthanthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_chooseanumberthatissmallerthanthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_chooseanumberthatissmallerthanthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1zd">
+		<phrasegroup id="PROMPT">
+			<phrase>1_chooseanumberthatissmallerthansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_chooseanumberthatissmallerthansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_tryagain</phrase>
+			<phrase>1_chooseanumberthatissmallerthansix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_excellentyoufoundnumbersthataremorethanandlessthanothernumbersandyouputnumbersinorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="show">
+			<phrase>boing_pop</phrase>
+		</phrasegroup>
+		<phrasegroup id="hide">
+			<phrase>inhaler_puff</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_num">
+			<phrase>single_beep_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_stack">
+			<phrase>kalimba_scale_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="drag">
+			<phrase>drag</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop">
+			<phrase>squirt</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>tear_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="hide_stack">
+			<phrase>bricks_disappear</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_grow">
+			<phrase>tone_up</phrase>
+		</phrasegroup>
+	</event>
+</audio>

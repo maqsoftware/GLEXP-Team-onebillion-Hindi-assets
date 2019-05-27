@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_nowyoullseepicturesandreadsentencesaboutthem</phrase>
+			<phrase>sentences_getready</phrase>
+			<phrase>sentences_youarelearningtoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_hereisapicture</phrase>
+			<phrase>sentences_hereisasentenceaboutit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_asentencestartswithacapitalletter</phrase>
+			<phrase>sentences_thereisadotattheenditiscalledafullstop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_seeifyoucanreadoutthefirstword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentences_readouttheword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT">
+			<phrase>sentences_nowdothesameforalltheotherwords</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentences_readouttheword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_rememberwebeginatthefirstword</phrase>
+			<phrase>sentences_wereadfromlefttoright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="INTRO">
+			<phrase>sentences_heresanotherpicture</phrase>
+			<phrase>sentences_heresthesentencetoread</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>sentences_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentences_readouttheword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="INTRO">
+			<phrase>sentences_anotherpicture</phrase>
+			<phrase>sentences_andthesentence</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentences_readouttheword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sentences_readouttheword</phrase>
+			<phrase>sentences_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Finale">
+		<phrasegroup id="DEMO">
+			<phrase>sentences_verygoodyoureadsentences</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordson ">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+	</event>
+</audio>

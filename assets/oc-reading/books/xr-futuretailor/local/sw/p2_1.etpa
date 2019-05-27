@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="Siku moja, baba alizungumza na mimi na kaka yangu Juma. Aliongea kuhusu maisha yetu ya baadae. " frames="354811">
+		<timing id="0" start="0.000" end="0.319" startframe="0" framelength="14063" text="Siku"/>
+		<timing id="1" start="0.319" end="0.971" startframe="14063" framelength="28757" text="moja"/>
+		<timing id="2" start="1.207" end="1.590" startframe="53208" framelength="16930" text="baba"/>
+		<timing id="3" start="1.590" end="2.323" startframe="70138" framelength="32299" text="alizungumza"/>
+		<timing id="4" start="2.323" end="2.470" startframe="102437" framelength="6479" text="na"/>
+		<timing id="5" start="2.470" end="3.053" startframe="108916" framelength="25740" text="mimi"/>
+		<timing id="6" start="3.178" end="3.341" startframe="140141" framelength="7205" text="na"/>
+		<timing id="7" start="3.341" end="3.579" startframe="147346" framelength="10490" text="kaka"/>
+		<timing id="8" start="3.579" end="4.225" startframe="157836" framelength="28480" text="yangu"/>
+		<timing id="9" start="4.362" end="4.950" startframe="192372" framelength="25910" text="Juma"/>
+		<timing id="10" start="5.581" end="6.224" startframe="246106" framelength="28388" text="Aliongea"/>
+		<timing id="11" start="6.224" end="6.652" startframe="274494" framelength="18872" text="kuhusu"/>
+		<timing id="12" start="6.652" end="6.977" startframe="293366" framelength="14310" text="maisha"/>
+		<timing id="13" start="6.977" end="7.285" startframe="307676" framelength="13587" text="yetu"/>
+		<timing id="14" start="7.285" end="7.445" startframe="321263" framelength="7073" text="ya"/>
+		<timing id="15" start="7.445" end="8.046" startframe="328336" framelength="26475" text="baadae"/>
+	</timings>
+</xml>

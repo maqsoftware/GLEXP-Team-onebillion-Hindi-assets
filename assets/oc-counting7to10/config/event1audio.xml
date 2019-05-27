@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowletsputspotsonthefrog</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_tenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_putsevenspotsonthesnake</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_putsevenspotsonthesnake</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sevenspots</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_puteightfishinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_puteightfishinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1c</phrase>
+			<phrase>1_two_1c</phrase>
+			<phrase>1_three_1c</phrase>
+			<phrase>1_four_1c</phrase>
+			<phrase>1_five_1c</phrase>
+			<phrase>1_six_1c</phrase>
+			<phrase>1_seven_1c</phrase>
+			<phrase>1_eight_1c</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightfish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putninestarsontheflag</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_putninestarsontheflag</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1d</phrase>
+			<phrase>1_two_1d</phrase>
+			<phrase>1_three_1d</phrase>
+			<phrase>1_four_1d</phrase>
+			<phrase>1_five_1d</phrase>
+			<phrase>1_six_1d</phrase>
+			<phrase>1_seven_1d</phrase>
+			<phrase>1_eight_1d</phrase>
+			<phrase>1_nine_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_ninestars</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_puttenflowersinthesoil</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_puttenflowersinthesoil</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1e</phrase>
+			<phrase>1_two_1e</phrase>
+			<phrase>1_three_1e</phrase>
+			<phrase>1_four_1e</phrase>
+			<phrase>1_five_1e</phrase>
+			<phrase>1_six_1e</phrase>
+			<phrase>1_seven_1e</phrase>
+			<phrase>1_eight_1e</phrase>
+			<phrase>1_nine_1e</phrase>
+			<phrase>1_ten_1e</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_tenflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_puteightbirdsinthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_puteightbirdsinthetree</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1f</phrase>
+			<phrase>1_two_1f</phrase>
+			<phrase>1_three_1f</phrase>
+			<phrase>1_four_1f</phrase>
+			<phrase>1_five_1f</phrase>
+			<phrase>1_six_1f</phrase>
+			<phrase>1_seven_1f</phrase>
+			<phrase>1_eight_1f</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_eightbirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_puttenboatsinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_puttenboatsinthesea</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1g</phrase>
+			<phrase>1_two_1g</phrase>
+			<phrase>1_three_1g</phrase>
+			<phrase>1_four_1g</phrase>
+			<phrase>1_five_1g</phrase>
+			<phrase>1_six_1g</phrase>
+			<phrase>1_seven_1g</phrase>
+			<phrase>1_eight_1g</phrase>
+			<phrase>1_nine_1g</phrase>
+			<phrase>1_ten_1g</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_tenboats</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putsevenspotsonthefrog</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_putsevenspotsonthefrog</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_one_1g</phrase>
+			<phrase>1_two_1g</phrase>
+			<phrase>1_three_1g</phrase>
+			<phrase>1_four_1g</phrase>
+			<phrase>1_five_1g</phrase>
+			<phrase>1_six_1g</phrase>
+			<phrase>1_seven_1g</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_sevenspots_1h</phrase>
+			<phrase>1_verygoodyouputtherightnumberofthingseachtime</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

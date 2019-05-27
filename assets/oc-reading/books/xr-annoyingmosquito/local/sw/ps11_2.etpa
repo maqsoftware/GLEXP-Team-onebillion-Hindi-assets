@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/ps11_2.aif</url>
+	<relurl>ps11_2.aif</relurl>
+	<timings text="Mbu akabaki kimya." frames="139222">
+		<timing id="0" start="0.000" end="0.756" startframe="0" framelength="33330" text="Mbu"/>
+		<timing id="1" start="1.206" end="2.248" startframe="53205" framelength="45927" text="akabaki"/>
+		<timing id="2" start="2.672" end="3.157" startframe="117850" framelength="21372" text="kimya"/>
+	</timings>
+</xml>

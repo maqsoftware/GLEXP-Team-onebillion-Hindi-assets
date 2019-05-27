@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="8a">
+		<phrasegroup id="NONE">
+			<phrase>q_sharethecakesfairlybetweenthetwochildren</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_sharethecakesfairlybetweenthetwochildren</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8b">
+		<phrasegroup id="NONE">
+			<phrase>q_sharetheapplesfairlybetweenthetwochildren</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_sharetheapplesfairlybetweenthetwochildren</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8c">
+		<phrasegroup id="NONE">
+			<phrase>q_firstsharethebirdsintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_firstsharethebirdsintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>q_howmanybirdsareineachset</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>q_howmanybirdsareineachset</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8d">
+		<phrasegroup id="NONE">
+			<phrase>q_firstsharetheflowersintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_firstsharetheflowersintotwoequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>q_howmanyflowersareineachset</phrase>
+			<phrase>q_touchthenumber_8d</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>q_howmanyflowersareineachset</phrase>
+			<phrase>q_touchthenumber_8d</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8e">
+		<phrasegroup id="NONE">
+			<phrase>q_firstsharethecountersintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_firstsharethecountersintothreeequalsets</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>q_howmanycountersareineachset</phrase>
+			<phrase>q_touchthenumber_8e</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>q_howmanycountersareineachset</phrase>
+			<phrase>q_touchthenumber_8e</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8f">
+		<phrasegroup id="NONE">
+			<phrase>q_thegiraffesareintwoshowmanygiraffesaretherealtogether</phrase>
+			<phrase>q_touchthenumber_8f</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thegiraffesareintwoshowmanygiraffesaretherealtogether</phrase>
+			<phrase>q_touchthenumber_8f</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8g">
+		<phrasegroup id="NONE">
+			<phrase>q_thefishareinthreeshowmanyfisharetherealtogether</phrase>
+			<phrase>q_touchthenumber_8g</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thefishareinthreeshowmanyfisharetherealtogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8h">
+		<phrasegroup id="NONE">
+			<phrase>q_foursheephowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8h</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_foursheephowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8h</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8i">
+		<phrasegroup id="NONE">
+			<phrase>q_sixroseshowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8i</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_sixroseshowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8i</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="8j">
+		<phrasegroup id="NONE">
+			<phrase>q_sixbottleshowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8j</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_sixbottleshowmanygroupsoftwowilltheymake</phrase>
+			<phrase>q_touchthenumber_8j</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

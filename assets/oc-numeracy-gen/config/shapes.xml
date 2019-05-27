@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<shapes>
+		<shape id="square" category="rectangle" audio="shape_square">
+			<img name="square"/>
+		</shape>
+		<shape id="rectangle" category="rectangle" audio="shape_rectangle">
+			<img name="rectangle_1"/>
+			<img name="rectangle_2"/>
+		</shape>
+		<shape id="polygon" category="polygon">
+			<img name="polygon_1"/>
+			<img name="polygon_2"/>
+			<img name="polygon_3"/>
+		</shape>
+		<shape id="triangle" category="triangle" audio="shape_triangle">
+			<img name="triangle_1"/>
+			<img name="triangle_2"/>
+			<img name="triangle_3"/>
+			<img name="triangle_4"/>
+		</shape>
+		<shape id="hexagon" category="hexagon" audio="shape_hexagon">
+			<img name="hexagon"/>
+		</shape>
+		<shape id="pentagon" category="pentagon" audio="shape_pentagon">
+			<img name="pentagon"/>
+		</shape>
+		<shape id="parallelogram" category="parallelogram">
+			<img name="parallelogram"/>
+		</shape>
+		<shape id="oval" category="oval" audio="shape_oval">
+			<img name="oval_1"/>
+			<img name="oval_2"/>
+		</shape>
+		<shape id="circle" category="oval" audio="shape_circle">
+			<img name="circle"/>
+		</shape>
+		<shape id="half_circle" category="half_circle">
+			<img name="half_circle"/>
+		</shape>
+	</shapes>
+	<colours>
+		<colour id="1" value="235,154,169" />
+		<colour id="2" value="238,87,133" />
+		<colour id="3" value="251,26,69" />
+		<colour id="4" value="215,53,154" />
+		<colour id="5" value="188,143,214" />
+		<colour id="6" value="150,81,196" />
+		<colour id="7" value="41,57,139" />
+		<colour id="8" value="133,160,250" />
+		<colour id="9" value="37,131,234" />
+		<colour id="10" value="0,195,255" />
+		<colour id="11" value="134,235,248" />
+		<colour id="12" value="5,186,200" />
+		<colour id="13" value="0,223,133" />
+		<colour id="14" value="0,190,82" />
+		<colour id="15" value="0,113,41" />
+		<colour id="16" value="184,228,0" />
+		<colour id="17" value="255,215,51" />
+		<colour id="18" value="255,187,0" />
+		<colour id="19" value="255,157,0" />
+		<colour id="20" value="255,103,0" />
+	</colours>	
+</root>

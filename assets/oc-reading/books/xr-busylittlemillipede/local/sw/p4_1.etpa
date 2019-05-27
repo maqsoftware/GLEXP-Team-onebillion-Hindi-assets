@@ -1,0 +1,31 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Jongoo hakuwa na muda wa kuongea au kujifurahia. Siku zote alitembea haraka haraka. Asubuhi ile, alitembea haraka sana kiasi kwamba hakuliona jabali njiani kwake." frames="616769">
+		<timing id="0" start="0.000" end="0.598" startframe="0" framelength="26359" text="Jongoo"/>
+		<timing id="1" start="0.598" end="0.900" startframe="26359" framelength="13324" text="hakuwa"/>
+		<timing id="2" start="0.900" end="1.095" startframe="39683" framelength="8595" text="na"/>
+		<timing id="3" start="1.095" end="1.452" startframe="48278" framelength="15751" text="muda"/>
+		<timing id="4" start="1.452" end="1.628" startframe="64029" framelength="7753" text="wa"/>
+		<timing id="5" start="1.628" end="2.221" startframe="71782" framelength="26174" text="kuongea"/>
+		<timing id="6" start="2.221" end="2.479" startframe="97956" framelength="11373" text="au"/>
+		<timing id="7" start="2.479" end="3.757" startframe="109329" framelength="56336" text="kujifurahia"/>
+		<timing id="8" start="4.592" end="5.129" startframe="202497" framelength="23699" text="Siku"/>
+		<timing id="9" start="5.129" end="5.627" startframe="226196" framelength="21974" text="zote"/>
+		<timing id="10" start="5.627" end="6.294" startframe="248170" framelength="29392" text="alitembea"/>
+		<timing id="11" start="6.294" end="6.757" startframe="277562" framelength="20402" text="haraka"/>
+		<timing id="12" start="6.757" end="7.448" startframe="297964" framelength="30494" text="haraka"/>
+		<timing id="13" start="7.848" end="8.646" startframe="346102" framelength="35203" text="Asubuhi"/>
+		<timing id="14" start="8.646" end="9.239" startframe="381305" framelength="26153" text="ile"/>
+		<timing id="15" start="9.399" end="10.156" startframe="414478" framelength="33400" text="alitembea"/>
+		<timing id="16" start="10.156" end="10.603" startframe="447878" framelength="19726" text="haraka"/>
+		<timing id="17" start="10.603" end="11.008" startframe="467604" framelength="17829" text="sana"/>
+		<timing id="18" start="11.008" end="11.446" startframe="485433" framelength="19346" text="kiasi"/>
+		<timing id="19" start="11.446" end="11.908" startframe="504779" framelength="20351" text="kwamba"/>
+		<timing id="20" start="11.908" end="12.720" startframe="525130" framelength="35820" text="hakuliona"/>
+		<timing id="21" start="12.720" end="13.148" startframe="560950" framelength="18880" text="jabali"/>
+		<timing id="22" start="13.148" end="13.502" startframe="579830" framelength="15606" text="njiani"/>
+		<timing id="23" start="13.502" end="13.986" startframe="595436" framelength="21333" text="kwake"/>
+	</timings>
+</xml>

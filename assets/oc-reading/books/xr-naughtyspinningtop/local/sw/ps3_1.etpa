@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps3_1.aif</url>
+	<relurl>ps3_1.aif</relurl>
+	<timings text="Pia inazunguka na kuzunguka na kuzunguka. Balu na Paulina wanazunguka nayo. Wanapata kizunguzungu!" frames="834886">
+		<timing id="0" start="0.000" end="0.720" startframe="0" framelength="31734" text="Pia"/>
+		<timing id="1" start="1.064" end="2.333" startframe="46924" framelength="55950" text="inazunguka"/>
+		<timing id="2" start="2.840" end="3.575" startframe="125242" framelength="32401" text="na"/>
+		<timing id="3" start="4.019" end="5.059" startframe="177220" framelength="45863" text="kuzunguka"/>
+		<timing id="4" start="5.696" end="6.378" startframe="251211" framelength="30062" text="na"/>
+		<timing id="5" start="6.767" end="7.873" startframe="298443" framelength="48747" text="kuzunguka"/>
+		<timing id="6" start="8.451" end="9.279" startframe="372686" framelength="36516" text="Balu"/>
+		<timing id="7" start="9.993" end="10.665" startframe="440687" framelength="29633" text="na"/>
+		<timing id="8" start="11.212" end="12.237" startframe="494437" framelength="45223" text="Paulina"/>
+		<timing id="9" start="12.811" end="14.094" startframe="564966" framelength="56558" text="wanazunguka"/>
+		<timing id="10" start="14.564" end="15.441" startframe="642280" framelength="38674" text="nayo"/>
+		<timing id="11" start="15.996" end="17.143" startframe="705408" framelength="50620" text="Wanapata"/>
+		<timing id="12" start="17.780" end="18.932" startframe="784110" framelength="50776" text="kizunguzungu"/>
+	</timings>
+</xml>

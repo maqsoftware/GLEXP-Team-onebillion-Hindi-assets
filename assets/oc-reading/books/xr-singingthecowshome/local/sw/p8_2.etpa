@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p8_2.aif</url>
+	<relurl>p8_2.aif</relurl>
+	<timings text="Hatimaye, aliona shonde bichi la ng’ombe. Alijua wazi kutakuwa na ng’ombe karibu." frames="300496">
+		<timing id="0" start="0.000" end="0.848" startframe="0" framelength="37406" text="Hatimaye"/>
+		<timing id="1" start="1.043" end="1.675" startframe="46007" framelength="27876" text="aliona"/>
+		<timing id="2" start="1.675" end="2.130" startframe="73883" framelength="20062" text="shonde"/>
+		<timing id="3" start="2.130" end="2.873" startframe="93945" framelength="32775" text="bichi"/>
+		<timing id="4" start="2.873" end="3.086" startframe="126720" framelength="9389" text="la"/>
+		<timing id="5" start="3.086" end="3.721" startframe="136109" framelength="27979" text="ng’ombe"/>
+		<timing id="6" start="3.838" end="4.370" startframe="169238" framelength="23481" text="Alijua"/>
+		<timing id="7" start="4.371" end="4.883" startframe="192770" framelength="22579" text="wazi"/>
+		<timing id="8" start="4.883" end="5.648" startframe="215349" framelength="33749" text="kutakuwa"/>
+		<timing id="9" start="5.648" end="5.819" startframe="249098" framelength="7515" text="na"/>
+		<timing id="10" start="5.819" end="6.219" startframe="256613" framelength="17648" text="ng’ombe"/>
+		<timing id="11" start="6.219" end="6.814" startframe="274261" framelength="26235" text="karibu"/>
+	</timings>
+</xml>

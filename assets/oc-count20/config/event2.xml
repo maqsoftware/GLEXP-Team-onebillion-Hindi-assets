@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="2a,2b,2c,2d,2e,2f,2g,2h,2i,2j,2k,2l,2m,2n,2o,2p,2q,2r,2s" textsize="59" col0="255,253,69" col1="135,254,255" colour="244,255,226" >
+		<image id="numberbox" pos="0.501633,0.499898" src="2_numberbox" zpos="0" />
+	</event>
+	<event id="2a" >
+	</event>
+	<event id="2b" targetno="1" >
+	</event>
+	<event id="2c" targetno="11" >
+	</event>
+	<event id="2d" targetno="2" >
+	</event>
+	<event id="2e" targetno="12" >
+	</event>
+	<event id="2f" targetno="3" >
+	</event>
+	<event id="2g" targetno="13" >
+	</event>
+	<event id="2h" targetno="8" >
+	</event>
+	<event id="2i" targetno="18" >
+	</event>
+	<event id="2j" targetno="10" >
+	</event>
+	<event id="2k" targetno="20" >
+	</event>
+	<event id="2l" targetno="17" >
+	</event>
+	<event id="2m" targetno="14" >
+	</event>
+	<event id="2n" targetno="16" >
+	</event>
+	<event id="2o" targetno="19" >
+	</event>
+	<event id="2p" targetno="15" >
+	</event>
+	<event id="2q" targetno="11" >
+	</event>
+	<event id="2r" targetno="12" >
+	</event>
+	<event id="2s" targetno="13" >
+	</event>
+</events>

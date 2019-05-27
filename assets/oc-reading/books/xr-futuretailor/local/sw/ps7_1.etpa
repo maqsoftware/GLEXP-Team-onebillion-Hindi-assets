@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps7_1.aif</url>
+	<relurl>ps7_1.aif</relurl>
+	<timings text="Nilimuonyesha picha yangu Juma. Naye alijichora maisha yake ya baadae pia – alijichora kama mwalimu! Akaiweka picha yake kwenye ukuta wa chumba cha kulalia." frames="1686905">
+		<timing id="0" start="0.000" end="1.210" startframe="0" framelength="53352" text="Nilimuonyesha"/>
+		<timing id="1" start="2.059" end="2.983" startframe="90806" framelength="40723" text="picha"/>
+		<timing id="2" start="3.746" end="4.760" startframe="165209" framelength="44690" text="yangu"/>
+		<timing id="3" start="5.279" end="6.189" startframe="232791" framelength="40158" text="Juma"/>
+		<timing id="4" start="7.192" end="8.077" startframe="317181" framelength="39005" text="Naye"/>
+		<timing id="5" start="8.814" end="10.217" startframe="388677" framelength="61889" text="alijichora"/>
+		<timing id="6" start="10.839" end="11.791" startframe="478004" framelength="41971" text="maisha"/>
+		<timing id="7" start="12.397" end="13.381" startframe="546728" framelength="43363" text="yake"/>
+		<timing id="8" start="14.127" end="14.853" startframe="623016" framelength="32021" text="ya"/>
+		<timing id="9" start="15.380" end="16.477" startframe="678243" framelength="48377" text="baadae"/>
+		<timing id="10" start="17.196" end="17.919" startframe="758329" framelength="31890" text="pia"/>
+		<timing id="11" start="18.341" end="19.673" startframe="808837" framelength="58731" text="alijichora"/>
+		<timing id="12" start="20.371" end="21.249" startframe="898351" framelength="38741" text="kama"/>
+		<timing id="13" start="21.661" end="22.587" startframe="955256" framelength="40829" text="mwalimu"/>
+		<timing id="14" start="23.585" end="24.835" startframe="1040085" framelength="55126" text="Akaiweka"/>
+		<timing id="15" start="25.815" end="26.630" startframe="1138455" framelength="35950" text="picha"/>
+		<timing id="16" start="27.756" end="28.566" startframe="1224056" framelength="35694" text="yake"/>
+		<timing id="17" start="28.677" end="29.512" startframe="1264653" framelength="36837" text="kwenye"/>
+		<timing id="18" start="30.173" end="31.224" startframe="1330610" framelength="46363" text="ukuta"/>
+		<timing id="19" start="32.208" end="33.044" startframe="1420366" framelength="36895" text="wa"/>
+		<timing id="20" start="33.747" end="34.538" startframe="1488261" framelength="34851" text="chumba"/>
+		<timing id="21" start="34.987" end="35.808" startframe="1542910" framelength="36217" text="cha"/>
+		<timing id="22" start="36.163" end="37.424" startframe="1594792" framelength="55617" text="kulalia"/>
+	</timings>
+</xml>

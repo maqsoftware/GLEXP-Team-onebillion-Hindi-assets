@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_letscolourthesocksyellow</phrase>
+			<phrase>4_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_colourthesocksred</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthesocksred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourtheshoesblack</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourtheshoesblack</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourtheplatesblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourtheplatesblue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthecupspink</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthecupspink</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthestarsyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthestarsyellow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthecirclesblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthecirclesblue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thistimecolourthecirclesorange</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_thistimecolourthecirclesorange</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextcolourthestarspink</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_nextcolourthestarspink</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthesquaresgrey</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthesquaresgrey</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthesestarsgrey</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthesestarsgrey</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthecirclesgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthecirclesgreen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_colourthetrianglesbrown</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_colourthetrianglesbrown</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowcolourinallthewhitepartsofthispicture</phrase>
+			<phrase>4_seeifyoucanuseallthecolours</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>4_nowcolourinallthewhitepartsofthispicture</phrase>
+			<phrase>4_seeifyoucanuseallthecolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_goodyouusedninedifferentcoloursinthissection</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

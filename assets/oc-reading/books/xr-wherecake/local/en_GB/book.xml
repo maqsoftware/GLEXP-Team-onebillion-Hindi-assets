@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-wherecakeEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>Where is the cake?</para>
+	</page>
+	<page pageno="1">
+		<para>A cake is hid/ing. Where?</para>
+	</page>
+	<page pageno="2">
+		<para>Mi/na and Peng look at the map, for clues.</para>
+	</page>
+	<page pageno="3">
+		<para>Then Peng looks un/der the ta/ble.</para>
+	</page>
+	<page pageno="4">
+		<para>No cake there!</para>
+	</page>
+	<page pageno="5">
+		<para>Mi/na looks up the tree.</para>
+	</page>
+	<page pageno="6">
+		<para>No cake there!</para>
+	</page>
+	<page pageno="7">
+		<para>Mi/na and Peng look at the map a/gain.</para>
+	</page>
+	<page pageno="8">
+		<para>They look be/hind the bush.</para>
+	</page>
+	<page pageno="9">
+		<para>There is the cake!</para>
+	</page>
+</book>

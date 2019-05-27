@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p6_1.aif</url>
+	<relurl>p6_1.aif</relurl>
+	<timings text="Pia inazunguka juu ya mikono ya Balu. Anaiweka sakafuni." frames="207342">
+		<timing id="0" start="0.000" end="0.345" startframe="0" framelength="15194" text="Pia"/>
+		<timing id="1" start="0.345" end="1.107" startframe="15194" framelength="33606" text="inazunguka"/>
+		<timing id="2" start="1.107" end="1.382" startframe="48800" framelength="12136" text="juu"/>
+		<timing id="3" start="1.382" end="1.464" startframe="60936" framelength="3645" text="ya"/>
+		<timing id="4" start="1.464" end="1.901" startframe="64581" framelength="19261" text="mikono"/>
+		<timing id="5" start="1.901" end="2.074" startframe="83842" framelength="7603" text="ya"/>
+		<timing id="6" start="2.074" end="2.610" startframe="91445" framelength="23634" text="Balu"/>
+		<timing id="7" start="3.205" end="3.928" startframe="141337" framelength="31867" text="Anaiweka"/>
+		<timing id="8" start="3.928" end="4.702" startframe="173204" framelength="34138" text="sakafuni"/>
+	</timings>
+</xml>

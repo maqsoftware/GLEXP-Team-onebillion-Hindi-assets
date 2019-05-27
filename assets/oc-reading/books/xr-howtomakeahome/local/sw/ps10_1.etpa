@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps10_1.aif</url>
+	<relurl>ps10_1.aif</relurl>
+	<timings text="Wanakijiji walimfanya Moni kama ndugu yao." frames="342100">
+		<timing id="0" start="0.000" end="1.164" startframe="0" framelength="51318" text="Wanakijiji"/>
+		<timing id="1" start="2.118" end="3.428" startframe="93424" framelength="57729" text="walimfanya"/>
+		<timing id="2" start="3.855" end="4.669" startframe="170000" framelength="35886" text="Moni"/>
+		<timing id="3" start="5.077" end="5.838" startframe="223892" framelength="33563" text="kama"/>
+		<timing id="4" start="6.200" end="7.021" startframe="273411" framelength="36215" text="ndugu"/>
+		<timing id="5" start="7.260" end="7.757" startframe="320147" framelength="21953" text="yao"/>
+	</timings>
+</xml>

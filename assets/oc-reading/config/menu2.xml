@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+        <image id="button1" pos="0.172085,0.364568" src="menubutton1" zpos="0.001" target="X_Reading" config="x-reading/books/xr-tshirt" parm="1/autoread" />
+        <image id="button2" pos="0.384933,0.363556" src="menubutton2" zpos="0.002" target="X_ReadingRec" config="x-reading/books/xr-tshirt" parm="1/record" />
+        <image id="button3" pos="0.597782,0.363358" src="menubutton3" zpos="0.002" target="X_Reading" config="x-reading/books/xr-tshirt" parm="0"  />
+	</event>
+</events>

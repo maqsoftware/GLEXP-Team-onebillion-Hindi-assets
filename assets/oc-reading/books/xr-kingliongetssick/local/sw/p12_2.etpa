@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="Na hadi leo, Fisi anawawinda Sungura, lakini wote wawili hukaa mbali na Simba!" frames="286054">
+		<timing id="0" start="0.000" end="0.177" startframe="0" framelength="7808" text="Na"/>
+		<timing id="1" start="0.177" end="0.455" startframe="7808" framelength="12259" text="hadi"/>
+		<timing id="2" start="0.455" end="1.059" startframe="20067" framelength="26613" text="leo"/>
+		<timing id="3" start="1.296" end="1.776" startframe="57137" framelength="21192" text="Fisi"/>
+		<timing id="4" start="1.776" end="2.514" startframe="78329" framelength="32546" text="anawawinda"/>
+		<timing id="5" start="2.514" end="3.255" startframe="110875" framelength="32676" text="Sungura"/>
+		<timing id="6" start="3.539" end="3.953" startframe="156089" framelength="18241" text="lakini"/>
+		<timing id="7" start="3.953" end="4.489" startframe="174330" framelength="23644" text="wote"/>
+		<timing id="8" start="4.489" end="5.107" startframe="197974" framelength="27231" text="wawili"/>
+		<timing id="9" start="5.107" end="5.476" startframe="225205" framelength="16271" text="hukaa"/>
+		<timing id="10" start="5.476" end="5.850" startframe="241476" framelength="16495" text="mbali"/>
+		<timing id="11" start="5.850" end="5.993" startframe="257971" framelength="6339" text="na"/>
+		<timing id="12" start="5.993" end="6.486" startframe="264310" framelength="21744" text="Simba"/>
+	</timings>
+</xml>

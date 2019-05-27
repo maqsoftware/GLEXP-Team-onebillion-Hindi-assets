@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl4_mambo.aif</url>
+	<relurl>psyl4_mambo.aif</relurl>
+	<timings text="ma - mbo" frames="51717">
+		<timing id="0" start="0.000" end="0.569" startframe="0" framelength="25078" text="ma"/>
+		<timing id="1" start="0.810" end="1.173" startframe="35704" framelength="16013" text="mbo"/>
+	</timings>
+</xml>

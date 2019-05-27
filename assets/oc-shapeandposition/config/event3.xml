@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j" colour="232,252,196" >
+		<image id="IMG_0095" pos="0.5,0.5" src="IMG_0095" zpos="0" />
+		<circle id="face" pos="0.499023,0.50268" src="face" fill="255,254,230" stroke="0,0,0" strokewidth="6" zpos="1.001" widthtracksheight="true" x="0.271484" y="0.199295" width="0.455078" height="0.606771" pxwidth="466" pxheight="466" />
+		<vector id="button" pos="0.0820312,0.851562" src="3_button" scalex="0.40184" scaley="0.40184" zpos="1" />
+		<vector id="dialpointer" pos="0.503537,0.264896" parent="face" src="3_pointer" zpos="1.002" />
+		<path id="marker_0" pos="0.500429,0.169018" src="marker_0" fill="255,38,0" stroke="0,0,0" strokewidth="2" zpos="1.005" d="M0.5077 0.1849L0.5077 0.1531L0.4932 0.1531L0.4932 0.1849L0.5077 0.1849Z" />
+		<rectangle id="marker_1" pos="0.749112,0.501671" src="marker_1" fill="105,204,245" stroke="0,0,0" strokewidth="2" zpos="1.003" x="0.737204" y="0.491984" width="0.0238171" height="0.0193736" />
+		<path id="marker_2" pos="0.500429,0.835107" src="marker_2" fill="105,204,245" stroke="0,0,0" strokewidth="2" zpos="1.006" d="M0.5077 0.851L0.5077 0.8192L0.4932 0.8192L0.4932 0.851L0.5077 0.851Z" />
+		<rectangle id="marker_3" pos="0.251166,0.501671" src="marker_3" fill="105,204,245" stroke="0,0,0" strokewidth="2" zpos="1.004" x="0.239258" y="0.491984" width="0.0238171" height="0.0193736" />
+		<rectangle id="swatch" pos="0.157907,0.357389" src="swatch" fill="218,244,250" stroke="0,0,0" strokewidth="1" zpos="1.007" hidden="true" x="0.124603" y="0.314265" width="0.0666084" height="0.0862478" />
+	</event>
+	<event id="3a" >
+	</event>
+	<event id="3b" revs="1" >
+	</event>
+	<event id="3c" revs="1" >
+	</event>
+	<event id="3d" revs="0.5" >
+	</event>
+	<event id="3e" revs="1" leave="true" >
+	</event>
+	<event id="3f" revs="0.25" >
+	</event>
+	<event id="3g" revs="0.5" leave="true" >
+	</event>
+	<event id="3h" revs="0.75" leave="true" >
+	</event>
+	<event id="3i" revs="1" leave="true" >
+	</event>
+	<event id="3j" revs="0.75" >
+		<vector id="button" pos="0.0820312,0.851562" src="3_button" scalex="0.40184" scaley="0.40184" zpos="3" />
+	</event>
+	<event id="masterb" scenes="3k,3l,3m" colour="232,252,196" >
+		<circle id="face1" pos="0.255371,0.470703" src="face1" fill="255,254,230" stroke="0,0,0" strokewidth="4" zpos="0" widthtracksheight="true" x="0.0976562" y="0.260417" width="0.31543" height="0.420573" pxwidth="323" pxheight="323" />
+		<circle id="face2" pos="0.744225,0.470703" src="face2" fill="255,254,230" stroke="0,0,0" strokewidth="4" zpos="0.007" widthtracksheight="true" x="0.58651" y="0.260417" width="0.31543" height="0.420573" pxwidth="323" pxheight="323" />
+		<vector id="button" pos="0.0820312,0.851562" src="3_button" scalex="0.40184" scaley="0.40184" zpos="0.006" />
+		<vector id="dialpointer1" pos="0.500181,0.26161" parent="face1" src="3_pointer" scalex="0.7" scaley="0.7" zpos="0.001" />
+		<vector id="dialpointer2" pos="0.500181,0.26161" parent="face2" src="3_pointer" scalex="0.7" scaley="0.7" zpos="0.008" />
+		<rectangle id="marker1_0" pos="0.501367,-0.0434721" parent="face1" src="marker1_0" fill="255,38,0" stroke="0,0,0" strokewidth="1.3" zpos="0.002" x="0.484714" y="-0.0698741" width="0.0333059" height="0.0528039" />
+		<path id="marker1_1" pos="1.0432,0.501435" parent="face1" src="marker1_1" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.003" d="M1.07 0.5181L1.07 0.4848L1.017 0.4848L1.017 0.5181L1.07 0.5181Z" />
+		<rectangle id="marker1_2" pos="0.501367,1.04481" parent="face1" src="marker1_2" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.005" x="0.484714" y="1.0184" width="0.0333059" height="0.0528039" />
+		<path id="marker1_3" pos="-0.0448055,0.501435" parent="face1" src="marker1_3" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.004" d="M-0.0184 0.5181L-0.0184 0.4848L-0.07121 0.4848L-0.07121 0.5181L-0.0184 0.5181Z" />
+		<rectangle id="marker2_0" pos="0.501367,-0.0434721" parent="face2" src="marker2_0" fill="255,38,0" stroke="0,0,0" strokewidth="1.3" zpos="0.009" x="0.484714" y="-0.0698741" width="0.0333059" height="0.0528039" />
+		<path id="marker2_1" pos="1.0432,0.501435" parent="face2" src="marker2_1" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.01" d="M1.07 0.5181L1.07 0.4848L1.017 0.4848L1.017 0.5181L1.07 0.5181Z" />
+		<rectangle id="marker2_2" pos="0.501367,1.04481" parent="face2" src="marker2_2" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.012" x="0.484714" y="1.0184" width="0.0333059" height="0.0528039" />
+		<path id="marker2_3" pos="-0.0448055,0.501435" parent="face2" src="marker2_3" fill="105,204,245" stroke="0,0,0" strokewidth="1.3" zpos="0.011" d="M-0.0184 0.5181L-0.0184 0.4848L-0.07121 0.4848L-0.07121 0.5181L-0.0184 0.5181Z" />
+		<rectangle id="swatch" pos="0.157907,0.357389" src="swatch" fill="218,244,250" stroke="0,0,0" strokewidth="1" zpos="0.013" hidden="true" x="0.124603" y="0.314265" width="0.0666084" height="0.0862478" />
+	</event>
+	<event id="3k" revs1="0.25" revs2="0.5" answers="1,0,1" >
+	</event>
+	<event id="3l" revs1="1" revs2="0.5" answers="1,0,0" >
+	</event>
+	<event id="3m" revs1="0.25" revs2="0.75" answers="1,0,1" >
+	</event>
+	<event id="masterc" scenes="3n,3o-1,3o-2,3o-3,3o-4,3p-1,3p-2,3q-1,3q-2,3r-1,3r-2,3s-1,3s-2" colour="232,252,196" >
+		<image id="IMG_0099" pos="0.5,0.5" src="IMG_0099" zpos="0" />
+		<circle id="face" pos="0.499023,0.50268" src="face" stroke="0,0,0" strokeopacity="0.249939" strokewidth="6" zpos="1" widthtracksheight="true" x="0.271484" y="0.199295" width="0.455078" height="0.606771" pxwidth="466" pxheight="466" />
+		<circle id="hub" pos="0.501106,0.494027" parent="face" src="hub" fill="0,0,0" fillopacity="0.255027" zpos="1.004" x="0.475024" y="0.467945" width="0.0521644" height="0.0521644" />
+		<rectangle id="marker_0" pos="0.500639,-0.0495176" parent="face" src="marker_0" fill="255,38,0" stroke="0,0,0" strokewidth="0.25" zpos="1.005" x="0.49334" y="-0.0780076" width="0.0145981" height="0.0569801" />
+		<path id="marker_1" pos="1.04853,0.50242" parent="face" src="marker_1" fill="0,0,0" fillopacity="0.255027" stroke="0,0,0" strokewidth="0.25" zpos="1.003" d="M1.077 0.5097L1.077 0.4951L1.02 0.4951L1.02 0.5097L1.077 0.5097Z" />
+		<rectangle id="marker_2" pos="0.500601,1.05055" parent="face" src="marker_2" fill="0,0,0" fillopacity="0.255027" stroke="0,0,0" strokewidth="0.25" zpos="1.001" x="0.493302" y="1.02206" width="0.0145981" height="0.0569801" />
+		<path id="marker_3" pos="-0.0453096,0.50242" parent="face" src="marker_3" fill="0,0,0" fillopacity="0.255027" stroke="0,0,0" strokewidth="0.25" zpos="1.002" d="M-0.01682 0.5097L-0.01682 0.4951L-0.0738 0.4951L-0.0738 0.5097L-0.01682 0.5097Z" />
+		<rectangle id="swatch" pos="0.157907,0.357389" src="swatch" fill="92,160,215" stroke="0,0,0" strokewidth="1" zpos="1.006" hidden="true" x="0.124603" y="0.314265" width="0.0666084" height="0.0862478" />
+	</event>
+	<event id="3n" >
+		<vector id="dialpointer" pos="0.504292,0.257385" parent="face" src="3_arrow" zpos="3" />
+	</event>
+	<event id="3o-1" answer="0.25" >
+	</event>
+	<event id="3o-2" answer="0.5" >
+	</event>
+	<event id="3o-3" answer="0.75" >
+	</event>
+	<event id="3o-4" answer="1" >
+	</event>
+	<event id="3p-1" answer="0.5" >
+		<vector id="dialpointer" pos="0.501766,0.352481" src="3_pencil" scalex="0.738" scaley="0.738055" zpos="3" />
+	</event>
+	<event id="3p-2" answer="0.75" >
+	</event>
+	<event id="3q-1" answer="0.25" >
+		<vector id="dialpointer" pos="0.500488,0.35612" src="3_toothbrush" scalex="1.049" scaley="1.04894" zpos="3" />
+	</event>
+	<event id="3q-2" answer="1" >
+	</event>
+	<event id="3r-1" answer="0.25" >
+		<vector id="dialpointer" pos="0.500198,0.356023" src="3_leaf" scalex="0.607" scaley="0.607105" zpos="3" />
+	</event>
+	<event id="3r-2" answer="0.5" leave="true" >
+	</event>
+	<event id="3s-1" answer="0.5" >
+		<vector id="dialpointer" pos="0.500401,0.357831" src="3_spoon" scalex="0.686" scaley="0.686031" zpos="3" />
+	</event>
+	<event id="3s-2" answer="1" leave="true" >
+	</event>
+</events>

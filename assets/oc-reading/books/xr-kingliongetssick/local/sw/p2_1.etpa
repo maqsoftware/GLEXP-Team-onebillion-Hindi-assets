@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="Wanyama waliandaa sherehe kubwa kwa mfalme mpya. Kwa wiki nzima, walikula, wakanywa, na wakaimba na kucheza." frames="447167">
+		<timing id="0" start="0.000" end="0.633" startframe="0" framelength="27895" text="Wanyama"/>
+		<timing id="1" start="0.633" end="1.335" startframe="27895" framelength="30961" text="waliandaa"/>
+		<timing id="2" start="1.335" end="1.923" startframe="58856" framelength="25970" text="sherehe"/>
+		<timing id="3" start="1.923" end="2.548" startframe="84826" framelength="27548" text="kubwa"/>
+		<timing id="4" start="2.548" end="2.763" startframe="112374" framelength="9462" text="kwa"/>
+		<timing id="5" start="2.763" end="3.272" startframe="121836" framelength="22473" text="mfalme"/>
+		<timing id="6" start="3.272" end="3.794" startframe="144309" framelength="22985" text="mpya"/>
+		<timing id="7" start="4.638" end="4.863" startframe="204543" framelength="9917" text="Kwa"/>
+		<timing id="8" start="4.863" end="5.176" startframe="214460" framelength="13807" text="wiki"/>
+		<timing id="9" start="5.176" end="5.917" startframe="228267" framelength="32657" text="nzima"/>
+		<timing id="10" start="6.302" end="7.179" startframe="277928" framelength="38649" text="walikula"/>
+		<timing id="11" start="7.351" end="8.188" startframe="324195" framelength="36897" text="wakanywa"/>
+		<timing id="12" start="8.597" end="8.772" startframe="379135" framelength="7699" text="na"/>
+		<timing id="13" start="8.772" end="9.412" startframe="386834" framelength="28223" text="wakaimba"/>
+		<timing id="14" start="9.412" end="9.551" startframe="415057" framelength="6152" text="na"/>
+		<timing id="15" start="9.551" end="10.140" startframe="421209" framelength="25958" text="kucheza"/>
+	</timings>
+</xml>

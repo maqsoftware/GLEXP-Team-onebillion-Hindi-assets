@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="l">
+		<phrasegroup id="DEMO">
+			<phrase>L_listentotheproblem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l1">
+		<phrasegroup id="PROMPT">
+			<phrase>L_thereare2applesinabasket</phrase>
+			<phrase>L_thereare3applesinabasket</phrase>
+			<phrase>L_thereare4applesinabasket</phrase>
+			<phrase>L_thereare5applesinabasket</phrase>
+			<phrase>L_thereare6applesinabasket</phrase>
+			<phrase>L_thereare7applesinabasket</phrase>
+			<phrase>L_thereare8applesinabasket</phrase>
+			<phrase>L_thereare9applesinabasket</phrase>
+			<phrase>L_thereare10applesinabasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>L_itake1appleoutofthebasket</phrase>
+			<phrase>L_itake2applesoutofthebasket</phrase>
+			<phrase>L_itake3applesoutofthebasket</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>L_howmanyapplesarethereinthebasketnow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l2">
+		<phrasegroup id="PROMPT">
+			<phrase>L_thereare2seedsinapot</phrase>
+			<phrase>L_thereare3seedsinapot</phrase>
+			<phrase>L_thereare4seedsinapot</phrase>
+			<phrase>L_thereare5seedsinapot</phrase>
+			<phrase>L_thereare6seedsinapot</phrase>
+			<phrase>L_thereare7seedsinapot</phrase>
+			<phrase>L_thereare8seedsinapot</phrase>
+			<phrase>L_thereare9seedsinapot</phrase>
+			<phrase>L_thereare10seedsinapot</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>L_itake1seedoutofthepot</phrase>
+			<phrase>L_itake2seedsoutofthepot</phrase>
+			<phrase>L_itake3seedsoutofthepot</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>L_howmanyseedsarethereinthepotnow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l3">
+		<phrasegroup id="PROMPT">
+			<phrase>L_thereare2chairsintheroom</phrase>
+			<phrase>L_thereare3chairsintheroom</phrase>
+			<phrase>L_thereare4chairsintheroom</phrase>
+			<phrase>L_thereare5chairsintheroom</phrase>
+			<phrase>L_thereare6chairsintheroom</phrase>
+			<phrase>L_thereare7chairsintheroom</phrase>
+			<phrase>L_thereare8chairsintheroom</phrase>
+			<phrase>L_thereare9chairsintheroom</phrase>
+			<phrase>L_thereare10chairsintheroom</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>L_dadtakesaway1chair</phrase>
+			<phrase>L_dadtakesaway2chairs</phrase>
+			<phrase>L_dadtakesaway3chairs</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>L_howmanychairsarethereintheroomnow</phrase>
+		</phrasegroup>
+	</event>
+</audio>

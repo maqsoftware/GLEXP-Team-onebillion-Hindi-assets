@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_letscount</phrase>
+			<phrase>6_touchthecirclesinorderandcountwithme</phrase>
+			<phrase>6_starthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>6_touchtheyellowcircleandcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheyellowcircleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_ninetyone</phrase>
+			<phrase>6_ninetytwo</phrase>
+			<phrase>6_ninetythree</phrase>
+			<phrase>6_ninetyfour</phrase>
+			<phrase>6_ninetyfive</phrase>
+			<phrase>6_ninetysix</phrase>
+			<phrase>6_ninetyseven</phrase>
+			<phrase>6_ninetyeight</phrase>
+			<phrase>6_ninetynine</phrase>
+			<phrase>6_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowwhatcomesafteronehundred</phrase>
+			<phrase>6_touchandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheyellowcircleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandone</phrase>
+			<phrase>6_onehundredandtwo</phrase>
+			<phrase>6_onehundredandthree</phrase>
+			<phrase>6_onehundredandfour</phrase>
+			<phrase>6_onehundredandfive</phrase>
+			<phrase>6_onehundredandsix</phrase>
+			<phrase>6_onehundredandseven</phrase>
+			<phrase>6_onehundredandeight</phrase>
+			<phrase>6_onehundredandnine</phrase>
+			<phrase>6_onehundredandten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_whatcomesafteronehundredandten</phrase>
+			<phrase>6_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheyellowcircleandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandeleven</phrase>
+			<phrase>6_onehundredandtwelve</phrase>
+			<phrase>6_onehundredandthirteen</phrase>
+			<phrase>6_onehundredandfourteen</phrase>
+			<phrase>6_onehundredandfifteen</phrase>
+			<phrase>6_onehundredandsixteen</phrase>
+			<phrase>6_onehundredandseventeen</phrase>
+			<phrase>6_onehundredandeighteen</phrase>
+			<phrase>6_onehundredandnineteen</phrase>
+			<phrase>6_onehundredandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookatallthebignumbers</phrase>
+			<phrase>6_fromninetyone</phrase>
+			<phrase>6_toonehundredandtwenty</phrase>
+			<phrase>6_letspracticewiththem</phrase>
+			<phrase>6_touchthegreencirclesinorderandcountwithme</phrase>
+			<phrase>6_starthere_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthecolouredcirclesinorderandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_ninetyeight</phrase>
+			<phrase>6_ninetynine</phrase>
+			<phrase>6_onehundred</phrase>
+			<phrase>6_onehundredandone</phrase>
+			<phrase>6_onehundredandtwo</phrase>
+			<phrase>6_onehundredandthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_dothesamefortheyellowcircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthecolouredcirclesinorderandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandseven</phrase>
+			<phrase>6_onehundredandeight</phrase>
+			<phrase>6_onehundredandnine</phrase>
+			<phrase>6_onehundredandten</phrase>
+			<phrase>6_onehundredandeleven</phrase>
+			<phrase>6_onehundredandtwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowforthebluecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthecolouredcirclesinorderandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandfifteen</phrase>
+			<phrase>6_onehundredandsixteen</phrase>
+			<phrase>6_onehundredandseventeen</phrase>
+			<phrase>6_onehundredandeighteen</phrase>
+			<phrase>6_onehundredandnineteen</phrase>
+			<phrase>6_onehundredandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_thistimeletscountbackwards</phrase>
+			<phrase>6_starthere_6g</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthecolouredcirclesgoingbackwardsandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandten</phrase>
+			<phrase>6_onehundredandnine</phrase>
+			<phrase>6_onehundredandeight</phrase>
+			<phrase>6_onehundredandseven</phrase>
+			<phrase>6_onehundredandsix</phrase>
+			<phrase>6_onehundredandfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_backwardsagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchthecolouredcirclesgoingbackwardsandcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_onehundredandthree</phrase>
+			<phrase>6_onehundredandtwo</phrase>
+			<phrase>6_onehundredandone</phrase>
+			<phrase>6_onehundred</phrase>
+			<phrase>6_ninetynine</phrase>
+			<phrase>6_ninetyeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i1">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowletsfindsomenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_findninetythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findninetythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findninetythree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i2">
+		<phrasegroup id="PROMPT">
+			<phrase>6_wheresninetyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_wheresninetyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_wheresninetyfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i3">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findninetyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findninetyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findninetyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l1">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseonehundredandfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_chooseonehundredandfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_chooseonehundredandfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l2">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findonehundredandsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findonehundredandsix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findonehundredandsix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l3">
+		<phrasegroup id="PROMPT">
+			<phrase>6_wheresonehundredandseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_wheresonehundredandseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_wheresonehundredandseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o1">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findonehundredandseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findonehundredandseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findonehundredandseventeen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o2">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatcomesafteronehundredandseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_whatcomesafteronehundredandseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whatcomesafteronehundredandseventeen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o3">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findonehundredandnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findonehundredandnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findonehundredandnineteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6r1">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findonehundredandeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findonehundredandeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findonehundredandeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6r2">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseonehundredandtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_chooseonehundredandtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_chooseonehundredandtwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6r3">
+		<phrasegroup id="PROMPT">
+			<phrase>6_wheresonehundredandthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_wheresonehundredandthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_wheresonehundredandthirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u1">
+		<phrasegroup id="PROMPT">
+			<phrase>6_findonehundredandnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_findonehundredandnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_findonehundredandnine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u2">
+		<phrasegroup id="PROMPT">
+			<phrase>6_wheresonehundredandtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_wheresonehundredandtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_wheresonehundredandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u3">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseonehundredandone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_chooseonehundredandone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_chooseonehundredandone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u4">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumbercomesafterninetytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_whichnumbercomesafterninetytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumbercomesafterninetytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u5">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatcomesafteronehundredandfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_whatcomesafteronehundredandfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whatcomesafteronehundredandfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u6">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whatcomesafteronehundredandnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_whatcomesafteronehundredandnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whatcomesafteronehundredandnineteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6u7">
+		<phrasegroup id="PROMPT">
+			<phrase>6_whichnumbercomesafteronehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_whichnumbercomesafteronehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_whichnumbercomesafteronehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zb">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlooksomenumbershavefallenwatchme</phrase>
+			<phrase>6_yourturn</phrase>
+			<phrase>6_puttheothernumbersintoplace</phrase>
+			<phrase>6_whenyouhavefinishedpressthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_fillinthemissingnumbers</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_youmustputallthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_trytheseagain</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zc">
+		<phrasegroup id="PROMPT">
+			<phrase>6_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_fillinthemissingnumbers</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_youmustputallthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_trytheseagain</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zd">
+		<phrasegroup id="PROMPT">
+			<phrase>6_thelastset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_fillinthemissingnumbers</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_youmustputallthenumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_trytheseagain</phrase>
+			<phrase>6_thenpressthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_welldone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zda">
+		<phrasegroup id="DEMO">
+			<phrase>6_soletshaveonelastcount</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_countwithme</phrase>
+			<phrase>6_ninetyone</phrase>
+			<phrase>6_ninetytwo</phrase>
+			<phrase>6_ninetythree</phrase>
+			<phrase>6_ninetyfour</phrase>
+			<phrase>6_ninetyfive</phrase>
+			<phrase>6_ninetysix</phrase>
+			<phrase>6_ninetyseven</phrase>
+			<phrase>6_ninetyeight</phrase>
+			<phrase>6_ninetynine</phrase>
+			<phrase>6_onehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zdb">
+		<phrasegroup id="PROMPT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_letscountagain</phrase>
+			<phrase>6_onehundredandone</phrase>
+			<phrase>6_onehundredandtwo</phrase>
+			<phrase>6_onehundredandthree</phrase>
+			<phrase>6_onehundredandfour</phrase>
+			<phrase>6_onehundredandfive</phrase>
+			<phrase>6_onehundredandsix</phrase>
+			<phrase>6_onehundredandseven</phrase>
+			<phrase>6_onehundredandeight</phrase>
+			<phrase>6_onehundredandnine</phrase>
+			<phrase>6_onehundredandten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6zdc">
+		<phrasegroup id="PROMPT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheflashingcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_countonelasttime</phrase>
+			<phrase>6_onehundredandeleven</phrase>
+			<phrase>6_onehundredandtwelve</phrase>
+			<phrase>6_onehundredandthirteen</phrase>
+			<phrase>6_onehundredandfourteen</phrase>
+			<phrase>6_onehundredandfifteen</phrase>
+			<phrase>6_onehundredandsixteen</phrase>
+			<phrase>6_onehundredandseventeen</phrase>
+			<phrase>6_onehundredandeighteen</phrase>
+			<phrase>6_onehundredandnineteen</phrase>
+			<phrase>6_onehundredandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_brilliantyoucountedpastonehundredyougottoonehundredandtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide_on">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_fly">
+			<phrase>numbers_fly_out</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_appear">
+			<phrase>button_apper</phrase>
+		</phrasegroup>
+		<phrasegroup id="number_click">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+	</event>
+</audio>

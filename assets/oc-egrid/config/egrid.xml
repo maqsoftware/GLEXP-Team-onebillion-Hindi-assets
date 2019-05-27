@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" lowlight_colour="218,218,218" >
+		<rectangle id="work_rect" pos="0.5,0.546674" src="work_rect" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0" hidden="true" heighttrackswidth="true" x="0.0155525" y="0.111328" width="0.968895" height="0.870692" pxwidth="992.148" pxheight="668.691" />
+		<path id="line" pos="0.497573,0.0875953" parent="work_rect" src="line" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="0.001" hidden="true" d="M0.03329 0.0876L0.9619 0.0876" />
+	</event>
+</events>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="65" >
+		<rectangle id="imagebox" pos="0.5,0.304265" src="imagebox" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0429688" y="0.0523122" width="0.914062" height="0.503906" pxwidth="936" pxheight="387" />
+		<vector id="presenter" anchor="0.5,1" pos="0.514656,1.04948" src="anna" zpos="0.002" hidden="true" />
+		<vector id="recording_button" pos="0.5,0.929036" src="recording_button" scalex="0.632741" scaley="0.632741" zpos="0.004" hidden="true" />
+		<rectangle id="textbox" pos="0.50071,0.693186" src="textbox" fill="255,255,255" zpos="0.001" hidden="true" x="0.0826149" y="0.635071" width="0.836189" height="0.116231" />
+		<rectangle id="wordback" pos="0.0960999,0.735316" src="wordback" fill="248,213,212" stroke="250,211,90" strokewidth="1" zpos="0.003" hidden="true" x="0.0524101" y="0.695714" width="0.0873795" height="0.0792033" />
+	</event>
+</events>

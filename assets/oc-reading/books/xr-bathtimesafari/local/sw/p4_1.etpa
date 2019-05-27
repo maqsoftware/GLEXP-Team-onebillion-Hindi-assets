@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Kwa bahati, mamba huyu alikuwa rafiki mno. Jack anampandia mgongoni. Safari yake wakati wa kuoga imeanza!" frames="420572">
+		<timing id="0" start="0.000" end="0.161" startframe="0" framelength="7089" text="Kwa"/>
+		<timing id="1" start="0.161" end="0.902" startframe="7089" framelength="32679" text="bahati"/>
+		<timing id="2" start="1.309" end="1.756" startframe="57724" framelength="19731" text="mamba"/>
+		<timing id="3" start="1.756" end="2.108" startframe="77455" framelength="15489" text="huyu"/>
+		<timing id="4" start="2.108" end="2.562" startframe="92944" framelength="20039" text="alikuwa"/>
+		<timing id="5" start="2.562" end="3.117" startframe="112983" framelength="24464" text="rafiki"/>
+		<timing id="6" start="3.117" end="3.575" startframe="137447" framelength="20212" text="mno"/>
+		<timing id="7" start="4.388" end="4.827" startframe="193506" framelength="19371" text="Jack"/>
+		<timing id="8" start="4.827" end="5.558" startframe="212877" framelength="32237" text="anampandia"/>
+		<timing id="9" start="5.558" end="6.343" startframe="245114" framelength="34619" text="mgongoni"/>
+		<timing id="10" start="7.108" end="7.605" startframe="313477" framelength="21907" text="Safari"/>
+		<timing id="11" start="7.605" end="7.961" startframe="335384" framelength="15679" text="yake"/>
+		<timing id="12" start="7.961" end="8.319" startframe="351063" framelength="15804" text="wakati"/>
+		<timing id="13" start="8.319" end="8.477" startframe="366867" framelength="6982" text="wa"/>
+		<timing id="14" start="8.477" end="8.918" startframe="373849" framelength="19432" text="kuoga"/>
+		<timing id="15" start="8.918" end="9.537" startframe="393281" framelength="27291" text="imeanza"/>
+	</timings>
+</xml>

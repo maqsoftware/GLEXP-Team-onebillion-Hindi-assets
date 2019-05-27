@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_atriangle</phrase>
+			<phrase>4_atriangle</phrase>
+			<phrase>4_atriangle</phrase>
+			<phrase>4_atriangle</phrase>
+			<phrase>4_acircle</phrase>
+			<phrase>4_thecircleistheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+			<phrase>4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichshapeistheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapeistheoddoneoutthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_whichshapeistheoddoneoutthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichshapeistheoddoneoutthistime</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_whichshapeistheoddoneouthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_whichshapeistheoddoneouthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_whichshapeistheoddoneouthere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosetheoddoneout</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_verygoodyouchosetheshapethatwasdifferentineachset</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>1_a</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>1_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>1_c</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>1_d</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>1_e</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>1_f</phrase>
+		</phrasegroup>
+	</event>
+</audio>

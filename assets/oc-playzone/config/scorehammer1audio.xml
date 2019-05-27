@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171113.122119783">
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>scorehammer1_letsseehowyoudid</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY">
+			<phrase>scorehammer1_yougotnocorrectanswers</phrase>
+			<phrase>scorehammer1_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY2">
+			<phrase>scorehammer1_yougotonecorrect</phrase>
+			<phrase>scorehammer1_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY3">
+			<phrase>scorehammer1_yougottwocorrect</phrase>
+			<phrase>scorehammer1_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY4">
+			<phrase>scorehammer1_yougotthreecorrect</phrase>
+			<phrase>scorehammer1_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY5">
+			<phrase>scorehammer1_yougotfourcorrect</phrase>
+			<phrase>scorehammer1_youcantryagainlater</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY6">
+			<phrase>scorehammer1_yougotfivecorrect</phrase>
+			<phrase>scorehammer1_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY7">
+			<phrase>scorehammer1_yougotsixcorrect</phrase>
+			<phrase>scorehammer1_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY8">
+			<phrase>scorehammer1_yougotsevencorrect</phrase>
+			<phrase>scorehammer1_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY9">
+			<phrase>scorehammer1_yougoteightcorrect</phrase>
+			<phrase>scorehammer1_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY10">
+			<phrase>scorehammer1_yougotninecorrect</phrase>
+			<phrase>scorehammer1_youcantryfortennexttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="SUMMARY11">
+			<phrase>scorehammer1_youdiditalltencorrectwelldone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="ding">
+			<phrase>gb_ding</phrase>
+		</phrasegroup>
+		<phrasegroup id="dong">
+			<phrase>gb_dong</phrase>
+		</phrasegroup>
+		<phrasegroup id="hit">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

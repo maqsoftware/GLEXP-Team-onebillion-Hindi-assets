@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="6a,6b,6c,6d,6e,6f,6g,6h,6i,6j,6k,6l" colour="240,250,251" >
+	</event>
+	<event id="6a" redraw="true" type="add" correct_answer="4" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="dash_1" pos="0.808945,0.509115" src="dash" zpos="4.004" />
+		<vector id="obj_1" pos="0.188488,0.41748" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4" />
+		<vector id="obj_2" pos="0.395307,0.41748" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.001" />
+		<vector id="obj_3" pos="0.602126,0.41748" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.002" />
+		<vector id="obj_4" pos="0.808945,0.41748" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.003" hidden="true" />
+	</event>
+	<event id="6b" redraw="true" type="add" correct_answer="6" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="dash_1" pos="0.721568,0.632812" src="dash" zpos="4.004" />
+		<vector id="obj_1" pos="0.188488,0.270345" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4" />
+		<vector id="obj_2" pos="0.188808,0.541372" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.003" />
+		<vector id="obj_3" pos="0.456838,0.270345" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.001" />
+		<vector id="obj_4" pos="0.455188,0.541372" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.005" />
+		<vector id="obj_5" pos="0.725188,0.270345" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.002" />
+		<vector id="obj_6" pos="0.721568,0.541372" src="cupcake" scalex="1.5" scaley="1.5" fill="247,213,57" zpos="4.006" hidden="true" />
+	</event>
+	<event id="6c" redraw="true" type="add" correct_answer="7" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_6" pos="0.726291,0.526108" src="orange" scalex="1.8" scaley="1.8" zpos="4.006" hidden="true" />
+		<vector id="dash_1" pos="0.5,1.04844" parent="obj_6" src="dash" zpos="4.004" />
+		<vector id="obj_1" pos="0.161144,0.295085" src="orange" scalex="1.8" scaley="1.8" zpos="4" />
+		<vector id="obj_2" pos="0.274174,0.526108" src="orange" scalex="1.8" scaley="1.8" zpos="4.003" />
+		<vector id="obj_3" pos="0.387203,0.295085" src="orange" scalex="1.8" scaley="1.8" zpos="4.001" />
+		<vector id="obj_4" pos="0.500232,0.526108" src="orange" scalex="1.8" scaley="1.8" zpos="4.007" />
+		<vector id="obj_5" pos="0.613262,0.295085" src="orange" scalex="1.8" scaley="1.8" zpos="4.002" />
+		<vector id="obj_7" pos="0.83932,0.295085" src="orange" scalex="1.8" scaley="1.8" zpos="4.005" />
+	</event>
+	<event id="6d" redraw="true" type="add" correct_answer="8" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_8" pos="0.83932,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.008" hidden="true" />
+		<vector id="dash_1" pos="0.5,0.919226" parent="obj_8" src="dash" zpos="4.003" />
+		<vector id="obj_1" pos="0.161144,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4" />
+		<vector id="obj_2" pos="0.161144,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.005" />
+		<vector id="obj_3" pos="0.387203,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.001" />
+		<vector id="obj_4" pos="0.387203,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.006" />
+		<vector id="obj_5" pos="0.613262,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.002" />
+		<vector id="obj_6" pos="0.613262,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.007" />
+		<vector id="obj_7" pos="0.83932,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.004" />
+	</event>
+	<event id="6e" redraw="true" type="add" correct_answer="9" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_9" pos="0.754548,0.545639" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.008" hidden="true" />
+		<vector id="dash_1" pos="0.5,0.998169" parent="obj_9" src="dash" zpos="4.003" />
+		<vector id="obj_1" pos="0.161144,0.276855" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4" />
+		<vector id="obj_2" pos="0.245916,0.545639" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.009" />
+		<vector id="obj_3" pos="0.330688,0.276855" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.005" />
+		<vector id="obj_4" pos="0.41546,0.545639" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.006" />
+		<vector id="obj_5" pos="0.500232,0.276855" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.001" />
+		<vector id="obj_6" pos="0.585004,0.545639" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.007" />
+		<vector id="obj_7" pos="0.669776,0.276855" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.002" />
+		<vector id="obj_8" pos="0.83932,0.276855" src="sweet" scalex="1.5" scaley="1.5" rotation="25" zpos="4.004" />
+	</event>
+	<event id="6f" redraw="true" type="add" correct_answer="10" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_9" pos="0.83932,0.518565" src="apple" scalex="2" scaley="2" zpos="4.009" hidden="true" />
+		<vector id="dash_1" pos="0.5,1.0739" parent="obj_9" src="dash" zpos="4.003" />
+		<vector id="obj_1" pos="0.669776,0.518565" src="apple" scalex="2" scaley="2" zpos="4.008" />
+		<vector id="obj_2" pos="0.330688,0.276855" src="apple" scalex="2" scaley="2" zpos="4.005" />
+		<vector id="obj_3" pos="0.161144,0.276855" src="apple" scalex="2" scaley="2" zpos="4" />
+		<vector id="obj_4" pos="0.83932,0.276855" src="apple" scalex="2" scaley="2" zpos="4.004" />
+		<vector id="obj_5" pos="0.500232,0.518565" src="apple" scalex="2" scaley="2" zpos="4.007" />
+		<vector id="obj_6" pos="0.669776,0.276855" src="apple" scalex="2" scaley="2" zpos="4.002" />
+		<vector id="obj_7" pos="0.500232,0.276855" src="apple" scalex="2" scaley="2" zpos="4.001" />
+		<vector id="obj_8" pos="0.161144,0.518565" src="apple" scalex="2" scaley="2" zpos="4.006" />
+		<vector id="obj_10" pos="0.330688,0.518565" src="apple" scalex="2" scaley="2" zpos="4.01" />
+	</event>
+	<event id="6g" redraw="true" type="remove" correct_answer="3" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.396993,0.415461" src="bottle" scalex="0.4" scaley="0.4" zpos="4.001" />
+		<vector id="obj_2" pos="0.606783,0.415461" src="bottle" scalex="0.4" scaley="0.4" zpos="4.002" />
+		<vector id="obj_3" pos="0.187202,0.421636" src="bottle" scalex="0.4" scaley="0.4" zpos="4" />
+		<vector id="obj_4" pos="0.816574,0.415461" src="bottle" scalex="0.4" scaley="0.4" zpos="4.003" />
+	</event>
+	<event id="6h" redraw="true" type="remove" correct_answer="6" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.128117,0.546204" src="bottle" scalex="0.4" scaley="0.4" zpos="4" />
+		<vector id="obj_2" pos="0.251233,0.260244" src="bottle" scalex="0.4" scaley="0.4" zpos="4.004" />
+		<vector id="obj_3" pos="0.374349,0.546204" src="bottle" scalex="0.4" scaley="0.4" zpos="4.001" />
+		<vector id="obj_4" pos="0.497465,0.260244" src="bottle" scalex="0.4" scaley="0.4" zpos="4.005" />
+		<vector id="obj_5" pos="0.620581,0.546204" src="bottle" scalex="0.4" scaley="0.4" zpos="4.002" />
+		<vector id="obj_6" pos="0.743697,0.260244" src="bottle" scalex="0.4" scaley="0.4" zpos="4.006" />
+		<vector id="obj_7" pos="0.866813,0.546204" src="bottle" scalex="0.4" scaley="0.4" zpos="4.003" />
+	</event>
+	<event id="6i" redraw="true" type="remove" correct_answer="7" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.161144,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4" />
+		<vector id="obj_2" pos="0.161144,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.004" />
+		<vector id="obj_3" pos="0.387203,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.001" />
+		<vector id="obj_4" pos="0.387203,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.005" />
+		<vector id="obj_5" pos="0.613262,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.002" />
+		<vector id="obj_6" pos="0.613262,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.006" />
+		<vector id="obj_7" pos="0.83932,0.276855" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.003" />
+		<vector id="obj_8" pos="0.83932,0.545639" src="banana" scalex="0.6" scaley="0.6" rotation="25" zpos="4.007" />
+	</event>
+	<event id="6j" redraw="true" type="remove" correct_answer="8" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.133911,0.279124" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4" />
+		<vector id="obj_2" pos="0.225383,0.545639" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.008" />
+		<vector id="obj_3" pos="0.316855,0.276855" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.004" />
+		<vector id="obj_4" pos="0.408327,0.545639" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.005" />
+		<vector id="obj_5" pos="0.499799,0.276855" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.001" />
+		<vector id="obj_6" pos="0.591271,0.545639" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.006" />
+		<vector id="obj_7" pos="0.682744,0.276855" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.002" />
+		<vector id="obj_8" pos="0.865688,0.276855" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.003" />
+		<vector id="obj_9" pos="0.774216,0.545639" src="mango" scalex="0.3" scaley="0.3" rotation="20" zpos="4.007" />
+	</event>
+	<event id="6k" redraw="true" type="remove" correct_answer="9" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.669776,0.518565" src="apple" scalex="2" scaley="2" zpos="4.007" />
+		<vector id="obj_2" pos="0.330688,0.276855" src="apple" scalex="2" scaley="2" zpos="4.004" />
+		<vector id="obj_3" pos="0.161144,0.276855" src="apple" scalex="2" scaley="2" zpos="4" />
+		<vector id="obj_4" pos="0.83932,0.276855" src="apple" scalex="2" scaley="2" zpos="4.003" />
+		<vector id="obj_5" pos="0.500232,0.518565" src="apple" scalex="2" scaley="2" zpos="4.006" />
+		<vector id="obj_6" pos="0.669776,0.276855" src="apple" scalex="2" scaley="2" zpos="4.002" />
+		<vector id="obj_7" pos="0.500232,0.276855" src="apple" scalex="2" scaley="2" zpos="4.001" />
+		<vector id="obj_8" pos="0.161144,0.518565" src="apple" scalex="2" scaley="2" zpos="4.005" />
+		<vector id="obj_9" pos="0.83932,0.518565" src="apple" scalex="2" scaley="2" zpos="4.008" />
+		<vector id="obj_10" pos="0.330688,0.518565" src="apple" scalex="2" scaley="2" zpos="4.009" />
+	</event>
+	<event id="6l" redraw="true" type="remove" correct_answer="1" >
+		<rectangle id="Rectangle88" pos="0.499716,0.365941" src="Rectangle88" fill="194,241,253" shadowcolour="0,0,0" shadowopacity="0.2" shadowradius="1.76134" shadowxoffset="0.321691" shadowyoffset="4.80392" zpos="1" x="-0.0478516" y="-0.014211" width="1.09513" height="0.760305" />
+		<rectangle id="background_control" pos="0.500566,0.876195" src="background_control" fill="198,241,64" stroke="0,0,0" strokewidth="1" zpos="2" hidden="true" widthtracksheight="true" x="0.00571442" y="0.761302" width="0.989704" height="0.229787" pxwidth="1013.46" pxheight="176.477" />
+		<rectangle id="number_1" pos="0.0593151,0.495462" parent="background_control" src="number_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3" number="1" x="0.0149126" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_2" pos="0.157159,0.495462" parent="background_control" src="number_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.001" number="2" x="0.112757" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_3" pos="0.255004,0.495462" parent="background_control" src="number_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.002" number="3" x="0.210601" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_4" pos="0.352848,0.495462" parent="background_control" src="number_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.003" number="4" x="0.308446" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_5" pos="0.450692,0.495462" parent="background_control" src="number_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.004" number="5" x="0.40629" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_6" pos="0.548537,0.495462" parent="background_control" src="number_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.005" number="6" x="0.504134" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_7" pos="0.646381,0.495462" parent="background_control" src="number_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.006" number="7" x="0.601979" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_8" pos="0.744225,0.495462" parent="background_control" src="number_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.007" number="8" x="0.699823" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_9" pos="0.84207,0.495462" parent="background_control" src="number_9" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.008" number="9" x="0.797667" y="0.155474" width="0.0888049" height="0.679977" />
+		<rectangle id="number_10" pos="0.939914,0.495462" parent="background_control" src="number_10" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="3.009" number="10" x="0.895512" y="0.155474" width="0.0888049" height="0.679977" />
+		<vector id="obj_1" pos="0.341534,0.436544" src="cupcake" scalex="2" scaley="2" fill="247,213,57" zpos="4" />
+		<vector id="obj_2" pos="0.661107,0.436544" src="cupcake" scalex="2" scaley="2" fill="247,213,57" zpos="4.001" />
+	</event>
+</events>

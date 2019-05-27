@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="q1">
+		<phrasegroup id="NONE">
+			<phrase>q_putfiveapplesonthetree</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putfiveapplesonthetree</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2">
+		<phrasegroup id="NONE">
+			<phrase>q_putsixspotsonthedog</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putsixspotsonthedog</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3">
+		<phrasegroup id="NONE">
+			<phrase>q_putfourtomatoesontheplate</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putfourtomatoesontheplate</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanybirdsarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanybirdsarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyorangesarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyorangesarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q6">
+		<phrasegroup id="NONE">
+			<phrase>q_howmanyumbrellasarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_howmanyumbrellasarethere</phrase>
+			<phrase>q_dragthenumbertothebox</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q7">
+		<phrasegroup id="NONE">
+			<phrase>q_choosethetshirtwithfourflowers</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosethetshirtwithfourflowers</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q8">
+		<phrasegroup id="NONE">
+			<phrase>q_choosethesnakewithsixspots</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosethesnakewithsixspots</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q9">
+		<phrasegroup id="NONE">
+			<phrase>q_choosethesetwithfivestars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosethesetwithfivestars</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q10">
+		<phrasegroup id="NONE">
+			<phrase>q_choosethesetwithsixflowers</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_choosethesetwithsixflowers</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_dot">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_star">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

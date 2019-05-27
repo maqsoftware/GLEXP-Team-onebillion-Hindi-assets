@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p7_1.aif</url>
+	<relurl>p7_1.aif</relurl>
+	<timings text="Jack anagundua kitu kikining’inia kwenye bafu. Kumbe ni taulo?" frames="215585">
+		<timing id="0" start="0.001" end="0.386" startframe="48" framelength="16979" text="Jack"/>
+		<timing id="1" start="0.386" end="1.110" startframe="17027" framelength="31931" text="anagundua"/>
+		<timing id="2" start="1.110" end="1.617" startframe="48958" framelength="22340" text="kitu"/>
+		<timing id="3" start="1.617" end="2.569" startframe="71298" framelength="42001" text="kikining’inia"/>
+		<timing id="4" start="2.569" end="2.850" startframe="113299" framelength="12403" text="kwenye"/>
+		<timing id="5" start="2.850" end="3.245" startframe="125702" framelength="17384" text="bafu"/>
+		<timing id="6" start="3.760" end="4.067" startframe="165821" framelength="13541" text="Kumbe"/>
+		<timing id="7" start="4.067" end="4.195" startframe="179362" framelength="5618" text="ni"/>
+		<timing id="8" start="4.195" end="4.889" startframe="184980" framelength="30605" text="taulo"/>
+	</timings>
+</xml>

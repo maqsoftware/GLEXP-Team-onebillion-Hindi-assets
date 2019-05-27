@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Shoro alimuona Jongoo akianguka. “Nimeumia!” Jongoo alilalama." frames="476920">
+		<timing id="0" start="0.000" end="0.713" startframe="0" framelength="31423" text="Shoro"/>
+		<timing id="1" start="1.400" end="2.395" startframe="61754" framelength="43860" text="alimuona"/>
+		<timing id="2" start="3.026" end="3.850" startframe="133427" framelength="36374" text="Jongoo"/>
+		<timing id="3" start="4.743" end="5.803" startframe="209155" framelength="46776" text="akianguka"/>
+		<timing id="4" start="6.646" end="7.750" startframe="293091" framelength="48682" text="Nimeumia"/>
+		<timing id="5" start="8.503" end="9.349" startframe="374971" framelength="37335" text="Jongoo"/>
+		<timing id="6" start="9.922" end="10.815" startframe="437578" framelength="39342" text="alilalama"/>
+	</timings>
+</xml>

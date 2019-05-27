@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="cqmain" >
+		<rectangle id="backrect" pos="0.122623,0.827764" src="backrect" fill="87,213,254" zpos="72" hidden="true" widthtracksheight="true" x="0.00584412" y="0.675079" width="0.233559" height="0.305369" pxwidth="239.164" pxheight="234.523" />
+		<circle id="answer1" pos="0.977714,0.301551" parent="backrect" src="answer1" fill="87,213,254" stroke="0,0,0" strokewidth="1" zpos="72.002" widthtracksheight="true" x="0.827949" y="0.148822" width="0.29953" height="0.305457" pxwidth="71.6367" pxheight="71.6367" />
+		<circle id="answer2" pos="0.973532,0.706627" parent="backrect" src="answer2" fill="255,180,2" stroke="0,0,0" strokewidth="1" zpos="72.003" widthtracksheight="true" x="0.823768" y="0.553899" width="0.29953" height="0.305457" pxwidth="71.6367" pxheight="71.6367" />
+		<group id="cameo"  pos="0.123615,0.82871" src="cameo" zpos="72.001">
+			<group id="amaskgroup"  pos="0.123615,0.82871" src="amaskgroup" stroke="0,0,0" strokewidth="2" hasmask="true" zpos="72">
+				<vector id="annahead" pos="0.506345,0.573706" parent="backrect" src="annahead" scalex="0.874253" scaley="0.874253" zpos="72.001" />
+				<rectangle id="background" pos="0.504247,0.500067" parent="backrect" src="background" fill="255,255,255" stroke="0,0,0" strokewidth="2" zpos="72" x="0.00424656" y="6.66245e-05" width="1" height="1" />
+				<circle id="circlemask" pos="0.499722,0.499051" parent="backrect" src="circlemask" fill="255,255,255" stroke="0,0,0" strokewidth="2" zpos="72.002" x="0.0293339" y="0.0193544" width="0.940777" height="0.959392" />
+			</group>
+			<circle id="circlestroke" pos="0.499412,0.497951" parent="backrect" src="circlestroke" stroke="0,0,0" strokewidth="2" zpos="72.001" x="0.0290236" y="0.0182551" width="0.940777" height="0.959392" />
+		</group>
+	</event>
+</events>

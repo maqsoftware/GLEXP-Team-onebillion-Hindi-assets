@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-myfriendsEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true" changetoken="20170816.140405770">
+	<page pageno="0">
+		<para>My friends</para>
+	</page>
+	<page pageno="1">
+		<para>My name is Tom.</para>
+	</page>
+	<page pageno="2">
+		<para>These are my friends.</para>
+	</page>
+	<page pageno="3">
+		<para>Some/times Lu/lu reads by her/self.</para>
+	</page>
+	<page pageno="4">
+		<para>Some/times we all read to/geth/er.</para>
+	</page>
+	<page pageno="5">
+		<para>Some/times An/na swims by her/self.</para>
+	</page>
+	<page pageno="6">
+		<para>Some/times we all swim to/geth/er.</para>
+	</page>
+	<page pageno="7">
+		<para>I love do/ing things with my friends.</para>
+	</page>
+	<page pageno="8">
+		<para>What do you like do/ing?</para>
+	</page>
+</book>

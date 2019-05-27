@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>th5_thisisaboutlistening</phrase>
+			<phrase>th5_sogetyourearsready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>th5_listen</phrase>
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+			<phrase>th5_thisone</phrase>
+			<phrase>th5_rememberthisletsyoulistenagain</phrase>
+			<phrase>th5_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>th5_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+			<phrase>th5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th5_listenagain</phrase>
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>th5_nowtrysomemorechoosethedifferentone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th5_listenagain</phrase>
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th5_listenagain</phrase>
+			<phrase>th5_whichoneplayedadifferentsound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>th5_verygood</phrase>
+			<phrase>th5_youpractisedlistening</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="touch">
+			<phrase>_click_plastic_single_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="popon">
+			<phrase>spatter_pop_5</phrase>
+		</phrasegroup>
+	</event>
+</audio>

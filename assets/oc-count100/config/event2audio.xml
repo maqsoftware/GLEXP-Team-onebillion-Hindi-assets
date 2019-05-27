@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a-1">
+		<phrasegroup id="DEMO">
+			<phrase>2_wherestwentyone</phrase>
+			<phrase>2_there</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2a-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_findtwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwentytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwentytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2a-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwentythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_look</phrase>
+			<phrase>2_twentyone</phrase>
+			<phrase>2_twentytwo</phrase>
+			<phrase>2_twentythree</phrase>
+			<phrase>2_theyfolloweachotherinorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfindfortyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfortyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfortyfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfortyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfortyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfortyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfortysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfortysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfortysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fortyfour</phrase>
+			<phrase>2_fortyfive</phrase>
+			<phrase>2_fortysix</phrase>
+			<phrase>2_theyfolloweachotherinorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nextfindthirtyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findthirtyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirtyeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findthirtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirtynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thirtyeight</phrase>
+			<phrase>2_thirtynine</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_theyfolloweachotherinorder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfindten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findthirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d-4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findforty_2d-3</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findforty_2d-3</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findforty_2d-3</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d-5">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_ten</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_fifty</phrase>
+			<phrase>2_looktheyallhaveazero</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimefindone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwentyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwentyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwentyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e-4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirtyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findthirtyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirtyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e-5">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfortyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfortyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfortyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_one</phrase>
+			<phrase>2_eleven</phrase>
+			<phrase>2_twentyone</phrase>
+			<phrase>2_thirtyone</phrase>
+			<phrase>2_fortyone</phrase>
+			<phrase>2_theyallhaveaone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nextfindfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findtwentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwentyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f-4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirtyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findthirtyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirtyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f-5">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfortyfive_2f-5</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_findfortyfive_2f-5</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfortyfive_2f-5</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_five</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_twentyfive</phrase>
+			<phrase>2_thirtyfive</phrase>
+			<phrase>2_fortyfive</phrase>
+			<phrase>2_lookatallthefives</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowwatchme</phrase>
+			<phrase>2_theygohere</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j-1">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_wheredothesenumbersgo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_twentythree</phrase>
+			<phrase>2_twentyfour</phrase>
+			<phrase>2_twentyfive</phrase>
+			<phrase>2_twentysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whataboutthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fortytwo</phrase>
+			<phrase>2_fortythree</phrase>
+			<phrase>2_fortyfour</phrase>
+			<phrase>2_fortyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j-4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_puttheseintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thirtyseven</phrase>
+			<phrase>2_thirtyeight</phrase>
+			<phrase>2_thirtynine</phrase>
+			<phrase>2_forty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k-1">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowdragtheseintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_theygowiththefives</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_twentyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_trythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_theygowiththenines</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k-3">
+		<phrasegroup id="PROMPT">
+			<phrase>2_whataboutthese</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_theygowiththesevens</phrase>
+			<phrase>2_twentyseven</phrase>
+			<phrase>2_thirtyseven</phrase>
+			<phrase>2_fortyseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k-4">
+		<phrasegroup id="PROMPT">
+			<phrase>2_puttheseinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_theygowiththeones</phrase>
+			<phrase>2_eleven</phrase>
+			<phrase>2_twentyone</phrase>
+			<phrase>2_thirtyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l-1">
+		<phrasegroup id="DEMO">
+			<phrase>2_nextyoumustfillinnumberstoreplacethestars</phrase>
+			<phrase>2_whereshouldthisonego</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>2_dragtwentysixtoitsrightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_dragthenumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_yestwentysixcomesaftertwentyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l-2">
+		<phrasegroup id="PROMPT">
+			<phrase>2_wheredothesego</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_drageachnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_thirteencomesaftertwelve</phrase>
+			<phrase>2_fiftycomesafterfortynine</phrase>
+			<phrase>2_nowputtherestintoplaceinthesameway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l-3">
+		<phrasegroup id="REPEAT">
+			<phrase>2_drageachnumberintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l-4">
+		<phrasegroup id="REPEAT">
+			<phrase>2_drageachnumberintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowletscountonemoretime</phrase>
+			<phrase>2_seeifyoucantoucheachboxinorder</phrase>
+			<phrase>2_andsaytherightnumberwithme</phrase>
+			<phrase>2_starthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_touchtheboxesinorderandsaythenumbers</phrase>
+			<phrase>2_startwiththefirstone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_touchtheboxesinorderandsaythenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>2_touchtheboxesinorderandsaythenumbers</phrase>
+			<phrase>2_startwiththefirstone</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven</phrase>
+			<phrase>2_twelve</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenty</phrase>
+			<phrase>2_twentyone</phrase>
+			<phrase>2_twentytwo</phrase>
+			<phrase>2_twentythree</phrase>
+			<phrase>2_twentyfour</phrase>
+			<phrase>2_twentyfive</phrase>
+			<phrase>2_twentysix</phrase>
+			<phrase>2_twentyseven</phrase>
+			<phrase>2_twentyeight</phrase>
+			<phrase>2_twentynine</phrase>
+			<phrase>2_thirty</phrase>
+			<phrase>2_thirtyone</phrase>
+			<phrase>2_thirtytwo</phrase>
+			<phrase>2_thirtythree</phrase>
+			<phrase>2_thirtyfour</phrase>
+			<phrase>2_thirtyfive</phrase>
+			<phrase>2_thirtysix</phrase>
+			<phrase>2_thirtyseven</phrase>
+			<phrase>2_thirtyeight</phrase>
+			<phrase>2_thirtynine</phrase>
+			<phrase>2_forty</phrase>
+			<phrase>2_fortyone</phrase>
+			<phrase>2_fortytwo</phrase>
+			<phrase>2_fortythree</phrase>
+			<phrase>2_fortyfour</phrase>
+			<phrase>2_fortyfive</phrase>
+			<phrase>2_fortysix</phrase>
+			<phrase>2_fortyseven</phrase>
+			<phrase>2_fortyeight</phrase>
+			<phrase>2_fortynine</phrase>
+			<phrase>2_fifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_greatyoupracticedwithnumbersuptofifty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drag">
+			<phrase>drag</phrase>
+		</phrasegroup>
+		<phrasegroup id="cover">
+			<phrase>two_tones_quick</phrase>
+		</phrasegroup>
+		<phrasegroup id="reset_grid">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+		<phrasegroup id="show_num">
+			<phrase>ping</phrase>
+		</phrasegroup>
+		<phrasegroup id="flash">
+			<phrase>chime_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

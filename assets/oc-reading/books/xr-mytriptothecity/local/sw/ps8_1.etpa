@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Nikachagua epuli tamu la kijani. Lilikuwa tunda zuri zaidi nililowahi kula!" frames="702290">
+		<timing id="0" start="0.000" end="1.102" startframe="0" framelength="48609" text="Nikachagua"/>
+		<timing id="1" start="1.774" end="2.671" startframe="78235" framelength="39557" text="epuli"/>
+		<timing id="2" start="3.359" end="4.095" startframe="148115" framelength="32486" text="tamu"/>
+		<timing id="3" start="4.672" end="5.390" startframe="206042" framelength="31649" text="la"/>
+		<timing id="4" start="5.808" end="6.715" startframe="256128" framelength="39990" text="kijani"/>
+		<timing id="5" start="7.389" end="8.474" startframe="325867" framelength="47858" text="Lilikuwa"/>
+		<timing id="6" start="9.111" end="9.856" startframe="401807" framelength="32825" text="tunda"/>
+		<timing id="7" start="10.438" end="11.202" startframe="460313" framelength="33683" text="zuri"/>
+		<timing id="8" start="11.918" end="12.769" startframe="525573" framelength="37554" text="zaidi"/>
+		<timing id="9" start="13.544" end="14.865" startframe="597303" framelength="58258" text="nililowahi"/>
+		<timing id="10" start="15.334" end="15.925" startframe="676247" framelength="26043" text="kula"/>
+	</timings>
+</xml>

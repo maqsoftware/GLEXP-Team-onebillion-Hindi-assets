@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="1a" colour="4,4,4" >
+		<circle id="obj1" pos="0.278769,0.413528" src="obj1" fill="52,162,51" stroke="0,0,0" strokewidth="1" zpos="0.002" widthtracksheight="true" x="0.234621" y="0.354665" width="0.088295" height="0.117727" pxwidth="90.4141" pxheight="90.4141" />
+		<circle id="obj2" pos="0.426256,0.413528" src="obj2" fill="254,205,1" stroke="0,0,0" strokewidth="1" zpos="0.001" widthtracksheight="true" x="0.382109" y="0.354665" width="0.088295" height="0.117727" pxwidth="90.4141" pxheight="90.4141" />
+		<circle id="obj3" pos="0.573744,0.413528" src="obj3" fill="250,37,11" stroke="0,0,0" strokewidth="1" zpos="0.003" widthtracksheight="true" x="0.529596" y="0.354665" width="0.088295" height="0.117727" pxwidth="90.4141" pxheight="90.4141" />
+		<circle id="obj4" pos="0.721231,0.413528" src="obj4" fill="2,122,211" stroke="0,0,0" strokewidth="1" zpos="0" widthtracksheight="true" x="0.677084" y="0.354665" width="0.088295" height="0.117727" pxwidth="90.4141" pxheight="90.4141" />
+		<path id="bar1" pos="0.238314,0.61057" src="bar1" fill="255,38,0" fillopacity="0.246949" stroke="255,38,0" strokewidth="18" linecap="round" zpos="1.004" d="M0.239 0.5211L0.2376 0.7" />
+		<path id="bar2" pos="0.181229,0.548843" src="bar2" fill="255,38,0" fillopacity="0.246949" stroke="255,38,0" strokewidth="18" linecap="round" zpos="1.005" d="M0.1531 0.4594L0.2094 0.6383" />
+		<path id="bar3" pos="0.240082,0.548843" src="bar3" fill="255,38,0" fillopacity="0.246949" stroke="255,38,0" strokewidth="18" linecap="round" zpos="1.006" d="M0.2119 0.4594L0.2682 0.6383" />
+		<path id="bar4" pos="0.298935,0.548843" src="bar4" fill="255,38,0" fillopacity="0.246949" stroke="255,38,0" strokewidth="18" linecap="round" zpos="1.007" d="M0.2708 0.4594L0.3271 0.6383" />
+		<rectangle id="rect1" pos="0.454582,0.497828" src="rect1" fill="255,38,0" fillopacity="0.246949" stroke="0,0,0" strokewidth="1" zpos="1" widthtracksheight="true" x="0.44091" y="0.449651" width="0.0273438" height="0.0963542" pxwidth="28" pxheight="74" />
+		<rectangle id="rect2" pos="0.486919,0.497828" src="rect2" fill="255,38,0" fillopacity="0.246949" stroke="0,0,0" strokewidth="1" zpos="1.001" widthtracksheight="true" x="0.473248" y="0.449651" width="0.0273438" height="0.0963542" pxwidth="28" pxheight="74" />
+		<rectangle id="rect3" pos="0.519257,0.497828" src="rect3" fill="255,38,0" fillopacity="0.246949" stroke="0,0,0" strokewidth="1" zpos="1.002" widthtracksheight="true" x="0.505585" y="0.449651" width="0.0273438" height="0.0963542" pxwidth="28" pxheight="74" />
+		<rectangle id="rect4" pos="0.551594,0.497828" src="rect4" fill="255,38,0" fillopacity="0.246949" stroke="0,0,0" strokewidth="1" zpos="1.003" widthtracksheight="true" x="0.537922" y="0.449651" width="0.0273438" height="0.0963542" pxwidth="28" pxheight="74" />
+	</event>
+</events>

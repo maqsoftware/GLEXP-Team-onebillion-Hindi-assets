@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="1b,1d,1e,1f,1g,1h,1i,1j,1k,1l,1m" colour_place1="247,201,76" colour_place2="209,209,209" colour_place3="230,167,111" colour_place4="238,221,191" colour="255,253,240" >
+		<vector id="button" pos="0.11005,0.857208" src="button_round" scalex="0.445588" scaley="0.445588" zpos="0.001" />
+		<vector id="race_track" pos="0.875977,0.526042" src="race_track" scalex="3.17746" scaley="3.17746" zpos="0" />
+	</event>
+	<event id="1b" target="button" load_run="1,2,3" >
+	</event>
+	<event id="1b_child_1" target="button" >
+		<vector id="child_1" pos="0.00825485,0.583139" parent="race_track" src="boy_2" scalex="0.332551" scaley="0.332551" zpos="3" hidden="true" duration="8" stand="cross" />
+	</event>
+	<event id="1b_child_2" target="button" >
+		<vector id="child_2" pos="0.0387113,0.333563" parent="race_track" src="girl_1" scalex="0.287469" scaley="0.287469" zpos="3" hidden="true" duration="5" stand="wave2" />
+	</event>
+	<event id="1b_child_3" target="button" >
+		<vector id="child_3" pos="0.0628227,0.103578" parent="race_track" src="boy_3" scalex="0.278842" scaley="0.278842" zpos="3" hidden="true" duration="6.5" stand="wave1" />
+	</event>
+	<event id="1d" target="child" correct="2" load_place="true" >
+		<vector id="place_child_2" pos="0.373119,0.712172" src="girl_1_place" scalex="0.537948" scaley="0.537948" zpos="3.002" hidden="true" place="1" />
+		<vector id="place" pos="0.484379,0.511554" parent="place_child_2" src="place" scalex="0.578007" scaley="0.578007" zpos="3.003" hidden="true" />
+		<vector id="place_child_1" pos="0.633789,0.708387" src="boy_2_place" scalex="0.578873" scaley="0.578873" zpos="3" hidden="true" place="3" />
+		<vector id="place_child_3" pos="0.503906,0.707288" src="boy_3_place" scalex="0.583441" scaley="0.583441" zpos="3.001" hidden="true" place="2" />
+	</event>
+	<event id="1e" target="child" correct="3" >
+	</event>
+	<event id="1f" target="child" correct="1" >
+	</event>
+	<event id="1g" >
+	</event>
+	<event id="1h" target="button" load_run="1,2,3,4" >
+	</event>
+	<event id="1h_child_1" target="button" >
+		<rectangle id="reload_child_1" pos="0.105114,0.579102" src="reload_child_1" fill="0,234,254" zpos="3" hidden="true" duration="7.5" stand="cross" x="0.0653305" y="0.489248" width="0.079567" height="0.179708" />
+	</event>
+	<event id="1h_child_2" target="button" >
+		<rectangle id="reload_child_2" pos="0.153004,0.469704" src="reload_child_2" fill="0,234,254" zpos="3" hidden="true" duration="6.5" stand="wave1" x="0.117321" y="0.381582" width="0.0713654" height="0.176244" />
+	</event>
+	<event id="1h_child_3" target="button" >
+		<vector id="child_3" pos="0.0666298,0.112656" parent="race_track" src="boy_1" scalex="0.268355" scaley="0.268355" zpos="3" hidden="true" duration="5" stand="wave2" />
+	</event>
+	<event id="1h_child_4" target="button" >
+		<vector id="child_4" pos="0.0923274,-0.0961464" parent="race_track" src="girl_2" scalex="0.237546" scaley="0.237546" zpos="3" hidden="true" duration="8.5" stand="none" />
+	</event>
+	<event id="1i" target="child" correct="3" load_place="true" >
+		<vector id="place_child_1" pos="0.602672,0.705396" src="boy_2_place" scalex="0.578873" scaley="0.578873" zpos="3" hidden="true" place="3" />
+		<vector id="place_child_2" pos="0.479307,0.709181" src="girl_1_place" scalex="0.537948" scaley="0.537948" zpos="3.001" hidden="true" place="2" />
+		<vector id="place_child_3" pos="0.355942,0.713003" src="boy_1_place" scalex="0.560197" scaley="0.556483" zpos="3.002" hidden="true" place="1" />
+		<vector id="place_child_4" pos="0.726038,0.698883" src="girl_2_place" scalex="0.534476" scaley="0.534476" zpos="3.003" hidden="true" place="4" />
+	</event>
+	<event id="1j" target="child" correct="2" >
+	</event>
+	<event id="1k" target="child" correct="1" >
+	</event>
+	<event id="1l" target="child" correct="4" >
+	</event>
+	<event id="1m" >
+	</event>
+	<event id="master1n" scenes="1n,1o,1p,1q,1r,1s,1t,1u,1v,1w,1x" colour="233,253,199" >
+		<rectangle id="bottombar" anchor="0.5,1" pos="0.483034,1.00651" src="bottombar" fill="144,143,144" zpos="3" x="-0.0870018" y="0.681295" width="1.14007" height="0.325216" />
+		<vector id="bus_stop" pos="0.176929,-0.488298" parent="bottombar" src="bus_stop" scalex="0.827681" scaley="0.827681" zpos="3.001" />
+		<vector id="child_1" pos="0.282792,-0.169995" parent="bottombar" src="queue_child_1" scalex="0.616017" scaley="0.616017" zpos="3.002" skinoffset="6" />
+		<vector id="child_2" pos="0.424194,-0.258015" parent="bottombar" src="queue_child_2" scalex="0.649916" scaley="0.649916" zpos="3.003" skinoffset="2" />
+		<vector id="child_3" pos="0.565597,-0.262324" parent="bottombar" src="queue_child_3" scalex="0.695388" scaley="0.695388" zpos="3.004" skinoffset="8" />
+		<vector id="child_4" pos="0.707,-0.238997" parent="bottombar" src="queue_child_4" scalex="0.711311" scaley="0.711311" zpos="3.005" skinoffset="2" />
+		<vector id="child_5" pos="0.848402,-0.314467" parent="bottombar" src="queue_child_5" scalex="0.7897" scaley="0.7897" zpos="3.006" skinoffset="0" />
+	</event>
+	<event id="1n" target="child" correct="1" tick="true" >
+	</event>
+	<event id="1o" target="child" correct="4" tick="true" >
+	</event>
+	<event id="1p" target="child" correct="5" tick="true" >
+	</event>
+	<event id="1q" >
+	</event>
+	<event id="1r" drag="true" target="child_4" correct="1" >
+	</event>
+	<event id="1s" drag="true" target="child_3" correct="2" >
+	</event>
+	<event id="1t" drag="true" target="child_5" correct="3" >
+	</event>
+	<event id="1u" drag="true" target="child_2" correct="4" >
+	</event>
+	<event id="1v" target="child" correct="1" >
+	</event>
+	<event id="1w" >
+	</event>
+	<event id="1x" target="child" correct="1" >
+	</event>
+</events>

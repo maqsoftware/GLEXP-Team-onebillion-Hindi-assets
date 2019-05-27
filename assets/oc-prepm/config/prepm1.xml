@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="intro,1,2,3,4,5,6,7,8,9,10" gradienttop="159,238,255" gradientbottom="217,249,255" textsize="140" >
+		<rectangle id="rectbigleft" pos="0.720205,0.515411" src="rectbigleft" fill="255,38,0" fillopacity="0.416543" zpos="0.003" hidden="true" widthtracksheight="true" x="0.512098" y="0.0424805" width="0.416214" height="0.945862" pxwidth="426.203" pxheight="726.422" />
+		<rectangle id="rectbigright" pos="0.279795,0.515411" src="rectbigright" fill="255,38,0" fillopacity="0.416543" zpos="0.002" hidden="true" widthtracksheight="true" x="0.0716877" y="0.0424805" width="0.416214" height="0.945862" pxwidth="426.203" pxheight="726.422" />
+		<rectangle id="textboxl" pos="0.483516,0.48329" parent="rectbigright" src="textboxl" fill="255,38,0" fillopacity="0.416543" zpos="0" hidden="true" x="0.239359" y="0.408369" width="0.488314" height="0.149841" />
+		<rectangle id="textboxr" pos="0.516484,0.48329" parent="rectbigleft" src="textboxr" fill="255,38,0" fillopacity="0.416543" zpos="0.001" hidden="true" x="0.272327" y="0.408369" width="0.488314" height="0.149841" />
+		<vector id="presenter" anchor="0.5,1" pos="0.502995,1.06825" src="anna" zpos="1" />
+	</event>
+	<event id="htu" >
+		<rectangle id="rectnuml_0" pos="0.678484,0.908958" parent="rectbigright" src="rectnuml_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.004" hidden="true" x="0.619822" y="0.859311" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnuml_1" pos="0.383762,0.908958" parent="rectbigright" src="rectnuml_1" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.003" hidden="true" x="0.3251" y="0.859311" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnuml_2" pos="0.0890402,0.908958" parent="rectbigright" src="rectnuml_2" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.005" hidden="true" x="0.0303782" y="0.859311" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_0" pos="0.898266,0.908899" parent="rectbigleft" src="rectnumr_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.001" hidden="true" x="0.839604" y="0.859252" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_1" pos="0.596496,0.907883" parent="rectbigleft" src="rectnumr_1" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6" hidden="true" x="0.537834" y="0.858236" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_2" pos="0.294726,0.907791" parent="rectbigleft" src="rectnumr_2" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.002" hidden="true" x="0.236064" y="0.858145" width="0.117324" height="0.0992934" />
+		<vector id="countl1_1" pos="0.684146,0.796294" parent="rectbigright" src="unit" scalex="0.19" scaley="0.19" zpos="7.002" />
+		<vector id="countl10_1" pos="0.38862,0.723348" parent="rectbigright" src="ten" scalex="0.23" scaley="0.23" zpos="7.001" />
+		<vector id="countl100_1" pos="0.0885507,0.723237" parent="rectbigright" src="hundred" scalex="0.230315" scaley="0.230315" zpos="7" />
+	</event>
+	<event id="tu" >
+		<vector id="countl1_1" pos="0.862597,0.826203" parent="rectbigright" src="unit" scalex="0.421" scaley="0.421" zpos="6.001" />
+		<vector id="countl10_1" pos="0.731391,0.672344" parent="rectbigright" src="ten" scalex="0.493092" scaley="0.493092" zpos="6" />
+		<rectangle id="rectnuml_0" pos="0.706396,0.935216" parent="rectbigright" src="rectnuml_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.003" hidden="true" x="0.647734" y="0.885569" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnuml_1" pos="0.290176,0.935216" parent="rectbigright" src="rectnuml_1" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.002" hidden="true" x="0.231514" y="0.885569" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_0" pos="0.709824,0.935216" parent="rectbigleft" src="rectnumr_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.005" hidden="true" x="0.651162" y="0.885569" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_1" pos="0.267419,0.935216" parent="rectbigleft" src="rectnumr_1" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.004" hidden="true" x="0.208756" y="0.885569" width="0.117324" height="0.0992934" />
+	</event>
+	<event id="u" >
+		<vector id="countl1_1" pos="0.281196,0.746847" src="unit" scalex="0.618" scaley="0.618" zpos="6" />
+		<rectangle id="rectnuml_0" pos="0.498286,0.935216" parent="rectbigright" src="rectnuml_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.001" hidden="true" x="0.439624" y="0.885569" width="0.117324" height="0.0992934" />
+		<rectangle id="rectnumr_0" pos="0.501714,0.935216" parent="rectbigleft" src="rectnumr_0" fill="255,38,0" fillopacity="0.416543" stroke="211,211,211" strokewidth="2" zpos="6.002" hidden="true" x="0.443052" y="0.885569" width="0.117324" height="0.0992934" />
+	</event>
+</events>

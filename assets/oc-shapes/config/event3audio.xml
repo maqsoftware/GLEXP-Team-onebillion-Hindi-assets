@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycirclesaretherecountthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanycirclesaretherecountthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one</phrase>
+			<phrase>3_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanycirclesarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyovalsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyovalsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyovalsarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyrectanglesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyrectanglesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3c</phrase>
+			<phrase>3_two_3c</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyrectanglesarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanytrianglesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanytrianglesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3d</phrase>
+			<phrase>3_two_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanytrianglesarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanysquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanysquaresarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearenosquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_howmanysquaresarethere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyoftheshapeshaveonlythreesides</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyoftheshapeshaveonlythreesides</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3f</phrase>
+			<phrase>3_two_3f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyoftheshapeshaveonlythreesides</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyoftheshapeshavefoursides</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyoftheshapeshavefoursides</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3g</phrase>
+			<phrase>3_two_3g</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyoftheshapeshavefoursides</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyoftheshapesarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>3_howmanyoftheshapesarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_one_3h</phrase>
+			<phrase>3_two_3h</phrase>
+			<phrase>3_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyoftheshapesarecurved</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_goodyoucountedthedifferentkindsofshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>1_a</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>1_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>1_c</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>1_d</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>1_e</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>1_f</phrase>
+		</phrasegroup>
+	</event>
+</audio>

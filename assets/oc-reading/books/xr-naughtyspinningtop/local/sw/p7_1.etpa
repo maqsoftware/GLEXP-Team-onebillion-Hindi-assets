@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p7_1.aif</url>
+	<relurl>p7_1.aif</relurl>
+	<timings text="“Loh! Inatoweka!” anasema kwa sauti Paulina." frames="181323">
+		<timing id="0" start="0.000" end="0.514" startframe="0" framelength="22679" text="Loh"/>
+		<timing id="1" start="0.733" end="1.937" startframe="32323" framelength="53080" text="Inatoweka"/>
+		<timing id="2" start="2.269" end="2.837" startframe="100077" framelength="25021" text="anasema"/>
+		<timing id="3" start="2.837" end="2.984" startframe="125098" framelength="6493" text="kwa"/>
+		<timing id="4" start="2.984" end="3.452" startframe="131591" framelength="20647" text="sauti"/>
+		<timing id="5" start="3.452" end="4.112" startframe="152238" framelength="29085" text="Paulina"/>
+	</timings>
+</xml>

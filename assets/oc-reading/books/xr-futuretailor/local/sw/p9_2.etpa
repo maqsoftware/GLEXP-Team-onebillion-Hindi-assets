@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/p9_2.aif</url>
+	<relurl>p9_2.aif</relurl>
+	<timings text="Baba alitupa maelekezo na mara tu tukawa tunakata na kushona nguo pamoja." frames="276078">
+		<timing id="0" start="0.000" end="0.440" startframe="0" framelength="19388" text="Baba"/>
+		<timing id="1" start="0.440" end="0.870" startframe="19388" framelength="18972" text="alitupa"/>
+		<timing id="2" start="0.870" end="1.850" startframe="38360" framelength="43221" text="maelekezo"/>
+		<timing id="3" start="2.468" end="2.665" startframe="108851" framelength="8658" text="na"/>
+		<timing id="4" start="2.665" end="3.065" startframe="117509" framelength="17652" text="mara"/>
+		<timing id="5" start="3.065" end="3.396" startframe="135161" framelength="14620" text="tu"/>
+		<timing id="6" start="3.472" end="3.932" startframe="153129" framelength="20268" text="tukawa"/>
+		<timing id="7" start="3.932" end="4.749" startframe="173397" framelength="36014" text="tunakata"/>
+		<timing id="8" start="4.776" end="4.993" startframe="210634" framelength="9554" text="na"/>
+		<timing id="9" start="4.993" end="5.522" startframe="220188" framelength="23337" text="kushona"/>
+		<timing id="10" start="5.522" end="5.769" startframe="243525" framelength="10899" text="nguo"/>
+		<timing id="11" start="5.769" end="6.260" startframe="254424" framelength="21654" text="pamoja"/>
+	</timings>
+</xml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" gradienttop="230,255,210" gradientbottom="235,255,230" scenes="7a" >
+	</event>
+	<event id="7a" redraw="true" button_on="255,50,50" button_off="240,0,0" progress_off="255,255,255" progress_on="2,63,146" font_colour="2,63,146" >
+		<image id="dash_3" pos="0.254604,0.468292" src="tracing_dash3" scalex="1.02" scaley="1.03" zpos="1.006" hidden="true" />
+		<image id="dash_1" pos="0.254604,0.468292" src="tracing_dash1" scaley="1.02" zpos="1.002" hidden="true" />
+		<vector id="trace_3" pos="0.5,0.501188" parent="dash_3" src="trace_3" zpos="1.007" hidden="true" />
+		<vector id="wheel" pos="0.721191,0.45638" src="spinningWheel" zpos="1.008" />
+		<image id="dash_0" pos="0.254604,0.468292" src="tracing_dash0" scalex="1.03" scaley="1.05" zpos="1.001" hidden="true" />
+		<image id="dash_2" pos="0.254604,0.468292" src="tracing_dash2" scalex="1.01" scaley="1.04" zpos="1.004" hidden="true" />
+		<rectangle id="label_0" pos="0.508886,0.116154" parent="wheel" src="label_0" fill="255,255,255" zpos="1.017" text="0" x="0.451952" y="0.0551519" width="0.113868" height="0.122004" />
+		<rectangle id="label_1" pos="0.88993,0.496107" parent="wheel" src="label_1" fill="255,255,255" zpos="1.018" text="1" x="0.832997" y="0.435105" width="0.113868" height="0.122004" />
+		<rectangle id="label_2" pos="0.508561,0.892378" parent="wheel" src="label_2" fill="255,255,255" zpos="1.019" text="2" x="0.451627" y="0.831376" width="0.113868" height="0.122004" />
+		<rectangle id="label_3" pos="0.122736,0.496107" parent="wheel" src="label_3" fill="255,255,255" zpos="1.02" text="3" x="0.0658018" y="0.435105" width="0.113868" height="0.122004" />
+		<circle id="progress_0" pos="0.136534,1.08825" parent="wheel" src="progress_0" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.01" x="0.0817741" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_1" pos="0.257689,1.08825" parent="wheel" src="progress_1" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.011" x="0.202929" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_2" pos="0.378845,1.08825" parent="wheel" src="progress_2" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.012" x="0.324085" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_3" pos="0.5,1.08825" parent="wheel" src="progress_3" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.013" x="0.44524" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_4" pos="0.621155,1.08825" parent="wheel" src="progress_4" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.014" x="0.566396" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_5" pos="0.742311,1.08825" parent="wheel" src="progress_5" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.015" x="0.687551" y="1.03298" width="0.109519" height="0.110541" />
+		<circle id="progress_6" pos="0.863466,1.08825" parent="wheel" src="progress_6" fill="255,255,255" stroke="0,0,0" strokewidth="0.25" shadowcolour="0,0,0" shadowopacity="0.4" shadowradius="1.69439" shadowxoffset="-0.919118" shadowyoffset="-0.959712" zpos="1.016" x="0.808707" y="1.03298" width="0.109519" height="0.110541" />
+		<vector id="trace_0" pos="0.498267,0.5" parent="trace_3" src="trace_0" zpos="1" hidden="true" />
+		<vector id="trace_1" pos="0.5,0.498437" parent="dash_1" src="trace_1" zpos="1.003" hidden="true" />
+		<vector id="trace_2" pos="0.491317,0.497624" parent="trace_3" src="trace_2" zpos="1.005" hidden="true" />
+		<vector id="trace_arrow" pos="0.958549,0.937002" src="trace_arrow" zpos="1.009" hidden="true" />
+	</event>
+</events>

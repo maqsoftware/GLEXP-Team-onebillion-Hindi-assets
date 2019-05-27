@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps7_2.aif</url>
+	<relurl>ps7_2.aif</relurl>
+	<timings text="“Hii ni nini?” Tai alisema. “Zawadi yangu?”" frames="669077">
+		<timing id="0" start="0.000" end="0.630" startframe="0" framelength="27766" text="Hii"/>
+		<timing id="1" start="2.186" end="2.795" startframe="96417" framelength="26859" text="ni"/>
+		<timing id="2" start="4.388" end="5.093" startframe="193493" framelength="31124" text="nini"/>
+		<timing id="3" start="6.872" end="7.507" startframe="303034" framelength="28024" text="Tai"/>
+		<timing id="4" start="9.052" end="9.977" startframe="399184" framelength="40794" text="alisema"/>
+		<timing id="5" start="11.900" end="12.774" startframe="524794" framelength="38558" text="Zawadi"/>
+		<timing id="6" start="14.499" end="15.172" startframe="639396" framelength="29681" text="yangu"/>
+	</timings>
+</xml>

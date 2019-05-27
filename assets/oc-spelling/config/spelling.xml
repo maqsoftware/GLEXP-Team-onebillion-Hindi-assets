@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="112" >
+		<rectangle id="bottomrect" pos="0.5,0.901042" src="bottomrect" fill="220,254,217" zpos="0" x="0" y="0.802083" width="1" height="0.197917" />
+		<rectangle id="greyswatch" pos="0.0764523,0.467634" src="greyswatch" fill="225,225,225" zpos="0.002" x="0.0586662" y="0.444158" width="0.0355721" height="0.0469513" />
+		<rectangle id="hiswatch" pos="0.0762806,0.549777" src="hiswatch" fill="255,210,1" zpos="0.003" x="0.0584946" y="0.526301" width="0.0355721" height="0.0469513" />
+		<rectangle id="toprect" pos="0.5,0.401042" src="toprect" fill="255,38,0" fillopacity="0.362654" zpos="0.001" hidden="true" x="0" y="0" width="1" height="0.802083" />
+	</event>
+	<event id="pic" >
+		<image id="pic" pos="0.499886,0.315322" parent="toprect" src="fc_dog" scalex="0.72403" scaley="0.72403" zpos="3.001" />
+		<rectangle id="textrect" pos="0.5,0.743732" parent="toprect" src="textrect" fill="255,38,0" fillopacity="0.362654" zpos="3" hidden="true" x="0.367573" y="0.658654" width="0.264854" height="0.170156" />
+	</event>
+	<event id="nopic" >
+		<rectangle id="textrect" pos="0.5,0.54906" parent="toprect" src="textrect" fill="255,38,0" fillopacity="0.362654" zpos="3" hidden="true" x="0.367573" y="0.463982" width="0.264854" height="0.170156" />
+	</event>
+	<event id="dash" >
+		<rectangle id="dash" pos="0.433764,0.659673" src="dash" fill="255,210,1" zpos="3" hidden="true" x="0.403801" y="0.656418" width="0.0599251" height="0.00651042" />
+	</event>
+</events>

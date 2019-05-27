@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p6_1.aif</url>
+	<relurl>p6_1.aif</relurl>
+	<timings text="Kwanza, baba alikwenda kwa Ali." frames="113361">
+		<timing id="0" start="0.000" end="0.702" startframe="0" framelength="30938" text="Kwanza"/>
+		<timing id="1" start="0.987" end="1.420" startframe="43544" framelength="19070" text="baba"/>
+		<timing id="2" start="1.420" end="1.970" startframe="62614" framelength="24264" text="alikwenda"/>
+		<timing id="3" start="1.970" end="2.150" startframe="86878" framelength="7920" text="kwa"/>
+		<timing id="4" start="2.150" end="2.571" startframe="94798" framelength="18563" text="Ali"/>
+	</timings>
+</xml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>th6_letspractiselistening</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>th6_listen</phrase>
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+			<phrase>th6_itouchone</phrase>
+			<phrase>th6_thentheother</phrase>
+			<phrase>th6_rememberthisletsyoulistenagain</phrase>
+			<phrase>th6_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>th6_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+			<phrase>th6_touchonethentouchtheother</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th6_listenagain</phrase>
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>th6_listenagain</phrase>
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>th6_nowtrysomemorechoosethetwowiththesamesound</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th6_listenagain</phrase>
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th6_listenagain</phrase>
+			<phrase>th6_whichtwoplayedthesamesound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>th6_excellent</phrase>
+			<phrase>th6_youpractisedlistening</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="touch">
+			<phrase>_click_plastic_single_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="popon">
+			<phrase>spatter_pop_5</phrase>
+		</phrasegroup>
+	</event>
+</audio>

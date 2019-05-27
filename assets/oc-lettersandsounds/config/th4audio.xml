@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>th4_listen</phrase>
+			<phrase>th4_whichonematchedthisword</phrase>
+			<phrase>th4_thisone</phrase>
+			<phrase>th4_rememberthisletsyoulistenagain</phrase>
+			<phrase>th4_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>th4_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>th4_whichonematchedtheword</phrase>
+			<phrase>th4_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th4_listenagain</phrase>
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>th4_nowtrysomemorematchtheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th4_listenagain</phrase>
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th4_listenagain</phrase>
+			<phrase>th4_whichonematchedtheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>th4_good</phrase>
+			<phrase>th4_youmatchedwhatyouheardandread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="touch">
+			<phrase>click_plastic_single_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="popon">
+			<phrase>spatter_pop_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

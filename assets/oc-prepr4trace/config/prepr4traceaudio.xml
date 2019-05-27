@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180111.125638367">
+	<event id="tracing">
+		<phrasegroup id="PROMPT">
+			<phrase>prepr4m1_youwillhearashortsentencepleaselistencarefullythentracewhatyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>prepr4m1_youtracedthesentence</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>prepr4m1_youmissedeverythinginred</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>prepr4m1_dontforgetthefullstopattheendofthesentence</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="241.364px" height="219.463px" viewBox="0 0 241.364 219.463" style="enable-background:new 0 0 241.364 219.463;"
+	 xml:space="preserve">
+<polygon id="col2-b" style="fill:#D231DB;" points="77.706,29.583 77.35,210.224 76.627,211.08 13.079,162.099 10.53,13.208 "/>
+<polygon id="col2-a" style="fill:#D231DB;" points="230.872,22.413 77.351,29.583 10.175,13.208 143.701,8.759 "/>
+<polygon id="col1" style="fill:#F453F9;" points="77.351,30.583 76.995,211.224 223.477,185.352 230.872,23.413 77.351,30.583 "/>
+<g>
+	<path d="M10.005,13.907l0.146-1.417l133.593-4.451l87.238,13.664l-0.11,0.709l0.11-0.709l-0.078,1.428L77.282,30.306L10.005,13.907
+		L10.005,13.907z M15.44,13.751l61.979,15.108l146.332-6.834L143.655,9.479L15.44,13.751L15.44,13.751z"/>
+	<path d="M76.632,29.582l0.001-0.684l154.991-7.242l-7.456,163.303L76.272,211.08L76.632,29.582L76.632,29.582z M77.714,209.367
+		l145.07-25.624l7.333-160.577L78.069,30.269L77.714,209.367L77.714,209.367z"/>
+</g>
+<line style="fill:none;" x1="76.272" y1="211.08" x2="12.724" y2="162.099"/>
+<path style="fill:none;" d="M12.724,162.099l63.548,48.982L12.724,162.099z"/>
+<path style="fill:none;" d="M10.005,13.907"/>
+<polyline style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;" points="76.995,210.224 12.724,162.099 
+	11.241,13.907 "/>
+</svg>

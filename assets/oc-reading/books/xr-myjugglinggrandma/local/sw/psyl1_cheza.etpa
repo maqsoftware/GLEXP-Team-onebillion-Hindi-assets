@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl1_cheza.aif</url>
+	<relurl>psyl1_cheza.aif</relurl>
+	<timings text="che - za" frames="55652">
+		<timing id="0" start="0.000" end="0.430" startframe="0" framelength="18977" text="che"/>
+		<timing id="1" start="0.741" end="1.262" startframe="32678" framelength="22974" text="za"/>
+	</timings>
+</xml>

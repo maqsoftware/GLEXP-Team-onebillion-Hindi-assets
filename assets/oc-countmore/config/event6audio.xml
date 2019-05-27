@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_one</phrase>
+			<phrase>6_two</phrase>
+			<phrase>6_three</phrase>
+			<phrase>6_four</phrase>
+			<phrase>6_five</phrase>
+			<phrase>6_six</phrase>
+			<phrase>6_seven</phrase>
+			<phrase>6_eight</phrase>
+			<phrase>6_nine</phrase>
+			<phrase>6_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_nowletscountintwos</phrase>
+			<phrase>6_two</phrase>
+			<phrase>6_four</phrase>
+			<phrase>6_six</phrase>
+			<phrase>6_eight</phrase>
+			<phrase>6_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_wecalltheseevennumbers</phrase>
+			<phrase>6_andtheseareoddnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twoisanevennumber</phrase>
+			<phrase>6_fourisanevennumber</phrase>
+			<phrase>6_sixisanevennumber</phrase>
+			<phrase>6_eightisanevennumber</phrase>
+			<phrase>6_tenisanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseanotherevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanotherevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twoisanevennumber</phrase>
+			<phrase>6_fourisanevennumber</phrase>
+			<phrase>6_sixisanevennumber</phrase>
+			<phrase>6_eightisanevennumber</phrase>
+			<phrase>6_tenisanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>6_whenyoucountintwosfromtwothenumbersareevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowchooseanoddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanoddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_oneisanoddnumber</phrase>
+			<phrase>6_threeisanoddnumber</phrase>
+			<phrase>6_fiveisanoddnumber</phrase>
+			<phrase>6_sevenisanoddnumber</phrase>
+			<phrase>6_nineisanoddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanoddnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseanotheroddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanotheroddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_oneisanoddnumber</phrase>
+			<phrase>6_threeisanoddnumber</phrase>
+			<phrase>6_fiveisanoddnumber</phrase>
+			<phrase>6_sevenisanoddnumber</phrase>
+			<phrase>6_nineisanoddnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanoddnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="DEMO2">
+			<phrase>6_eleven</phrase>
+			<phrase>6_twelve</phrase>
+			<phrase>6_thirteen</phrase>
+			<phrase>6_fourteen</phrase>
+			<phrase>6_fifteen</phrase>
+			<phrase>6_sixteen</phrase>
+			<phrase>6_seventeen</phrase>
+			<phrase>6_eighteen</phrase>
+			<phrase>6_nineteen</phrase>
+			<phrase>6_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_letscountsomemoreintwos</phrase>
+			<phrase>6_twelve</phrase>
+			<phrase>6_fourteen</phrase>
+			<phrase>6_sixteen</phrase>
+			<phrase>6_eighteen</phrase>
+			<phrase>6_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_sotheseareevennumbers</phrase>
+			<phrase>6_andtheseareoddnumbers_6f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twelveisanevennumber</phrase>
+			<phrase>6_fourteenisanevennumber</phrase>
+			<phrase>6_sixteenisanevennumber</phrase>
+			<phrase>6_eighteenisanevennumber</phrase>
+			<phrase>6_twentyisanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_chooseanotherevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_chooseanotherevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_chooseanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twelveisanevennumber</phrase>
+			<phrase>6_fourteenisanevennumber</phrase>
+			<phrase>6_sixteenisanevennumber</phrase>
+			<phrase>6_eighteenisanevennumber</phrase>
+			<phrase>6_twentyisanevennumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>6_countingintwoslikethisgivesalltheevennumbers</phrase>
+			<phrase>6_theothernumbersareoddnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="DEMO">
+			<phrase>6_nowlook</phrase>
+			<phrase>6_iputanevennumberintotheblueloop</phrase>
+			<phrase>6_andanoddnumberintotheredloop</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l">
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_dragtheevennumbersintotheblueloopandtheoddnumbersintotheredloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheevennumbersintotheblueloopandtheoddnumbersintotheredloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_theredloopisforoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_theblueloopisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6m">
+		<phrasegroup id="PROMPT">
+			<phrase>6_sortthese</phrase>
+			<phrase>6_theblueloopisforevennumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheevennumbersintotheblueloopandtheoddnumbersintotheredloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_theredloopisforoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_theblueloopisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6n">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowsortthese</phrase>
+			<phrase>6_theredloopisforoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheevennumbersintotheblueloopandtheoddnumbersintotheredloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_theredloopisforoddnumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_theblueloopisforevennumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_excellentyoupickedoutevennumbersandoddnumbersfromonetotwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="drop">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

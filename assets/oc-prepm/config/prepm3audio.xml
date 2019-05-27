@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180119.151437520">
+	<event id="1">
+		<phrasegroup id="PROMPT">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>prepm3_choosethecorrectanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="counting_10">
+		<phrasegroup id="DEMO">
+			<phrase>prepm3_letsseehowyoucanuseyourfingerstohelpyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="counting_20">
+		<phrasegroup id="DEMO">
+			<phrase>prepm3_letsseehowyoucanusebottletopstohelpyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equation">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="count">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="highlight">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="video">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="130" >
+		<rectangle id="swatch_0" pos="0.816818,0.256978" src="swatch_0" fill="242,238,251" stroke="255,216,1" strokewidth="5" zpos="0" hidden="true" x="0.786503" y="0.216558" width="0.0606308" height="0.0808411" />
+		<rectangle id="swatch_1" pos="0.816818,0.373825" src="swatch_1" fill="239,252,213" stroke="163,55,249" strokewidth="5" zpos="0.001" hidden="true" x="0.786503" y="0.333405" width="0.0606308" height="0.0808411" />
+		<rectangle id="swatch_2" pos="0.816818,0.486181" src="swatch_2" fill="255,235,242" stroke="255,43,108" strokewidth="5" zpos="0.002" hidden="true" x="0.786503" y="0.44576" width="0.0606308" height="0.0808411" />
+		<rectangle id="swatch_3" pos="0.816818,0.602153" src="swatch_3" fill="252,250,223" stroke="19,164,192" strokewidth="5" zpos="0.003" hidden="true" x="0.786503" y="0.561732" width="0.0606308" height="0.0808411" />
+		<rectangle id="swatch_4" pos="0.816818,0.712911" src="swatch_4" fill="226,254,252" stroke="254,155,1" strokewidth="5" zpos="0.004" hidden="true" x="0.786503" y="0.67249" width="0.0606308" height="0.0808411" />
+	</event>
+	<event id="text" >
+		<rectangle id="backrect" pos="0.500977,0.341146" src="backrect" fill="254,155,1" zpos="3" widthtracksheight="true" x="0.311523" y="0.0885417" width="0.378906" height="0.505208" pxwidth="388" pxheight="388" />
+		<rectangle id="picrect" pos="0.5,0.5" parent="backrect" src="picrect" fill="255,255,255" zpos="3.001" x="0.0128866" y="0.0128866" width="0.974227" height="0.974227" />
+		<rectangle id="textbox" pos="0.500257,0.787735" src="textbox" fill="255,38,0" stroke="0,0,0" strokewidth="1" zpos="3.002" hidden="true" x="0.312748" y="0.667241" width="0.375019" height="0.240987" />
+	</event>
+	<event id="notext" >
+		<rectangle id="backrect" pos="0.500977,0.470139" src="backrect" fill="254,155,1" zpos="3" widthtracksheight="true" x="0.311523" y="0.217534" width="0.378906" height="0.505208" pxwidth="388" pxheight="388" />
+		<rectangle id="picrect" pos="0.5,0.5" parent="backrect" src="picrect" fill="255,255,255" zpos="3.001" x="0.0128866" y="0.0128866" width="0.974227" height="0.974227" />
+	</event>
+	<event id="puzzle9" >
+		<rectangle id="pos_0" pos="0.30847,0.858164" src="pos_0" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.008" hidden="true" x="0.247395" y="0.776443" width="0.12215" height="0.163442" />
+		<rectangle id="pos_1" pos="0.112188,0.21312" src="pos_1" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.001" hidden="true" x="0.0511131" y="0.131399" width="0.12215" height="0.163442" />
+		<rectangle id="pos_2" pos="0.183138,0.433258" src="pos_2" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.002" hidden="true" x="0.122063" y="0.351537" width="0.12215" height="0.163442" />
+		<rectangle id="pos_3" pos="0.10985,0.6766" src="pos_3" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.003" hidden="true" x="0.0487747" y="0.594879" width="0.12215" height="0.163442" />
+		<rectangle id="pos_4" pos="0.803888,0.159739" src="pos_4" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.004" hidden="true" x="0.742813" y="0.0780182" width="0.12215" height="0.163442" />
+		<rectangle id="pos_5" pos="0.884501,0.391454" src="pos_5" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.005" hidden="true" x="0.823425" y="0.309733" width="0.12215" height="0.163442" />
+		<rectangle id="pos_6" pos="0.794222,0.614955" src="pos_6" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.006" hidden="true" x="0.733147" y="0.533234" width="0.12215" height="0.163442" />
+		<rectangle id="pos_7" pos="0.885004,0.867233" src="pos_7" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.007" hidden="true" x="0.823929" y="0.785512" width="0.12215" height="0.163442" />
+		<rectangle id="pos_8" pos="0.588179,0.85493" src="pos_8" fill="255,255,255" stroke="0,0,0" strokewidth="1" zpos="4.009" hidden="true" x="0.527103" y="0.773209" width="0.12215" height="0.163442" />
+		<vector id="puzzle" pos="0.499628,0.5" parent="picrect" src="puzzle9" scalex="0.754359" scaley="0.754359" zpos="4" />
+	</event>
+	<event id="puzzle4" >
+		<rectangle id="pos_0" pos="0.156189,0.33181" src="pos_0" fill="226,254,252" zpos="3" hidden="true" x="0.0640831" y="0.208455" width="0.184212" height="0.246709" />
+		<rectangle id="pos_1" pos="0.849854,0.446968" src="pos_1" fill="226,254,252" zpos="3.001" hidden="true" x="0.757748" y="0.323613" width="0.184212" height="0.246709" />
+		<rectangle id="pos_2" pos="0.197826,0.787132" src="pos_2" fill="226,254,252" zpos="3.003" hidden="true" x="0.105721" y="0.663778" width="0.184212" height="0.246709" />
+		<rectangle id="pos_3" pos="0.817528,0.77874" src="pos_3" fill="226,254,252" zpos="3.002" hidden="true" x="0.725422" y="0.655385" width="0.184212" height="0.246709" />
+		<vector id="puzzle" pos="0.500067,0.49799" parent="picrect" src="puzzle4" scalex="1.13579" scaley="1.13579" zpos="4" />
+	</event>
+</events>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="90" >
+		<rectangle id="bottombar" pos="0.499538,0.881226" src="bottombar" fill="189,248,255" zpos="0" x="-0.0419922" y="0.74943" width="1.08306" height="0.26359" />
+		<path id="line" pos="0.29097,0.569082" src="line" fill="189,248,255" stroke="120,208,219" strokewidth="6" zpos="0.001" d="M0.2316 0.5691L0.3504 0.5691" />
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="1" />
+	</event>
+</events>

@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="“Nani ana uthubutu wa kunisumbua nikiwa nimelala?” Badi aliuliza na alikaa kitako." frames="292240">
+		<timing id="0" start="0.000" end="0.447" startframe="0" framelength="19717" text="Nani"/>
+		<timing id="1" start="0.447" end="0.726" startframe="19717" framelength="12296" text="ana"/>
+		<timing id="2" start="0.726" end="1.276" startframe="32013" framelength="24247" text="uthubutu"/>
+		<timing id="3" start="1.276" end="1.382" startframe="56260" framelength="4702" text="wa"/>
+		<timing id="4" start="1.382" end="2.134" startframe="60962" framelength="33148" text="kunisumbua"/>
+		<timing id="5" start="2.134" end="2.431" startframe="94110" framelength="13100" text="nikiwa"/>
+		<timing id="6" start="2.431" end="3.253" startframe="107210" framelength="36268" text="nimelala"/>
+		<timing id="7" start="3.873" end="4.341" startframe="170811" framelength="20646" text="Badi"/>
+		<timing id="8" start="4.341" end="5.094" startframe="191457" framelength="33176" text="aliuliza"/>
+		<timing id="9" start="5.094" end="5.404" startframe="224633" framelength="13687" text="na"/>
+		<timing id="10" start="5.404" end="5.996" startframe="238320" framelength="26085" text="alikaa"/>
+		<timing id="11" start="5.996" end="6.627" startframe="264405" framelength="27835" text="kitako"/>
+	</timings>
+</xml>

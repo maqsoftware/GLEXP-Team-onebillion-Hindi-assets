@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180112.132334065">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>clt_letspractisemakingthiscapitalletter</phrase>
+			<phrase>clt_firsttouchitandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>clt_letspractisemakingtheseletters</phrase>
+			<phrase>clt_firsttouchthemandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>clt_touchtheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>clt_touchtheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>clt_touchtheletters</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.REMINDER">
+			<phrase>clt_touchtheletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>clt_nowletsseehowtomakeit</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>clt_nowletsseehowtomakethem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>clt_watchagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="DEMO">
+			<phrase>clt_andagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>clt_soletswrite</phrase>
+			<phrase>clt_watchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>clt_istartatthedot</phrase>
+			<phrase>clt_ifollowtheorangelinewithmyfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>clt_next</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>clt_next</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>clt_next</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="DEMO">
+			<phrase>clt_yourturn</phrase>
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="PROMPT">
+			<phrase>clt_goodhaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k">
+		<phrasegroup id="PROMPT">
+			<phrase>clt_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>clt_startatthedotandfollowtheorangelinewithyourfinger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>clt_welldoneyoumadethiscapitalletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>clt_welldoneyoumadetheseletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide">
+			<phrase>cf_short_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="doton">
+			<phrase> light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteron">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="">
+			<phrase></phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="scrape">
+			<phrase>cf_quite_steady_hum</phrase>
+		</phrasegroup>
+	</event>
+</audio>

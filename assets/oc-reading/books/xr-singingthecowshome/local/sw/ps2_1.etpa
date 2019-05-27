@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="“Tunahitaji familia ya kumtunza mvulana huyu,” chifu alisema." frames="515739">
+		<timing id="0" start="0.000" end="1.144" startframe="0" framelength="50441" text="Tunahitaji"/>
+		<timing id="1" start="1.646" end="2.477" startframe="72596" framelength="36624" text="familia"/>
+		<timing id="2" start="3.298" end="3.922" startframe="145433" framelength="27532" text="ya"/>
+		<timing id="3" start="4.610" end="5.627" startframe="203287" framelength="44878" text="kumtunza"/>
+		<timing id="4" start="6.180" end="7.198" startframe="272559" framelength="44852" text="mvulana"/>
+		<timing id="5" start="8.047" end="8.699" startframe="354894" framelength="28738" text="huyu"/>
+		<timing id="6" start="9.472" end="10.225" startframe="417720" framelength="33196" text="chifu"/>
+		<timing id="7" start="10.843" end="11.695" startframe="478183" framelength="37556" text="alisema"/>
+	</timings>
+</xml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sb_letsbreakwordsintosyllables</phrase>
+			<phrase>sb_touchthebutton</phrase>
+			<phrase>sb_seeifyoucantalkalong</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>sb_nowtouchthebuttonformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>sb_touchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sb_greatwebrokewordsintosyllables</phrase>
+		</phrasegroup>
+	</event>
+</audio>

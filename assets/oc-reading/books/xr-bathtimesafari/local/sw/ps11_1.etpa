@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps11_1.aif</url>
+	<relurl>ps11_1.aif</relurl>
+	<timings text="Jack ameona nini sasa? Ni sabuni?" frames="515707">
+		<timing id="0" start="0.000" end="0.605" startframe="0" framelength="26680" text="Jack"/>
+		<timing id="1" start="1.958" end="2.940" startframe="86361" framelength="43302" text="ameona"/>
+		<timing id="2" start="4.357" end="5.066" startframe="192147" framelength="31284" text="nini"/>
+		<timing id="3" start="6.656" end="7.500" startframe="293515" framelength="37238" text="sasa"/>
+		<timing id="4" start="8.851" end="9.344" startframe="390321" framelength="21757" text="Ni"/>
+		<timing id="5" start="10.887" end="11.694" startframe="480124" framelength="35583" text="sabuni"/>
+	</timings>
+</xml>

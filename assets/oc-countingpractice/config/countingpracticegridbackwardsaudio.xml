@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180517.181624423">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_letspractisecounting</phrase>
+			<phrase>countingpracticegrid_thistimewellcountbackwards</phrase>
+			<phrase>countingpracticegrid_ready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_letspractisecounting</phrase>
+			<phrase>countingpracticegrid_thistimewellcountbackwards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_touchthisonceandcountalong</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>countingpracticegrid_touchtherowofemptyboxesonce</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_touchandkeepcounting</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>countingpracticegrid_touchtherowofemptyboxesonce</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_touchandcountalong</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>countingpracticegrid_touchtherowofemptyboxesonce</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_nexttouchallthenumbersyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>countingpracticegrid_touchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>countingpracticegrid_itsthisone</phrase>
+			<phrase>countingpracticegrid_nowfindthenextone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>countingpracticegrid_touchthisnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_nowwatch</phrase>
+			<phrase>countingpracticegrid_youmustdragthesebackintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>countingpracticegrid_dragthenumberstotherightplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>countingpracticegrid_dragtotherightplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>countingpracticegrid_good</phrase>
+			<phrase>countingpracticegrid_letshearthenumbersagain</phrase>
+			<phrase>countingpracticegrid_youcansaythemtoo</phrase>
+			<phrase>countingpracticegrid_verygoodwepractisedcountingbackwards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="numberingrid" vol="1.2">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="bounce">
+			<phrase>smack_roll_longer</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridflash">
+			<phrase>magic_harp_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

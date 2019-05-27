@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_youcantouchasquaretocolouritin</phrase>
+			<phrase>2_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_fillinsevensquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinsevensquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_seven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfillineightsquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillineightsquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillinninesquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinninesquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_nine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimefillintensquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillintensquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfillineightcircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillineightcircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eight_2f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillinsevencircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinsevencircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_seven_2g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillinninecircleshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillinninecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_nine_2h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_fillintencircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_fillintencircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_ten_2i</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_goodyoufilledinshapestomatchthenumberisaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

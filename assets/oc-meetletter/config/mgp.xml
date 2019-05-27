@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" loc_a="1,2,3,4,5" loc_c_4="1,3,4,7" loc_c_5="1,2,3,5,6" loc_c_6="1,2,3,4,5,6" >
+		<vector id="box" pos="0.15959,0.789022" src="box" scalex="1.48204" scaley="1.48204" zpos="0" hidden="true" />
+		<rectangle id="imagebox" pos="0.82348,0.38144" src="imagebox" fill="4,51,255" zpos="0.002" hidden="true" widthtracksheight="true" x="0.661133" y="0.164977" width="0.324694" height="0.432925" pxwidth="332.486" pxheight="332.486" />
+		<rectangle id="loc_1" pos="0.155876,0.365458" src="loc_1" fill="0,249,0" zpos="0.004" hidden="true" x="0.13691" y="0.340169" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_2" pos="0.372032,0.158971" src="loc_2" fill="0,249,0" zpos="0.005" hidden="true" x="0.353065" y="0.133682" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_3" pos="0.44743,0.55923" src="loc_3" fill="0,249,0" zpos="0.006" hidden="true" x="0.428463" y="0.533941" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_4" pos="0.657421,0.185338" src="loc_4" fill="0,249,0" zpos="0.007" hidden="true" x="0.638454" y="0.160049" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_5" pos="0.630508,0.81985" src="loc_5" fill="0,249,0" zpos="0.008" hidden="true" x="0.611542" y="0.794561" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_6" pos="0.778481,0.455902" src="loc_6" fill="0,249,0" zpos="0.009" hidden="true" x="0.759514" y="0.430613" width="0.0379333" height="0.0505778" />
+		<rectangle id="loc_7" pos="0.770737,0.78771" src="loc_7" fill="0,249,0" zpos="0.01" hidden="true" x="0.75177" y="0.762421" width="0.0379333" height="0.0505778" />
+		<vector id="presenter" pos="0.8815,0.647497" src="annawithear" scalex="1.11" scaley="1.11" zpos="0.003" hidden="true" />
+		<rectangle id="textbox" pos="0.490494,0.38144" src="textbox" fill="255,255,255" stroke="0,174,238" strokewidth="3" zpos="0.001" hidden="true" widthtracksheight="true" x="0.333984" y="0.205154" width="0.313019" height="0.35257" pxwidth="320.531" pxheight="270.774" />
+	</event>
+</events>

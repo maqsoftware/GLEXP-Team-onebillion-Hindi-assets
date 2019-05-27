@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/p0_1.aif</url>
+	<relurl>p0_1.aif</relurl>
+	<timings text="Jinsi ya kujenga nyumba" frames="58176">
+		<timing id="0" start="0.000" end="0.407" startframe="0" framelength="17931" text="Jinsi"/>
+		<timing id="1" start="0.407" end="0.475" startframe="17931" framelength="3008" text="ya"/>
+		<timing id="2" start="0.475" end="0.940" startframe="20939" framelength="20514" text="kujenga"/>
+		<timing id="3" start="0.940" end="1.319" startframe="41453" framelength="16723" text="nyumba"/>
+	</timings>
+</xml>

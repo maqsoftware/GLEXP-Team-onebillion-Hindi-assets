@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="1w">
+		<phrasegroup id="DEMO">
+			<phrase>wvrec_letsreadoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wvrec_letsreadoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>wvrec_lookatyouinhere</phrase>
+			<phrase>wvrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>wvrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wvrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wvrec_icanthearyou</phrase>
+			<phrase>wvrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wvrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>wvrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2w">
+		<phrasegroup id="PROMPT">
+			<phrase>wvrec_nowtrythisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wvrec_icanthearyou</phrase>
+			<phrase>wvrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wvrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3w">
+		<phrasegroup id="PROMPT">
+			<phrase>wvrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wvrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wvrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="defaultw">
+		<phrasegroup id="REMINDER">
+			<phrase>wvrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>wvrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>wvrec_goodyoupractisedreadingoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="texton">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>chime_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

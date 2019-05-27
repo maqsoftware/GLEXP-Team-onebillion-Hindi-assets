@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master5" textcolour="73,73,73" linecolour="150,144,116" scenes="5a,5c,5d,5e,5f,5g,5h,5k,5l,5m,5n,5o,5p,5q,5r,5s,5t,5u,5v,5w" hilitecolour="255,228,0" colour="222,217,196" >
+		<rectangle id="workrect" pos="0.500057,0.530815" src="workrect" fill="170,154,132" zpos="0" hidden="true" heighttrackswidth="true" x="0.0498047" y="0.176717" width="0.900505" height="0.708196" pxwidth="922.117" pxheight="543.895" />
+	</event>
+	<event id="5a" correct="3" numcol="169,142,94" >
+	</event>
+	<event id="5c" correct="6" numcol="58,127,144" >
+	</event>
+	<event id="5d" correct="9" numcol="241,146,10" reset="true" >
+	</event>
+	<event id="5e" mask="2,4,7" maskcol="206,255,110" correct="4" numcol="146,174,36" >
+	</event>
+	<event id="5f" mask="3,7,9" maskcol="255,168,244" correct="7" numcol="165,101,170" >
+	</event>
+	<event id="5g" mask="2,4,6,9" maskcol="255,208,96" correct="6" numcol="200,145,0" >
+	</event>
+	<event id="5h" mask="3,5,8,10" maskcol="101,255,239" correct="10" numcol="89,157,154" reset="true" >
+	</event>
+	<event id="5k" mask="25,39,52,67" maskcol="255,162,0" correct="25" numcol="241,146,10" single="true" >
+	</event>
+	<event id="5l" mask="11,76,44" maskcol="163,255,55" correct="11" numcol="77,152,71" single="true" >
+	</event>
+	<event id="5m" mask="43,14,85" maskcol="0,234,255" correct="43" numcol="49,165,214" single="true" >
+	</event>
+	<event id="5n" mask="57,56,17,84" maskcol="179,77,251" correct="57" numcol="162,106,230" single="true" >
+	</event>
+	<event id="5o" mask="69,96,59,33" maskcol="255,234,0" correct="69" numcol="215,172,0" single="true" >
+	</event>
+	<event id="5p" mask="8,80,83,32" maskcol="101,255,239" correct="8" numcol="49,165,214" single="true" >
+	</event>
+	<event id="5q" mask="72,17,71,55,12" maskcol="65,217,108" correct="72" numcol="58,127,144" single="true" >
+	</event>
+	<event id="5r" mask="88,80,18,32,71" maskcol="255,162,0" correct="88" numcol="241,146,10" single="true" >
+	</event>
+	<event id="5s" mask="95,90,45,32,13" maskcol="66,146,255" correct="95" numcol="103,140,171" single="true" >
+	</event>
+	<event id="5t" mask="19,90,22,45,86" maskcol="163,255,55" correct="19" numcol="77,152,71" single="true" >
+	</event>
+	<event id="5u" mask="64,60,46,16,56,93" maskcol="0,255,228" correct="64" numcol="49,165,214" single="true" >
+	</event>
+	<event id="5v" mask="76,77,57,70,17,23" maskcol="255,162,0" correct="76" numcol="241,146,10" single="true" >
+	</event>
+	<event id="5w" mask="87,86,77,24,14,35,48" maskcol="255,234,0" correct="87" numcol="215,172,0" single="true" >
+	</event>
+</events>

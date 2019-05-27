@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookthreeveryhungrydragons</phrase>
+			<phrase>6_thisredbuttonbringsfood</phrase>
+			<phrase>6_yougetascoreforsharingthefoodfairly</phrase>
+			<phrase>6_touchtheredbuttontostart</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_cabbages</phrase>
+			<phrase>6_butthisdragonhasthemall</phrase>
+			<phrase>6_dragcabbagestosharethemfairly</phrase>
+			<phrase>6_likethis</phrase>
+			<phrase>6_whenyouhavefinishedtouchthisbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_whenyouarereadytouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_whenyouarereadytouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_touchtheredbuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="PROMPT">
+			<phrase>6_carrots</phrase>
+			<phrase>6_sharethemfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_whenyouarereadytouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_whenyouarereadytouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_nowgetsomemorefood</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="PROMPT">
+			<phrase>6_turnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_trytheredbuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="PROMPT">
+			<phrase>6_cucumbers</phrase>
+			<phrase>6_theylikecucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_morefoodplease</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="PROMPT">
+			<phrase>6_potatoes</phrase>
+			<phrase>6_theylovepotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_isthereanymorefood</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_onions</phrase>
+			<phrase>6_yummy</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_theywantmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="PROMPT">
+			<phrase>6_oranges</phrase>
+			<phrase>6_shareandbefair</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_isthereanymorefood</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="PROMPT">
+			<phrase>6_cakes</phrase>
+			<phrase>6_whatatreat</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_sharethefoodoutfairly</phrase>
+			<phrase>6_thentouchtheyellowbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_dropfoodinfrontofadragon</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_touchtheredbuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_touchtheredbutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="DEMO">
+			<phrase>6_sorrythefoodsallgone</phrase>
+			<phrase>6_byebyedragons</phrase>
+			<phrase>6_youfedthehungrydragons</phrase>
+			<phrase>6_andlookatyourscoreoutoftwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fullmarksexcellent</phrase>
+			<phrase>6_good</phrase>
+			<phrase>6_ifyouplayagainyoumightgetfullmarks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrot">
+			<phrase>fallingcarrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

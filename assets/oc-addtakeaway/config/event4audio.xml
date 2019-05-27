@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_twofrogs</phrase>
+			<phrase>4_touchthelinetoaddonemorefrog</phrase>
+			<phrase>4_nowtherearethreefrogs</phrase>
+			<phrase>4_touchthree</phrase>
+			<phrase>4_twoaddoneequalsthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>4_twofrogs</phrase>
+			<phrase>4_addthreefrogsonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addthreefrogsonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyfrogsaretherenow</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanyfrogsaretherenow</phrase>
+			<phrase>4_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_twoaddthreeequalsfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_threebirds</phrase>
+			<phrase>4_addtwobirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addtwobirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threeaddtwoequalsfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_onefish</phrase>
+			<phrase>4_addfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_oneaddfourequalsfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_fourballoons</phrase>
+			<phrase>4_addtwoballoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addtwoballoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyballoonsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanyballoonsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fouraddtwoequalssix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_fourflowers</phrase>
+			<phrase>4_addthreeflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addthreeflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fouraddthreeequalsseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_threecandles</phrase>
+			<phrase>4_addfourcandles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addfourcandles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanycandlesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_threeaddfourequalsseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_fivestars</phrase>
+			<phrase>4_addtwostars</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addtwostars</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fiveaddtwoequalsseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_onecounter</phrase>
+			<phrase>4_addsixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addsixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_oneaddsixequalsseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_fivediamonds</phrase>
+			<phrase>4_addfourdiamonds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addfourdiamonds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanydiamondsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanydiamondsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_fiveaddfourequalsnine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="PROMPT">
+			<phrase>4_sixsquares</phrase>
+			<phrase>4_addfoursquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_addfoursquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>4_howmanysquaresaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>4_howmanysquaresaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_sixaddfourequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_welldoneyoupracticedadding</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

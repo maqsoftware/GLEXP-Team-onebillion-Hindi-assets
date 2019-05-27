@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180120.111016214">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>prepr3_hereisashortstory</phrase>
+			<phrase>prepr3_iwantyoutoreaditaloud</phrase>
+			<phrase>prepr3_readitquicklybutcarefully</phrase>
+			<phrase>prepr3_whenyouhavefinishediwillaskyousomequestionsaboutwhatyouhaveread</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>prepr3_putyourfingeronthefirstwordandstartreadingaloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="arrow">
+		<phrasegroup id="PROMPT">
+			<phrase>prepr3_touchthearrowwhenyouareready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="prequestion">
+		<phrasegroup id="DEMO">
+			<phrase>prepr3_nowiwillaskyouafewquestionsaboutthestoryyoujustreadchoosethecorrectanswers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="feedback">
+		<phrasegroup id="DEMO">
+			<phrase>prepr3_thissentencegivesyoutheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="background">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+	</event>
+</audio>

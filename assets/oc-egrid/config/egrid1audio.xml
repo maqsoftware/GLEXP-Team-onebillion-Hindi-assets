@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170308.200348256">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>egrid1_letsdosomewordpractice</phrase>
+			<phrase>egrid1_watchme</phrase>
+			<phrase>egrid1_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>egrid1_letsdosomewordpractice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid1_toucheverywordandlisten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>egrid1_nowtouchthewordyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid1_touchthewordyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid1_touchthewordyouhear</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>egrid1_welldoneyoutouchedthewordsyouheard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="slide">
+			<phrase>slide_tear</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

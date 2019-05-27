@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps3_3.aif</url>
+	<relurl>ps3_3.aif</relurl>
+	<timings text="“Tembo hawaendi shuleni,” mwalimu alijibu." frames="227749">
+		<timing id="0" start="0.000" end="0.664" startframe="0" framelength="29295" text="Tembo"/>
+		<timing id="1" start="0.956" end="1.949" startframe="42151" framelength="43813" text="hawaendi"/>
+		<timing id="2" start="2.056" end="2.847" startframe="90660" framelength="34910" text="shuleni"/>
+		<timing id="3" start="3.347" end="4.188" startframe="147624" framelength="37051" text="mwalimu"/>
+		<timing id="4" start="4.388" end="5.164" startframe="193529" framelength="34220" text="alijibu"/>
+	</timings>
+</xml>

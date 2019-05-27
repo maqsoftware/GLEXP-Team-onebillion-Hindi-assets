@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.093401893">
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_letsdosomeaddingandsubtracting</phrase>
+			<phrase>6_lookthreebirds</phrase>
+			<phrase>6_touchinsidetheboxtoaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidetheboxtoaddtwomore</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanybirdsaretherealtogether</phrase>
+			<phrase>6_choosethenumberfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanybirdsaretherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+			<phrase>6_howmanybirdsaretherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanybirdsaretherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_therearefivebirds</phrase>
+			<phrase>6_letstakeawayyourtwobirdsagain</phrase>
+			<phrase>6_watchme</phrase>
+			<phrase>6_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4">
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanybirdsareleft</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_threeplustwoequalsfive</phrase>
+			<phrase>6_fiveminustwoequalsthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_countagain</phrase>
+			<phrase>6_howmanybirdsareleft</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="DEMO">
+			<phrase>6_thistimefourfish</phrase>
+			<phrase>6_touchinheretoaddthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanyfisharetherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanyfisharetherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_howmanyfisharetherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanyfisharetherealtogether</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_therearesevenfish</phrase>
+			<phrase>6_takeawayyourthreefishagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND3">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanyfishareleft</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fourplusthreeequalsseven</phrase>
+			<phrase>6_sevenminusthreeequalsfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_countagain</phrase>
+			<phrase>6_howmanyfishareleft</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanyfishareleft</phrase>
+			<phrase>6_choosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_fiveflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>6_touchinsidetheboxtoaddfourmoreflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanyflowersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanyflowersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+			<phrase>6_howmanyflowersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanyflowersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_therearenineflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyourfourflowersagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6c</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanyflowersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fiveplusfourequalsnine</phrase>
+			<phrase>6_nineminusfourequalsfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_countagain</phrase>
+			<phrase>6_howmanyflowersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanyflowersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="DEMO">
+			<phrase>6_sixcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addthreemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanycakesaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanycakesaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanycakesaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_ninecakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyourthreecakesagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanycakesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_sixplusthreeequalsnine</phrase>
+			<phrase>6_nineminusthreeequalssix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanycakesareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="DEMO">
+			<phrase>6_eightdiamonds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addthreemore_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanydiamondsaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanydiamondsaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanydiamondsaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_elevendiamonds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyourthreediamondsagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanydiamondsareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_eightplusthreeequalseleven</phrase>
+			<phrase>6_elevenminusthreeequalseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanydiamondsareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="DEMO">
+			<phrase>6_fourcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addsixmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_therearetencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyoursixcountersagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fourplussixequalsten</phrase>
+			<phrase>6_tenminussixequalsfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="DEMO">
+			<phrase>6_threecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addninemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_twelvecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyourninecountersagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_threeplusnineequalstwelve</phrase>
+			<phrase>6_twelveminusnineequalsthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6h">
+		<phrasegroup id="DEMO">
+			<phrase>6_thistimenocounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_addthreecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_touchinsidethebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>6_howmanycountersaretherealtogether</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>6_therearethreecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_takeawayyourcountersagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>6_touchinsidetheboxagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>6_howmanyareleft_6f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_zeroplusthreeequalsthree</phrase>
+			<phrase>6_threeminusthreeequalszero</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_lookagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>6_howmanycountersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale6h">
+		<phrasegroup id="DEMO">
+			<phrase>6_welldoneyousawhowaddingandsubtractingarelinked</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6i">
+		<phrasegroup id="DEMO">
+			<phrase>6_letsdosomeaddingandsubtracting</phrase>
+			<phrase>6_look</phrase>
+			<phrase>6_whatisfourplusthree</phrase>
+			<phrase>6_ichoosetheanswerfromhere</phrase>
+			<phrase>6_nowwhatgoeshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fourplusthreeequalsseven_6i</phrase>
+			<phrase>6_sevenminusthreeequalsfour_6i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6j">
+		<phrasegroup id="DEMO">
+			<phrase>6_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_fiveplusfour</phrase>
+			<phrase>6_whatstheanswer</phrase>
+			<phrase>6_dragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain</phrase>
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_whatsthemissingnumberthistime</phrase>
+			<phrase>6_dragitintoplace_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fiveplusfourequalsnine_6j</phrase>
+			<phrase>6_nineminusfourequalsfive_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6k">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_whatsthemissingnumberthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_tenplustwoequalstwelve</phrase>
+			<phrase>6_twelveminustwoequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6l">
+		<phrasegroup id="PROMPT">
+			<phrase>6_nowthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragtheanswerintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_eightplusfiveequalsthirteen</phrase>
+			<phrase>6_thirteenminusfiveequalseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6m">
+		<phrasegroup id="PROMPT">
+			<phrase>6_fillinthemissingnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fourteenplusthreeequalsseventeen</phrase>
+			<phrase>6_seventeenminusthreeequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6n">
+		<phrasegroup id="PROMPT">
+			<phrase>6_anotheroneforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_fifteenplusfiveequalstwenty</phrase>
+			<phrase>6_twentyminusfiveequalsfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6o">
+		<phrasegroup id="PROMPT">
+			<phrase>6_trythisone_6o</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_twelveplusfourequalssixteen</phrase>
+			<phrase>6_sixteenminusfourequalstwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6p">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_ninepluszeroequalsnine</phrase>
+			<phrase>6_nineminuszeroequalsnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6q">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_zeroplustwelveequalstwelve</phrase>
+			<phrase>6_twelveminustwelveequalszero</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6r">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_nineplusfiveequalsfourteen</phrase>
+			<phrase>6_fourteenminusfiveequalsnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6s">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>6_dragthemissingnumberintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_sevenpluseightequalsfifteen</phrase>
+			<phrase>6_fifteenminuseightequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>6_tryagain_6j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>6_welldoneyousawhowaddingandsubtractingarelinked</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="numpopon">
+			<phrase>note_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="mcnumpopon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="objpopon">
+			<phrase>slap</phrase>
+		</phrasegroup>
+		<phrasegroup id="objpopoff">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="snapin">
+			<phrase>thud_2_loud</phrase>
+		</phrasegroup>
+	</event>
+</audio>

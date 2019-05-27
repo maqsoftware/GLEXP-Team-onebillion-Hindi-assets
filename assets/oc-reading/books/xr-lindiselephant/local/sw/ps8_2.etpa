@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps8_2.aif</url>
+	<relurl>ps8_2.aif</relurl>
+	<timings text="Lilikuwa linasogea karibu." frames="154421">
+		<timing id="0" start="0.000" end="1.089" startframe="0" framelength="48039" text="Lilikuwa"/>
+		<timing id="1" start="1.700" end="2.729" startframe="74966" framelength="45395" text="linasogea"/>
+		<timing id="2" start="2.925" end="3.502" startframe="129013" framelength="25408" text="karibu"/>
+	</timings>
+</xml>

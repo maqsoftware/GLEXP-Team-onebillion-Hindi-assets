@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps0_1.aif</url>
+	<relurl>ps0_1.aif</relurl>
+	<timings text="Safari wakati wa kuoga" frames="180515">
+		<timing id="0" start="0.000" end="0.802" startframe="0" framelength="35350" text="Safari"/>
+		<timing id="1" start="1.341" end="2.081" startframe="59147" framelength="32617" text="wakati"/>
+		<timing id="2" start="2.622" end="3.055" startframe="115628" framelength="19082" text="wa"/>
+		<timing id="3" start="3.549" end="4.093" startframe="156527" framelength="23988" text="kuoga"/>
+	</timings>
+</xml>

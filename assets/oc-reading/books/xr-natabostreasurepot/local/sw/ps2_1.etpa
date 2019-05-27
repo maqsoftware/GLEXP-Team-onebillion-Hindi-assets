@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Kawaida, Nura alikuwa akifurahi sana kucheza na kutengeneza vitu peke yake." frames="858258">
+		<timing id="0" start="0.000" end="0.992" startframe="0" framelength="43769" text="Kawaida"/>
+		<timing id="1" start="1.974" end="2.811" startframe="87073" framelength="36874" text="Nura"/>
+		<timing id="2" start="3.762" end="4.852" startframe="165887" framelength="48108" text="alikuwa"/>
+		<timing id="3" start="5.556" end="6.861" startframe="245009" framelength="57547" text="akifurahi"/>
+		<timing id="4" start="7.598" end="8.566" startframe="335058" framelength="42698" text="sana"/>
+		<timing id="5" start="9.455" end="10.480" startframe="416957" framelength="45219" text="kucheza"/>
+		<timing id="6" start="11.297" end="12.011" startframe="498193" framelength="31489" text="na"/>
+		<timing id="7" start="12.867" end="14.030" startframe="567435" framelength="51294" text="kutengeneza"/>
+		<timing id="8" start="14.737" end="15.570" startframe="649908" framelength="36719" text="vitu"/>
+		<timing id="9" start="16.607" end="17.428" startframe="732375" framelength="36199" text="peke"/>
+		<timing id="10" start="18.122" end="19.054" startframe="799164" framelength="41114" text="yake"/>
+	</timings>
+</xml>

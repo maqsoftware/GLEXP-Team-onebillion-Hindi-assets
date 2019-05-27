@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="wa" >
+	</event>
+	<event id="wa" >
+		<vector id="presenter" pos="0.511253,0.642746" src="preswelcome" scalex="1.84" scaley="1.84" zpos="0" />
+	</event>
+</events>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180525.081000551">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>tph_nowyoulltypephrases</phrase>
+			<phrase>tph_morethanoneword</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>tph_getready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>tph_nowyoulltypephrases</phrase>
+			<phrase>tph_morethanoneword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>tph_heresthefirstone</phrase>
+			<phrase>tph_watchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>tph_theresaspacebetweenthewords</phrase>
+			<phrase>tph_itouchthisforaspace</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>tph_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1_1">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_typethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>tph_good</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1_2">
+		<phrasegroup id="DEMO">
+			<phrase>tph_nowseeifyoucantypeitallagain</phrase>
+			<phrase>tph_andrememberyoucanlistenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2_1">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_letsdosomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2_2">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_nowtypeitallagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3_1">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3_2">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default_1">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="defaut_2">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last_1">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_andthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>tph_typewhatyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last_2">
+		<phrasegroup id="PROMPT">
+			<phrase>tph_typeitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>tph_showthespace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>tph_verygoodyoutypedphrases</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineshow">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="phraseon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="phraseoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="sentenceon">
+			<phrase>snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="sentenceoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="spacebar">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="fullstop">
+			<phrase>single_click_light_shorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="grey">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="keyswitch1">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="keyswitch2">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps1_1.aif</url>
+	<relurl>ps1_1.aif</relurl>
+	<timings text="“Balu, angalia hii!” Paulina anasema. “Ni toi kongwe ya baba!”" frames="622625">
+		<timing id="0" start="0.000" end="0.731" startframe="0" framelength="32249" text="Balu"/>
+		<timing id="1" start="1.319" end="2.193" startframe="58155" framelength="38541" text="angalia"/>
+		<timing id="2" start="3.190" end="3.747" startframe="140684" framelength="24561" text="hii"/>
+		<timing id="3" start="4.463" end="5.331" startframe="196817" framelength="38300" text="Paulina"/>
+		<timing id="4" start="5.950" end="6.965" startframe="262413" framelength="44764" text="anasema"/>
+		<timing id="5" start="7.737" end="8.306" startframe="341191" framelength="25118" text="Ni"/>
+		<timing id="6" start="9.180" end="9.862" startframe="404854" framelength="30040" text="toi"/>
+		<timing id="7" start="10.806" end="11.572" startframe="476553" framelength="33775" text="kongwe"/>
+		<timing id="8" start="12.309" end="12.928" startframe="542823" framelength="27307" text="ya"/>
+		<timing id="9" start="13.509" end="14.118" startframe="595763" framelength="26862" text="baba"/>
+	</timings>
+</xml>

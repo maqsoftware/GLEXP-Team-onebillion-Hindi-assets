@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="100" scenes="a,b,c" >
+		<rectangle id="rect" pos="0.73922,0.783834" src="rect" fill="4,51,255" fillopacity="0.15731" zpos="0" hidden="true" widthtracksheight="true" x="0.488346" y="0.692108" width="0.501747" height="0.183451" pxwidth="513.789" pxheight="140.891" />
+		<vector id="grid" pos="0.270164,0.451401" src="grid33" scalex="0.965161" scaley="1.07062" zpos="0.001" />
+		<path id="lne0" pos="0.164997,0.69563" parent="rect" src="lne0" fill="255,255,255" stroke="255,38,0" strokewidth="9.54" zpos="0.003" d="M0.0576827 0.69563L0.27231 0.69563" />
+		<path id="lne1" pos="0.399316,0.69563" parent="rect" src="lne1" fill="255,255,255" stroke="86,86,86" strokewidth="9.54224" zpos="0.004" d="M0.292002 0.69563L0.50663 0.69563" />
+		<path id="lne2" pos="0.633635,0.69563" parent="rect" src="lne2" fill="255,255,255" stroke="86,86,86" strokewidth="9.54224" zpos="0.005" d="M0.526321 0.69563L0.740949 0.69563" />
+		<path id="lne3" pos="0.867954,0.69563" parent="rect" src="lne3" fill="255,255,255" stroke="86,86,86" strokewidth="9.54224" zpos="0.006" d="M0.76064 0.69563L0.975268 0.69563" />
+		<image id="pic" pos="0.74707,0.386294" src="fc_dog" scalex="0.686577" scaley="0.686577" zpos="0.002" hidden="true" />
+		<rectangle id="vowelswatch" pos="0.188538,0.844126" src="vowelswatch" fill="255,90,183" zpos="0.007" hidden="true" x="0.151127" y="0.81483" width="0.0748215" height="0.0585938" />
+	</event>
+</events>

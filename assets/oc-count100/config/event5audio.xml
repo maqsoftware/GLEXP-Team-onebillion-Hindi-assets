@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookatthenumbers</phrase>
+			<phrase>5_fromone</phrase>
+			<phrase>5_toonehundred</phrase>
+			<phrase>5_thisisarowofnumbers</phrase>
+			<phrase>5_anotherrow</phrase>
+			<phrase>5_andanotherrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_moveyourfingeralongtherowthatstartswithtwentyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_startattwentyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_goallthewaytothirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_goallthewaytothirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_startattwentyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>5_startattwentyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_countwithme</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowstartatfiftyoneanddothesame</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_startatfiftyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_goallthewaytosixty</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_goallthewaytosixty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_startatfiftyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>5_startatfiftyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nextcolourintherowthatstartswitheightyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_startateightyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_goallthewaytoninety</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>5_goallthewaytoninety</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_startateightyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>5_startateightyone</phrase>
+			<phrase>5_andmoveyourfingeralongtherowtotheend</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="DEMO">
+			<phrase>5_thistimesomerowsarecovered</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichoneendsinforty</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichcoveredrowendsinforty</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichcoveredrowendsinforty</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_countwithme</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findtherowthatstartswithsixtyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findtherowthatstartswithsixtyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_findtherowthatstartswithsixtyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichrowhasfiftythreeinit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichrowhasfiftythreeinit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichrowhasfiftythreeinit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whereistherowwithonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whereistherowwithonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whereistherowwithonehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="DEMO">
+			<phrase>5_thistimesomenumbersarehiding</phrase>
+			<phrase>5_wherestwentyfive</phrase>
+			<phrase>5_heretwentyfivecomesaftertwentyfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_elevencomesbeforetwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findfortythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findfortythree</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fortythreecomesafterfortytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findfortythree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findfiftyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findfiftyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fiftysevencomesbeforefiftyeight</phrase>
+			<phrase>5_ithinkyouknowhowtofindnumbersletstrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findfiftyseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findsixtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findsixtynine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findsixtynine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findseventytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findseventytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findseventytwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5r">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findeightyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findeightyeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findeightyeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5s">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findninetyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findninetyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findninetyfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5t">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findnineteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5u">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findsixtyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findsixtyfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findsixtyfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5v">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findseventysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findseventysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findseventysix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5w">
+		<phrasegroup id="PROMPT">
+			<phrase>5_findeightyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_findeightyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_findeightyseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_verygoodyoupracticedwithnumbersuptoonehundred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="grid">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers">
+			<phrase>marimba_scale_up</phrase>
+		</phrasegroup>
+		<phrasegroup id="border">
+			<phrase>ping</phrase>
+		</phrasegroup>
+		<phrasegroup id="mask">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="peel">
+			<phrase>peel2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

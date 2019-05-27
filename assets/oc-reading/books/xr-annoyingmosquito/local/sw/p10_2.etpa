@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p10_2.aif</url>
+	<relurl>p10_2.aif</relurl>
+	<timings text="Akatupa chandarua kutoka kitandani kwake." frames="152568">
+		<timing id="0" start="0.000" end="0.669" startframe="0" framelength="29521" text="Akatupa"/>
+		<timing id="1" start="0.669" end="1.538" startframe="29521" framelength="38310" text="chandarua"/>
+		<timing id="2" start="1.854" end="2.331" startframe="81781" framelength="21033" text="kutoka"/>
+		<timing id="3" start="2.331" end="2.983" startframe="102814" framelength="28722" text="kitandani"/>
+		<timing id="4" start="2.983" end="3.460" startframe="131536" framelength="21032" text="kwake"/>
+	</timings>
+</xml>

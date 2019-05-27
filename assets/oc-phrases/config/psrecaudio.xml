@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180504.094649439">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_letspractisereadingoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>psrec_doyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_letspractisereadingoutloud</phrase>
+			<phrase>psrec_doyourbest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_firstwatchme</phrase>
+			<phrase>psrec_itouchthebutton</phrase>
+			<phrase>psrec_itouchitagain</phrase>
+			<phrase>psrec_nowyourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readthisoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readthesentenceoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>psrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>psrec_didyougetitright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>psrec_touchthearrowformore</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>psrec_touchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_dothesameforthisspeakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>psrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>psrec_howdidyoudothistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>psrec_touchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.INCORRECT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>psrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>psrec_touchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>psrec_touchthebutton</phrase>
+			<phrase>psrec_readoutloud</phrase>
+			<phrase>psrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW.REPEAT">
+			<phrase>psrec_touchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>psrec_icanthearyou</phrase>
+			<phrase>psrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>psrec_youpractisedreadingoutloudgood</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wordson">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+	</event>
+</audio>

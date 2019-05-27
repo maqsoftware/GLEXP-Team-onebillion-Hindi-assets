@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_letscounttogether</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_nine</phrase>
+			<phrase>2_ten</phrase>
+			<phrase>2_eleven</phrase>
+			<phrase>2_twelve</phrase>
+			<phrase>2_thirteen</phrase>
+			<phrase>2_fourteen</phrase>
+			<phrase>2_fifteen</phrase>
+			<phrase>2_sixteen</phrase>
+			<phrase>2_seventeen</phrase>
+			<phrase>2_eighteen</phrase>
+			<phrase>2_nineteen</phrase>
+			<phrase>2_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfindthenumberone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findtwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findthree</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_thirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findeight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findeighteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findeighteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eighteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findeighteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findten</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findseventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_seventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findseventeen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_fourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfourteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findsixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findsixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_sixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findsixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findnineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_nineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findnineteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_fifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findfifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2q">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowfindelevenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_eleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findeleven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findtwelveagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findtwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findtwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2s">
+		<phrasegroup id="PROMPT">
+			<phrase>2_findthirteenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_findthirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_thirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_findthirteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyoupickedoutnumbersfrom1to20</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

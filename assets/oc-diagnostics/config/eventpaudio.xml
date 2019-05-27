@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="p">
+		<phrasegroup id="PROMPT">
+			<phrase>P_touchthewordthatbeginswiththissyllable</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>P_egch</phrase>
+		</phrasegroup>
+	</event>
+</audio>

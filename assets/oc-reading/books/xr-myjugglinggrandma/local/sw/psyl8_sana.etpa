@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl8_sana.aif</url>
+	<relurl>psyl8_sana.aif</relurl>
+	<timings text="sa - na." frames="47318">
+		<timing id="0" start="0.000" end="0.529" startframe="0" framelength="23310" text="sa"/>
+		<timing id="1" start="0.714" end="1.073" startframe="31485" framelength="15833" text="na"/>
+	</timings>
+</xml>

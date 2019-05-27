@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p8_2.aif</url>
+	<relurl>p8_2.aif</relurl>
+	<timings text="“Naweza kukusaidia kwenda nyumbani kwako?” aliuliza." frames="162465">
+		<timing id="0" start="0.000" end="0.437" startframe="0" framelength="19278" text="Naweza"/>
+		<timing id="1" start="0.437" end="1.119" startframe="19278" framelength="30064" text="kukusaidia"/>
+		<timing id="2" start="1.119" end="1.411" startframe="49342" framelength="12878" text="kwenda"/>
+		<timing id="3" start="1.411" end="1.780" startframe="62220" framelength="16282" text="nyumbani"/>
+		<timing id="4" start="1.780" end="2.398" startframe="78502" framelength="27234" text="kwako"/>
+		<timing id="5" start="2.901" end="3.684" startframe="127914" framelength="34551" text="aliuliza"/>
+	</timings>
+</xml>

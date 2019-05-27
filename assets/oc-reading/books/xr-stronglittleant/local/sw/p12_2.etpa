@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="“Hapana!” alilalama Siafu. “Usitule!” akaishikilia choroko yake vizuri." frames="286644">
+		<timing id="0" start="0.000" end="0.867" startframe="0" framelength="38223" text="Hapana"/>
+		<timing id="1" start="1.176" end="1.826" startframe="51877" framelength="28644" text="alilalama"/>
+		<timing id="2" start="1.826" end="2.573" startframe="80521" framelength="32939" text="Siafu"/>
+		<timing id="3" start="2.840" end="3.836" startframe="125247" framelength="43911" text="Usitule"/>
+		<timing id="4" start="4.273" end="5.162" startframe="188450" framelength="39206" text="akaishikilia"/>
+		<timing id="5" start="5.162" end="5.648" startframe="227656" framelength="21403" text="choroko"/>
+		<timing id="6" start="5.648" end="5.917" startframe="249059" framelength="11900" text="yake"/>
+		<timing id="7" start="5.917" end="6.500" startframe="260959" framelength="25685" text="vizuri"/>
+	</timings>
+</xml>

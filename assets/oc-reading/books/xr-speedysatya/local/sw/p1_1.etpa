@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Mosi anapenda kutembea. Anapenda kukimbia na kuruka ruka na kuzunguka. Anapenda kubembea na kuchupa chupa. Anakimbia haraka sana!" frames="534628">
+		<timing id="0" start="0.000" end="0.661" startframe="0" framelength="29164" text="Mosi"/>
+		<timing id="1" start="0.661" end="1.256" startframe="29164" framelength="26234" text="anapenda"/>
+		<timing id="2" start="1.256" end="2.091" startframe="55398" framelength="36798" text="kutembea"/>
+		<timing id="3" start="2.797" end="3.429" startframe="123361" framelength="27864" text="Anapenda"/>
+		<timing id="4" start="3.429" end="4.054" startframe="151225" framelength="27547" text="kukimbia"/>
+		<timing id="5" start="4.054" end="4.269" startframe="178772" framelength="9507" text="na"/>
+		<timing id="6" start="4.269" end="4.649" startframe="188279" framelength="16759" text="kuruka"/>
+		<timing id="7" start="4.649" end="5.178" startframe="205038" framelength="23311" text="ruka"/>
+		<timing id="8" start="5.229" end="5.455" startframe="230601" framelength="9968" text="na"/>
+		<timing id="9" start="5.455" end="6.196" startframe="240569" framelength="32689" text="kuzunguka"/>
+		<timing id="10" start="7.125" end="7.798" startframe="314211" framelength="29672" text="Anapenda"/>
+		<timing id="11" start="7.798" end="8.459" startframe="343883" framelength="29150" text="kubembea"/>
+		<timing id="12" start="8.459" end="8.664" startframe="373033" framelength="9049" text="na"/>
+		<timing id="13" start="8.664" end="9.149" startframe="382082" framelength="21380" text="kuchupa"/>
+		<timing id="14" start="9.149" end="9.724" startframe="403462" framelength="25357" text="chupa"/>
+		<timing id="15" start="10.197" end="11.133" startframe="449682" framelength="41297" text="Anakimbia"/>
+		<timing id="16" start="11.133" end="11.689" startframe="490979" framelength="24488" text="haraka"/>
+		<timing id="17" start="11.689" end="12.123" startframe="515467" framelength="19161" text="sana"/>
+	</timings>
+</xml>

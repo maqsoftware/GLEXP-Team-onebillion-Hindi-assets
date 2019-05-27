@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master5a" colour_main="0,38,255" colour_div="20,157,236" colour_num="0,0,0" colour_equation="248,69,12" scenes="5a,5b,5c,5d,5e,5f,5g,5h,5i" gradienttop="254,225,229" gradientbottom="254,238,241" colour_curve="154,36,254" subtractmode="true" colour="172,73,254" >
+		<rectangle id="numberline" pos="-0.480289,0.534828" src="numberline" stroke="0,0,0" strokewidth="5" zpos="0.001" hidden="true" heighttrackswidth="true" x="-1.78839" y="0.413782" width="2.61621" height="0.242091" pxwidth="2679" pxheight="185.926" />
+		<vector id="arrowhead" pos="0.880692,0.69059" parent="numberline" src="triangle" zpos="0" hidden="true" />
+		<vector id="button" pos="0.5,0.831884" src="minus_button_round" scalex="0.442371" scaley="0.442371" zpos="0.003" hidden="true" />
+		<rectangle id="eqbox" pos="0.50523,0.166855" src="eqbox" stroke="0,0,0" strokewidth="1" zpos="0.002" hidden="true" heighttrackswidth="true" x="0.223957" y="0.0951335" width="0.562546" height="0.143443" pxwidth="576.047" pxheight="110.164" />
+	</event>
+	<event id="5a" equ="10,3,7" >
+	</event>
+	<event id="5b" equ="14,4,10" >
+	</event>
+	<event id="5c" equ="17,6,11" >
+	</event>
+	<event id="5d" equ="15,8,7" >
+	</event>
+	<event id="5e" equ="20,10,10" >
+	</event>
+	<event id="5f" equ="8,8,0" >
+	</event>
+	<event id="5g" equ="13,10,3" >
+	</event>
+	<event id="5h" equ="20,15,5" >
+	</event>
+	<event id="5i" equ="14,13,1" >
+	</event>
+	<event id="master5j" colour_main="0,38,255" colour_div="20,157,236" colour_num="0,0,0" colour_equation="26,143,117" scenes="5j,5k,5l,5m,5o,5p,5q,5r" gradienttop="254,225,229" gradientbottom="254,238,241" colour_curve="154,36,254" subtractmode="true" freemode="true">
+		<vector id="arrowhead" pos="0.515682,0.580968" src="triangle" zpos="3" hidden="true" />
+		<vector id="button" pos="0.5,0.831884" src="minus_button_round" scalex="0.442371" scaley="0.442371" zpos="3.003" hidden="true" />
+		<rectangle id="eqbox" pos="0.50523,0.166855" src="eqbox" stroke="0,0,0" strokewidth="1" zpos="3.002" hidden="true" heighttrackswidth="true" x="0.223957" y="0.0951335" width="0.562546" height="0.143443" pxwidth="576.047" pxheight="110.164" />
+		<rectangle id="numberline" pos="-0.480289,0.534828" src="numberline" stroke="0,0,0" strokewidth="5" zpos="3.001" hidden="true" heighttrackswidth="true" x="-1.78839" y="0.413782" width="2.61621" height="0.242091" pxwidth="2679" pxheight="185.926" />
+	</event>
+	<event id="5j" equ="12,5,7">
+		<rectangle id="cover" pos="0.837748,0.507606" parent="eqbox" src="cover" stroke="22,158,136" strokewidth="2" stroke-dasharray="8,4" zpos="6" hidden="true" widthtracksheight="true" x="0.726795" y="0.0989646" width="0.221906" height="0.817282" pxwidth="127.828" pxheight="90.0352" />
+	</event>
+	<event id="5k" equ="13,3,10" >
+		<rectangle id="cover" pos="0.695229,0.167946" src="cover" stroke="22,158,136" strokewidth="2" stroke-dasharray="8,4" zpos="6" hidden="true" widthtracksheight="true" x="0.632812" y="0.109329" width="0.124832" height="0.117233" pxwidth="127.828" pxheight="90.0352" />
+	</event>
+	<event id="5l" equ="10,5,5" >
+	</event>
+	<event id="5m" equ="16,7,9" >
+	</event>
+	<event id="5o" equ="13,6,7" >
+	</event>
+	<event id="5p" equ="21,4,17" >
+	</event>
+	<event id="5q" equ="20,7,13" >
+	</event>
+	<event id="5r" equ="19,8,11" >
+	</event>
+</events>

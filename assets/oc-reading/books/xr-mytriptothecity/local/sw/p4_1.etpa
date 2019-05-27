@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Basi lilikuwa limejaa sana kiasi kwamba ilinibidi nikae nyuma ya mama na shangazi. Nilizungumza na wasichana wawili waliokuwa wakienda mjini pia." frames="558237">
+		<timing id="0" start="0.000" end="0.595" startframe="0" framelength="26229" text="Basi"/>
+		<timing id="1" start="0.595" end="1.148" startframe="26229" framelength="24387" text="lilikuwa"/>
+		<timing id="2" start="1.148" end="1.717" startframe="50616" framelength="25112" text="limejaa"/>
+		<timing id="3" start="1.717" end="2.294" startframe="75728" framelength="25430" text="sana"/>
+		<timing id="4" start="2.361" end="2.814" startframe="104130" framelength="19969" text="kiasi"/>
+		<timing id="5" start="2.814" end="3.533" startframe="124099" framelength="31689" text="kwamba"/>
+		<timing id="6" start="4.032" end="4.888" startframe="177802" framelength="37750" text="ilinibidi"/>
+		<timing id="7" start="4.888" end="5.318" startframe="215552" framelength="18960" text="nikae"/>
+		<timing id="8" start="5.318" end="5.888" startframe="234512" framelength="25151" text="nyuma"/>
+		<timing id="9" start="5.888" end="6.141" startframe="259663" framelength="11138" text="ya"/>
+		<timing id="10" start="6.141" end="6.518" startframe="270801" framelength="16647" text="mama"/>
+		<timing id="11" start="6.518" end="6.757" startframe="287448" framelength="10538" text="na"/>
+		<timing id="12" start="6.757" end="7.363" startframe="297986" framelength="26729" text="shangazi"/>
+		<timing id="13" start="7.619" end="8.460" startframe="335999" framelength="37069" text="Nilizungumza"/>
+		<timing id="14" start="8.460" end="8.656" startframe="373068" framelength="8666" text="na"/>
+		<timing id="15" start="8.656" end="9.208" startframe="381734" framelength="24330" text="wasichana"/>
+		<timing id="16" start="9.208" end="9.926" startframe="406064" framelength="31666" text="wawili"/>
+		<timing id="17" start="10.367" end="11.125" startframe="457187" framelength="33411" text="waliokuwa"/>
+		<timing id="18" start="11.125" end="11.771" startframe="490598" framelength="28502" text="wakienda"/>
+		<timing id="19" start="11.771" end="12.242" startframe="519100" framelength="20772" text="mjini"/>
+		<timing id="20" start="12.242" end="12.658" startframe="539872" framelength="18365" text="pia"/>
+	</timings>
+</xml>

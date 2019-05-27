@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171127.114129649">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_letswritenumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw3b_watchme</phrase>
+			<phrase>hw3b_ichooseanumberfromthemenu</phrase>
+			<phrase>hw3b_nowiwilltraceit</phrase>
+			<phrase>hw3b_finishedsoipressthearrow</phrase>
+			<phrase>hw3b_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_chooseanumberfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_chooseanumberfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_chooseanumberfromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_nowtracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw3b_touchthearrowwhenyouarefinished</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw3b_lookwhatyouwrote</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_2">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_letshaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_1_3">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_1">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_nowwritethenumberinhereallbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_seeifyoucanwritethenumberbyyourself</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_1_3">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_chooseagainfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_chooseanumberfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_choosefromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_1">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_2">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_letshaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="trace_default_3">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_tracethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_1">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_nowwriteitbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_2">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_andagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="write_default_3">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_onelasttime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_writethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_default">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_chooseyournextnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_chooseanumberfromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="menu_last">
+		<phrasegroup id="PROMPT">
+			<phrase>hw3b_nowchoosethelastnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw3b_choosethelastnumberfromthemenu</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>hw3b_choosethelastnumberfromthemenu</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>hw3b_greatyouhadachancetowritenumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="letteron">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteroff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_water_droplet_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="guidewipe">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="eraser">
+			<phrase>thud_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="menu">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="choose">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrow">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="guideon">
+			<phrase>sandpaper_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

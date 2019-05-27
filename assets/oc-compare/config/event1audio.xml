@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170624.073655148">
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowcomparethetwoshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_thisoneislarger</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>1_thisoneissmaller</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichshoeissmaller</phrase>
+			<phrase>1_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichshoeissmaller</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichshoeissmaller</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowchoosethelargersock</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargersock</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargersock</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesmallertshirt</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallertshirt</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallertshirt</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethelargerbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargerbag</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargerbag</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetherearethreeballs</phrase>
+			<phrase>1_choosethelargestball</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargestball</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargestball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesmallestplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallestplate</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallestplate</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethelargestbowl</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargestbowl</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargestbowl</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesmallestspoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallestspoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallestspoon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowtherearefourcircles</phrase>
+			<phrase>1_choosethesmallestcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallestcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallestcircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethelargestcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargestcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargestcircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethelargestsquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargestsquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargestsquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethesmallestsquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallestsquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallestsquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_herearefivediamondswhichisthelargest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargestdiamond</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargestdiamond</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichdiamondisthesmallest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmallestdiamond</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmallestdiamond</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichtwodiamondsarethesamesize</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosetwodiamondsofthesamesize</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosetwodiamondsofthesamesize</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowchoosethesmalleststar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethesmalleststar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethesmalleststar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1s">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethelargeststar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethelargeststar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethelargeststar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="PROMPT">
+			<phrase>1_choosethetwostarsthatarethesamesize</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_choosethetwostarsthatarethesamesize</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_choosethetwostarsthatarethesamesize</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_welldoneyoupickedoutthelargestandthesmallestandthesamesize</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

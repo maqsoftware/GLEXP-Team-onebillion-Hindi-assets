@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlooktherearetwoapples</phrase>
+			<phrase>1_oneforher</phrase>
+			<phrase>1_andoneforhim</phrase>
+			<phrase>1_theyhaveoneappleeach</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_therearetwobananassharethembetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethetwobananasbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonebananaeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethebananasfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nexttwoorangessharethesebetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethetwoorangesbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveoneorangeeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheorangesfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_twobottlesofjuicesharetheseout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethetwobottlesofjuicebetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonebottleeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethebottlesfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetwoballoonstoshareout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethetwoballoonsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveoneballooneach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheballoonsfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_twodrumssharetheseout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethetwodrumsbetweenthetwochildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonedrumeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethedrumsfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowtherearethreechildrenandthreelollipopsshareoutthelollipops</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethethreelollipopsamongthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonelollipopeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethelollipopsfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_threedrawingbookssharetheseamongthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethethreedrawingbooksamongthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonebookeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethedrawingbooksfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_threeboxesofcrayonssharetheseout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethethreeboxesofcrayonsamongthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveoneboxeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheboxesfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_threeslicesofcaketoshareout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethethreeslicesofcakeamongthethreechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonesliceeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethecakefairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetherearefourchildrenandfourbunchesofflowerssharetheflowersout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethefourbunchesofflowersamongthefourchildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonebuncheach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheflowersfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_sharethefourflagsamongthefourchildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethefourflagsamongthefourchildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveoneflageach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheflagsfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_sharethefourfootballsamongthefourchildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethefourfootballsamongthefourchildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonefootballeach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethefootballsfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowtherearefivechildrenandfivepenssharethepensout</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethefivepensamongthefivechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveonepeneach</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharethepensfairly</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_sharethefiveapplesamongthefivechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_sharethefiveapplesamongthefivechildren</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_theyhaveoneappleeach_1o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_sharetheapplesfairly</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_verygood</phrase>
+			<phrase>1_yousharedthingsoutfairlygivingonetoeachchild</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="place_object">
+			<phrase>plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="separate_objects">
+			<phrase>4_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="return_objects">
+			<phrase>objectsflyhome</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_box">
+			<phrase>putinbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbers_toggle">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_food">
+			<phrase>foodbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_gone">
+			<phrase>foodgone</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_open">
+			<phrase>dragonopening</phrase>
+		</phrasegroup>
+		<phrasegroup id="dragon_close">
+			<phrase>dragonclosing</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cabbage">
+			<phrase>fallingcabbage</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cake">
+			<phrase>fallingcakes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_carrots">
+			<phrase>falling_carrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_cucumber">
+			<phrase>fallingcucumbers</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_onion">
+			<phrase>fallingonions</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_orange">
+			<phrase>fallingoranges</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_potato">
+			<phrase>fallingpotatoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="food_turnip">
+			<phrase>fallingturnips</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_open">
+			<phrase>6_redbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="positive">
+			<phrase>6_pos</phrase>
+		</phrasegroup>
+		<phrasegroup id="negative">
+			<phrase>6_neg</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_1">
+			<phrase>burp2</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_2">
+			<phrase>burp3</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_3">
+			<phrase>burp4</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_4">
+			<phrase>burp5</phrase>
+		</phrasegroup>
+		<phrasegroup id="burp_5">
+			<phrase>burp6</phrase>
+		</phrasegroup>
+	</event>
+</audio>

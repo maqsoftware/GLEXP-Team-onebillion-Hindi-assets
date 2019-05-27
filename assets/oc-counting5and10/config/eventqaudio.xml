@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="Q1">
+		<phrasegroup id="NONE">
+			<phrase>q_putfortybirdsintheboxintens</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putfortybirdsintheboxintens</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q2">
+		<phrasegroup id="NONE">
+			<phrase>q_putseventybeansintheboxintens</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putseventybeansintheboxintens</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q3">
+		<phrasegroup id="NONE">
+			<phrase>q_thesmallsquaresareintenshowmanysmallsquaresaretherealtogether</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thesmallsquaresareintenshowmanysmallsquaresaretherealtogether</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q4">
+		<phrasegroup id="NONE">
+			<phrase>q_movethemissingnumbersintoplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_movethemissingnumbersintoplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q5">
+		<phrasegroup id="NONE">
+			<phrase>q_thebuttonsareintenshowmanybuttonsaretherealtogether</phrase>
+			<phrase>q_showthenumberontheline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thebuttonsareintenshowmanybuttonsaretherealtogether</phrase>
+			<phrase>q_showthenumberontheline</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q6">
+		<phrasegroup id="NONE">
+			<phrase>q_puttwentyfiveladybirdsintheboxinfives</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_puttwentyfiveladybirdsintheboxinfives</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q7">
+		<phrasegroup id="NONE">
+			<phrase>q_putthirtyfivefishintheboxinfives</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_putthirtyfivefishintheboxinfives</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q8">
+		<phrasegroup id="NONE">
+			<phrase>q_thelemonsareinfiveshowmanylemonsaretherealtogether</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thelemonsareinfiveshowmanylemonsaretherealtogether</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q9">
+		<phrasegroup id="NONE">
+			<phrase>q_movethemissingnumbersintoplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_movethemissingnumbersintoplace</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="Q10">
+		<phrasegroup id="NONE">
+			<phrase>q_thebuttonsareinfiveshowmanybuttonsaretherealtogether</phrase>
+			<phrase>q_showthenumberontheline_q10</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>q_thebuttonsareinfiveshowmanybuttonsaretherealtogether</phrase>
+			<phrase>q_showthenumberontheline_q10</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+	</event>
+</audio>

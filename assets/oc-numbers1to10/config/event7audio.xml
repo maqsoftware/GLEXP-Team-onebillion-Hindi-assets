@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_look</phrase>
+			<phrase>7_five</phrase>
+			<phrase>7_six</phrase>
+			<phrase>7_sixisonemorethanfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_whichnumberisonemorethaneight</phrase>
+			<phrase>7_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonemorethaneight</phrase>
+			<phrase>7_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonemorethaneight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonemorethantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonemorethantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonemorethantwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7d">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonemorethansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonemorethansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonemorethansix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7e">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonemorethanone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonemorethanone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonemorethanone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7f">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonemorethannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonemorethannine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonemorethannine</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7g">
+		<phrasegroup id="DEMO">
+			<phrase>7_one</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_three</phrase>
+			<phrase>7_four</phrase>
+			<phrase>7_five</phrase>
+			<phrase>7_six</phrase>
+			<phrase>7_seven</phrase>
+			<phrase>7_eight</phrase>
+			<phrase>7_nine</phrase>
+			<phrase>7_ten</phrase>
+			<phrase>7_nowlook</phrase>
+			<phrase>7_three</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_twoisonelessthanthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7h">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_whichnumberisonelessthanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonelessthanseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonelessthanseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7i">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonelessthanten</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonelessthanten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonelessthanten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7j">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonelessthaneight</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonelessthaneight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonelessthaneight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7k">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonelessthansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonelessthansix</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonelessthansix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7l">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichnumberisonelessthantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>7_whichnumberisonelessthantwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichnumberisonelessthantwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7m">
+		<phrasegroup id="DEMO">
+			<phrase>7_ten</phrase>
+			<phrase>7_nine</phrase>
+			<phrase>7_eight</phrase>
+			<phrase>7_seven</phrase>
+			<phrase>7_six</phrase>
+			<phrase>7_five</phrase>
+			<phrase>7_four</phrase>
+			<phrase>7_three</phrase>
+			<phrase>7_two</phrase>
+			<phrase>7_one</phrase>
+			<phrase>7_verygoodyoushowedonemorethanandonelessthanfordifferentnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_select">
+			<phrase>note_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="star">
+			<phrase>starburst</phrase>
+		</phrasegroup>
+		<phrasegroup id="boat">
+			<phrase>seasound</phrase>
+		</phrasegroup>
+		<phrasegroup id="car">
+			<phrase>carsound</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

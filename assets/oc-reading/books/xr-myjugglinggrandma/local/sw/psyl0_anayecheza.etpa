@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl0_anayecheza.aif</url>
+	<relurl>psyl0_anayecheza.aif</relurl>
+	<timings text="a - na - ye - che - za" frames="144277">
+		<timing id="0" start="0.000" end="0.403" startframe="0" framelength="17753" text="a"/>
+		<timing id="1" start="0.578" end="1.134" startframe="25473" framelength="24546" text="na"/>
+		<timing id="2" start="1.384" end="1.907" startframe="61028" framelength="23090" text="ye"/>
+		<timing id="3" start="2.143" end="2.656" startframe="94489" framelength="22647" text="che"/>
+		<timing id="4" start="2.866" end="3.272" startframe="126406" framelength="17871" text="za"/>
+	</timings>
+</xml>

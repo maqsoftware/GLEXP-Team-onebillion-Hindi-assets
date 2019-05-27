@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps9_3.aif</url>
+	<relurl>ps9_3.aif</relurl>
+	<timings text="Sio sponji hata kidogo." frames="218233">
+		<timing id="0" start="0.000" end="0.608" startframe="0" framelength="26828" text="Sio"/>
+		<timing id="1" start="1.206" end="2.085" startframe="53200" framelength="38740" text="sponji"/>
+		<timing id="2" start="2.843" end="3.505" startframe="125389" framelength="29171" text="hata"/>
+		<timing id="3" start="4.316" end="4.949" startframe="190337" framelength="27896" text="kidogo"/>
+	</timings>
+</xml>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="2a,2b" textsize="150" >
+		<rectangle id="objrect" pos="0.500034,0.37235" src="objrect" fill="255,255,255" zpos="0.001" hidden="true" x="0.265659" y="0.0598501" width="0.46875" height="0.625" />
+		<rectangle id="textbox" pos="0.500246,0.812744" src="textbox" fill="255,255,255" zpos="0" hidden="true" x="0.200001" y="0.713318" width="0.600491" height="0.198853" />
+	</event>
+	<event id="2a" >
+	</event>
+</events>

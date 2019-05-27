@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps11_2.aif</url>
+	<relurl>ps11_2.aif</relurl>
+	<timings text="“Usiku mwema, Tembo,” Linda alisema." frames="284969">
+		<timing id="0" start="0.129" end="1.027" startframe="5672" framelength="39637" text="Usiku"/>
+		<timing id="1" start="1.327" end="1.990" startframe="58511" framelength="29256" text="mwema"/>
+		<timing id="2" start="2.589" end="3.154" startframe="114170" framelength="24908" text="Tembo"/>
+		<timing id="3" start="3.926" end="4.690" startframe="173157" framelength="33675" text="Linda"/>
+		<timing id="4" start="5.117" end="5.916" startframe="225669" framelength="35242" text="alisema"/>
+	</timings>
+</xml>

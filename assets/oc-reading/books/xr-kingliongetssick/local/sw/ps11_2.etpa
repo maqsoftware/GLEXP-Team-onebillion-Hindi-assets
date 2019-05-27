@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps11_2.aif</url>
+	<relurl>ps11_2.aif</relurl>
+	<timings text="Lakini sasa Fisi ndiye aliye matatani!" frames="394763">
+		<timing id="0" start="0.000" end="0.799" startframe="0" framelength="35215" text="Lakini"/>
+		<timing id="1" start="1.866" end="2.594" startframe="82288" framelength="32093" text="sasa"/>
+		<timing id="2" start="3.454" end="4.313" startframe="152335" framelength="37865" text="Fisi"/>
+		<timing id="3" start="5.225" end="5.931" startframe="230435" framelength="31117" text="ndiye"/>
+		<timing id="4" start="6.796" end="7.549" startframe="299703" framelength="33186" text="aliye"/>
+		<timing id="5" start="8.176" end="8.952" startframe="360577" framelength="34186" text="matatani"/>
+	</timings>
+</xml>

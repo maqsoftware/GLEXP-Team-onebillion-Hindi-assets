@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Jioni sana, Mosi ameshachoka. Anapanda mgongoni kwa mama yake. Anakwenda naye nyumbani kupitia kwenye majabali, mtoni, milimani na mashambani." frames="668272">
+		<timing id="0" start="0.000" end="0.414" startframe="0" framelength="18265" text="Jioni"/>
+		<timing id="1" start="0.414" end="1.261" startframe="18265" framelength="37329" text="sana"/>
+		<timing id="2" start="1.770" end="2.355" startframe="78062" framelength="25778" text="Mosi"/>
+		<timing id="3" start="2.355" end="3.324" startframe="103840" framelength="42730" text="ameshachoka"/>
+		<timing id="4" start="3.857" end="4.529" startframe="170083" framelength="29624" text="Anapanda"/>
+		<timing id="5" start="4.529" end="5.217" startframe="199707" framelength="30364" text="mgongoni"/>
+		<timing id="6" start="5.217" end="5.435" startframe="230071" framelength="9596" text="kwa"/>
+		<timing id="7" start="5.435" end="5.719" startframe="239667" framelength="12531" text="mama"/>
+		<timing id="8" start="5.719" end="6.290" startframe="252198" framelength="25207" text="yake"/>
+		<timing id="9" start="7.841" end="8.448" startframe="345786" framelength="26772" text="Anakwenda"/>
+		<timing id="10" start="8.448" end="8.736" startframe="372558" framelength="12688" text="naye"/>
+		<timing id="11" start="8.736" end="9.291" startframe="385246" framelength="24470" text="nyumbani"/>
+		<timing id="12" start="9.291" end="9.914" startframe="409716" framelength="27504" text="kupitia"/>
+		<timing id="13" start="9.914" end="10.232" startframe="437220" framelength="13998" text="kwenye"/>
+		<timing id="14" start="10.232" end="11.271" startframe="451218" framelength="45845" text="majabali"/>
+		<timing id="15" start="11.685" end="12.667" startframe="515312" framelength="43319" text="mtoni"/>
+		<timing id="16" start="12.975" end="14.009" startframe="572195" framelength="45590" text="milimani"/>
+		<timing id="17" start="14.265" end="14.517" startframe="629075" framelength="11129" text="na"/>
+		<timing id="18" start="14.517" end="15.154" startframe="640204" framelength="28068" text="mashambani"/>
+	</timings>
+</xml>

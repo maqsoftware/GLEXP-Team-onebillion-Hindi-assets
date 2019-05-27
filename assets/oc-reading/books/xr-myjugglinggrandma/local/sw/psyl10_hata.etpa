@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl10_hata.aif</url>
+	<relurl>psyl10_hata.aif</relurl>
+	<timings text="ha - ta" frames="41400">
+		<timing id="0" start="0.000" end="0.451" startframe="0" framelength="19876" text="ha"/>
+		<timing id="1" start="0.686" end="0.941" startframe="30269" framelength="11216" text="ta"/>
+	</timings>
+</xml>

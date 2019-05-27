@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180513.190059444">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>grec_nowyoullsaywordsoutloudforme</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.DEMO">
+			<phrase>grec_nowyoullsaywordsoutloudforme</phrase>
+			<phrase>grec_theyaremadeupwords</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.DEMO">
+			<phrase>grec_nowyoullsaysyllablesoutloudforme</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.DEMO">
+			<phrase>grec_nowyoullsaynumbersoutloudforme</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>grec_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>grec_nowyoullsaythesewordsoutloud</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.DEMO">
+			<phrase>grec_nowforsomewords</phrase>
+			<phrase>grec_theyaremadeupwords</phrase>
+			<phrase>grec_youllsaythemoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.DEMO">
+			<phrase>grec_nowyoullsaythesesyllablesoutloud</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.DEMO">
+			<phrase>grec_nowyoullsaythesenumbersoutloud</phrase>
+			<phrase>grec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>grec_watchme</phrase>
+			<phrase>grec_itouchthebutton</phrase>
+			<phrase>grec_itouchitagain</phrase>
+			<phrase>grec_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordoutloud</phrase>
+			<phrase>grec_touchagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.DEMO">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordoutloud</phrase>
+			<phrase>grec_touchagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.DEMO">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythesyllableoutloud</phrase>
+			<phrase>grec_touchagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.DEMO">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythenumberoutloud</phrase>
+			<phrase>grec_touchagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythesyllableinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythenumberinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>grec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>grec_didyougetitright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>grec_nextone</phrase>
+			<phrase>grec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.DEMO">
+			<phrase>grec_nextone</phrase>
+			<phrase>grec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.DEMO">
+			<phrase>grec_nextone</phrase>
+			<phrase>grec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.DEMO">
+			<phrase>grec_nextone</phrase>
+			<phrase>grec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythesyllableinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythenumberinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>grec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>grec_didyougetitright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythesyllableinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythenumberinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythewordinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythesyllableinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.PROMPT.REPEAT">
+			<phrase>grec_touchthebutton</phrase>
+			<phrase>grec_saythenumberinthebox</phrase>
+			<phrase>grec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>grec_icanthearyou</phrase>
+			<phrase>grec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>grec_verygoodyoureadwordsoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="NW.DEMO">
+			<phrase>grec_greatyoureadmadeupwordsoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="SYL.DEMO">
+			<phrase>grec_goodyousaidsyllablesoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="NUM.DEMO">
+			<phrase>grec_greatyousaidnumbersoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberin">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="allnumbersoff">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberoff">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="newnumberson">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="fillgrid">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="hilite">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

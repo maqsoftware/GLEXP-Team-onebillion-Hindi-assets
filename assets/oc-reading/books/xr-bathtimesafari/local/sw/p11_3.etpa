@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p11_3.aif</url>
+	<relurl>p11_3.aif</relurl>
+	<timings text="Sio sabuni hata kidogo." frames="83202">
+		<timing id="0" start="0.000" end="0.354" startframe="0" framelength="15602" text="Sio"/>
+		<timing id="1" start="0.354" end="0.961" startframe="15602" framelength="26794" text="sabuni"/>
+		<timing id="2" start="0.961" end="1.351" startframe="42396" framelength="17195" text="hata"/>
+		<timing id="3" start="1.351" end="1.887" startframe="59591" framelength="23611" text="kidogo"/>
+	</timings>
+</xml>

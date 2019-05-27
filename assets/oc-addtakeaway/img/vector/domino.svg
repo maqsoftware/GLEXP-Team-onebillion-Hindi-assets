@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="412px" height="211.5px" viewBox="0 0 412 211.5" enable-background="new 0 0 412 211.5" xml:space="preserve">
+<g id="domino_1_">
+	<path fill="#FFFFDE" stroke="#C8C8C8" stroke-miterlimit="10" d="M407.5,201.499c0,3.131-2.538,5.669-5.669,5.669H10.508
+		c-3.131,0-5.669-2.538-5.669-5.669V10.837c0-3.131,2.538-5.669,5.669-5.669h391.323c3.131,0,5.669,2.538,5.669,5.669V201.499z"/>
+	
+		<line fill="none" stroke="#C8C8C8" stroke-linecap="round" stroke-miterlimit="10" x1="207.503" y1="7.168" x2="207.503" y2="205.168"/>
+</g>
+<g id="left">
+	<circle id="dot_7" cx="159.267" cy="161.855" r="21"/>
+	<circle id="dot_6" cx="47.599" cy="161.855" r="21"/>
+	<circle id="dot_5" cx="159.266" cy="106.023" r="21"/>
+	<circle id="dot_4" cx="103.433" cy="106.023" r="21"/>
+	<circle id="dot_3" cx="47.6" cy="106.023" r="21"/>
+	<circle id="dot_2" cx="159.266" cy="50.19" r="21"/>
+	<circle id="dot_1" cx="47.6" cy="50.19" r="21"/>
+</g>
+<g id="right">
+	<circle id="dot_6" cx="249.6" cy="161.855" r="21"/>
+	<circle id="dot_7" cx="361.65" cy="161.855" r="21"/>
+	<circle id="dot_5" cx="361.266" cy="106.023" r="21"/>
+	<circle id="dot_4" cx="305.434" cy="106.023" r="21"/>
+	<circle id="dot_3" cx="249.6" cy="106.023" r="21"/>
+	<circle id="dot_2" cx="361.266" cy="50.19" r="21"/>
+	<circle id="dot_1" cx="249.982" cy="50.19" r="21"/>
+</g>
+</svg>

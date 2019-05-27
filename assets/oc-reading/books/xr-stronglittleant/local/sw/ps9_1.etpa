@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps9_1.aif</url>
+	<relurl>ps9_1.aif</relurl>
+	<timings text="“Ahh!” Siafu alilalama. Alirushwa kule kule kunako choroko. Akaisukuma na kuibeba. Hakukata tamaa!" frames="930182">
+		<timing id="0" start="0.000" end="0.640" startframe="0" framelength="28212" text="Ahh"/>
+		<timing id="1" start="1.337" end="2.423" startframe="58944" framelength="47924" text="Siafu"/>
+		<timing id="2" start="2.983" end="4.301" startframe="131569" framelength="58102" text="alilalama"/>
+		<timing id="3" start="4.939" end="6.122" startframe="217798" framelength="52190" text="Alirushwa"/>
+		<timing id="4" start="6.758" end="7.460" startframe="298007" framelength="30974" text="kule"/>
+		<timing id="5" start="8.571" end="9.281" startframe="378003" framelength="31290" text="kule"/>
+		<timing id="6" start="10.137" end="11.093" startframe="447035" framelength="42188" text="kunako"/>
+		<timing id="7" start="11.731" end="12.738" startframe="517345" framelength="44418" text="choroko"/>
+		<timing id="8" start="13.596" end="14.995" startframe="599589" framelength="61675" text="Akaisukuma"/>
+		<timing id="9" start="15.565" end="16.200" startframe="686424" framelength="27998" text="na"/>
+		<timing id="10" start="16.692" end="17.870" startframe="736135" framelength="51911" text="kuibeba"/>
+		<timing id="11" start="18.575" end="19.782" startframe="819148" framelength="53221" text="Hakukata"/>
+		<timing id="12" start="20.287" end="21.093" startframe="894636" framelength="35546" text="tamaa"/>
+	</timings>
+</xml>

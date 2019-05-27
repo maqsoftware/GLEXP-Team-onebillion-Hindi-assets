@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><creator program="PhraseAnal 1.14" user="Rosanna"></creator>
+    <url>file:///Users/pedroloureiro/OBB%20dir/assets/oc-reading/books/xr-cooktogether/local/sw/psyl5_kitunguu.m4a</url>
+    <relurl>psyl5_kitunguu.aif</relurl>
+    <timings text="ki - tu - ngu - u," frames="96418"><timing framelength="17298" id="0" end="0.392" text="ki" startframe="0" start="0.000"></timing>
+        <timing framelength="19419" id="1" end="0.965" text="tu" startframe="23126" start="0.524"></timing>
+        <timing framelength="26271" id="2" end="1.684" text="ngu" startframe="48005" start="1.089"></timing>
+        <timing framelength="16556" id="3" end="2.186" text="u" startframe="79862" start="1.811"></timing>
+    </timings>
+</xml>

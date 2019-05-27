@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookchooseanumber</phrase>
+			<phrase>5_likethis</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_nowtraceit</phrase>
+			<phrase>5_likethis_5a</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>5_twelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowyourturn</phrase>
+			<phrase>5_chooseanumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseanumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2">
+			<phrase>5_nowtracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>5_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eleven</phrase>
+			<phrase>5_twelve</phrase>
+			<phrase>5_thirteen</phrase>
+			<phrase>5_fourteen</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_sixteen</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_eighteen</phrase>
+			<phrase>5_nineteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>5_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eleven</phrase>
+			<phrase>5_twelve</phrase>
+			<phrase>5_thirteen</phrase>
+			<phrase>5_fourteen</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_sixteen</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_eighteen</phrase>
+			<phrase>5_nineteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>5_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eleven</phrase>
+			<phrase>5_twelve</phrase>
+			<phrase>5_thirteen</phrase>
+			<phrase>5_fourteen</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_sixteen</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_eighteen</phrase>
+			<phrase>5_nineteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_chooseandtraceanothernumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>5_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eleven</phrase>
+			<phrase>5_twelve</phrase>
+			<phrase>5_thirteen</phrase>
+			<phrase>5_fourteen</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_sixteen</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_eighteen</phrase>
+			<phrase>5_nineteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowchooseandtraceyourlastnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_nowchooseandtraceyourlastnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="STAGE2.REPEAT">
+			<phrase>5_tracethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_eleven</phrase>
+			<phrase>5_twelve</phrase>
+			<phrase>5_thirteen</phrase>
+			<phrase>5_fourteen</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_sixteen</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_eighteen</phrase>
+			<phrase>5_nineteen</phrase>
+			<phrase>5_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_goodyoupickedfiveofthenumbersfromeleventotwentyandtracedthem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="burst">
+			<phrase>break_drop</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

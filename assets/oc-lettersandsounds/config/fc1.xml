@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="a,b,c,d,e,f" textsize="80" >
+		<group id="cardback"  pos="0.525143,0.481567" src="cardback" zpos="0">
+			<group id="Group6"  pos="0.525143,0.481567" src="Group6" hasmask="true" zpos="0">
+				<rectangle id="back" pos="0.500387,0.463303" src="back" fill="233,56,121" zpos="0" widthtracksheight="true" x="0.302128" y="0.0806173" width="0.396519" height="0.765371" pxwidth="406.035" pxheight="587.805" cornerradius="0.0182269" />
+				<circle id="circ1" pos="1.08794,0.0560215" parent="back" src="circ1" stroke="254,104,161" strokewidth="5" zpos="0.006" x="0.964799" y="-0.0290408" width="0.246284" height="0.170125" />
+				<circle id="circ2" pos="0.247127,0.396271" parent="back" src="circ2" stroke="254,104,161" strokewidth="5" zpos="0.016" x="0.123985" y="0.311208" width="0.246284" height="0.170125" />
+				<circle id="circ3" pos="0.0369234,0.651457" parent="back" src="circ3" stroke="254,104,161" strokewidth="5" zpos="0.025" x="-0.0862187" y="0.566395" width="0.246284" height="0.170125" />
+				<circle id="circ4" pos="0.247127,0.906644" parent="back" src="circ4" stroke="254,104,161" strokewidth="5" zpos="0.034" x="0.123985" y="0.821582" width="0.246284" height="0.170125" />
+				<circle id="circ5" pos="0.667534,1.07677" parent="back" src="circ5" stroke="254,104,161" strokewidth="5" zpos="0.041" x="0.544392" y="0.991706" width="0.246284" height="0.170125" />
+				<circle id="circ6" pos="0.877737,0.991706" parent="back" src="circ6" stroke="254,104,161" strokewidth="5" zpos="0.039" x="0.754595" y="0.906644" width="0.246284" height="0.170125" />
+				<circle id="circ7" pos="0.45733,0.821582" parent="back" src="circ7" stroke="254,104,161" strokewidth="5" zpos="0.032" x="0.334188" y="0.73652" width="0.246284" height="0.170125" />
+				<circle id="circ8" pos="0.0369234,0.481333" parent="back" src="circ8" stroke="254,104,161" strokewidth="5" zpos="0.019" x="-0.0862187" y="0.396271" width="0.246284" height="0.170125" />
+				<circle id="circ9" pos="0.0369234,0.141084" parent="back" src="circ9" stroke="254,104,161" strokewidth="5" zpos="0.007" x="-0.0862187" y="0.0560215" width="0.246284" height="0.170125" />
+				<circle id="circ10" pos="0.877737,0.311208" parent="back" src="circ10" stroke="254,104,161" strokewidth="5" zpos="0.015" x="0.754595" y="0.226146" width="0.246284" height="0.170125" />
+				<circle id="circ11" pos="0.247127,0.0560215" parent="back" src="circ11" stroke="254,104,161" strokewidth="5" zpos="0.004" x="0.123985" y="-0.0290408" width="0.246284" height="0.170125" />
+				<circle id="circ12" pos="0.667534,0.0560215" parent="back" src="circ12" stroke="254,104,161" strokewidth="5" zpos="0.005" x="0.544392" y="-0.0290408" width="0.246284" height="0.170125" />
+				<circle id="circ13" pos="0.45733,0.141084" parent="back" src="circ13" stroke="254,104,161" strokewidth="5" zpos="0.008" x="0.334188" y="0.0560215" width="0.246284" height="0.170125" />
+				<circle id="circ14" pos="0.667534,0.906644" parent="back" src="circ14" stroke="254,104,161" strokewidth="5" zpos="0.035" x="0.544392" y="0.821582" width="0.246284" height="0.170125" />
+				<circle id="circ15" pos="1.08794,0.226146" parent="back" src="circ15" stroke="254,104,161" strokewidth="5" zpos="0.012" x="0.964799" y="0.141084" width="0.246284" height="0.170125" />
+				<circle id="circ16" pos="0.877737,0.821582" parent="back" src="circ16" stroke="254,104,161" strokewidth="5" zpos="0.033" x="0.754595" y="0.73652" width="0.246284" height="0.170125" />
+				<circle id="circ17" pos="0.45733,0.311208" parent="back" src="circ17" stroke="254,104,161" strokewidth="5" zpos="0.014" x="0.334188" y="0.226146" width="0.246284" height="0.170125" />
+				<circle id="circ18" pos="0.0369234,0.991706" parent="back" src="circ18" stroke="254,104,161" strokewidth="5" zpos="0.037" x="-0.0862187" y="0.906644" width="0.246284" height="0.170125" />
+				<circle id="circ19" pos="1.08794,0.566395" parent="back" src="circ19" stroke="254,104,161" strokewidth="5" zpos="0.024" x="0.964799" y="0.481333" width="0.246284" height="0.170125" />
+				<circle id="circ20" pos="0.0369234,-0.0290408" parent="back" src="circ20" stroke="254,104,161" strokewidth="5" zpos="0.001" x="-0.0862187" y="-0.114103" width="0.246284" height="0.170125" />
+				<circle id="circ21" pos="0.247127,0.566395" parent="back" src="circ21" stroke="254,104,161" strokewidth="5" zpos="0.022" x="0.123985" y="0.481333" width="0.246284" height="0.170125" />
+				<circle id="circ22" pos="1.08794,1.07677" parent="back" src="circ22" stroke="254,104,161" strokewidth="5" zpos="0.042" x="0.964799" y="0.991706" width="0.246284" height="0.170125" />
+				<circle id="circ23" pos="0.667534,0.396271" parent="back" src="circ23" stroke="254,104,161" strokewidth="5" zpos="0.017" x="0.544392" y="0.311208" width="0.246284" height="0.170125" />
+				<circle id="circ24" pos="0.877737,0.141084" parent="back" src="circ24" stroke="254,104,161" strokewidth="5" zpos="0.009" x="0.754595" y="0.0560215" width="0.246284" height="0.170125" />
+				<circle id="circ25" pos="0.0369234,0.311208" parent="back" src="circ25" stroke="254,104,161" strokewidth="5" zpos="0.013" x="-0.0862187" y="0.226146" width="0.246284" height="0.170125" />
+				<circle id="circ26" pos="0.45733,-0.0290408" parent="back" src="circ26" stroke="254,104,161" strokewidth="5" zpos="0.002" x="0.334188" y="-0.114103" width="0.246284" height="0.170125" />
+				<circle id="circ27" pos="1.08794,0.906644" parent="back" src="circ27" stroke="254,104,161" strokewidth="5" zpos="0.036" x="0.964799" y="0.821582" width="0.246284" height="0.170125" />
+				<circle id="circ28" pos="0.247127,0.73652" parent="back" src="circ28" stroke="254,104,161" strokewidth="5" zpos="0.028" x="0.123985" y="0.651457" width="0.246284" height="0.170125" />
+				<circle id="circ29" pos="0.877737,-0.0290408" parent="back" src="circ29" stroke="254,104,161" strokewidth="5" zpos="0.003" x="0.754595" y="-0.114103" width="0.246284" height="0.170125" />
+				<circle id="circ30" pos="0.877737,0.481333" parent="back" src="circ30" stroke="254,104,161" strokewidth="5" zpos="0.021" x="0.754595" y="0.396271" width="0.246284" height="0.170125" />
+				<circle id="circ31" pos="0.247127,1.07677" parent="back" src="circ31" stroke="254,104,161" strokewidth="5" zpos="0.04" x="0.123985" y="0.991706" width="0.246284" height="0.170125" />
+				<circle id="circ32" pos="0.0369234,0.821582" parent="back" src="circ32" stroke="254,104,161" strokewidth="5" zpos="0.031" x="-0.0862187" y="0.73652" width="0.246284" height="0.170125" />
+				<circle id="circ33" pos="0.45733,0.651457" parent="back" src="circ33" stroke="254,104,161" strokewidth="5" zpos="0.026" x="0.334188" y="0.566395" width="0.246284" height="0.170125" />
+				<circle id="circ34" pos="0.45733,0.481333" parent="back" src="circ34" stroke="254,104,161" strokewidth="5" zpos="0.02" x="0.334188" y="0.396271" width="0.246284" height="0.170125" />
+				<circle id="circ35" pos="1.08794,0.396271" parent="back" src="circ35" stroke="254,104,161" strokewidth="5" zpos="0.018" x="0.964799" y="0.311208" width="0.246284" height="0.170125" />
+				<circle id="circ36" pos="0.247127,0.226146" parent="back" src="circ36" stroke="254,104,161" strokewidth="5" zpos="0.01" x="0.123985" y="0.141084" width="0.246284" height="0.170125" />
+				<circle id="circ37" pos="0.667534,0.566395" parent="back" src="circ37" stroke="254,104,161" strokewidth="5" zpos="0.023" x="0.544392" y="0.481333" width="0.246284" height="0.170125" />
+				<circle id="circ38" pos="0.667534,0.226146" parent="back" src="circ38" stroke="254,104,161" strokewidth="5" zpos="0.011" x="0.544392" y="0.141084" width="0.246284" height="0.170125" />
+				<circle id="circ39" pos="0.877737,0.651457" parent="back" src="circ39" stroke="254,104,161" strokewidth="5" zpos="0.027" x="0.754595" y="0.566395" width="0.246284" height="0.170125" />
+				<circle id="circ40" pos="0.667534,0.73652" parent="back" src="circ40" stroke="254,104,161" strokewidth="5" zpos="0.029" x="0.544392" y="0.651457" width="0.246284" height="0.170125" />
+				<circle id="circ41" pos="0.45733,0.991706" parent="back" src="circ41" stroke="254,104,161" strokewidth="5" zpos="0.038" x="0.334188" y="0.906644" width="0.246284" height="0.170125" />
+				<circle id="circ42" pos="1.08794,0.73652" parent="back" src="circ42" stroke="254,104,161" strokewidth="5" zpos="0.03" x="0.964799" y="0.651457" width="0.246284" height="0.170125" />
+				<rectangle id="mask" pos="0.500387,0.463303" src="mask" fill="233,56,121" zpos="0.043" widthtracksheight="true" x="0.302128" y="0.0806173" width="0.396519" height="0.765371" pxwidth="406.035" pxheight="587.805" cornerradius="0.0182269" />
+			</group>
+			<rectangle id="stroke" pos="0.500387,0.463303" src="stroke" stroke="0,0,0" strokewidth="2" zpos="0.001" widthtracksheight="true" x="0.302128" y="0.0806173" width="0.396519" height="0.765371" pxwidth="406.035" pxheight="587.805" cornerradius="0.0182269" />
+		</group>
+		<group id="cardfront"  pos="0.500387,0.463303" src="cardfront" zpos="1">
+			<rectangle id="stroke" pos="0.500387,0.463303" src="stroke" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1" widthtracksheight="true" x="0.302128" y="0.0806173" width="0.396519" height="0.765371" pxwidth="406.035" pxheight="587.805" cornerradius="0.0182269" />
+			<rectangle id="picbox" pos="0.499495,0.3472" parent="stroke" src="picbox" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1.001" hidden="true" x="0.00692674" y="0.00695118" width="0.985136" height="0.680498" />
+			<rectangle id="textbox" pos="0.503054,0.842389" parent="stroke" src="textbox" fill="255,255,255" stroke="0,0,0" strokewidth="4" zpos="1.002" hidden="true" x="0.0255616" y="0.774472" width="0.954986" height="0.135834" />
+		</group>
+	</event>
+</events>

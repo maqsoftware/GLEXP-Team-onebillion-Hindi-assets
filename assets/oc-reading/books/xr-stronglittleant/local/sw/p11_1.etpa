@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Ghafla, mbwa alipiga chafya! Siafu alianguka chini kwa kishindo. Akawa ameidondosha choroko yake tena. Ilikuwa kazi pevu!" frames="462047">
+		<timing id="0" start="0.000" end="0.755" startframe="0" framelength="33277" text="Ghafla"/>
+		<timing id="1" start="1.095" end="1.459" startframe="48276" framelength="16058" text="mbwa"/>
+		<timing id="2" start="1.459" end="1.909" startframe="64334" framelength="19845" text="alipiga"/>
+		<timing id="3" start="1.909" end="2.594" startframe="84179" framelength="30207" text="chafya"/>
+		<timing id="4" start="2.869" end="3.595" startframe="126508" framelength="32052" text="Siafu"/>
+		<timing id="5" start="3.595" end="4.248" startframe="158560" framelength="28766" text="alianguka"/>
+		<timing id="6" start="4.248" end="4.627" startframe="187326" framelength="16737" text="chini"/>
+		<timing id="7" start="4.627" end="4.811" startframe="204063" framelength="8086" text="kwa"/>
+		<timing id="8" start="4.811" end="5.566" startframe="212149" framelength="33333" text="kishindo"/>
+		<timing id="9" start="5.817" end="6.452" startframe="256539" framelength="27998" text="Akawa"/>
+		<timing id="10" start="6.452" end="7.386" startframe="284537" framelength="41196" text="ameidondosha"/>
+		<timing id="11" start="7.386" end="7.849" startframe="325733" framelength="20400" text="choroko"/>
+		<timing id="12" start="7.849" end="8.107" startframe="346133" framelength="11365" text="yake"/>
+		<timing id="13" start="8.107" end="8.569" startframe="357498" framelength="20376" text="tena"/>
+		<timing id="14" start="9.036" end="9.550" startframe="398497" framelength="22651" text="Ilikuwa"/>
+		<timing id="15" start="9.550" end="9.859" startframe="421148" framelength="13626" text="kazi"/>
+		<timing id="16" start="9.859" end="10.477" startframe="434774" framelength="27273" text="pevu"/>
+	</timings>
+</xml>

@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl4_yangu.aif</url>
+	<relurl>psyl4_yangu.aif</relurl>
+	<timings text="ya - ngu" frames="44959">
+		<timing id="0" start="0.000" end="0.446" startframe="0" framelength="19668" text="ya"/>
+		<timing id="1" start="0.617" end="1.019" startframe="27211" framelength="17748" text="ngu"/>
+	</timings>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p3_2.aif</url>
+	<relurl>p3_2.aif</relurl>
+	<timings text="“Kuwa mkarimu kwa watu unaokutana nao,” Saida alionya. Lakini Neema alipuuza." frames="338055">
+		<timing id="0" start="0.000" end="0.232" startframe="0" framelength="10253" text="Kuwa"/>
+		<timing id="1" start="0.232" end="0.828" startframe="10253" framelength="26257" text="mkarimu"/>
+		<timing id="2" start="0.828" end="1.009" startframe="36510" framelength="8002" text="kwa"/>
+		<timing id="3" start="1.009" end="1.729" startframe="44512" framelength="31722" text="watu"/>
+		<timing id="4" start="1.929" end="2.680" startframe="85077" framelength="33129" text="unaokutana"/>
+		<timing id="5" start="2.680" end="3.215" startframe="118206" framelength="23576" text="nao"/>
+		<timing id="6" start="3.656" end="4.260" startframe="161232" framelength="26640" text="Saida"/>
+		<timing id="7" start="4.260" end="4.977" startframe="187872" framelength="31608" text="alionya"/>
+		<timing id="8" start="5.527" end="5.977" startframe="243744" framelength="19845" text="Lakini"/>
+		<timing id="9" start="5.977" end="6.717" startframe="263589" framelength="32623" text="Neema"/>
+		<timing id="10" start="6.805" end="7.666" startframe="300092" framelength="37963" text="alipuuza"/>
+	</timings>
+</xml>

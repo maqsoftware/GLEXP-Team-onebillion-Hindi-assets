@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+		<image id="button1" pos="0.29575,0.342641" src="menubutton1" zpos="0.001" target="XPRZ_Welcome" parm="eventwelcome" config="xprz0" />
+		<image id="button2" pos="0.505978,0.344086" src="menubutton2" zpos="0.002" target="XPRZ_SectionIT" parm="eventit" config="xprz0" />
+		<image id="button3" pos="0.717773,0.343964" src="menubutton3" zpos="0" target="X_Reading" config="x-reading/books/tembo" parm="1" />
+		<image id="button4" pos="0.295708,0.637634" src="menubutton4" zpos="0.003" target="XPRZ_Menu" config="x-reading" parm="menu2" />
+		<image id="button5" pos="0.50655,0.637426" src="menubutton5" zpos="0.004" target="X_Reading" config="x-reading/books/xr-temboumbrella" parm="0"  />
+		<image id="button-m-1-sorting-normal" pos="0.101286,0.136035" src="icon-m-1-sorting-normal" scalex="0.366901" scaley="0.366901" zpos="0.005" target="XPRZ_Menu" parm="menu" config="x-sorting" />
+		<image id="button-m-2-3dshapes-3" pos="0.105892,0.372665" src="sectionIcon-m-2-3dshapes-3" scalex="0.650191" scaley="0.650191" zpos="0.007" target="XPRZ_Menu" parm="menu" config="x-3dshapes" />
+		<image id="button-m-2-count20-normal" pos="0.277719,0.117144" src="icon-m-2-count20-normal" scalex="0.378028" scaley="0.378028" zpos="0.006" target="XPRZ_Menu" parm="menu" config="x-count20" />
+		<image id="buttonegra1" pos="0.106943,0.567066" src="egra1" scalex="0.121527" scaley="0.121527" zpos="0.009" target="X_egra_menu" parm="menu" config="x-egra" />
+		<image id="buttonegraph" pos="0.104882,0.841222" src="egraph" scalex="0.432227" scaley="0.432227" zpos="0.008" target="X_egra_fw" parm="eventegrafw/2" config="x-egra" hidden="true"/>
+        <!--
+        <image id="buttonegrapha" pos="0.103135,0.689964" src="egrapha" scalex="0.250429" scaley="0.250429" zpos="0.01" target="X_egra_q3" parm="eventegraph1" config="x-egra" />
+         -->
+        <image id="buttonegrapha" pos="0.103135,0.689964" src="egrapha" scalex="0.250429" scaley="0.250429" zpos="0.01" target="X_egra_intro" parm="eventegraintro" config="x-egra" hidden="true"/>
+	</event>
+</events>

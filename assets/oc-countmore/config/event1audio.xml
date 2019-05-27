@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookthechildrenarereadyforarace</phrase>
+			<phrase>1_sotouchthestarterbuttonandwatchthemrun</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthestarterbuttonandwatchthechildrenrun</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="DEMO">
+			<phrase>1_first</phrase>
+			<phrase>1_second</phrase>
+			<phrase>1_third</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetherearefourchildren</phrase>
+			<phrase>1_touchthestarterbutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthestarterbuttonandwatchthechildrenrun</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamefirstintherace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamesecond</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamethird</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildcamefourth</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildcamefourth</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildcamefourth</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="DEMO">
+			<phrase>1_first_1m</phrase>
+			<phrase>1_second_1m</phrase>
+			<phrase>1_third_1m</phrase>
+			<phrase>1_fourth</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowfivechildrenarewaitingforthebus</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildisfirstinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildisfirstinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_heisfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildisfirstinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whoisfourthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whoisfourthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_heisfourth</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whoisfourthinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whoisfifthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whoisfifthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_heisfifth</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whoisfifthinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="DEMO">
+			<phrase>1_first_1q</phrase>
+			<phrase>1_second_1q</phrase>
+			<phrase>1_third_1q</phrase>
+			<phrase>1_fourth_1q</phrase>
+			<phrase>1_fifth</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowputtheboywithglassesfirstinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_dragtheboywithglassestothefirstplaceinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>1_dragtheboywithglassestothefirstplaceinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_first_1r</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_dragtheboywithglassestothefirstplaceinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1s">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putthegirlintheyellowdresssecondinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_putthegirlintheyellowdresssecondinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_second_1s</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_putthegirlintheyellowdresssecondinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1t">
+		<phrasegroup id="PROMPT">
+			<phrase>1_puttheboyintheredtshirtthirdinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_puttheboyintheredtshirtthirdinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_third_1t</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_puttheboyintheredtshirtthirdinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1u">
+		<phrasegroup id="PROMPT">
+			<phrase>1_putthegirlinthepinkdressfourthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_putthegirlinthepinkdressfourthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fourth_1u</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_putthegirlinthepinkdressfourthinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1v">
+		<phrasegroup id="PROMPT">
+			<phrase>1_sowhosfifthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whoisfifthinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_fifth_1v</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whoisfifthinthequeue_1v</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1w">
+		<phrasegroup id="DEMO">
+			<phrase>1_firstinthequeue</phrase>
+			<phrase>1_second_1w</phrase>
+			<phrase>1_third_1w</phrase>
+			<phrase>1_fourth_1w</phrase>
+			<phrase>1_fifth_1w</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1x">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichchildislastinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_whichchildislastinthequeue</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_yeshesfifthandlast</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichchildislastinthequeue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_verygoodyoushowedfirstsecondthirdfourthfifthandlast</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="walk">
+			<phrase>footstep</phrase>
+		</phrasegroup>
+		<phrasegroup id="run">
+			<phrase>footsteps_race_less</phrase>
+		</phrasegroup>
+		<phrasegroup id="finish">
+			<phrase>crossingtheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="house">
+			<phrase>choosehouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="button">
+			<phrase>startbutton</phrase>
+		</phrasegroup>
+        <phrasegroup id="click">
+            <phrase>click</phrase>
+        </phrasegroup>
+	</event>
+</audio>

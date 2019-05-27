@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.101801085">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_emiandmatiwatchmum</phrase>
+			<phrase>cq_findthegreenpeppernearmatishand</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_mumwillchopthepepperandputitinthepot</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_findthegreenpeppernearmatishand</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_matiistalkingonthephone</phrase>
+			<phrase>cq_findthephone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_matiistalkingtomumsfriendswhoarecomingtovisit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thechildrenwillcooksincemumisill</phrase>
+			<phrase>cq_whatsontheshelfbelowthecarrots</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_cauliflower</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_onions</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_letsseeifthechildrenwillcookthecauliflower</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p5">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_emitellsmatiwhattoputinthepot</phrase>
+			<phrase>cq_touchthepot</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thecauliflowerwillgointheresoon</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+			<phrase>cq_touchthepot</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_areemiandmatigoodcookswellsoonfindout</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p8">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thefoodlooksgreatandittastesgreat</phrase>
+			<phrase>cq_everyonepraisesemiandmati</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthatistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

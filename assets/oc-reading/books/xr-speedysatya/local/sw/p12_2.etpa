@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="Kila mtu anatabasamu wakati akisikiliza hadithi." frames="195232">
+		<timing id="0" start="0.000" end="0.323" startframe="0" framelength="14255" text="Kila"/>
+		<timing id="1" start="0.323" end="0.995" startframe="14255" framelength="29605" text="mtu"/>
+		<timing id="2" start="1.258" end="2.268" startframe="55464" framelength="44538" text="anatabasamu"/>
+		<timing id="3" start="2.268" end="2.690" startframe="100002" framelength="18616" text="wakati"/>
+		<timing id="4" start="2.690" end="3.663" startframe="118618" framelength="42930" text="akisikiliza"/>
+		<timing id="5" start="3.663" end="4.427" startframe="161548" framelength="33684" text="hadithi"/>
+	</timings>
+</xml>

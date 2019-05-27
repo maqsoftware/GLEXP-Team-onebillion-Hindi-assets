@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p8_1.aif</url>
+	<relurl>p8_1.aif</relurl>
+	<timings text="Baadae, wazee wake walikuja." frames="115663">
+		<timing id="0" start="0.000" end="0.850" startframe="0" framelength="37486" text="Baadae"/>
+		<timing id="1" start="1.284" end="1.614" startframe="56604" framelength="14583" text="wazee"/>
+		<timing id="2" start="1.614" end="1.928" startframe="71187" framelength="13842" text="wake"/>
+		<timing id="3" start="1.928" end="2.623" startframe="85029" framelength="30634" text="walikuja"/>
+	</timings>
+</xml>

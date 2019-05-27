@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-speedysatyaSW-0/_processed/p2_1.aif</url>
+	<relurl>p2_1.aif</relurl>
+	<timings text="Familia yake Mosi inapenda anavyokimbia. Wakati mwengine huchafuka na hujichubua magoti yake, lakini hakuna anayejali. Wanapenda kumuona akicheza." frames="610594">
+		<timing id="0" start="0.075" end="0.751" startframe="3306" framelength="29818" text="Familia"/>
+		<timing id="1" start="0.751" end="1.093" startframe="33124" framelength="15056" text="yake"/>
+		<timing id="2" start="1.093" end="1.737" startframe="48180" framelength="28405" text="Mosi"/>
+		<timing id="3" start="1.903" end="2.567" startframe="83922" framelength="29276" text="inapenda"/>
+		<timing id="4" start="2.567" end="3.513" startframe="113198" framelength="41746" text="anavyokimbia"/>
+		<timing id="5" start="3.949" end="4.387" startframe="174165" framelength="19304" text="Wakati"/>
+		<timing id="6" start="4.387" end="5.127" startframe="193469" framelength="32623" text="mwengine"/>
+		<timing id="7" start="5.698" end="6.836" startframe="251285" framelength="50189" text="huchafuka"/>
+		<timing id="8" start="7.181" end="7.461" startframe="316674" framelength="12341" text="na"/>
+		<timing id="9" start="7.461" end="8.201" startframe="329015" framelength="32637" text="hujichubua"/>
+		<timing id="10" start="8.201" end="8.628" startframe="361652" framelength="18836" text="magoti"/>
+		<timing id="11" start="8.628" end="9.263" startframe="380488" framelength="27990" text="yake"/>
+		<timing id="12" start="9.600" end="10.122" startframe="423379" framelength="23003" text="lakini"/>
+		<timing id="13" start="10.122" end="10.628" startframe="446382" framelength="22320" text="hakuna"/>
+		<timing id="14" start="10.628" end="11.610" startframe="468702" framelength="43321" text="anayejali"/>
+		<timing id="15" start="11.874" end="12.513" startframe="523629" framelength="28203" text="Wanapenda"/>
+		<timing id="16" start="12.513" end="13.140" startframe="551832" framelength="27634" text="kumuona"/>
+		<timing id="17" start="13.140" end="13.846" startframe="579466" framelength="31128" text="akicheza"/>
+	</timings>
+</xml>

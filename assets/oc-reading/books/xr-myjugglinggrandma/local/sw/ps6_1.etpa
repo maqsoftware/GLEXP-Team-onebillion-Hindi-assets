@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Babu aliogopa. Kucheza cheza huku kutamtia matatani bibi." frames="582719">
+		<timing id="0" start="0.131" end="0.889" startframe="5793" framelength="33424" text="Babu"/>
+		<timing id="1" start="1.940" end="2.857" startframe="85539" framelength="40448" text="aliogopa"/>
+		<timing id="2" start="3.831" end="4.797" startframe="168948" framelength="42606" text="Kucheza"/>
+		<timing id="3" start="5.743" end="6.561" startframe="253276" framelength="36072" text="cheza"/>
+		<timing id="4" start="7.498" end="8.372" startframe="330676" framelength="38533" text="huku"/>
+		<timing id="5" start="9.147" end="10.285" startframe="403376" framelength="50206" text="kutamtia"/>
+		<timing id="6" start="11.208" end="12.267" startframe="494255" framelength="46715" text="matatani"/>
+		<timing id="7" start="12.755" end="13.266" startframe="562479" framelength="22573" text="bibi"/>
+	</timings>
+</xml>

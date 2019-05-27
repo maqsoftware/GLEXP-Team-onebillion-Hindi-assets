@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" scenes="5a,5c,5d,5e,5f,5g,5h,5i,5j,5k,5l,5m,5n,5o" gradienttop="253,240,172" gradientbottom="254,255,239" colour="254,247,214" >
+		<linearGradient id="Gradient99" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(97.6471%,92.9412%,77.2549%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(95.2941%,81.1765%,37.6471%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottombar" anchor="0.5,1" pos="0.500746,1.01247" src="bottombar" fill="url(#Gradient99)"  zpos="0.001" hidden="true" x="-0.00290298" y="0.651271" width="1.0073" height="0.361201" />
+		<rectangle id="workrect" pos="0.500349,0.548673" src="workrect" fill="0,234,254" zpos="0" hidden="true" widthtracksheight="true" x="0.00319672" y="0.131653" width="0.994305" height="0.83404" pxwidth="1018.17" pxheight="640.543" />
+		<rectangle id="drop" pos="0.0944098,0.286351" parent="workrect" src="drop" fill="0,234,254" zpos="0.02" hidden="true" x="0.0325608" y="0.10838" width="0.123698" height="0.355942" />
+		<rectangle id="line_1" pos="0.0932799,0.375899" parent="workrect" src="line_1" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.002" hidden="true" drop="" x="0.0399998" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="line_2" pos="0.255851,0.375899" parent="workrect" src="line_2" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.003" hidden="true" x="0.20257" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="line_3" pos="0.418421,0.375899" parent="workrect" src="line_3" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.004" hidden="true" x="0.365141" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="line_4" pos="0.580992,0.375899" parent="workrect" src="line_4" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.005" hidden="true" x="0.527712" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="line_5" pos="0.743562,0.375899" parent="workrect" src="line_5" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.006" hidden="true" x="0.690282" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="line_6" pos="0.906133,0.375899" parent="workrect" src="line_6" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="0.007" hidden="true" x="0.852853" y="0.372603" width="0.10656" height="0.00659231" />
+		<rectangle id="loc_1" pos="0.124452,0.423819" parent="bottombar" src="loc_1" fill="0,234,254" zpos="0.014" hidden="true" x="0.110495" y="0.371921" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_2" pos="0.283573,0.637619" parent="bottombar" src="loc_2" fill="0,234,254" zpos="0.015" hidden="true" x="0.269616" y="0.585721" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_3" pos="0.434688,0.423819" parent="bottombar" src="loc_3" fill="0,234,254" zpos="0.016" hidden="true" x="0.420731" y="0.371921" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_4" pos="0.587379,0.637619" parent="bottombar" src="loc_4" fill="0,234,254" zpos="0.017" hidden="true" x="0.573421" y="0.585721" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_5" pos="0.702626,0.423819" parent="bottombar" src="loc_5" fill="0,234,254" zpos="0.018" hidden="true" x="0.688669" y="0.371921" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_6" pos="0.873934,0.637619" parent="bottombar" src="loc_6" fill="0,234,254" zpos="0.019" hidden="true" x="0.859977" y="0.585721" width="0.0279144" height="0.103795" />
+		<circle id="obj_1" pos="0.214576,0.206292" parent="workrect" src="obj_1" fill="244,251,8" stroke="0,0,0" strokewidth="2" zpos="0.008" hidden="true" start="right" drop="loc_1" x="0.122497" y="0.0599284" width="0.184158" height="0.292727" />
+		<path id="obj_2" pos="0.243809,0.676293" parent="workrect" src="obj_2" fill="73,249,8" stroke="0,0,0" strokewidth="2" zpos="0.009" hidden="true" start="right" drop="loc_2" d="M0.196905 0.805426L0.290712 0.805426L0.337616 0.676293L0.290712 0.547159L0.196905 0.547159L0.150001 0.676293L0.196905 0.805426Z" />
+		<rectangle id="obj_3" pos="0.515889,0.67935" parent="workrect" src="obj_3" fill="223,61,255" stroke="0,0,0" strokewidth="2" zpos="0.01" hidden="true" start="right" drop="loc_3" x="0.441307" y="0.504418" width="0.149165" height="0.349863" />
+		<rectangle id="obj_4" pos="0.51658,0.207508" parent="workrect" src="obj_4" fill="34,253,243" stroke="0,0,0" strokewidth="2" zpos="0.011" hidden="true" start="left" drop="loc_4" x="0.442147" y="0.0891943" width="0.148866" height="0.236628" />
+		<path id="obj_5" pos="0.789527,0.675651" parent="workrect" src="obj_5" fill="251,140,33" stroke="0,0,0" strokewidth="2" zpos="0.012" hidden="true" start="left" drop="loc_5" d="M0.707435 0.541299c0.006 0.000 0.164 0.001 0.164 0.001L0.871619 0.810002L0.707435 0.541299Z" />
+		<path id="obj_6" pos="0.778847,0.20492" parent="workrect" src="obj_6" fill="123,54,255" stroke="0,0,0" strokewidth="2" zpos="0.013" hidden="true" start="left" drop="loc_6" d="M0.723674 0.339878L0.834021 0.339878L0.868121 0.173061L0.778847 0.0699622L0.689574 0.173061L0.723674 0.339878Z" />
+	</event>
+	<event id="5a" line="line_1" target="obj_4" >
+	</event>
+	<event id="5c" line="line_2" target="obj_6" >
+	</event>
+	<event id="5d" line="line_3" target="obj_5" >
+	</event>
+	<event id="5e" line="line_4" target="obj_2" >
+	</event>
+	<event id="5f" line="line_5" target="obj_3" >
+	</event>
+	<event id="5g" line="line_6" target="obj_1" >
+	</event>
+	<event id="5h" line="line" target="obj_1,obj_4" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+		<rectangle id="drop" pos="0.500075,0.288336" parent="workrect" src="drop" fill="0,234,254" zpos="4.007" hidden="true" x="0.298905" y="0.113173" width="0.402339" height="0.350325" />
+		<rectangle id="line" pos="0.499411,0.375898" parent="workrect" src="line" fill="218,55,224" stroke="0,0,0" strokewidth="1" zpos="4.006" hidden="true" drop="" x="0.310093" y="0.372602" width="0.378637" height="0.00659283" />
+		<rectangle id="loc_1" pos="0.569383,0.28796" parent="bottombar" src="loc_1" fill="0,234,254" zpos="4" hidden="true" x="0.555425" y="0.236063" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_2" pos="0.899773,0.348314" parent="bottombar" src="loc_2" fill="0,234,254" zpos="4.001" hidden="true" x="0.885816" y="0.296416" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_3" pos="0.102669,0.50131" parent="bottombar" src="loc_3" fill="0,234,254" zpos="4.002" hidden="true" x="0.0887119" y="0.449412" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_4" pos="0.727848,0.60716" parent="bottombar" src="loc_4" fill="0,234,254" zpos="4.003" hidden="true" x="0.713891" y="0.555263" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_5" pos="0.269451,0.348314" parent="bottombar" src="loc_5" fill="0,234,254" zpos="4.004" hidden="true" x="0.255494" y="0.296416" width="0.0279144" height="0.103795" />
+		<rectangle id="loc_6" pos="0.446258,0.60716" parent="bottombar" src="loc_6" fill="0,234,254" zpos="4.005" hidden="true" x="0.4323" y="0.555263" width="0.0279144" height="0.103795" />
+	</event>
+	<event id="5i" line="line" target="obj_2,obj_5" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5j" line="line" target="obj_6,obj_2" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5k" line="line" target="obj_6,obj_2" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5l" line="line" target="obj_3,obj_4" skip_drop="true" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5m" target="obj_3,obj_4" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5n" touch_mode="true" target="obj_4" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="5o" touch_mode="true" target="obj_4" >
+		<image id="5E" pos="0.5,0.5" src="5E" zpos="3" />
+	</event>
+	<event id="master2" gradienttop="253,240,172" gradientbottom="254,255,239" scenes="5p" >
+		<rectangle id="workrect" pos="0.497828,0.569806" src="workrect" fill="0,234,254" zpos="3" hidden="true" widthtracksheight="true" x="0.146339" y="0.336395" width="0.702976" height="0.466822" pxwidth="719.848" pxheight="358.52" />
+		<vector id="card" pos="0.146342,0.335436" src="card" scalex="1.04463" scaley="1.04463" zpos="3.001" />
+		<path id="shape_1" pos="0.00163776,0.00322303" parent="workrect" src="shape_1" fill="138,43,199" stroke="0,0,0" strokewidth="1" zpos="3.002" tag="0" d="M-0.0783201 0.153409L0.107925 0.0560161L0.0815956 -0.146963L-0.104649 -0.04957L-0.0783201 0.153409Z" />
+		<path id="shape_2" pos="0.333721,0.00414574" parent="workrect" src="shape_2" fill="209,35,36" stroke="0,0,0" strokewidth="1" zpos="3.003" tag="3" d="M0.333721 0.171275L0.41696 0.00414576L0.333721 -0.162983L0.250483 0.00414576L0.333721 0.171275Z" />
+		<path id="shape_3" pos="0.666781,0.00441838" parent="workrect" src="shape_3" fill="253,129,34" stroke="0,0,0" strokewidth="1" zpos="3.004" tag="5" d="M0.624221 0.152428L0.709341 0.152428L0.751901 0.00441842L0.709341 -0.143591L0.624221 -0.143591L0.581661 0.0044184L0.624221 0.152428Z" />
+		<path id="shape_4" pos="0.998622,0.00433113" parent="workrect" src="shape_4" fill="27,111,234" stroke="0,0,0" strokewidth="1" zpos="3.005" tag="4" d="M1.03886 -0.119992L0.958384 -0.119992L0.933516 0.0336799L0.998622 0.128654L1.06373 0.0336799L1.03886 -0.119992Z" />
+		<path id="shape_5" pos="0.00195083,0.505257" parent="workrect" src="shape_5" fill="241,235,37" stroke="0,0,0" strokewidth="1" zpos="3.006" tag="4" d="M-0.0461415 0.65385L0.0500431 0.65385L0.0797658 0.470179L0.00195083 0.356665L-0.0758642 0.470179L-0.0461415 0.65385Z" />
+		<path id="shape_6" pos="0.332777,0.507801" parent="workrect" src="shape_6" fill="59,244,231" stroke="0,0,0" strokewidth="1" zpos="3.007" tag="2" d="M0.243937 0.378733L0.243937 0.636869L0.421616 0.379648L0.243937 0.378733Z" />
+		<rectangle id="shape_7" pos="0.666186,0.505519" parent="workrect" src="shape_7" fill="30,183,145" stroke="0,0,0" strokewidth="1" zpos="3.008" tag="0" x="0.570935" y="0.422577" width="0.190503" height="0.165884" />
+		<circle id="shape_8" pos="0.999113,0.505606" parent="workrect" src="shape_8" fill="141,53,247" stroke="0,0,0" strokewidth="1" zpos="3.009" tag="1" x="0.922621" y="0.352023" width="0.152984" height="0.307166" />
+		<path id="shape_9" pos="0.00135684,0.999452" parent="workrect" src="shape_9" fill="243,54,203" stroke="0,0,0" strokewidth="1" zpos="3.01" tag="2" d="M-0.087296 1.12847L0.0477125 1.12397L0.0900097 0.870434L-0.087296 1.12847Z" />
+		<rectangle id="shape_10" pos="0.332922,1.00542" parent="workrect" src="shape_10" fill="94,250,93" stroke="0,0,0" strokewidth="1" zpos="3.011" tag="3" x="0.286321" y="0.911855" width="0.0932028" height="0.187136" />
+		<path id="shape_11" pos="0.667052,1.00701" parent="workrect" src="shape_11" fill="188,125,204" stroke="0,0,0" strokewidth="1" zpos="3.012" tag="5" d="M0.597929 0.926886L0.597929 1.08714L0.667052 1.16727L0.736174 1.08714L0.736174 0.926886L0.667052 0.846757L0.597929 0.926886Z" />
+		<circle id="shape_12" pos="0.999623,1.00504" parent="workrect" src="shape_12" fill="137,222,37" stroke="0,0,0" strokewidth="1" zpos="3.013" tag="1" x="0.944463" y="0.894286" width="0.110321" height="0.221506" />
+	</event>
+	<event id="5p" >
+	</event>
+</events>

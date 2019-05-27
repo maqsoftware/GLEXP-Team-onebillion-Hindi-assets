@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url chdate="2018-04-30T12:32:00Z" filesize="1209" >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps8_1.aif</url>
+	<relurl>ps8_1.aif</relurl>
+	<timings text="Mvua ilipokwisha, Anansi alimuona Tai akiwa na mkoba wake." frames="921311">
+		<timing id="0" start="0.000" end="0.832" startframe="0" framelength="36683" text="Mvua"/>
+		<timing id="1" start="2.470" end="3.675" startframe="108940" framelength="53146" text="ilipokwisha"/>
+		<timing id="2" start="5.651" end="6.844" startframe="249204" framelength="52606" text="Anansi"/>
+		<timing id="3" start="8.041" end="9.071" startframe="354590" framelength="45450" text="alimuona"/>
+		<timing id="4" start="10.377" end="11.092" startframe="457606" framelength="31561" text="Tai"/>
+		<timing id="5" start="12.687" end="13.641" startframe="559507" framelength="42062" text="akiwa"/>
+		<timing id="6" start="14.920" end="15.649" startframe="657969" framelength="32148" text="na"/>
+		<timing id="7" start="17.379" end="18.250" startframe="766435" framelength="38401" text="mkoba"/>
+		<timing id="8" start="19.378" end="20.137" startframe="854588" framelength="33464" text="wake"/>
+	</timings>
+</xml>

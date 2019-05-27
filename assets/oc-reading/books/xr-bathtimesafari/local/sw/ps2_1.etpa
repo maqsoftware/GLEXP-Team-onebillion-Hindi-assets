@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps2_1.aif</url>
+	<relurl>ps2_1.aif</relurl>
+	<timings text="Jack akagundua kitu ndani ya maji. Je kile ni kitambaa cha kijani cha kujifuta uso?" frames="1239276">
+		<timing id="0" start="0.000" end="0.649" startframe="0" framelength="28641" text="Jack"/>
+		<timing id="1" start="1.802" end="3.070" startframe="79476" framelength="55903" text="akagundua"/>
+		<timing id="2" start="4.081" end="4.753" startframe="179974" framelength="29641" text="kitu"/>
+		<timing id="3" start="5.775" end="6.643" startframe="254688" framelength="38278" text="ndani"/>
+		<timing id="4" start="7.527" end="8.171" startframe="331944" framelength="28377" text="ya"/>
+		<timing id="5" start="9.290" end="10.042" startframe="409672" framelength="33185" text="maji"/>
+		<timing id="6" start="11.608" end="12.290" startframe="511919" framelength="30080" text="Je"/>
+		<timing id="7" start="13.453" end="14.220" startframe="593266" framelength="33847" text="kile"/>
+		<timing id="8" start="15.390" end="15.916" startframe="678681" framelength="23217" text="ni"/>
+		<timing id="9" start="17.016" end="18.016" startframe="750399" framelength="44107" text="kitambaa"/>
+		<timing id="10" start="19.105" end="19.820" startframe="842515" framelength="31552" text="cha"/>
+		<timing id="11" start="20.922" end="21.748" startframe="922661" framelength="36422" text="kijani"/>
+		<timing id="12" start="22.997" end="23.733" startframe="1014153" framelength="32463" text="cha"/>
+		<timing id="13" start="25.015" end="26.183" startframe="1103149" framelength="51518" text="kujifuta"/>
+		<timing id="14" start="27.521" end="28.101" startframe="1213669" framelength="25607" text="uso"/>
+	</timings>
+</xml>

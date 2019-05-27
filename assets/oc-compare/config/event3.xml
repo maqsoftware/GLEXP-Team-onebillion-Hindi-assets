@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="3a,3b,3c,3d,3e,3f,3g,3h,3i,3j,3k,3l,3m,3n,3o" gradienttop="64,209,251" gradientbottom="233,250,252" >
+		<image id="Event3a" pos="0.5,0.5" src="Event3a" scalex="1.066" scaley="1.066" zpos="0" />
+		<vector id="cloud" pos="0.473543,0.19019" src="3_cloud" scalex="0.478869" scaley="0.478869" zpos="1.001" opacity="0.3" />
+		<vector id="cloudbig" pos="0.758906,0.0191498" src="3_cloud" scalex="1.05188" scaley="0.982237" zpos="1.002" opacity="0.3" />
+		<rectangle id="grass" pos="0.5,0.907852" src="grass" fill="155,225,162" zpos="1" x="0" y="0.815704" width="1" height="0.184296" />
+	</event>
+	<event id="3a" >
+		<vector id="obj_boy" anchor="0.5,1" pos="0.64209,0.179844" parent="grass" src="3a_boy" scalex="0.547694" scaley="0.547694" zpos="3" skinoffset="1" />
+		<vector id="obj_girl" anchor="0.5,1" pos="0.352068,0.179546" parent="grass" src="3a_girl" scalex="0.768645" scaley="0.768645" zpos="3.001" />
+	</event>
+	<event id="3b" target="obj_girl" >
+	</event>
+	<event id="3c" target="obj_girl" >
+		<vector id="obj_boy" anchor="0.5,1" pos="0.656034,0.215764" parent="grass" src="3c_boy" scalex="0.991119" scaley="0.991119" zpos="3.001" />
+		<vector id="obj_girl" anchor="0.5,1" pos="0.338145,0.15962" parent="grass" src="3a_girl" scalex="0.768645" scaley="0.768645" zpos="3" />
+	</event>
+	<event id="3d" target="obj_boy2" >
+		<vector id="obj_boy1" anchor="0.5,1" pos="0.356609,0.214663" parent="grass" src="3c_boy" scalex="0.992259" scaley="0.992259" zpos="3" />
+		<vector id="obj_boy2" pos="0.644274,0.636823" src="3d_boy" scalex="0.555963" scaley="0.555963" zpos="3.001" />
+	</event>
+	<event id="3e" target="obj_2" >
+		<vector id="obj_1" pos="0.337843,0.566538" src="3a_girl" scalex="0.777101" scaley="0.777101" zpos="3" />
+		<vector id="obj_2" pos="0.662388,0.490135" src="3e_girl1" scalex="0.982667" scaley="0.982667" zpos="3.001" />
+	</event>
+	<event id="3f" target="obj_2" >
+		<vector id="obj_1" anchor="0.5,1" pos="0.243757,0.213943" parent="grass" src="3h_boy1" scalex="0.651408" scaley="0.651408" zpos="3.002" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.505665,0.251725" parent="grass" src="3e_girl1" scalex="0.982667" scaley="0.982667" zpos="3.001" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.764118,0.184205" parent="grass" src="3a_boy" scalex="0.547694" scaley="0.547694" zpos="3" skinoffset="1" />
+	</event>
+	<event id="3g" target="obj_3" >
+	</event>
+	<event id="3h" target="obj_3" >
+		<vector id="obj_1" anchor="0.5,1" pos="0.582083,0.206188" parent="grass" src="3h_girl2" scalex="0.925245" scaley="0.925245" zpos="3" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.829781,0.21179" parent="grass" src="3h_boy2" scalex="0.730368" scaley="0.730368" zpos="3.001" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.139295,0.175857" parent="grass" src="3h_girl1" scalex="0.487682" scaley="0.487682" zpos="3.002" />
+		<vector id="obj_4" anchor="0.5,1" pos="0.351587,0.18444" parent="grass" src="3h_boy1" scalex="0.649624" scaley="0.649624" zpos="3.003" />
+	</event>
+	<event id="3i" target="obj_1" >
+	</event>
+	<event id="3j" target="obj_3" >
+		<vector id="obj_1" anchor="0.5,1" pos="0.119967,0.32682" parent="grass" src="3_giraffe" scalex="1.002" scaley="1.00181" zpos="3.003" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.308638,0.32682" parent="grass" src="3_giraffe" scalex="1.002" scaley="1.00181" zpos="3.002" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.504175,0.35566" parent="grass" src="3_giraffe" scalex="1.37706" scaley="1.37706" zpos="3.004" />
+		<vector id="obj_4" anchor="0.5,1" pos="0.712195,0.343131" parent="grass" src="3_giraffe" scalex="1.2223" scaley="1.2223" zpos="3.001" />
+		<vector id="obj_5" anchor="0.5,1" pos="0.893364,0.37669" parent="grass" src="3_giraffe" scalex="0.809486" scaley="0.809486" zpos="3" />
+	</event>
+	<event id="3k" target="obj_5" >
+	</event>
+	<event id="3l" target="obj_1,obj_2" >
+	</event>
+	<event id="3m" target="obj_5" >
+		<vector id="obj_1" anchor="0.5,1" pos="0.143657,0.30303" parent="grass" src="3_tree1" scalex="2.78904" scaley="2.78904" zpos="3.003" />
+		<vector id="obj_2" anchor="0.5,1" pos="0.338588,0.310896" parent="grass" src="3_tree2" scalex="2.00714" scaley="2.00714" zpos="3.004" />
+		<vector id="obj_3" anchor="0.5,1" pos="0.538414,0.258073" parent="grass" src="3_tree3" scalex="2.1411" scaley="2.1411" zpos="3.002" />
+		<vector id="obj_4" anchor="0.5,1" pos="0.710876,0.347822" parent="grass" src="3_tree4" scalex="2.84027" scaley="2.84027" zpos="3" />
+		<vector id="obj_5" anchor="0.5,1" pos="0.892258,0.161064" parent="grass" src="3_tree5" scalex="0.348843" scaley="0.348843" zpos="3.001" />
+	</event>
+	<event id="3n" target="obj_4" >
+	</event>
+	<event id="3o" target="obj_2,obj_3" >
+	</event>
+	<event id="masterb" scenes="3p,3q,3r,3s,3t,3u,3v" gradienttop="64,209,251" gradientbottom="233,250,252" >
+		<vector id="cloud" pos="0.473543,0.19019" src="3_cloud" scalex="0.478869" scaley="0.478869" zpos="0.001" opacity="0.3" />
+		<vector id="cloudbig" pos="0.758906,0.0191498" src="3_cloud" scalex="1.05188" scaley="0.982237" zpos="0.002" opacity="0.3" />
+		<rectangle id="grass" pos="0.5,0.907852" src="grass" fill="155,225,162" zpos="0" x="0" y="0.815704" width="1" height="0.184296" />
+	</event>
+	<event id="3p" target="obj_" >
+		<vector id="obj_1" pos="0.883362,-0.8286" parent="grass" src="3h_girl1" scalex="0.486106" scaley="0.486106" zpos="2.002" skinoffset="1" />
+		<vector id="obj_2" pos="0.396326,-1.11732" parent="grass" src="3h_boy1" scalex="0.64959" scaley="0.64959" zpos="2.003" />
+		<vector id="obj_3" pos="0.159801,-1.30034" parent="grass" src="3h_boy2" scalex="0.728754" scaley="0.728754" zpos="2.001" skinoffset="1" />
+		<vector id="obj_4" pos="0.645252,-1.63199" parent="grass" src="3h_girl2" scalex="0.930238" scaley="0.930238" zpos="2" />
+	</event>
+	<event id="3q" target="obj_" >
+		<vector id="obj0" anchor="0.5,1" pos="0.665261,0.169261" parent="grass" src="3a_boy" scalex="0.451461" scaley="0.451461" zpos="2.002" />
+		<vector id="obj1" anchor="0.5,1" pos="0.875585,0.168488" parent="grass" src="3d_boy" scalex="0.616104" scaley="0.616104" zpos="2.001" />
+		<vector id="obj2" anchor="0.5,1" pos="0.171485,0.169289" parent="grass" src="3q_girl" scalex="0.775071" scaley="0.775071" zpos="2.003" />
+		<vector id="obj3" anchor="0.5,1" pos="0.436604,0.230778" parent="grass" src="3h_girl2" scalex="0.936093" scaley="0.936093" zpos="2" />
+	</event>
+	<event id="3r" target="obj_" >
+		<vector id="obj0" anchor="0.5,1" pos="0.877939,0.878398" src="3_giraffe" scalex="0.798" scaley="0.798194" zpos="2.003" />
+		<vector id="obj1" anchor="0.5,1" pos="0.42334,0.872541" src="3_giraffe" scalex="0.96" scaley="0.959956" zpos="2.001" />
+		<vector id="obj2" anchor="0.5,1" pos="0.650682,0.875788" src="3_giraffe" scalex="1.218" scaley="1.21835" zpos="2.002" />
+		<vector id="obj3" anchor="0.5,1" pos="0.184511,0.875931" src="3_giraffe" scalex="1.38142" scaley="1.38142" zpos="2" />
+	</event>
+	<event id="3s" target="obj_" >
+		<vector id="obj0" anchor="0.5,1" pos="0.635929,0.184903" parent="grass" src="3_flag_green" scalex="1.473" scaley="1.473" zpos="2.001" />
+		<vector id="obj1" anchor="0.5,1" pos="0.87487,0.176907" parent="grass" src="3_flag_blue" scalex="1.473" scaley="1.473" zpos="2" />
+		<vector id="obj2" anchor="0.5,1" pos="0.39579,0.176523" parent="grass" src="3_flag_red" scalex="1.473" scaley="1.473" zpos="2.002" />
+		<vector id="obj3" anchor="0.5,1" pos="0.15918,0.213239" parent="grass" src="3_flag_yellow" scalex="1.47281" scaley="1.47281" zpos="2.003" />
+	</event>
+	<event id="3t" target="obj_" >
+		<vector id="obj0" anchor="0.5,1" pos="0.41267,0.353039" parent="grass" src="3_tree4" scalex="2.84027" scaley="2.84027" zpos="2" />
+		<vector id="obj1" anchor="0.5,1" pos="0.190902,0.290501" parent="grass" src="3_tree1" scalex="2.78904" scaley="2.78904" zpos="2.002" />
+		<vector id="obj2" anchor="0.5,1" pos="0.818313,0.300546" parent="grass" src="3_tree2" scalex="2.00714" scaley="2.00714" zpos="2.003" />
+		<vector id="obj3" anchor="0.5,1" pos="0.621594,0.171414" parent="grass" src="3_tree5" scalex="0.348843" scaley="0.348843" zpos="2.001" />
+	</event>
+	<event id="3u" target="obj_" >
+		<vector id="obj1" pos="0.679796,0.736252" src="3e_girl1" scalex="0.304048" scaley="0.304048" zpos="2.003" />
+		<vector id="obj2" pos="0.422214,0.641815" src="3u_house" scalex="2.63352" scaley="2.63352" zpos="2" />
+		<vector id="obj3" anchor="0.5,1" pos="0.858068,0.869359" src="3_giraffe" scalex="1.141" scaley="1.14124" zpos="2.002" />
+		<vector id="obj4" anchor="0.5,1" pos="0.197266,0.184903" parent="grass" src="3_flag_green" scalex="1.473" scaley="1.473" zpos="2.001" />
+	</event>
+	<event id="3v" target="obj_" >
+		<vector id="obj1" anchor="0.5,1" pos="0.258754,0.360435" parent="grass" src="3_tree4" scalex="2.84027" scaley="2.84027" zpos="2.002" />
+		<vector id="obj2" anchor="0.5,1" pos="0.482679,0.329636" parent="grass" src="3_giraffe" scalex="1.11" scaley="1.11" zpos="2" />
+		<vector id="obj3" anchor="0.5,1" pos="0.785692,0.186648" parent="grass" src="3v_bus" scalex="-0.598" scaley="0.598294" zpos="2.001" />
+		<vector id="obj4" anchor="0.5,1" pos="0.103045,0.17238" parent="grass" src="3v_boy" scalex="0.363227" scaley="0.363227" zpos="2.003" />
+	</event>
+</events>

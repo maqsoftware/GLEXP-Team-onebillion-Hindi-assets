@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>th_getreadytomatchwhatyouhear</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>th_itouchthebutton</phrase>
+			<phrase>th_ipickoutwhatshesaid</phrase>
+			<phrase>th_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>th_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>th_nowpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th_touchthebuttonandlistenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>th_touchthebuttonagain</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>th_letsdosomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>th_touchthebuttonagain</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th_touchthebuttonandlistenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>th_touchthebutton</phrase>
+			<phrase>th_thenpickoutwhatshesaid</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>th_touchthebuttonandlistenagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>th_goodyoulistenedthenyoupickedoutwhatyouheard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wordon">
+			<phrase>click_snap_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordsoff">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="touchbutton" vol="0.6">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="touchword">
+			<phrase>click_plastic_single_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

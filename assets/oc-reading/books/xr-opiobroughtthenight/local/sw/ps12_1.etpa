@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps12_1.aif</url>
+	<relurl>ps12_1.aif</relurl>
+	<timings text="“Usiku ukifika, tutapumzika pamoja,” Omi alisema. “Na bado kutakuwa na mwanga wa nyota na mwezi. Ni mzuri, mtaona.”" frames="1222128">
+		<timing id="0" start="0.000" end="0.953" startframe="0" framelength="42043" text="Usiku"/>
+		<timing id="1" start="1.333" end="2.444" startframe="58795" framelength="49007" text="ukifika"/>
+		<timing id="2" start="2.971" end="4.434" startframe="131037" framelength="64491" text="tutapumzika"/>
+		<timing id="3" start="5.488" end="6.377" startframe="242007" framelength="39224" text="pamoja"/>
+		<timing id="4" start="7.264" end="8.105" startframe="320339" framelength="37084" text="Omi"/>
+		<timing id="5" start="8.731" end="10.024" startframe="385044" framelength="57032" text="alisema"/>
+		<timing id="6" start="10.571" end="11.361" startframe="466197" framelength="34828" text="Na"/>
+		<timing id="7" start="12.048" end="13.013" startframe="531324" framelength="42543" text="bado"/>
+		<timing id="8" start="13.749" end="15.029" startframe="606338" framelength="56460" text="kutakuwa"/>
+		<timing id="9" start="15.492" end="16.262" startframe="683217" framelength="33946" text="na"/>
+		<timing id="10" start="16.701" end="17.695" startframe="736495" framelength="43863" text="mwanga"/>
+		<timing id="11" start="18.256" end="19.052" startframe="805080" framelength="35133" text="wa"/>
+		<timing id="12" start="19.536" end="20.404" startframe="861526" framelength="38276" text="nyota"/>
+		<timing id="13" start="21.032" end="21.741" startframe="927519" framelength="31276" text="na"/>
+		<timing id="14" start="22.193" end="23.207" startframe="978699" framelength="44712" text="mwezi"/>
+		<timing id="15" start="23.851" end="24.522" startframe="1051816" framelength="29596" text="Ni"/>
+		<timing id="16" start="25.123" end="26.137" startframe="1107909" framelength="44734" text="mzuri"/>
+		<timing id="17" start="26.627" end="27.713" startframe="1174266" framelength="47862" text="mtaona"/>
+	</timings>
+</xml>

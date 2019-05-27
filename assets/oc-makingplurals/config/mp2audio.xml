@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180326.130430133">
+	<event id="k">
+		<phrasegroup id="DEMO">
+			<phrase>mp2_letsmatchwordsandtheirplurals</phrase>
+			<phrase>mp2_singular</phrase>
+			<phrase>mp2_plural</phrase>
+			<phrase>mp2_buttheseareinthewrongorder</phrase>
+			<phrase>mp2_watchme</phrase>
+			<phrase>mp2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT4">
+			<phrase>mp2_slidethewordstotheircorrectplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l">
+		<phrasegroup id="DEMO">
+			<phrase>mp2_goodtheyreinorder</phrase>
+			<phrase>mp2_letscompare</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>mp2_forthesewordsthesingularandpluralarethesame</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>mp2_forthesewordsthesingularandpluralareverydifferent</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>mp2_aletterisaddedtomakethepiural</phrase>
+			<phrase>mp2_lettersareaddedtomaketheplural</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>mp2_lookatthepatternhere</phrase>
+			<phrase>mp2_andhere</phrase>
+			<phrase>mp2_aletterisaddedtomakethepiural</phrase>
+			<phrase>mp2_lettersareaddedtomaketheplural</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO6">
+			<phrase>mp2_lookatthepatternhere</phrase>
+			<phrase>mp2_andhere</phrase>
+			<phrase>mp2_seehowaletterchangedtomaketheplural</phrase>
+			<phrase>mp2_seehowletterschangedtomaketheplural</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mp2_welldoneyoumatchedsingularandplural</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="buttonactive">
+			<phrase>cf_bell</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttontouch">
+			<phrase>single_click_light_shorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="imageon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordpicoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="singular">
+			<phrase>note1</phrase>
+		</phrasegroup>
+		<phrasegroup id="plural">
+			<phrase>note3 </phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>cf_fingersnap_shorter_1 </phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="singpattern">
+			<phrase>cf_shake_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="pluralpattern">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="underline">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+	</event>
+</audio>

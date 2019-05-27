@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl1_nitazame.aif</url>
+	<relurl>psyl1_nitazame.aif</relurl>
+	<timings text="“Ni - ta - za - me," frames="114557">
+		<timing id="0" start="0.000" end="0.505" startframe="0" framelength="22282" text="Ni"/>
+		<timing id="1" start="0.775" end="1.222" startframe="34163" framelength="19730" text="ta"/>
+		<timing id="2" start="1.477" end="2.031" startframe="65136" framelength="24417" text="za"/>
+		<timing id="3" start="2.232" end="2.597" startframe="98421" framelength="16097" text="me"/>
+	</timings>
+</xml>

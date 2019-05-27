@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180601.103306997">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>wp_nowforsomemathsproblems</phrase>
+			<phrase>wp_youwillsolvethem</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wp_listencarefully</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>wp_nowforsomemathsproblems</phrase>
+			<phrase>wp_youwillsolvethem</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>wp_getreadyforthefirstone</phrase>
+			<phrase>wp_andrememberyoucanlistenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wp_choosetheanswerfromhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wp_thisistheanswer</phrase>
+			<phrase>wp_illusecounterstoshowyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT">
+			<phrase>wp_heresthenextone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wp_thisistheanswer</phrase>
+			<phrase>wp_illusecounterstoshowyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT">
+			<phrase>wp_tryanother</phrase>
+			<phrase>wp_nextone</phrase>
+			<phrase>wp_next</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wp_thisistheanswer</phrase>
+			<phrase>wp_illusecounterstoshowyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last">
+		<phrasegroup id="PROMPT">
+			<phrase>wp_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>wp_thisistheanswer</phrase>
+			<phrase>wp_illusecounterstoshowyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>wp_welldoneyoupractisedsolvingproblems</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="image">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="options">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="eqnon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_bubble</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_1">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="counter_2">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="subtr">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbon">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="allcounterson">
+			<phrase>stapler</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>blend</phrase>
+		</phrasegroup>
+	</event>
+</audio>

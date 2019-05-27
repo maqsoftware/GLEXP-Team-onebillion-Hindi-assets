@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170315.070157234">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>capsmore_letsdomoreoncapitalletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="PROMPT">
+			<phrase>capsmore_toucheachlettertoseethematchingcapitalletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>capsmore_toucheachlettertoseethematchingcapitalletter</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4">
+		<phrasegroup id="PROMPT">
+			<phrase>capsmore_nowseeifyoucandrageachcapitalletterintothecorrectbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>capsmore_drageachcapitalletterintothecorrectbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>capsmore_drageachcapitalletterintothecorrectbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>capsmore_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5">
+		<phrasegroup id="PROMPT">
+			<phrase>capsmore_haveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>capsmore_drageachcapitalletterintothecorrectbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>capsmore_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>capsmore_verygoodyoudidmoreworkwithcapitalletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="boxon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteron">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="lettersalloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="panel">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>wall_slide_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="match">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="home">
+			<phrase>cf_shake</phrase>
+		</phrasegroup>
+		<phrasegroup id="boxmove">
+			<phrase>ripple_click_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

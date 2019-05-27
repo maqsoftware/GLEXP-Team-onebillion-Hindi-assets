@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p12_1.aif</url>
+	<relurl>p12_1.aif</relurl>
+	<timings text="Saida alifurahi sana. “Tafadhali, ndugu yangu anaweza kuja kuishi nami hapa?” aliuliza." frames="364527">
+		<timing id="0" start="0.000" end="0.440" startframe="0" framelength="19399" text="Saida"/>
+		<timing id="1" start="0.440" end="1.033" startframe="19399" framelength="26162" text="alifurahi"/>
+		<timing id="2" start="1.033" end="1.674" startframe="45561" framelength="28278" text="sana"/>
+		<timing id="3" start="2.268" end="3.263" startframe="100006" framelength="43871" text="Tafadhali"/>
+		<timing id="4" start="4.123" end="4.429" startframe="181843" framelength="13480" text="ndugu"/>
+		<timing id="5" start="4.429" end="4.820" startframe="195323" framelength="17252" text="yangu"/>
+		<timing id="6" start="4.820" end="5.350" startframe="212575" framelength="23342" text="anaweza"/>
+		<timing id="7" start="5.350" end="5.660" startframe="235917" framelength="13680" text="kuja"/>
+		<timing id="8" start="5.660" end="6.008" startframe="249597" framelength="15334" text="kuishi"/>
+		<timing id="9" start="6.008" end="6.338" startframe="264931" framelength="14566" text="nami"/>
+		<timing id="10" start="6.338" end="6.981" startframe="279497" framelength="28351" text="hapa"/>
+		<timing id="11" start="7.457" end="8.266" startframe="328856" framelength="35671" text="aliuliza"/>
+	</timings>
+</xml>

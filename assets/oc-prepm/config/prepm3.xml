@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" colour_highlight="228,45,169" >
+		<rectangle id="eq_box" pos="0.5,0.424146" src="eq_box" fill="255,255,255" zpos="0" hidden="true" widthtracksheight="true" x="0.0953541" y="0.332199" width="0.809292" height="0.183894" pxwidth="828.715" pxheight="141.23" />
+		<rectangle id="bottom_bar" pos="0.5,0.905169" src="bottom_bar" fill="224,246,255" zpos="0.003" hidden="true" x="-0.00564194" y="0.801224" width="1.01128" height="0.207891" />
+		<rectangle id="demo_loc" pos="0.49828,0.850794" src="demo_loc" fill="255,255,255" zpos="0.006" hidden="true" x="0.295704" y="0.774862" width="0.405151" height="0.151866" />
+		<path id="line" pos="0.750046,0.729055" parent="eq_box" src="line" fill="224,246,255" stroke="191,191,191" strokewidth="3.5" zpos="0.004" hidden="true" d="M0.703 0.7291L0.7971 0.7291" />
+		<rectangle id="video_box" pos="0.5,0.432192" src="video_box" fill="255,255,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.13768" y="0.15447" width="0.72464" height="0.555445" pxwidth="742.031" pxheight="426.582" />
+		<rectangle id="video_frame" pos="0.5,0.432192" src="video_frame" stroke="167,167,167" strokewidth="2.5" zpos="0.002" hidden="true" widthtracksheight="true" x="0.13768" y="0.15447" width="0.72464" height="0.555445" pxwidth="742.031" pxheight="426.582" />
+		<vector id="wrong_cross" pos="0.673096,0.395782" src="wrong_cross" scalex="1.8998" scaley="1.8998" zpos="0.005" hidden="true" />
+	</event>
+</events>

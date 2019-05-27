@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Hapo kale alikuwepo kijana aliyeitwa Mati, ambaye wazazi wake walifariki tangu akiwa mchanga. Kila mtu aliogopea maisha ya Mati." frames="535867">
+		<timing id="0" start="0.000" end="0.290" startframe="0" framelength="12769" text="Hapo"/>
+		<timing id="1" start="0.290" end="0.969" startframe="12769" framelength="29962" text="kale"/>
+		<timing id="2" start="1.508" end="2.264" startframe="66522" framelength="33312" text="alikuwepo"/>
+		<timing id="3" start="2.264" end="2.716" startframe="99834" framelength="19942" text="kijana"/>
+		<timing id="4" start="2.716" end="3.336" startframe="119776" framelength="27324" text="aliyeitwa"/>
+		<timing id="5" start="3.336" end="3.870" startframe="147100" framelength="23546" text="Mati"/>
+		<timing id="6" start="4.517" end="5.218" startframe="199186" framelength="30911" text="ambaye"/>
+		<timing id="7" start="5.218" end="5.564" startframe="230097" framelength="15261" text="wazazi"/>
+		<timing id="8" start="5.564" end="5.919" startframe="245358" framelength="15669" text="wake"/>
+		<timing id="9" start="5.919" end="6.600" startframe="261027" framelength="30026" text="walifariki"/>
+		<timing id="10" start="6.600" end="7.052" startframe="291053" framelength="19930" text="tangu"/>
+		<timing id="11" start="7.052" end="7.377" startframe="310983" framelength="14342" text="akiwa"/>
+		<timing id="12" start="7.377" end="8.033" startframe="325325" framelength="28942" text="mchanga"/>
+		<timing id="13" start="8.938" end="9.342" startframe="394181" framelength="17797" text="Kila"/>
+		<timing id="14" start="9.342" end="9.912" startframe="411978" framelength="25156" text="mtu"/>
+		<timing id="15" start="10.289" end="11.202" startframe="453759" framelength="40251" text="aliogopea"/>
+		<timing id="16" start="11.202" end="11.598" startframe="494010" framelength="17479" text="maisha"/>
+		<timing id="17" start="11.598" end="11.783" startframe="511489" framelength="8155" text="ya"/>
+		<timing id="18" start="11.783" end="12.151" startframe="519644" framelength="16223" text="Mati"/>
+	</timings>
+</xml>

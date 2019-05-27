@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p7_2.aif</url>
+	<relurl>p7_2.aif</relurl>
+	<timings text="Mama aliniruhusu kuchagua tunda." frames="114437">
+		<timing id="0" start="0.000" end="0.556" startframe="0" framelength="24532" text="Mama"/>
+		<timing id="1" start="0.556" end="1.561" startframe="24532" framelength="44324" text="aliniruhusu"/>
+		<timing id="2" start="1.561" end="2.152" startframe="68856" framelength="26026" text="kuchagua"/>
+		<timing id="3" start="2.152" end="2.595" startframe="94882" framelength="19555" text="tunda"/>
+	</timings>
+</xml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170825.101930133">
+	<event id="p1">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_whoisstandinginthedoorway</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER">
+			<phrase>cq_agirl</phrase>
+		</phrasegroup>
+		<phrasegroup id="ANSWER2">
+			<phrase>cq_aboy</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_touchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_yesagirlinayellowdressshelivesinthathouse</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p2">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thegirlhasalittlebrotherfindhim</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_theboyisplayingwithhistoysdadandmumareinthepicturetoo</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain_p2</phrase>
+			<phrase>cq_findthegirlsbrother</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p3">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_lookatallthedifferentshoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p4">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_findthewatertap</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thisiswherehandsgetwashed</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain_p2</phrase>
+			<phrase>cq_findthewatertap</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p7">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_therearelotsofthingsinthekitchen</phrase>
+			<phrase>cq_findthesaucepanonthegasstove</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>cq_thereissomethingdeliciousinthatsaucepan</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>cq_tryagain_p2</phrase>
+			<phrase>cq_findthesaucepanonthegasstove</phrase>
+		</phrasegroup>
+	</event>
+	<event id="p9">
+		<phrasegroup id="PROMPT">
+			<phrase>cq_thatwouldbeaniceplacetovisit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>cq_andthisistheendofourstory</phrase>
+		</phrasegroup>
+	</event>
+</audio>

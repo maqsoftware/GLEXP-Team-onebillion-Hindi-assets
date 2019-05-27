@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180108.125053290">
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookatthenumbersontheballoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichnumberisbigger</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichnumberisbigger</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twelve</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_twounits</phrase>
+			<phrase>5_seventeen</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_sevenunits</phrase>
+			<phrase>5_soseventeenisbigger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichnumberisbiggerthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichnumberisbigger</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_nineteen</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_thirtytwo</phrase>
+			<phrase>5_threetens</phrase>
+			<phrase>5_sothirtytwoisbigger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichisthebiggestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichisthebiggestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichisthebiggestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eighteen</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_twentythree</phrase>
+			<phrase>5_twotens</phrase>
+			<phrase>5_forty</phrase>
+			<phrase>5_fourtens</phrase>
+			<phrase>5_sofortyisthebiggestnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichisthesmallestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_whichisthesmallestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_whichisthesmallestnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thirtyeight</phrase>
+			<phrase>5_threetens</phrase>
+			<phrase>5_fifteen</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_seven</phrase>
+			<phrase>5_notens</phrase>
+			<phrase>5_sosevenisthesmallestnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale5d">
+		<phrasegroup id="DEMO">
+			<phrase>5_greatyouchosethebiggestandsmallestnumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="DEMO">
+			<phrase>5_letsputthenumbersonthestarsinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_puttheothernumbersinplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersonthestarsinorder</phrase>
+			<phrase>5_smallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_notens_5e</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_twotens</phrase>
+			<phrase>5_sothenumbersareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_putthesenumbersinorderonthestars</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersonthestarsinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_oneten</phrase>
+			<phrase>5_threetens</phrase>
+			<phrase>5_fivetens</phrase>
+			<phrase>5_sothenumbersareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothesameforthese</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersonthestarsinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_oneten</phrase>
+			<phrase>5_fivetens</phrase>
+			<phrase>5_eighttens</phrase>
+			<phrase>5_theyareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowputthenumbersontheflowersinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersontheflowersinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_oneten</phrase>
+			<phrase>5_fiveunits</phrase>
+			<phrase>5_oneten</phrase>
+			<phrase>5_eightunits</phrase>
+			<phrase>5_threetens</phrase>
+			<phrase>5_fivetens</phrase>
+			<phrase>5_theyareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothesameagain</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersontheflowersinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_notens_5e</phrase>
+			<phrase>5_fourtens</phrase>
+			<phrase>5_oneunit</phrase>
+			<phrase>5_fourtens</phrase>
+			<phrase>5_nineunits</phrase>
+			<phrase>5_seventens</phrase>
+			<phrase>5_theyareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothesameagain</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_putthenumbersontheflowersinorder</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_thenumbersshouldbeinordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_oneten</phrase>
+			<phrase>5_twotens</phrase>
+			<phrase>5_sixtens</phrase>
+			<phrase>5_ninetens</phrase>
+			<phrase>5_theyareinordersmallestfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale5j">
+		<phrasegroup id="DEMO">
+			<phrase>5_verygoodyouputnumbersinorderbylookingattensandunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="DEMO">
+			<phrase>5_watchme</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+			<phrase>5_yourturn</phrase>
+			<phrase>5_puttherestofthenumbersinorder</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>5_slidethenumbersintoorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>5_look</phrase>
+			<phrase>5_theyareinordernowsmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_good</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothesameforthese</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_sameagain</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_andagain</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimefivenumbers</phrase>
+			<phrase>5_dragthemintoordersmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dothesameforthese</phrase>
+			<phrase>5_smallestfirst_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_lastset</phrase>
+			<phrase>5_putthesmallestfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheflagstoputthenumbersinordersmallestfirst</phrase>
+			<phrase>5_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_tryagain</phrase>
+			<phrase>5_putallthenumbersinordersmallestfirst</phrase>
+			<phrase>5_thentouchthebutton</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_verygoodyouputnumbersinorderbylookingattensandunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="scene_change">
+			<phrase>balloons_floating</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="flags_on">
+			<phrase>musical_notes_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="flags_off">
+			<phrase>musical_notes_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="button_appear">
+			<phrase>button_apper</phrase>
+		</phrasegroup>
+	</event>
+</audio>

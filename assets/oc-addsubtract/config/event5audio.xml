@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookonedinosaur</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_itouchthelinetoaddthesameagain</phrase>
+			<phrase>5_nowtherearetwodinosaurs</phrase>
+			<phrase>5_oneplusoneequalstwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_twogiraffes</phrase>
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanygiraffesaretherenow</phrase>
+			<phrase>5_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanygiraffesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain</phrase>
+			<phrase>5_howmanygiraffesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twoplustwoequalsfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_threelions</phrase>
+			<phrase>5_addthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanylionsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanylionsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>5_countagain_5c</phrase>
+			<phrase>5_howmanylionsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_threeplusthreeequalssix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_fourmonkeys</phrase>
+			<phrase>5_addthesameagain_5d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanymonkeysaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanymonkeysaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5d</phrase>
+			<phrase>5_howmanymonkeysaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fourplusfourequalseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_fiveparrots</phrase>
+			<phrase>5_addthesameagain_5e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyparrotsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanyparrotsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5e</phrase>
+			<phrase>5_howmanyparrotsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fiveplusfiveequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_sixducks</phrase>
+			<phrase>5_addthesameagain_5f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyducksaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanyducksaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5f</phrase>
+			<phrase>5_howmanyducksaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sixplussixequalstwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_sevenfish</phrase>
+			<phrase>5_addthesameagain_5g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5f</phrase>
+			<phrase>5_howmanyfisharetherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sevenplussevenequalsfourteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_eightbirds</phrase>
+			<phrase>5_addthesameagain_5h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5f</phrase>
+			<phrase>5_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eightpluseightequalssixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_ninebutterflies</phrase>
+			<phrase>5_addthesameagain_5i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanybutterfliesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanybutterfliesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5i</phrase>
+			<phrase>5_howmanybutterfliesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_nineplusnineequalseighteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_tenladybirds</phrase>
+			<phrase>5_addthesameagain_5j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthelinetoaddthesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_howmanyladybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_howmanyladybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_countagain_5j</phrase>
+			<phrase>5_howmanyladybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_tenplustenequalstwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowletshaveallthosenumbersagain</phrase>
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sayitwithme</phrase>
+			<phrase>5_oneplusoneequalstwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_saythemallwithme</phrase>
+			<phrase>5_twoplustwoequalsfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_threeplusthreeequalssix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fourplusfourequalseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_fiveplusfiveequalsten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sixplussixequalstwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_sevenplussevenequalsfourteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5r">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_eightpluseightequalssixteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5s">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_nineplusnineequalseighteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5t">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchtheyellowcircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_tenplustenequalstwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_greatyouaddedthesameagainuptotenplustenequalstwenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equation">
+			<phrase>equation</phrase>
+		</phrasegroup>
+	</event>
+</audio>

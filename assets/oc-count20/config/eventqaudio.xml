@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="q1">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanystarsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_howmanystarsarethere</phrase>
+			<phrase>q_touchthenumber</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q2">
+		<phrasegroup id="PROMPT">
+			<phrase>q_howmanybiscuitsarethere</phrase>
+			<phrase>q_touchthenumber_q2</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_howmanybiscuitsarethere</phrase>
+			<phrase>q_touchthenumber_q2</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q3">
+		<phrasegroup id="PROMPT">
+			<phrase>q_puttwelveapplesonthetree</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_puttwelveapplesonthetree</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q4">
+		<phrasegroup id="PROMPT">
+			<phrase>q_putfourteenboatsinthesea</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_putfourteenboatsinthesea</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q5">
+		<phrasegroup id="PROMPT">
+			<phrase>q_touchthenumbersixteen</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_touchthenumbersixteen</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q6">
+		<phrasegroup id="PROMPT">
+			<phrase>q_touchthenumberthirteen</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_touchthenumberthirteen</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q7">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichnumberisonemorethanseventeen</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichnumberisonemorethanseventeen</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q8">
+		<phrasegroup id="PROMPT">
+			<phrase>q_whichnumberisonelessthanfifteen</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_whichnumberisonelessthanfifteen</phrase>
+			<phrase>q_touchit</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q9">
+		<phrasegroup id="PROMPT">
+			<phrase>q_dragthenumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_dragthenumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="q10">
+		<phrasegroup id="PROMPT">
+			<phrase>q_dragthenumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>q_dragthenumberstotheirplaces</phrase>
+			<phrase>q_thentouchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

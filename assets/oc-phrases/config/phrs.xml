@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="76" >
+		<rectangle id="imagebox" pos="0.5,0.361557" src="imagebox" fill="255,255,255" zpos="0.001" hidden="true" widthtracksheight="true" x="0.0429688" y="0.109604" width="0.914062" height="0.503906" pxwidth="936" pxheight="387" />
+		<vector id="presenter" anchor="0.5,1" pos="0.514656,1.04948" src="anna" zpos="0.002" hidden="true" />
+		<rectangle id="textbox" pos="0.50071,0.80249" src="textbox" zpos="0" x="0.0826149" y="0.744375" width="0.836189" height="0.116231" />
+		<rectangle id="wordback" pos="0.0960999,0.735316" src="wordback" fill="248,213,212" stroke="250,211,90" strokewidth="1" zpos="0.003" x="0.0524101" y="0.695714" width="0.0873795" height="0.0792033" />
+	</event>
+</events>

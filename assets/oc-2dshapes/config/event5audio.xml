@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180409.092138224">
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_lookatalltheshapesyoumet</phrase>
+			<phrase>5_theyareflat</phrase>
+			<phrase>5_wecallthemtwodshapes</phrase>
+			<phrase>5_letspractisewiththem</phrase>
+			<phrase>5_heresaline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosethesquareanddragitontotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosethesquareanddragitontotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosethesquareanddragitontotheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosethepentagonforthesecondline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosethepentagonforthesecondline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosethepentagonforthesecondline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_putthetriangleonthethirdline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthetriangleonthethirdline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthetriangleonthethirdline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dragthehexagontothefourthline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_dragthehexagontothefourthline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_dragthehexagontothefourthline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_puttherectangleonthefifthline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttherectangleonthefifthline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_puttherectangleonthefifthline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thecirclegoesonthelastline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthecircleonthelastline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_putthecircleonthelastline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="DEMO">
+			<phrase>5_thistimealongerline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_dragthecircleandthesquaretotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_dragthecircleandthesquaretotheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thelineisforthecircleandthesquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowputthehexagonandtriangleontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthehexagonandthetriangleontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thelineisforthehexagonandtriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_putthepentagonandhexagonontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_putthepentagonandhexagonontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thelineisforthepentagonandhexagon</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosetheshapeswithmorethanfoursidesandputthemontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_puttheshapeswithmorethanfoursidesontheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosetheshapeswithfoursidesandfourcornersandputthemontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_choosetheshapeswithfoursidesandfourcornersandputthemontheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thelineisforshapeswithfoursidesandfourcorners</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="DEMO">
+			<phrase>5_letslookatthesetwo</phrase>
+			<phrase>5_foursidesfourcorners</phrase>
+			<phrase>5_foursidesfourcorners</phrase>
+			<phrase>5_sothesquareisliketherectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichshapehasallfoursidesthesamelength</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichshapehasallfoursidesthesamelength</phrase>
+			<phrase>5_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_yesthesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_whichshapehasallfoursidesthesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_touchthesquareagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthesquareagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_asquareisaspecialrectangle</phrase>
+			<phrase>5_allitssidesarethesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale5o">
+		<phrasegroup id="DEMO">
+			<phrase>5_welldoneyoupractisedwith2dshapesandyousawthatasquareisaspecialrectangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="DEMO">
+			<phrase>5_nowletsplayagame</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_touchthecards</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_touchthecards</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_arectangle</phrase>
+			<phrase>5_arectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_findtwoshapeswiththesamename</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>5_findtwoshapeswiththesamename</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_twocircles</phrase>
+			<phrase>5_twotriangles</phrase>
+			<phrase>5_twosquares</phrase>
+			<phrase>5_twopentagons</phrase>
+			<phrase>5_twohexagons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_thosetwoshapeshavedifferentnamestryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_goodyoumatchedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="shapes_on">
+			<phrase>whoosh_fast</phrase>
+		</phrasegroup>
+		<phrasegroup id="multi_pops" vol="0.3">
+			<phrase>curving_down1</phrase>
+		</phrasegroup>
+		<phrasegroup id="single_beep">
+			<phrase>single_beep_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="shapes_shuffle">
+			<phrase>magic_harp_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="stretch">
+			<phrase>tone_up_shorter_faster</phrase>
+		</phrasegroup>
+		<phrasegroup id="shrink">
+			<phrase>tone_down_shorter_faster</phrase>
+		</phrasegroup>
+		<phrasegroup id="card_deal">
+			<phrase>card_deal</phrase>
+		</phrasegroup>
+		<phrasegroup id="card_turn">
+			<phrase>card_turn_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop">
+			<phrase>tone_12</phrase>
+		</phrasegroup>
+	</event>
+</audio>

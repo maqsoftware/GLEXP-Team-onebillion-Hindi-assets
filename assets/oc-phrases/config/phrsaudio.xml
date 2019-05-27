@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170202.173421229">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>phrases_nowyoullseepicturesandreadwordsaboutthem</phrase>
+			<phrase>phrases_getready</phrase>
+			<phrase>phrases_youarelearningtoread</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>phrases_lookatthepicture</phrase>
+			<phrase>phrases_nowlookatthewords</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>phrases_seeifyoucansaythefirstword</phrase>
+			<phrase>phrases_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>phrases_saytheword</phrase>
+			<phrase>phrases_thentouchittohearit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>phrases_touchtheword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>phrases_nowthenextone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>phrases_saytheword</phrase>
+			<phrase>phrases_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>phrases_rememberwebeginatthefirstword</phrase>
+			<phrase>phrases_wegointhisdirection</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="INTRO">
+			<phrase>phrases_letsdosomemore</phrase>
+			<phrase>phrases_trytosayeachwordbeforeyoutouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>phrases_saytheword</phrase>
+			<phrase>phrases_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>phrases_saytheword</phrase>
+			<phrase>phrases_thentouchittohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>phrases_goodyoureadwordsaboutpictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordson">
+			<phrase>liquid_splat</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p9_1.aif</url>
+	<relurl>p9_1.aif</relurl>
+	<timings text="Punde tu, Mati aliwaona kwamba ng’ombe walifungiwa kwenye uwa. “Hawa ni ng’ombe wangu!” alisema Mati." frames="395976">
+		<timing id="0" start="0.000" end="0.468" startframe="0" framelength="20632" text="Punde"/>
+		<timing id="1" start="0.468" end="0.810" startframe="20632" framelength="15074" text="tu"/>
+		<timing id="2" start="1.300" end="1.721" startframe="57312" framelength="18600" text="Mati"/>
+		<timing id="3" start="1.721" end="2.359" startframe="75912" framelength="28116" text="aliwaona"/>
+		<timing id="4" start="2.359" end="3.043" startframe="104028" framelength="30148" text="kwamba"/>
+		<timing id="5" start="3.837" end="4.217" startframe="169201" framelength="16777" text="ng’ombe"/>
+		<timing id="6" start="4.217" end="4.963" startframe="185978" framelength="32902" text="walifungiwa"/>
+		<timing id="7" start="4.963" end="5.312" startframe="218880" framelength="15379" text="kwenye"/>
+		<timing id="8" start="5.312" end="5.750" startframe="234259" framelength="19330" text="uwa"/>
+		<timing id="9" start="6.281" end="6.588" startframe="277005" framelength="13510" text="Hawa"/>
+		<timing id="10" start="6.588" end="6.757" startframe="290515" framelength="7486" text="ni"/>
+		<timing id="11" start="6.757" end="7.045" startframe="298001" framelength="12688" text="ng’ombe"/>
+		<timing id="12" start="7.045" end="7.611" startframe="310689" framelength="24972" text="wangu"/>
+		<timing id="13" start="7.843" end="8.487" startframe="345867" framelength="28408" text="alisema"/>
+		<timing id="14" start="8.487" end="8.979" startframe="374275" framelength="21701" text="Mati"/>
+	</timings>
+</xml>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="6a">
+		<phrasegroup id="DEMO">
+			<phrase>6_look</phrase>
+			<phrase>6_threecounters</phrase>
+			<phrase>6_iaddtwocounters</phrase>
+			<phrase>6_threeaddtwoequalsfive</phrase>
+			<phrase>6_thismeansadd</phrase>
+			<phrase>6_thismeansequals</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6b">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookhowwewriteadd</phrase>
+			<phrase>6_add</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracetheaddsign</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracetheaddsign</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_add</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowtouchittorubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_nowtouchittorubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6c">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookhowwewriteequals</phrase>
+			<phrase>6_equals</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracetheequalssign</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracetheequalssign</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_equals</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowrubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_nowrubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6d">
+		<phrasegroup id="DEMO">
+			<phrase>6_thistimetherearefourcounters</phrase>
+			<phrase>6_itakeawaythree</phrase>
+			<phrase>6_fourtakeawaythreeequalsone</phrase>
+			<phrase>6_thismeanstakeaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6e">
+		<phrasegroup id="DEMO">
+			<phrase>6_lookhowwewritetakeaway</phrase>
+			<phrase>6_takeaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>6_yourturn</phrase>
+			<phrase>6_tracethetakeawaysign</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_tracethetakeawaysign</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_takeaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_nowrubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_nowrubitoutandhaveanothergo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6f">
+		<phrasegroup id="PROMPT">
+			<phrase>6_lookthreecounters</phrase>
+			<phrase>6_addthreemorecountersonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_addthreemorecountersonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_whichsigngoesinthisboxdragitfromthetopofthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_whichsigngoesinthisboxdragitfromthetopofthescreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_nowtherearesixcounters</phrase>
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_threeaddthreeequalssix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="6g">
+		<phrasegroup id="PROMPT">
+			<phrase>6_sixcounters</phrase>
+			<phrase>6_touchtwocounterstotakethemaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>6_touchtwocounterstotakethemaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3">
+			<phrase>6_therearefourcountersleft</phrase>
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>6_whichsigngoesinthisboxdragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>6_sixtakeawaytwoequalsfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>6_goodyoutracedthesignsforaddtakeawayandequalsandyouputthesesignsintherightplaces</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

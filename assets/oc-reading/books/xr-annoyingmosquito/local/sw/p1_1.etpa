@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Badi alipenda kulala. Hakupenda kingine chochote zaidi ya kujifunika blangeti, na kuota. Hakuna yeyote aliyewahi kumsumbua Badi akiwa amelala." frames="555907">
+		<timing id="0" start="0.000" end="0.673" startframe="0" framelength="29668" text="Badi"/>
+		<timing id="1" start="0.912" end="1.512" startframe="40218" framelength="26442" text="alipenda"/>
+		<timing id="2" start="1.512" end="2.182" startframe="66660" framelength="29550" text="kulala"/>
+		<timing id="3" start="3.033" end="3.726" startframe="133758" framelength="30573" text="Hakupenda"/>
+		<timing id="4" start="3.726" end="4.132" startframe="164331" framelength="17894" text="kingine"/>
+		<timing id="5" start="4.132" end="4.713" startframe="182225" framelength="25617" text="chochote"/>
+		<timing id="6" start="4.713" end="5.034" startframe="207842" framelength="14144" text="zaidi"/>
+		<timing id="7" start="5.034" end="5.206" startframe="221986" framelength="7590" text="ya"/>
+		<timing id="8" start="5.206" end="5.899" startframe="229576" framelength="30559" text="kujifunika"/>
+		<timing id="9" start="5.899" end="6.624" startframe="260135" framelength="32005" text="blangeti"/>
+		<timing id="10" start="6.881" end="7.075" startframe="303474" framelength="8523" text="na"/>
+		<timing id="11" start="7.075" end="7.748" startframe="311997" framelength="29684" text="kuota"/>
+		<timing id="12" start="8.158" end="8.642" startframe="359773" framelength="21323" text="Hakuna"/>
+		<timing id="13" start="8.642" end="9.380" startframe="381096" framelength="32576" text="yeyote"/>
+		<timing id="14" start="9.380" end="10.076" startframe="413672" framelength="30676" text="aliyewahi"/>
+		<timing id="15" start="10.076" end="10.712" startframe="444348" framelength="28067" text="kumsumbua"/>
+		<timing id="16" start="10.712" end="11.203" startframe="472415" framelength="21626" text="Badi"/>
+		<timing id="17" start="11.465" end="12.017" startframe="505590" framelength="24357" text="akiwa"/>
+		<timing id="18" start="12.017" end="12.606" startframe="529947" framelength="25960" text="amelala"/>
+	</timings>
+</xml>

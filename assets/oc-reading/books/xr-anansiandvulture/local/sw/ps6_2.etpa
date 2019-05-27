@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps6_2.aif</url>
+	<relurl>ps6_2.aif</relurl>
+	<timings text="“Afadhali pesa zangu zimefichika chini ya mahindi,” alijisemea." frames="724324">
+		<timing id="0" start="0.000" end="0.929" startframe="0" framelength="40975" text="Afadhali"/>
+		<timing id="1" start="2.315" end="3.106" startframe="102091" framelength="34862" text="pesa"/>
+		<timing id="2" start="4.366" end="5.124" startframe="192543" framelength="33439" text="zangu"/>
+		<timing id="3" start="6.493" end="7.821" startframe="286331" framelength="58591" text="zimefichika"/>
+		<timing id="4" start="9.272" end="10.073" startframe="408897" framelength="35338" text="chini"/>
+		<timing id="5" start="11.199" end="11.769" startframe="493874" framelength="25123" text="ya"/>
+		<timing id="6" start="13.164" end="14.081" startframe="580521" framelength="40452" text="mahindi"/>
+		<timing id="7" start="15.433" end="16.425" startframe="680583" framelength="43741" text="alijisemea"/>
+	</timings>
+</xml>

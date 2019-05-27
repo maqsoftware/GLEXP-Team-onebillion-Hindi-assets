@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps12_1.aif</url>
+	<relurl>ps12_1.aif</relurl>
+	<timings text="Bwana Ndomba anachora mistari ya rangi nyeusi juu ya ile pia." frames="620873">
+		<timing id="0" start="0.000" end="0.694" startframe="0" framelength="30604" text="Bwana"/>
+		<timing id="1" start="1.259" end="2.123" startframe="55503" framelength="38139" text="Ndomba"/>
+		<timing id="2" start="2.553" end="3.594" startframe="112569" framelength="45926" text="anachora"/>
+		<timing id="3" start="4.066" end="5.098" startframe="179311" framelength="45504" text="mistari"/>
+		<timing id="4" start="5.541" end="6.218" startframe="244345" framelength="29864" text="ya"/>
+		<timing id="5" start="6.679" end="7.603" startframe="294536" framelength="40777" text="rangi"/>
+		<timing id="6" start="8.088" end="9.022" startframe="356667" framelength="41191" text="nyeusi"/>
+		<timing id="7" start="9.698" end="10.344" startframe="427664" framelength="28516" text="juu"/>
+		<timing id="8" start="10.941" end="11.615" startframe="482493" framelength="29737" text="ya"/>
+		<timing id="9" start="12.198" end="12.903" startframe="537916" framelength="31096" text="ile"/>
+		<timing id="10" start="13.494" end="14.079" startframe="595067" framelength="25806" text="pia"/>
+	</timings>
+</xml>

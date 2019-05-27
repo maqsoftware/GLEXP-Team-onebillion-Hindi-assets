@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Volumes/Ting/audio/master/sw/xr-library_stories/xr-allaroundafricaSW/ps14_1.aif</url>
+	<relurl>ps14_1.aif</relurl>
+	<timings text="Hatimaye, waliwasili nyumbani. “Vyema sana!” kila mmoja alipongeza. “Mmeleta matumaini kwa Ulimwengu. Mmetukumbusha kuwa sisi ni wamoja.”" frames="1632420">
+		<timing id="0" start="0.000" end="0.957" startframe="0" framelength="42188" text="Hatimaye"/>
+		<timing id="1" start="2.099" end="3.381" startframe="92558" framelength="56557" text="waliwasili"/>
+		<timing id="2" start="4.152" end="5.299" startframe="183103" framelength="50594" text="nyumbani"/>
+		<timing id="3" start="6.548" end="7.621" startframe="288758" framelength="47327" text="Vyema"/>
+		<timing id="4" start="8.428" end="9.519" startframe="371669" framelength="48122" text="sana"/>
+		<timing id="5" start="10.720" end="11.723" startframe="472733" framelength="44255" text="kila"/>
+		<timing id="6" start="13.057" end="14.042" startframe="575831" framelength="43431" text="mmoja"/>
+		<timing id="7" start="15.350" end="16.724" startframe="676919" framelength="60614" text="alipongeza"/>
+		<timing id="8" start="18.680" end="19.818" startframe="823786" framelength="50170" text="Mmeleta"/>
+		<timing id="9" start="20.623" end="21.912" startframe="909473" framelength="56847" text="matumaini"/>
+		<timing id="10" start="22.931" end="23.599" startframe="1011261" framelength="29460" text="kwa"/>
+		<timing id="11" start="24.602" end="25.885" startframe="1084967" framelength="56570" text="Ulimwengu"/>
+		<timing id="12" start="27.612" end="29.188" startframe="1217695" framelength="69481" text="Mmetukumbusha"/>
+		<timing id="13" start="30.378" end="31.185" startframe="1339656" framelength="35621" text="kuwa"/>
+		<timing id="14" start="32.418" end="33.386" startframe="1429624" framelength="42698" text="sisi"/>
+		<timing id="15" start="34.493" end="35.245" startframe="1521131" framelength="33170" text="ni"/>
+		<timing id="16" start="36.188" end="37.016" startframe="1595912" framelength="36508" text="wamoja"/>
+	</timings>
+</xml>

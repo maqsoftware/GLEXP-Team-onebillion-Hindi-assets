@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180516.074735947">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>learn_nowwellcounttoonethousandinhundreds</phrase>
+			<phrase>learn_itsabignumber</phrase>
+			<phrase>learn_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>learn_nowwellcounttoonethousandinhundreds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>learn_firstletscounttoahundredintens</phrase>
+			<phrase>learn_thisboxisforthenumber</phrase>
+			<phrase>learn_touchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>learn_touchthebutton</phrase>
+			<phrase>learn_seethenumberchange</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>learn_tenlittlesquares</phrase>
+			<phrase>learn_ten</phrase>
+			<phrase>learn_keepgoingtoonehundred</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>learn_touchthebutton</phrase>
+			<phrase>learn_seethenumberchange</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>learn_onehundredlittlesquares</phrase>
+			<phrase>learn_onehundred</phrase>
+			<phrase>learn_nowwatch</phrase>
+			<phrase>learn_onehundredlittlesquares</phrase>
+			<phrase>learn_touchthisbuttontoaddmorehundreds</phrase>
+			<phrase>learn_andwatchthenumberschange</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>learn_touchthebutton</phrase>
+			<phrase>learn_seethenumberchange</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>learn_touchthebutton</phrase>
+			<phrase>learn_seethenumberchange</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="DEMO">
+			<phrase>learn_onethousandlittlesquares</phrase>
+			<phrase>learn_onethousand</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="DEMO">
+			<phrase>learn_letsseeallthosenumberstogether</phrase>
+			<phrase>learn_touchtheyellowbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>learn_touchtheyellowbox</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>learn_nowfillintherest</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>learn_touchtheyellowbox</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>learn_nexttouchthenumbersyouhear</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>learn_touchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>learn_touchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>learn_itshere</phrase>
+			<phrase>learn_nowfindthisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>learn_touchthisnumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>learn_touchthisnumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="DEMO">
+			<phrase>learn_good</phrase>
+			<phrase>learn_letshearthenumbersagain</phrase>
+			<phrase>learn_youcansaythemtoo</phrase>
+			<phrase>learn_greatwecountedtoonethousandinhundreds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="buttonactive">
+			<phrase>shorter_beep</phrase>
+		</phrasegroup>
+		<phrasegroup id="tensq">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="hundredsq">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberinbox">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberingrid" vol="1.2">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonoff">
+			<phrase>single_click_harsh</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="flash">
+			<phrase>bright_bell_chime</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="fill">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="bounce">
+			<phrase>smack_roll_longer</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="makeblock">
+			<phrase>cf_jawbone</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>mwyh1_youlllisten</phrase>
+			<phrase>mwyh1_andthenyoulldragletterstomakewhatyouhear</phrase>
+			<phrase>mwyh1_areyouready</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>mwyh1_listenandwatchme</phrase>
+			<phrase>mwyh1_iwilldragthelettersintoplace</phrase>
+			<phrase>mwyh1_nowyourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>mwyh1_rememberthisletsyoulistenagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>mwyh1_good</phrase>
+			<phrase>mwyh1_nowtrysomemore</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="FINAL">
+			<phrase>mwyh1_verygood</phrase>
+			<phrase>mwyh1_youdraggedletterstomakewhatyouheard</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letterson">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineson">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>blend</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff_old">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>liquid_blip</phrase>
+		</phrasegroup>
+	</event>
+</audio>

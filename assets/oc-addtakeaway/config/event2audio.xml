@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_looktherearethreestars</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_addthreemorestarsonthelines</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_howmanystarsaretherenow</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_touchsix</phrase>
+			<phrase>2_threeaddthreegivessix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_therearethreestarsaddtwomoreonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearethreestarsaddtwomoreonthelines</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanystarsaretherenow</phrase>
+			<phrase>2_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanystarsaretherenow</phrase>
+			<phrase>2_countthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_threeaddtwogivesfive</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearethreeflowersaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearethreeflowersaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyflowersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_threeaddfourgivesseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearefourbirdsaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearefourbirdsaddfourmore</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanybirdsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fouraddfourgiveseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearethreefrogsaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearethreefrogsaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyfrogsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyfrogsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_threeaddfivegiveseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearefivecountersaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearefivecountersaddfivemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_fiveaddfivegivesten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="DEMO">
+			<phrase>2_nowletstakeawaythings</phrase>
+			<phrase>2_thereareeightshoes</phrase>
+			<phrase>2_eight</phrase>
+			<phrase>2_takeawayfourshoes</phrase>
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_therearefourshoesleft</phrase>
+			<phrase>2_touchfour</phrase>
+			<phrase>2_eighttakeawayfourgivesfour</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn_2h</phrase>
+			<phrase>2_thereareeightshoestakeawayfiveshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_thereareeightshoestakeawayfiveshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyareleftcountthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyareleftcountthentouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_eighttakeawayfivegivesthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearesevenfishtakeawayfivefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearesevenfishtakeawayfivefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_seventakeawayfivegivestwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearetenflowerstakeawaythreeflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearetenflowerstakeawaythreeflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_tentakeawaythreegivesseven</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thereareninefrogstakeawaysixfrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_thereareninefrogstakeawaysixfrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_ninetakeawaysixleavesthree</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_therearetenstarstakeawayeightstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>2_therearetenstarstakeawayeightstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>2_one</phrase>
+			<phrase>2_two</phrase>
+			<phrase>2_three</phrase>
+			<phrase>2_four</phrase>
+			<phrase>2_five</phrase>
+			<phrase>2_six</phrase>
+			<phrase>2_seven</phrase>
+			<phrase>2_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>2_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>2_countagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>2_tentakeawayeightgivestwo</phrase>
+			<phrase>2_verygoodyouaddedthingsandyoutookawaythingsandyoucounted</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+	</event>
+</audio>

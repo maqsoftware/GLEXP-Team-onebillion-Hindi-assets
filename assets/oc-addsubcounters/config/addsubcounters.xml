@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" equtextsize="96" paneltextsize="80" >
+	</event>
+	<event id="anna" >
+		<vector id="anna" anchor="0.5,1" pos="0.484577,1.04167" src="anna" zpos="0" />
+	</event>
+	<event id="plus" >
+		<rectangle id="bottomnumberswatch" pos="0.0753498,0.702812" src="bottomnumberswatch" fill="144,144,144" zpos="0.006" hidden="true" x="0.0501137" y="0.673121" width="0.0504723" height="0.0593821" />
+		<rectangle id="bottomrect" pos="0.500977,0.921875" src="bottomrect" fill="176,252,233" zpos="0" x="0" y="0.842448" width="1.00195" height="0.158854" />
+		<circle id="counterb1" pos="0.134766,0.537114" src="counterb1" fill="161,231,254" stroke="206,225,232" strokewidth="1" zpos="0.004" hidden="true" x="0.100586" y="0.491542" width="0.0683594" height="0.0911458" />
+		<circle id="counterp1" pos="0.134766,0.405635" src="counterp1" fill="253,176,184" stroke="206,225,232" strokewidth="1" zpos="0.003" hidden="true" x="0.100586" y="0.360062" width="0.0683594" height="0.0911458" />
+		<circle id="counterp10" pos="0.854492,0.405635" src="counterp10" fill="253,176,184" stroke="206,225,232" strokewidth="1" zpos="0.005" hidden="true" x="0.820312" y="0.360062" width="0.0683594" height="0.0911458" />
+		<rectangle id="equationbox" pos="0.5,0.0831121" src="equationbox" fill="0,0,255" fillopacity="0.472884" zpos="0.001" hidden="true" x="0.281385" y="0.0229747" width="0.437229" height="0.120275" />
+		<rectangle id="mainbox" pos="0.5,0.48774" src="mainbox" fill="0,0,255" fillopacity="0.472884" zpos="0.002" hidden="true" x="0.0979223" y="0.172389" width="0.804155" height="0.630702" />
+		<rectangle id="redline" pos="0.663328,0.153071" src="redline" fill="255,38,0" zpos="0.007" x="0.618092" y="0.151118" width="0.0904732" height="0.00390625" />
+		<vector id="sign" pos="0.5,0.773145" src="plus" scalex="0.5" scaley="0.5" zpos="0.008" />
+	</event>
+	<event id="minus" >
+		<rectangle id="bottomnumberswatch" pos="0.0753498,0.702812" src="bottomnumberswatch" fill="144,144,144" zpos="0.008" hidden="true" x="0.0501137" y="0.673121" width="0.0504723" height="0.0593821" />
+		<rectangle id="bottomrect" pos="0.500977,0.921875" src="bottomrect" fill="243,235,254" zpos="0" x="0" y="0.842448" width="1.00195" height="0.158854" />
+		<circle id="counterb1" pos="0.134766,0.537114" src="counterb1" fill="248,248,248" stroke="206,225,232" strokewidth="1" zpos="0.006" hidden="true" x="0.100586" y="0.491542" width="0.0683594" height="0.0911458" />
+		<circle id="counterp1" pos="0.134766,0.405635" src="counterp1" fill="253,176,184" stroke="206,225,232" strokewidth="1" zpos="0.005" hidden="true" x="0.100586" y="0.360062" width="0.0683594" height="0.0911458" />
+		<circle id="counterp10" pos="0.854492,0.405635" src="counterp10" fill="253,176,184" stroke="206,225,232" strokewidth="1" zpos="0.007" hidden="true" x="0.820312" y="0.360062" width="0.0683594" height="0.0911458" />
+		<rectangle id="equationbox" pos="0.5,0.0831121" src="equationbox" fill="0,0,255" fillopacity="0.472884" zpos="0.003" hidden="true" x="0.281385" y="0.0229747" width="0.437229" height="0.120275" />
+		<rectangle id="mainbox" pos="0.5,0.48774" src="mainbox" fill="0,0,255" fillopacity="0.472884" zpos="0.004" hidden="true" x="0.0979223" y="0.172389" width="0.804155" height="0.630702" />
+		<rectangle id="redline" pos="0.663328,0.153071" src="redline" fill="255,38,0" zpos="0.002" x="0.618092" y="0.151118" width="0.0904732" height="0.00390625" />
+		<vector id="sign" pos="0.500744,0.772232" src="minus" scalex="0.5" scaley="0.5" zpos="0.001" />
+	</event>
+	<event id="5" >
+		<text id="Text1"  pos="0.537363,0.0995585" src="Text1" zpos="0" x="0.296356" y="0.0369771" width="0.482014" height="0.125163">
+<tspan x="0.01013" y="0.936281" font-family="onebillion reader" font-size="96.000000" fill="rgb(0%,0%,0%)" >6 + 7 = I3</tspan>
+		</text>
+		<text id="Text1 copy"  pos="0.537363,0.23055" src="Text1 copy" zpos="0.001" x="0.296356" y="0.167969" width="0.482014" height="0.125163">
+<tspan x="0.01013" y="0.936281" font-family="onebillion reader" font-size="96.000000" fill="rgb(0%,0%,0%)" >6 + 7 = 13</tspan>
+		</text>
+	</event>
+</events>

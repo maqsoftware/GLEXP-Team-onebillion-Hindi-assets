@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170131.123944994">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>sm3b_letsmatchpictureswithwords</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>sm3b_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>sm3b_whichonematchesthisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>sm3b_thisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO5">
+			<phrase>sm3b_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="INTRO">
+			<phrase>sm3b_letsmatchpictureswithwords</phrase>
+		</phrasegroup>
+		<phrasegroup id="INTRO2">
+			<phrase>sm3b_listen_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>sm3b_whichonematchesthisword_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>sm3b_touchthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm3b_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="INTRO">
+			<phrase>sm3b_nowtrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>sm3b_whichonematchesthisword_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>sm3b_touchthepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm3b_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>sm3b_whichonematchesthisword_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>sm3b_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>sm3b_welldoneyouchosethepicturestomatchthewords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="splat">
+			<phrase>click_hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="red">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="touch">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="popoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

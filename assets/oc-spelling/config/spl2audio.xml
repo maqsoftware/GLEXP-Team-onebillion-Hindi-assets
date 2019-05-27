@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20171101.121053885">
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>spl2_letsmakewords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>spl2_watchme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>spl2_yourturn</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>spl2_andrememberthisletsyouhearthewordagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>spl2_dragtheletterstomakethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spl2_makethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>spl2_dragtheletterstomakethisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER.REPEAT">
+			<phrase>spl2_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>spl2_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spl2_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spl2_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>spl2_makethisword</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>spl2_welldone</phrase>
+			<phrase>spl2_youmadewordsfromtheirletters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>cf_clack_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="panel">
+			<phrase>blend</phrase>
+		</phrasegroup>
+		<phrasegroup id="target">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="letterin">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>plop_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineson">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>blend</phrase>
+		</phrasegroup>
+	</event>
+</audio>

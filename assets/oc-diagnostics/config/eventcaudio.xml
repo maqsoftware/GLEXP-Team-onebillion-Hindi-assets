@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>C_touchthenumber1</phrase>
+			<phrase>C_touchthenumber2</phrase>
+			<phrase>C_touchthenumber3</phrase>
+			<phrase>C_touchthenumber4</phrase>
+			<phrase>C_touchthenumber5</phrase>
+			<phrase>C_touchthenumber6</phrase>
+			<phrase>C_touchthenumber7</phrase>
+			<phrase>C_touchthenumber8</phrase>
+			<phrase>C_touchthenumber9</phrase>
+			<phrase>C_touchthenumber10</phrase>
+		</phrasegroup>
+	</event>
+</audio>

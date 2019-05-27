@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/ps4_1.aif</url>
+	<relurl>ps4_1.aif</relurl>
+	<timings text="“Hatukukusudia kukivunja,” walisema kaka zake. “Kilikuwa kijungu tu hiki!” " frames="868402">
+		<timing id="0" start="0.000" end="1.652" startframe="0" framelength="72871" text="Hatukukusudia"/>
+		<timing id="1" start="3.517" end="4.649" startframe="155083" framelength="49935" text="kukivunja"/>
+		<timing id="2" start="6.264" end="7.358" startframe="276264" framelength="48210" text="walisema"/>
+		<timing id="3" start="8.851" end="9.678" startframe="390325" framelength="36483" text="kaka"/>
+		<timing id="4" start="10.856" end="11.680" startframe="478748" framelength="36359" text="zake"/>
+		<timing id="5" start="12.822" end="13.859" startframe="565471" framelength="45697" text="Kilikuwa"/>
+		<timing id="6" start="15.295" end="16.255" startframe="674495" framelength="42340" text="kijungu"/>
+		<timing id="7" start="17.357" end="17.992" startframe="765427" framelength="28000" text="tu"/>
+		<timing id="8" start="19.078" end="19.692" startframe="841338" framelength="27064" text="hiki"/>
+	</timings>
+</xml>

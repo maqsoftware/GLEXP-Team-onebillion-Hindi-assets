@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/p8_2.aif</url>
+	<relurl>p8_2.aif</relurl>
+	<timings text="“Huu ni wa kwangu!” Anansi alisema." frames="116105">
+		<timing id="0" start="0.000" end="0.175" startframe="0" framelength="7720" text="Huu"/>
+		<timing id="1" start="0.175" end="0.331" startframe="7720" framelength="6894" text="ni"/>
+		<timing id="2" start="0.331" end="0.549" startframe="14614" framelength="9584" text="wa"/>
+		<timing id="3" start="0.576" end="1.286" startframe="25389" framelength="31309" text="kwangu"/>
+		<timing id="4" start="1.433" end="2.018" startframe="63211" framelength="25798" text="Anansi"/>
+		<timing id="5" start="2.018" end="2.633" startframe="89009" framelength="27096" text="alisema"/>
+	</timings>
+</xml>

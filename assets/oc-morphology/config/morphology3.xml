@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" textsize="40" >
+		<rectangle id="labelswatch" pos="0.184587,0.610016" src="labelswatch" fill="22,135,251" zpos="0" hidden="true" x="0.142113" y="0.548167" width="0.0849495" height="0.123698" />
+		<rectangle id="bottombar" pos="0.5,0.89974" src="bottombar" fill="244,253,211" zpos="1.002" x="0" y="0.799479" width="1" height="0.200521" />
+		<rectangle id="dash" pos="0.416855,0.676595" src="dash" fill="255,0,0" zpos="1.003" hidden="true" x="0.40123" y="0.674642" width="0.03125" height="0.00390625" />
+		<rectangle id="imagebox" pos="0.502914,0.223363" src="imagebox" fill="0,0,255" fillopacity="0.462962" zpos="1" hidden="true" x="0.337994" y="0.00346883" width="0.329842" height="0.439789" />
+		<rectangle id="textbox" pos="0.5,0.625496" src="textbox" zpos="1.001" x="0.0434799" y="0.579498" width="0.91304" height="0.0919952" />
+	</event>
+	<event id="anna" >
+		<vector id="anna" anchor="0.5,1" pos="0.484577,1.04167" src="anna" zpos="4" />
+	</event>
+</events>

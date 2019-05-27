@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl9_usiku.aif</url>
+	<relurl>psyl9_usiku.aif</relurl>
+	<timings text="u - si - ku" frames="71027">
+		<timing id="0" start="0.000" end="0.397" startframe="0" framelength="17502" text="u"/>
+		<timing id="1" start="0.597" end="1.123" startframe="26324" framelength="23204" text="si"/>
+		<timing id="2" start="1.322" end="1.611" startframe="58311" framelength="12716" text="ku"/>
+	</timings>
+</xml>

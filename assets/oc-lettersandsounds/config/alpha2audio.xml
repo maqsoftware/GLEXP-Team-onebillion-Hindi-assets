@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>alph2_letsdomorealphabetpractice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="DEMO">
+			<phrase>alph2_watchme</phrase>
+			<phrase>alph2_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>alph2_puteachletterinitsplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>alph2_dragthelettersintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>alph2_good</phrase>
+			<phrase>alph2_nowdotheothers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>alph2_dragthelettersintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>alph2_dragthelettersintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>alph2_nowtrythese</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO.REPEAT">
+			<phrase>alph2_dragthelettersintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>alph2_dragthelettersintoplace</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>alph2_greatyoudidmorealphabetpractice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="fullalphin">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+		<phrasegroup id="rippleout">
+			<phrase>cf_belltree</phrase>
+		</phrasegroup>
+		<phrasegroup id="oneletterin">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

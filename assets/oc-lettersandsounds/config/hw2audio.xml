@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>hw2_nowletspractisewriting</phrase>
+			<phrase>hw2_itsfun</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>hw2_letswritewords</phrase>
+			<phrase>hw2_heresthefirstone</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>hw2_starthere</phrase>
+			<phrase>hw2_andwritethelettersinorder</phrase>
+			<phrase>hw2_touchthearrowwhenyouarehappywithyourword</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw2_writethelettersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw2_lookwhatyouwrote</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>hw2_writethewordtakecare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>hw2_heresanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw2_writethelettersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw2_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="DEMO">
+			<phrase>hw2_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw2_writethelettersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw2_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="last">
+		<phrasegroup id="DEMO">
+			<phrase>hw2_andthelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>hw2_writethelettersinorder</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>hw2_look</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>hw2_goodyouhadthechancetowritewords</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="picon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="guidewipe">
+			<phrase>short_scrape_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

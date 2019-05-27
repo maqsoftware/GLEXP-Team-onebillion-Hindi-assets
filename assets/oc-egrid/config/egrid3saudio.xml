@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170308.200348256">
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3s_nowyoucantestyourself</phrase>
+			<phrase>egrid3s_whenasyllableturnsbluesayit</phrase>
+			<phrase>egrid3s_thentouchittohearit</phrase>
+			<phrase>egrid3s_starthere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3s_saythebluesyllable</phrase>
+			<phrase>egrid3s_thentouchittoseeifyouwerecorrect</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>egrid3s_ifyousaiditcorrectlywelldone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>egrid3s_saythebluesyllable</phrase>
+			<phrase>egrid3s_thentouchittoseeifyouwerecorrect</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3s_nowdotherest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>egrid3s_saythebluesyllable</phrase>
+			<phrase>egrid3s_thentouchittoseeifyouwerecorrect</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3s_saythebluesyllable</phrase>
+			<phrase>egrid3s_thentouchittoseeifyouwerecorrect</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>egrid3s_saythebluesyllable</phrase>
+			<phrase>egrid3s_thentouchittoseeifyouwerecorrect</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>egrid3s_welldoneyoupractisedreadingsyllables</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="red">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="gridshow">
+			<phrase>paper_scrunch_1_quieter</phrase>
+		</phrasegroup>
+	</event>
+</audio>

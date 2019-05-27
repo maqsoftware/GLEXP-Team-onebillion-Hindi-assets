@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180504.111209275">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>bnrec_nowyoullsaywhichnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>bnrec_seeifyoucangetthemallright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>bnrec_whichnumberisbigger</phrase>
+			<phrase>bnrec_watchme</phrase>
+			<phrase>bnrec_itouchthebutton</phrase>
+			<phrase>bnrec_itouchitagain</phrase>
+			<phrase>bnrec_thisnumberisbigger</phrase>
+			<phrase>bnrec_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>bnrec_whichnumberisbigger</phrase>
+			<phrase>bnrec_touchthebutton</phrase>
+			<phrase>bnrec_saythenumberloudly</phrase>
+			<phrase>bnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>bnrec_touchthebutton</phrase>
+			<phrase>bnrec_saythebiggernumber</phrase>
+			<phrase>bnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_speakloudly</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>bnrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>bnrec_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>bnrec_didyousayitright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>bnrec_whichnumberisbiggerthistime</phrase>
+			<phrase>bnrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>bnrec_touchthebutton</phrase>
+			<phrase>bnrec_saythebiggernumber</phrase>
+			<phrase>bnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>bnrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>bnrec_thisnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL3">
+			<phrase>bnrec_wereyouright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>bnrec_whichnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>bnrec_touchthebutton</phrase>
+			<phrase>bnrec_saythebiggernumber</phrase>
+			<phrase>bnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT">
+			<phrase>bnrec_whichnumberisbigger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>bnrec_touchthebutton</phrase>
+			<phrase>bnrec_saythebiggernumber</phrase>
+			<phrase>bnrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>bnrec_icanthearyou</phrase>
+			<phrase>bnrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>bnrec_verygoodyoupractisedsayingthebiggernumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberin">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="allnumbersoff">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberoff">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="newnumberson">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="numbersoff">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberson">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>g33s_letsmatchlettersandsounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>g33s_listenthentouchtheletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>g33s_touchtheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER">
+			<phrase>g33s_touchtheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REMINDER.REPEAT">
+			<phrase>g33s_touchtheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g33s_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>g33s_good</phrase>
+			<phrase>g33s_nowforsomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>g33s_touchtheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g33s_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>g33s_touchtheletterforthissound</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>g33s_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>g33s_welldoneyoumatchedletterstosounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="leton">
+			<phrase>beetle_wings_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="picon">
+			<phrase>hard_snap</phrase>
+		</phrasegroup>
+		<phrasegroup id="picoff">
+			<phrase>suction_plop</phrase>
+		</phrasegroup>
+		<phrasegroup id="wordoff">
+			<phrase>takeaway_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="splat">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="blend">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+		<phrasegroup id="blending">
+			<phrase>cf_scrape</phrase>
+		</phrasegroup>
+	</event>
+</audio>

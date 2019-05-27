@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/ps5_1.aif</url>
+	<relurl>ps5_1.aif</relurl>
+	<timings text="Jahazi lilikuwa linatembea kwa kasi kwa upepo. Maxi alilikimbilia kwa kasi yake yote kulifuata! Jahazi lilitembea kwa haraka sana." frames="1327616">
+		<timing id="0" start="0.000" end="1.068" startframe="0" framelength="47084" text="Jahazi"/>
+		<timing id="1" start="1.459" end="2.578" startframe="64362" framelength="49311" text="lilikuwa"/>
+		<timing id="2" start="2.958" end="4.270" startframe="130459" framelength="57859" text="linatembea"/>
+		<timing id="3" start="4.676" end="5.492" startframe="206231" framelength="35985" text="kwa"/>
+		<timing id="4" start="5.997" end="6.872" startframe="264482" framelength="38594" text="kasi"/>
+		<timing id="5" start="7.254" end="7.941" startframe="319897" framelength="30303" text="kwa"/>
+		<timing id="6" start="8.203" end="9.240" startframe="361772" framelength="45729" text="upepo"/>
+		<timing id="7" start="9.820" end="10.852" startframe="433040" framelength="45524" text="Maxi"/>
+		<timing id="8" start="11.260" end="13.009" startframe="496577" framelength="77132" text="alilikimbilia"/>
+		<timing id="9" start="13.215" end="14.058" startframe="582780" framelength="37165" text="kwa"/>
+		<timing id="10" start="14.604" end="15.575" startframe="644047" framelength="42809" text="kasi"/>
+		<timing id="11" start="16.013" end="17.003" startframe="706167" framelength="43653" text="yake"/>
+		<timing id="12" start="17.625" end="18.462" startframe="777280" framelength="36887" text="yote"/>
+		<timing id="13" start="19.696" end="21.127" startframe="868602" framelength="63115" text="kulifuata"/>
+		<timing id="14" start="22.360" end="23.441" startframe="986068" framelength="47684" text="Jahazi"/>
+		<timing id="15" start="24.094" end="25.372" startframe="1062556" framelength="56330" text="lilitembea"/>
+		<timing id="16" start="25.809" end="26.534" startframe="1138170" framelength="31991" text="kwa"/>
+		<timing id="17" start="26.863" end="27.919" startframe="1184638" framelength="46578" text="haraka"/>
+		<timing id="18" start="28.163" end="29.137" startframe="1241994" framelength="42948" text="sana"/>
+	</timings>
+</xml>

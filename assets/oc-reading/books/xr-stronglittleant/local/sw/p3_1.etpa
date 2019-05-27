@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/p3_1.aif</url>
+	<relurl>p3_1.aif</relurl>
+	<timings text="Wakati Siafu akiivuta choroko, alisikia mlio wa maji yanayopita. Mtu alikuwa amedondosha sufuria iliyojaa maji! Mkondo wa maji ulikuwa unakuja." frames="571182">
+		<timing id="0" start="0.000" end="0.529" startframe="0" framelength="23340" text="Wakati"/>
+		<timing id="1" start="0.529" end="1.366" startframe="23340" framelength="36903" text="Siafu"/>
+		<timing id="2" start="1.670" end="2.428" startframe="73666" framelength="33427" text="akiivuta"/>
+		<timing id="3" start="2.428" end="3.261" startframe="107093" framelength="36725" text="choroko"/>
+		<timing id="4" start="3.545" end="4.312" startframe="156342" framelength="33817" text="alisikia"/>
+		<timing id="5" start="4.312" end="4.613" startframe="190159" framelength="13271" text="mlio"/>
+		<timing id="6" start="4.613" end="4.812" startframe="203430" framelength="8770" text="wa"/>
+		<timing id="7" start="4.812" end="5.217" startframe="212200" framelength="17888" text="maji"/>
+		<timing id="8" start="5.217" end="6.220" startframe="230088" framelength="44211" text="yanayopita"/>
+		<timing id="9" start="6.815" end="7.231" startframe="300546" framelength="18321" text="Mtu"/>
+		<timing id="10" start="7.231" end="7.762" startframe="318867" framelength="23428" text="alikuwa"/>
+		<timing id="11" start="7.762" end="8.502" startframe="342295" framelength="32637" text="amedondosha"/>
+		<timing id="12" start="8.502" end="9.212" startframe="374932" framelength="31332" text="sufuria"/>
+		<timing id="13" start="9.212" end="9.892" startframe="406264" framelength="29992" text="iliyojaa"/>
+		<timing id="14" start="9.892" end="10.429" startframe="436256" framelength="23659" text="maji"/>
+		<timing id="15" start="10.623" end="11.139" startframe="468484" framelength="22728" text="Mkondo"/>
+		<timing id="16" start="11.139" end="11.371" startframe="491212" framelength="10251" text="wa"/>
+		<timing id="17" start="11.371" end="11.773" startframe="501463" framelength="17734" text="maji"/>
+		<timing id="18" start="11.773" end="12.261" startframe="519197" framelength="21509" text="ulikuwa"/>
+		<timing id="19" start="12.261" end="12.952" startframe="540706" framelength="30476" text="unakuja"/>
+	</timings>
+</xml>

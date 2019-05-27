@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps5_1.aif</url>
+	<relurl>ps5_1.aif</relurl>
+	<timings text="Omi alifika kijiji fulani ambako mtu mmoja alimwalika ajipumzishe." frames="695215">
+		<timing id="0" start="0.000" end="0.607" startframe="0" framelength="26757" text="Omi"/>
+		<timing id="1" start="1.505" end="2.601" startframe="66374" framelength="48338" text="alifika"/>
+		<timing id="2" start="3.359" end="4.376" startframe="148128" framelength="44870" text="kijiji"/>
+		<timing id="3" start="5.016" end="5.993" startframe="221217" framelength="43091" text="fulani"/>
+		<timing id="4" start="6.848" end="7.855" startframe="302016" framelength="44369" text="ambako"/>
+		<timing id="5" start="8.712" end="9.559" startframe="384200" framelength="37336" text="mtu"/>
+		<timing id="6" start="10.259" end="11.271" startframe="452406" framelength="44637" text="mmoja"/>
+		<timing id="7" start="12.521" end="13.895" startframe="552169" framelength="60615" text="alimwalika"/>
+		<timing id="8" start="14.474" end="15.765" startframe="638318" framelength="56897" text="ajipumzishe"/>
+	</timings>
+</xml>

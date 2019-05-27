@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_look</phrase>
+			<phrase>7_atable</phrase>
+			<phrase>7_atable</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_findthematchingcards</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_findthematchingcards</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="PROMPT">
+			<phrase>7_seehowquicklyyoucanfindthematchingcardsthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_seehowquicklyyoucanfindthematchingcardsthistime</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>7_welldoneyoupickedoutthematchingpairsofpictures</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

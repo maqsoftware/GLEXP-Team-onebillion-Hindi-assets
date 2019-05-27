@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" colour="254,255,255" >
+		<rectangle id="videobox" pos="0.5,0.3125" src="videobox" fill="255,255,255" zpos="0.002" widthtracksheight="true" x="0.193848" y="0.0429688" width="0.612305" height="0.539062" pxwidth="627" pxheight="414" />
+		<path id="frame" pos="0.5,0.5" parent="videobox" src="frame" fill="0,114,193" zpos="0.005" d="M0.00319 0.9952L0.00319 0.004831L0.9968 0.004831L0.9968 0.9952L0.00319 0.9952ZM-0.004785 -0.007246L-0.004785 1.007L1.005 1.007L1.005 -0.007246L-0.004785 -0.007246Z" />
+		<vector id="presenter" pos="0.5,0.874396" parent="videobox" src="anna" scalex="1.19748" scaley="1.19748" zpos="0.004" hidden="true" />
+		<linearGradient id="Gradient33" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(94.8%,99.7%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(76.1%,91.4%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="presenter_bg" pos="0.5,0.5" parent="videobox" src="presenter_bg" fill="url(#Gradient33)"  zpos="0.003" hidden="true" widthtracksheight="true" x="0" y="0" width="1" height="1" pxwidth="627" pxheight="414" />
+		<rectangle id="textbox" pos="0.5,0.723582" src="textbox" fill="0,234,254" zpos="0.001" hidden="true" x="0.0316391" y="0.598958" width="0.936722" height="0.249247" />
+		<rectangle id="textboxcaption" pos="0.5,0.723254" src="textboxcaption" fill="0,234,254" zpos="0" hidden="true" x="0.137037" y="0.598958" width="0.725925" height="0.248591" />
+	</event>
+</events>

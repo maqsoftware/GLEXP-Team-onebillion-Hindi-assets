@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/xr-singingthecowshomeSW/p6_2.aif</url>
+	<relurl>p6_2.aif</relurl>
+	<timings text="“Baba atasemaje?” watoto walilia na wote wakakimbilia nyumbani. " frames="233138">
+		<timing id="0" start="0.000" end="0.322" startframe="0" framelength="14194" text="Baba"/>
+		<timing id="1" start="0.322" end="1.471" startframe="14194" framelength="50697" text="atasemaje"/>
+		<timing id="2" start="2.052" end="2.498" startframe="90503" framelength="19673" text="watoto"/>
+		<timing id="3" start="2.498" end="3.271" startframe="110176" framelength="34075" text="walilia"/>
+		<timing id="4" start="3.271" end="3.508" startframe="144251" framelength="10437" text="na"/>
+		<timing id="5" start="3.508" end="3.923" startframe="154688" framelength="18311" text="wote"/>
+		<timing id="6" start="3.923" end="4.701" startframe="172999" framelength="34321" text="wakakimbilia"/>
+		<timing id="7" start="4.701" end="5.287" startframe="207320" framelength="25818" text="nyumbani"/>
+	</timings>
+</xml>

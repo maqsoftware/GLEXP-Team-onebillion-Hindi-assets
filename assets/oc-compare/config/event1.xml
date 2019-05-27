@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="intro,1b,1c,1d,1e,1f,1g,1h,1i,1j,1k,1l,1m,1n,1o,1p,1q,1r,1s,1t" colour="227,251,229" >
+	</event>
+	<event id="intro" >
+		<linearGradient id="Gradient7" >
+			<stop offset="0%" stop-color="rgb(98.3%,0.261%,3.23%)" stop-opacity="1"/>
+			<stop offset="58.6651%" stop-color="rgb(69.8%,7.72%,13%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(45%,0.219%,6.15%)" stop-opacity="1"/>
+		</linearGradient>
+		<vector id="obj_1" pos="0.715231,0.550033" src="detailedshoe" scalex="-0.912" scaley="0.91222" fill="url(#Gradient7)"  zpos="2.001" />
+		<vector id="obj_2" pos="0.318165,0.465355" src="detailedshoe" scalex="-1.346" scaley="1.34627" zpos="2" />
+	</event>
+	<event id="1b" >
+	</event>
+	<event id="1c" target="obj_1" >
+		<linearGradient id="Gradient7" >
+			<stop offset="0%" stop-color="rgb(98.3%,0.261%,3.23%)" stop-opacity="1"/>
+			<stop offset="58.6651%" stop-color="rgb(69.8%,7.72%,13%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(45%,0.219%,6.15%)" stop-opacity="1"/>
+		</linearGradient>
+		<vector id="obj_1" pos="0.231936,0.548492" src="detailedshoe" scalex="0.912" scaley="0.91222" fill="url(#Gradient7)"  zpos="2" />
+		<vector id="obj_2" pos="0.642105,0.46298" src="detailedshoe" scalex="1.346" scaley="1.34627" zpos="2.001" />
+	</event>
+	<event id="1d" target="obj_2" >
+		<vector id="obj_1" pos="0.271442,0.550229" src="1d_sock1" scalex="2.88214" scaley="2.88214" rotation="-20.3679" zpos="2" />
+		<vector id="obj_2" pos="0.65504,0.510805" src="1d_sock2" scalex="-5.5" scaley="5.5" rotation="20.105" zpos="2.001" />
+	</event>
+	<event id="1e" target="obj_2" >
+		<vector id="obj_1" pos="0.308917,0.492297" src="1e_shirt2" scalex="2.5678" scaley="2.5678" zpos="2" />
+		<vector id="obj_2" pos="0.731803,0.55142" src="1e_shirt1" scalex="1.36786" scaley="1.36786" zpos="2.001" />
+	</event>
+	<event id="1f" target="obj_1" >
+		<vector id="obj_1" pos="0.342698,0.440379" src="1f_bag2" scalex="1.93285" scaley="1.93285" zpos="2.001" />
+		<vector id="obj_2" pos="0.694788,0.585038" src="1f_bag1" scalex="0.960637" scaley="0.960637" zpos="2" />
+	</event>
+	<event id="1g" target="obj_1" >
+		<vector id="obj_1" pos="0.295412,0.484688" src="1g_beachball" scalex="2.59378" scaley="2.59378" zpos="2.001" />
+		<vector id="obj_2" pos="0.645521,0.27327" src="1g_ball1" scalex="2.55117" scaley="2.55117" zpos="2" />
+		<vector id="obj_3" pos="0.736937,0.649147" src="1g_ball2" scalex="2.19449" scaley="2.19449" zpos="2.002" />
+	</event>
+	<event id="1h" target="obj_plate2" >
+		<vector id="obj_plate1" pos="0.725098,0.370878" src="1h_plate1" scalex="3.72754" scaley="3.72754" zpos="2" />
+		<vector id="obj_plate2" pos="0.234686,0.296313" src="1h_plate2" scalex="2.06067" scaley="2.06067" zpos="2.001" />
+		<vector id="obj_plate3a" pos="0.402234,0.672969" src="1h_plate3a" scalex="0.291888" scaley="0.291888" zpos="2.002" />
+	</event>
+	<event id="1i" target="obj_bowl1" >
+		<vector id="obj_bowl1" pos="0.739958,0.3697" src="1i_bowl1" scalex="1.79808" scaley="1.79808" zpos="2" />
+		<vector id="obj_bowl2" pos="0.262774,0.442677" src="1i_bowl2" scalex="1.59238" scaley="1.59238" zpos="2.001" />
+		<vector id="obj_bowl3" pos="0.447496,0.736024" src="1i_bowl3" scalex="1.07" scaley="1.07" zpos="2.002" />
+	</event>
+	<event id="1j" target="obj_2" >
+		<vector id="obj_1" pos="0.228143,0.52951" src="1j_spoon1" scalex="1.09871" scaley="1.09871" rotation="3.46051" zpos="2.001" />
+		<vector id="obj_2" pos="0.467757,0.564364" src="1j_spoon1" scalex="0.733586" scaley="0.733586" rotation="-2.14249" zpos="2.002" />
+		<vector id="obj_3" pos="0.73673,0.500953" src="1j_spoon2" scalex="1.07031" scaley="1.07031" rotation="3.20879" zpos="2" />
+	</event>
+	<event id="1k" target="obj_1" >
+		<circle id="obj_1" pos="0.355167,0.713114" src="obj_1" fill="0,222,255" stroke="0,0,0" strokewidth="4" zpos="2.003" x="0.315418" y="0.660116" width="0.0794983" height="0.105998" />
+		<circle id="obj_2" pos="0.22444,0.3666" src="obj_2" fill="253,64,255" stroke="0,0,0" strokewidth="4" zpos="2.002" x="0.157448" y="0.277278" width="0.133984" height="0.178645" />
+		<circle id="obj_3" pos="0.459442,0.240784" src="obj_3" fill="255,204,3" stroke="0,0,0" strokewidth="4" zpos="2" x="0.371891" y="0.124049" width="0.175102" height="0.23347" />
+		<circle id="obj_4" pos="0.726728,0.599042" src="obj_4" fill="9,250,38" stroke="0,0,0" strokewidth="4" zpos="2.001" x="0.605" y="0.436737" width="0.243458" height="0.32461" />
+	</event>
+	<event id="1l" target="obj_4" >
+	</event>
+	<event id="1m" target="obj_4" >
+		<rectangle id="obj_1" pos="0.665251,0.614301" src="obj_1" fill="13,252,199" stroke="0,0,0" strokewidth="4" zpos="2.003" widthtracksheight="true" x="0.619141" y="0.552821" width="0.0922203" height="0.12296" pxwidth="94.4336" pxheight="94.4336" />
+		<rectangle id="obj_2" pos="0.226336,0.261813" src="obj_2" fill="0,222,255" stroke="0,0,0" strokewidth="4" zpos="2.002" widthtracksheight="true" x="0.148613" y="0.158183" width="0.155445" height="0.20726" pxwidth="159.176" pxheight="159.176" />
+		<rectangle id="obj_3" pos="0.718653,0.281944" src="obj_3" fill="255,204,3" stroke="0,0,0" strokewidth="4" zpos="2.001" widthtracksheight="true" x="0.619564" y="0.149826" width="0.198177" height="0.264236" pxwidth="202.934" pxheight="202.934" />
+		<rectangle id="obj_4" pos="0.306684,0.662702" src="obj_4" fill="253,64,255" stroke="0,0,0" strokewidth="4" zpos="2" widthtracksheight="true" x="0.146484" y="0.449102" width="0.3204" height="0.4272" pxwidth="328.09" pxheight="328.09" />
+	</event>
+	<event id="1n" target="obj_1" >
+	</event>
+	<event id="1o" target="obj_5" >
+		<path id="obj_1" pos="0.327044,0.217646" src="obj_1" fill="239,62,254" stroke="0,0,0" strokewidth="4" zpos="2.004" widthtracksheight="true" d="M0.327 0.2757L0.2986 0.2176L0.327 0.1596L0.3555 0.2176L0.327 0.2757Z" />
+		<path id="obj_2" pos="0.761366,0.33761" src="obj_2" fill="239,62,254" stroke="0,0,0" strokewidth="4" zpos="2.002" widthtracksheight="true" d="M0.7614 0.4682L0.6973 0.3376L0.7614 0.207L0.8255 0.3376L0.7614 0.4682Z" />
+		<path id="obj_3" pos="0.825926,0.656686" src="obj_3" fill="239,62,254" stroke="0,0,0" strokewidth="4" zpos="2.001" widthtracksheight="true" d="M0.8259 0.7873L0.7618 0.6567L0.8259 0.5261L0.89 0.6567L0.8259 0.7873Z" />
+		<path id="obj_4" pos="0.166594,0.43371" src="obj_4" fill="239,62,254" stroke="0,0,0" strokewidth="4" zpos="2.003" widthtracksheight="true" d="M0.1666 0.6104L0.07984 0.4337L0.1666 0.257L0.2533 0.4337L0.1666 0.6104Z" />
+		<path id="obj_5" pos="0.456701,0.581736" src="obj_5" fill="239,62,254" stroke="0,0,0" strokewidth="4" zpos="2" widthtracksheight="true" d="M0.4567 0.8672L0.3166 0.5817L0.4567 0.2963L0.5968 0.5817L0.4567 0.8672Z" />
+	</event>
+	<event id="1p" target="obj_1" >
+	</event>
+	<event id="1q" target="obj_2,obj_3" >
+	</event>
+	<event id="1r" target="obj_1" >
+		<path id="obj_1" pos="0.20152,0.312678" src="obj_1" fill="0,228,254" stroke="0,0,0" strokewidth="4" zpos="2.002" widthtracksheight="true" d="M0.2015 0.2563L0.2125 0.2985L0.246 0.2994L0.2193 0.3263L0.229 0.3691L0.2015 0.3436L0.174 0.3691L0.1837 0.3263L0.157 0.2994L0.1905 0.2985L0.2015 0.2563Z" />
+		<path id="obj_2" pos="0.164563,0.620234" src="obj_2" fill="0,228,254" stroke="0,0,0" strokewidth="4" zpos="2.001" widthtracksheight="true" d="M0.1646 0.5171L0.1847 0.5942L0.2459 0.5959L0.1971 0.6452L0.2148 0.7234L0.1646 0.6767L0.1143 0.7234L0.132 0.6452L0.08324 0.5959L0.1445 0.5942L0.1646 0.5171Z" />
+		<path id="obj_3" pos="0.394399,0.695541" src="obj_3" fill="0,228,254" stroke="0,0,0" strokewidth="4" zpos="2" widthtracksheight="true" d="M0.3944 0.5508L0.4226 0.6591L0.5085 0.6614L0.44 0.7306L0.4649 0.8402L0.3944 0.7748L0.3239 0.8402L0.3488 0.7306L0.2803 0.6614L0.3662 0.6591L0.3944 0.5508Z" />
+		<path id="obj_4" pos="0.478879,0.253316" src="obj_4" fill="0,228,254" stroke="0,0,0" strokewidth="4" zpos="2.003" widthtracksheight="true" d="M0.4789 0.1086L0.5071 0.2168L0.593 0.2192L0.5245 0.2884L0.5494 0.398L0.4789 0.3326L0.4084 0.398L0.4332 0.2884L0.3648 0.2192L0.4507 0.2168L0.4789 0.1086Z" />
+		<path id="obj_5" pos="0.725432,0.544487" src="obj_5" scalex="0.812" scaley="0.812" fill="0,228,254" stroke="0,0,0" strokewidth="4" zpos="2.004" widthtracksheight="true" d="M0.7249 0.2913L0.7759 0.487L0.9313 0.4912L0.8075 0.6164L0.8525 0.8146L0.7249 0.6963L0.5974 0.8146L0.6424 0.6164L0.5186 0.4912L0.6739 0.487L0.7249 0.2913Z" />
+	</event>
+	<event id="1s" target="obj_5" >
+	</event>
+	<event id="1t" target="obj_3,obj_4" >
+	</event>
+</events>

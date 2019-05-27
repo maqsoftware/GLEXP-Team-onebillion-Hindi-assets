@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="355px" height="355px" viewBox = "0 0 355 355">
+<g transform="translate(0,355) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="col" d="M353.6 89.9L265.7 177.8L353.6 265.7L265.7 353.6L177.8 265.7L89.89 353.6L2 265.7L89.89 177.8L2 89.9L89.89 2L177.8 89.9L265.7 2L353.6 89.9Z" stroke="rgb(93.7%,67.1%,28.6%)" stroke-width="1" fill="rgb(100%,87.1%,0%)"  />
+	</g>
+</g>
+</svg>

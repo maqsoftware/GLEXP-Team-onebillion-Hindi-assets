@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_sevencounters</phrase>
+			<phrase>4_seven</phrase>
+			<phrase>4_eightcounters</phrase>
+			<phrase>4_eight</phrase>
+			<phrase>4_ninecounters</phrase>
+			<phrase>4_nine</phrase>
+			<phrase>4_tencounters</phrase>
+			<phrase>4_ten</phrase>
+			<phrase>4_nowlook</phrase>
+			<phrase>4_therearenineyellowcounters</phrase>
+			<phrase>4_nine_4a</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_movethenumberstomatchthecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_movethenumberstomatchthecounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_sevencounters</phrase>
+			<phrase>4_eightcounters</phrase>
+			<phrase>4_ninecounters</phrase>
+			<phrase>4_tencounters</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowmovethenumberstomatchthestars</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_movethenumberstomatchthestars</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_sevenstars</phrase>
+			<phrase>4_eightstars</phrase>
+			<phrase>4_ninestars</phrase>
+			<phrase>4_tenstars</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nextcountthespoons</phrase>
+			<phrase>4_howmanyarethere</phrase>
+			<phrase>4_movethenumbertothebox</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanyspoonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanyspoonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_eightspoons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanycupsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanycupsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanycupsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_tencups</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_nineforks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanyknivesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanyknivesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanyknivesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_sevenknives</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanythingsareinthisset</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanythingsareinthisset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanythingsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_ninethings</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanythingsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanythingsareinthisset</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_countagain</phrase>
+			<phrase>4_howmanythingsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>4_tenthings</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_verygoodyoucountedthingsandpickedoutthenumbersthatmatched</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="place_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="colour_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="drop_number">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+	</event>
+</audio>

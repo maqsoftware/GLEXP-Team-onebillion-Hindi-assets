@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps10_2.aif</url>
+	<relurl>ps10_2.aif</relurl>
+	<timings text="“Ni kitu gani hicho chenye kiza nyuma yako?” waliuliza." frames="586065">
+		<timing id="0" start="0.000" end="0.626" startframe="0" framelength="27602" text="Ni"/>
+		<timing id="1" start="1.278" end="2.162" startframe="56367" framelength="38985" text="kitu"/>
+		<timing id="2" start="2.850" end="3.676" startframe="125699" framelength="36408" text="gani"/>
+		<timing id="3" start="4.331" end="5.146" startframe="191014" framelength="35929" text="hicho"/>
+		<timing id="4" start="5.795" end="6.679" startframe="255567" framelength="38968" text="chenye"/>
+		<timing id="5" start="7.452" end="8.197" startframe="328623" framelength="32843" text="kiza"/>
+		<timing id="6" start="8.942" end="9.899" startframe="394356" framelength="42169" text="nyuma"/>
+		<timing id="7" start="10.560" end="11.407" startframe="465695" framelength="37345" text="yako"/>
+		<timing id="8" start="12.203" end="13.289" startframe="538136" framelength="47929" text="waliuliza"/>
+	</timings>
+</xml>

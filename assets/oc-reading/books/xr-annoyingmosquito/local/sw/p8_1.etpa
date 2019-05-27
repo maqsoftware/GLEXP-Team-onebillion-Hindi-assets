@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p8_1.aif</url>
+	<relurl>p8_1.aif</relurl>
+	<timings text="“Acha kunitesa wewe!” Badi alisema kwa sauti. “Ninataka kulala!”" frames="209308">
+		<timing id="0" start="0.000" end="0.361" startframe="0" framelength="15934" text="Acha"/>
+		<timing id="1" start="0.361" end="1.002" startframe="15934" framelength="28272" text="kunitesa"/>
+		<timing id="2" start="1.002" end="1.524" startframe="44206" framelength="23007" text="wewe"/>
+		<timing id="3" start="1.812" end="2.186" startframe="79926" framelength="16473" text="Badi"/>
+		<timing id="4" start="2.186" end="2.733" startframe="96399" framelength="24114" text="alisema"/>
+		<timing id="5" start="2.733" end="2.863" startframe="120513" framelength="5745" text="kwa"/>
+		<timing id="6" start="2.863" end="3.395" startframe="126258" framelength="23448" text="sauti"/>
+		<timing id="7" start="3.673" end="4.180" startframe="161986" framelength="22346" text="Ninataka"/>
+		<timing id="8" start="4.180" end="4.746" startframe="184332" framelength="24976" text="kulala"/>
+	</timings>
+</xml>

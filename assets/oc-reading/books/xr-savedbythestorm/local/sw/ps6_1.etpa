@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/ps6_1.aif</url>
+	<relurl>ps6_1.aif</relurl>
+	<timings text="Maxi alilifuata jahazi baharini kote. Alilifuata kwenye visiwa na majabali. Akalifuata mbali na nyumbani." frames="913345">
+		<timing id="0" start="0.000" end="0.854" startframe="0" framelength="37646" text="Maxi"/>
+		<timing id="1" start="1.456" end="2.879" startframe="64227" framelength="62741" text="alilifuata"/>
+		<timing id="2" start="3.344" end="4.299" startframe="147492" framelength="42089" text="jahazi"/>
+		<timing id="3" start="4.870" end="5.960" startframe="214765" framelength="48052" text="baharini"/>
+		<timing id="4" start="6.550" end="7.264" startframe="288854" framelength="31476" text="kote"/>
+		<timing id="5" start="7.926" end="9.268" startframe="349519" framelength="59208" text="Alilifuata"/>
+		<timing id="6" start="9.932" end="10.763" startframe="437981" framelength="36658" text="kwenye"/>
+		<timing id="7" start="11.082" end="12.060" startframe="488713" framelength="43154" text="visiwa"/>
+		<timing id="8" start="12.735" end="13.349" startframe="561594" framelength="27108" text="na"/>
+		<timing id="9" start="13.829" end="14.937" startframe="609851" framelength="48880" text="majabali"/>
+		<timing id="10" start="15.383" end="16.879" startframe="678387" framelength="65957" text="Akalifuata"/>
+		<timing id="11" start="17.454" end="18.315" startframe="769742" framelength="37961" text="mbali"/>
+		<timing id="12" start="18.835" end="19.503" startframe="830612" framelength="29453" text="na"/>
+		<timing id="13" start="19.849" end="20.711" startframe="875352" framelength="37993" text="nyumbani"/>
+	</timings>
+</xml>

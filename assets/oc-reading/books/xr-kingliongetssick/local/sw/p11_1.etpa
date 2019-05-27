@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Ujanja wa Fisi ukawa umekwenda kombo vibaya mno. Alitarajia Mfalme Simba amkasirikie Sungura." frames="337235">
+		<timing id="0" start="0.000" end="0.442" startframe="0" framelength="19500" text="Ujanja"/>
+		<timing id="1" start="0.442" end="0.608" startframe="19500" framelength="7313" text="wa"/>
+		<timing id="2" start="0.608" end="1.036" startframe="26813" framelength="18867" text="Fisi"/>
+		<timing id="3" start="1.036" end="1.428" startframe="45680" framelength="17287" text="ukawa"/>
+		<timing id="4" start="1.428" end="2.053" startframe="62967" framelength="27550" text="umekwenda"/>
+		<timing id="5" start="2.053" end="2.527" startframe="90517" framelength="20923" text="kombo"/>
+		<timing id="6" start="2.527" end="3.074" startframe="111440" framelength="24107" text="vibaya"/>
+		<timing id="7" start="3.074" end="3.436" startframe="135547" framelength="16001" text="mno"/>
+		<timing id="8" start="4.081" end="4.901" startframe="179971" framelength="36172" text="Alitarajia"/>
+		<timing id="9" start="4.901" end="5.289" startframe="216143" framelength="17106" text="Mfalme"/>
+		<timing id="10" start="5.289" end="5.923" startframe="233249" framelength="27955" text="Simba"/>
+		<timing id="11" start="6.105" end="7.046" startframe="269232" framelength="41481" text="amkasirikie"/>
+		<timing id="12" start="7.046" end="7.647" startframe="310713" framelength="26522" text="Sungura"/>
+	</timings>
+</xml>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/p5_2.aif</url>
+	<relurl>p5_2.aif</relurl>
+	<timings text="“Kaa,” alisema yule mtu. “Karibu chai.”" frames="165358">
+		<timing id="0" start="0.000" end="0.616" startframe="0" framelength="27166" text="Kaa"/>
+		<timing id="1" start="0.688" end="1.311" startframe="30323" framelength="27476" text="alisema"/>
+		<timing id="2" start="1.311" end="1.604" startframe="57799" framelength="12956" text="yule"/>
+		<timing id="3" start="1.604" end="2.077" startframe="70755" framelength="20860" text="mtu"/>
+		<timing id="4" start="2.697" end="3.153" startframe="118936" framelength="20101" text="Karibu"/>
+		<timing id="5" start="3.153" end="3.750" startframe="139037" framelength="26321" text="chai"/>
+	</timings>
+</xml>

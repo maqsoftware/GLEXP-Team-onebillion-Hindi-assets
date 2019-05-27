@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlooktencounters</phrase>
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_eleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>1_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT3">
+			<phrase>1_thirteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT4">
+			<phrase>1_fourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT5.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT5">
+			<phrase>1_fifteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT6.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT6">
+			<phrase>1_sixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT7.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT7">
+			<phrase>1_seventeen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT8.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT8">
+			<phrase>1_eighteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT9.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT9">
+			<phrase>1_nineteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT10.REPEAT">
+			<phrase>1_touchthelinetoaddmorecountersonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT10">
+			<phrase>1_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowseeifyoucancountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_one</phrase>
+			<phrase>1_two</phrase>
+			<phrase>1_three</phrase>
+			<phrase>1_four</phrase>
+			<phrase>1_five</phrase>
+			<phrase>1_six</phrase>
+			<phrase>1_seven</phrase>
+			<phrase>1_eight</phrase>
+			<phrase>1_nine</phrase>
+			<phrase>1_ten</phrase>
+			<phrase>1_eleven</phrase>
+			<phrase>1_twelve</phrase>
+			<phrase>1_thirteen</phrase>
+			<phrase>1_fourteen</phrase>
+			<phrase>1_fifteen</phrase>
+			<phrase>1_sixteen</phrase>
+			<phrase>1_seventeen</phrase>
+			<phrase>1_eighteen</phrase>
+			<phrase>1_nineteen</phrase>
+			<phrase>1_twenty</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thistimetherearetenbirds</phrase>
+			<phrase>1_addmorebirdsonebyone</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>1_eleven_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT2">
+			<phrase>1_twelve_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT3.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT3">
+			<phrase>1_thirteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT4.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT4">
+			<phrase>1_fourteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT5.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT5">
+			<phrase>1_fifteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT6.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT6">
+			<phrase>1_sixteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT7.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT7">
+			<phrase>1_seventeen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT8.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT8">
+			<phrase>1_eighteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT9.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT9">
+			<phrase>1_nineteen_1d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT10.REPEAT">
+			<phrase>1_touchthelinetoaddmorebirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT10">
+			<phrase>1_twenty_1d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowcountwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>1_one_1e</phrase>
+			<phrase>1_two_1e</phrase>
+			<phrase>1_three_1e</phrase>
+			<phrase>1_four_1e</phrase>
+			<phrase>1_five_1e</phrase>
+			<phrase>1_six_1e</phrase>
+			<phrase>1_seven_1e</phrase>
+			<phrase>1_eight_1e</phrase>
+			<phrase>1_nine_1e</phrase>
+			<phrase>1_ten_1e</phrase>
+			<phrase>1_eleven_1d</phrase>
+			<phrase>1_twelve_1d</phrase>
+			<phrase>1_thirteen_1d</phrase>
+			<phrase>1_fourteen_1d</phrase>
+			<phrase>1_fifteen_1d</phrase>
+			<phrase>1_sixteen_1d</phrase>
+			<phrase>1_seventeen_1d</phrase>
+			<phrase>1_eighteen_1d</phrase>
+			<phrase>1_nineteen_1d</phrase>
+			<phrase>1_twenty_1d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>1_goodyoumetallthenumbersfrom1to20</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

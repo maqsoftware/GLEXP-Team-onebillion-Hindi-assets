@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="intro">
+		<phrasegroup id="DEMO">
+			<phrase>1_rememberyoucantouchthistohearmeagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1a">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookatthispattern</phrase>
+			<phrase>1_leaf</phrase>
+			<phrase>1_flower</phrase>
+			<phrase>1_leaf</phrase>
+			<phrase>1_flower</phrase>
+			<phrase>1_leaf</phrase>
+			<phrase>1_flower</phrase>
+			<phrase>1_soaleafcomesnext</phrase>
+			<phrase>1_likethis</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1b">
+		<phrasegroup id="PROMPT">
+			<phrase>1_yourturn</phrase>
+			<phrase>1_whichcomesnextinthepatternthistime</phrase>
+			<phrase>1_dragitintoplace</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichonecomesnextinthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1c">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichonecomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichonecomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1c</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1d">
+		<phrasegroup id="PROMPT">
+			<phrase>1_completethispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_completethispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1e">
+		<phrasegroup id="PROMPT">
+			<phrase>1_fillinthemissingone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_fillinthemissingone</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1e</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1f">
+		<phrasegroup id="DEMO">
+			<phrase>1_nowlookatthispattern</phrase>
+			<phrase>1_shoe</phrase>
+			<phrase>1_shoe</phrase>
+			<phrase>1_sock</phrase>
+			<phrase>1_sock</phrase>
+			<phrase>1_shoe</phrase>
+			<phrase>1_shoe</phrase>
+			<phrase>1_sock</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1e</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1g">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichcomesnextthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichcomesnextthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1g</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1h">
+		<phrasegroup id="PROMPT">
+			<phrase>1_completethispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_completethispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1i">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichcomesnext_1i</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichcomesnext_1i</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1j">
+		<phrasegroup id="PROMPT">
+			<phrase>1_nowwhichcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichcomesnext_1j</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1k">
+		<phrasegroup id="PROMPT">
+			<phrase>1_fillinthemissingone_1k</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_fillinthemissingone_1k</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1k</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="PROMPT">
+			<phrase>1_lookatthispatternwithhousesandtrees</phrase>
+			<phrase>1_choosewhatcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosewhatcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1m">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whatcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whatcomesnext</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1m</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1n">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whatcomesnextthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whatcomesnext_1n</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1n</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1o">
+		<phrasegroup id="PROMPT">
+			<phrase>1_completethisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_completethispattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1o</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1p">
+		<phrasegroup id="PROMPT">
+			<phrase>1_thispatternhasthreethings</phrase>
+			<phrase>1_bananaapplelemon</phrase>
+			<phrase>1_choosewhatcomesnextinthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_choosewhatcomesnextinthepattern</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1p</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1q">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whatcomesnextthistime_1q</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whatcomesnext_1q</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1q</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1r">
+		<phrasegroup id="PROMPT">
+			<phrase>1_whichonecomesnext_1r</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>1_whichonecomesnext_1r</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>1_whichonecomesnextinthepattern_1r</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>1_welldoneyouchosewhatcamenextinthepatterns</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

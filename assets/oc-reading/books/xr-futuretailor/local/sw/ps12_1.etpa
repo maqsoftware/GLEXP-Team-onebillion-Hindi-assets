@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-futuretailorSW-0/_processed/ps12_1.aif</url>
+	<relurl>ps12_1.aif</relurl>
+	<timings text="Juma na mimi tulikuwa tayari kujitengenezea maisha yetu ya baadae! Na baba alijivunia sote wawili." frames="1164176">
+		<timing id="0" start="0.000" end="0.652" startframe="0" framelength="28765" text="Juma"/>
+		<timing id="1" start="1.522" end="2.198" startframe="67102" framelength="29837" text="na"/>
+		<timing id="2" start="3.162" end="3.919" startframe="139427" framelength="33387" text="mimi"/>
+		<timing id="3" start="4.681" end="5.693" startframe="206436" framelength="44611" text="tulikuwa"/>
+		<timing id="4" start="6.442" end="7.469" startframe="284097" framelength="45306" text="tayari"/>
+		<timing id="5" start="8.546" end="9.879" startframe="376898" framelength="58782" text="kujitengenezea"/>
+		<timing id="6" start="10.795" end="11.800" startframe="476073" framelength="44328" text="maisha"/>
+		<timing id="7" start="12.811" end="13.595" startframe="564958" framelength="34578" text="yetu"/>
+		<timing id="8" start="14.761" end="15.416" startframe="650966" framelength="28886" text="ya"/>
+		<timing id="9" start="16.286" end="17.266" startframe="718218" framelength="43196" text="baadae"/>
+		<timing id="10" start="18.115" end="18.836" startframe="798893" framelength="31767" text="Na"/>
+		<timing id="11" start="19.843" end="20.579" startframe="875068" framelength="32445" text="baba"/>
+		<timing id="12" start="21.337" end="22.599" startframe="940942" framelength="55682" text="alijivunia"/>
+		<timing id="13" start="23.646" end="24.472" startframe="1042785" framelength="36427" text="sote"/>
+		<timing id="14" start="25.178" end="26.110" startframe="1110350" framelength="41085" text="wawili"/>
+	</timings>
+</xml>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180530.190415307">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_letsaddnumbers</phrase>
+			<phrase>flipping_itseasierifyouputthebiggernumberfirst</phrase>
+			<phrase>flipping_youllsee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_letsaddnumbers</phrase>
+			<phrase>flipping_youcanshowthebiggernumberfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_whatstheanswer</phrase>
+			<phrase>flipping_itsinheretouchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_whatstheanswerthistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_nowwatch</phrase>
+			<phrase>flipping_twoplusthreeequalsfive</phrase>
+			<phrase>flipping_threeplustwoequalsfive</phrase>
+			<phrase>flipping_thesearethesame</phrase>
+			<phrase>flipping_twoplusthree</phrase>
+			<phrase>flipping_threeplustwo</phrase>
+			<phrase>flipping_theygivethesameanswer</phrase>
+			<phrase>flipping_five</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="f">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_watch</phrase>
+			<phrase>flipping_oneplusnineequalsten</phrase>
+			<phrase>flipping_nineplusoneequalsten</phrase>
+			<phrase>flipping_thesearethesame</phrase>
+			<phrase>flipping_oneplusnine</phrase>
+			<phrase>flipping_nineplusone</phrase>
+			<phrase>flipping_theygivethesameanswer</phrase>
+			<phrase>flipping_ten</phrase>
+		</phrasegroup>
+	</event>
+	<event id="g">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="h">
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="i">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_watch</phrase>
+			<phrase>flipping_threeplustwelveequalsfifteen</phrase>
+			<phrase>flipping_twelveplusthreeequalsfifteen</phrase>
+			<phrase>flipping_thesearethesame</phrase>
+			<phrase>flipping_threeplustwelve</phrase>
+			<phrase>flipping_twelveplusthree</phrase>
+			<phrase>flipping_theygivethesameanswer</phrase>
+			<phrase>flipping_fifteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="j">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_nowlookatthisone</phrase>
+			<phrase>flipping_thesmallernumberisfirst</phrase>
+			<phrase>flipping_touchtheline</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchtheline</phrase>
+		</phrasegroup>
+	</event>
+	<event id="k">
+		<phrasegroup id="DEMO">
+			<phrase>flipping_nowthebiggernumberisfirst</phrase>
+			<phrase>flipping_andaddingiseasier</phrase>
+			<phrase>flipping_findtheanswer</phrase>
+			<phrase>flipping_touchthelineagainifyouwish</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="l">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_trythisone</phrase>
+			<phrase>flipping_touchthelineifyouwish</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="m">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n">
+		<phrasegroup id="PROMPT">
+			<phrase>flipping_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT2">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT3">
+			<phrase>flipping_touchthelineifyouwish</phrase>
+			<phrase>flipping_thentouchtheanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>flipping_good</phrase>
+			<phrase>flipping_itseasiertoaddifyouputthebiggernumberfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equationon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>segment</phrase>
+		</phrasegroup>
+		<phrasegroup id="answer">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="alloff">
+			<phrase>pop_bubble</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineon">
+			<phrase>ping_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="flip">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

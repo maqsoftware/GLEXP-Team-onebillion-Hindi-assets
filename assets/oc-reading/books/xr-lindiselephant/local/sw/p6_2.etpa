@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/p6_2.aif</url>
+	<relurl>p6_2.aif</relurl>
+	<timings text="“Tembo!” aliita. “Uko wapi?”" frames="163938">
+		<timing id="0" start="0.000" end="0.863" startframe="0" framelength="38049" text="Tembo"/>
+		<timing id="1" start="1.619" end="2.350" startframe="71415" framelength="32219" text="aliita"/>
+		<timing id="2" start="2.793" end="3.093" startframe="123164" framelength="13238" text="Uko"/>
+		<timing id="3" start="3.093" end="3.717" startframe="136402" framelength="27536" text="wapi"/>
+	</timings>
+</xml>

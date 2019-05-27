@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_thisislily</phrase>
+			<phrase>3_itsherbirthdayandsheshavingaparty</phrase>
+			<phrase>3_lookherpartyhat</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_herbirthdaycake</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>3_andherpresentsfromherfriends</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>3_choosetheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3a2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosetheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchittostopitbouncing</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchtheballtostopitbouncing</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_aballisathreedshape</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchitagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchtheball</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c2">
+		<phrasegroup id="DEMO">
+			<phrase>3_thisthreedshapeiscalledasphere</phrase>
+			<phrase>3_thissayssphere</phrase>
+			<phrase>3_asphereiscompletelyround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycornersdoesithave</phrase>
+			<phrase>3_chooseanumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanycornersdoesithave</phrase>
+			<phrase>3_chooseanumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_yourerightaspherehasnocornersitisround</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_howmanycornersdoesithave</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthespheretoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_nowtouchthespheretoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nextwhosgotthetinoforangejuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_choosethechildwiththetinoforangejuice</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_yeslily</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_choosethechildwiththetinoforangejuice</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchthetin</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g2">
+		<phrasegroup id="DEMO">
+			<phrase>3_thisthreedshapeisacylinder</phrase>
+			<phrase>3_thissayscylinder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthecylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchthecylinder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h2">
+		<phrasegroup id="DEMO">
+			<phrase>3_look</phrase>
+			<phrase>3_ithasaflatfacehere</phrase>
+			<phrase>3_andhere</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_thispartiscurved</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h3">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchaflatface</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchaflatface</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_square</phrase>
+			<phrase>3_rectangle</phrase>
+			<phrase>3_triangle</phrase>
+			<phrase>3_circle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i2">
+		<phrasegroup id="PROMPT">
+			<phrase>3_whichonematchestheflatfaceofthecylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_whichshapematchestheflatfaceofthecylinder</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_yesthefaceisacircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_whichshapematchestheflatfaceofthecylinder</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="DEMO">
+			<phrase>3_soletscheckagain</phrase>
+			<phrase>3_twoflatfaces</phrase>
+			<phrase>3_thispartiscurved_3j</phrase>
+			<phrase>3_thetwoflatfacesarecirclestheyarethesamesize</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthecylindertoputitaway</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_nowtouchthecylindertoputitaway</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_soletsseewhatshapesyoucanfindattheparty</phrase>
+			<phrase>3_choosetwospheres</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchtwospheres</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_thatsnotasphere</phrase>
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_findtwocylinders</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_findtwocylinders</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_thatsnotacylinder</phrase>
+			<phrase>3_lookagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthecake</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchthecake</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n2">
+		<phrasegroup id="DEMO">
+			<phrase>3_lilyissixtoday</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n3">
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthecaketoputsixcandlesonit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_touchthecake</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n4">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookatthecake</phrase>
+			<phrase>3_howmanycylinderscanyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO.REPEAT">
+			<phrase>3_howmanycylinderscanyousee</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n5">
+		<phrasegroup id="PROMPT">
+			<phrase>3_countthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthenchoosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_lookagain</phrase>
+			<phrase>3_howmanycylinderscanyousee</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_welldone</phrase>
+			<phrase>3_thecakeisacylinder</phrase>
+			<phrase>3_soiseachcandle</phrase>
+			<phrase>3_thatmakessevencylindersaltogether</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthecaketolightthecandles</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_nowtouchthecaketolightthecandles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_verygoodyoumetthesphereandthecylindertheyarethreedshapes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="magic_harp_2">
+			<phrase>magic_harp_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_shrink">
+			<phrase>object_shrink</phrase>
+		</phrasegroup>
+		<phrasegroup id="object_grow_1">
+			<phrase>object_grow_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="cube_rotate_1">
+			<phrase>cube_rotate_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note1">
+			<phrase>note_beepey_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="note2">
+			<phrase>note_beepey_2</phrase>
+		</phrasegroup>
+		<phrasegroup id="note3">
+			<phrase>note_beepey_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="note4">
+			<phrase>note_beepey_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="text">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="candle">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="light">
+			<phrase>ping4</phrase>
+		</phrasegroup>
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

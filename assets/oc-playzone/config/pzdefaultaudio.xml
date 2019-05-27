@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20170801.091557195">
+	<event id="playzone_1">
+		<phrasegroup id="DEMO">
+			<phrase>pz_thisistheplayarea</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>pz_thearrowwilltakeyoubacktothestudyarea</phrase>
+			<phrase>pz_choosewhatyoudliketodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="playzone_default">
+		<phrasegroup id="DEMO">
+			<phrase>pz_thisistheplayarea</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>pz_thearrowwilltakeyoubacktothestudyarea</phrase>
+			<phrase>pz_choosewhatyoudliketodo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="lid_open">
+			<phrase>cf_door_creak_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="lid_close">
+			<phrase>click_double_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="bubbles_pop">
+			<phrase>pop_combined</phrase>
+		</phrasegroup>
+		<phrasegroup id="bubble_touched">
+			<phrase>pop_water_droplet_2</phrase>
+		</phrasegroup>
+	</event>
+</audio>

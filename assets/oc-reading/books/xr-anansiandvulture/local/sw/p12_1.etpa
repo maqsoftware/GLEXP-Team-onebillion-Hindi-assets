@@ -1,0 +1,32 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/p12_1.aif</url>
+	<relurl>p12_1.aif</relurl>
+	<timings text="Anansi alikasirika sana. Lakini Sungura alifurahi. Alilipata shamba lake tena mwishowe. Anansi mchoyo akabaki masikini na asiye na pa kukaa. Na hakukuwa na rafiki yeyote." frames="729228">
+		<timing id="0" start="0.250" end="1.010" startframe="11015" framelength="33544" text="Anansi"/>
+		<timing id="1" start="1.010" end="1.800" startframe="44559" framelength="34804" text="alikasirika"/>
+		<timing id="2" start="1.800" end="2.346" startframe="79363" framelength="24116" text="sana"/>
+		<timing id="3" start="2.891" end="3.399" startframe="127474" framelength="22429" text="Lakini"/>
+		<timing id="4" start="3.399" end="4.025" startframe="149903" framelength="27608" text="Sungura"/>
+		<timing id="5" start="4.025" end="5.047" startframe="177511" framelength="45047" text="alifurahi"/>
+		<timing id="6" start="5.742" end="6.692" startframe="253241" framelength="41860" text="Alilipata"/>
+		<timing id="7" start="6.692" end="7.055" startframe="295101" framelength="16035" text="shamba"/>
+		<timing id="8" start="7.055" end="7.395" startframe="311136" framelength="14974" text="lake"/>
+		<timing id="9" start="7.395" end="7.741" startframe="326110" framelength="15269" text="tena"/>
+		<timing id="10" start="7.741" end="8.461" startframe="341379" framelength="31738" text="mwishowe"/>
+		<timing id="11" start="8.817" end="9.471" startframe="388848" framelength="28805" text="Anansi"/>
+		<timing id="12" start="9.471" end="10.078" startframe="417653" framelength="26799" text="mchoyo"/>
+		<timing id="13" start="10.078" end="10.709" startframe="444452" framelength="27804" text="akabaki"/>
+		<timing id="14" start="10.709" end="11.510" startframe="472256" framelength="35321" text="masikini"/>
+		<timing id="15" start="11.885" end="12.112" startframe="524147" framelength="10001" text="na"/>
+		<timing id="16" start="12.112" end="12.417" startframe="534148" framelength="13450" text="asiye"/>
+		<timing id="17" start="12.417" end="12.635" startframe="547598" framelength="9587" text="na"/>
+		<timing id="18" start="12.635" end="12.809" startframe="557185" framelength="7671" text="pa"/>
+		<timing id="19" start="12.809" end="13.436" startframe="564856" framelength="27691" text="kukaa"/>
+		<timing id="20" start="14.080" end="14.391" startframe="620937" framelength="13709" text="Na"/>
+		<timing id="21" start="14.391" end="15.028" startframe="634646" framelength="28077" text="hakukuwa"/>
+		<timing id="22" start="15.028" end="15.184" startframe="662723" framelength="6898" text="na"/>
+		<timing id="23" start="15.184" end="15.719" startframe="669621" framelength="23603" text="rafiki"/>
+		<timing id="24" start="15.719" end="16.380" startframe="693224" framelength="29125" text="yeyote"/>
+	</timings>
+</xml>

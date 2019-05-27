@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-learningtobekindSW-0/_processed/p12_2.aif</url>
+	<relurl>p12_2.aif</relurl>
+	<timings text="Ramila alikubali. “Ikiwa naye atasaidia pia, hamna shida.” " frames="247534">
+		<timing id="0" start="0.000" end="0.577" startframe="0" framelength="25456" text="Ramila"/>
+		<timing id="1" start="0.577" end="1.497" startframe="25456" framelength="40564" text="alikubali"/>
+		<timing id="2" start="1.860" end="2.306" startframe="82016" framelength="19661" text="Ikiwa"/>
+		<timing id="3" start="2.306" end="3.007" startframe="101677" framelength="30917" text="naye"/>
+		<timing id="4" start="3.125" end="4.058" startframe="137797" framelength="41147" text="atasaidia"/>
+		<timing id="5" start="4.058" end="4.551" startframe="178944" framelength="21755" text="pia"/>
+		<timing id="6" start="4.812" end="5.195" startframe="212198" framelength="16895" text="hamna"/>
+		<timing id="7" start="5.195" end="5.613" startframe="229093" framelength="18441" text="shida"/>
+	</timings>
+</xml>

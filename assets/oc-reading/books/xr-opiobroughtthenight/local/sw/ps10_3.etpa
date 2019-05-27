@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-opiobroughtthenightSW-0/_processed/ps10_3.aif</url>
+	<relurl>ps10_3.aif</relurl>
+	<timings text="“Ni usiku,” Omi alijibu." frames="225308">
+		<timing id="0" start="0.000" end="0.531" startframe="0" framelength="23413" text="Ni"/>
+		<timing id="1" start="1.229" end="2.129" startframe="54179" framelength="39689" text="usiku"/>
+		<timing id="2" start="2.951" end="3.559" startframe="130122" framelength="26824" text="Omi"/>
+		<timing id="3" start="4.197" end="5.109" startframe="185103" framelength="40205" text="alijibu"/>
+	</timings>
+</xml>

@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/ xr-savedbythestormSW-0/_processed/p11_1.aif</url>
+	<relurl>p11_1.aif</relurl>
+	<timings text="Mawimbi yalipiga lile jahazi kwa nguvu sana mpaka wavu ikachanika. Samaki walitoroka na kurejea baharini. Kimbunga kilipelekea wao kuwa huru!" frames="624196">
+		<timing id="0" start="0.000" end="0.502" startframe="0" framelength="22131" text="Mawimbi"/>
+		<timing id="1" start="0.502" end="1.392" startframe="22131" framelength="39251" text="yalipiga"/>
+		<timing id="2" start="1.392" end="1.680" startframe="61382" framelength="12688" text="lile"/>
+		<timing id="3" start="1.680" end="2.203" startframe="74070" framelength="23080" text="jahazi"/>
+		<timing id="4" start="2.203" end="2.444" startframe="97150" framelength="10610" text="kwa"/>
+		<timing id="5" start="2.444" end="2.772" startframe="107760" framelength="14499" text="nguvu"/>
+		<timing id="6" start="2.772" end="3.437" startframe="122259" framelength="29319" text="sana"/>
+		<timing id="7" start="3.583" end="4.167" startframe="158030" framelength="25732" text="mpaka"/>
+		<timing id="8" start="4.167" end="4.860" startframe="183762" framelength="30574" text="wavu"/>
+		<timing id="9" start="5.046" end="6.003" startframe="222508" framelength="42230" text="ikachanika"/>
+		<timing id="10" start="6.657" end="7.562" startframe="293569" framelength="39928" text="Samaki"/>
+		<timing id="11" start="7.562" end="8.354" startframe="333497" framelength="34932" text="walitoroka"/>
+		<timing id="12" start="8.354" end="8.532" startframe="368429" framelength="7832" text="na"/>
+		<timing id="13" start="8.532" end="9.061" startframe="376261" framelength="23323" text="kurejea"/>
+		<timing id="14" start="9.061" end="9.825" startframe="399584" framelength="33689" text="baharini"/>
+		<timing id="15" start="10.418" end="11.414" startframe="459413" framelength="43949" text="Kimbunga"/>
+		<timing id="16" start="11.424" end="12.616" startframe="503810" framelength="52547" text="kilipelekea"/>
+		<timing id="17" start="12.850" end="13.294" startframe="566682" framelength="19590" text="wao"/>
+		<timing id="18" start="13.294" end="13.671" startframe="586272" framelength="16598" text="kuwa"/>
+		<timing id="19" start="13.671" end="14.154" startframe="602870" framelength="21326" text="huru"/>
+	</timings>
+</xml>

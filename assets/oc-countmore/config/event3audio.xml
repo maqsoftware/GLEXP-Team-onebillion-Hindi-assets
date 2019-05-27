@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_lookattheshoes</phrase>
+			<phrase>3_iwillcountthemintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_six</phrase>
+			<phrase>3_eight</phrase>
+			<phrase>3_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>3_tenshoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="DEMO">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_counttheseshoeswithmeintwos</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_six</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyshoesarethere</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_sixshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyshoesarethere</phrase>
+			<phrase>3_countintwos</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="DEMO">
+			<phrase>3_moreshoesletscount</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two</phrase>
+			<phrase>3_four</phrase>
+			<phrase>3_six</phrase>
+			<phrase>3_eight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyshoesarethere</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eightshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyshoesarethere</phrase>
+			<phrase>3_countintwos</phrase>
+			<phrase>3_thentouchthenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowcountthesesockswithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3d</phrase>
+			<phrase>3_four_3d</phrase>
+			<phrase>3_six_3d</phrase>
+			<phrase>3_eight_3d</phrase>
+			<phrase>3_ten_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanysocksarethere</phrase>
+			<phrase>3_touchthenumber_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_tensocks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanysocksarethere</phrase>
+			<phrase>3_countintwos_3d</phrase>
+			<phrase>3_thentouchthenumber_3d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="DEMO">
+			<phrase>3_howmanysocksaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3d</phrase>
+			<phrase>3_four_3d</phrase>
+			<phrase>3_six_3d</phrase>
+			<phrase>3_eight_3d</phrase>
+			<phrase>3_ten_3d</phrase>
+			<phrase>3_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanysocksarethere</phrase>
+			<phrase>3_touchthenumber_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twelvesocks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanysocksarethere</phrase>
+			<phrase>3_countintwos_3d</phrase>
+			<phrase>3_thentouchthenumber_3d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="DEMO">
+			<phrase>3_someglovestocount</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3f</phrase>
+			<phrase>3_four_3f</phrase>
+			<phrase>3_six_3f</phrase>
+			<phrase>3_eight_3f</phrase>
+			<phrase>3_ten_3f</phrase>
+			<phrase>3_twelve_3f</phrase>
+			<phrase>3_fourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_nowtouchthenumber_3f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyglovesarethere</phrase>
+			<phrase>3_touchthenumber_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_fourteengloves</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyglovesarethere</phrase>
+			<phrase>3_countintwos_3f</phrase>
+			<phrase>3_thentouchthenumber_3f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="DEMO">
+			<phrase>3_andmoregloves</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3f</phrase>
+			<phrase>3_four_3f</phrase>
+			<phrase>3_six_3f</phrase>
+			<phrase>3_eight_3f</phrase>
+			<phrase>3_ten_3f</phrase>
+			<phrase>3_twelve_3f</phrase>
+			<phrase>3_fourteen</phrase>
+			<phrase>3_sixteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber_3g</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyglovesarethere</phrase>
+			<phrase>3_touchthenumber_3g</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_sixteengloves</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyglovesarethere</phrase>
+			<phrase>3_countintwos_3f</phrase>
+			<phrase>3_thentouchthenumber_3f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="DEMO">
+			<phrase>3_counttheflowerswithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3h</phrase>
+			<phrase>3_four_3h</phrase>
+			<phrase>3_six_3h</phrase>
+			<phrase>3_eight_3h</phrase>
+			<phrase>3_ten_3h</phrase>
+			<phrase>3_twelve_3h</phrase>
+			<phrase>3_fourteen_3h</phrase>
+			<phrase>3_sixteen_3h</phrase>
+			<phrase>3_eighteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber_3h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyflowersarethere</phrase>
+			<phrase>3_touchthenumber_3h</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eighteenflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyflowersarethere</phrase>
+			<phrase>3_countintwos_3h</phrase>
+			<phrase>3_thentouchthenumber_3h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowtherearemoreflowersletscountagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_two_3h</phrase>
+			<phrase>3_four_3h</phrase>
+			<phrase>3_six_3h</phrase>
+			<phrase>3_eight_3h</phrase>
+			<phrase>3_ten_3h</phrase>
+			<phrase>3_twelve_3h</phrase>
+			<phrase>3_fourteen_3h</phrase>
+			<phrase>3_sixteen_3h</phrase>
+			<phrase>3_eighteen</phrase>
+			<phrase>3_twenty</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_touchthenumber_3h</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyflowersarethere</phrase>
+			<phrase>3_touchthenumber_3h</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twentyflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_howmanyflowersarethere</phrase>
+			<phrase>3_countintwos_3h</phrase>
+			<phrase>3_thentouchthenumber_3h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="DEMO">
+			<phrase>3_howmanycandlesarethere</phrase>
+			<phrase>3_seeifyoucancountintwosbyyourself</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_thentouchthenumber_3j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthecandlesintwos</phrase>
+			<phrase>3_thentouchthenumber_3j</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_fourcandles</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycandlesaretherethistime</phrase>
+			<phrase>3_countintwos_3k</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthecandlesintwos</phrase>
+			<phrase>3_thentouchthenumber_3j</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eightcandles</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanylollipopsarethere</phrase>
+			<phrase>3_countintwos_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthelollipopsintwos</phrase>
+			<phrase>3_thentouchthenumber_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_sixlollipops</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanylollipopsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthelollipopsintwos</phrase>
+			<phrase>3_thentouchthenumber_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twelvelollipops</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3l</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyspoonsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthespoonsintwos</phrase>
+			<phrase>3_thentouchthenumber_3n</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_tenspoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3n</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyspoonsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthespoonsintwos</phrase>
+			<phrase>3_thentouchthenumber_3n</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_sixteenspoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3n</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyforksarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_counttheforksintwos</phrase>
+			<phrase>3_thentouchthenumber_3p</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eightforks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3p</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyforksaretherethistime</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_counttheforksintwos</phrase>
+			<phrase>3_thentouchthenumber_3p</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_eighteenforks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3p</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanypensarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthepensintwos</phrase>
+			<phrase>3_thentouchthenumber_3r</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_fourteenpens</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3r</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanypensaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_countthepensintwos</phrase>
+			<phrase>3_thentouchthenumber_3r</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twentypens</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagainintwos_3r</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_goodyoucountedthingsintwosuptotwenty</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p0_1.aif</url>
+	<relurl>p0_1.aif</relurl>
+	<timings text="Mbu msumbufu" frames="47684">
+		<timing id="0" start="0.000" end="0.336" startframe="0" framelength="14798" text="Mbu"/>
+		<timing id="1" start="0.336" end="1.081" startframe="14798" framelength="32886" text="msumbufu"/>
+	</timings>
+</xml>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180108.125053290">
+	<event id="4a">
+		<phrasegroup id="DEMO">
+			<phrase>4_lookthisbuttonputstenthingsonthescreen</phrase>
+			<phrase>4_ten</phrase>
+			<phrase>4_twenty</phrase>
+			<phrase>4_twentystrawberries</phrase>
+			<phrase>4_thetwoshowsthattherearetwosetsoftenstrawberries</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4b">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_showthirtyfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showthirtyfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4b</phrase>
+			<phrase>4_twenty_4b</phrase>
+			<phrase>4_thirty</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_thethreeshowsthattherearethreesetsoftenfish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showfiftylemons</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showfiftylemons</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4c</phrase>
+			<phrase>4_twenty_4c</phrase>
+			<phrase>4_thirty_4c</phrase>
+			<phrase>4_forty</phrase>
+			<phrase>4_fifty</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_thefiveshowsthattherearefivesetsoftenlemons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4d">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showseventychocolates</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showseventychocolates</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4d</phrase>
+			<phrase>4_twenty_4d</phrase>
+			<phrase>4_thirty_4d</phrase>
+			<phrase>4_forty_4d</phrase>
+			<phrase>4_fifty_4d</phrase>
+			<phrase>4_sixty</phrase>
+			<phrase>4_seventy</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_thesevenshowsthattherearesevensetsoftenchocolates</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4e">
+		<phrasegroup id="DEMO">
+			<phrase>4_thisbuttonputsonethingonscreen</phrase>
+			<phrase>4_iwantsixteenstrawberrieswatch</phrase>
+			<phrase>4_ten_4e</phrase>
+			<phrase>4_eleven</phrase>
+			<phrase>4_twelve</phrase>
+			<phrase>4_thirteen</phrase>
+			<phrase>4_fourteen</phrase>
+			<phrase>4_fifteen</phrase>
+			<phrase>4_sixteen</phrase>
+			<phrase>4_thisshowsthattheresonesetoftenstrawberries</phrase>
+			<phrase>4_thisshowsthattherearesixsinglestrawberriesitissixunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4f">
+		<phrasegroup id="PROMPT">
+			<phrase>4_yourturn</phrase>
+			<phrase>4_showthirteenbirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showthirteenbirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_choosethetensbuttonfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_youhaveenoughtens</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_eleven_4f</phrase>
+			<phrase>4_twelve_4f</phrase>
+			<phrase>4_thirteen_4f</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_onesetoften</phrase>
+			<phrase>4_andthreeunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4g">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showtwentyfiveflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showtwentyfiveflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4g</phrase>
+			<phrase>4_twenty_4g</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_youhaveenoughtens</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_twentyone</phrase>
+			<phrase>4_twentytwo</phrase>
+			<phrase>4_twentythree</phrase>
+			<phrase>4_twentyfour</phrase>
+			<phrase>4_twentyfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_twosetsoften</phrase>
+			<phrase>4_andfiveunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4h">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thistimeshowthirtysevenladybirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showthirtysevenladybirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4h</phrase>
+			<phrase>4_twenty_4h</phrase>
+			<phrase>4_thirty_4h</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_youhaveenoughtens</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_thirtyone</phrase>
+			<phrase>4_thirtytwo</phrase>
+			<phrase>4_thirtythree</phrase>
+			<phrase>4_thirtyfour</phrase>
+			<phrase>4_thirtyfive</phrase>
+			<phrase>4_thirtysix</phrase>
+			<phrase>4_thirtyseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_threesetsoften</phrase>
+			<phrase>4_andsevenunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4i">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showfortytwostars</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showfortytwostars</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4i</phrase>
+			<phrase>4_twenty_4i</phrase>
+			<phrase>4_thirty_4i</phrase>
+			<phrase>4_forty_4i</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_youhaveenoughtens</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_fortyone</phrase>
+			<phrase>4_fortytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_fourtens</phrase>
+			<phrase>4_andtwounits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4j">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showfiftysixsquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showfiftysixsquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_ten_4j</phrase>
+			<phrase>4_twenty_4j</phrase>
+			<phrase>4_thirty_4j</phrase>
+			<phrase>4_forty_4j</phrase>
+			<phrase>4_fifty_4j</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_youhaveenoughtens</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>4_fiftyone</phrase>
+			<phrase>4_fiftytwo</phrase>
+			<phrase>4_fiftythree</phrase>
+			<phrase>4_fiftyfour</phrase>
+			<phrase>4_fiftyfive</phrase>
+			<phrase>4_fiftysix</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO">
+			<phrase>4_fivetens</phrase>
+			<phrase>4_andsixunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale4j">
+		<phrasegroup id="DEMO">
+			<phrase>4_verygoodyoulearnedabouttensandunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4k">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_thirtyfour_4k</phrase>
+			<phrase>4_iwillshowthirtyfourbeads</phrase>
+			<phrase>4_allthetensfirst</phrase>
+			<phrase>4_thirtyfourbeads</phrase>
+			<phrase>4_threetens</phrase>
+			<phrase>4_andfourunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4l">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn_4l</phrase>
+			<phrase>4_showtwentythreebeads</phrase>
+			<phrase>4_ifyoumakeamistaketouchthebeads</phrase>
+			<phrase>4_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showtwentythreebeads</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_matchthetensandunitsinthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twentythreebeads</phrase>
+			<phrase>4_twotens</phrase>
+			<phrase>4_andthreeunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4m">
+		<phrasegroup id="PROMPT">
+			<phrase>4_showthirtyeightbeads</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showthirtyeightbeads</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_matchthetensandunitsinthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thirtyeightbeads</phrase>
+			<phrase>4_threetens</phrase>
+			<phrase>4_andeightunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4n">
+		<phrasegroup id="PROMPT">
+			<phrase>4_dothesameforfortytwo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showbeadstomatchthenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_matchthetensandunitsinthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fortytwobeads</phrase>
+			<phrase>4_fourtens</phrase>
+			<phrase>4_andtwounits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4o">
+		<phrasegroup id="PROMPT">
+			<phrase>4_anothernumberforyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showbeadstomatchthenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_matchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fiftyfivebeads</phrase>
+			<phrase>4_fivetens</phrase>
+			<phrase>4_andfiveunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4p">
+		<phrasegroup id="PROMPT">
+			<phrase>4_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showbeadstomatchthenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_showallthetensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sixtyonebeads</phrase>
+			<phrase>4_sixtens</phrase>
+			<phrase>4_andoneunit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4q">
+		<phrasegroup id="PROMPT">
+			<phrase>4_andanother</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showbeadstomatchthenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_elevenbeads</phrase>
+			<phrase>4_oneten</phrase>
+			<phrase>4_andoneunit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4r">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_showbeadstomatchthenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>4_matchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_sevenbeads</phrase>
+			<phrase>4_notenssevenunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale4r">
+		<phrasegroup id="DEMO">
+			<phrase>4_greatyoupractisedtensandunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4s">
+		<phrasegroup id="DEMO">
+			<phrase>4_letstypesomenumbers</phrase>
+			<phrase>4_fifteenbeads</phrase>
+			<phrase>4_onesetoften_4s</phrase>
+			<phrase>4_one</phrase>
+			<phrase>4_andfivebeads</phrase>
+			<phrase>4_five</phrase>
+			<phrase>4_fifteen_4s</phrase>
+			<phrase>4_oneten</phrase>
+			<phrase>4_andfiveunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4t">
+		<phrasegroup id="DEMO">
+			<phrase>4_yourturn_4t</phrase>
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumbertensfirst</phrase>
+			<phrase>4_ifyoumakeamistaketouchthenumber</phrase>
+			<phrase>4_whenyouhavefinishedtouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+			<phrase>4_typethenumbertensfirst</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_twentythree_4t</phrase>
+			<phrase>4_twotens</phrase>
+			<phrase>4_andthreeunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4u">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanybeadsnow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE">
+			<phrase>4_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_seventeen</phrase>
+			<phrase>4_oneten</phrase>
+			<phrase>4_andsevenunits_4u</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4v">
+		<phrasegroup id="PROMPT">
+			<phrase>4_howmanynow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_thirtyfive_4v</phrase>
+			<phrase>4_threetens</phrase>
+			<phrase>4_andfiveunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4w">
+		<phrasegroup id="PROMPT">
+			<phrase>4_andnow</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_typeagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fortyseven</phrase>
+			<phrase>4_fourtens</phrase>
+			<phrase>4_andsevenunits_4u</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4x">
+		<phrasegroup id="PROMPT">
+			<phrase>4_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_typeagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fifty_4x</phrase>
+			<phrase>4_fivetens</phrase>
+			<phrase>4_andnounits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4y">
+		<phrasegroup id="PROMPT">
+			<phrase>4_thelastone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>4_howmanybeadsarethere</phrase>
+			<phrase>4_typethenumber</phrase>
+			<phrase>4_thentouchthebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>4_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>4_fiftyfive_4y</phrase>
+			<phrase>4_fivetens</phrase>
+			<phrase>4_andfiveunits</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>4_verygoodyoucountedandtypedthenumbers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="10ns_btn">
+			<phrase>tens_button</phrase>
+		</phrasegroup>
+		<phrasegroup id="1ns_btn">
+			<phrase>units_button</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop">
+			<phrase>pop_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="slide">
+			<phrase>cello_slide_low_short</phrase>
+		</phrasegroup>
+		<phrasegroup id="1ns_button_on">
+			<phrase>1s_button_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutter_on">
+			<phrase>peel2</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutter_off">
+			<phrase>shutteropening</phrase>
+		</phrasegroup>
+		<phrasegroup id="pop_on">
+			<phrase>ping_5</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>number_on</phrase>
+		</phrasegroup>
+		<phrasegroup id="type">
+			<phrase>keyboard_click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

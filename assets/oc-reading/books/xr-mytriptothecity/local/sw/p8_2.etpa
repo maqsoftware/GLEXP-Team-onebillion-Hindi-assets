@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-mytriptothecitySW-0/_processed/p8_2.aif</url>
+	<relurl>p8_2.aif</relurl>
+	<timings text="Nililipenda sana, nikasahau kila kitu." frames="147879">
+		<timing id="0" start="0.000" end="0.739" startframe="0" framelength="32607" text="Nililipenda"/>
+		<timing id="1" start="0.739" end="1.389" startframe="32607" framelength="28628" text="sana"/>
+		<timing id="2" start="1.764" end="2.556" startframe="77778" framelength="34933" text="nikasahau"/>
+		<timing id="3" start="2.556" end="2.939" startframe="112711" framelength="16903" text="kila"/>
+		<timing id="4" start="2.939" end="3.353" startframe="129614" framelength="18265" text="kitu"/>
+	</timings>
+</xml>

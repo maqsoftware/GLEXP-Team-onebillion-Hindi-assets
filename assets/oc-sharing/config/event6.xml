@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="6a,6b,6c,6d,6e,6f,6g,6h,6i" colour="180,224,237" >
+		<vector id="background_cloud_1" pos="0.29113,0.240061" src="cloud" zpos="0.002" opacity="0.7" />
+		<vector id="background_cloud_2" pos="0.785103,0.224284" src="cloud" zpos="0.001" opacity="0.7" />
+		<vector id="background_cloud_3" pos="0.603893,0.112935" src="cloud" scalex="-1" scaley="1" zpos="0" opacity="0.7" />
+		<path id="background_hills" pos="0.510022,0.681717" src="background_hills" fill="220,221,160" zpos="0.003" d="M-0.02539 0.3796c0 0 0.392 0.172 0.522 0.0756c0.0608-0.0451 0.44-0.126 0.523-0.114c0.0263 0.00356 0.014 0.688 0.0136 0.688c-0.00042 0.000331-1.04 0.00411-1.04 0.00445c-0.000477 0.000331-0.0157-0.654-0.0157-0.654Z" />
+		<vector id="container_left" pos="0.168945,0.676178" src="6_area_left" zpos="1.003" />
+		<vector id="container_middle" pos="0.500977,0.676178" src="6_area_middle" zpos="1.002" />
+		<vector id="container_right" pos="0.838867,0.676178" src="6_area_right" zpos="1.001" />
+		<image id="smoke" pos="0.135796,0.131994" src="smoke" zpos="1" />
+		<vector id="button" pos="0.0671995,0.920306" src="6_button" scalex="0.894124" scaley="0.894124" zpos="2.001" />
+		<vector id="button_food" pos="0.500065,0.920306" src="6_food_button" scalex="0.465573" scaley="0.465573" zpos="2" />
+		<rectangle id="score" pos="0.926277,0.920306" src="score" fill="255,255,255" stroke="230,33,0" strokewidth="5" linecap="round" linejoin="round" zpos="2.002" widthtracksheight="true" x="0.874023" y="0.871076" width="0.104507" height="0.0984599" pxwidth="107.016" pxheight="75.6172" cornerradius="0.0981746" />
+	</event>
+	<event id="yellow_walking" >
+		<vector id="dragon_1" pos="0.191406,0.389974" src="6_dragon_yellow_walking" zpos="0" dragon="yellow" />
+	</event>
+	<event id="green_walking" >
+		<vector id="dragon_2" pos="0.510742,0.376302" src="6_dragon_green_walking" zpos="0" dragon="green" />
+	</event>
+	<event id="orange_walking" >
+		<vector id="dragon_3" pos="0.845703,0.389974" src="6_dragon_orange_walking" zpos="0" dragon="orange" />
+	</event>
+	<event id="yellow" >
+		<vector id="dragon_1" pos="0.191406,0.389974" src="6_dragon_yellow" zpos="0" dragon="yellow" />
+	</event>
+	<event id="green" >
+		<vector id="dragon_2" pos="0.510742,0.376302" src="6_dragon_green" zpos="0" dragon="green" />
+	</event>
+	<event id="orange" >
+		<vector id="dragon_3" pos="0.845703,0.389974" src="6_dragon_orange" zpos="0" dragon="orange" />
+	</event>
+	<event id="6a" sound="food_cabbage" food="0,3,0" increment="2" >
+		<vector id="object_1" pos="0.271484,0.253501" parent="container_middle" src="6_cabbage" zpos="5" />
+		<vector id="object_2" pos="0.741026,0.253667" parent="container_middle" src="6_cabbage" zpos="5.002" />
+		<vector id="object_3" pos="0.499382,0.701264" parent="container_middle" src="6_cabbage" zpos="5.001" />
+		<vector id="place_1" pos="0.294582,0.272656" parent="container_left" src="6_cabbage" zpos="5.003" />
+		<vector id="place_2" pos="0.518233,0.714172" parent="container_left" src="6_cabbage" zpos="5.004" />
+		<vector id="place_3" pos="0.761585,0.27282" parent="container_left" src="6_cabbage" zpos="5.005" />
+		<vector id="place_4" pos="0.251211,0.302478" parent="container_right" src="6_cabbage" zpos="5.006" />
+		<vector id="place_5" pos="0.491263,0.732007" parent="container_right" src="6_cabbage" zpos="5.007" />
+		<vector id="place_6" pos="0.752461,0.302637" parent="container_right" src="6_cabbage" zpos="5.008" />
+	</event>
+	<event id="6b" sound="food_carrot" food="3,2,1" increment="2" >
+		<vector id="object_1" pos="0.240174,0.232049" parent="container_left" src="6_carrot" zpos="5.012" />
+		<vector id="object_2" pos="0.769798,0.486119" parent="container_left" src="6_carrot" zpos="5.016" />
+		<vector id="object_3" pos="0.26258,0.833376" parent="container_left" src="6_carrot" zpos="5.014" />
+		<vector id="object_4" pos="0.61966,0.225973" parent="container_middle" src="6_carrot" zpos="5.003" />
+		<vector id="object_5" pos="0.309855,0.79811" parent="container_middle" src="6_carrot" zpos="5.002" />
+		<vector id="object_6" pos="0.724609,0.486196" parent="container_right" src="6_carrot" zpos="5.01" />
+		<vector id="place_1" pos="0.659513,0.230977" parent="container_left" src="6_carrot" zpos="5.015" />
+		<vector id="place_2" pos="0.302213,0.51686" parent="container_left" src="6_carrot" zpos="5.013" />
+		<vector id="place_3" pos="0.769216,0.795767" parent="container_left" src="6_carrot" zpos="5.017" />
+		<vector id="place_4" pos="0.22613,0.204691" parent="container_middle" src="6_carrot" zpos="5" />
+		<vector id="place_5" pos="0.211828,0.518186" parent="container_middle" src="6_carrot" zpos="5.001" />
+		<vector id="place_6" pos="0.772041,0.451706" parent="container_middle" src="6_carrot" zpos="5.004" />
+		<vector id="place_7" pos="0.743893,0.77517" parent="container_middle" src="6_carrot" zpos="5.005" />
+		<vector id="place_8" pos="0.235326,0.23715" parent="container_right" src="6_carrot" zpos="5.006" />
+		<vector id="place_9" pos="0.624271,0.217" parent="container_right" src="6_carrot" zpos="5.009" />
+		<vector id="place_10" pos="0.253242,0.519779" parent="container_right" src="6_carrot" zpos="5.007" />
+		<vector id="place_11" pos="0.326849,0.796186" parent="container_right" src="6_carrot" zpos="5.008" />
+		<vector id="place_12" pos="0.780703,0.786588" parent="container_right" src="6_carrot" zpos="5.011" />
+	</event>
+	<event id="6c" sound="food_turnip" food="5,0,1" increment="2" >
+		<vector id="object_1" pos="0.200408,0.716733" parent="container_left" src="6_turnip" zpos="5.005" />
+		<vector id="object_2" pos="0.199364,0.255578" parent="container_left" src="6_turnip" zpos="5" />
+		<vector id="object_3" pos="0.493364,0.187827" parent="container_left" src="6_turnip" zpos="5.001" />
+		<vector id="object_4" pos="0.538128,0.630541" parent="container_left" src="6_turnip" zpos="5.004" />
+		<vector id="object_5" pos="0.82041,0.216606" parent="container_left" src="6_turnip" zpos="5.002" />
+		<vector id="object_6" pos="0.171719,0.26034" parent="container_right" src="6_turnip" zpos="5.012" />
+		<vector id="place_1" pos="0.811202,0.761719" parent="container_left" src="6_turnip" zpos="5.003" />
+		<vector id="place_2" pos="0.211135,0.196326" parent="container_middle" src="6_turnip" zpos="5.006" />
+		<vector id="place_3" pos="0.194954,0.720132" parent="container_middle" src="6_turnip" zpos="5.011" />
+		<vector id="place_4" pos="0.514092,0.765607" parent="container_middle" src="6_turnip" zpos="5.01" />
+		<vector id="place_5" pos="0.490296,0.308557" parent="container_middle" src="6_turnip" zpos="5.007" />
+		<vector id="place_6" pos="0.78837,0.211693" parent="container_middle" src="6_turnip" zpos="5.008" />
+		<vector id="place_7" pos="0.79376,0.625553" parent="container_middle" src="6_turnip" zpos="5.009" />
+		<vector id="place_8" pos="0.21668,0.743389" parent="container_right" src="6_turnip" zpos="5.017" />
+		<vector id="place_9" pos="0.539518,0.659502" parent="container_right" src="6_turnip" zpos="5.016" />
+		<vector id="place_10" pos="0.491471,0.207844" parent="container_right" src="6_turnip" zpos="5.013" />
+		<vector id="place_11" pos="0.799505,0.246924" parent="container_right" src="6_turnip" zpos="5.014" />
+		<vector id="place_12" pos="0.858932,0.746023" parent="container_right" src="6_turnip" zpos="5.015" />
+	</event>
+	<event id="6d" sound="food_cucumber" food="4,4,1" increment="2" >
+		<vector id="object_1" pos="0.324037,0.216388" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.003" />
+		<vector id="object_2" pos="0.756514,0.274291" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.004" />
+		<vector id="object_3" pos="0.230663,0.747892" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.001" />
+		<vector id="object_4" pos="0.737286,0.594967" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.005" />
+		<vector id="object_5" pos="0.308309,0.208874" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.009" />
+		<vector id="object_6" pos="0.732583,0.271097" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.01" />
+		<vector id="object_7" pos="0.260915,0.465544" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.008" />
+		<vector id="object_8" pos="0.21938,0.787754" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.007" />
+		<vector id="object_9" pos="0.249609,0.483721" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.014" />
+		<vector id="place_1" pos="0.674423,0.833049" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5" />
+		<vector id="place_2" pos="0.735624,0.576393" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.011" />
+		<vector id="place_3" pos="0.665348,0.814343" parent="container_middle" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.006" />
+		<vector id="place_4" pos="0.689688,0.80824" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.012" />
+		<vector id="place_5" pos="0.734062,0.29836" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.016" />
+		<vector id="place_6" pos="0.31349,0.250919" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.015" />
+		<vector id="place_7" pos="0.753828,0.586698" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.017" />
+		<vector id="place_8" pos="0.269349,0.799526" parent="container_right" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.013" />
+		<vector id="place_9" pos="0.275221,0.463626" parent="container_left" src="6_cucumber" scalex="0.65" scaley="0.65" rotation="-20" zpos="5.002" />
+	</event>
+	<event id="6e" sound="food_potato" food="5,2,2" increment="3" >
+		<vector id="object_1" pos="0.281056,0.185356" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5" />
+		<vector id="object_2" pos="0.630398,0.228979" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.005" />
+		<vector id="object_3" pos="0.357361,0.53274" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.001" />
+		<vector id="object_4" pos="0.191054,0.801363" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.002" />
+		<vector id="object_5" pos="0.653909,0.791824" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.004" />
+		<vector id="object_6" pos="0.29486,0.213757" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.006" />
+		<vector id="object_7" pos="0.342489,0.557525" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.007" />
+		<vector id="object_8" pos="0.624987,0.826181" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.016" />
+		<vector id="object_9" pos="0.231341,0.50601" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.013" />
+		<vector id="place_1" pos="0.745326,0.238211" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.017" />
+		<vector id="place_2" pos="0.792526,0.599954" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.015" />
+		<vector id="place_3" pos="0.218776,0.807763" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.014" />
+		<vector id="place_4" pos="0.40112,0.265678" parent="container_right" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.012" />
+		<vector id="place_5" pos="0.774859,0.212043" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.011" />
+		<vector id="place_6" pos="0.787406,0.79564" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.01" />
+		<vector id="place_7" pos="0.675114,0.488631" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.009" />
+		<vector id="place_8" pos="0.194373,0.806677" parent="container_middle" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.008" />
+		<vector id="place_9" pos="0.788796,0.554615" parent="container_left" src="6_potato" scalex="0.9" scaley="0.9" rotation="-20" zpos="5.003" />
+	</event>
+	<event id="6f" sound="food_onion" food="2,0,7" increment="3" >
+		<vector id="object_1" pos="0.186299,0.18443" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.016" />
+		<vector id="object_2" pos="0.504476,0.684411" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.022" />
+		<vector id="object_3" pos="0.169987,0.170231" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5" />
+		<vector id="object_4" pos="0.315911,0.447646" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.003" />
+		<vector id="object_5" pos="0.704635,0.448653" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.001" />
+		<vector id="object_6" pos="0.806068,0.141049" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.002" />
+		<vector id="object_7" pos="0.484818,0.240826" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.004" />
+		<vector id="object_8" pos="0.511497,0.68347" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.006" />
+		<vector id="object_9" pos="0.217083,0.763981" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.007" />
+		<vector id="place_1" pos="0.184928,0.826817" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.023" />
+		<vector id="place_2" pos="0.832796,0.80823" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.021" />
+		<vector id="place_3" pos="0.52186,0.234066" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.02" />
+		<vector id="place_4" pos="0.277696,0.524746" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.019" />
+		<vector id="place_5" pos="0.860418,0.183049" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.018" />
+		<vector id="place_6" pos="0.740477,0.499419" parent="container_left" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.017" />
+		<vector id="place_7" pos="0.150156,0.788289" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.015" />
+		<vector id="place_8" pos="0.496996,0.712559" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.014" />
+		<vector id="place_9" pos="0.829077,0.786741" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.013" />
+		<vector id="place_10" pos="0.547444,0.179964" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.012" />
+		<vector id="place_11" pos="0.328434,0.443304" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.011" />
+		<vector id="place_12" pos="0.816419,0.15988" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.01" />
+		<vector id="place_13" pos="0.74665,0.500461" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.009" />
+		<vector id="place_14" pos="0.182049,0.180719" parent="container_middle" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.008" />
+		<vector id="place_15" pos="0.821016,0.761489" parent="container_right" src="6_onion" scalex="1.1" scaley="1.1" zpos="5.005" />
+	</event>
+	<event id="6g" sound="food_onion" food="2,6,4" increment="3" >
+		<vector id="object_1" pos="0.209312,0.193805" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.008" />
+		<vector id="object_2" pos="0.558157,0.550273" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.012" />
+		<vector id="object_3" pos="0.215091,0.199974" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5" />
+		<vector id="object_4" pos="0.181418,0.543982" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.001" />
+		<vector id="object_5" pos="0.437945,0.264243" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.003" />
+		<vector id="object_6" pos="0.558829,0.581405" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.004" />
+		<vector id="object_7" pos="0.875457,0.555535" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.006" />
+		<vector id="object_8" pos="0.736118,0.820018" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.007" />
+		<vector id="object_9" pos="0.182552,0.523066" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.017" />
+		<vector id="object_10" pos="0.484766,0.273844" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.019" />
+		<vector id="object_11" pos="0.547617,0.65321" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.02" />
+		<vector id="object_12" pos="0.783047,0.821408" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.023" />
+		<vector id="place_1" pos="0.846536,0.525258" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.022" />
+		<vector id="place_2" pos="0.733398,0.229196" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.021" />
+		<vector id="place_3" pos="0.332083,0.823123" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.018" />
+		<vector id="place_4" pos="0.181471,0.229125" parent="container_right" src="orange" scalex="0.8" scaley="0.8" zpos="5.016" />
+		<vector id="place_5" pos="0.732143,0.810901" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.015" />
+		<vector id="place_6" pos="0.834239,0.507522" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.014" />
+		<vector id="place_7" pos="0.709724,0.221475" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.013" />
+		<vector id="place_8" pos="0.441831,0.22133" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.011" />
+		<vector id="place_9" pos="0.33743,0.800945" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.01" />
+		<vector id="place_10" pos="0.163953,0.55387" parent="container_left" src="orange" scalex="0.8" scaley="0.8" zpos="5.009" />
+		<vector id="place_11" pos="0.735203,0.223485" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.005" />
+		<vector id="place_12" pos="0.337779,0.835624" parent="container_middle" src="orange" scalex="0.8" scaley="0.8" zpos="5.002" />
+	</event>
+	<event id="6h" sound="food_onion" food="6,0,6" increment="3" >
+		<vector id="object_1" pos="0.211326,0.192533" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5" />
+		<vector id="object_2" pos="0.334967,0.47649" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.001" />
+		<vector id="object_3" pos="0.816164,0.222838" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.006" />
+		<vector id="object_4" pos="0.515249,0.762137" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.003" />
+		<vector id="object_5" pos="0.683424,0.502471" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.004" />
+		<vector id="object_6" pos="0.213631,0.763318" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.002" />
+		<vector id="object_7" pos="0.29444,0.540176" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.017" />
+		<vector id="object_8" pos="0.516107,0.753164" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.019" />
+		<vector id="object_9" pos="0.189896,0.22803" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.016" />
+		<vector id="object_10" pos="0.784492,0.228489" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.022" />
+		<vector id="object_11" pos="0.714779,0.540795" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.02" />
+		<vector id="object_12" pos="0.824141,0.820242" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.023" />
+		<vector id="place_1" pos="0.480638,0.301471" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.021" />
+		<vector id="place_2" pos="0.200651,0.820383" parent="container_right" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.018" />
+		<vector id="place_3" pos="0.823366,0.76568" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.015" />
+		<vector id="place_4" pos="0.789829,0.154758" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.014" />
+		<vector id="place_5" pos="0.498789,0.215636" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.013" />
+		<vector id="place_6" pos="0.657622,0.472085" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.012" />
+		<vector id="place_7" pos="0.497985,0.777565" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.011" />
+		<vector id="place_8" pos="0.167178,0.764777" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.01" />
+		<vector id="place_9" pos="0.311227,0.471459" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.009" />
+		<vector id="place_10" pos="0.189107,0.185915" parent="container_middle" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.008" />
+		<vector id="place_11" pos="0.81455,0.775763" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.007" />
+		<vector id="place_12" pos="0.482204,0.208031" parent="container_left" src="cupcake" scalex="0.7" scaley="0.7" zpos="5.005" />
+	</event>
+	<event id="6i" sound="food_onion" food="0,0,0" >
+	</event>
+</events>

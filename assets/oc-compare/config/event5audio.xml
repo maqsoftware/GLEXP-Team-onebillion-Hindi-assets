@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_look</phrase>
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>5_therearemorefrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>5_aretherefewerbirdsorfrogs</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO4">
+			<phrase>5_therearefewerbirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+			<phrase>5_toanswertouchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+			<phrase>5_toanswertouchabutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain</phrase>
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretheremorefishorflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremorefishorflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5c</phrase>
+			<phrase>5_aretheremorefishorflowers</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretherefewersocksorshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretherefewersocksorshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5d</phrase>
+			<phrase>5_aretherefewersocksorshoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretherefewerspoonsorknives</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretherefewerspoonsorknives</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5e</phrase>
+			<phrase>5_aretherefewerspoonsorknives</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretheremoreforksorknives</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremoreforksorknives</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5f</phrase>
+			<phrase>5_aretheremoreforksorknives</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowlookatallthisfruit</phrase>
+			<phrase>5_whicharetheremostof</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whicharetheremostof</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5g</phrase>
+			<phrase>5_whicharetheremostof</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whicharetherefewestof</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whicharetherefewestof</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5h</phrase>
+			<phrase>5_whicharetherefewestof</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whicharetheremostof_5i</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whicharetheremostof_5i</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5i</phrase>
+			<phrase>5_whicharetheremostof_5i</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whicharetherefewestof_5j</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whicharetherefewestof_5j</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5j</phrase>
+			<phrase>5_whicharetherefewestof_5j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_herethefrogsandbirdsaremixedup</phrase>
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5j</phrase>
+			<phrase>5_aretheremorefrogsorbirds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretheremoreflowersorapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremoreflowersorapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5l</phrase>
+			<phrase>5_aretheremoreflowersorapples</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretherefewerlemonsorbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretherefewerlemonsorbananas</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5m</phrase>
+			<phrase>5_aretherefewerlemonsorbananas</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5n">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretherefewershoesorsocks</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretherefewershoesorsocks</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5m</phrase>
+			<phrase>5_aretherefewershoesorsocks</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5o">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimearetheremoresocksorshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremoresocksorshoes</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5m</phrase>
+			<phrase>5_aretheremoresocksorshoes</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5p">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretherefewerorangesorfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretherefewerorangesorfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5p</phrase>
+			<phrase>5_aretherefewerorangesorfish</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5q">
+		<phrasegroup id="PROMPT">
+			<phrase>5_aretheremorepencilsorspoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_aretheremorepencilsorspoons</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5q</phrase>
+			<phrase>5_aretheremorepencilsorspoons</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5r">
+		<phrasegroup id="PROMPT">
+			<phrase>5_lookatthethreeshapes</phrase>
+			<phrase>5_whichshapearetheremostof</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichshapearetheremostof</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5r</phrase>
+			<phrase>5_whichshapearetheremostof</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5s">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichshapearetherefewestof</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>5_whichshapearetherefewestof</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_lookagain_5r</phrase>
+			<phrase>5_whichshapearetherefewestof</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>5_verygoodyoupickedoutmoreandfewerandmostandfewest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

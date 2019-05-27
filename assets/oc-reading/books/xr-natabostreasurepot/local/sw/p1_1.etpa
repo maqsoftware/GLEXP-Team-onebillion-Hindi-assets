@@ -1,0 +1,31 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-natabostreasurepotSW-0/_processed/p1_1.aif</url>
+	<relurl>p1_1.aif</relurl>
+	<timings text="Nura aliipenda sana familia yake kubwa. Lakini sio rahisi kuwa msichana pekee. Wakati mwengine alicheza mpira na kaka zake sita, lakini sio mara nyingi." frames="637680">
+		<timing id="0" start="0.000" end="0.732" startframe="0" framelength="32276" text="Nura"/>
+		<timing id="1" start="1.028" end="1.765" startframe="45317" framelength="32503" text="aliipenda"/>
+		<timing id="2" start="1.765" end="2.164" startframe="77820" framelength="17611" text="sana"/>
+		<timing id="3" start="2.164" end="2.775" startframe="95431" framelength="26932" text="familia"/>
+		<timing id="4" start="2.775" end="3.138" startframe="122363" framelength="16027" text="yake"/>
+		<timing id="5" start="3.138" end="3.758" startframe="138390" framelength="27336" text="kubwa"/>
+		<timing id="6" start="4.396" end="5.068" startframe="193844" framelength="29646" text="Lakini"/>
+		<timing id="7" start="5.068" end="5.315" startframe="223490" framelength="10900" text="sio"/>
+		<timing id="8" start="5.315" end="5.811" startframe="234390" framelength="21859" text="rahisi"/>
+		<timing id="9" start="5.811" end="6.136" startframe="256249" framelength="14342" text="kuwa"/>
+		<timing id="10" start="6.136" end="6.834" startframe="270591" framelength="30808" text="msichana"/>
+		<timing id="11" start="6.834" end="7.450" startframe="301399" framelength="27164" text="pekee"/>
+		<timing id="12" start="8.163" end="8.615" startframe="360006" framelength="19895" text="Wakati"/>
+		<timing id="13" start="8.615" end="9.444" startframe="379901" framelength="36597" text="mwengine"/>
+		<timing id="14" start="9.857" end="10.503" startframe="434702" framelength="28485" text="alicheza"/>
+		<timing id="15" start="10.503" end="10.901" startframe="463187" framelength="17569" text="mpira"/>
+		<timing id="16" start="10.901" end="11.066" startframe="480756" framelength="7267" text="na"/>
+		<timing id="17" start="11.066" end="11.353" startframe="488023" framelength="12659" text="kaka"/>
+		<timing id="18" start="11.353" end="11.698" startframe="500682" framelength="15178" text="zake"/>
+		<timing id="19" start="11.698" end="12.224" startframe="515860" framelength="23226" text="sita"/>
+		<timing id="20" start="12.912" end="13.396" startframe="569409" framelength="21333" text="lakini"/>
+		<timing id="21" start="13.396" end="13.697" startframe="590742" framelength="13302" text="sio"/>
+		<timing id="22" start="13.697" end="14.009" startframe="604044" framelength="13759" text="mara"/>
+		<timing id="23" start="14.009" end="14.460" startframe="617803" framelength="19877" text="nyingi"/>
+	</timings>
+</xml>

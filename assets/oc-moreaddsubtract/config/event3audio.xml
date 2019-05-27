@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180109.093401893">
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_letspractisesubtracting</phrase>
+			<phrase>3_sixflowers</phrase>
+			<phrase>3_thisbuttonletsmetakeaway</phrase>
+			<phrase>3_therearefourflowersleft</phrase>
+			<phrase>3_soichoosefour</phrase>
+			<phrase>3_six</phrase>
+			<phrase>3_minus</phrase>
+			<phrase>3_two</phrase>
+			<phrase>3_equals</phrase>
+			<phrase>3_four</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="DEMO">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_nineflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_usethebuttontotakeawayfourflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_usethebuttontotakeawayfourflowers</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyflowersareleft</phrase>
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_yes</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_nine</phrase>
+			<phrase>3_minus_3b</phrase>
+			<phrase>3_four_3b</phrase>
+			<phrase>3_equals_3b</phrase>
+			<phrase>3_five</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyflowersareleft</phrase>
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="DEMO">
+			<phrase>3_tenfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawaythreefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawaythreefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyfishareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareleft</phrase>
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_tenminusthreeequalsseven</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyfishareleft</phrase>
+			<phrase>3_choosethenumber</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="DEMO">
+			<phrase>3_twelvefish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawayfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawayfourfish</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3d</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyfishareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_twelveminusfourequalseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyfishareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="DEMO">
+			<phrase>3_fourteenapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawayfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawayfiveapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyapplesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_fourteenminusfiveequalsnine</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanyapplesareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="DEMO">
+			<phrase>3_fourteenapples_3f</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawayfourofthem</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawayfourapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanyapplesareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_fourteenminusfourequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+			<phrase>3_howmanyapplesareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="DEMO">
+			<phrase>3_sixteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawaysixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawaysixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_sixteenminussixequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="DEMO">
+			<phrase>3_twentycounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawaytenofthem</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawaytencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_twentyminustenequalsten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="DEMO">
+			<phrase>3_fourteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawayten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawaytencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_fourteenminustenequalsfour</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="DEMO">
+			<phrase>3_sixteencounters_3l</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_takeawayeleven</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_takeawayelevencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_howmanyareleft_3e</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>3_sixteenminuselevenequalsfive</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT.REPEAT">
+			<phrase>3_howmanycountersareleft</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale3l">
+		<phrasegroup id="DEMO">
+			<phrase>3_greatyoutookawayyoudidsubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3m">
+		<phrasegroup id="DEMO">
+			<phrase>3_letstrysubtractingbycountingbackwards</phrase>
+			<phrase>3_twelvecounters</phrase>
+			<phrase>3_butiwantonlyeight</phrase>
+			<phrase>3_soitakeawayandcountbacktoeight</phrase>
+			<phrase>3_elevencounters</phrase>
+			<phrase>3_ten</phrase>
+			<phrase>3_nine_3m</phrase>
+			<phrase>3_eight</phrase>
+			<phrase>3_nowitouchthisbutton</phrase>
+			<phrase>3_itookawayfourcounters</phrase>
+			<phrase>3_twelveminusfourequalseight_3m</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3n">
+		<phrasegroup id="DEMO">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_tencounters</phrase>
+			<phrase>3_butiwantsix</phrase>
+			<phrase>3_sotakeawayandcountbacktosixwithme</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_tencounters</phrase>
+			<phrase>3_takeawaycounterstoleavesixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND">
+			<phrase>3_takeawaycounterstoleavesixcounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="FEEDBACK">
+			<phrase>3_ninecounters</phrase>
+			<phrase>3_eight_3n</phrase>
+			<phrase>3_seven</phrase>
+			<phrase>3_six_3n</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>3_nowtouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2.REPEAT">
+			<phrase>3_touchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_youtookawayfourcounters</phrase>
+			<phrase>3_tenminusfourequalssix</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3o">
+		<phrasegroup id="DEMO">
+			<phrase>3_nowyoumustcountbackbyyourself</phrase>
+			<phrase>3_fourteencounters_3o</phrase>
+			<phrase>3_takeawaycounterstoleaveten</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+			<phrase>3_ifyoutakeawaytoomanytouchtheloop</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_fourteencounters_3o</phrase>
+			<phrase>3_takeawaycounterstoleaveten</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMIND2">
+			<phrase>3_nowtouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_youtookawayfourcounters</phrase>
+			<phrase>3_fourteenminusfourequalsten_3o</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takeawaycounterstoleavetencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_thirteen</phrase>
+			<phrase>3_twelve</phrase>
+			<phrase>3_eleven</phrase>
+			<phrase>3_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_fourteenminusfourequalsten_3o</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3p">
+		<phrasegroup id="DEMO">
+			<phrase>3_seventeencounters</phrase>
+			<phrase>3_takesomeawaytoleavetwelve</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_seventeencounters</phrase>
+			<phrase>3_takesomeawaytoleavetwelve</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_youtookawayfivecounters</phrase>
+			<phrase>3_seventeenminusfiveequalstwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takesomeawaytoleavetwelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_sixteen</phrase>
+			<phrase>3_fifteen</phrase>
+			<phrase>3_fourteen</phrase>
+			<phrase>3_thirteen</phrase>
+			<phrase>3_twelve</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_seventeenminusfiveequalstwelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3q">
+		<phrasegroup id="DEMO">
+			<phrase>3_twentycounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_iwantfourteen</phrase>
+			<phrase>3_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_twentycounters</phrase>
+			<phrase>3_takeawaycounterstoleavefourteen</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_youtookawaysixcounters</phrase>
+			<phrase>3_twentyminussixequalsfourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takeawaycounterstoleavefourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_nineteen</phrase>
+			<phrase>3_eighteen</phrase>
+			<phrase>3_seventeen</phrase>
+			<phrase>3_sixteen</phrase>
+			<phrase>3_fifteen</phrase>
+			<phrase>3_fourteen</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_twentyminussixequalsfourteen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3r">
+		<phrasegroup id="DEMO">
+			<phrase>3_twentycounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_iwantonlyten</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_twentycounters</phrase>
+			<phrase>3_takeawaycounterstoleaveten</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_twentyminustenequalsten_3r</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takeawaycounterstoleaveten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_nineteen</phrase>
+			<phrase>3_eighteen</phrase>
+			<phrase>3_seventeen</phrase>
+			<phrase>3_sixteen</phrase>
+			<phrase>3_fifteen</phrase>
+			<phrase>3_fourteen</phrase>
+			<phrase>3_thirteen</phrase>
+			<phrase>3_twelve</phrase>
+			<phrase>3_eleven</phrase>
+			<phrase>3_ten</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_twentyminustenequalsten_3r</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="DEMO">
+			<phrase>3_thirteencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_iwanteight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_thirteencounters</phrase>
+			<phrase>3_takeawaycounterstoleaveeight</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_thirteenminusfiveequalseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takeawaycounterstoleaveeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_twelve</phrase>
+			<phrase>3_eleven</phrase>
+			<phrase>3_ten</phrase>
+			<phrase>3_nine_3m</phrase>
+			<phrase>3_eight_3n</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_thirteenminusfiveequalseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3y">
+		<phrasegroup id="DEMO">
+			<phrase>3_twentycounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>3_iwanteight</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_twentycounters</phrase>
+			<phrase>3_takeawaycounterstoleaveeight</phrase>
+			<phrase>3_thentouchtheorangebutton</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>3_youtookawaytwelvecounters</phrase>
+			<phrase>3_twentyminustwelveequalseight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_tryagain</phrase>
+			<phrase>3_takeawaycounterstoleaveeight</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>3_lookandlisten</phrase>
+			<phrase>3_nineteen</phrase>
+			<phrase>3_eighteen</phrase>
+			<phrase>3_seventeen</phrase>
+			<phrase>3_sixteen</phrase>
+			<phrase>3_fifteen</phrase>
+			<phrase>3_fourteen</phrase>
+			<phrase>3_thirteen</phrase>
+			<phrase>3_twelve</phrase>
+			<phrase>3_eleven</phrase>
+			<phrase>3_ten</phrase>
+			<phrase>3_nine_3m</phrase>
+			<phrase>3_eight_3n</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT3">
+			<phrase>3_twentyminustwelveequalseight</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_welldoneyoutookawaynumbersyoudidsubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="equcomplete">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpress">
+			<phrase>pop_water_droplet_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="numpopon">
+			<phrase>thud_short_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="objectson">
+			<phrase>note_beepy_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonpopon">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="objectoff">
+			<phrase>pop_water_droplet_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="submit">
+			<phrase>ping_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

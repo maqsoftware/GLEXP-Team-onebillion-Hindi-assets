@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" >
+		<vector id="presenter" pos="0.335831,0.705729" src="annawithear" zpos="1" />
+	</event>
+	<event id="blocks" >
+		<rectangle id="colour_button_disabled" pos="0.673176,0.221128" src="colour_button_disabled" fill="180,180,180" stroke="120,120,120" strokewidth="1" zpos="4" x="0.641434" y="0.201976" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_number_box_hilited" pos="0.834991,0.271818" src="colour_number_box_hilited" fill="250,203,61" stroke="120,120,120" strokewidth="1" zpos="4.001" x="0.803249" y="0.252665" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_number_box_normal" pos="0.674301,0.271965" src="colour_number_box_normal" fill="255,255,255" stroke="120,120,120" strokewidth="1" zpos="4.005" x="0.642559" y="0.252813" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_number_box_selected" pos="0.755108,0.269636" src="colour_number_box_selected" fill="251,255,162" stroke="120,120,120" strokewidth="1" zpos="4.006" x="0.723366" y="0.250483" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_button_normal" pos="0.673004,0.0978368" src="colour_text_button_normal" fill="255,255,255" stroke="120,120,120" strokewidth="1" zpos="4.004" x="0.641262" y="0.0786845" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_hilited" pos="0.74744,0.157829" src="colour_text_hilited" fill="255,0,0" stroke="120,120,120" strokewidth="1" zpos="4.003" x="0.715698" y="0.138677" width="0.0634842" height="0.0383046" />
+		<rectangle id="colour_text_normal" pos="0.675327,0.160886" src="colour_text_normal" fill="0,0,0" stroke="120,120,120" strokewidth="1" zpos="4.002" x="0.643585" y="0.141734" width="0.0634842" height="0.0383046" />
+		<rectangle id="number_box" pos="0.0654526,0.342733" src="number_box" fill="251,255,162" stroke="200,200,200" strokewidth="3" zpos="5.01" x="0.0190659" y="0.280884" width="0.0927734" height="0.123698" />
+		<circle id="position1" pos="0.536448,0.725599" src="position1" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.004" x="0.479088" y="0.649119" width="0.114719" height="0.152959" />
+		<circle id="position2" pos="0.91057,0.879794" src="position2" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.008" x="0.85321" y="0.803314" width="0.114719" height="0.152959" />
+		<circle id="position3" pos="0.258345,0.717471" src="position3" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.002" x="0.200985" y="0.640991" width="0.114719" height="0.152959" />
+		<circle id="position4" pos="0.658468,0.543577" src="position4" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.005" x="0.601109" y="0.467097" width="0.114719" height="0.152959" />
+		<circle id="position5" pos="0.698149,0.881716" src="position5" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.007" x="0.640789" y="0.805237" width="0.114719" height="0.152959" />
+		<circle id="position6" pos="0.384325,0.542676" src="position6" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.003" x="0.326965" y="0.466197" width="0.114719" height="0.152959" />
+		<circle id="position7" pos="0.86928,0.609667" src="position7" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.009" x="0.81192" y="0.533188" width="0.114719" height="0.152959" />
+		<circle id="position8" pos="0.380533,0.892214" src="position8" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.006" x="0.323174" y="0.815735" width="0.114719" height="0.152959" />
+		<circle id="position9" pos="0.0858822,0.864209" src="position9" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5" x="0.0285225" y="0.78773" width="0.114719" height="0.152959" />
+		<circle id="position10" pos="0.0959568,0.577466" src="position10" fill="0,0,255" stroke="120,120,120" strokewidth="1" zpos="5.001" x="0.0385971" y="0.500987" width="0.114719" height="0.152959" />
+		<rectangle id="block_1" pos="0.167622,0.180196" src="block_1" fill="147,235,241" stroke="123,216,224" strokewidth="2" zpos="6.002" x="0.150532" y="0.15741" width="0.0341797" height="0.0455729" />
+		<rectangle id="block_10" pos="0.219181,0.182546" src="block_10" fill="168,207,116" stroke="144,190,80" strokewidth="2" zpos="6.005" x="0.202091" y="0.15976" width="0.0341797" height="0.0455729" />
+		<rectangle id="block_100" pos="0.279152,0.193675" src="block_100" fill="233,165,228" stroke="226,114,213" strokewidth="1" zpos="6.006" x="0.270363" y="0.181956" width="0.0175781" height="0.0234375" />
+		<circle id="button_1" pos="0.406208,0.917333" src="button_1" fill="147,235,241" stroke="123,216,224" strokewidth="3" shadowcolour="220,220,220" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="6.004" x="0.369587" y="0.868505" width="0.0732422" height="0.0976562" />
+		<circle id="button_10" pos="0.504223,0.910472" src="button_10" fill="168,207,116" stroke="144,190,80" strokewidth="3" shadowcolour="220,220,220" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="6" x="0.460278" y="0.851878" width="0.0878906" height="0.117188" />
+		<circle id="button_100" pos="0.610233,0.905914" src="button_100" fill="233,165,228" stroke="226,114,213" strokewidth="3" shadowcolour="220,220,220" shadowradius="0" shadowxoffset="0" shadowyoffset="4" zpos="6.003" x="0.558964" y="0.837555" width="0.102539" height="0.136719" />
+		<rectangle id="title_box" pos="0.5,0.0891927" src="title_box" fill="251,255,162" stroke="246,236,84" strokewidth="3" zpos="6.001" x="0.392578" y="0.0273438" width="0.214844" height="0.123698" />
+	</event>
+</events>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-kingliongetssickSW-0/_processed/ps6_2.aif</url>
+	<relurl>ps6_2.aif</relurl>
+	<timings text="“Tafadhali mlete Sungura kwangu,” alisema Simba." frames="385570">
+		<timing id="0" start="0.000" end="0.875" startframe="0" framelength="38584" text="Tafadhali"/>
+		<timing id="1" start="2.019" end="2.791" startframe="89040" framelength="34057" text="mlete"/>
+		<timing id="2" start="3.285" end="4.182" startframe="144865" framelength="39555" text="Sungura"/>
+		<timing id="3" start="4.991" end="5.567" startframe="220111" framelength="25379" text="kwangu"/>
+		<timing id="4" start="6.496" end="7.288" startframe="286488" framelength="34907" text="alisema"/>
+		<timing id="5" start="8.182" end="8.743" startframe="360831" framelength="24739" text="Simba"/>
+	</timings>
+</xml>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master1" scenes="7a,7b,7c,7d,7e,7f,7g,7h,7i,7j,7k" colour="255,255,255" >
+	</event>
+	<event id="7a" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.013" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.009" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.012" type="2" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.34702,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="2" />
+		<vector id="button_2" pos="0.504025,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_3" pos="0.661031,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.34702,0.912962" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.003" sound="raindrop" />
+		<vector id="obj_2" pos="0.504025,0.912962" parent="reference_control" src="7_trumpet" scalex="0.9" scaley="0.9" zpos="4.004" sound="trumpet" />
+		<vector id="obj_3" pos="0.661031,0.912962" parent="reference_control" src="7_drum" scalex="0.9" scaley="0.9" zpos="4.005" sound="drum" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.014" />
+	</event>
+	<event id="7b" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.013" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.009" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.012" type="2" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.34702,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="2" />
+		<vector id="button_2" pos="0.504025,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_3" pos="0.661031,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.34702,0.912962" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.003" sound="raindrop" />
+		<vector id="obj_2" pos="0.504025,0.912962" parent="reference_control" src="7_trumpet" scalex="0.9" scaley="0.9" zpos="4.004" sound="trumpet" />
+		<vector id="obj_3" pos="0.661031,0.912962" parent="reference_control" src="7_drum" scalex="0.9" scaley="0.9" zpos="4.005" sound="drum" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.014" />
+	</event>
+	<event id="7c" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.013" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.009" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.012" type="2" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.34702,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="2" />
+		<vector id="button_2" pos="0.504025,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_3" pos="0.661031,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.34702,0.912962" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.003" sound="raindrop" />
+		<vector id="obj_2" pos="0.504025,0.912962" parent="reference_control" src="7_trumpet" scalex="0.9" scaley="0.9" zpos="4.004" sound="trumpet" />
+		<vector id="obj_3" pos="0.661031,0.912962" parent="reference_control" src="7_drum" scalex="0.9" scaley="0.9" zpos="4.005" sound="drum" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.014" />
+	</event>
+	<event id="7d" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.004" type="2" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.005" type="1" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.009" type="1" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.264789,0.913568" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.016" sound="raindrop" />
+		<vector id="obj_2" pos="0.429445,0.915296" parent="reference_control" src="7_glass" scalex="0.9" scaley="0.9" zpos="4.013" sound="glass" />
+		<vector id="obj_3" pos="0.582095,0.911782" parent="reference_control" src="7_mobile" scalex="0.9" scaley="0.9" zpos="4.015" sound="mobile" />
+		<vector id="obj_4" pos="0.743494,0.915692" parent="reference_control" src="7_hammer" scalex="0.9" scaley="0.9" zpos="4.014" sound="hammer" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.012" />
+	</event>
+	<event id="7e" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0697766,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.01" type="1" x="0.0200915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.178836,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.004" type="2" x="0.12915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.287895,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.238209" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.396954,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.005" type="1" x="0.347268" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.506013,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.016" type="2" x="0.456327" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.615072,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.007" type="2" x="0.565386" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.724131,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.008" type="1" x="0.674446" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.83319,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.017" type="2" x="0.783505" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_9" pos="0.942249,0.395742" parent="reference_control" src="box_9" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.009" type="2" x="0.892564" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.264789,0.913568" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.015" sound="raindrop" />
+		<vector id="obj_2" pos="0.429445,0.915296" parent="reference_control" src="7_glass" scalex="0.9" scaley="0.9" zpos="4.012" sound="glass" />
+		<vector id="obj_3" pos="0.582095,0.911782" parent="reference_control" src="7_mobile" scalex="0.9" scaley="0.9" zpos="4.014" sound="mobile" />
+		<vector id="obj_4" pos="0.743494,0.915692" parent="reference_control" src="7_hammer" scalex="0.9" scaley="0.9" zpos="4.013" sound="hammer" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.011" />
+	</event>
+	<event id="7f" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0697766,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.005" type="2" x="0.0200915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.178836,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.12915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.287895,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.004" type="1" x="0.238209" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.396954,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.007" type="2" x="0.347268" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.506013,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.456327" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.615072,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.008" type="1" x="0.565386" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.724131,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.013" type="2" x="0.674446" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.83319,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.011" type="2" x="0.783505" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_9" pos="0.942249,0.395742" parent="reference_control" src="box_9" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.012" type="1" x="0.892564" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.266798,0.911988" parent="reference_control" src="7_bird" scalex="0.9" scaley="0.9" zpos="4.014" sound="bird" />
+		<vector id="obj_2" pos="0.428682,0.91036" parent="reference_control" src="7_frog" scalex="0.9" scaley="0.9" zpos="4.015" sound="frog" />
+		<vector id="obj_3" pos="0.583968,0.91429" parent="reference_control" src="7_sheep" scalex="0.9" scaley="0.9" zpos="4.017" sound="sheep" />
+		<vector id="obj_4" pos="0.743318,0.912262" parent="reference_control" src="7_hen" scalex="0.9" scaley="0.9" zpos="4.016" sound="chicken" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.009" />
+	</event>
+	<event id="7g" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0697766,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.005" type="2" x="0.0200915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.178836,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.006" type="3" x="0.12915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.287895,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.004" type="1" x="0.238209" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.396954,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.007" type="2" x="0.347268" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.506013,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.01" type="3" x="0.456327" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.615072,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.008" type="1" x="0.565386" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.724131,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.013" type="2" x="0.674446" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.83319,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.011" type="3" x="0.783505" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_9" pos="0.942249,0.395742" parent="reference_control" src="box_9" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.012" type="1" x="0.892564" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.266798,0.911988" parent="reference_control" src="7_bird" scalex="0.9" scaley="0.9" zpos="4.014" sound="bird" />
+		<vector id="obj_2" pos="0.428682,0.91036" parent="reference_control" src="7_frog" scalex="0.9" scaley="0.9" zpos="4.015" sound="frog" />
+		<vector id="obj_3" pos="0.583968,0.91429" parent="reference_control" src="7_sheep" scalex="0.9" scaley="0.9" zpos="4.017" sound="sheep" />
+		<vector id="obj_4" pos="0.743318,0.912262" parent="reference_control" src="7_hen" scalex="0.9" scaley="0.9" zpos="4.016" sound="chicken" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.009" />
+	</event>
+	<event id="7h" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.004" type="2" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.005" type="1" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.006" type="2" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.009" type="1" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.01" type="2" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.263184,0.916787" parent="reference_control" src="7_shoe" scalex="0.9" scaley="0.9" zpos="4.015" sound="foot" />
+		<vector id="obj_2" pos="0.430945,0.910049" parent="reference_control" src="7_smile" scalex="0.9" scaley="0.9" zpos="4.016" sound="smile" />
+		<vector id="obj_3" pos="0.578025,0.90635" parent="reference_control" src="7_hands" scalex="0.9" scaley="0.9" zpos="4.014" sound="clap" />
+		<vector id="obj_4" pos="0.733466,0.913347" parent="reference_control" src="7_cough" scalex="0.9" scaley="0.9" zpos="4.013" sound="cough" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.012" />
+	</event>
+	<event id="7i" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0697766,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.005" type="2" x="0.0200915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.178836,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.006" type="3" x="0.12915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.287895,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.004" type="1" x="0.238209" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.396954,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.007" type="2" x="0.347268" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.506013,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.009" type="3" x="0.456327" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.615072,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.008" type="1" x="0.565386" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.724131,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.012" type="2" x="0.674446" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.83319,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.01" type="3" x="0.783505" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_9" pos="0.942249,0.395742" parent="reference_control" src="box_9" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.011" type="1" x="0.892564" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.265934,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.003" type="2" />
+		<vector id="button_2" pos="0.42443,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4" type="4" />
+		<vector id="button_3" pos="0.582925,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.001" type="1" />
+		<vector id="button_4" pos="0.741421,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.002" type="3" />
+		<vector id="obj_1" pos="0.263184,0.916787" parent="reference_control" src="7_shoe" scalex="0.9" scaley="0.9" zpos="4.016" sound="foot" />
+		<vector id="obj_2" pos="0.430945,0.910049" parent="reference_control" src="7_smile" scalex="0.9" scaley="0.9" zpos="4.017" sound="smile" />
+		<vector id="obj_3" pos="0.578025,0.90635" parent="reference_control" src="7_hands" scalex="0.9" scaley="0.9" zpos="4.015" sound="clap" />
+		<vector id="obj_4" pos="0.733466,0.913347" parent="reference_control" src="7_cough" scalex="0.9" scaley="0.9" zpos="4.014" sound="cough" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.013" />
+	</event>
+	<event id="7j" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0802105,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.0305253" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.201961,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4" type="2" x="0.152276" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.323712,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.001" type="3" x="0.274027" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.445463,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="238,159,0" strokewidth="3" linecap="round" zpos="4.002" type="4" x="0.395778" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.567214,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.003" type="1" x="0.517529" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.688965,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.004" type="2" x="0.63928" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.810716,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.005" type="3" x="0.761031" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.932467,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="238,159,0" strokewidth="3" linecap="round" zpos="4.006" type="4" x="0.882782" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.189419,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.013" type="5" />
+		<vector id="button_2" pos="0.346275,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.012" type="2" />
+		<vector id="button_3" pos="0.503131,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.009" type="4" />
+		<vector id="button_4" pos="0.659987,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.01" type="1" />
+		<vector id="button_5" pos="0.816843,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.011" type="3" />
+		<vector id="obj_1" pos="0.193019,0.912973" parent="reference_control" src="7_sheep" scalex="0.9" scaley="0.9" zpos="4.014" sound="sheep" />
+		<vector id="obj_2" pos="0.346383,0.90841" parent="reference_control" src="7_bell" scalex="0.9" scaley="0.9" zpos="4.015" sound="bell" />
+		<vector id="obj_3" pos="0.507204,0.912314" parent="reference_control" src="7_glass" scalex="0.9" scaley="0.9" zpos="4.016" sound="glass" />
+		<vector id="obj_4" pos="0.663829,0.911571" parent="reference_control" src="7_trumpet" scalex="0.9" scaley="0.9" zpos="4.017" sound="trumpet" />
+		<vector id="obj_5" pos="0.810719,0.914316" parent="reference_control" src="7_raindrop" scalex="0.9" scaley="0.9" zpos="4.018" sound="raindrop" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.008" />
+	</event>
+	<event id="7k" redraw="true" >
+		<rectangle id="sidebar" pos="0.505362,0.269717" src="sidebar" fill="212,255,255" stroke="120,232,228" strokewidth="1" linecap="round" zpos="2" x="-0.085228" y="-0.258301" width="1.18118" height="1.05604" />
+		<rectangle id="reference_control" pos="0.497021,0.505038" src="reference_control" fill="57,249,5" zpos="3" hidden="true" widthtracksheight="true" x="0.00564575" y="0.022344" width="0.98275" height="0.965388" pxwidth="1006.34" pxheight="741.418" />
+		<rectangle id="box_1" pos="0.0697766,0.395742" parent="reference_control" src="box_1" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.001" type="2" x="0.0200915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_2" pos="0.178836,0.395742" parent="reference_control" src="box_2" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.002" type="3" x="0.12915" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_3" pos="0.287895,0.395742" parent="reference_control" src="box_3" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4" type="1" x="0.238209" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_4" pos="0.396954,0.395742" parent="reference_control" src="box_4" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.003" type="2" x="0.347268" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_5" pos="0.506013,0.395742" parent="reference_control" src="box_5" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.005" type="3" x="0.456327" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_6" pos="0.615072,0.395742" parent="reference_control" src="box_6" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.004" type="1" x="0.565386" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_7" pos="0.724131,0.395742" parent="reference_control" src="box_7" fill="255,255,255" stroke="65,96,251" strokewidth="3" linecap="round" zpos="4.008" type="2" x="0.674446" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_8" pos="0.83319,0.395742" parent="reference_control" src="box_8" fill="255,255,255" stroke="253,14,200" strokewidth="3" linecap="round" zpos="4.006" type="3" x="0.783505" y="0.328304" width="0.0993704" height="0.134877" />
+		<rectangle id="box_9" pos="0.942249,0.395742" parent="reference_control" src="box_9" fill="255,255,255" stroke="2,214,22" strokewidth="3" linecap="round" zpos="4.007" type="1" x="0.892564" y="0.328304" width="0.0993704" height="0.134877" />
+		<vector id="button_1" pos="0.189419,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.014" type="5" />
+		<vector id="button_2" pos="0.346275,0.911967" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.013" type="2" />
+		<vector id="button_3" pos="0.503131,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.01" type="4" />
+		<vector id="button_4" pos="0.659987,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.011" type="1" />
+		<vector id="button_5" pos="0.816843,0.912962" parent="reference_control" src="7_button" scalex="0.8" scaley="0.8" zpos="4.012" type="3" />
+		<vector id="obj_1" pos="0.183257,0.915302" parent="reference_control" src="7_hippo" scalex="0.9" scaley="0.9" zpos="4.015" sound="hippo" />
+		<vector id="obj_2" pos="0.354904,0.910607" parent="reference_control" src="7_monkey" scalex="0.9" scaley="0.9" zpos="4.017" sound="monkey" />
+		<vector id="obj_3" pos="0.505446,0.918305" parent="reference_control" src="7_tiger" scalex="0.9" scaley="0.9" zpos="4.019" sound="tiger" />
+		<vector id="obj_4" pos="0.662975,0.906998" parent="reference_control" src="7_parrot" scalex="0.9" scaley="0.9" zpos="4.018" sound="parrot" />
+		<vector id="obj_5" pos="0.818793,0.91086" parent="reference_control" src="7_lion" scalex="0.9" scaley="0.9" zpos="4.016" sound="lion" />
+		<vector id="playButton" pos="0.505019,0.645169" parent="reference_control" src="7_playButton" zpos="4.009" />
+	</event>
+</events>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="3a">
+		<phrasegroup id="DEMO">
+			<phrase>3_therearetwelvecounters</phrase>
+			<phrase>3_twelve</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3b">
+		<phrasegroup id="PROMPT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_howmanycountersarethere</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_yourturn</phrase>
+			<phrase>3_howmanycountersarethere</phrase>
+			<phrase>3_touchthenumber</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearetencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3c">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanycountersaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_thereareelevencounters</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3d">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanystarsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearethirteenstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3e">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanystarsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearefifteenstars</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3d</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3f">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyapplesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyapplesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearetwentyapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3g">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanyapplesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearethirteenapples</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3f</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3h">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanychocolatesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanychocolatesarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearesixteenchocolates</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3i">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanychocolatesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanychocolatesaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_thereareelevenchocolates</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3h</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3j">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanybiscuitsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanybiscuitsarethere</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_thereareseventeenbiscuits</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3k">
+		<phrasegroup id="PROMPT">
+			<phrase>3_howmanybiscuitsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>3_howmanybiscuitsaretherenow</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>3_therearesevenbiscuits</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>3_countagain_3j</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>3_verygoodyoucountedupto20things</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+	</event>
+</audio>

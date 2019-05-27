@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="1w">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_getreadytoread</phrase>
+			<phrase>wrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2w">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_getreadytosaythisword</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whenthewordturnsredreaditoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3w">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="defaultw">
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finalew">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_goodyoureadwordsoutloud</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1l">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_letsturnaletterintoasound</phrase>
+			<phrase>wrec_whentheletterturnsredsayitssoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wrec_whentheletterturnsredsayitssoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whentheletterturnsredsayitssoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_nowsaythesoundforthisletter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>wrec_dothesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whentheletterturnsredsayitssoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3l">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="defaultl">
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finalel">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_verygoodyouturnedaletterintoasound</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1s">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_letsturnlettersintosounds</phrase>
+			<phrase>wrec_whenthelettersturnredsaythesoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>wrec_whenthelettersturnredsaythesoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whenthelettersturnredsaythesoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>wrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="ARROW">
+			<phrase>wrec_touchthearrow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2s">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_getreadytospeakagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT2">
+			<phrase>wrec_dothesameagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+			<phrase>wrec_whenthelettersturnredsaythesoundoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER2">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3s">
+		<phrasegroup id="PROMPT">
+			<phrase>wrec_youknowwhattodo</phrase>
+		</phrasegroup>
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="defaults">
+		<phrasegroup id="REMINDER">
+			<phrase>wrec_icanthearyou</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finales">
+		<phrasegroup id="DEMO">
+			<phrase>wrec_verygoodyouturnedlettersintosounds</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="texton">
+			<phrase>clunk_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="arrowon">
+			<phrase>click_snap_hard</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutteropen">
+			<phrase>peel2</phrase>
+		</phrasegroup>
+		<phrasegroup id="shutterclosed">
+			<phrase>shutteropening</phrase>
+		</phrasegroup>
+	</event>
+</audio>

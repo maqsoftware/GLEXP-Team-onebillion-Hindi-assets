@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p4_1.aif</url>
+	<relurl>p4_1.aif</relurl>
+	<timings text="Baba anairejesha pia kwa Paulina. “Sasa mnajua jinsi ya kuiendesha,” anasema. “Nendeni mkafurahi!”" frames="433901">
+		<timing id="0" start="0.000" end="0.740" startframe="0" framelength="32646" text="Baba"/>
+		<timing id="1" start="1.228" end="2.091" startframe="54176" framelength="38017" text="anairejesha"/>
+		<timing id="2" start="2.091" end="2.410" startframe="92193" framelength="14109" text="pia"/>
+		<timing id="3" start="2.410" end="2.572" startframe="106302" framelength="7130" text="kwa"/>
+		<timing id="4" start="2.572" end="3.369" startframe="113432" framelength="35125" text="Paulina"/>
+		<timing id="5" start="3.956" end="4.814" startframe="174479" framelength="37824" text="Sasa"/>
+		<timing id="6" start="5.126" end="5.666" startframe="226068" framelength="23787" text="mnajua"/>
+		<timing id="7" start="5.666" end="6.066" startframe="249855" framelength="17656" text="jinsi"/>
+		<timing id="8" start="6.066" end="6.222" startframe="267511" framelength="6879" text="ya"/>
+		<timing id="9" start="6.222" end="7.094" startframe="274390" framelength="38436" text="kuiendesha"/>
+		<timing id="10" start="7.195" end="8.152" startframe="317289" framelength="42208" text="anasema"/>
+		<timing id="11" start="8.388" end="8.903" startframe="369919" framelength="22712" text="Nendeni"/>
+		<timing id="12" start="8.903" end="9.839" startframe="392631" framelength="41270" text="mkafurahi"/>
+	</timings>
+</xml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_look</phrase>
+			<phrase>5_thisonegoes</phrase>
+			<phrase>5_here</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_dragtheothershapestocompletethejigsaw</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheothershapestocompletethejigsaw</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_trythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_dragtheseshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowtrythisone</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimethejigsawisapicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_dragtheshapestocompletethejigsaw</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_welldoneyoumovedtheshapestotherightplacesandcompletedthejigsaws</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="select">
+			<phrase>click</phrase>
+		</phrasegroup>
+		<phrasegroup id="select_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="remove_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="snap_object">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="add_object">
+			<phrase>hightock</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_1">
+			<phrase>1_a</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_2">
+			<phrase>1_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_3">
+			<phrase>1_c</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_4">
+			<phrase>1_d</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_5">
+			<phrase>1_e</phrase>
+		</phrasegroup>
+		<phrasegroup id="note_6">
+			<phrase>1_f</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="5a">
+		<phrasegroup id="DEMO">
+			<phrase>5_nowletsmakeashape</phrase>
+			<phrase>5_likethis</phrase>
+			<phrase>5_thisshapeiscalledatriangle</phrase>
+			<phrase>5_ithasthreestraightsides</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_three</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5b">
+		<phrasegroup id="PROMPT">
+			<phrase>5_yourturn</phrase>
+			<phrase>5_makeatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_makeatriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_atriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5c">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimeseeifyoucanmaketwotriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketwotriangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twotriangles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5d">
+		<phrasegroup id="PROMPT">
+			<phrase>5_makeanothershape</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thisshapeiscalledasquare</phrase>
+			<phrase>5_ithasfourstraightsides</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_theyareallthesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5e">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowmaketwosquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketwosquares</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_twosquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5f">
+		<phrasegroup id="PROMPT">
+			<phrase>5_makeanewshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thisshapeiscalledarectangle</phrase>
+			<phrase>5_ithasfourstraightsides</phrase>
+			<phrase>5_one</phrase>
+			<phrase>5_two</phrase>
+			<phrase>5_three</phrase>
+			<phrase>5_four</phrase>
+			<phrase>5_thesetwosidesarelonger</phrase>
+			<phrase>5_thanthesetwo</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5g">
+		<phrasegroup id="PROMPT">
+			<phrase>5_nowmaketworectangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketworectangles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_tworectangles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5h">
+		<phrasegroup id="PROMPT">
+			<phrase>5_tryanothershape</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_maketheshape</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_thisshapeiscalledacircle</phrase>
+			<phrase>5_itisround</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5i">
+		<phrasegroup id="PROMPT">
+			<phrase>5_makethreecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_makethreecircles</phrase>
+		</phrasegroup>
+		<phrasegroup id="CORRECT">
+			<phrase>5_threecircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5j">
+		<phrasegroup id="DEMO">
+			<phrase>5_nowlookattheseshapes</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_choosethetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichoneisthetriangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosethetriangle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5k">
+		<phrasegroup id="PROMPT">
+			<phrase>5_thistimechoosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_choosethesquare</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosethesquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5l">
+		<phrasegroup id="PROMPT">
+			<phrase>5_choosethecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_choosethecircle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosethecircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="5m">
+		<phrasegroup id="PROMPT">
+			<phrase>5_whichoneistherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="REPEAT">
+			<phrase>5_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>5_choosetherectangle</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>5_goodyoumadeshapesandyouchosethemwhenisaidtheirnames</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="wrong">
+			<phrase>wrong</phrase>
+		</phrasegroup>
+		<phrasegroup id="correct">
+			<phrase>correct</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_select">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="paint_object">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="dinosaur">
+			<phrase>dinosaurroar</phrase>
+		</phrasegroup>
+		<phrasegroup id="water">
+			<phrase>waterfilling</phrase>
+		</phrasegroup>
+		<phrasegroup id="reveal">
+			<phrase>plop2</phrase>
+		</phrasegroup>
+		<phrasegroup id="drum">
+			<phrase>africandrum</phrase>
+		</phrasegroup>
+		<phrasegroup id="bell">
+			<phrase>bicyclebell</phrase>
+		</phrasegroup>
+		<phrasegroup id="bird">
+			<phrase>bird</phrase>
+		</phrasegroup>
+		<phrasegroup id="trumpet">
+			<phrase>carhorn</phrase>
+		</phrasegroup>
+		<phrasegroup id="cough">
+			<phrase>cough</phrase>
+		</phrasegroup>
+		<phrasegroup id="foot">
+			<phrase>footstamp</phrase>
+		</phrasegroup>
+		<phrasegroup id="frog">
+			<phrase>frogcroak</phrase>
+		</phrasegroup>
+		<phrasegroup id="smile">
+			<phrase>giggletoddler</phrase>
+		</phrasegroup>
+		<phrasegroup id="glass">
+			<phrase>glassshatter</phrase>
+		</phrasegroup>
+		<phrasegroup id="hammer">
+			<phrase>hammeroncement</phrase>
+		</phrasegroup>
+		<phrasegroup id="clap">
+			<phrase>handclap</phrase>
+		</phrasegroup>
+		<phrasegroup id="chicken">
+			<phrase>hen</phrase>
+		</phrasegroup>
+		<phrasegroup id="hippo">
+			<phrase>hippo</phrase>
+		</phrasegroup>
+		<phrasegroup id="lion">
+			<phrase>lion</phrase>
+		</phrasegroup>
+		<phrasegroup id="monkey">
+			<phrase>monkey</phrase>
+		</phrasegroup>
+		<phrasegroup id="parrot">
+			<phrase>parrot</phrase>
+		</phrasegroup>
+		<phrasegroup id="mobile">
+			<phrase>phone</phrase>
+		</phrasegroup>
+		<phrasegroup id="raindrop">
+			<phrase>raindrop</phrase>
+		</phrasegroup>
+		<phrasegroup id="sheep">
+			<phrase>sheepbaa</phrase>
+		</phrasegroup>
+		<phrasegroup id="tiger">
+			<phrase>tiger</phrase>
+		</phrasegroup>
+	</event>
+</audio>

@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps3_1.aif</url>
+	<relurl>ps3_1.aif</relurl>
+	<timings text="Anansi hakujali. Alizipeleka mboga mboga sokoni. Alijaza mkoba wake kwa pesa alizozipata na akazificha pesa chini ya mahindi." frames="1632512">
+		<timing id="0" start="0.000" end="0.920" startframe="0" framelength="40585" text="Anansi"/>
+		<timing id="1" start="1.878" end="3.125" startframe="82812" framelength="55018" text="hakujali"/>
+		<timing id="2" start="4.476" end="6.049" startframe="197402" framelength="69363" text="Alizipeleka"/>
+		<timing id="3" start="7.022" end="7.909" startframe="309664" framelength="39116" text="mboga"/>
+		<timing id="4" start="8.999" end="9.764" startframe="396876" framelength="33713" text="mboga"/>
+		<timing id="5" start="10.615" end="11.671" startframe="468142" framelength="46561" text="sokoni"/>
+		<timing id="6" start="12.910" end="14.119" startframe="569321" framelength="53325" text="Alijaza"/>
+		<timing id="7" start="15.215" end="16.305" startframe="670998" framelength="48040" text="mkoba"/>
+		<timing id="8" start="17.523" end="18.470" startframe="772745" framelength="41770" text="wake"/>
+		<timing id="9" start="19.731" end="20.387" startframe="870122" framelength="28927" text="kwa"/>
+		<timing id="10" start="21.828" end="22.768" startframe="962614" framelength="41471" text="pesa"/>
+		<timing id="11" start="23.938" end="25.370" startframe="1055647" framelength="63154" text="alizozipata"/>
+		<timing id="12" start="26.336" end="27.244" startframe="1161435" framelength="40006" text="na"/>
+		<timing id="13" start="28.114" end="29.501" startframe="1239806" framelength="61185" text="akazificha"/>
+		<timing id="14" start="30.537" end="31.452" startframe="1346694" framelength="40329" text="pesa"/>
+		<timing id="15" start="32.502" end="33.494" startframe="1433332" framelength="43762" text="chini"/>
+		<timing id="16" start="34.410" end="35.184" startframe="1517460" framelength="34161" text="ya"/>
+		<timing id="17" start="36.189" end="37.018" startframe="1595929" framelength="36583" text="mahindi"/>
+	</timings>
+</xml>

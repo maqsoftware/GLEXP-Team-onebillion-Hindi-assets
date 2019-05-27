@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/p11_2.aif</url>
+	<relurl>p11_2.aif</relurl>
+	<timings text="“Ninafahamu pia hii korofi inahitaji nini,” anasema." frames="197183">
+		<timing id="0" start="0.000" end="1.062" startframe="0" framelength="46826" text="Ninafahamu"/>
+		<timing id="1" start="1.062" end="1.469" startframe="46826" framelength="17952" text="pia"/>
+		<timing id="2" start="1.469" end="1.620" startframe="64778" framelength="6682" text="hii"/>
+		<timing id="3" start="1.620" end="2.273" startframe="71460" framelength="28795" text="korofi"/>
+		<timing id="4" start="2.273" end="2.961" startframe="100255" framelength="30313" text="inahitaji"/>
+		<timing id="5" start="2.961" end="3.381" startframe="130568" framelength="18526" text="nini"/>
+		<timing id="6" start="3.712" end="4.471" startframe="163692" framelength="33491" text="anasema"/>
+	</timings>
+</xml>

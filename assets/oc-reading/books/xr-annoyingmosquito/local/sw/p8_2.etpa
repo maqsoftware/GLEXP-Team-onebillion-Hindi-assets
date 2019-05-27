@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-annoyingmosquitoSW-0/_processed/p8_2.aif</url>
+	<relurl>p8_2.aif</relurl>
+	<timings text="Sasa sauti ilionekana kuwemo mle ndani ya chandarua chake. Ziiiiiii!" frames="277321">
+		<timing id="0" start="0.000" end="0.616" startframe="0" framelength="27185" text="Sasa"/>
+		<timing id="1" start="0.616" end="1.156" startframe="27185" framelength="23813" text="sauti"/>
+		<timing id="2" start="1.156" end="2.201" startframe="50998" framelength="46045" text="ilionekana"/>
+		<timing id="3" start="2.484" end="2.937" startframe="109548" framelength="19992" text="kuwemo"/>
+		<timing id="4" start="2.937" end="3.263" startframe="129540" framelength="14342" text="mle"/>
+		<timing id="5" start="3.263" end="3.496" startframe="143882" framelength="10293" text="ndani"/>
+		<timing id="6" start="3.496" end="3.614" startframe="154175" framelength="5213" text="ya"/>
+		<timing id="7" start="3.614" end="4.094" startframe="159388" framelength="21157" text="chandarua"/>
+		<timing id="8" start="4.094" end="4.629" startframe="180545" framelength="23592" text="chake"/>
+		<timing id="9" start="4.975" end="6.288" startframe="219401" framelength="57920" text="Ziiiiiii"/>
+	</timings>
+</xml>

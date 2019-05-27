@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="2a,2a2,2b,2b2,2b3,2b4,2c,2d,2e,2e2,2f,2f2,2g,2g2,2h,2i,2j,2j2,2j3,2j4,2j5,2j6,2k,2k2,2l,2l2,2m,2m2,2n,2n2,2o,2o2,2p,2p2,2p3,2p4,2q,2q2,2r,2r2,2r3" gradienttop="134,206,248" gradientbottom="239,249,255" >
+		<vector id="tree" pos="0.0605927,0.382596" src="2_tree" scalex="0.719719" scaley="0.719719" zpos="0" opacity="0.504857" />
+		<linearGradient id="Gradient11" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(26.2745%,77.2549%,24.3137%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(47.8431%,85.8824%,49.0196%)" stop-opacity="1"/>
+		</linearGradient>
+		<path id="Path1" pos="0.515192,0.772558" src="Path1" fill="url(#Gradient11)"  zpos="1" d="M-0.00938416 0.54243c0.315-0.032 0.198 0.009 0.410 0.012c0.147 0.002 0.253-0.029 0.391-0.032c0.137-0.003 0.234 0.035 0.250 0.040c0.000 0.000-0.018 0.474-0.018 0.474L-0.0112076 1.03312L-0.00938416 0.54243Z" />
+		<vector id="house" pos="0.743652,0.38151" src="2_house" scalex="0.283595" scaley="0.283595" zpos="2" />
+		<linearGradient id="Gradient13" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(97.3671%,100%,97.1781%)" stop-opacity="0.28"/>
+			<stop offset="100%" stop-color="rgb(95.7918%,100%,96.8407%)" stop-opacity="0.1"/>
+		</linearGradient>
+		<path id="Path4" pos="0.421996,0.155163" src="Path4" fill="url(#Gradient13)"  zpos="3" d="M0.343963 0.15603c-0.004 0.001-0.007 0.004-0.010 0.007c-0.010 0.011-0.010 0.030 0.000 0.041c0.006 0.007 0.015 0.010 0.023 0.008c0.001 0.001 0.001 0.002 0.002 0.003c0.007 0.008 0.016 0.010 0.025 0.007c0.001 0.001 0.001 0.002 0.002 0.003c0.010 0.011 0.025 0.011 0.035 0.000c0.002-0.003 0.004-0.006 0.005-0.009c0.001 0.002 0.002 0.003 0.003 0.004c0.010 0.011 0.025 0.011 0.035 0.000c0.001-0.002 0.003-0.004 0.004-0.006c0.000 0.000 0.000 0.000 0.000 0.000c0.011 0.013 0.030 0.013 0.041 0.000c0.011-0.013 0.011-0.035 0.000-0.048c-0.002-0.002-0.004-0.004-0.007-0.006c0.007-0.011 0.006-0.027-0.003-0.037c-0.005-0.006-0.012-0.009-0.018-0.008c-0.001-0.009-0.004-0.017-0.010-0.024c-0.014-0.015-0.036-0.015-0.050 0.000c-0.001 0.001-0.002 0.003-0.003 0.004c-0.009-0.007-0.022-0.005-0.030 0.004c-0.005 0.006-0.008 0.014-0.007 0.022c-0.010-0.002-0.020 0.002-0.027 0.010c-0.006 0.007-0.009 0.016-0.009 0.025Z" />
+		<linearGradient id="Gradient13" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(97.3671%,100%,97.1781%)" stop-opacity="0.28"/>
+			<stop offset="100%" stop-color="rgb(95.7918%,100%,96.8407%)" stop-opacity="0.1"/>
+		</linearGradient>
+		<path id="Path5" pos="0.863932,0.0571556" src="Path5" fill="url(#Gradient13)"  zpos="3.001" d="M0.722969 0.0869243c0.012 0.012 0.029 0.016 0.045 0.014c0.002 0.003 0.004 0.005 0.006 0.007c0.015 0.015 0.039 0.017 0.056 0.006c0.002 0.005 0.006 0.010 0.011 0.014c0.020 0.019 0.053 0.019 0.073 0.000c0.005-0.005 0.009-0.011 0.012-0.017c0.002 0.003 0.004 0.005 0.007 0.008c0.020 0.019 0.053 0.019 0.073 0.000c0.020-0.019 0.020-0.049 0.000-0.068c-0.005-0.004-0.010-0.008-0.016-0.010c-0.000-0.012-0.005-0.024-0.015-0.033c-0.014-0.013-0.035-0.017-0.053-0.011c-0.002-0.004-0.005-0.007-0.009-0.011c-0.020-0.019-0.053-0.019-0.073 0.000c-0.000 0.000-0.000 0.000-0.001 0.001c-0.020-0.016-0.051-0.016-0.070 0.002c-0.004 0.004-0.007 0.008-0.010 0.013c-0.013 0.000-0.025 0.005-0.035 0.015c-0.021 0.020-0.021 0.051 0.000 0.071Z" />
+		<vector id="orangegirl" anchor="0.5,1" pos="0.209313,0.895594" src="orangegirl" scalex="0.442325" scaley="0.442325" zpos="4" hidden="true" />
+		<vector id="yellowboy" anchor="0.5,1" pos="0.406962,0.849231" src="yellowboy" scalex="0.39986" scaley="0.39986" zpos="4.001" hidden="true" skinoffset="2" />
+		<vector id="orangegirlwalk" pos="0.524225,0.513964" parent="orangegirl" src="orangegirlwalk" scalex="0.442" scaley="0.442" zpos="4.002" />
+		<vector id="yellowboywalk" pos="0.560819,0.489338" parent="yellowboy" src="yellowboywalk" scalex="0.415378" scaley="0.415378" zpos="4.003" skinoffset="2" />
+	</event>
+	<event id="2a" >
+		<circle id="destpos" pos="1.38465,0.781433" parent="yellowboy" src="destpos" fill="255,38,28" zpos="7" hidden="true" x="1.3245" y="0.759322" width="0.120291" height="0.0442212" />
+	</event>
+	<event id="2b" >
+		<rectangle id="backgroundrect" pos="0.494919,0.285762" src="backgroundrect" fill="250,254,217" zpos="7" opacity="0" fit="fitwidth,fitheight" x="0.143288" y="0.0307312" width="0.703262" height="0.510061" />
+		<vector id="boxpresent" pos="0.45578,0.543012" parent="yellowboywalk" src="box" scalex="0.198311" scaley="0.198311" zpos="8" />
+	</event>
+	<event id="2b-2" >
+		<vector id="boxpresent" pos="0.488724,0.523992" src="box" scalex="0.843392" scaley="0.843392" zpos="7" />
+	</event>
+	<event id="2b3" text="t_cube" textsize="90" textcolour="28,85,151" >
+		<rectangle id="textbox" pos="0.49707,0.0794271" src="textbox" fill="255,255,255" fillopacity="0.31" stroke="0,0,0" strokewidth="1" zpos="7" hidden="true" x="0.335938" y="0.0182292" width="0.322266" height="0.122396" />
+	</event>
+	<event id="2e" >
+		<linearGradient id="Gradient12" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(92.1569%,87.0588%,59.2157%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,98.0392%,86.6667%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="bottomrect" pos="0.5,0.869792" src="bottomrect" fill="url(#Gradient12)"  zpos="7" fit="fitwidth" x="0" y="0.739583" width="1" height="0.260417" />
+		<rectangle id="2e_bottomrect" pos="0.5,0.5" parent="bottomrect" src="2e_bottomrect" fill="255,255,255" fillopacity="0.31" zpos="8" hidden="true" widthtracksheight="true" x="0" y="0" width="1" height="1" pxwidth="1024" pxheight="200" />
+		<rectangle id="2eobj1" pos="0.181107,0.509883" parent="2e_bottomrect" src="2eobj1" fill="123,205,124" stroke="0,0,0" strokewidth="1" zpos="9" x="0.0922432" y="0.21502" width="0.177727" height="0.589727" />
+		<circle id="2eobj2" pos="0.3951,0.507344" parent="2e_bottomrect" src="2eobj2" fill="114,167,227" stroke="0,0,0" strokewidth="1" zpos="9.001" x="0.318508" y="0.115195" width="0.153183" height="0.784297" />
+		<rectangle id="2eobj3" pos="0.610605,0.504639" parent="2e_bottomrect" src="2eobj3" fill="246,183,103" stroke="0,0,0" strokewidth="1" zpos="9.002" match="true" x="0.543335" y="0.160215" width="0.134541" height="0.688848" />
+		<path id="2eobj4" pos="0.828598,0.51166" parent="2e_bottomrect" src="2eobj4" fill="182,126,246" stroke="0,0,0" strokewidth="1" zpos="9.003" d="M0.726562 0.861953c0.000 0.000 0.204-0.701 0.203-0.697c-0.001 0.004-0.001 0.689-0.002 0.691c-0.001 0.002-0.201 0.006-0.201 0.006Z" />
+	</event>
+	<event id="2f" >
+		<rectangle id="siderect" pos="0.755342,0.511141" src="siderect" fill="255,255,255" fillopacity="0.31" zpos="0" hidden="true" widthtracksheight="true" x="0.532349" y="0.181839" width="0.445988" height="0.658605" pxwidth="456.691" pxheight="505.809" />
+		<rectangle id="side0" pos="0.641635,0.659043" parent="siderect" src="side0" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1.005" x="0.351347" y="0.397098" width="0.580577" height="0.52389" />
+		<rectangle id="side1" pos="0.582697,0.592023" parent="siderect" src="side1" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1.004" x="0.292409" y="0.330078" width="0.580577" height="0.52389" />
+		<rectangle id="side2" pos="0.52376,0.525003" parent="siderect" src="side2" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1.003" x="0.233471" y="0.263058" width="0.580577" height="0.52389" />
+		<rectangle id="side3" pos="0.464822,0.457983" parent="siderect" src="side3" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1.002" x="0.174533" y="0.196038" width="0.580577" height="0.52389" />
+		<rectangle id="side4" pos="0.405884,0.390964" parent="siderect" src="side4" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1.001" x="0.115595" y="0.129018" width="0.580577" height="0.52389" />
+		<rectangle id="side5" pos="0.346946,0.323944" parent="siderect" src="side5" fill="246,183,103" stroke="0,0,0" strokewidth="3" zpos="1" x="0.0566575" y="0.0619985" width="0.580577" height="0.52389" />
+	</event>
+	<event id="2l" text="t_cuboid" textsize="90" textcolour="28,85,151" >
+		<rectangle id="textbox" pos="0.494392,0.0849253" src="textbox" fill="255,255,255" fillopacity="0.31" stroke="0,0,0" strokewidth="1" zpos="7" hidden="true" x="0.33326" y="0.0237274" width="0.322266" height="0.122396" />
+		<vector id="yellowbox" pos="0.503882,0.555868" parent="orangegirlwalk" src="yellowbox" scalex="0.351878" scaley="0.351878" rotation="-11" zpos="7.001" />
+	</event>
+	<event id="2l2" >
+	</event>
+	<event id="2p" >
+		<rectangle id="siderect" pos="0.755342,0.511141" src="siderect" fill="255,255,255" fillopacity="0.31" zpos="7" hidden="true" widthtracksheight="true" x="0.532349" y="0.181839" width="0.445988" height="0.658605" pxwidth="456.691" pxheight="505.809" />
+		<rectangle id="side0" pos="0.446802,0.206631" parent="siderect" src="side0" fill="255,64,254" stroke="0,0,0" strokewidth="2" zpos="8.005" x="0.245533" y="0.103539" width="0.402539" height="0.206183" />
+		<rectangle id="side1" pos="0.566695,0.526644" parent="siderect" src="side1" fill="46,200,67" stroke="0,0,0" strokewidth="2" zpos="8.004" x="0.241308" y="0.346915" width="0.650775" height="0.359457" />
+		<rectangle id="side2" pos="0.431552,0.18839" parent="siderect" src="side2" fill="255,64,254" stroke="0,0,0" strokewidth="2" zpos="8.002" x="0.230282" y="0.0852981" width="0.402539" height="0.206183" />
+		<rectangle id="side3" pos="0.555824,0.504078" parent="siderect" src="side3" fill="46,200,67" stroke="0,0,0" strokewidth="2" zpos="8.001" x="0.230436" y="0.324349" width="0.650775" height="0.359457" />
+		<rectangle id="side4" pos="0.557145,0.848962" parent="siderect" src="side4" fill="42,176,233" stroke="0,0,0" strokewidth="2" zpos="8.003" x="0.240093" y="0.741827" width="0.634104" height="0.214269" />
+		<rectangle id="side5" pos="0.545701,0.836652" parent="siderect" src="side5" fill="42,176,233" stroke="0,0,0" strokewidth="2" zpos="8" x="0.228649" y="0.729517" width="0.634104" height="0.214269" />
+	</event>
+	<event id="2r" >
+		<vector id="greenboy" pos="0.821903,0.546295" src="greenboy" scalex="0.426" scaley="0.426" zpos="7.002" hidden="true" />
+		<vector id="greenboywalk" pos="0.796034,0.536464" src="greenboywalk" scalex="0.426446" scaley="0.426446" zpos="7.001" />
+		<vector id="pinkgirl" pos="0.604882,0.581487" src="pinkgirl" scalex="0.435028" scaley="0.435028" zpos="7.003" hidden="true" />
+		<vector id="pinkgirlwalk" pos="0.604442,0.58135" src="pinkgirlwalk" scalex="0.417515" scaley="0.417515" zpos="7" />
+	</event>
+</events>

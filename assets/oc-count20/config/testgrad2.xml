@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="mastera" scenes="a,b,c" >
+		<radialGradient id="Gradient7" cx="0.7" cy="0.35" r="1" >
+			<stop offset="0%" stop-color="rgb(100%,90.1192%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(6.96484%,31.3504%,10.7811%)" stop-opacity="1"/>
+		</radialGradient>
+		<circle id="Circle1" pos="0.773859,0.650414" src="Circle1" fill="url(#Gradient7)"  stroke="0,0,0" strokewidth="1" zpos="0.001" x="0.652191" y="0.537384" width="0.243336" height="0.226059" />
+		<linearGradient id="Gradient5" x1="1.07305" y1="0.893672" x2="-0.0730455" y2="0.106328" >
+			<stop offset="0%" stop-color="rgb(100%,0%,0%)" stop-opacity="1"/>
+			<stop offset="53.0644%" stop-color="rgb(46.9356%,0%,0%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(0%,0%,0%)" stop-opacity="1"/>
+		</linearGradient>
+		<path id="Path1" pos="0.420124,0.356639" src="Path1" fill="url(#Gradient5)"  stroke="0,0,0" strokewidth="1" zpos="0" d="M0.232731 0.307897c0.022 0.039 0.060-0.152 0.157-0.185c0.097-0.033 0.068 0.050 0.082 0.089c0.014 0.039 0.028-0.009 0.080 0.020c0.052 0.028 0.117 0.059 0.045 0.137c-0.072 0.079-0.192 0.060-0.170 0.021c0.023-0.039-0.029-0.137-0.083 0.012c-0.055 0.149-0.166 0.221-0.114 0.102c0.052-0.119-0.048-0.063-0.050-0.178c-0.002-0.115-0.011-0.169 0.041-0.170c0.052-0.002-0.011 0.113 0.010 0.152Z" />
+		<path id="Path2" pos="0.78919,0.32474" src="Path2" fill="4,51,255" stroke="0,0,0" strokewidth="1" zpos="0.003" d="M0.744209 0.178843c0.100 0.105 0.124 0.102 0.091 0.160c-0.033 0.058-0.123 0.132-0.123 0.053c0.000-0.078-0.001-0.182-0.001-0.182L0.744209 0.178843Z" />
+		<linearGradient id="Gradient6" x1="1.07305" y1="0.893672" x2="-0.0730455" y2="0.106328" >
+			<stop offset="0%" stop-color="rgb(96.035%,100%,4.4115%)" stop-opacity="1"/>
+			<stop offset="53.0644%" stop-color="rgb(31.9445%,21.6674%,87.8841%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(78.2845%,33.3038%,87.284%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="Rectangle1" pos="0.352282,0.786397" src="Rectangle1" fill="url(#Gradient6)"  stroke="0,0,0" strokewidth="1" zpos="0.002" x="0.270168" y="0.701655" width="0.164227" height="0.169484" />
+	</event>
+</events>

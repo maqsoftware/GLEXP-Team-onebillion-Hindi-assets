@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event id="master2" scenes1="2a,2b,2c,2d,2e,2f" scenes2="2j,2k,2l,2m" gradienttop="222,255,183" gradientbottom="239,255,228" linecolour="103,167,44" textcolour="73,73,73" hilitecolour="255,241,97" >
+        <rectangle id="workrect" pos="0.501973,0.451586" src="workrect" fill="255,255,255" zpos="0" hidden="true" heighttrackswidth="true" x="0.0810547" y="0.215673" width="0.841837" height="0.471827" pxwidth="862.041" pxheight="362.363" />
+    </event>
+    <event id="colours" col1="162,106,230" col2="246,113,172" col3="169,142,94" col4="77,152,71" col5="103,140,171" col6="212,134,221" col7="49,165,214" col8="58,127,144" col9="215,172,0" col10="241,146,10" >
+    </event>
+    <event id="2a" num="21,22,23" cindex="7" >
+    </event>
+    <event id="2b" num="44,45,46" cindex="9" >
+    </event>
+    <event id="2c" num="38,39,40" cindex="1" >
+    </event>
+    <event id="2d" num="10,20,30,40,50" cindex="2" >
+    </event>
+    <event id="2e" num="1,11,21,31,41" cindex="5" >
+    </event>
+    <event id="2f" num="5,15,25,35,45" cindex="4" >
+    </event>
+    <event id="2j" index="1" >
+        <vector id="cover1" pos="0.150927,0.102442" parent="workrect" src="cover_2j" zpos="1" hidden="true" num="1,2,3" cindex="8" />
+        <vector id="cover2" pos="0.450362,0.499951" parent="workrect" src="cover_2j" zpos="1.001" hidden="true" num="24,25,26" cindex="2" />
+        <vector id="cover3" pos="0.350902,0.897666" parent="workrect" src="cover_2j" zpos="1.002" hidden="true" num="43,44,45" cindex="9" />
+        <vector id="cover4" pos="0.749298,0.300426" parent="workrect" src="cover_2j" zpos="1.003" hidden="true" num="17,18,19" cindex="7" />
+        <vector id="cover5" pos="0.848568,0.700577" parent="workrect" src="cover_2j" zpos="1.004" hidden="true" num="38,39,40" cindex="10" />
+    </event>
+    <event id="2j-1" index="2" >
+    </event>
+    <event id="2j-2" index="3" >
+    </event>
+    <event id="2j-3" index="4" >
+    </event>
+    <event id="2j-4" index="5" >
+    </event>
+    <event id="2k" >
+        <vector id="cover1" pos="0.448978,0.400868" parent="workrect" src="cover_2k" scalex="0.71865" scaley="0.71865" zpos="1" hidden="true" num="15,25" cindex="6" />
+        <vector id="cover2" pos="0.848574,0.400771" parent="workrect" src="cover_2k" scalex="0.71865" scaley="0.71865" zpos="1.001" hidden="true" num="19,29" cindex="3" />
+        <vector id="cover3" pos="0.648196,0.79634" parent="workrect" src="cover_2k" scalex="0.71865" scaley="0.71865" zpos="1.002" hidden="true" num="37,47" cindex="4" />
+        <vector id="cover4" pos="0.0504595,0.598798" parent="workrect" src="cover_2k" scalex="0.71865" scaley="0.71865" zpos="1.003" hidden="true" num="21,31" cindex="10" />
+    </event>
+    <event id="2k-1" index="1" >
+    </event>
+    <event id="2k-2" index="2" >
+    </event>
+    <event id="2k-3" index="3" >
+    </event>
+    <event id="2k-4" index="4" >
+    </event>
+    <event id="2l" >
+        <vector id="cover1" pos="0.549946,0.497656" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1" hidden="true" num="26" audio="1" cindex="3" />
+        <vector id="cover2" pos="0.251871,0.301342" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.001" hidden="true" num="13" audio="1" cindex="1" />
+        <vector id="cover3" pos="0.949325,0.894745" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.002" hidden="true" num="50" audio="2" cindex="8" />
+        <vector id="cover4" pos="0.849186,0.101666" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.003" hidden="true" num="9" audio="1" cindex="4" />
+        <vector id="cover5" pos="0.75037,0.697009" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.004" hidden="true" num="38" audio="2" cindex="10" />
+        <vector id="cover6" pos="0.146575,0.899553" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.005" hidden="true" num="42" audio="3" cindex="9" />
+        <vector id="cover7" pos="0.947051,0.500081" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.006" hidden="true" num="30" audio="1" cindex="6" />
+        <vector id="cover8" pos="0.0495168,0.697817" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.007" hidden="true" num="31" audio="2" cindex="5" />
+        <vector id="cover9" pos="0.648074,0.697817" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.008" hidden="true" num="37" audio="3" cindex="2" />
+        <vector id="cover10" pos="0.449671,0.897688" parent="workrect" src="cover_2l" scalex="0.592148" scaley="0.592148" zpos="1.009" hidden="true" num="45" audio="4" cindex="7" />
+    </event>
+    <event id="2l-1" index="1" >
+    </event>
+    <event id="2l-2" index="2,3" >
+    </event>
+    <event id="2l-3" index="4,5,6" >
+    </event>
+    <event id="2l-4" index="7,8,9,10" >
+    </event>
+    <event id="2m" counting="true" >
+    </event>
+</events>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-busylittlemillipedeSW-0/_processed/ps11_2.aif</url>
+	<relurl>ps11_2.aif</relurl>
+	<timings text="“Tatizo ni nini?” aliuliza. Jongoo akamwambia tatizo la mguu wake." frames="676185">
+		<timing id="0" start="0.000" end="0.871" startframe="0" framelength="38395" text="Tatizo"/>
+		<timing id="1" start="1.785" end="2.289" startframe="78711" framelength="22230" text="ni"/>
+		<timing id="2" start="3.304" end="4.084" startframe="145726" framelength="34393" text="nini"/>
+		<timing id="3" start="5.023" end="6.076" startframe="221502" framelength="46446" text="aliuliza"/>
+		<timing id="4" start="6.741" end="7.601" startframe="297260" framelength="37957" text="Jongoo"/>
+		<timing id="5" start="8.580" end="9.772" startframe="378358" framelength="52600" text="akamwambia"/>
+		<timing id="6" start="10.516" end="11.338" startframe="463758" framelength="36262" text="tatizo"/>
+		<timing id="7" start="12.164" end="12.670" startframe="536419" framelength="22327" text="la"/>
+		<timing id="8" start="13.384" end="14.182" startframe="590239" framelength="35207" text="mguu"/>
+		<timing id="9" start="14.779" end="15.333" startframe="651750" framelength="24435" text="wake"/>
+	</timings>
+</xml>

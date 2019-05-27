@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-anansiandvultureSW-0/_processed/ps4_1.aif</url>
+	<relurl>ps4_1.aif</relurl>
+	<timings text="Akiwa njiani kurejea nyumbani, Anansi aliwaza kuhusu vitu atakavyonunua kwa pesa zake. “Nyumba na gari!” alisema. “Pete kubwa ya almasi!”" frames="1838778">
+		<timing id="0" start="0.000" end="0.891" startframe="0" framelength="39313" text="Akiwa"/>
+		<timing id="1" start="2.130" end="3.395" startframe="93916" framelength="55812" text="njiani"/>
+		<timing id="2" start="4.406" end="5.662" startframe="194301" framelength="55413" text="kurejea"/>
+		<timing id="3" start="6.883" end="7.992" startframe="303529" framelength="48913" text="nyumbani"/>
+		<timing id="4" start="9.096" end="10.223" startframe="401150" framelength="49669" text="Anansi"/>
+		<timing id="5" start="11.101" end="12.468" startframe="489549" framelength="60268" text="aliwaza"/>
+		<timing id="6" start="13.599" end="14.780" startframe="599734" framelength="52065" text="kuhusu"/>
+		<timing id="7" start="15.766" end="16.856" startframe="695300" framelength="48051" text="vitu"/>
+		<timing id="8" start="17.984" end="19.680" startframe="793094" framelength="74775" text="atakavyonunua"/>
+		<timing id="9" start="21.101" end="21.868" startframe="930544" framelength="33853" text="kwa"/>
+		<timing id="10" start="23.054" end="24.029" startframe="1016673" framelength="42991" text="pesa"/>
+		<timing id="11" start="24.884" end="26.002" startframe="1097386" framelength="49317" text="zake"/>
+		<timing id="12" start="27.238" end="28.396" startframe="1201191" framelength="51078" text="Nyumba"/>
+		<timing id="13" start="29.274" end="30.047" startframe="1290983" framelength="34106" text="na"/>
+		<timing id="14" start="31.022" end="32.027" startframe="1368049" framelength="44331" text="gari"/>
+		<timing id="15" start="33.152" end="34.339" startframe="1461992" framelength="52339" text="alisema"/>
+		<timing id="16" start="35.332" end="36.264" startframe="1558136" framelength="41126" text="Pete"/>
+		<timing id="17" start="37.305" end="38.196" startframe="1645133" framelength="39297" text="kubwa"/>
+		<timing id="18" start="39.062" end="39.816" startframe="1722656" framelength="33208" text="ya"/>
+		<timing id="19" start="40.779" end="41.696" startframe="1798335" framelength="40443" text="almasi"/>
+	</timings>
+</xml>

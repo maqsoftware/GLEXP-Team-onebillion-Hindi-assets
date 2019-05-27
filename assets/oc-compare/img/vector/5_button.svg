@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166px" height="166px" viewBox = "0 0 166 166">
+<defs>
+<filter id="Shadow1" filterUnits="userSpaceOnUse" x="0" y="0" width="166.273" height="166.273">
+	<feComponentTransfer in="SourceAlpha" result="faded">
+	<feFuncA type="linear" slope="0.426294" intercept="0.0"/>
+	</feComponentTransfer>
+	<feGaussianBlur in="faded" stdDeviation="3" result="blur"/>
+	<feOffset in="blur" dx="3" dy="-3" result="offsetBlur"/>
+	<feMerge>
+		<feMergeNode in="offsetBlur"/>
+		<feMergeNode in="SourceGraphic"/>
+	</feMerge>
+</filter>
+</defs>
+<g transform="translate(0,166) scale(1,-1)">
+	<g id="Layer 1" >
+		<path id="darkrect" d="M12.07 27.52L12.07 27.52c0-8.31 6.74-15 15-15L140.5 12.47L140.5 12.47c8.31 0 15 6.74 15 15L155.5 138L155.5 138c0 8.31-6.74 15-15 15L27.12 153.1L27.12 153.1c-8.31 0-15-6.74-15-15Z" stroke="rgb(0%,0%,0%)" stroke-width="2" stroke-opacity="0.336337" fill="rgb(99.4%,80.4%,3.9%)"  />
+		<path id="lightrect" d="M12.07 27.52L12.07 27.52c0-8.31 6.74-15 15-15L140.5 12.47L140.5 12.47c8.31 0 15 6.74 15 15L155.5 138L155.5 138c0 8.31-6.74 15-15 15L27.12 153.1L27.12 153.1c-8.31 0-15-6.74-15-15Z" stroke="rgb(0%,0%,0%)" stroke-width="2" stroke-opacity="0.336337" fill="rgb(100%,91.3%,50.8%)" visibility="hidden"  />
+	</g>
+	<g id="Layer 2" >
+		<g id="maskgroup" >
+			<clipPath id="clip6485167888">
+				<path d="M12.07 27.52L12.07 27.52c0-8.31 6.74-15 15-15L140.5 12.47L140.5 12.47c8.31 0 15 6.74 15 15L155.5 138L155.5 138c0 8.31-6.74 15-15 15L27.12 153.1L27.12 153.1c-8.31 0-15-6.74-15-15Z" />
+			</clipPath>
+			<path id="shadow" clip-path="url(#clip6485167888)" d="M166.3 0L166.3 166.3L0 166.3L0 0L166.3 0ZM140.5 153.1c8.31 0 15-6.74 15-15L155.5 27.52c0-8.31-6.74-15-15-15L27.12 12.47c-8.31 0-15 6.74-15 15L12.07 138c0 8.31 6.74 15 15 15L140.5 153.1Z" stroke="none" fill="rgb(100%,100%,100%)" filter="url(#Shadow1)"  />
+		</g>
+	</g>
+</g>
+</svg>

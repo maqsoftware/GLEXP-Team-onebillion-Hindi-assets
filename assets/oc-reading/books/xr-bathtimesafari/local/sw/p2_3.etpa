@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/p2_3.aif</url>
+	<relurl>p2_3.aif</relurl>
+	<timings text="Itakuwa sio kitambaa cha uso kabisa." frames="103418">
+		<timing id="0" start="0.000" end="0.463" startframe="0" framelength="20428" text="Itakuwa"/>
+		<timing id="1" start="0.463" end="0.769" startframe="20428" framelength="13470" text="sio"/>
+		<timing id="2" start="0.769" end="1.299" startframe="33898" framelength="23408" text="kitambaa"/>
+		<timing id="3" start="1.299" end="1.466" startframe="57306" framelength="7361" text="cha"/>
+		<timing id="4" start="1.466" end="1.823" startframe="64667" framelength="15742" text="uso"/>
+		<timing id="5" start="1.823" end="2.345" startframe="80409" framelength="23009" text="kabisa"/>
+	</timings>
+</xml>

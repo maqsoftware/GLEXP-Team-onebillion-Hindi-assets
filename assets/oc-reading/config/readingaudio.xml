@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="4b">
+		<phrasegroup id="DEMO">
+			<phrase>4_look</phrase>
+			<phrase>4_youcantouchawordtohearit</phrase>
+		</phrasegroup>
+	</event>
+	<event id="4c">
+		<phrasegroup id="NONE">
+			<phrase>4_family</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE2">
+			<phrase>4_game</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE3">
+			<phrase>4_shoe</phrase>
+		</phrasegroup>
+		<phrasegroup id="NONE4">
+			<phrase>4_umbrella</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>click_snap_1</phrase>
+		</phrasegroup>
+        <phrasegroup id="endstory">
+            <phrase>twinkle</phrase>
+        </phrasegroup>
+	</event>
+</audio>

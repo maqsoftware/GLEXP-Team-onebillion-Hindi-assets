@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-stronglittleantSW-0/_processed/ps14_1.aif</url>
+	<relurl>ps14_1.aif</relurl>
+	<timings text="Hatimaye, Siafu alifika nyumbani. Ameweza! Ameifikisha choroko nyumbani kwao. Kila mmoja katika familia yake alikubali kwamba ile ilikuwa choroko tamu zaidi kuliko zote. " frames="1915603">
+		<timing id="0" start="0.000" end="1.091" startframe="0" framelength="48110" text="Hatimaye"/>
+		<timing id="1" start="2.177" end="3.359" startframe="95995" framelength="52134" text="Siafu"/>
+		<timing id="2" start="3.799" end="5.167" startframe="167545" framelength="60306" text="alifika"/>
+		<timing id="3" start="5.993" end="7.295" startframe="264312" framelength="57378" text="nyumbani"/>
+		<timing id="4" start="9.359" end="10.775" startframe="412721" framelength="62457" text="Ameweza"/>
+		<timing id="5" start="11.725" end="13.274" startframe="517053" framelength="68320" text="Ameifikisha"/>
+		<timing id="6" start="14.096" end="15.403" startframe="621632" framelength="57662" text="choroko"/>
+		<timing id="7" start="16.105" end="17.337" startframe="710238" framelength="54312" text="nyumbani"/>
+		<timing id="8" start="18.116" end="19.218" startframe="798905" framelength="48612" text="kwao"/>
+		<timing id="9" start="19.953" end="20.878" startframe="879929" framelength="40797" text="Kila"/>
+		<timing id="10" start="21.432" end="22.457" startframe="945145" framelength="45193" text="mmoja"/>
+		<timing id="11" start="23.177" end="24.514" startframe="1022097" framelength="58971" text="katika"/>
+		<timing id="12" start="24.876" end="26.152" startframe="1097013" framelength="56278" text="familia"/>
+		<timing id="13" start="26.588" end="27.736" startframe="1172531" framelength="50612" text="yake"/>
+		<timing id="14" start="28.308" end="29.764" startframe="1248367" framelength="64219" text="alikubali"/>
+		<timing id="15" start="30.402" end="31.491" startframe="1340722" framelength="48017" text="kwamba"/>
+		<timing id="16" start="32.300" end="33.209" startframe="1424429" framelength="40108" text="ile"/>
+		<timing id="17" start="33.805" end="35.009" startframe="1490822" framelength="53055" text="ilikuwa"/>
+		<timing id="18" start="35.452" end="36.616" startframe="1563423" framelength="51323" text="choroko"/>
+		<timing id="19" start="37.399" end="38.330" startframe="1649297" framelength="41054" text="tamu"/>
+		<timing id="20" start="39.188" end="40.469" startframe="1728193" framelength="56511" text="zaidi"/>
+		<timing id="21" start="40.847" end="42.011" startframe="1801368" framelength="51328" text="kuliko"/>
+		<timing id="22" start="42.563" end="43.438" startframe="1877022" framelength="38581" text="zote"/>
+	</timings>
+</xml>

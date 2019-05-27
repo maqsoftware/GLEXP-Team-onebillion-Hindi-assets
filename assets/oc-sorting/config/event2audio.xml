@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="2a">
+		<phrasegroup id="DEMO">
+			<phrase>2_look</phrase>
+			<phrase>2_aredstar</phrase>
+			<phrase>2_aredsock</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2b">
+		<phrasegroup id="PROMPT">
+			<phrase>2_yourturn</phrase>
+			<phrase>2_touchalltheredthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchalltheredthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2c">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thecapisgreen</phrase>
+			<phrase>2_touchallthegreenthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchallthegreenthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2d">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thebagisblue</phrase>
+			<phrase>2_touchallthebluethingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchallthebluethingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2e">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thebananaisyellow</phrase>
+			<phrase>2_choosealltheyellowthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosealltheyellowthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2f">
+		<phrasegroup id="PROMPT">
+			<phrase>2_theflowerispink</phrase>
+			<phrase>2_chooseallthepinkthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseallthepinkthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2g">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thestarisorange</phrase>
+			<phrase>2_touchalltheorangethingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchalltheorangethingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2h">
+		<phrasegroup id="PROMPT">
+			<phrase>2_theladderisbrown</phrase>
+			<phrase>2_touchallthebrownthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchallthebrownthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2i">
+		<phrasegroup id="PROMPT">
+			<phrase>2_theshoeisgrey</phrase>
+			<phrase>2_chooseallthegreythingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_chooseallthegreythingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2j">
+		<phrasegroup id="PROMPT">
+			<phrase>2_thistimetheshoeisblack</phrase>
+			<phrase>2_choosealltheblackthingshere</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_choosealltheblackthingshere</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2k">
+		<phrasegroup id="PROMPT">
+			<phrase>2_nowseehowfastyoucanfindthecolours</phrase>
+			<phrase>2_touchyellow</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchyellow</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2l">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchblack</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchblack</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2m">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchblue</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchblue</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2n">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchgrey</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchgrey</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2o">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchred</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchred</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2p">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchbrown</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchbrown</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2q">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchgreen</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchgreen</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2r">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchpink</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchpink</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2s">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchorange</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchorange</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2t">
+		<phrasegroup id="PROMPT">
+			<phrase>2_touchwhite</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>2_touchwhite</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>2_welldoneyoupickedouttendifferentcolours</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="click">
+			<phrase>click</phrase>
+		</phrasegroup>
+	</event>
+</audio>

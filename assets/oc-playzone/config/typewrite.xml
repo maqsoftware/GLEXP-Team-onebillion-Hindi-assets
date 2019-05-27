@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="master" themes="sea,beach" >
+		<rectangle id="keyboard_rect" pos="0.499533,0.782646" src="keyboard_rect" fill="238,238,238" stroke="215,215,215" strokewidth="2" zpos="0" heighttrackswidth="true" x="0.126572" y="0.595179" width="0.745922" height="0.374934" pxwidth="763.824" pxheight="287.949" />
+		<vector id="button" pos="0.943848,0.891375" src="doodleredbutton" scalex="0.925351" scaley="0.925351" zpos="0.01" />
+		<rectangle id="button_highlight" pos="0.0962826,0.377576" parent="keyboard_rect" src="button_highlight" fill="255,192,1" stroke="183,183,183" strokewidth="1" zpos="0.001" hidden="true" font_colour="0,0,0" x="0.0570065" y="0.273391" width="0.0785521" height="0.20837" cornerradius="0.111756" />
+		<rectangle id="button_normal" pos="0.0531096,0.138072" parent="keyboard_rect" src="button_normal" fill="255,255,255" stroke="183,183,183" strokewidth="1" zpos="0.003" hidden="true" font_colour="0,0,0" x="0.0138336" y="0.0338873" width="0.0785521" height="0.20837" cornerradius="0.111833" />
+		<vector id="button_save" pos="0.951542,0.0625814" src="button_save" scalex="0.786848" scaley="0.786848" zpos="0.009" />
+		<rectangle id="button_special" pos="0.139962,0.855633" parent="keyboard_rect" src="button_special" fill="204,204,204" stroke="183,183,183" strokewidth="1" zpos="0.002" hidden="true" font_colour="206,206,206" x="0.100686" y="0.751448" width="0.0785521" height="0.20837" cornerradius="0.111756" />
+		<path id="cursor" pos="0.135635,0.0687637" src="cursor" fill="255,255,255" stroke="0,114,193" strokewidth="2" zpos="0.006" d="M0.1356 0.0494L0.1356 0.08813" />
+		<rectangle id="text_box" pos="0.498367,0.294154" src="text_box" fill="255,255,255" zpos="0.005" x="0.130746" y="0.0327708" width="0.735243" height="0.522766" />
+		<rectangle id="text_box_bg" pos="0.499016,0.294291" src="text_box_bg" fill="255,255,255" stroke="215,215,215" strokewidth="2" zpos="0.004" x="0.114258" y="0.0286611" width="0.769516" height="0.53126" />
+		<linearGradient id="Gradient36" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(100%,100%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,100%,100%)" stop-opacity="0"/>
+		</linearGradient>
+		<rectangle id="text_box_gradient_bottom" pos="0.49865,0.548177" src="text_box_gradient_bottom" fill="url(#Gradient36)"  zpos="0.008" x="0.114468" y="0.53776" width="0.768364" height="0.0208333" />
+		<linearGradient id="Gradient37" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(100%,100%,100%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(100%,100%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="text_box_gradient_top" pos="0.499237,0.0416667" src="text_box_gradient_top" fill="url(#Gradient37)"  zpos="0.007" x="0.115055" y="0.03125" width="0.768364" height="0.0208333" />
+	</event>
+	<event id="master_ro" themes="sea,beach" >
+		<rectangle id="text_box" pos="0.498367,0.418091" src="text_box" fill="255,255,255" zpos="0.001" x="0.130746" y="0.0327708" width="0.735243" height="0.77064" />
+		<rectangle id="text_box_bg" pos="0.499016,0.417391" src="text_box_bg" fill="255,255,255" stroke="61,167,207" strokewidth="2" zpos="0" x="0.114258" y="0.0286611" width="0.769516" height="0.777461" />
+		<linearGradient id="Gradient36" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(100%,100%,100%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(100%,100%,100%)" stop-opacity="0"/>
+		</linearGradient>
+		<rectangle id="text_box_gradient_bottom" pos="0.49865,0.792969" src="text_box_gradient_bottom" fill="url(#Gradient36)"  zpos="0.002" x="0.114468" y="0.782552" width="0.768364" height="0.0208333" />
+		<linearGradient id="Gradient37" x1="0.5" y1="1" x2="0.5" y2="0" >
+			<stop offset="0%" stop-color="rgb(100%,100%,100%)" stop-opacity="0"/>
+			<stop offset="100%" stop-color="rgb(100%,100%,100%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="text_box_gradient_top" pos="0.499237,0.0403646" src="text_box_gradient_top" fill="url(#Gradient37)"  zpos="0.003" x="0.115055" y="0.0299479" width="0.768364" height="0.0208333" />
+	</event>
+	<event id="sea" font="Open Dyslexic" fontfile="OpenDyslexic-Regular.otf" >
+		<linearGradient id="Gradient33" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(68.6%,94.9%,99.9%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(36.3%,70.4%,99.4%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="background" pos="0.5,0.5" src="background" fill="url(#Gradient33)"  stroke="215,215,215" strokewidth="2" zpos="0" x="0" y="0" width="1" height="1" />
+		<vector id="fish_1" pos="0.136364,0.532995" src="fish_1" zpos="0.002" />
+		<vector id="fish_2" pos="0.0783112,0.353269" src="fish_2" scalex="1.16888" scaley="1.16888" zpos="0.003" />
+		<vector id="fish_3" pos="0.809595,0.282767" src="fish_3" scalex="1.49387" scaley="1.49387" zpos="0.004" />
+		<vector id="seaweed" pos="0.541196,0.792157" src="seaweed" scalex="2.3228" scaley="2.3228" zpos="0.001" />
+		<image id="seaweed_left" anchor="0,1" pos="-0.0030098,1.00123" src="seaweed_left" zpos="0.005" />
+		<image id="seaweed_right" anchor="1,1" pos="0.999207,1.00514" src="seaweed_right" zpos="0.006" />
+	</event>
+	<event id="sea_ro" font="Open Dyslexic" fontfile="OpenDyslexic-Regular.otf" >
+		<linearGradient id="Gradient33" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(68.6%,94.9%,99.9%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(36.3%,70.4%,99.4%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="background" pos="0.5,0.5" src="background" fill="url(#Gradient33)"  zpos="0" x="0" y="0" width="1" height="1" />
+		<vector id="fish_1" pos="0.136364,0.532995" src="fish_1" zpos="0.002" />
+		<vector id="fish_2" pos="0.0783112,0.353269" src="fish_2" scalex="1.16888" scaley="1.16888" zpos="0.003" />
+		<vector id="fish_3" pos="0.809595,0.282767" src="fish_3" scalex="1.49387" scaley="1.49387" zpos="0.004" />
+		<vector id="seaweed" pos="0.541196,0.792157" src="seaweed" scalex="2.3228" scaley="2.3228" zpos="0.001" />
+		<image id="seaweed_left" anchor="0,1" pos="-0.0030098,1.00123" src="seaweed_left" zpos="51" />
+		<image id="seaweed_right" anchor="1,1" pos="0.999207,1.00514" src="seaweed_right" zpos="51.001" />
+	</event>
+	<event id="beach" font="Open Dyslexic" fontfile="OpenDyslexic-Regular.otf" >
+		<linearGradient id="Gradient32" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(45.8%,87.6%,98.2%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(59.7%,92%,98.5%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="background" pos="0.518621,0.124769" src="background" fill="url(#Gradient32)"  zpos="0" x="-0.00312042" y="-0.00189718" width="1.04348" height="0.253332" />
+		<linearGradient id="Gradient35" >
+			<stop offset="0%" stop-color="rgb(97.2%,89.4%,58.4%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(88.9%,69.5%,37.7%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="beach" pos="0.51333,0.631126" src="beach" fill="url(#Gradient35)"  zpos="0.001" x="-0.00841141" y="0.251923" width="1.04348" height="0.758408" />
+		<vector id="boat" pos="0.0768871,0.30929" src="boat" scalex="0.536471" scaley="0.536471" zpos="0.008" />
+		<vector id="cloud_1" pos="0.0181599,0.0578926" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.003" opacity="0.29976" />
+		<vector id="cloud_2" pos="0.514624,0.060751" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.004" opacity="0.400888" />
+		<vector id="cloud_3" pos="1.03349,0.127274" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.005" opacity="0.400888" />
+		<vector id="palm_tree" pos="0.858818,0.319359" src="palm_tree" scalex="3.13758" scaley="3.13758" rotation="26.7372" zpos="0.009" />
+		<vector id="sea" pos="0.569259,0.454021" src="sea" scalex="1.65457" scaley="1.65457" zpos="0.002" />
+		<vector id="seagull_1" pos="0.0566712,0.147227" src="seagull" scalex="0.42502" scaley="0.42502" zpos="0.006" />
+		<vector id="seagull_2" pos="0.109859,0.10465" src="seagull" scalex="0.431675" scaley="0.431675" rotation="-32.8795" zpos="0.007" />
+	</event>
+	<event id="beach_ro" font="Open Dyslexic" fontfile="OpenDyslexic-Regular.otf" >
+		<linearGradient id="Gradient32" x1="0.5" y1="0" x2="0.5" y2="1" >
+			<stop offset="0%" stop-color="rgb(45.8%,87.6%,98.2%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(59.7%,92%,98.5%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="background" pos="0.518621,0.124769" src="background" fill="url(#Gradient32)"  zpos="0" x="-0.00312042" y="-0.00189718" width="1.04348" height="0.253332" />
+		<linearGradient id="Gradient35" >
+			<stop offset="0%" stop-color="rgb(97.2%,89.4%,58.4%)" stop-opacity="1"/>
+			<stop offset="100%" stop-color="rgb(88.9%,69.5%,37.7%)" stop-opacity="1"/>
+		</linearGradient>
+		<rectangle id="beach" pos="0.51333,0.631126" src="beach" fill="url(#Gradient35)"  zpos="0.001" x="-0.00841141" y="0.251923" width="1.04348" height="0.758408" />
+		<vector id="boat" pos="0.0768871,0.30929" src="boat" scalex="0.536471" scaley="0.536471" zpos="0.008" />
+		<vector id="cloud_1" pos="0.0181599,0.0578926" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.003" opacity="0.29976" />
+		<vector id="cloud_2" pos="0.514624,0.060751" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.004" opacity="0.400888" />
+		<vector id="cloud_3" pos="1.03349,0.127274" src="cloud" scalex="0.497179" scaley="0.497179" zpos="0.005" opacity="0.400888" />
+		<vector id="sea" pos="0.569259,0.454021" src="sea" scalex="1.65457" scaley="1.65457" zpos="0.002" />
+		<vector id="seagull_1" pos="0.0566712,0.147227" src="seagull" scalex="0.42502" scaley="0.42502" zpos="0.006" />
+		<vector id="seagull_2" pos="0.109859,0.10465" src="seagull" scalex="0.431675" scaley="0.431675" rotation="-32.8795" zpos="0.007" />
+		<vector id="palm_tree" pos="0.987877,0.921013" src="palm_tree" scalex="3.13758" scaley="3.13758" rotation="26.7372" zpos="51" />
+	</event>
+</events>

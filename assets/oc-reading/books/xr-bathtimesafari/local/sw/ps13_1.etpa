@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-bathtimesafariSW-0/_processed/ps13_1.aif</url>
+	<relurl>ps13_1.aif</relurl>
+	<timings text="Hatimaye safari wakati wa kuoga imeisha. Wanyama wote wameshatoweka." frames="808790">
+		<timing id="0" start="0.000" end="0.912" startframe="0" framelength="40213" text="Hatimaye"/>
+		<timing id="1" start="2.098" end="3.136" startframe="92517" framelength="45800" text="safari"/>
+		<timing id="2" start="4.043" end="5.022" startframe="178291" framelength="43169" text="wakati"/>
+		<timing id="3" start="5.942" end="6.600" startframe="262042" framelength="28998" text="wa"/>
+		<timing id="4" start="7.629" end="8.585" startframe="336454" framelength="42137" text="kuoga"/>
+		<timing id="5" start="9.851" end="10.902" startframe="434432" framelength="46325" text="imeisha"/>
+		<timing id="6" start="12.122" end="13.085" startframe="534570" framelength="42462" text="Wanyama"/>
+		<timing id="7" start="14.220" end="15.039" startframe="627080" framelength="36147" text="wote"/>
+		<timing id="8" start="17.085" end="18.340" startframe="753442" framelength="55348" text="wameshatoweka"/>
+	</timings>
+</xml>

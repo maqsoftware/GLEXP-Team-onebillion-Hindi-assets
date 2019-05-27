@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180425.131951759">
+	<event id="n1">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchallthetriangles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n2">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchallthecircles</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n3">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchallthesquares</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n4">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchatriangleandasquare</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n5">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchasquareandacircle</phrase>
+		</phrasegroup>
+	</event>
+	<event id="n6">
+		<phrasegroup id="PROMPT">
+			<phrase>N_touchatriangleandacircle</phrase>
+		</phrasegroup>
+	</event>
+</audio>

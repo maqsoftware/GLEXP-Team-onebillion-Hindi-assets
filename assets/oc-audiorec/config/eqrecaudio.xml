@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio changetoken="20180509.183807189">
+	<event id="intro1">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_nowyoulladdnumbers</phrase>
+			<phrase>eqrec_andsaytheanswersoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>eqrec_nowyoullsubtractnumbers</phrase>
+			<phrase>eqrec_andsaytheanswersoutloud</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>eqrec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="intro2">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_nowyoulladdnumbers</phrase>
+			<phrase>eqrec_andsaytheanswersoutloud</phrase>
+			<phrase>eqrec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>eqrec_nowyoullsubtractnumbers</phrase>
+			<phrase>eqrec_andsaytheanswersoutloud</phrase>
+			<phrase>eqrec_youcancheckifyouwereright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="example">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_watchme</phrase>
+			<phrase>eqrec_itouchthebutton</phrase>
+			<phrase>eqrec_itouchitagain</phrase>
+			<phrase>eqrec_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="1">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_touchthebutton</phrase>
+			<phrase>eqrec_saytheanswer</phrase>
+			<phrase>eqrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqrec_think</phrase>
+			<phrase>eqrec_touchthebutton</phrase>
+			<phrase>eqrec_saytheanswer</phrase>
+			<phrase>eqrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>eqrec_nowlisten</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>eqrec_didyougetitright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="2">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_whatstheanswerthistime</phrase>
+			<phrase>eqrec_think</phrase>
+			<phrase>eqrec_thentouch</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqrec_think</phrase>
+			<phrase>eqrec_touchthebutton</phrase>
+			<phrase>eqrec_saytheanswer</phrase>
+			<phrase>eqrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL">
+			<phrase>eqrec_listen</phrase>
+		</phrasegroup>
+		<phrasegroup id="FINAL2">
+			<phrase>eqrec_didyougetitright</phrase>
+		</phrasegroup>
+	</event>
+	<event id="3">
+		<phrasegroup id="PROMPT">
+			<phrase>eqrec_thinkbeforeyouanswer</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqrec_think</phrase>
+			<phrase>eqrec_touchthebutton</phrase>
+			<phrase>eqrec_saytheanswer</phrase>
+			<phrase>eqrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="default">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>eqrec_think</phrase>
+			<phrase>eqrec_touchthebutton</phrase>
+			<phrase>eqrec_saytheanswer</phrase>
+			<phrase>eqrec_thentouchthebuttonagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT2">
+			<phrase>eqrec_icanthearyou</phrase>
+			<phrase>eqrec_tryagain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>eqrec_verygoodyoupractisedaddition</phrase>
+		</phrasegroup>
+		<phrasegroup id="ALT.DEMO">
+			<phrase>eqrec_verygoodyoupractisedsubtraction</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="ping">
+			<phrase>cf_beep_b</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberin">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="allnumbersoff">
+			<phrase>pop_water_droplet_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="numberoff">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="click">
+			<phrase>cf_fingersnap_shorter_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="newnumberson">
+			<phrase>click_snap_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="equationon">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="equationoff">
+			<phrase>snap_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonon">
+			<phrase>light_click_4</phrase>
+		</phrasegroup>
+		<phrasegroup id="buttonready">
+			<phrase>light_click_1</phrase>
+		</phrasegroup>
+		<phrasegroup id="cancel">
+			<phrase>switch_click_light</phrase>
+		</phrasegroup>
+		<phrasegroup id="fillgrid">
+			<phrase>click_chink</phrase>
+		</phrasegroup>
+		<phrasegroup id="hilite">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+	</event>
+</audio>

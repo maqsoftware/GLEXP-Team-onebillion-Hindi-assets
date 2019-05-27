@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="7a">
+		<phrasegroup id="DEMO">
+			<phrase>7_comparethetoytrains</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>7_thisoneislonger</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO3">
+			<phrase>7_thisoneisshorter</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7b">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_whichtrainislonger</phrase>
+			<phrase>7_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichtrainislonger</phrase>
+			<phrase>7_touchit</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichtrainislonger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7c">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichbusisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichbusisshorter</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichbusisshorter</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7d">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichcarislonger</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichcarislonger</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichcarislonger</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7e">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowtherearethreetoytrains</phrase>
+			<phrase>7_choosetheshortesttrain</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheshortesttrain</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheshortesttrain</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7f">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethelongestcar</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethelongestcar</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethelongestcar</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7g">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosetheshortestsofa</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheshortestsofa</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheshortestsofa</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7h">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosethelongestwall</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosethelongestwall</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosethelongestwall</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7i">
+		<phrasegroup id="PROMPT">
+			<phrase>7_choosetheshortestbelt</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_choosetheshortestbelt</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_choosetheshortestbelt</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7j">
+		<phrasegroup id="DEMO">
+			<phrase>7_look</phrase>
+		</phrasegroup>
+		<phrasegroup id="DEMO2">
+			<phrase>7_nowthelongesttrainisfirst</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7k">
+		<phrasegroup id="PROMPT">
+			<phrase>7_yourturn</phrase>
+			<phrase>7_putthetoytrainsinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_putthetoytrainsinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_putthetoytrainsinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7l">
+		<phrasegroup id="PROMPT">
+			<phrase>7_putthenecklacesinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_putthenecklacesinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_putthenecklacesinorderfromlongesttoshortest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7m">
+		<phrasegroup id="PROMPT">
+			<phrase>7_putthebeltsinorderfromshortesttolongest</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_putthebeltsinorderfromshortesttolongest</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_putthebeltsinorderfromshortesttolongest</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7n">
+		<phrasegroup id="PROMPT">
+			<phrase>7_nowlookatthefish</phrase>
+			<phrase>7_whichtwofisharethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichtwofisharethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichtwofisharethesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="7o">
+		<phrasegroup id="PROMPT">
+			<phrase>7_whichtwonecklacesarethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>7_whichtwonecklacesarethesamelength</phrase>
+		</phrasegroup>
+		<phrasegroup id="INCORRECT">
+			<phrase>7_whichtwonecklacesarethesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>7_welldoneyoupractisedwithlongerandshorterandlongestandshortestandthesamelength</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="tap">
+			<phrase>pop_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>

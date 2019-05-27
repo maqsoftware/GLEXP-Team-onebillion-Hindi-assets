@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event id="main" >
+		<image id="listen_menu" pos="0.5,0.5" src="listen_menu" zpos="0" />
+		<image id="button1" pos="0.334961,0.261719" src="xr-picnictime" shadowcolour="0,0,0" shadowopacity="0.08" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="1.001" target="X_Reading" config="x-reading/books/xr-picnictime" parm="1" />
+		<image id="button2" pos="0.335938,0.735026" src="xr-goldentouch" shadowcolour="0,0,0" shadowopacity="0.08" shadowradius="3" shadowxoffset="0" shadowyoffset="10" zpos="1" target="X_Reading" config="x-reading/books/xr-goldentouch" parm="1" />
+		<vector id="buttonl1" pos="0.731934,0.272786" src="listenbutton" zpos="1.002" target="X_Reading" config="x-reading/books/xr-picnictime" parm="1/autoread" />
+		<vector id="buttonl2" pos="0.731934,0.736328" src="listenbutton" zpos="1.003" target="X_Reading" config="x-reading/books/xr-goldentouch" parm="1/autoread" />
+	</event>
+</events>

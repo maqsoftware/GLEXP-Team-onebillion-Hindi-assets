@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
+	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-howtomakeahomeSW-0/_processed/ps6_2.aif</url>
+	<relurl>ps6_2.aif</relurl>
+	<timings text="Akaona kuwa mwanawe amejenga vibanda vingi sana." frames="343840">
+		<timing id="0" start="0.000" end="1.002" startframe="0" framelength="44208" text="Akaona"/>
+		<timing id="1" start="1.385" end="2.001" startframe="61099" framelength="27128" text="kuwa"/>
+		<timing id="2" start="2.335" end="3.253" startframe="102979" framelength="40470" text="mwanawe"/>
+		<timing id="3" start="3.601" end="4.615" startframe="158803" framelength="44709" text="amejenga"/>
+		<timing id="4" start="4.864" end="5.760" startframe="214512" framelength="39491" text="vibanda"/>
+		<timing id="5" start="6.075" end="6.862" startframe="267915" framelength="34699" text="vingi"/>
+		<timing id="6" start="7.242" end="7.797" startframe="319375" framelength="24465" text="sana"/>
+	</timings>
+</xml>

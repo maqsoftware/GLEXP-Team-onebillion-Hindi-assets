@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio>
+	<event id="a1">
+		<phrasegroup id="DEMO">
+			<phrase>js_nowforsomejigsaws</phrase>
+		</phrasegroup>
+	</event>
+	<event id="a2">
+		<phrasegroup id="DEMO">
+			<phrase>js_letsbuildsomejigsaws</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b1">
+		<phrasegroup id="DEMO">
+			<phrase>js_watchme</phrase>
+			<phrase>js_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="b2">
+		<phrasegroup id="DEMO">
+			<phrase>js_itseasytostartatacorner</phrase>
+			<phrase>js_yourturn</phrase>
+		</phrasegroup>
+	</event>
+	<event id="c">
+		<phrasegroup id="PROMPT">
+			<phrase>js_dragthepiecestomakethepicture</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>js_dragthepiecestomakethepicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d1">
+		<phrasegroup id="PROMPT">
+			<phrase>js_nowtrysomemore</phrase>
+		</phrasegroup>
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>js_dragthepiecestomakethepicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="d2">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>js_dragthepiecestomakethepicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="e">
+		<phrasegroup id="PROMPT.REPEAT">
+			<phrase>js_dragthepiecestomakethepicture</phrase>
+		</phrasegroup>
+	</event>
+	<event id="finale">
+		<phrasegroup id="DEMO">
+			<phrase>js_verygoodyoubuiltjigsaws</phrase>
+		</phrasegroup>
+	</event>
+	<event id="sfx">
+		<phrasegroup id="snap">
+			<phrase>cf_fingersnap</phrase>
+		</phrasegroup>
+		<phrasegroup id="flyout">
+			<phrase>cf_bigsplash</phrase>
+		</phrasegroup>
+		<phrasegroup id="lineson">
+			<phrase>light_click_3</phrase>
+		</phrasegroup>
+		<phrasegroup id="linesoff">
+			<phrase>click_plastic_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="letteron">
+			<phrase>click_hard_single</phrase>
+		</phrasegroup>
+		<phrasegroup id="imageon">
+			<phrase>zip_snap</phrase>
+		</phrasegroup>
+	</event>
+</audio>
