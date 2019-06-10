@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl4_embe.aif</url>
-	<relurl>psyl4_embe.aif</relurl>
-	<timings text="e - mbe" frames="45091">
-		<timing id="0" start="0.000" end="0.413" startframe="0" framelength="18195" text="e"/>
-		<timing id="1" start="0.623" end="1.022" startframe="27465" framelength="17626" text="mbe"/>
-	</timings>
-</xml>

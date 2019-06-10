@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl3_benki.aif</url>
-	<relurl>psyl3_benki.aif</relurl>
-	<timings text="be - nki." frames="49965">
-		<timing id="0" start="0.000" end="0.527" startframe="0" framelength="23260" text="be"/>
-		<timing id="1" start="0.819" end="1.133" startframe="36111" framelength="13854" text="nki"/>
-	</timings>
-</xml>

@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-lindiselephantSW/ps7_1.aif</url>
-	<relurl>ps7_1.aif</relurl>
-	<timings text="Tembo hakujibu." frames="67097">
-		<timing id="0" start="0.000" end="0.626" startframe="0" framelength="27609" text="Tembo"/>
-		<timing id="1" start="0.748" end="1.521" startframe="32975" framelength="34122" text="hakujibu"/>
-	</timings>
-</xml>

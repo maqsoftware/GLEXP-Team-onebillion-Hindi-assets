@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-naughtyspinningtopSW-0/_processed/ps10_2.aif</url>
-	<relurl>ps10_2.aif</relurl>
-	<timings text="Mara pwaaaa!" frames="96003">
-		<timing id="0" start="0.000" end="0.723" startframe="0" framelength="31867" text="Mara"/>
-		<timing id="1" start="1.589" end="2.177" startframe="70085" framelength="25918" text="pwaaaa"/>
-	</timings>
-</xml>
