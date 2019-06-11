@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml><creator program="PhraseAnal 1.14" user="Rosanna"></creator>
-    <url>file:///Users/pedroloureiro/OBB%20dir/assets/oc-reading/books/xr-cooktogether/local/sw/psyl5_kabichi.m4a</url>
-    <relurl>psyl5_kabichi.aif</relurl>
-    <timings text="ka - bi - chi" frames="71771"><timing framelength="20786" id="0" end="0.471" text="ka" startframe="0" start="0.000"></timing>
-        <timing framelength="22045" id="1" end="1.076" text="bi" startframe="25389" start="0.576"></timing>
-        <timing framelength="18215" id="2" end="1.627" text="chi" startframe="53556" start="1.214"></timing>
-    </timings>
-</xml>

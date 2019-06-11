@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl6_huku.aif</url>
-	<relurl>psyl6_huku.aif</relurl>
-	<timings text="hu - ku" frames="36102">
-		<timing id="0" start="0.000" end="0.388" startframe="0" framelength="17101" text="hu"/>
-		<timing id="1" start="0.569" end="0.819" startframe="25103" framelength="10999" text="ku"/>
-	</timings>
-</xml>

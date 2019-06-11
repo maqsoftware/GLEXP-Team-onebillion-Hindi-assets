@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl10_sasa.aif</url>
-	<relurl>psyl10_sasa.aif</relurl>
-	<timings text="sa - sa." frames="49740">
-		<timing id="0" start="0.000" end="0.546" startframe="0" framelength="24068" text="sa"/>
-		<timing id="1" start="0.730" end="1.128" startframe="32172" framelength="17568" text="sa"/>
-	</timings>
-</xml>

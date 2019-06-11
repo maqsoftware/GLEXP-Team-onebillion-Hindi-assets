@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.15" user="Rosanna Colella" />
-	<url >/Users/rosanna/Desktop/audio_library_stories to edit/xr-myjugglinggrandmaSW-0/_processed/psyl2_kitu.aif</url>
-	<relurl>psyl2_kitu.aif</relurl>
-	<timings text="ki - tu" frames="45961">
-		<timing id="0" start="0.000" end="0.461" startframe="0" framelength="20343" text="ki"/>
-		<timing id="1" start="0.761" end="1.042" startframe="33572" framelength="12389" text="tu"/>
-	</timings>
-</xml>
