@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<events>
-	<event id="p10" >
-		<path id="shape" pos="0.533079,0.810367" parent="mainpic" src="shape" fill="4,51,255" fillopacity="0.484603" zpos="0" d="M0.5446 0.7041L0.3583 0.8236L0.3698 0.902L0.6237 0.9166c0 0 0.0842-0.0134 0.0817-0.0195c-0.00248-0.00607-0.0178-0.111-0.0178-0.111L0.5446 0.7041Z" />
-	</event>
-</events>
