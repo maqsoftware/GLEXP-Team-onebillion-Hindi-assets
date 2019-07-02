@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist>
-    <!-- Tablet Care -->
-    <video id="tablet_care_enGB"                    frame="tablet_care"                         file="tablet_care_enGB.mp4"                     subtitles="tablet_care_enGB.srt"          title="Tablet care: English"/>
-
     <!-- Animals -->
     <video id="animals_barbary_macaque"             frame="animals_barbary_macaque"             file="animals_barbary_macaque.mp4"              subtitles="animals_barbary_macaque.srt"   title="Animals: Barbary macaque"/>
     <video id="animals_black_bear"                  frame="animals_black_bear"                  file="animals_black_bear.mp4"                   subtitles="animals_black_bear.srt"        title="Animals: Black bear"/>
@@ -15,7 +12,7 @@
     <video id="cities_aerial_night"                 frame="cities_aerial_night"                 file="cities_aerial_night.mp4"                  subtitles="cities_aerial_night.srt"       title="Cities Aerial: Night"/>
 
     <!-- Countries Aerial -->
-    <video id="countries_aerial_norway2"            frame="countries_aerial_norway2"            file="countries_aerial_norway2.mp4"             subtitles=""                              title="Countries Aerial: Norway"/>
+    <video id="countries_aerial_norway2"            frame="countries_aerial_norway2"            file="countries_aerial_norway2.mp4"             subtitles="countries_aerial_norway2.srt"                              title="Countries Aerial: Norway"/>
     <video id="countries_aerial_uae"                frame="countries_aerial_uae"                file="countries_aerial_uae.mp4"                 subtitles="countries_aerial_uae.srt"      title="Countries Aerial: UAE"/>
 
     <!-- Countries Markets -->
