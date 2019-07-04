@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="One day Jadav found a place beside the sea with no trees">
-		<timing id="0" start="0.006" end="0.498" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.498" end="0.758" startframe="0" framelength="0" text="day"/>
-		<timing id="2" start="0.758" end="1.358" startframe="0" framelength="0" text="Jadav"/>
-		<timing id="3" start="1.358" end="1.957" startframe="0" framelength="0" text="found"/>
-		<timing id="4" start="1.957" end="2.031" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="2.031" end="2.614" startframe="0" framelength="0" text="place"/>
-		<timing id="6" start="2.614" end="3.234" startframe="0" framelength="0" text="beside"/>
-		<timing id="7" start="3.234" end="3.406" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.406" end="4.32" startframe="0" framelength="0" text="sea"/>
-		<timing id="9" start="4.32" end="4.588" startframe="0" framelength="0" text="with"/>
-		<timing id="10" start="4.588" end="4.924" startframe="0" framelength="0" text="no"/>
-		<timing id="11" start="4.924" end="5.799166666666666" startframe="0" framelength="0" text="trees"/>
+		<timing id="0" start="0.006" end="0.441" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.441" end="0.673" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="0.673" end="1.203" startframe="0" framelength="0" text="Jadav"/>
+		<timing id="3" start="1.203" end="1.722" startframe="0" framelength="0" text="found"/>
+		<timing id="4" start="1.722" end="1.782" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.782" end="2.291" startframe="0" framelength="0" text="place"/>
+		<timing id="6" start="2.291" end="2.836" startframe="0" framelength="0" text="beside"/>
+		<timing id="7" start="2.836" end="2.981" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.981" end="3.81" startframe="0" framelength="0" text="sea"/>
+		<timing id="9" start="3.81" end="4.044" startframe="0" framelength="0" text="with"/>
+		<timing id="10" start="4.044" end="4.339" startframe="0" framelength="0" text="no"/>
+		<timing id="11" start="4.339" end="5.093833333333333" startframe="0" framelength="0" text="trees"/>
 	</timings>
 </xml>

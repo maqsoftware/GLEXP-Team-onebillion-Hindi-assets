@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="One day some boys came They had slingshots">
-		<timing id="0" start="0.006" end="0.498" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.498" end="0.761" startframe="0" framelength="0" text="day"/>
-		<timing id="2" start="0.761" end="1.148" startframe="0" framelength="0" text="some"/>
-		<timing id="3" start="1.148" end="1.779" startframe="0" framelength="0" text="boys"/>
-		<timing id="4" start="1.779" end="2.824" startframe="0" framelength="0" text="came"/>
-		<timing id="5" start="2.824" end="3.109" startframe="0" framelength="0" text="They"/>
-		<timing id="6" start="3.109" end="3.539" startframe="0" framelength="0" text="had"/>
-		<timing id="7" start="3.539" end="5.067666666666667" startframe="0" framelength="0" text="slingshots"/>
+		<timing id="0" start="0.006" end="0.441" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.441" end="0.677" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="0.677" end="1.018" startframe="0" framelength="0" text="some"/>
+		<timing id="3" start="1.018" end="1.563" startframe="0" framelength="0" text="boys"/>
+		<timing id="4" start="1.563" end="2.533" startframe="0" framelength="0" text="came"/>
+		<timing id="5" start="2.533" end="2.78" startframe="0" framelength="0" text="They"/>
+		<timing id="6" start="2.78" end="3.157" startframe="0" framelength="0" text="had"/>
+		<timing id="7" start="3.157" end="4.493" startframe="0" framelength="0" text="slingshots"/>
 	</timings>
 </xml>

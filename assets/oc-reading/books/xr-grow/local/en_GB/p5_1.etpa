@@ -1,13 +1,13 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Dalitso put his seed in his pocket">
-		<timing id="0" start="0.006" end="0.938" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="1" start="0.938" end="1.324" startframe="0" framelength="0" text="put"/>
-		<timing id="2" start="1.324" end="1.558" startframe="0" framelength="0" text="his"/>
-		<timing id="3" start="1.558" end="2.022" startframe="0" framelength="0" text="seed"/>
-		<timing id="4" start="2.022" end="2.194" startframe="0" framelength="0" text="in"/>
-		<timing id="5" start="2.194" end="2.452" startframe="0" framelength="0" text="his"/>
-		<timing id="6" start="2.452" end="3.422" startframe="0" framelength="0" text="pocket"/>
+	<timings text="Aditya put his seed in his pocket">
+		<timing id="0" start="0.006" end="0.763" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="0.763" end="1.09" startframe="0" framelength="0" text="put"/>
+		<timing id="2" start="1.09" end="1.287" startframe="0" framelength="0" text="his"/>
+		<timing id="3" start="1.287" end="1.742" startframe="0" framelength="0" text="seed"/>
+		<timing id="4" start="1.742" end="1.891" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.891" end="2.122" startframe="0" framelength="0" text="his"/>
+		<timing id="6" start="2.122" end="2.978" startframe="0" framelength="0" text="pocket"/>
 	</timings>
 </xml>

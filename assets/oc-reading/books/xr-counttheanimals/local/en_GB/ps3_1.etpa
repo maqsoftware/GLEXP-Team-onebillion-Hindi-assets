@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I can see three buffaloes They want to drink too">
-		<timing id="0" start="0.006" end="0.223" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.223" end="0.503" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.503" end="0.827" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="0.827" end="1.231" startframe="0" framelength="0" text="three"/>
-		<timing id="4" start="1.231" end="2.751" startframe="0" framelength="0" text="buffaloes"/>
-		<timing id="5" start="2.751" end="3.023" startframe="0" framelength="0" text="They"/>
-		<timing id="6" start="3.023" end="3.496" startframe="0" framelength="0" text="want"/>
-		<timing id="7" start="3.496" end="3.659" startframe="0" framelength="0" text="to"/>
-		<timing id="8" start="3.659" end="4.177" startframe="0" framelength="0" text="drink"/>
-		<timing id="9" start="4.177" end="4.832666666666666" startframe="0" framelength="0" text="too"/>
+		<timing id="0" start="0.006" end="0.192" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.192" end="0.44" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.44" end="0.727" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="0.727" end="1.084" startframe="0" framelength="0" text="three"/>
+		<timing id="4" start="1.084" end="2.472" startframe="0" framelength="0" text="buffaloes"/>
+		<timing id="5" start="2.472" end="2.704" startframe="0" framelength="0" text="They"/>
+		<timing id="6" start="2.704" end="3.119" startframe="0" framelength="0" text="want"/>
+		<timing id="7" start="3.119" end="3.263" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="3.263" end="3.71" startframe="0" framelength="0" text="drink"/>
+		<timing id="9" start="3.71" end="4.284" startframe="0" framelength="0" text="too"/>
 	</timings>
 </xml>

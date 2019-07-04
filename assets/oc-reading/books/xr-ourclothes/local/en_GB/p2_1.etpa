@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mary has a red shirt and purple trousers">
-		<timing id="0" start="0.006" end="0.559" startframe="0" framelength="0" text="Mary"/>
-		<timing id="1" start="0.559" end="0.972" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="0.972" end="1.045" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.045" end="1.49" startframe="0" framelength="0" text="red"/>
-		<timing id="4" start="1.49" end="2.058" startframe="0" framelength="0" text="shirt"/>
-		<timing id="5" start="2.058" end="2.35" startframe="0" framelength="0" text="and"/>
-		<timing id="6" start="2.35" end="2.953" startframe="0" framelength="0" text="purple"/>
-		<timing id="7" start="2.953" end="4.1273333333333335" startframe="0" framelength="0" text="trousers"/>
+	<timings text="Deepika has a red shirt and purple trousers">
+		<timing id="0" start="0.006" end="0.7" startframe="0" framelength="0" text="Deepika"/>
+		<timing id="1" start="0.7" end="1.039" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="1.039" end="1.086" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.086" end="1.468" startframe="0" framelength="0" text="red"/>
+		<timing id="4" start="1.468" end="1.981" startframe="0" framelength="0" text="shirt"/>
+		<timing id="5" start="1.981" end="2.244" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.244" end="2.775" startframe="0" framelength="0" text="purple"/>
+		<timing id="7" start="2.775" end="3.813833333333333" startframe="0" framelength="0" text="trousers"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="You must visit my home Come soon">
-		<timing id="0" start="0.006" end="0.362" startframe="0" framelength="0" text="You"/>
-		<timing id="1" start="0.362" end="0.832" startframe="0" framelength="0" text="must"/>
-		<timing id="2" start="0.832" end="1.416" startframe="0" framelength="0" text="visit"/>
-		<timing id="3" start="1.416" end="1.672" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="1.672" end="2.805" startframe="0" framelength="0" text="home"/>
-		<timing id="5" start="2.805" end="3.121" startframe="0" framelength="0" text="Come"/>
-		<timing id="6" start="3.121" end="3.9966666666666666" startframe="0" framelength="0" text="soon"/>
+		<timing id="0" start="0.006" end="0.319" startframe="0" framelength="0" text="You"/>
+		<timing id="1" start="0.319" end="0.734" startframe="0" framelength="0" text="must"/>
+		<timing id="2" start="0.734" end="1.258" startframe="0" framelength="0" text="visit"/>
+		<timing id="3" start="1.258" end="1.487" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.487" end="2.532" startframe="0" framelength="0" text="home"/>
+		<timing id="5" start="2.532" end="2.819" startframe="0" framelength="0" text="Come"/>
+		<timing id="6" start="2.819" end="3.578666666666667" startframe="0" framelength="0" text="soon"/>
 	</timings>
 </xml>

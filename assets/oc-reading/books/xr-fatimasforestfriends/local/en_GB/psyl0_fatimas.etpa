@@ -1,9 +1,8 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Fa ti ma’s">
-		<timing id="0" start="0.006" end="1.071" startframe="0" framelength="0" text="Fa"/>
-		<timing id="1" start="1.071" end="1.928" startframe="0" framelength="0" text="ti"/>
-		<timing id="2" start="1.928" end="2.8735" startframe="0" framelength="0" text="ma’s"/>
+	<timings text="Si ta’s">
+		<timing id="0" start="0.006" end="0.814" startframe="0" framelength="0" text="Si"/>
+		<timing id="1" start="0.814" end="1.6195" startframe="0" framelength="0" text="ta’s"/>
 	</timings>
 </xml>

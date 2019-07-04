@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Mum likes orange She has an orange wrap">
-		<timing id="0" start="0.006" end="0.431" startframe="0" framelength="0" text="Mum"/>
-		<timing id="1" start="0.431" end="1.049" startframe="0" framelength="0" text="likes"/>
-		<timing id="2" start="1.049" end="2.217" startframe="0" framelength="0" text="orange"/>
-		<timing id="3" start="2.217" end="2.598" startframe="0" framelength="0" text="She"/>
-		<timing id="4" start="2.598" end="3.002" startframe="0" framelength="0" text="has"/>
-		<timing id="5" start="3.002" end="3.175" startframe="0" framelength="0" text="an"/>
-		<timing id="6" start="3.175" end="3.724" startframe="0" framelength="0" text="orange"/>
-		<timing id="7" start="3.724" end="4.493" startframe="0" framelength="0" text="wrap"/>
+		<timing id="0" start="0.006" end="0.372" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.372" end="0.913" startframe="0" framelength="0" text="likes"/>
+		<timing id="2" start="0.913" end="1.979" startframe="0" framelength="0" text="orange"/>
+		<timing id="3" start="1.979" end="2.308" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.308" end="2.66" startframe="0" framelength="0" text="has"/>
+		<timing id="5" start="2.66" end="2.808" startframe="0" framelength="0" text="an"/>
+		<timing id="6" start="2.808" end="3.288" startframe="0" framelength="0" text="orange"/>
+		<timing id="7" start="3.288" end="3.9705" startframe="0" framelength="0" text="wrap"/>
 	</timings>
 </xml>

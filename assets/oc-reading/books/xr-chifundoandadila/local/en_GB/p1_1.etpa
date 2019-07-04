@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="It is evening Chifundo and her friend Adila have been shopping They are walking home">
-		<timing id="0" start="0.006" end="0.2" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.2" end="0.405" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.405" end="1.584" startframe="0" framelength="0" text="evening"/>
-		<timing id="3" start="1.584" end="2.527" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="4" start="2.527" end="2.811" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="2.811" end="2.99" startframe="0" framelength="0" text="her"/>
-		<timing id="6" start="2.99" end="3.567" startframe="0" framelength="0" text="friend"/>
-		<timing id="7" start="3.567" end="4.19" startframe="0" framelength="0" text="Adila"/>
-		<timing id="8" start="4.19" end="4.587" startframe="0" framelength="0" text="have"/>
-		<timing id="9" start="4.587" end="4.921" startframe="0" framelength="0" text="been"/>
-		<timing id="10" start="4.921" end="6.27" startframe="0" framelength="0" text="shopping"/>
-		<timing id="11" start="6.27" end="6.669" startframe="0" framelength="0" text="They"/>
-		<timing id="12" start="6.669" end="6.949" startframe="0" framelength="0" text="are"/>
-		<timing id="13" start="6.949" end="7.592" startframe="0" framelength="0" text="walking"/>
-		<timing id="14" start="7.592" end="8.280833333333334" startframe="0" framelength="0" text="home"/>
+	<timings text="It is evening Deeksha and her friend Ritika have been shopping They are walking home">
+		<timing id="0" start="0.006" end="0.184" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.184" end="0.366" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.366" end="1.461" startframe="0" framelength="0" text="evening"/>
+		<timing id="3" start="1.461" end="2.209" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="4" start="2.209" end="2.511" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="2.511" end="2.668" startframe="0" framelength="0" text="her"/>
+		<timing id="6" start="2.668" end="3.08" startframe="0" framelength="0" text="friend"/>
+		<timing id="7" start="3.08" end="3.583" startframe="0" framelength="0" text="Ritika"/>
+		<timing id="8" start="3.583" end="3.918" startframe="0" framelength="0" text="have"/>
+		<timing id="9" start="3.918" end="4.196" startframe="0" framelength="0" text="been"/>
+		<timing id="10" start="4.196" end="5.4" startframe="0" framelength="0" text="shopping"/>
+		<timing id="11" start="5.4" end="5.751" startframe="0" framelength="0" text="They"/>
+		<timing id="12" start="5.751" end="5.997" startframe="0" framelength="0" text="are"/>
+		<timing id="13" start="5.997" end="6.565" startframe="0" framelength="0" text="walking"/>
+		<timing id="14" start="6.565" end="7.1575" startframe="0" framelength="0" text="home"/>
 	</timings>
 </xml>

@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I am here dad shouts Chisomo And very soon dad finds her">
-		<timing id="0" start="0.006" end="0.334" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.334" end="0.545" startframe="0" framelength="0" text="am"/>
-		<timing id="2" start="0.545" end="1.385" startframe="0" framelength="0" text="here"/>
-		<timing id="3" start="1.385" end="2.551" startframe="0" framelength="0" text="dad"/>
-		<timing id="4" start="2.551" end="3.264" startframe="0" framelength="0" text="shouts"/>
-		<timing id="5" start="3.264" end="4.511" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="6" start="4.511" end="4.841" startframe="0" framelength="0" text="And"/>
-		<timing id="7" start="4.841" end="5.323" startframe="0" framelength="0" text="very"/>
-		<timing id="8" start="5.323" end="5.779" startframe="0" framelength="0" text="soon"/>
-		<timing id="9" start="5.779" end="6.212" startframe="0" framelength="0" text="dad"/>
-		<timing id="10" start="6.212" end="6.796" startframe="0" framelength="0" text="finds"/>
-		<timing id="11" start="6.796" end="7.392666666666667" startframe="0" framelength="0" text="her"/>
+	<timings text="I am here dad shouts Harita And very soon dad finds her">
+		<timing id="0" start="0.006" end="0.291" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.291" end="0.482" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.482" end="1.236" startframe="0" framelength="0" text="here"/>
+		<timing id="3" start="1.236" end="2.306" startframe="0" framelength="0" text="dad"/>
+		<timing id="4" start="2.306" end="2.942" startframe="0" framelength="0" text="shouts"/>
+		<timing id="5" start="2.942" end="4.046" startframe="0" framelength="0" text="Harita"/>
+		<timing id="6" start="4.046" end="4.324" startframe="0" framelength="0" text="And"/>
+		<timing id="7" start="4.324" end="4.747" startframe="0" framelength="0" text="very"/>
+		<timing id="8" start="4.747" end="5.151" startframe="0" framelength="0" text="soon"/>
+		<timing id="9" start="5.151" end="5.53" startframe="0" framelength="0" text="dad"/>
+		<timing id="10" start="5.53" end="6.046" startframe="0" framelength="0" text="finds"/>
+		<timing id="11" start="6.046" end="6.582833333333333" startframe="0" framelength="0" text="her"/>
 	</timings>
 </xml>

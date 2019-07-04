@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="There are no boots here but ask Lion">
-		<timing id="0" start="0.006" end="0.474" startframe="0" framelength="0" text="There"/>
-		<timing id="1" start="0.474" end="0.658" startframe="0" framelength="0" text="are"/>
-		<timing id="2" start="0.658" end="0.992" startframe="0" framelength="0" text="no"/>
-		<timing id="3" start="0.992" end="1.451" startframe="0" framelength="0" text="boots"/>
-		<timing id="4" start="1.451" end="2.309" startframe="0" framelength="0" text="here"/>
-		<timing id="5" start="2.309" end="2.652" startframe="0" framelength="0" text="but"/>
-		<timing id="6" start="2.652" end="3.114" startframe="0" framelength="0" text="ask"/>
-		<timing id="7" start="3.114" end="3.866" startframe="0" framelength="0" text="Lion"/>
+		<timing id="0" start="0.006" end="0.423" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.423" end="0.58" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.58" end="0.875" startframe="0" framelength="0" text="no"/>
+		<timing id="3" start="0.875" end="1.267" startframe="0" framelength="0" text="boots"/>
+		<timing id="4" start="1.267" end="2.049" startframe="0" framelength="0" text="here"/>
+		<timing id="5" start="2.049" end="2.346" startframe="0" framelength="0" text="but"/>
+		<timing id="6" start="2.346" end="2.745" startframe="0" framelength="0" text="ask"/>
+		<timing id="7" start="2.745" end="3.422" startframe="0" framelength="0" text="Lion"/>
 	</timings>
 </xml>

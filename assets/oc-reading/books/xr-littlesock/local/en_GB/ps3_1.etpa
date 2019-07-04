@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Little Sock wonders how he will get home">
-		<timing id="0" start="0.006" end="0.512" startframe="0" framelength="0" text="Little"/>
-		<timing id="1" start="0.512" end="1.065" startframe="0" framelength="0" text="Sock"/>
-		<timing id="2" start="1.065" end="1.848" startframe="0" framelength="0" text="wonders"/>
-		<timing id="3" start="1.848" end="2.21" startframe="0" framelength="0" text="how"/>
-		<timing id="4" start="2.21" end="2.443" startframe="0" framelength="0" text="he"/>
-		<timing id="5" start="2.443" end="2.706" startframe="0" framelength="0" text="will"/>
-		<timing id="6" start="2.706" end="3.09" startframe="0" framelength="0" text="get"/>
-		<timing id="7" start="3.09" end="3.84" startframe="0" framelength="0" text="home"/>
+		<timing id="0" start="0.006" end="0.451" startframe="0" framelength="0" text="Little"/>
+		<timing id="1" start="0.451" end="0.938" startframe="0" framelength="0" text="Sock"/>
+		<timing id="2" start="0.938" end="1.625" startframe="0" framelength="0" text="wonders"/>
+		<timing id="3" start="1.625" end="1.949" startframe="0" framelength="0" text="how"/>
+		<timing id="4" start="1.949" end="2.161" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="2.161" end="2.385" startframe="0" framelength="0" text="will"/>
+		<timing id="6" start="2.385" end="2.73" startframe="0" framelength="0" text="get"/>
+		<timing id="7" start="2.73" end="3.3958333333333335" startframe="0" framelength="0" text="home"/>
 	</timings>
 </xml>

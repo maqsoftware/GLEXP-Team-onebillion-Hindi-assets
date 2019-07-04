@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="King fish er">
-		<timing id="0" start="0.006" end="0.878" startframe="0" framelength="0" text="King"/>
-		<timing id="1" start="0.878" end="2.025" startframe="0" framelength="0" text="fish"/>
-		<timing id="2" start="2.025" end="2.795" startframe="0" framelength="0" text="er"/>
+		<timing id="0" start="0.006" end="0.794" startframe="0" framelength="0" text="King"/>
+		<timing id="1" start="0.794" end="1.824" startframe="0" framelength="0" text="fish"/>
+		<timing id="2" start="1.824" end="2.5076666666666667" startframe="0" framelength="0" text="er"/>
 	</timings>
 </xml>

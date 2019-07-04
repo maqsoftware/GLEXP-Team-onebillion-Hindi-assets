@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I can see six warthogs There are four babies">
-		<timing id="0" start="0.006" end="0.223" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.223" end="0.543" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.543" end="0.927" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="0.927" end="1.43" startframe="0" framelength="0" text="six"/>
-		<timing id="4" start="1.43" end="2.93" startframe="0" framelength="0" text="warthogs"/>
-		<timing id="5" start="2.93" end="3.48" startframe="0" framelength="0" text="There"/>
-		<timing id="6" start="3.48" end="3.697" startframe="0" framelength="0" text="are"/>
-		<timing id="7" start="3.697" end="4.132" startframe="0" framelength="0" text="four"/>
-		<timing id="8" start="4.132" end="5.2245" startframe="0" framelength="0" text="babies"/>
+		<timing id="0" start="0.006" end="0.195" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.195" end="0.484" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.484" end="0.824" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="0.824" end="1.282" startframe="0" framelength="0" text="six"/>
+		<timing id="4" start="1.282" end="2.661" startframe="0" framelength="0" text="warthogs"/>
+		<timing id="5" start="2.661" end="3.145" startframe="0" framelength="0" text="There"/>
+		<timing id="6" start="3.145" end="3.329" startframe="0" framelength="0" text="are"/>
+		<timing id="7" start="3.329" end="3.708" startframe="0" framelength="0" text="four"/>
+		<timing id="8" start="3.708" end="4.6498333333333335" startframe="0" framelength="0" text="babies"/>
 	</timings>
 </xml>

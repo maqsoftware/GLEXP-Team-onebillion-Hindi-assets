@@ -1,22 +1,22 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Kala had a beautiful voice She sang as she worked Even the birds liked to listen">
-		<timing id="0" start="0.006" end="0.492" startframe="0" framelength="0" text="Kala"/>
-		<timing id="1" start="0.492" end="0.867" startframe="0" framelength="0" text="had"/>
-		<timing id="2" start="0.867" end="0.922" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.922" end="1.9" startframe="0" framelength="0" text="beautiful"/>
-		<timing id="4" start="1.9" end="3.187" startframe="0" framelength="0" text="voice"/>
-		<timing id="5" start="3.187" end="3.529" startframe="0" framelength="0" text="She"/>
-		<timing id="6" start="3.529" end="4.06" startframe="0" framelength="0" text="sang"/>
-		<timing id="7" start="4.06" end="4.346" startframe="0" framelength="0" text="as"/>
-		<timing id="8" start="4.346" end="4.619" startframe="0" framelength="0" text="she"/>
-		<timing id="9" start="4.619" end="5.919" startframe="0" framelength="0" text="worked"/>
-		<timing id="10" start="5.919" end="6.408" startframe="0" framelength="0" text="Even"/>
-		<timing id="11" start="6.408" end="6.521" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="6.521" end="7.21" startframe="0" framelength="0" text="birds"/>
-		<timing id="13" start="7.21" end="7.627" startframe="0" framelength="0" text="liked"/>
-		<timing id="14" start="7.627" end="7.793" startframe="0" framelength="0" text="to"/>
-		<timing id="15" start="7.793" end="8.724833333333333" startframe="0" framelength="0" text="listen"/>
+	<timings text="Divya had a beautiful voice She sang as she worked Even the birds liked to listen">
+		<timing id="0" start="0.006" end="0.547" startframe="0" framelength="0" text="Divya"/>
+		<timing id="1" start="0.547" end="0.883" startframe="0" framelength="0" text="had"/>
+		<timing id="2" start="0.883" end="0.929" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.929" end="1.784" startframe="0" framelength="0" text="beautiful"/>
+		<timing id="4" start="1.784" end="2.957" startframe="0" framelength="0" text="voice"/>
+		<timing id="5" start="2.957" end="3.256" startframe="0" framelength="0" text="She"/>
+		<timing id="6" start="3.256" end="3.716" startframe="0" framelength="0" text="sang"/>
+		<timing id="7" start="3.716" end="3.961" startframe="0" framelength="0" text="as"/>
+		<timing id="8" start="3.961" end="4.205" startframe="0" framelength="0" text="she"/>
+		<timing id="9" start="4.205" end="5.401" startframe="0" framelength="0" text="worked"/>
+		<timing id="10" start="5.401" end="5.828" startframe="0" framelength="0" text="Even"/>
+		<timing id="11" start="5.828" end="5.925" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="5.925" end="6.524" startframe="0" framelength="0" text="birds"/>
+		<timing id="13" start="6.524" end="6.891" startframe="0" framelength="0" text="liked"/>
+		<timing id="14" start="6.891" end="7.037" startframe="0" framelength="0" text="to"/>
+		<timing id="15" start="7.037" end="7.862833333333334" startframe="0" framelength="0" text="listen"/>
 	</timings>
 </xml>

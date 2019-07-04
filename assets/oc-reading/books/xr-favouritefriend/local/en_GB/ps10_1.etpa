@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oxtail Bird is our favourite friend We love it when he sings">
-		<timing id="0" start="0.006" end="0.787" startframe="0" framelength="0" text="Oxtail"/>
-		<timing id="1" start="0.787" end="1.242" startframe="0" framelength="0" text="Bird"/>
-		<timing id="2" start="1.242" end="1.455" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.455" end="1.64" startframe="0" framelength="0" text="our"/>
-		<timing id="4" start="1.64" end="2.354" startframe="0" framelength="0" text="favourite"/>
-		<timing id="5" start="2.354" end="3.504" startframe="0" framelength="0" text="friend"/>
-		<timing id="6" start="3.504" end="3.751" startframe="0" framelength="0" text="We"/>
-		<timing id="7" start="3.751" end="4.161" startframe="0" framelength="0" text="love"/>
-		<timing id="8" start="4.161" end="4.387" startframe="0" framelength="0" text="it"/>
-		<timing id="9" start="4.387" end="4.697" startframe="0" framelength="0" text="when"/>
-		<timing id="10" start="4.697" end="4.912" startframe="0" framelength="0" text="he"/>
-		<timing id="11" start="4.912" end="5.746833333333333" startframe="0" framelength="0" text="sings"/>
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Oxtail"/>
+		<timing id="1" start="0.69" end="1.09" startframe="0" framelength="0" text="Bird"/>
+		<timing id="2" start="1.09" end="1.274" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.274" end="1.444" startframe="0" framelength="0" text="our"/>
+		<timing id="4" start="1.444" end="2.069" startframe="0" framelength="0" text="favourite"/>
+		<timing id="5" start="2.069" end="3.135" startframe="0" framelength="0" text="friend"/>
+		<timing id="6" start="3.135" end="3.351" startframe="0" framelength="0" text="We"/>
+		<timing id="7" start="3.351" end="3.707" startframe="0" framelength="0" text="love"/>
+		<timing id="8" start="3.707" end="3.905" startframe="0" framelength="0" text="it"/>
+		<timing id="9" start="3.905" end="4.179" startframe="0" framelength="0" text="when"/>
+		<timing id="10" start="4.179" end="4.371" startframe="0" framelength="0" text="he"/>
+		<timing id="11" start="4.371" end="5.12" startframe="0" framelength="0" text="sings"/>
 	</timings>
 </xml>

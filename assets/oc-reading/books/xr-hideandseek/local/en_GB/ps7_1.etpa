@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo starts to cry They have forgotten her">
-		<timing id="0" start="0.006" end="0.767" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.767" end="1.502" startframe="0" framelength="0" text="starts"/>
-		<timing id="2" start="1.502" end="1.661" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="1.661" end="2.916" startframe="0" framelength="0" text="cry"/>
-		<timing id="4" start="2.916" end="3.201" startframe="0" framelength="0" text="They"/>
-		<timing id="5" start="3.201" end="3.561" startframe="0" framelength="0" text="have"/>
-		<timing id="6" start="3.561" end="4.415" startframe="0" framelength="0" text="forgotten"/>
-		<timing id="7" start="4.415" end="5.041666666666667" startframe="0" framelength="0" text="her"/>
+	<timings text="Harita starts to cry They have forgotten her">
+		<timing id="0" start="0.006" end="0.602" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.602" end="1.259" startframe="0" framelength="0" text="starts"/>
+		<timing id="2" start="1.259" end="1.4" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.4" end="2.547" startframe="0" framelength="0" text="cry"/>
+		<timing id="4" start="2.547" end="2.795" startframe="0" framelength="0" text="They"/>
+		<timing id="5" start="2.795" end="3.116" startframe="0" framelength="0" text="have"/>
+		<timing id="6" start="3.116" end="3.878" startframe="0" framelength="0" text="forgotten"/>
+		<timing id="7" start="3.878" end="4.440833333333333" startframe="0" framelength="0" text="her"/>
 	</timings>
 </xml>

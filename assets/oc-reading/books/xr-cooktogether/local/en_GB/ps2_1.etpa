@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oh dear Mum is not well">
-		<timing id="0" start="0.006" end="0.181" startframe="0" framelength="0" text="Oh"/>
-		<timing id="1" start="0.181" end="1.187" startframe="0" framelength="0" text="dear"/>
-		<timing id="2" start="1.187" end="1.577" startframe="0" framelength="0" text="Mum"/>
-		<timing id="3" start="1.577" end="1.828" startframe="0" framelength="0" text="is"/>
-		<timing id="4" start="1.828" end="2.262" startframe="0" framelength="0" text="not"/>
-		<timing id="5" start="2.262" end="2.8995" startframe="0" framelength="0" text="well"/>
+		<timing id="0" start="0.006" end="0.162" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.162" end="1.067" startframe="0" framelength="0" text="dear"/>
+		<timing id="2" start="1.067" end="1.414" startframe="0" framelength="0" text="Mum"/>
+		<timing id="3" start="1.414" end="1.639" startframe="0" framelength="0" text="is"/>
+		<timing id="4" start="1.639" end="2.021" startframe="0" framelength="0" text="not"/>
+		<timing id="5" start="2.021" end="2.586" startframe="0" framelength="0" text="well"/>
 	</timings>
 </xml>

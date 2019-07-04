@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Vina and Vinay have fun with paint">
-		<timing id="0" start="0.006" end="0.647" startframe="0" framelength="0" text="Vina"/>
-		<timing id="1" start="0.647" end="1.014" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="1.014" end="1.494" startframe="0" framelength="0" text="Vinay"/>
-		<timing id="3" start="1.494" end="1.843" startframe="0" framelength="0" text="have"/>
-		<timing id="4" start="1.843" end="2.241" startframe="0" framelength="0" text="fun"/>
-		<timing id="5" start="2.241" end="2.58" startframe="0" framelength="0" text="with"/>
-		<timing id="6" start="2.58" end="3.422" startframe="0" framelength="0" text="paint"/>
+		<timing id="0" start="0.006" end="0.566" startframe="0" framelength="0" text="Vina"/>
+		<timing id="1" start="0.566" end="0.888" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.888" end="1.296" startframe="0" framelength="0" text="Vinay"/>
+		<timing id="3" start="1.296" end="1.595" startframe="0" framelength="0" text="have"/>
+		<timing id="4" start="1.595" end="1.952" startframe="0" framelength="0" text="fun"/>
+		<timing id="5" start="1.952" end="2.255" startframe="0" framelength="0" text="with"/>
+		<timing id="6" start="2.255" end="3.004" startframe="0" framelength="0" text="paint"/>
 	</timings>
 </xml>

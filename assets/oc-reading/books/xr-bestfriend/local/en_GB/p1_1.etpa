@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I have lots of friends">
-		<timing id="0" start="0.006" end="0.272" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.272" end="0.544" startframe="0" framelength="0" text="have"/>
-		<timing id="2" start="0.544" end="1.129" startframe="0" framelength="0" text="lots"/>
-		<timing id="3" start="1.129" end="1.28" startframe="0" framelength="0" text="of"/>
-		<timing id="4" start="1.28" end="2.2465" startframe="0" framelength="0" text="friends"/>
+		<timing id="0" start="0.006" end="0.242" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.242" end="0.479" startframe="0" framelength="0" text="have"/>
+		<timing id="2" start="0.479" end="0.983" startframe="0" framelength="0" text="lots"/>
+		<timing id="3" start="0.983" end="1.116" startframe="0" framelength="0" text="of"/>
+		<timing id="4" start="1.116" end="1.9853333333333334" startframe="0" framelength="0" text="friends"/>
 	</timings>
 </xml>

@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="po ta toes">
-		<timing id="0" start="0.006" end="0.846" startframe="0" framelength="0" text="po"/>
-		<timing id="1" start="0.846" end="1.568" startframe="0" framelength="0" text="ta"/>
-		<timing id="2" start="1.568" end="2.4555" startframe="0" framelength="0" text="toes"/>
+		<timing id="0" start="0.006" end="0.757" startframe="0" framelength="0" text="po"/>
+		<timing id="1" start="0.757" end="1.416" startframe="0" framelength="0" text="ta"/>
+		<timing id="2" start="1.416" end="2.194166666666667" startframe="0" framelength="0" text="toes"/>
 	</timings>
 </xml>

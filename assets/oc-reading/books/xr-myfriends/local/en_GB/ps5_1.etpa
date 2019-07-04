@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Sometimes Anna swims by herself">
-		<timing id="0" start="0.006" end="1.08" startframe="0" framelength="0" text="Sometimes"/>
-		<timing id="1" start="1.08" end="1.456" startframe="0" framelength="0" text="Anna"/>
-		<timing id="2" start="1.456" end="2.109" startframe="0" framelength="0" text="swims"/>
-		<timing id="3" start="2.109" end="2.372" startframe="0" framelength="0" text="by"/>
-		<timing id="4" start="2.372" end="3.4741666666666666" startframe="0" framelength="0" text="herself"/>
+	<timings text="Sometimes Pallavi swims by herself">
+		<timing id="0" start="0.006" end="0.941" startframe="0" framelength="0" text="Sometimes"/>
+		<timing id="1" start="0.941" end="1.572" startframe="0" framelength="0" text="Pallavi"/>
+		<timing id="2" start="1.572" end="2.045" startframe="0" framelength="0" text="swims"/>
+		<timing id="3" start="2.045" end="2.284" startframe="0" framelength="0" text="by"/>
+		<timing id="4" start="2.284" end="3.2653333333333334" startframe="0" framelength="0" text="herself"/>
 	</timings>
 </xml>

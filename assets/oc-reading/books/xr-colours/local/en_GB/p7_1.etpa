@@ -1,15 +1,15 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mrs Tembo likes blue She has a blue umbrella">
-		<timing id="0" start="0.006" end="0.643" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="1" start="0.643" end="1.23" startframe="0" framelength="0" text="Tembo"/>
-		<timing id="2" start="1.23" end="1.734" startframe="0" framelength="0" text="likes"/>
-		<timing id="3" start="1.734" end="2.79" startframe="0" framelength="0" text="blue"/>
-		<timing id="4" start="2.79" end="3.231" startframe="0" framelength="0" text="She"/>
-		<timing id="5" start="3.231" end="3.641" startframe="0" framelength="0" text="has"/>
-		<timing id="6" start="3.641" end="3.713" startframe="0" framelength="0" text="a"/>
-		<timing id="7" start="3.713" end="4.038" startframe="0" framelength="0" text="blue"/>
-		<timing id="8" start="4.038" end="5.093833333333333" startframe="0" framelength="0" text="umbrella"/>
+	<timings text="Mrs Kalpana likes blue She has a blue umbrella">
+		<timing id="0" start="0.006" end="0.527" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.527" end="1.096" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="2" start="1.096" end="1.576" startframe="0" framelength="0" text="likes"/>
+		<timing id="3" start="1.576" end="2.55" startframe="0" framelength="0" text="blue"/>
+		<timing id="4" start="2.55" end="2.939" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="2.939" end="3.301" startframe="0" framelength="0" text="has"/>
+		<timing id="6" start="3.301" end="3.361" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="3.361" end="3.652" startframe="0" framelength="0" text="blue"/>
+		<timing id="8" start="3.652" end="4.5975" startframe="0" framelength="0" text="umbrella"/>
 	</timings>
 </xml>

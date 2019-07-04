@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="On Friday Thato hopes he will get magic football boots and score lots of goals">
-		<timing id="0" start="0.006" end="0.319" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.319" end="1.134" startframe="0" framelength="0" text="Friday"/>
-		<timing id="2" start="1.134" end="1.781" startframe="0" framelength="0" text="Thato"/>
-		<timing id="3" start="1.781" end="2.324" startframe="0" framelength="0" text="hopes"/>
-		<timing id="4" start="2.324" end="2.525" startframe="0" framelength="0" text="he"/>
-		<timing id="5" start="2.525" end="2.755" startframe="0" framelength="0" text="will"/>
-		<timing id="6" start="2.755" end="3.177" startframe="0" framelength="0" text="get"/>
-		<timing id="7" start="3.177" end="3.804" startframe="0" framelength="0" text="magic"/>
-		<timing id="8" start="3.804" end="4.533" startframe="0" framelength="0" text="football"/>
-		<timing id="9" start="4.533" end="5.618" startframe="0" framelength="0" text="boots"/>
-		<timing id="10" start="5.618" end="5.925" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="5.925" end="6.438" startframe="0" framelength="0" text="score"/>
-		<timing id="12" start="6.438" end="7.004" startframe="0" framelength="0" text="lots"/>
-		<timing id="13" start="7.004" end="7.252" startframe="0" framelength="0" text="of"/>
-		<timing id="14" start="7.252" end="8.176333333333334" startframe="0" framelength="0" text="goals"/>
+	<timings text="On Friday Krishna hopes he will get magic football boots and score lots of goals">
+		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.277" end="0.885" startframe="0" framelength="0" text="Friday"/>
+		<timing id="2" start="0.885" end="1.473" startframe="0" framelength="0" text="Krishna"/>
+		<timing id="3" start="1.473" end="1.939" startframe="0" framelength="0" text="hopes"/>
+		<timing id="4" start="1.939" end="2.138" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="2.138" end="2.376" startframe="0" framelength="0" text="will"/>
+		<timing id="6" start="2.376" end="2.759" startframe="0" framelength="0" text="get"/>
+		<timing id="7" start="2.759" end="3.311" startframe="0" framelength="0" text="magic"/>
+		<timing id="8" start="3.311" end="3.951" startframe="0" framelength="0" text="football"/>
+		<timing id="9" start="3.951" end="4.933" startframe="0" framelength="0" text="boots"/>
+		<timing id="10" start="4.933" end="5.198" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="5.198" end="5.645" startframe="0" framelength="0" text="score"/>
+		<timing id="12" start="5.645" end="6.143" startframe="0" framelength="0" text="lots"/>
+		<timing id="13" start="6.143" end="6.358" startframe="0" framelength="0" text="of"/>
+		<timing id="14" start="6.358" end="7.183666666666666" startframe="0" framelength="0" text="goals"/>
 	</timings>
 </xml>

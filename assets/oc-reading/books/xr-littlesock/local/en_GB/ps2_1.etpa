@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Little Sock falls out of the wash basket">
-		<timing id="0" start="0.006" end="0.517" startframe="0" framelength="0" text="Little"/>
-		<timing id="1" start="0.517" end="0.965" startframe="0" framelength="0" text="Sock"/>
-		<timing id="2" start="0.965" end="1.551" startframe="0" framelength="0" text="falls"/>
-		<timing id="3" start="1.551" end="1.913" startframe="0" framelength="0" text="out"/>
-		<timing id="4" start="1.913" end="2.055" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="2.055" end="2.202" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.202" end="2.708" startframe="0" framelength="0" text="wash"/>
-		<timing id="7" start="2.708" end="3.7355" startframe="0" framelength="0" text="basket"/>
+		<timing id="0" start="0.006" end="0.451" startframe="0" framelength="0" text="Little"/>
+		<timing id="1" start="0.451" end="0.843" startframe="0" framelength="0" text="Sock"/>
+		<timing id="2" start="0.843" end="1.365" startframe="0" framelength="0" text="falls"/>
+		<timing id="3" start="1.365" end="1.683" startframe="0" framelength="0" text="out"/>
+		<timing id="4" start="1.683" end="1.807" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.807" end="1.933" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.933" end="2.366" startframe="0" framelength="0" text="wash"/>
+		<timing id="7" start="2.366" end="3.2653333333333334" startframe="0" framelength="0" text="basket"/>
 	</timings>
 </xml>

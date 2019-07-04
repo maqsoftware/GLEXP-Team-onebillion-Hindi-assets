@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Night was coming Amina longed for her mat Eventually she fell asleep under a tree">
-		<timing id="0" start="0.006" end="0.561" startframe="0" framelength="0" text="Night"/>
-		<timing id="1" start="0.561" end="0.917" startframe="0" framelength="0" text="was"/>
-		<timing id="2" start="0.917" end="2.218" startframe="0" framelength="0" text="coming"/>
-		<timing id="3" start="2.218" end="2.825" startframe="0" framelength="0" text="Amina"/>
-		<timing id="4" start="2.825" end="3.33" startframe="0" framelength="0" text="longed"/>
-		<timing id="5" start="3.33" end="3.595" startframe="0" framelength="0" text="for"/>
-		<timing id="6" start="3.595" end="3.862" startframe="0" framelength="0" text="her"/>
-		<timing id="7" start="3.862" end="4.972" startframe="0" framelength="0" text="mat"/>
-		<timing id="8" start="4.972" end="6.308" startframe="0" framelength="0" text="Eventually"/>
-		<timing id="9" start="6.308" end="6.646" startframe="0" framelength="0" text="she"/>
-		<timing id="10" start="6.646" end="7.065" startframe="0" framelength="0" text="fell"/>
-		<timing id="11" start="7.065" end="7.766" startframe="0" framelength="0" text="asleep"/>
-		<timing id="12" start="7.766" end="8.111" startframe="0" framelength="0" text="under"/>
-		<timing id="13" start="8.111" end="8.19" startframe="0" framelength="0" text="a"/>
-		<timing id="14" start="8.19" end="8.986" startframe="0" framelength="0" text="tree"/>
+	<timings text="Night was coming Kalpana longed for her mat Eventually she fell asleep under a tree">
+		<timing id="0" start="0.006" end="0.495" startframe="0" framelength="0" text="Night"/>
+		<timing id="1" start="0.495" end="0.819" startframe="0" framelength="0" text="was"/>
+		<timing id="2" start="0.819" end="2.021" startframe="0" framelength="0" text="coming"/>
+		<timing id="3" start="2.021" end="2.592" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="4" start="2.592" end="3.044" startframe="0" framelength="0" text="longed"/>
+		<timing id="5" start="3.044" end="3.276" startframe="0" framelength="0" text="for"/>
+		<timing id="6" start="3.276" end="3.512" startframe="0" framelength="0" text="her"/>
+		<timing id="7" start="3.512" end="4.544" startframe="0" framelength="0" text="mat"/>
+		<timing id="8" start="4.544" end="5.741" startframe="0" framelength="0" text="Eventually"/>
+		<timing id="9" start="5.741" end="6.037" startframe="0" framelength="0" text="she"/>
+		<timing id="10" start="6.037" end="6.412" startframe="0" framelength="0" text="fell"/>
+		<timing id="11" start="6.412" end="7.031" startframe="0" framelength="0" text="asleep"/>
+		<timing id="12" start="7.031" end="7.331" startframe="0" framelength="0" text="under"/>
+		<timing id="13" start="7.331" end="7.401" startframe="0" framelength="0" text="a"/>
+		<timing id="14" start="7.401" end="8.124" startframe="0" framelength="0" text="tree"/>
 	</timings>
 </xml>

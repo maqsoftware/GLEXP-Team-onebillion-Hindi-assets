@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Now tell me all the things you want to be">
-		<timing id="0" start="0.006" end="0.346" startframe="0" framelength="0" text="Now"/>
-		<timing id="1" start="0.346" end="0.759" startframe="0" framelength="0" text="tell"/>
-		<timing id="2" start="0.759" end="1.033" startframe="0" framelength="0" text="me"/>
-		<timing id="3" start="1.033" end="1.326" startframe="0" framelength="0" text="all"/>
-		<timing id="4" start="1.326" end="1.454" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.454" end="2.056" startframe="0" framelength="0" text="things"/>
-		<timing id="6" start="2.056" end="2.225" startframe="0" framelength="0" text="you"/>
-		<timing id="7" start="2.225" end="2.587" startframe="0" framelength="0" text="want"/>
-		<timing id="8" start="2.587" end="2.828" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="2.828" end="3.5265" startframe="0" framelength="0" text="be"/>
+		<timing id="0" start="0.006" end="0.309" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.309" end="0.667" startframe="0" framelength="0" text="tell"/>
+		<timing id="2" start="0.667" end="0.91" startframe="0" framelength="0" text="me"/>
+		<timing id="3" start="0.91" end="1.167" startframe="0" framelength="0" text="all"/>
+		<timing id="4" start="1.167" end="1.28" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.28" end="1.819" startframe="0" framelength="0" text="things"/>
+		<timing id="6" start="1.819" end="1.967" startframe="0" framelength="0" text="you"/>
+		<timing id="7" start="1.967" end="2.284" startframe="0" framelength="0" text="want"/>
+		<timing id="8" start="2.284" end="2.493" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="2.493" end="3.1346666666666665" startframe="0" framelength="0" text="be"/>
 	</timings>
 </xml>

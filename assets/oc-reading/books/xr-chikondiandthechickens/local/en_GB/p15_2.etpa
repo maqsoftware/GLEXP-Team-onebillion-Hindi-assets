@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The chickens are already a little dirty But don’t worry chickens says Chikondi No more washing Sleep well">
-		<timing id="0" start="0.006" end="0.216" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.216" end="0.934" startframe="0" framelength="0" text="chickens"/>
-		<timing id="2" start="0.934" end="1.314" startframe="0" framelength="0" text="are"/>
-		<timing id="3" start="1.314" end="2.014" startframe="0" framelength="0" text="already"/>
-		<timing id="4" start="2.014" end="2.074" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="2.074" end="2.622" startframe="0" framelength="0" text="little"/>
-		<timing id="6" start="2.622" end="3.953" startframe="0" framelength="0" text="dirty"/>
-		<timing id="7" start="3.953" end="4.357" startframe="0" framelength="0" text="But"/>
-		<timing id="8" start="4.357" end="4.865" startframe="0" framelength="0" text="don’t"/>
-		<timing id="9" start="4.865" end="5.759" startframe="0" framelength="0" text="worry"/>
-		<timing id="10" start="5.759" end="6.901" startframe="0" framelength="0" text="chickens"/>
-		<timing id="11" start="6.901" end="7.561" startframe="0" framelength="0" text="says"/>
-		<timing id="12" start="7.561" end="9.211" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="13" start="9.211" end="9.605" startframe="0" framelength="0" text="No"/>
-		<timing id="14" start="9.605" end="9.994" startframe="0" framelength="0" text="more"/>
-		<timing id="15" start="9.994" end="11.28" startframe="0" framelength="0" text="washing"/>
-		<timing id="16" start="11.28" end="11.967" startframe="0" framelength="0" text="Sleep"/>
-		<timing id="17" start="11.967" end="12.721666666666666" startframe="0" framelength="0" text="well"/>
+	<timings text="The chickens are already a little dirty But don’t worry chickens says Dipti No more washing Sleep well">
+		<timing id="0" start="0.006" end="0.187" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.187" end="0.818" startframe="0" framelength="0" text="chickens"/>
+		<timing id="2" start="0.818" end="1.152" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="1.152" end="1.773" startframe="0" framelength="0" text="already"/>
+		<timing id="4" start="1.773" end="1.825" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.825" end="2.297" startframe="0" framelength="0" text="little"/>
+		<timing id="6" start="2.297" end="3.511" startframe="0" framelength="0" text="dirty"/>
+		<timing id="7" start="3.511" end="3.856" startframe="0" framelength="0" text="But"/>
+		<timing id="8" start="3.856" end="4.303" startframe="0" framelength="0" text="don’t"/>
+		<timing id="9" start="4.303" end="5.11" startframe="0" framelength="0" text="worry"/>
+		<timing id="10" start="5.11" end="6.215" startframe="0" framelength="0" text="chickens"/>
+		<timing id="11" start="6.215" end="6.798" startframe="0" framelength="0" text="says"/>
+		<timing id="12" start="6.798" end="7.948" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="13" start="7.948" end="8.294" startframe="0" framelength="0" text="No"/>
+		<timing id="14" start="8.294" end="8.644" startframe="0" framelength="0" text="more"/>
+		<timing id="15" start="8.644" end="9.824" startframe="0" framelength="0" text="washing"/>
+		<timing id="16" start="9.824" end="10.431" startframe="0" framelength="0" text="Sleep"/>
+		<timing id="17" start="10.431" end="11.102" startframe="0" framelength="0" text="well"/>
 	</timings>
 </xml>

@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The path went in two directions Which way should Amina go">
-		<timing id="0" start="0.006" end="0.163" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.163" end="0.772" startframe="0" framelength="0" text="path"/>
-		<timing id="2" start="0.772" end="1.176" startframe="0" framelength="0" text="went"/>
-		<timing id="3" start="1.176" end="1.361" startframe="0" framelength="0" text="in"/>
-		<timing id="4" start="1.361" end="1.682" startframe="0" framelength="0" text="two"/>
-		<timing id="5" start="1.682" end="3.287" startframe="0" framelength="0" text="directions"/>
-		<timing id="6" start="3.287" end="3.686" startframe="0" framelength="0" text="Which"/>
-		<timing id="7" start="3.686" end="4.003" startframe="0" framelength="0" text="way"/>
-		<timing id="8" start="4.003" end="4.329" startframe="0" framelength="0" text="should"/>
-		<timing id="9" start="4.329" end="4.925" startframe="0" framelength="0" text="Amina"/>
-		<timing id="10" start="4.925" end="5.564" startframe="0" framelength="0" text="go"/>
+	<timings text="The path went in two directions Which way should Kalpana go">
+		<timing id="0" start="0.006" end="0.143" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.143" end="0.672" startframe="0" framelength="0" text="path"/>
+		<timing id="2" start="0.672" end="1.023" startframe="0" framelength="0" text="went"/>
+		<timing id="3" start="1.023" end="1.187" startframe="0" framelength="0" text="in"/>
+		<timing id="4" start="1.187" end="1.47" startframe="0" framelength="0" text="two"/>
+		<timing id="5" start="1.47" end="2.944" startframe="0" framelength="0" text="directions"/>
+		<timing id="6" start="2.944" end="3.295" startframe="0" framelength="0" text="Which"/>
+		<timing id="7" start="3.295" end="3.572" startframe="0" framelength="0" text="way"/>
+		<timing id="8" start="3.572" end="3.868" startframe="0" framelength="0" text="should"/>
+		<timing id="9" start="3.868" end="4.427" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="10" start="4.427" end="5.0155" startframe="0" framelength="0" text="go"/>
 	</timings>
 </xml>

@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Fatima looked up She could see a very small tree squirrel">
-		<timing id="0" start="0.006" end="0.923" startframe="0" framelength="0" text="Fatima"/>
-		<timing id="1" start="0.923" end="1.376" startframe="0" framelength="0" text="looked"/>
-		<timing id="2" start="1.376" end="2.278" startframe="0" framelength="0" text="up"/>
-		<timing id="3" start="2.278" end="2.633" startframe="0" framelength="0" text="She"/>
-		<timing id="4" start="2.633" end="2.913" startframe="0" framelength="0" text="could"/>
-		<timing id="5" start="2.913" end="3.235" startframe="0" framelength="0" text="see"/>
-		<timing id="6" start="3.235" end="3.317" startframe="0" framelength="0" text="a"/>
-		<timing id="7" start="3.317" end="3.741" startframe="0" framelength="0" text="very"/>
-		<timing id="8" start="3.741" end="4.266" startframe="0" framelength="0" text="small"/>
-		<timing id="9" start="4.266" end="4.586" startframe="0" framelength="0" text="tree"/>
-		<timing id="10" start="4.586" end="5.538" startframe="0" framelength="0" text="squirrel"/>
+	<timings text="Sita looked up She could see a very small tree squirrel">
+		<timing id="0" start="0.006" end="0.672" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.672" end="1.12" startframe="0" framelength="0" text="looked"/>
+		<timing id="2" start="1.12" end="1.941" startframe="0" framelength="0" text="up"/>
+		<timing id="3" start="1.941" end="2.245" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.245" end="2.49" startframe="0" framelength="0" text="could"/>
+		<timing id="5" start="2.49" end="2.775" startframe="0" framelength="0" text="see"/>
+		<timing id="6" start="2.775" end="2.85" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="2.85" end="3.217" startframe="0" framelength="0" text="very"/>
+		<timing id="8" start="3.217" end="3.687" startframe="0" framelength="0" text="small"/>
+		<timing id="9" start="3.687" end="3.979" startframe="0" framelength="0" text="tree"/>
+		<timing id="10" start="3.979" end="4.832666666666666" startframe="0" framelength="0" text="squirrel"/>
 	</timings>
 </xml>

@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Everyone is here and the food is ready">
-		<timing id="0" start="0.006" end="0.714" startframe="0" framelength="0" text="Everyone"/>
-		<timing id="1" start="0.714" end="0.945" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.945" end="1.305" startframe="0" framelength="0" text="here"/>
-		<timing id="3" start="1.305" end="1.518" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="1.518" end="1.619" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.619" end="2.13" startframe="0" framelength="0" text="food"/>
-		<timing id="6" start="2.13" end="2.354" startframe="0" framelength="0" text="is"/>
-		<timing id="7" start="2.354" end="3.1346666666666665" startframe="0" framelength="0" text="ready"/>
+		<timing id="0" start="0.006" end="0.633" startframe="0" framelength="0" text="Everyone"/>
+		<timing id="1" start="0.633" end="0.837" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.837" end="1.158" startframe="0" framelength="0" text="here"/>
+		<timing id="3" start="1.158" end="1.349" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="1.349" end="1.439" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.439" end="1.89" startframe="0" framelength="0" text="food"/>
+		<timing id="6" start="1.89" end="2.09" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="2.09" end="2.769" startframe="0" framelength="0" text="ready"/>
 	</timings>
 </xml>

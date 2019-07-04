@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I can see something big and dark What is it">
-		<timing id="0" start="0.006" end="0.223" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.223" end="0.543" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.543" end="0.855" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="0.855" end="1.558" startframe="0" framelength="0" text="something"/>
-		<timing id="4" start="1.558" end="1.948" startframe="0" framelength="0" text="big"/>
-		<timing id="5" start="1.948" end="2.223" startframe="0" framelength="0" text="and"/>
-		<timing id="6" start="2.223" end="3.262" startframe="0" framelength="0" text="dark"/>
-		<timing id="7" start="3.262" end="3.71" startframe="0" framelength="0" text="What"/>
-		<timing id="8" start="3.71" end="3.953" startframe="0" framelength="0" text="is"/>
-		<timing id="9" start="3.953" end="4.519166666666667" startframe="0" framelength="0" text="it"/>
+		<timing id="0" start="0.006" end="0.195" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.195" end="0.484" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.484" end="0.764" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="0.764" end="1.39" startframe="0" framelength="0" text="something"/>
+		<timing id="4" start="1.39" end="1.734" startframe="0" framelength="0" text="big"/>
+		<timing id="5" start="1.734" end="1.983" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="1.983" end="2.944" startframe="0" framelength="0" text="dark"/>
+		<timing id="7" start="2.944" end="3.33" startframe="0" framelength="0" text="What"/>
+		<timing id="8" start="3.33" end="3.543" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="3.543" end="4.022833333333334" startframe="0" framelength="0" text="it"/>
 	</timings>
 </xml>

@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Grandma juggled day and night Even when the moon was in the sky">
-		<timing id="0" start="0.006" end="0.913" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="1" start="0.913" end="1.536" startframe="0" framelength="0" text="juggled"/>
-		<timing id="2" start="1.536" end="1.88" startframe="0" framelength="0" text="day"/>
-		<timing id="3" start="1.88" end="2.079" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="2.079" end="3.158" startframe="0" framelength="0" text="night"/>
-		<timing id="5" start="3.158" end="3.617" startframe="0" framelength="0" text="Even"/>
-		<timing id="6" start="3.617" end="3.948" startframe="0" framelength="0" text="when"/>
-		<timing id="7" start="3.948" end="4.073" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="4.073" end="4.517" startframe="0" framelength="0" text="moon"/>
-		<timing id="9" start="4.517" end="4.855" startframe="0" framelength="0" text="was"/>
-		<timing id="10" start="4.855" end="4.963" startframe="0" framelength="0" text="in"/>
-		<timing id="11" start="4.963" end="5.099" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="5.099" end="6.008166666666667" startframe="0" framelength="0" text="sky"/>
+		<timing id="0" start="0.006" end="0.798" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="0.798" end="1.343" startframe="0" framelength="0" text="juggled"/>
+		<timing id="2" start="1.343" end="1.638" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.638" end="1.814" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="1.814" end="2.805" startframe="0" framelength="0" text="night"/>
+		<timing id="5" start="2.805" end="3.205" startframe="0" framelength="0" text="Even"/>
+		<timing id="6" start="3.205" end="3.501" startframe="0" framelength="0" text="when"/>
+		<timing id="7" start="3.501" end="3.613" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.613" end="4.005" startframe="0" framelength="0" text="moon"/>
+		<timing id="9" start="4.005" end="4.314" startframe="0" framelength="0" text="was"/>
+		<timing id="10" start="4.314" end="4.413" startframe="0" framelength="0" text="in"/>
+		<timing id="11" start="4.413" end="4.531" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.531" end="5.329" startframe="0" framelength="0" text="sky"/>
 	</timings>
 </xml>

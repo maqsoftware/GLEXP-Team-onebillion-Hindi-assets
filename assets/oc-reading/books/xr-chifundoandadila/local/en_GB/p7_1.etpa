@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="When Chifundo gets home she is still shaking She tells her mum what happened">
-		<timing id="0" start="0.006" end="0.407" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.407" end="1.278" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="2" start="1.278" end="1.791" startframe="0" framelength="0" text="gets"/>
-		<timing id="3" start="1.791" end="2.66" startframe="0" framelength="0" text="home"/>
-		<timing id="4" start="2.66" end="3.034" startframe="0" framelength="0" text="she"/>
-		<timing id="5" start="3.034" end="3.231" startframe="0" framelength="0" text="is"/>
-		<timing id="6" start="3.231" end="3.619" startframe="0" framelength="0" text="still"/>
-		<timing id="7" start="3.619" end="5.03" startframe="0" framelength="0" text="shaking"/>
-		<timing id="8" start="5.03" end="5.4" startframe="0" framelength="0" text="She"/>
-		<timing id="9" start="5.4" end="5.963" startframe="0" framelength="0" text="tells"/>
-		<timing id="10" start="5.963" end="6.219" startframe="0" framelength="0" text="her"/>
-		<timing id="11" start="6.219" end="6.609" startframe="0" framelength="0" text="mum"/>
-		<timing id="12" start="6.609" end="6.929" startframe="0" framelength="0" text="what"/>
-		<timing id="13" start="6.929" end="7.862833333333334" startframe="0" framelength="0" text="happened"/>
+	<timings text="When Deeksha gets home she is still shaking She tells her mum what happened">
+		<timing id="0" start="0.006" end="0.391" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.391" end="0.939" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="2" start="0.939" end="1.4" startframe="0" framelength="0" text="gets"/>
+		<timing id="3" start="1.4" end="2.186" startframe="0" framelength="0" text="home"/>
+		<timing id="4" start="2.186" end="2.52" startframe="0" framelength="0" text="she"/>
+		<timing id="5" start="2.52" end="2.687" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="2.687" end="3.032" startframe="0" framelength="0" text="still"/>
+		<timing id="7" start="3.032" end="4.321" startframe="0" framelength="0" text="shaking"/>
+		<timing id="8" start="4.321" end="4.648" startframe="0" framelength="0" text="She"/>
+		<timing id="9" start="4.648" end="5.145" startframe="0" framelength="0" text="tells"/>
+		<timing id="10" start="5.145" end="5.37" startframe="0" framelength="0" text="her"/>
+		<timing id="11" start="5.37" end="5.711" startframe="0" framelength="0" text="mum"/>
+		<timing id="12" start="5.711" end="5.993" startframe="0" framelength="0" text="what"/>
+		<timing id="13" start="5.993" end="6.818" startframe="0" framelength="0" text="happened"/>
 	</timings>
 </xml>

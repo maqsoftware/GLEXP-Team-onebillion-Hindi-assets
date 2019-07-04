@@ -1,29 +1,29 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo looked at her plant quite often But she did not water it And then one day oh no The plant was dead">
-		<timing id="0" start="0.006" end="0.725" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.725" end="1.231" startframe="0" framelength="0" text="looked"/>
-		<timing id="2" start="1.231" end="1.492" startframe="0" framelength="0" text="at"/>
-		<timing id="3" start="1.492" end="1.699" startframe="0" framelength="0" text="her"/>
-		<timing id="4" start="1.699" end="2.317" startframe="0" framelength="0" text="plant"/>
-		<timing id="5" start="2.317" end="2.853" startframe="0" framelength="0" text="quite"/>
-		<timing id="6" start="2.853" end="4.042" startframe="0" framelength="0" text="often"/>
-		<timing id="7" start="4.042" end="4.39" startframe="0" framelength="0" text="But"/>
-		<timing id="8" start="4.39" end="4.713" startframe="0" framelength="0" text="she"/>
-		<timing id="9" start="4.713" end="5.004" startframe="0" framelength="0" text="did"/>
-		<timing id="10" start="5.004" end="5.405" startframe="0" framelength="0" text="not"/>
-		<timing id="11" start="5.405" end="6.008" startframe="0" framelength="0" text="water"/>
-		<timing id="12" start="6.008" end="6.899" startframe="0" framelength="0" text="it"/>
-		<timing id="13" start="6.899" end="7.212" startframe="0" framelength="0" text="And"/>
-		<timing id="14" start="7.212" end="7.555" startframe="0" framelength="0" text="then"/>
-		<timing id="15" start="7.555" end="7.947" startframe="0" framelength="0" text="one"/>
-		<timing id="16" start="7.947" end="8.675" startframe="0" framelength="0" text="day"/>
-		<timing id="17" start="8.675" end="8.898" startframe="0" framelength="0" text="oh"/>
-		<timing id="18" start="8.898" end="9.849" startframe="0" framelength="0" text="no"/>
-		<timing id="19" start="9.849" end="10.025" startframe="0" framelength="0" text="The"/>
-		<timing id="20" start="10.025" end="10.668" startframe="0" framelength="0" text="plant"/>
-		<timing id="21" start="10.668" end="11.034" startframe="0" framelength="0" text="was"/>
-		<timing id="22" start="11.034" end="11.6505" startframe="0" framelength="0" text="dead"/>
+	<timings text="Harita looked at her plant quite often But she did not water it And then one day oh no The plant was dead">
+		<timing id="0" start="0.006" end="0.613" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.613" end="1.017" startframe="0" framelength="0" text="looked"/>
+		<timing id="2" start="1.017" end="1.247" startframe="0" framelength="0" text="at"/>
+		<timing id="3" start="1.247" end="1.432" startframe="0" framelength="0" text="her"/>
+		<timing id="4" start="1.432" end="1.958" startframe="0" framelength="0" text="plant"/>
+		<timing id="5" start="1.958" end="2.431" startframe="0" framelength="0" text="quite"/>
+		<timing id="6" start="2.431" end="3.524" startframe="0" framelength="0" text="often"/>
+		<timing id="7" start="3.524" end="3.83" startframe="0" framelength="0" text="But"/>
+		<timing id="8" start="3.83" end="4.115" startframe="0" framelength="0" text="she"/>
+		<timing id="9" start="4.115" end="4.373" startframe="0" framelength="0" text="did"/>
+		<timing id="10" start="4.373" end="4.725" startframe="0" framelength="0" text="not"/>
+		<timing id="11" start="4.725" end="5.261" startframe="0" framelength="0" text="water"/>
+		<timing id="12" start="5.261" end="6.087" startframe="0" framelength="0" text="it"/>
+		<timing id="13" start="6.087" end="6.367" startframe="0" framelength="0" text="And"/>
+		<timing id="14" start="6.367" end="6.676" startframe="0" framelength="0" text="then"/>
+		<timing id="15" start="6.676" end="7.027" startframe="0" framelength="0" text="one"/>
+		<timing id="16" start="7.027" end="7.693" startframe="0" framelength="0" text="day"/>
+		<timing id="17" start="7.693" end="7.889" startframe="0" framelength="0" text="oh"/>
+		<timing id="18" start="7.889" end="8.766" startframe="0" framelength="0" text="no"/>
+		<timing id="19" start="8.766" end="8.922" startframe="0" framelength="0" text="The"/>
+		<timing id="20" start="8.922" end="9.492" startframe="0" framelength="0" text="plant"/>
+		<timing id="21" start="9.492" end="9.831" startframe="0" framelength="0" text="was"/>
+		<timing id="22" start="9.831" end="10.3705" startframe="0" framelength="0" text="dead"/>
 	</timings>
 </xml>

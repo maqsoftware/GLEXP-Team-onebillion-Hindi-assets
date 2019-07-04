@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Meerkat is washing his babies He wants Hippo to go away">
-		<timing id="0" start="0.006" end="0.848" startframe="0" framelength="0" text="Meerkat"/>
-		<timing id="1" start="0.848" end="1.035" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="1.035" end="1.627" startframe="0" framelength="0" text="washing"/>
-		<timing id="3" start="1.627" end="1.937" startframe="0" framelength="0" text="his"/>
-		<timing id="4" start="1.937" end="3.319" startframe="0" framelength="0" text="babies"/>
-		<timing id="5" start="3.319" end="3.539" startframe="0" framelength="0" text="He"/>
-		<timing id="6" start="3.539" end="4.076" startframe="0" framelength="0" text="wants"/>
-		<timing id="7" start="4.076" end="4.657" startframe="0" framelength="0" text="Hippo"/>
-		<timing id="8" start="4.657" end="4.838" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="4.838" end="5.226" startframe="0" framelength="0" text="go"/>
-		<timing id="10" start="5.226" end="5.9558333333333335" startframe="0" framelength="0" text="away"/>
+		<timing id="0" start="0.006" end="0.747" startframe="0" framelength="0" text="Meerkat"/>
+		<timing id="1" start="0.747" end="0.914" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.914" end="1.437" startframe="0" framelength="0" text="washing"/>
+		<timing id="3" start="1.437" end="1.715" startframe="0" framelength="0" text="his"/>
+		<timing id="4" start="1.715" end="2.966" startframe="0" framelength="0" text="babies"/>
+		<timing id="5" start="2.966" end="3.163" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="3.163" end="3.638" startframe="0" framelength="0" text="wants"/>
+		<timing id="7" start="3.638" end="4.14" startframe="0" framelength="0" text="Hippo"/>
+		<timing id="8" start="4.14" end="4.298" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="4.298" end="4.634" startframe="0" framelength="0" text="go"/>
+		<timing id="10" start="4.634" end="5.276666666666666" startframe="0" framelength="0" text="away"/>
 	</timings>
 </xml>

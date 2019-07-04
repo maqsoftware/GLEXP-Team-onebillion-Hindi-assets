@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="grand fa ther">
-		<timing id="0" start="0.006" end="1.098" startframe="0" framelength="0" text="grand"/>
-		<timing id="1" start="1.098" end="2.163" startframe="0" framelength="0" text="fa"/>
-		<timing id="2" start="2.163" end="2.8473333333333333" startframe="0" framelength="0" text="ther"/>
+		<timing id="0" start="0.006" end="0.994" startframe="0" framelength="0" text="grand"/>
+		<timing id="1" start="0.994" end="1.951" startframe="0" framelength="0" text="fa"/>
+		<timing id="2" start="1.951" end="2.56" startframe="0" framelength="0" text="ther"/>
 	</timings>
 </xml>

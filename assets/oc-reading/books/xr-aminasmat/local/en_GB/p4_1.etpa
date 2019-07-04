@@ -1,26 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Up in the hills Amina felt very safe on her mat No snakes or scorpions or insects came near her">
-		<timing id="0" start="0.006" end="0.31" startframe="0" framelength="0" text="Up"/>
-		<timing id="1" start="0.31" end="0.515" startframe="0" framelength="0" text="in"/>
-		<timing id="2" start="0.515" end="0.629" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.629" end="1.646" startframe="0" framelength="0" text="hills"/>
-		<timing id="4" start="1.646" end="2.237" startframe="0" framelength="0" text="Amina"/>
-		<timing id="5" start="2.237" end="2.857" startframe="0" framelength="0" text="felt"/>
-		<timing id="6" start="2.857" end="3.315" startframe="0" framelength="0" text="very"/>
-		<timing id="7" start="3.315" end="3.889" startframe="0" framelength="0" text="safe"/>
-		<timing id="8" start="3.889" end="4.124" startframe="0" framelength="0" text="on"/>
-		<timing id="9" start="4.124" end="4.347" startframe="0" framelength="0" text="her"/>
-		<timing id="10" start="4.347" end="5.455" startframe="0" framelength="0" text="mat"/>
-		<timing id="11" start="5.455" end="5.834" startframe="0" framelength="0" text="No"/>
-		<timing id="12" start="5.834" end="6.488" startframe="0" framelength="0" text="snakes"/>
-		<timing id="13" start="6.488" end="6.612" startframe="0" framelength="0" text="or"/>
-		<timing id="14" start="6.612" end="7.702" startframe="0" framelength="0" text="scorpions"/>
-		<timing id="15" start="7.702" end="8.044" startframe="0" framelength="0" text="or"/>
-		<timing id="16" start="8.044" end="8.965" startframe="0" framelength="0" text="insects"/>
-		<timing id="17" start="8.965" end="9.324" startframe="0" framelength="0" text="came"/>
-		<timing id="18" start="9.324" end="9.708" startframe="0" framelength="0" text="near"/>
-		<timing id="19" start="9.708" end="10.3705" startframe="0" framelength="0" text="her"/>
+	<timings text="Up in the hills Kalpana felt very safe on her mat No snakes or scorpions or insects came near her">
+		<timing id="0" start="0.006" end="0.274" startframe="0" framelength="0" text="Up"/>
+		<timing id="1" start="0.274" end="0.454" startframe="0" framelength="0" text="in"/>
+		<timing id="2" start="0.454" end="0.55" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.55" end="1.463" startframe="0" framelength="0" text="hills"/>
+		<timing id="4" start="1.463" end="1.975" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="5" start="1.975" end="2.445" startframe="0" framelength="0" text="felt"/>
+		<timing id="6" start="2.445" end="2.837" startframe="0" framelength="0" text="very"/>
+		<timing id="7" start="2.837" end="3.337" startframe="0" framelength="0" text="safe"/>
+		<timing id="8" start="3.337" end="3.536" startframe="0" framelength="0" text="on"/>
+		<timing id="9" start="3.536" end="3.726" startframe="0" framelength="0" text="her"/>
+		<timing id="10" start="3.726" end="4.756" startframe="0" framelength="0" text="mat"/>
+		<timing id="11" start="4.756" end="5.081" startframe="0" framelength="0" text="No"/>
+		<timing id="12" start="5.081" end="5.659" startframe="0" framelength="0" text="snakes"/>
+		<timing id="13" start="5.659" end="5.771" startframe="0" framelength="0" text="or"/>
+		<timing id="14" start="5.771" end="6.737" startframe="0" framelength="0" text="scorpions"/>
+		<timing id="15" start="6.737" end="7.033" startframe="0" framelength="0" text="or"/>
+		<timing id="16" start="7.033" end="7.837" startframe="0" framelength="0" text="insects"/>
+		<timing id="17" start="7.837" end="8.156" startframe="0" framelength="0" text="came"/>
+		<timing id="18" start="8.156" end="8.493" startframe="0" framelength="0" text="near"/>
+		<timing id="19" start="8.493" end="9.0905" startframe="0" framelength="0" text="her"/>
 	</timings>
 </xml>

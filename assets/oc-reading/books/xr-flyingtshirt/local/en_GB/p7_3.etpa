@@ -1,13 +1,13 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="He looks angry says Chifundo Let’s run">
-		<timing id="0" start="0.006" end="0.219" startframe="0" framelength="0" text="He"/>
-		<timing id="1" start="0.219" end="0.755" startframe="0" framelength="0" text="looks"/>
-		<timing id="2" start="0.755" end="1.762" startframe="0" framelength="0" text="angry"/>
-		<timing id="3" start="1.762" end="2.416" startframe="0" framelength="0" text="says"/>
-		<timing id="4" start="2.416" end="3.815" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="5" start="3.815" end="4.374" startframe="0" framelength="0" text="Let’s"/>
-		<timing id="6" start="4.374" end="5.067666666666667" startframe="0" framelength="0" text="run"/>
+	<timings text="He looks angry says Deeksha Let’s run">
+		<timing id="0" start="0.006" end="0.195" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.195" end="0.666" startframe="0" framelength="0" text="looks"/>
+		<timing id="2" start="0.666" end="1.59" startframe="0" framelength="0" text="angry"/>
+		<timing id="3" start="1.59" end="2.18" startframe="0" framelength="0" text="says"/>
+		<timing id="4" start="2.18" end="3.36" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="5" start="3.36" end="3.861" startframe="0" framelength="0" text="Let’s"/>
+		<timing id="6" start="3.861" end="4.466833333333334" startframe="0" framelength="0" text="run"/>
 	</timings>
 </xml>

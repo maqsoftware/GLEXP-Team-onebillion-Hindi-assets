@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="It is seven days until Thato’s birthday That is a whole week">
-		<timing id="0" start="0.006" end="0.247" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.247" end="0.401" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.401" end="0.93" startframe="0" framelength="0" text="seven"/>
-		<timing id="3" start="0.93" end="1.337" startframe="0" framelength="0" text="days"/>
-		<timing id="4" start="1.337" end="1.758" startframe="0" framelength="0" text="until"/>
-		<timing id="5" start="1.758" end="2.581" startframe="0" framelength="0" text="Thato’s"/>
-		<timing id="6" start="2.581" end="3.873" startframe="0" framelength="0" text="birthday"/>
-		<timing id="7" start="3.873" end="4.37" startframe="0" framelength="0" text="That"/>
-		<timing id="8" start="4.37" end="4.564" startframe="0" framelength="0" text="is"/>
-		<timing id="9" start="4.564" end="4.629" startframe="0" framelength="0" text="a"/>
-		<timing id="10" start="4.629" end="5.042" startframe="0" framelength="0" text="whole"/>
-		<timing id="11" start="5.042" end="5.799166666666666" startframe="0" framelength="0" text="week"/>
+	<timings text="It is seven days until Krishna’s birthday That is a whole week">
+		<timing id="0" start="0.006" end="0.221" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.221" end="0.357" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.357" end="0.828" startframe="0" framelength="0" text="seven"/>
+		<timing id="3" start="0.828" end="1.184" startframe="0" framelength="0" text="days"/>
+		<timing id="4" start="1.184" end="1.548" startframe="0" framelength="0" text="until"/>
+		<timing id="5" start="1.548" end="2.321" startframe="0" framelength="0" text="Krishna’s"/>
+		<timing id="6" start="2.321" end="3.496" startframe="0" framelength="0" text="birthday"/>
+		<timing id="7" start="3.496" end="3.928" startframe="0" framelength="0" text="That"/>
+		<timing id="8" start="3.928" end="4.101" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="4.101" end="4.158" startframe="0" framelength="0" text="a"/>
+		<timing id="10" start="4.158" end="4.526" startframe="0" framelength="0" text="whole"/>
+		<timing id="11" start="4.526" end="5.198333333333333" startframe="0" framelength="0" text="week"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="My mother and my grandmother are busy">
-		<timing id="0" start="0.006" end="0.398" startframe="0" framelength="0" text="My"/>
-		<timing id="1" start="0.398" end="0.946" startframe="0" framelength="0" text="mother"/>
-		<timing id="2" start="0.946" end="1.195" startframe="0" framelength="0" text="and"/>
-		<timing id="3" start="1.195" end="1.439" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="1.439" end="2.49" startframe="0" framelength="0" text="grandmother"/>
-		<timing id="5" start="2.49" end="2.693" startframe="0" framelength="0" text="are"/>
-		<timing id="6" start="2.693" end="3.448166666666667" startframe="0" framelength="0" text="busy"/>
+		<timing id="0" start="0.006" end="0.348" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.348" end="0.833" startframe="0" framelength="0" text="mother"/>
+		<timing id="2" start="0.833" end="1.05" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="1.05" end="1.261" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.261" end="2.188" startframe="0" framelength="0" text="grandmother"/>
+		<timing id="5" start="2.188" end="2.367" startframe="0" framelength="0" text="are"/>
+		<timing id="6" start="2.367" end="3.0301666666666667" startframe="0" framelength="0" text="busy"/>
 	</timings>
 </xml>

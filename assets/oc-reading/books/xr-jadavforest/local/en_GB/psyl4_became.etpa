@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="be came">
-		<timing id="0" start="0.006" end="0.957" startframe="0" framelength="0" text="be"/>
-		<timing id="1" start="0.957" end="1.6718333333333333" startframe="0" framelength="0" text="came"/>
+		<timing id="0" start="0.006" end="0.864" startframe="0" framelength="0" text="be"/>
+		<timing id="1" start="0.864" end="1.489" startframe="0" framelength="0" text="came"/>
 	</timings>
 </xml>

@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She finds a frog">
-		<timing id="0" start="0.006" end="0.344" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.344" end="0.956" startframe="0" framelength="0" text="finds"/>
-		<timing id="2" start="0.956" end="1.021" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.021" end="1.933" startframe="0" framelength="0" text="frog"/>
+		<timing id="0" start="0.006" end="0.302" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.302" end="0.835" startframe="0" framelength="0" text="finds"/>
+		<timing id="2" start="0.835" end="0.892" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.892" end="1.698" startframe="0" framelength="0" text="frog"/>
 	</timings>
 </xml>

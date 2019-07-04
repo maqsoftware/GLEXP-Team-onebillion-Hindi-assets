@@ -1,15 +1,15 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mrs Panja hides the chickens in the pumpkin patch">
-		<timing id="0" start="0.006" end="0.606" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="1" start="0.606" end="1.148" startframe="0" framelength="0" text="Panja"/>
-		<timing id="2" start="1.148" end="1.698" startframe="0" framelength="0" text="hides"/>
-		<timing id="3" start="1.698" end="1.843" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.843" end="2.693" startframe="0" framelength="0" text="chickens"/>
-		<timing id="5" start="2.693" end="2.817" startframe="0" framelength="0" text="in"/>
-		<timing id="6" start="2.817" end="2.913" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="2.913" end="3.702" startframe="0" framelength="0" text="pumpkin"/>
-		<timing id="8" start="3.702" end="4.5713333333333335" startframe="0" framelength="0" text="patch"/>
+	<timings text="Mrs Chandini hides the chickens in the pumpkin patch">
+		<timing id="0" start="0.006" end="0.541" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.541" end="1.272" startframe="0" framelength="0" text="Chandini"/>
+		<timing id="2" start="1.272" end="1.779" startframe="0" framelength="0" text="hides"/>
+		<timing id="3" start="1.779" end="1.908" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.908" end="2.636" startframe="0" framelength="0" text="chickens"/>
+		<timing id="5" start="2.636" end="2.75" startframe="0" framelength="0" text="in"/>
+		<timing id="6" start="2.75" end="2.84" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.84" end="3.547" startframe="0" framelength="0" text="pumpkin"/>
+		<timing id="8" start="3.547" end="4.336333333333333" startframe="0" framelength="0" text="patch"/>
 	</timings>
 </xml>

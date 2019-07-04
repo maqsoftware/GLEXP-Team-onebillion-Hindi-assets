@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Grandma tells a story">
-		<timing id="0" start="0.006" end="0.822" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="1" start="0.822" end="1.323" startframe="0" framelength="0" text="tells"/>
-		<timing id="2" start="1.323" end="1.397" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.397" end="2.3771666666666667" startframe="0" framelength="0" text="story"/>
+		<timing id="0" start="0.006" end="0.715" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="0.715" end="1.15" startframe="0" framelength="0" text="tells"/>
+		<timing id="2" start="1.15" end="1.216" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.216" end="2.0898333333333334" startframe="0" framelength="0" text="story"/>
 	</timings>
 </xml>

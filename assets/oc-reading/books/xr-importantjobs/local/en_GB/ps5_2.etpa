@@ -2,24 +2,24 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Carpenters have the most important job he says Without us there would be no furniture in houses or schools">
-		<timing id="0" start="0.006" end="0.978" startframe="0" framelength="0" text="Carpenters"/>
-		<timing id="1" start="0.978" end="1.339" startframe="0" framelength="0" text="have"/>
-		<timing id="2" start="1.339" end="1.476" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="1.476" end="2.013" startframe="0" framelength="0" text="most"/>
-		<timing id="4" start="2.013" end="2.774" startframe="0" framelength="0" text="important"/>
-		<timing id="5" start="2.774" end="3.617" startframe="0" framelength="0" text="job"/>
-		<timing id="6" start="3.617" end="3.839" startframe="0" framelength="0" text="he"/>
-		<timing id="7" start="3.839" end="5.081" startframe="0" framelength="0" text="says"/>
-		<timing id="8" start="5.081" end="5.837" startframe="0" framelength="0" text="Without"/>
-		<timing id="9" start="5.837" end="6.618" startframe="0" framelength="0" text="us"/>
-		<timing id="10" start="6.618" end="6.946" startframe="0" framelength="0" text="there"/>
-		<timing id="11" start="6.946" end="7.212" startframe="0" framelength="0" text="would"/>
-		<timing id="12" start="7.212" end="7.388" startframe="0" framelength="0" text="be"/>
-		<timing id="13" start="7.388" end="7.706" startframe="0" framelength="0" text="no"/>
-		<timing id="14" start="7.706" end="8.654" startframe="0" framelength="0" text="furniture"/>
-		<timing id="15" start="8.654" end="8.841" startframe="0" framelength="0" text="in"/>
-		<timing id="16" start="8.841" end="9.555" startframe="0" framelength="0" text="houses"/>
-		<timing id="17" start="9.555" end="9.677" startframe="0" framelength="0" text="or"/>
-		<timing id="18" start="9.677" end="10.631833333333333" startframe="0" framelength="0" text="schools"/>
+		<timing id="0" start="0.006" end="0.873" startframe="0" framelength="0" text="Carpenters"/>
+		<timing id="1" start="0.873" end="1.189" startframe="0" framelength="0" text="have"/>
+		<timing id="2" start="1.189" end="1.306" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.306" end="1.778" startframe="0" framelength="0" text="most"/>
+		<timing id="4" start="1.778" end="2.448" startframe="0" framelength="0" text="important"/>
+		<timing id="5" start="2.448" end="3.214" startframe="0" framelength="0" text="job"/>
+		<timing id="6" start="3.214" end="3.411" startframe="0" framelength="0" text="he"/>
+		<timing id="7" start="3.411" end="4.543" startframe="0" framelength="0" text="says"/>
+		<timing id="8" start="4.543" end="5.202" startframe="0" framelength="0" text="Without"/>
+		<timing id="9" start="5.202" end="5.918" startframe="0" framelength="0" text="us"/>
+		<timing id="10" start="5.918" end="6.208" startframe="0" framelength="0" text="there"/>
+		<timing id="11" start="6.208" end="6.441" startframe="0" framelength="0" text="would"/>
+		<timing id="12" start="6.441" end="6.595" startframe="0" framelength="0" text="be"/>
+		<timing id="13" start="6.595" end="6.882" startframe="0" framelength="0" text="no"/>
+		<timing id="14" start="6.882" end="7.709" startframe="0" framelength="0" text="furniture"/>
+		<timing id="15" start="7.709" end="7.873" startframe="0" framelength="0" text="in"/>
+		<timing id="16" start="7.873" end="8.5" startframe="0" framelength="0" text="houses"/>
+		<timing id="17" start="8.5" end="8.604" startframe="0" framelength="0" text="or"/>
+		<timing id="18" start="8.604" end="9.430166666666667" startframe="0" framelength="0" text="schools"/>
 	</timings>
 </xml>

@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Don’t go outside Rita I say And there she goes I must follow her">
-		<timing id="0" start="0.006" end="0.573" startframe="0" framelength="0" text="Don’t"/>
-		<timing id="1" start="0.573" end="0.91" startframe="0" framelength="0" text="go"/>
-		<timing id="2" start="0.91" end="2.199" startframe="0" framelength="0" text="outside"/>
-		<timing id="3" start="2.199" end="3.186" startframe="0" framelength="0" text="Rita"/>
-		<timing id="4" start="3.186" end="3.414" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="3.414" end="4.535" startframe="0" framelength="0" text="say"/>
-		<timing id="6" start="4.535" end="4.902" startframe="0" framelength="0" text="And"/>
-		<timing id="7" start="4.902" end="5.166" startframe="0" framelength="0" text="there"/>
-		<timing id="8" start="5.166" end="5.489" startframe="0" framelength="0" text="she"/>
-		<timing id="9" start="5.489" end="6.686" startframe="0" framelength="0" text="goes"/>
-		<timing id="10" start="6.686" end="6.895" startframe="0" framelength="0" text="I"/>
-		<timing id="11" start="6.895" end="7.336" startframe="0" framelength="0" text="must"/>
-		<timing id="12" start="7.336" end="7.878" startframe="0" framelength="0" text="follow"/>
-		<timing id="13" start="7.878" end="8.515833333333333" startframe="0" framelength="0" text="her"/>
+	<timings text="Don’t go outside Indu I say And there she goes I must follow her">
+		<timing id="0" start="0.006" end="0.501" startframe="0" framelength="0" text="Don’t"/>
+		<timing id="1" start="0.501" end="0.799" startframe="0" framelength="0" text="go"/>
+		<timing id="2" start="0.799" end="1.961" startframe="0" framelength="0" text="outside"/>
+		<timing id="3" start="1.961" end="2.718" startframe="0" framelength="0" text="Indu"/>
+		<timing id="4" start="2.718" end="2.918" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="2.918" end="3.949" startframe="0" framelength="0" text="say"/>
+		<timing id="6" start="3.949" end="4.28" startframe="0" framelength="0" text="And"/>
+		<timing id="7" start="4.28" end="4.519" startframe="0" framelength="0" text="there"/>
+		<timing id="8" start="4.519" end="4.798" startframe="0" framelength="0" text="she"/>
+		<timing id="9" start="4.798" end="5.899" startframe="0" framelength="0" text="goes"/>
+		<timing id="10" start="5.899" end="6.083" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="6.083" end="6.464" startframe="0" framelength="0" text="must"/>
+		<timing id="12" start="6.464" end="6.947" startframe="0" framelength="0" text="follow"/>
+		<timing id="13" start="6.947" end="7.523166666666667" startframe="0" framelength="0" text="her"/>
 	</timings>
 </xml>

@@ -2,21 +2,21 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="There is a fish in the house The fish asks Mouse to sleep next to him">
-		<timing id="0" start="0.006" end="0.466" startframe="0" framelength="0" text="There"/>
-		<timing id="1" start="0.466" end="0.652" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.652" end="0.72" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.72" end="1.223" startframe="0" framelength="0" text="fish"/>
-		<timing id="4" start="1.223" end="1.394" startframe="0" framelength="0" text="in"/>
-		<timing id="5" start="1.394" end="1.508" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="1.508" end="2.827" startframe="0" framelength="0" text="house"/>
-		<timing id="7" start="2.827" end="2.967" startframe="0" framelength="0" text="The"/>
-		<timing id="8" start="2.967" end="3.459" startframe="0" framelength="0" text="fish"/>
-		<timing id="9" start="3.459" end="4.059" startframe="0" framelength="0" text="asks"/>
-		<timing id="10" start="4.059" end="4.545" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="11" start="4.545" end="4.72" startframe="0" framelength="0" text="to"/>
-		<timing id="12" start="4.72" end="5.314" startframe="0" framelength="0" text="sleep"/>
-		<timing id="13" start="5.314" end="5.855" startframe="0" framelength="0" text="next"/>
-		<timing id="14" start="5.855" end="6.038" startframe="0" framelength="0" text="to"/>
-		<timing id="15" start="6.038" end="6.7135" startframe="0" framelength="0" text="him"/>
+		<timing id="0" start="0.006" end="0.413" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.413" end="0.571" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.571" end="0.631" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.631" end="1.073" startframe="0" framelength="0" text="fish"/>
+		<timing id="4" start="1.073" end="1.222" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.222" end="1.321" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.321" end="2.521" startframe="0" framelength="0" text="house"/>
+		<timing id="7" start="2.521" end="2.647" startframe="0" framelength="0" text="The"/>
+		<timing id="8" start="2.647" end="3.083" startframe="0" framelength="0" text="fish"/>
+		<timing id="9" start="3.083" end="3.616" startframe="0" framelength="0" text="asks"/>
+		<timing id="10" start="3.616" end="4.05" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="11" start="4.05" end="4.199" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="4.199" end="4.727" startframe="0" framelength="0" text="sleep"/>
+		<timing id="13" start="4.727" end="5.205" startframe="0" framelength="0" text="next"/>
+		<timing id="14" start="5.205" end="5.366" startframe="0" framelength="0" text="to"/>
+		<timing id="15" start="5.366" end="5.982" startframe="0" framelength="0" text="him"/>
 	</timings>
 </xml>

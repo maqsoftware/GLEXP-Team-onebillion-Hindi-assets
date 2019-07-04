@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="That’s good Chikondi thinks All my chickens are asleep They must be very tired">
-		<timing id="0" start="0.006" end="0.651" startframe="0" framelength="0" text="That’s"/>
-		<timing id="1" start="0.651" end="1.442" startframe="0" framelength="0" text="good"/>
-		<timing id="2" start="1.442" end="2.253" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="3" start="2.253" end="3.593" startframe="0" framelength="0" text="thinks"/>
-		<timing id="4" start="3.593" end="3.919" startframe="0" framelength="0" text="All"/>
-		<timing id="5" start="3.919" end="4.177" startframe="0" framelength="0" text="my"/>
-		<timing id="6" start="4.177" end="4.943" startframe="0" framelength="0" text="chickens"/>
-		<timing id="7" start="4.943" end="5.163" startframe="0" framelength="0" text="are"/>
-		<timing id="8" start="5.163" end="6.451" startframe="0" framelength="0" text="asleep"/>
-		<timing id="9" start="6.451" end="6.762" startframe="0" framelength="0" text="They"/>
-		<timing id="10" start="6.762" end="7.26" startframe="0" framelength="0" text="must"/>
-		<timing id="11" start="7.26" end="7.518" startframe="0" framelength="0" text="be"/>
-		<timing id="12" start="7.518" end="7.948" startframe="0" framelength="0" text="very"/>
-		<timing id="13" start="7.948" end="8.96" startframe="0" framelength="0" text="tired"/>
+	<timings text="That’s good Dipti thinks All my chickens are asleep They must be very tired">
+		<timing id="0" start="0.006" end="0.577" startframe="0" framelength="0" text="That’s"/>
+		<timing id="1" start="0.577" end="1.308" startframe="0" framelength="0" text="good"/>
+		<timing id="2" start="1.308" end="2.031" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="3" start="2.031" end="3.245" startframe="0" framelength="0" text="thinks"/>
+		<timing id="4" start="3.245" end="3.534" startframe="0" framelength="0" text="All"/>
+		<timing id="5" start="3.534" end="3.764" startframe="0" framelength="0" text="my"/>
+		<timing id="6" start="3.764" end="4.437" startframe="0" framelength="0" text="chickens"/>
+		<timing id="7" start="4.437" end="4.627" startframe="0" framelength="0" text="are"/>
+		<timing id="8" start="4.627" end="5.79" startframe="0" framelength="0" text="asleep"/>
+		<timing id="9" start="5.79" end="6.069" startframe="0" framelength="0" text="They"/>
+		<timing id="10" start="6.069" end="6.511" startframe="0" framelength="0" text="must"/>
+		<timing id="11" start="6.511" end="6.74" startframe="0" framelength="0" text="be"/>
+		<timing id="12" start="6.74" end="7.12" startframe="0" framelength="0" text="very"/>
+		<timing id="13" start="7.12" end="8.0195" startframe="0" framelength="0" text="tired"/>
 	</timings>
 </xml>

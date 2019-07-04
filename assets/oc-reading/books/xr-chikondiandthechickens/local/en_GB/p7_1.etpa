@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It’s the wedding day">
-		<timing id="0" start="0.006" end="0.344" startframe="0" framelength="0" text="It’s"/>
-		<timing id="1" start="0.344" end="0.491" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.491" end="1.098" startframe="0" framelength="0" text="wedding"/>
-		<timing id="3" start="1.098" end="1.8023333333333333" startframe="0" framelength="0" text="day"/>
+		<timing id="0" start="0.006" end="0.301" startframe="0" framelength="0" text="It’s"/>
+		<timing id="1" start="0.301" end="0.431" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.431" end="0.969" startframe="0" framelength="0" text="wedding"/>
+		<timing id="3" start="0.969" end="1.5935" startframe="0" framelength="0" text="day"/>
 	</timings>
 </xml>

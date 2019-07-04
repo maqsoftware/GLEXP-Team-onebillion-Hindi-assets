@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Little Sock gets lost">
-		<timing id="0" start="0.006" end="0.511" startframe="0" framelength="0" text="Little"/>
-		<timing id="1" start="0.511" end="0.941" startframe="0" framelength="0" text="Sock"/>
-		<timing id="2" start="0.941" end="1.415" startframe="0" framelength="0" text="gets"/>
-		<timing id="3" start="1.415" end="2.3248333333333333" startframe="0" framelength="0" text="lost"/>
+		<timing id="0" start="0.006" end="0.45" startframe="0" framelength="0" text="Little"/>
+		<timing id="1" start="0.45" end="0.82" startframe="0" framelength="0" text="Sock"/>
+		<timing id="2" start="0.82" end="1.236" startframe="0" framelength="0" text="gets"/>
+		<timing id="3" start="1.236" end="2.0375" startframe="0" framelength="0" text="lost"/>
 	</timings>
 </xml>

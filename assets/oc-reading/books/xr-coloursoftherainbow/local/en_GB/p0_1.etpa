@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The colours of the rainbow">
-		<timing id="0" start="0.006" end="0.187" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.187" end="0.787" startframe="0" framelength="0" text="colours"/>
-		<timing id="2" start="0.787" end="0.916" startframe="0" framelength="0" text="of"/>
-		<timing id="3" start="0.916" end="1.052" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.052" end="2.0636666666666668" startframe="0" framelength="0" text="rainbow"/>
+		<timing id="0" start="0.006" end="0.163" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.163" end="0.688" startframe="0" framelength="0" text="colours"/>
+		<timing id="2" start="0.688" end="0.801" startframe="0" framelength="0" text="of"/>
+		<timing id="3" start="0.801" end="0.921" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="0.921" end="1.8023333333333333" startframe="0" framelength="0" text="rainbow"/>
 	</timings>
 </xml>

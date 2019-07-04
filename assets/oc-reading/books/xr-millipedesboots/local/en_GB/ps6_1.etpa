@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Will I ever find my boots">
-		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="Will"/>
-		<timing id="1" start="0.338" end="0.518" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.518" end="0.892" startframe="0" framelength="0" text="ever"/>
-		<timing id="3" start="0.892" end="1.407" startframe="0" framelength="0" text="find"/>
-		<timing id="4" start="1.407" end="1.675" startframe="0" framelength="0" text="my"/>
-		<timing id="5" start="1.675" end="2.638333333333333" startframe="0" framelength="0" text="boots"/>
+		<timing id="0" start="0.006" end="0.303" startframe="0" framelength="0" text="Will"/>
+		<timing id="1" start="0.303" end="0.459" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.459" end="0.786" startframe="0" framelength="0" text="ever"/>
+		<timing id="3" start="0.786" end="1.235" startframe="0" framelength="0" text="find"/>
+		<timing id="4" start="1.235" end="1.472" startframe="0" framelength="0" text="my"/>
+		<timing id="5" start="1.472" end="2.351" startframe="0" framelength="0" text="boots"/>
 	</timings>
 </xml>

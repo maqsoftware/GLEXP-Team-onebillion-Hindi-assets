@@ -1,22 +1,22 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chikondi is in the yard talking to her chickens She loves them and tells them everything">
-		<timing id="0" start="0.006" end="0.886" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="1" start="0.886" end="1.128" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="1.128" end="1.295" startframe="0" framelength="0" text="in"/>
-		<timing id="3" start="1.295" end="1.38" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.38" end="2.315" startframe="0" framelength="0" text="yard"/>
-		<timing id="5" start="2.315" end="2.864" startframe="0" framelength="0" text="talking"/>
-		<timing id="6" start="2.864" end="3.082" startframe="0" framelength="0" text="to"/>
-		<timing id="7" start="3.082" end="3.294" startframe="0" framelength="0" text="her"/>
-		<timing id="8" start="3.294" end="4.768" startframe="0" framelength="0" text="chickens"/>
-		<timing id="9" start="4.768" end="5.113" startframe="0" framelength="0" text="She"/>
-		<timing id="10" start="5.113" end="5.672" startframe="0" framelength="0" text="loves"/>
-		<timing id="11" start="5.672" end="6.47" startframe="0" framelength="0" text="them"/>
-		<timing id="12" start="6.47" end="6.833" startframe="0" framelength="0" text="and"/>
-		<timing id="13" start="6.833" end="7.247" startframe="0" framelength="0" text="tells"/>
-		<timing id="14" start="7.247" end="7.554" startframe="0" framelength="0" text="them"/>
-		<timing id="15" start="7.554" end="8.594166666666666" startframe="0" framelength="0" text="everything"/>
+	<timings text="Dipti is in the yard talking to her chickens She loves them and tells them everything">
+		<timing id="0" start="0.006" end="0.85" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="1" start="0.85" end="1.052" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.052" end="1.21" startframe="0" framelength="0" text="in"/>
+		<timing id="3" start="1.21" end="1.288" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.288" end="2.13" startframe="0" framelength="0" text="yard"/>
+		<timing id="5" start="2.13" end="2.615" startframe="0" framelength="0" text="talking"/>
+		<timing id="6" start="2.615" end="2.799" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="2.799" end="2.986" startframe="0" framelength="0" text="her"/>
+		<timing id="8" start="2.986" end="4.335" startframe="0" framelength="0" text="chickens"/>
+		<timing id="9" start="4.335" end="4.637" startframe="0" framelength="0" text="She"/>
+		<timing id="10" start="4.637" end="5.133" startframe="0" framelength="0" text="loves"/>
+		<timing id="11" start="5.133" end="5.856" startframe="0" framelength="0" text="them"/>
+		<timing id="12" start="5.856" end="6.171" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="6.171" end="6.545" startframe="0" framelength="0" text="tells"/>
+		<timing id="14" start="6.545" end="6.817" startframe="0" framelength="0" text="them"/>
+		<timing id="15" start="6.817" end="7.758333333333334" startframe="0" framelength="0" text="everything"/>
 	</timings>
 </xml>

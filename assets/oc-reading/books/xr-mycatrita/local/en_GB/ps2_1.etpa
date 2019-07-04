@@ -1,23 +1,23 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Come here Rita I call But she just runs away from me Rita does whatever she likes">
-		<timing id="0" start="0.006" end="0.302" startframe="0" framelength="0" text="Come"/>
-		<timing id="1" start="0.302" end="1.161" startframe="0" framelength="0" text="here"/>
-		<timing id="2" start="1.161" end="2.408" startframe="0" framelength="0" text="Rita"/>
-		<timing id="3" start="2.408" end="2.606" startframe="0" framelength="0" text="I"/>
-		<timing id="4" start="2.606" end="3.767" startframe="0" framelength="0" text="call"/>
-		<timing id="5" start="3.767" end="4.118" startframe="0" framelength="0" text="But"/>
-		<timing id="6" start="4.118" end="4.395" startframe="0" framelength="0" text="she"/>
-		<timing id="7" start="4.395" end="4.968" startframe="0" framelength="0" text="just"/>
-		<timing id="8" start="4.968" end="5.407" startframe="0" framelength="0" text="runs"/>
-		<timing id="9" start="5.407" end="5.781" startframe="0" framelength="0" text="away"/>
-		<timing id="10" start="5.781" end="6.072" startframe="0" framelength="0" text="from"/>
-		<timing id="11" start="6.072" end="7.019" startframe="0" framelength="0" text="me"/>
-		<timing id="12" start="7.019" end="7.611" startframe="0" framelength="0" text="Rita"/>
-		<timing id="13" start="7.611" end="8.01" startframe="0" framelength="0" text="does"/>
-		<timing id="14" start="8.01" end="8.692" startframe="0" framelength="0" text="whatever"/>
-		<timing id="15" start="8.692" end="9.021" startframe="0" framelength="0" text="she"/>
-		<timing id="16" start="9.021" end="9.978666666666667" startframe="0" framelength="0" text="likes"/>
+	<timings text="Come here Indu I call But she just runs away from me Indu does whatever she likes">
+		<timing id="0" start="0.006" end="0.27" startframe="0" framelength="0" text="Come"/>
+		<timing id="1" start="0.27" end="1.047" startframe="0" framelength="0" text="here"/>
+		<timing id="2" start="1.047" end="2.0" startframe="0" framelength="0" text="Indu"/>
+		<timing id="3" start="2.0" end="2.173" startframe="0" framelength="0" text="I"/>
+		<timing id="4" start="2.173" end="3.243" startframe="0" framelength="0" text="call"/>
+		<timing id="5" start="3.243" end="3.543" startframe="0" framelength="0" text="But"/>
+		<timing id="6" start="3.543" end="3.784" startframe="0" framelength="0" text="she"/>
+		<timing id="7" start="3.784" end="4.289" startframe="0" framelength="0" text="just"/>
+		<timing id="8" start="4.289" end="4.681" startframe="0" framelength="0" text="runs"/>
+		<timing id="9" start="4.681" end="5.014" startframe="0" framelength="0" text="away"/>
+		<timing id="10" start="5.014" end="5.274" startframe="0" framelength="0" text="from"/>
+		<timing id="11" start="5.274" end="6.156" startframe="0" framelength="0" text="me"/>
+		<timing id="12" start="6.156" end="6.579" startframe="0" framelength="0" text="Indu"/>
+		<timing id="13" start="6.579" end="6.895" startframe="0" framelength="0" text="does"/>
+		<timing id="14" start="6.895" end="7.492" startframe="0" framelength="0" text="whatever"/>
+		<timing id="15" start="7.492" end="7.78" startframe="0" framelength="0" text="she"/>
+		<timing id="16" start="7.78" end="8.6465" startframe="0" framelength="0" text="likes"/>
 	</timings>
 </xml>

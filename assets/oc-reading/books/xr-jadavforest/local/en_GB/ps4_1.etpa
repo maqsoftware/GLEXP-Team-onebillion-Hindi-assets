@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Jadav planted more and more trees With time they became a forest">
-		<timing id="0" start="0.006" end="0.768" startframe="0" framelength="0" text="Jadav"/>
-		<timing id="1" start="0.768" end="1.52" startframe="0" framelength="0" text="planted"/>
-		<timing id="2" start="1.52" end="2.041" startframe="0" framelength="0" text="more"/>
-		<timing id="3" start="2.041" end="2.292" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="2.292" end="2.693" startframe="0" framelength="0" text="more"/>
-		<timing id="5" start="2.693" end="3.874" startframe="0" framelength="0" text="trees"/>
-		<timing id="6" start="3.874" end="4.246" startframe="0" framelength="0" text="With"/>
-		<timing id="7" start="4.246" end="4.777" startframe="0" framelength="0" text="time"/>
-		<timing id="8" start="4.777" end="4.917" startframe="0" framelength="0" text="they"/>
-		<timing id="9" start="4.917" end="5.562" startframe="0" framelength="0" text="became"/>
-		<timing id="10" start="5.562" end="5.642" startframe="0" framelength="0" text="a"/>
-		<timing id="11" start="5.642" end="6.7135" startframe="0" framelength="0" text="forest"/>
+		<timing id="0" start="0.006" end="0.675" startframe="0" framelength="0" text="Jadav"/>
+		<timing id="1" start="0.675" end="1.349" startframe="0" framelength="0" text="planted"/>
+		<timing id="2" start="1.349" end="1.812" startframe="0" framelength="0" text="more"/>
+		<timing id="3" start="1.812" end="2.03" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="2.03" end="2.383" startframe="0" framelength="0" text="more"/>
+		<timing id="5" start="2.383" end="3.459" startframe="0" framelength="0" text="trees"/>
+		<timing id="6" start="3.459" end="3.788" startframe="0" framelength="0" text="With"/>
+		<timing id="7" start="3.788" end="4.254" startframe="0" framelength="0" text="time"/>
+		<timing id="8" start="4.254" end="4.372" startframe="0" framelength="0" text="they"/>
+		<timing id="9" start="4.372" end="4.935" startframe="0" framelength="0" text="became"/>
+		<timing id="10" start="4.935" end="5.006" startframe="0" framelength="0" text="a"/>
+		<timing id="11" start="5.006" end="5.9558333333333335" startframe="0" framelength="0" text="forest"/>
 	</timings>
 </xml>

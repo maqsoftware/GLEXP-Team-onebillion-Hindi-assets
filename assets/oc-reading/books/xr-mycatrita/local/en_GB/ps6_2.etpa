@@ -1,10 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Leave him alone Rita">
-		<timing id="0" start="0.006" end="0.426" startframe="0" framelength="0" text="Leave"/>
-		<timing id="1" start="0.426" end="0.773" startframe="0" framelength="0" text="him"/>
-		<timing id="2" start="0.773" end="1.623" startframe="0" framelength="0" text="alone"/>
-		<timing id="3" start="1.623" end="2.5076666666666667" startframe="0" framelength="0" text="Rita"/>
+	<timings text="Leave him alone Indu">
+		<timing id="0" start="0.006" end="0.378" startframe="0" framelength="0" text="Leave"/>
+		<timing id="1" start="0.378" end="0.627" startframe="0" framelength="0" text="him"/>
+		<timing id="2" start="0.627" end="1.453" startframe="0" framelength="0" text="alone"/>
+		<timing id="3" start="1.453" end="2.0898333333333334" startframe="0" framelength="0" text="Indu"/>
 	</timings>
 </xml>

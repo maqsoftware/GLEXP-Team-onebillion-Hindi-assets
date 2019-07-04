@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I decided to go to the river and find some water">
-		<timing id="0" start="0.006" end="0.266" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.266" end="1.064" startframe="0" framelength="0" text="decided"/>
-		<timing id="2" start="1.064" end="1.265" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="1.265" end="1.554" startframe="0" framelength="0" text="go"/>
-		<timing id="4" start="1.554" end="1.765" startframe="0" framelength="0" text="to"/>
-		<timing id="5" start="1.765" end="1.928" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="1.928" end="2.457" startframe="0" framelength="0" text="river"/>
-		<timing id="7" start="2.457" end="2.724" startframe="0" framelength="0" text="and"/>
-		<timing id="8" start="2.724" end="3.279" startframe="0" framelength="0" text="find"/>
-		<timing id="9" start="3.279" end="3.689" startframe="0" framelength="0" text="some"/>
-		<timing id="10" start="3.689" end="4.545333333333334" startframe="0" framelength="0" text="water"/>
+		<timing id="0" start="0.006" end="0.234" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.234" end="0.933" startframe="0" framelength="0" text="decided"/>
+		<timing id="2" start="0.933" end="1.113" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.113" end="1.372" startframe="0" framelength="0" text="go"/>
+		<timing id="4" start="1.372" end="1.548" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.548" end="1.689" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.689" end="2.148" startframe="0" framelength="0" text="river"/>
+		<timing id="7" start="2.148" end="2.389" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="2.389" end="2.872" startframe="0" framelength="0" text="find"/>
+		<timing id="9" start="2.872" end="3.235" startframe="0" framelength="0" text="some"/>
+		<timing id="10" start="3.235" end="3.9705" startframe="0" framelength="0" text="water"/>
 	</timings>
 </xml>

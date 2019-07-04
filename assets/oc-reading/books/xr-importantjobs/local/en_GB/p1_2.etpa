@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She works hard">
-		<timing id="0" start="0.006" end="0.351" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.351" end="0.93" startframe="0" framelength="0" text="works"/>
-		<timing id="2" start="0.93" end="1.724" startframe="0" framelength="0" text="hard"/>
+		<timing id="0" start="0.006" end="0.308" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.308" end="0.821" startframe="0" framelength="0" text="works"/>
+		<timing id="2" start="0.821" end="1.515" startframe="0" framelength="0" text="hard"/>
 	</timings>
 </xml>

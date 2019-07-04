@@ -1,15 +1,15 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Daisy was sad Maybe the other chickens were right">
-		<timing id="0" start="0.006" end="0.621" startframe="0" framelength="0" text="Daisy"/>
-		<timing id="1" start="0.621" end="0.969" startframe="0" framelength="0" text="was"/>
-		<timing id="2" start="0.969" end="2.113" startframe="0" framelength="0" text="sad"/>
-		<timing id="3" start="2.113" end="2.756" startframe="0" framelength="0" text="Maybe"/>
-		<timing id="4" start="2.756" end="3.039" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="3.039" end="3.371" startframe="0" framelength="0" text="other"/>
-		<timing id="6" start="3.371" end="4.174" startframe="0" framelength="0" text="chickens"/>
-		<timing id="7" start="4.174" end="4.361" startframe="0" framelength="0" text="were"/>
-		<timing id="8" start="4.361" end="5.172166666666667" startframe="0" framelength="0" text="right"/>
+	<timings text="Meghna was sad Maybe the other chickens were right">
+		<timing id="0" start="0.006" end="0.692" startframe="0" framelength="0" text="Meghna"/>
+		<timing id="1" start="0.692" end="0.949" startframe="0" framelength="0" text="was"/>
+		<timing id="2" start="0.949" end="1.987" startframe="0" framelength="0" text="sad"/>
+		<timing id="3" start="1.987" end="2.549" startframe="0" framelength="0" text="Maybe"/>
+		<timing id="4" start="2.549" end="2.805" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.805" end="3.106" startframe="0" framelength="0" text="other"/>
+		<timing id="6" start="3.106" end="3.822" startframe="0" framelength="0" text="chickens"/>
+		<timing id="7" start="3.822" end="3.994" startframe="0" framelength="0" text="were"/>
+		<timing id="8" start="3.994" end="4.702" startframe="0" framelength="0" text="right"/>
 	</timings>
 </xml>

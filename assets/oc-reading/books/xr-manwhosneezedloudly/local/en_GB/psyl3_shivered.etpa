@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="shiv ered">
-		<timing id="0" start="0.006" end="0.805" startframe="0" framelength="0" text="shiv"/>
-		<timing id="1" start="0.805" end="1.5673333333333332" startframe="0" framelength="0" text="ered"/>
+		<timing id="0" start="0.006" end="0.741" startframe="0" framelength="0" text="shiv"/>
+		<timing id="1" start="0.741" end="1.4366666666666668" startframe="0" framelength="0" text="ered"/>
 	</timings>
 </xml>
