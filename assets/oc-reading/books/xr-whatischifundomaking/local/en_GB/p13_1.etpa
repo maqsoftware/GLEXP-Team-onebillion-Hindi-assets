@@ -1,13 +1,13 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo is happy She is so tall">
-		<timing id="0" start="0.006" end="0.8" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.8" end="1.029" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="1.029" end="2.26" startframe="0" framelength="0" text="happy"/>
-		<timing id="3" start="2.26" end="2.634" startframe="0" framelength="0" text="She"/>
-		<timing id="4" start="2.634" end="2.831" startframe="0" framelength="0" text="is"/>
-		<timing id="5" start="2.831" end="3.172" startframe="0" framelength="0" text="so"/>
-		<timing id="6" start="3.172" end="3.8921666666666668" startframe="0" framelength="0" text="tall"/>
+	<timings text="Harita is happy She is so tall">
+		<timing id="0" start="0.006" end="0.633" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.633" end="1.169" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.169" end="2.346" startframe="0" framelength="0" text="happy"/>
+		<timing id="3" start="2.346" end="2.681" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.681" end="2.848" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="2.848" end="3.149" startframe="0" framelength="0" text="so"/>
+		<timing id="6" start="3.149" end="3.7876666666666665" startframe="0" framelength="0" text="tall"/>
 	</timings>
 </xml>

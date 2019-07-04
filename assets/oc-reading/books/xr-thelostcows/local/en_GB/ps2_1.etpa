@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Bill and his dog set off with the cows to find grass">
-		<timing id="0" start="0.006" end="0.36" startframe="0" framelength="0" text="Bill"/>
-		<timing id="1" start="0.36" end="0.571" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.571" end="0.832" startframe="0" framelength="0" text="his"/>
-		<timing id="3" start="0.832" end="1.262" startframe="0" framelength="0" text="dog"/>
-		<timing id="4" start="1.262" end="1.721" startframe="0" framelength="0" text="set"/>
-		<timing id="5" start="1.721" end="2.09" startframe="0" framelength="0" text="off"/>
-		<timing id="6" start="2.09" end="2.236" startframe="0" framelength="0" text="with"/>
-		<timing id="7" start="2.236" end="2.36" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="2.36" end="3.498" startframe="0" framelength="0" text="cows"/>
-		<timing id="9" start="3.498" end="3.663" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="3.663" end="4.227" startframe="0" framelength="0" text="find"/>
-		<timing id="11" start="4.227" end="5.198333333333333" startframe="0" framelength="0" text="grass"/>
+	<timings text="Rahul <break time="500ms"/> and <break time="500ms"/> his <break time="500ms"/> dog <break time="500ms"/> set <break time="500ms"/> off <break time="500ms"/> with <break time="500ms"/> the <break time="500ms"/> cows <break time="500ms"/> to <break time="500ms"/> find <break time="500ms"/> grass <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.871" startframe="0" framelength="0" text="Rahul"/>
+		<timing id="1" start="0.871" end="1.462" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.462" end="2.089" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="2.089" end="2.689" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.689" end="3.408" startframe="0" framelength="0" text="his"/>
+		<timing id="5" start="3.408" end="4.008" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.008" end="4.72" startframe="0" framelength="0" text="dog"/>
+		<timing id="7" start="4.72" end="5.313" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.313" end="6.026" startframe="0" framelength="0" text="set"/>
+		<timing id="9" start="6.026" end="6.627" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.627" end="7.512" startframe="0" framelength="0" text="off"/>
+		<timing id="11" start="7.512" end="8.105" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.105" end="8.804" startframe="0" framelength="0" text="with"/>
+		<timing id="13" start="8.804" end="9.404" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.404" end="10.108" startframe="0" framelength="0" text="the"/>
+		<timing id="15" start="10.108" end="10.708" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.708" end="11.517" startframe="0" framelength="0" text="cows"/>
+		<timing id="17" start="11.517" end="12.114" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.114" end="12.636" startframe="0" framelength="0" text="to"/>
+		<timing id="19" start="12.636" end="13.229" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.229" end="14.09" startframe="0" framelength="0" text="find"/>
+		<timing id="21" start="14.09" end="14.683" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="14.683" end="15.709" startframe="0" framelength="0" text="grass"/>
+		<timing id="23" start="15.709" end="16.274166666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -1,12 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Can it keep the wind away">
-		<timing id="0" start="0.006" end="0.374" startframe="0" framelength="0" text="Can"/>
-		<timing id="1" start="0.374" end="0.609" startframe="0" framelength="0" text="it"/>
-		<timing id="2" start="0.609" end="0.966" startframe="0" framelength="0" text="keep"/>
-		<timing id="3" start="0.966" end="1.112" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.112" end="1.56" startframe="0" framelength="0" text="wind"/>
-		<timing id="5" start="1.56" end="2.3771666666666667" startframe="0" framelength="0" text="away"/>
+	<timings text="Can <break time="500ms"/> it <break time="500ms"/> keep <break time="500ms"/> the <break time="500ms"/> wind <break time="500ms"/> away <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.781" startframe="0" framelength="0" text="Can"/>
+		<timing id="1" start="0.781" end="1.381" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.381" end="1.963" startframe="0" framelength="0" text="it"/>
+		<timing id="3" start="1.963" end="2.563" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.563" end="3.196" startframe="0" framelength="0" text="keep"/>
+		<timing id="5" start="3.196" end="3.796" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.796" end="4.5" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.5" end="5.1" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.1" end="5.925" startframe="0" framelength="0" text="wind"/>
+		<timing id="9" start="5.925" end="6.525" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.525" end="7.07" startframe="0" framelength="0" text="away"/>
+		<timing id="11" start="7.07" end="7.627666666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

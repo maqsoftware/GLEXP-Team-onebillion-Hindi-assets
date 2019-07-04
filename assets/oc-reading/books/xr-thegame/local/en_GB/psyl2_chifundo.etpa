@@ -1,9 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chi fu ndo">
-		<timing id="0" start="0.006" end="0.887" startframe="0" framelength="0" text="Chi"/>
-		<timing id="1" start="0.887" end="1.929" startframe="0" framelength="0" text="fu"/>
-		<timing id="2" start="1.929" end="2.6121666666666665" startframe="0" framelength="0" text="ndo"/>
+	<timings text="Dee <break time="500ms"/> ksha <break time="500ms"/> <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.781" startframe="0" framelength="0" text="Dee"/>
+		<timing id="1" start="0.781" end="1.381" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.381" end="2.182" startframe="0" framelength="0" text="ksha"/>
+		<timing id="3" start="2.182" end="2.682" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.682" end="3.2391666666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

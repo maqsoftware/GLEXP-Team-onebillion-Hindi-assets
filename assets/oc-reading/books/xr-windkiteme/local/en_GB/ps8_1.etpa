@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The wind stops and everything drops down Where will my kite land">
-		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.203" end="0.674" startframe="0" framelength="0" text="wind"/>
-		<timing id="2" start="0.674" end="1.392" startframe="0" framelength="0" text="stops"/>
-		<timing id="3" start="1.392" end="1.76" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="1.76" end="2.507" startframe="0" framelength="0" text="everything"/>
-		<timing id="5" start="2.507" end="3.126" startframe="0" framelength="0" text="drops"/>
-		<timing id="6" start="3.126" end="4.22" startframe="0" framelength="0" text="down"/>
-		<timing id="7" start="4.22" end="4.744" startframe="0" framelength="0" text="Where"/>
-		<timing id="8" start="4.744" end="4.942" startframe="0" framelength="0" text="will"/>
-		<timing id="9" start="4.942" end="5.194" startframe="0" framelength="0" text="my"/>
-		<timing id="10" start="5.194" end="5.703" startframe="0" framelength="0" text="kite"/>
-		<timing id="11" start="5.703" end="6.4783333333333335" startframe="0" framelength="0" text="land"/>
+	<timings text="The <break time="500ms"/> wind <break time="500ms"/> stops <break time="500ms"/> and <break time="500ms"/> everything <break time="500ms"/> drops <break time="500ms"/> down <break time="500ms"/> Where <break time="500ms"/> will <break time="500ms"/> my <break time="500ms"/> kite <break time="500ms"/> land <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.308" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.308" end="2.611" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="2.611" end="3.211" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.211" end="4.315" startframe="0" framelength="0" text="stops"/>
+		<timing id="5" start="4.315" end="4.905" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.905" end="5.605" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="5.605" end="6.198" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.198" end="7.446" startframe="0" framelength="0" text="everything"/>
+		<timing id="9" start="7.446" end="8.039" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="8.039" end="9.146" startframe="0" framelength="0" text="drops"/>
+		<timing id="11" start="9.146" end="9.739" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="9.739" end="10.752" startframe="0" framelength="0" text="down"/>
+		<timing id="13" start="10.752" end="11.347" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="11.347" end="12.273" startframe="0" framelength="0" text="Where"/>
+		<timing id="15" start="12.273" end="12.873" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="12.873" end="13.676" startframe="0" framelength="0" text="will"/>
+		<timing id="17" start="13.676" end="14.27" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="14.27" end="15.01" startframe="0" framelength="0" text="my"/>
+		<timing id="19" start="15.01" end="15.61" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="15.61" end="16.477" startframe="0" framelength="0" text="kite"/>
+		<timing id="21" start="16.477" end="17.077" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="17.077" end="17.978" startframe="0" framelength="0" text="land"/>
+		<timing id="23" start="17.978" end="18.546833333333332" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

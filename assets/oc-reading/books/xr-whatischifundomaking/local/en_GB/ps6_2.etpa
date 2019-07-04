@@ -1,17 +1,28 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Can I have a hammer and a big nail she asks">
-		<timing id="0" start="0.006" end="0.294" startframe="0" framelength="0" text="Can"/>
-		<timing id="1" start="0.294" end="0.479" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.479" end="0.848" startframe="0" framelength="0" text="have"/>
-		<timing id="3" start="0.848" end="0.907" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="0.907" end="1.594" startframe="0" framelength="0" text="hammer"/>
-		<timing id="5" start="1.594" end="1.854" startframe="0" framelength="0" text="and"/>
-		<timing id="6" start="1.854" end="1.892" startframe="0" framelength="0" text="a"/>
-		<timing id="7" start="1.892" end="2.284" startframe="0" framelength="0" text="big"/>
-		<timing id="8" start="2.284" end="3.253" startframe="0" framelength="0" text="nail"/>
-		<timing id="9" start="3.253" end="3.74" startframe="0" framelength="0" text="she"/>
-		<timing id="10" start="3.74" end="4.884833333333333" startframe="0" framelength="0" text="asks"/>
+	<timings text="Can <break time="500ms"/> I <break time="500ms"/> have <break time="500ms"/> a <break time="500ms"/> hammer <break time="500ms"/> and <break time="500ms"/> a <break time="500ms"/> big <break time="500ms"/> nail <break time="500ms"/> she <break time="500ms"/> asks <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.781" startframe="0" framelength="0" text="Can"/>
+		<timing id="1" start="0.781" end="1.378" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.378" end="1.946" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.946" end="2.546" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.546" end="3.272" startframe="0" framelength="0" text="have"/>
+		<timing id="5" start="3.272" end="3.872" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.872" end="4.474" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="4.474" end="5.074" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.074" end="5.929" startframe="0" framelength="0" text="hammer"/>
+		<timing id="9" start="5.929" end="6.519" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.519" end="7.146" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="7.146" end="7.741" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.741" end="8.333" startframe="0" framelength="0" text="a"/>
+		<timing id="13" start="8.333" end="8.927" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="8.927" end="9.542" startframe="0" framelength="0" text="big"/>
+		<timing id="15" start="9.542" end="10.142" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.142" end="10.689" startframe="0" framelength="0" text="nail"/>
+		<timing id="17" start="10.689" end="11.576" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="11.576" end="12.336" startframe="0" framelength="0" text="she"/>
+		<timing id="19" start="12.336" end="12.936" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="12.936" end="13.962" startframe="0" framelength="0" text="asks"/>
+		<timing id="21" start="13.962" end="14.524" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The lost cows">
-		<timing id="0" start="0.006" end="0.174" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.174" end="0.826" startframe="0" framelength="0" text="lost"/>
-		<timing id="2" start="0.826" end="1.698" startframe="0" framelength="0" text="cows"/>
+		<timing id="0" start="0.006" end="0.154" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.154" end="0.732" startframe="0" framelength="0" text="lost"/>
+		<timing id="2" start="0.732" end="1.515" startframe="0" framelength="0" text="cows"/>
 	</timings>
 </xml>

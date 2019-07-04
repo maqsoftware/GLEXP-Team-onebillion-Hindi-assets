@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The children are playing a game">
-		<timing id="0" start="0.006" end="0.259" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.259" end="0.896" startframe="0" framelength="0" text="children"/>
-		<timing id="2" start="0.896" end="1.07" startframe="0" framelength="0" text="are"/>
-		<timing id="3" start="1.07" end="1.48" startframe="0" framelength="0" text="playing"/>
-		<timing id="4" start="1.48" end="1.543" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="1.543" end="2.351" startframe="0" framelength="0" text="game"/>
+		<timing id="0" start="0.006" end="0.224" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.224" end="0.789" startframe="0" framelength="0" text="children"/>
+		<timing id="2" start="0.789" end="0.938" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="0.938" end="1.29" startframe="0" framelength="0" text="playing"/>
+		<timing id="4" start="1.29" end="1.346" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.346" end="2.0636666666666668" startframe="0" framelength="0" text="game"/>
 	</timings>
 </xml>

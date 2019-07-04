@@ -1,16 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="First we go to the clinic We are nearly there">
-		<timing id="0" start="0.006" end="0.659" startframe="0" framelength="0" text="First"/>
-		<timing id="1" start="0.659" end="0.822" startframe="0" framelength="0" text="we"/>
-		<timing id="2" start="0.822" end="1.097" startframe="0" framelength="0" text="go"/>
-		<timing id="3" start="1.097" end="1.306" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.306" end="1.444" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.444" end="2.707" startframe="0" framelength="0" text="clinic"/>
-		<timing id="6" start="2.707" end="3.198" startframe="0" framelength="0" text="We"/>
-		<timing id="7" start="3.198" end="3.413" startframe="0" framelength="0" text="are"/>
-		<timing id="8" start="3.413" end="4.087" startframe="0" framelength="0" text="nearly"/>
-		<timing id="9" start="4.087" end="4.884833333333333" startframe="0" framelength="0" text="there"/>
+	<timings text="First <break time="500ms"/> we <break time="500ms"/> go <break time="500ms"/> to <break time="500ms"/> the <break time="500ms"/> clinic <break time="500ms"/> We <break time="500ms"/> are <break time="500ms"/> nearly <break time="500ms"/> there <break time="500ms"/>">
+		<timing id="0" start="0.006" end="1.042" startframe="0" framelength="0" text="First"/>
+		<timing id="1" start="1.042" end="1.645" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.645" end="2.14" startframe="0" framelength="0" text="we"/>
+		<timing id="3" start="2.14" end="2.74" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.74" end="3.53" startframe="0" framelength="0" text="go"/>
+		<timing id="5" start="3.53" end="4.13" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.13" end="4.765" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="4.765" end="5.365" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.365" end="5.998" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="5.998" end="6.591" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.591" end="7.339" startframe="0" framelength="0" text="clinic"/>
+		<timing id="11" start="7.339" end="8.226" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.226" end="8.72" startframe="0" framelength="0" text="We"/>
+		<timing id="13" start="8.72" end="9.32" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.32" end="10.041" startframe="0" framelength="0" text="are"/>
+		<timing id="15" start="10.041" end="10.641" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.641" end="11.433" startframe="0" framelength="0" text="nearly"/>
+		<timing id="17" start="11.433" end="12.026" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.026" end="12.696" startframe="0" framelength="0" text="there"/>
+		<timing id="19" start="12.696" end="13.270166666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

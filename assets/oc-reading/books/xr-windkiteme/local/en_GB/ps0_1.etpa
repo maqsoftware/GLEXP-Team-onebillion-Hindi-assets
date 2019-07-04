@@ -1,12 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The wind the kite and me">
-		<timing id="0" start="0.006" end="0.226" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.226" end="1.159" startframe="0" framelength="0" text="wind"/>
-		<timing id="2" start="1.159" end="1.345" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="1.345" end="1.939" startframe="0" framelength="0" text="kite"/>
-		<timing id="4" start="1.939" end="2.189" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="2.189" end="2.795" startframe="0" framelength="0" text="me"/>
+	<timings text="The <break time="500ms"/> wind <break time="500ms"/> the <break time="500ms"/> kite <break time="500ms"/> and <break time="500ms"/> me <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.31" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.31" end="2.236" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="2.236" end="2.836" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.836" end="3.624" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="3.624" end="4.224" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.224" end="5.073" startframe="0" framelength="0" text="kite"/>
+		<timing id="7" start="5.073" end="5.673" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.673" end="6.412" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="6.412" end="7.013" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.013" end="7.77" startframe="0" framelength="0" text="me"/>
+		<timing id="11" start="7.77" end="8.333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="But now they cannot find the cows">
-		<timing id="0" start="0.006" end="0.428" startframe="0" framelength="0" text="But"/>
-		<timing id="1" start="0.428" end="0.858" startframe="0" framelength="0" text="now"/>
-		<timing id="2" start="0.858" end="1.041" startframe="0" framelength="0" text="they"/>
-		<timing id="3" start="1.041" end="1.609" startframe="0" framelength="0" text="cannot"/>
-		<timing id="4" start="1.609" end="2.066" startframe="0" framelength="0" text="find"/>
-		<timing id="5" start="2.066" end="2.18" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.18" end="3.1346666666666665" startframe="0" framelength="0" text="cows"/>
+		<timing id="0" start="0.006" end="0.384" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.384" end="0.765" startframe="0" framelength="0" text="now"/>
+		<timing id="2" start="0.765" end="0.929" startframe="0" framelength="0" text="they"/>
+		<timing id="3" start="0.929" end="1.417" startframe="0" framelength="0" text="cannot"/>
+		<timing id="4" start="1.417" end="1.814" startframe="0" framelength="0" text="find"/>
+		<timing id="5" start="1.814" end="1.915" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.915" end="2.769" startframe="0" framelength="0" text="cows"/>
 	</timings>
 </xml>

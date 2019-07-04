@@ -1,10 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then I get dressed">
-		<timing id="0" start="0.006" end="0.329" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.329" end="0.529" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.529" end="0.842" startframe="0" framelength="0" text="get"/>
-		<timing id="3" start="0.842" end="1.9853333333333334" startframe="0" framelength="0" text="dressed"/>
+	<timings text="Then <break time="500ms"/> I <break time="500ms"/> get <break time="500ms"/> dressed <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.69" end="1.287" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.287" end="1.921" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.921" end="2.521" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.521" end="3.378" startframe="0" framelength="0" text="get"/>
+		<timing id="5" start="3.378" end="3.978" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.978" end="5.092" startframe="0" framelength="0" text="dressed"/>
+		<timing id="7" start="5.092" end="5.6685" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

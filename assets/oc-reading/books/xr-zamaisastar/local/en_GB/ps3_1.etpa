@@ -1,11 +1,16 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Next I make my bed">
-		<timing id="0" start="0.006" end="1.1" startframe="0" framelength="0" text="Next"/>
-		<timing id="1" start="1.1" end="1.321" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="1.321" end="1.766" startframe="0" framelength="0" text="make"/>
-		<timing id="3" start="1.766" end="2.003" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="2.003" end="2.638333333333333" startframe="0" framelength="0" text="bed"/>
+	<timings text="Next <break time="500ms"/> I <break time="500ms"/> make <break time="500ms"/> my <break time="500ms"/> bed <break time="500ms"/>">
+		<timing id="0" start="0.006" end="1.007" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="1.007" end="1.604" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.604" end="2.237" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="2.237" end="2.831" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.831" end="3.791" startframe="0" framelength="0" text="make"/>
+		<timing id="5" start="3.791" end="4.392" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.392" end="5.174" startframe="0" framelength="0" text="my"/>
+		<timing id="7" start="5.174" end="5.767" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.767" end="6.575" startframe="0" framelength="0" text="bed"/>
+		<timing id="9" start="6.575" end="7.131333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="But the wind gets stronger It pulls my kite from my hands">
-		<timing id="0" start="0.006" end="0.414" startframe="0" framelength="0" text="But"/>
-		<timing id="1" start="0.414" end="0.572" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.572" end="1.069" startframe="0" framelength="0" text="wind"/>
-		<timing id="3" start="1.069" end="1.494" startframe="0" framelength="0" text="gets"/>
-		<timing id="4" start="1.494" end="2.897" startframe="0" framelength="0" text="stronger"/>
-		<timing id="5" start="2.897" end="3.097" startframe="0" framelength="0" text="It"/>
-		<timing id="6" start="3.097" end="3.6" startframe="0" framelength="0" text="pulls"/>
-		<timing id="7" start="3.6" end="3.824" startframe="0" framelength="0" text="my"/>
-		<timing id="8" start="3.824" end="4.419" startframe="0" framelength="0" text="kite"/>
-		<timing id="9" start="4.419" end="4.759" startframe="0" framelength="0" text="from"/>
-		<timing id="10" start="4.759" end="5.035" startframe="0" framelength="0" text="my"/>
-		<timing id="11" start="5.035" end="5.929833333333334" startframe="0" framelength="0" text="hands"/>
+		<timing id="0" start="0.006" end="0.368" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.368" end="0.514" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.514" end="1.004" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="1.004" end="1.463" startframe="0" framelength="0" text="gets"/>
+		<timing id="4" start="1.463" end="2.23" startframe="0" framelength="0" text="stronger"/>
+		<timing id="5" start="2.23" end="2.449" startframe="0" framelength="0" text="It"/>
+		<timing id="6" start="2.449" end="2.932" startframe="0" framelength="0" text="pulls"/>
+		<timing id="7" start="2.932" end="3.168" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="3.168" end="3.759" startframe="0" framelength="0" text="kite"/>
+		<timing id="9" start="3.759" end="4.098" startframe="0" framelength="0" text="from"/>
+		<timing id="10" start="4.098" end="4.374" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.374" end="5.276666666666666" startframe="0" framelength="0" text="hands"/>
 	</timings>
 </xml>

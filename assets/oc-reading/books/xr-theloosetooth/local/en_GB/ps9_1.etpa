@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="What did you wish for asks Dalitso It’s a secret says Chisomo">
-		<timing id="0" start="0.006" end="0.45" startframe="0" framelength="0" text="What"/>
-		<timing id="1" start="0.45" end="0.704" startframe="0" framelength="0" text="did"/>
-		<timing id="2" start="0.704" end="0.908" startframe="0" framelength="0" text="you"/>
-		<timing id="3" start="0.908" end="1.298" startframe="0" framelength="0" text="wish"/>
-		<timing id="4" start="1.298" end="2.222" startframe="0" framelength="0" text="for"/>
-		<timing id="5" start="2.222" end="2.963" startframe="0" framelength="0" text="asks"/>
-		<timing id="6" start="2.963" end="4.279" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="7" start="4.279" end="4.619" startframe="0" framelength="0" text="It’s"/>
-		<timing id="8" start="4.619" end="4.709" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="4.709" end="5.915" startframe="0" framelength="0" text="secret"/>
-		<timing id="10" start="5.915" end="6.615" startframe="0" framelength="0" text="says"/>
-		<timing id="11" start="6.615" end="7.5755" startframe="0" framelength="0" text="Chisomo"/>
+	<timings text="What <break time="500ms"/> did <break time="500ms"/> you <break time="500ms"/> wish <break time="500ms"/> for <break time="500ms"/> asks <break time="500ms"/> Aditya <break time="500ms"/> It’s <break time="500ms"/> a <break time="500ms"/> secret <break time="500ms"/> says <break time="500ms"/> Harita <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.879" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.879" end="1.473" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.473" end="2.098" startframe="0" framelength="0" text="did"/>
+		<timing id="3" start="2.098" end="2.698" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.698" end="3.48" startframe="0" framelength="0" text="you"/>
+		<timing id="5" start="3.48" end="4.074" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.074" end="4.932" startframe="0" framelength="0" text="wish"/>
+		<timing id="7" start="4.932" end="5.525" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.525" end="6.053" startframe="0" framelength="0" text="for"/>
+		<timing id="9" start="6.053" end="6.94" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.94" end="7.865" startframe="0" framelength="0" text="asks"/>
+		<timing id="11" start="7.865" end="8.458" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.458" end="9.272" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="13" start="9.272" end="10.159" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.159" end="10.813" startframe="0" framelength="0" text="It’s"/>
+		<timing id="15" start="10.813" end="11.413" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.413" end="12.014" startframe="0" framelength="0" text="a"/>
+		<timing id="17" start="12.014" end="12.614" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.614" end="13.615" startframe="0" framelength="0" text="secret"/>
+		<timing id="19" start="13.615" end="14.208" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.208" end="15.093" startframe="0" framelength="0" text="says"/>
+		<timing id="21" start="15.093" end="15.694" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.694" end="16.486" startframe="0" framelength="0" text="Harita"/>
+		<timing id="23" start="16.486" end="17.058" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

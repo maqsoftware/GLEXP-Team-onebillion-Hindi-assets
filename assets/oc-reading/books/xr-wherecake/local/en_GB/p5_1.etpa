@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mina looks up the tree">
-		<timing id="0" start="0.006" end="0.481" startframe="0" framelength="0" text="Mina"/>
-		<timing id="1" start="0.481" end="0.967" startframe="0" framelength="0" text="looks"/>
-		<timing id="2" start="0.967" end="1.118" startframe="0" framelength="0" text="up"/>
-		<timing id="3" start="1.118" end="1.286" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.286" end="2.0636666666666668" startframe="0" framelength="0" text="tree"/>
+	<timings text="Mira looks up the tree">
+		<timing id="0" start="0.006" end="0.516" startframe="0" framelength="0" text="Mira"/>
+		<timing id="1" start="0.516" end="0.999" startframe="0" framelength="0" text="looks"/>
+		<timing id="2" start="0.999" end="1.164" startframe="0" framelength="0" text="up"/>
+		<timing id="3" start="1.164" end="1.332" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.332" end="2.0898333333333334" startframe="0" framelength="0" text="tree"/>
 	</timings>
 </xml>

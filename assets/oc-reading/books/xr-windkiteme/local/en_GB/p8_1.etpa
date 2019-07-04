@@ -4,15 +4,15 @@
 	<timings text="The wind stops and everything drops down Where will my kite land">
 		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
 		<timing id="1" start="0.203" end="0.674" startframe="0" framelength="0" text="wind"/>
-		<timing id="2" start="0.674" end="1.392" startframe="0" framelength="0" text="stops"/>
-		<timing id="3" start="1.392" end="1.76" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="1.76" end="2.507" startframe="0" framelength="0" text="everything"/>
-		<timing id="5" start="2.507" end="3.126" startframe="0" framelength="0" text="drops"/>
-		<timing id="6" start="3.126" end="4.22" startframe="0" framelength="0" text="down"/>
-		<timing id="7" start="4.22" end="4.744" startframe="0" framelength="0" text="Where"/>
-		<timing id="8" start="4.744" end="4.942" startframe="0" framelength="0" text="will"/>
-		<timing id="9" start="4.942" end="5.194" startframe="0" framelength="0" text="my"/>
-		<timing id="10" start="5.194" end="5.703" startframe="0" framelength="0" text="kite"/>
-		<timing id="11" start="5.703" end="6.4783333333333335" startframe="0" framelength="0" text="land"/>
+		<timing id="2" start="0.674" end="1.373" startframe="0" framelength="0" text="stops"/>
+		<timing id="3" start="1.373" end="1.656" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="1.656" end="2.403" startframe="0" framelength="0" text="everything"/>
+		<timing id="5" start="2.403" end="3.012" startframe="0" framelength="0" text="drops"/>
+		<timing id="6" start="3.012" end="3.372" startframe="0" framelength="0" text="down"/>
+		<timing id="7" start="3.372" end="3.786" startframe="0" framelength="0" text="Where"/>
+		<timing id="8" start="3.786" end="4.038" startframe="0" framelength="0" text="will"/>
+		<timing id="9" start="4.038" end="4.362" startframe="0" framelength="0" text="my"/>
+		<timing id="10" start="4.362" end="4.867" startframe="0" framelength="0" text="kite"/>
+		<timing id="11" start="4.867" end="5.642333333333333" startframe="0" framelength="0" text="land"/>
 	</timings>
 </xml>

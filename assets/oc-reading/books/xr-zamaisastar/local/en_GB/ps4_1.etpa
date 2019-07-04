@@ -1,15 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then I wash myself I don’t need any help">
-		<timing id="0" start="0.006" end="0.399" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.399" end="0.644" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.644" end="1.142" startframe="0" framelength="0" text="wash"/>
-		<timing id="3" start="1.142" end="2.648" startframe="0" framelength="0" text="myself"/>
-		<timing id="4" start="2.648" end="2.894" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="2.894" end="3.462" startframe="0" framelength="0" text="don’t"/>
-		<timing id="6" start="3.462" end="3.873" startframe="0" framelength="0" text="need"/>
-		<timing id="7" start="3.873" end="4.208" startframe="0" framelength="0" text="any"/>
-		<timing id="8" start="4.208" end="5.093833333333333" startframe="0" framelength="0" text="help"/>
+	<timings text="Then <break time="500ms"/> I <break time="500ms"/> wash <break time="500ms"/> myself <break time="500ms"/> I <break time="500ms"/> don’t <break time="500ms"/> need <break time="500ms"/> any <break time="500ms"/> help <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.69" end="1.287" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.287" end="1.921" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.921" end="2.515" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.515" end="3.619" startframe="0" framelength="0" text="wash"/>
+		<timing id="5" start="3.619" end="4.212" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.212" end="5.517" startframe="0" framelength="0" text="myself"/>
+		<timing id="7" start="5.517" end="6.114" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.114" end="6.747" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="6.747" end="7.347" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.347" end="8.303" startframe="0" framelength="0" text="don’t"/>
+		<timing id="11" start="8.303" end="8.896" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.896" end="9.645" startframe="0" framelength="0" text="need"/>
+		<timing id="13" start="9.645" end="10.246" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.246" end="10.949" startframe="0" framelength="0" text="any"/>
+		<timing id="15" start="10.949" end="11.543" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.543" end="12.508" startframe="0" framelength="0" text="help"/>
+		<timing id="17" start="12.508" end="13.061166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

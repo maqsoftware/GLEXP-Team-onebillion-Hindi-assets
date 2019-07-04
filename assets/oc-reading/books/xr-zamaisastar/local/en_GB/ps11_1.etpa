@@ -1,15 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="In class I do my very best at everything">
-		<timing id="0" start="0.006" end="0.22" startframe="0" framelength="0" text="In"/>
-		<timing id="1" start="0.22" end="0.86" startframe="0" framelength="0" text="class"/>
-		<timing id="2" start="0.86" end="1.026" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="1.026" end="1.31" startframe="0" framelength="0" text="do"/>
-		<timing id="4" start="1.31" end="1.59" startframe="0" framelength="0" text="my"/>
-		<timing id="5" start="1.59" end="2.044" startframe="0" framelength="0" text="very"/>
-		<timing id="6" start="2.044" end="2.622" startframe="0" framelength="0" text="best"/>
-		<timing id="7" start="2.622" end="2.878" startframe="0" framelength="0" text="at"/>
-		<timing id="8" start="2.878" end="3.9183333333333334" startframe="0" framelength="0" text="everything"/>
+	<timings text="In <break time="500ms"/> class <break time="500ms"/> I <break time="500ms"/> do <break time="500ms"/> my <break time="500ms"/> very <break time="500ms"/> best <break time="500ms"/> at <break time="500ms"/> everything <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.566" startframe="0" framelength="0" text="In"/>
+		<timing id="1" start="0.566" end="1.159" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.159" end="2.127" startframe="0" framelength="0" text="class"/>
+		<timing id="3" start="2.127" end="2.724" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.724" end="3.358" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="3.358" end="3.958" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.958" end="4.84" startframe="0" framelength="0" text="do"/>
+		<timing id="7" start="4.84" end="5.433" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.433" end="6.187" startframe="0" framelength="0" text="my"/>
+		<timing id="9" start="6.187" end="6.787" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.787" end="7.692" startframe="0" framelength="0" text="very"/>
+		<timing id="11" start="7.692" end="8.285" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.285" end="9.222" startframe="0" framelength="0" text="best"/>
+		<timing id="13" start="9.222" end="9.822" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.822" end="10.371" startframe="0" framelength="0" text="at"/>
+		<timing id="15" start="10.371" end="10.964" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.964" end="12.196" startframe="0" framelength="0" text="everything"/>
+		<timing id="17" start="12.196" end="12.773833333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>
