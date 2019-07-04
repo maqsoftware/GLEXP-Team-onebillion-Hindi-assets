@@ -10,9 +10,9 @@
 		<timing id="5" start="1.436" end="2.203" startframe="0" framelength="0" text="out"/>
 		<timing id="6" start="2.203" end="2.722" startframe="0" framelength="0" text="says"/>
 		<timing id="7" start="2.722" end="3.891" startframe="0" framelength="0" text="grandma"/>
-		<timing id="8" start="3.891" end="4.303" startframe="0" framelength="0" text="Okay"/>
-		<timing id="9" start="4.303" end="5.295" startframe="0" framelength="0" text="grandma"/>
-		<timing id="10" start="5.295" end="5.912" startframe="0" framelength="0" text="says"/>
-		<timing id="11" start="5.912" end="6.765666666666666" startframe="0" framelength="0" text="Harita"/>
+		<timing id="8" start="3.891" end="4.309" startframe="0" framelength="0" text="Okay"/>
+		<timing id="9" start="4.309" end="5.294" startframe="0" framelength="0" text="grandma"/>
+		<timing id="10" start="5.294" end="5.873" startframe="0" framelength="0" text="says"/>
+		<timing id="11" start="5.873" end="6.6611666666666665" startframe="0" framelength="0" text="Harita"/>
 	</timings>
 </xml>
