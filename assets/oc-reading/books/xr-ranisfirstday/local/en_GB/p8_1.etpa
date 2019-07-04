@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Rani felt much better and she was ready to go to school">
-		<timing id="0" start="0.006" end="0.64" startframe="0" framelength="0" text="Rani"/>
-		<timing id="1" start="0.64" end="1.232" startframe="0" framelength="0" text="felt"/>
-		<timing id="2" start="1.232" end="1.605" startframe="0" framelength="0" text="much"/>
-		<timing id="3" start="1.605" end="2.074" startframe="0" framelength="0" text="better"/>
-		<timing id="4" start="2.074" end="2.341" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="2.341" end="2.656" startframe="0" framelength="0" text="she"/>
-		<timing id="6" start="2.656" end="3.078" startframe="0" framelength="0" text="was"/>
-		<timing id="7" start="3.078" end="3.525" startframe="0" framelength="0" text="ready"/>
-		<timing id="8" start="3.525" end="3.744" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="3.744" end="4.029" startframe="0" framelength="0" text="go"/>
-		<timing id="10" start="4.029" end="4.229" startframe="0" framelength="0" text="to"/>
-		<timing id="11" start="4.229" end="5.093833333333333" startframe="0" framelength="0" text="school"/>
+		<timing id="0" start="0.006" end="0.573" startframe="0" framelength="0" text="Rani"/>
+		<timing id="1" start="0.573" end="1.097" startframe="0" framelength="0" text="felt"/>
+		<timing id="2" start="1.097" end="1.434" startframe="0" framelength="0" text="much"/>
+		<timing id="3" start="1.434" end="1.841" startframe="0" framelength="0" text="better"/>
+		<timing id="4" start="1.841" end="2.082" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="2.082" end="2.364" startframe="0" framelength="0" text="she"/>
+		<timing id="6" start="2.364" end="2.732" startframe="0" framelength="0" text="was"/>
+		<timing id="7" start="2.732" end="3.127" startframe="0" framelength="0" text="ready"/>
+		<timing id="8" start="3.127" end="3.317" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="3.317" end="3.571" startframe="0" framelength="0" text="go"/>
+		<timing id="10" start="3.571" end="3.745" startframe="0" framelength="0" text="to"/>
+		<timing id="11" start="3.745" end="4.519166666666667" startframe="0" framelength="0" text="school"/>
 	</timings>
 </xml>

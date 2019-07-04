@@ -1,13 +1,13 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="In a plane Rala can go anywhere">
-		<timing id="0" start="0.006" end="0.235" startframe="0" framelength="0" text="In"/>
-		<timing id="1" start="0.235" end="0.307" startframe="0" framelength="0" text="a"/>
-		<timing id="2" start="0.307" end="1.275" startframe="0" framelength="0" text="plane"/>
-		<timing id="3" start="1.275" end="1.78" startframe="0" framelength="0" text="Rala"/>
-		<timing id="4" start="1.78" end="2.089" startframe="0" framelength="0" text="can"/>
-		<timing id="5" start="2.089" end="2.354" startframe="0" framelength="0" text="go"/>
-		<timing id="6" start="2.354" end="3.448166666666667" startframe="0" framelength="0" text="anywhere"/>
+	<timings text="In a plane Sita can go anywhere">
+		<timing id="0" start="0.006" end="0.21" startframe="0" framelength="0" text="In"/>
+		<timing id="1" start="0.21" end="0.275" startframe="0" framelength="0" text="a"/>
+		<timing id="2" start="0.275" end="1.146" startframe="0" framelength="0" text="plane"/>
+		<timing id="3" start="1.146" end="1.733" startframe="0" framelength="0" text="Sita"/>
+		<timing id="4" start="1.733" end="2.074" startframe="0" framelength="0" text="can"/>
+		<timing id="5" start="2.074" end="2.262" startframe="0" framelength="0" text="go"/>
+		<timing id="6" start="2.262" end="3.213" startframe="0" framelength="0" text="anywhere"/>
 	</timings>
 </xml>

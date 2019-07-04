@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Ku ku gwa">
-		<timing id="0" start="0.006" end="0.857" startframe="0" framelength="0" text="Ku"/>
-		<timing id="1" start="0.857" end="1.68" startframe="0" framelength="0" text="ku"/>
-		<timing id="2" start="1.68" end="2.3771666666666667" startframe="0" framelength="0" text="gwa"/>
+		<timing id="0" start="0.006" end="0.772" startframe="0" framelength="0" text="Ku"/>
+		<timing id="1" start="0.772" end="1.51" startframe="0" framelength="0" text="ku"/>
+		<timing id="2" start="1.51" end="2.1158333333333332" startframe="0" framelength="0" text="gwa"/>
 	</timings>
 </xml>

@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oh dear A storm blew the rocks away">
-		<timing id="0" start="0.006" end="0.315" startframe="0" framelength="0" text="Oh"/>
-		<timing id="1" start="0.315" end="1.426" startframe="0" framelength="0" text="dear"/>
-		<timing id="2" start="1.426" end="1.565" startframe="0" framelength="0" text="A"/>
-		<timing id="3" start="1.565" end="2.171" startframe="0" framelength="0" text="storm"/>
-		<timing id="4" start="2.171" end="2.467" startframe="0" framelength="0" text="blew"/>
-		<timing id="5" start="2.467" end="2.623" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.623" end="3.153" startframe="0" framelength="0" text="rocks"/>
-		<timing id="7" start="3.153" end="3.84" startframe="0" framelength="0" text="away"/>
+		<timing id="0" start="0.006" end="0.274" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.274" end="1.292" startframe="0" framelength="0" text="dear"/>
+		<timing id="2" start="1.292" end="1.412" startframe="0" framelength="0" text="A"/>
+		<timing id="3" start="1.412" end="1.946" startframe="0" framelength="0" text="storm"/>
+		<timing id="4" start="1.946" end="2.202" startframe="0" framelength="0" text="blew"/>
+		<timing id="5" start="2.202" end="2.341" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.341" end="2.81" startframe="0" framelength="0" text="rocks"/>
+		<timing id="7" start="2.81" end="3.422" startframe="0" framelength="0" text="away"/>
 	</timings>
 </xml>

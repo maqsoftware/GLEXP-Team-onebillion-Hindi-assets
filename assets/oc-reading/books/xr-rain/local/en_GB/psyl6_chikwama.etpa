@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Chi kwa ma">
-		<timing id="0" start="0.006" end="0.887" startframe="0" framelength="0" text="Chi"/>
-		<timing id="1" start="0.887" end="1.73" startframe="0" framelength="0" text="kwa"/>
-		<timing id="2" start="1.73" end="2.429333333333333" startframe="0" framelength="0" text="ma"/>
+		<timing id="0" start="0.006" end="0.808" startframe="0" framelength="0" text="Chi"/>
+		<timing id="1" start="0.808" end="1.571" startframe="0" framelength="0" text="kwa"/>
+		<timing id="2" start="1.571" end="2.194166666666667" startframe="0" framelength="0" text="ma"/>
 	</timings>
 </xml>

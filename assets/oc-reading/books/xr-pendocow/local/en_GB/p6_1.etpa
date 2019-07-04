@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Dad milks Pendo every day">
-		<timing id="0" start="0.006" end="0.548" startframe="0" framelength="0" text="Dad"/>
-		<timing id="1" start="0.548" end="1.095" startframe="0" framelength="0" text="milks"/>
-		<timing id="2" start="1.095" end="1.619" startframe="0" framelength="0" text="Pendo"/>
-		<timing id="3" start="1.619" end="2.147" startframe="0" framelength="0" text="every"/>
-		<timing id="4" start="2.147" end="2.8211666666666666" startframe="0" framelength="0" text="day"/>
+	<timings text="Dad milks Nandini every day">
+		<timing id="0" start="0.006" end="0.476" startframe="0" framelength="0" text="Dad"/>
+		<timing id="1" start="0.476" end="1.018" startframe="0" framelength="0" text="milks"/>
+		<timing id="2" start="1.018" end="1.616" startframe="0" framelength="0" text="Nandini"/>
+		<timing id="3" start="1.616" end="2.022" startframe="0" framelength="0" text="every"/>
+		<timing id="4" start="2.022" end="2.6121666666666665" startframe="0" framelength="0" text="day"/>
 	</timings>
 </xml>

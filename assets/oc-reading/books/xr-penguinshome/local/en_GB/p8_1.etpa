@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Let us use everything on the beach We can make the best house">
-		<timing id="0" start="0.006" end="0.395" startframe="0" framelength="0" text="Let"/>
-		<timing id="1" start="0.395" end="0.688" startframe="0" framelength="0" text="us"/>
-		<timing id="2" start="0.688" end="1.136" startframe="0" framelength="0" text="use"/>
-		<timing id="3" start="1.136" end="1.845" startframe="0" framelength="0" text="everything"/>
-		<timing id="4" start="1.845" end="2.05" startframe="0" framelength="0" text="on"/>
-		<timing id="5" start="2.05" end="2.132" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.132" end="3.211" startframe="0" framelength="0" text="beach"/>
-		<timing id="7" start="3.211" end="3.565" startframe="0" framelength="0" text="We"/>
-		<timing id="8" start="3.565" end="3.864" startframe="0" framelength="0" text="can"/>
-		<timing id="9" start="3.864" end="4.268" startframe="0" framelength="0" text="make"/>
-		<timing id="10" start="4.268" end="4.409" startframe="0" framelength="0" text="the"/>
-		<timing id="11" start="4.409" end="4.998" startframe="0" framelength="0" text="best"/>
-		<timing id="12" start="4.998" end="5.8775" startframe="0" framelength="0" text="house"/>
+		<timing id="0" start="0.006" end="0.352" startframe="0" framelength="0" text="Let"/>
+		<timing id="1" start="0.352" end="0.619" startframe="0" framelength="0" text="us"/>
+		<timing id="2" start="0.619" end="1.018" startframe="0" framelength="0" text="use"/>
+		<timing id="3" start="1.018" end="1.635" startframe="0" framelength="0" text="everything"/>
+		<timing id="4" start="1.635" end="1.814" startframe="0" framelength="0" text="on"/>
+		<timing id="5" start="1.814" end="1.887" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.887" end="2.879" startframe="0" framelength="0" text="beach"/>
+		<timing id="7" start="2.879" end="3.193" startframe="0" framelength="0" text="We"/>
+		<timing id="8" start="3.193" end="3.451" startframe="0" framelength="0" text="can"/>
+		<timing id="9" start="3.451" end="3.808" startframe="0" framelength="0" text="make"/>
+		<timing id="10" start="3.808" end="3.927" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="3.927" end="4.442" startframe="0" framelength="0" text="best"/>
+		<timing id="12" start="4.442" end="5.2245" startframe="0" framelength="0" text="house"/>
 	</timings>
 </xml>

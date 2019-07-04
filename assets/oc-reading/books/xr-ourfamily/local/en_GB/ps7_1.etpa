@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="This is our house">
-		<timing id="0" start="0.006" end="0.475" startframe="0" framelength="0" text="This"/>
-		<timing id="1" start="0.475" end="0.666" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.666" end="0.878" startframe="0" framelength="0" text="our"/>
-		<timing id="3" start="0.878" end="1.8023333333333333" startframe="0" framelength="0" text="house"/>
+		<timing id="0" start="0.006" end="0.417" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.417" end="0.593" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.593" end="0.781" startframe="0" framelength="0" text="our"/>
+		<timing id="3" start="0.781" end="1.6195" startframe="0" framelength="0" text="house"/>
 	</timings>
 </xml>

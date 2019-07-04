@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Rala could fly in a hot air balloon">
-		<timing id="0" start="0.006" end="0.5" startframe="0" framelength="0" text="Rala"/>
-		<timing id="1" start="0.5" end="0.79" startframe="0" framelength="0" text="could"/>
-		<timing id="2" start="0.79" end="1.348" startframe="0" framelength="0" text="fly"/>
-		<timing id="3" start="1.348" end="1.558" startframe="0" framelength="0" text="in"/>
-		<timing id="4" start="1.558" end="1.635" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="1.635" end="2.167" startframe="0" framelength="0" text="hot"/>
-		<timing id="6" start="2.167" end="2.317" startframe="0" framelength="0" text="air"/>
-		<timing id="7" start="2.317" end="3.2391666666666667" startframe="0" framelength="0" text="balloon"/>
+	<timings text="Sita could fly in a hot air balloon">
+		<timing id="0" start="0.006" end="0.631" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.631" end="0.902" startframe="0" framelength="0" text="could"/>
+		<timing id="2" start="0.902" end="1.345" startframe="0" framelength="0" text="fly"/>
+		<timing id="3" start="1.345" end="1.501" startframe="0" framelength="0" text="in"/>
+		<timing id="4" start="1.501" end="1.547" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.547" end="2.014" startframe="0" framelength="0" text="hot"/>
+		<timing id="6" start="2.014" end="2.144" startframe="0" framelength="0" text="air"/>
+		<timing id="7" start="2.144" end="2.978" startframe="0" framelength="0" text="balloon"/>
 	</timings>
 </xml>

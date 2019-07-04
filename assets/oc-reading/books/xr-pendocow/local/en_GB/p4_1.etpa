@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Pendo likes to eat carrots">
-		<timing id="0" start="0.006" end="0.464" startframe="0" framelength="0" text="Pendo"/>
-		<timing id="1" start="0.464" end="1.045" startframe="0" framelength="0" text="likes"/>
-		<timing id="2" start="1.045" end="1.274" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="1.274" end="1.568" startframe="0" framelength="0" text="eat"/>
-		<timing id="4" start="1.568" end="2.769" startframe="0" framelength="0" text="carrots"/>
+	<timings text="Nandini likes to eat carrots">
+		<timing id="0" start="0.006" end="0.759" startframe="0" framelength="0" text="Nandini"/>
+		<timing id="1" start="0.759" end="1.248" startframe="0" framelength="0" text="likes"/>
+		<timing id="2" start="1.248" end="1.446" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.446" end="1.702" startframe="0" framelength="0" text="eat"/>
+		<timing id="4" start="1.702" end="2.769" startframe="0" framelength="0" text="carrots"/>
 	</timings>
 </xml>

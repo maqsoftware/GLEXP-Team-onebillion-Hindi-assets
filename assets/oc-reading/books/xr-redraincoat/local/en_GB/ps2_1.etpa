@@ -2,25 +2,25 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="No Manu You cannot wear your red raincoat today said his mum The sky is blue It is warm outside">
-		<timing id="0" start="0.006" end="0.865" startframe="0" framelength="0" text="No"/>
-		<timing id="1" start="0.865" end="2.039" startframe="0" framelength="0" text="Manu"/>
-		<timing id="2" start="2.039" end="2.326" startframe="0" framelength="0" text="You"/>
-		<timing id="3" start="2.326" end="2.954" startframe="0" framelength="0" text="cannot"/>
-		<timing id="4" start="2.954" end="3.246" startframe="0" framelength="0" text="wear"/>
-		<timing id="5" start="3.246" end="3.57" startframe="0" framelength="0" text="your"/>
-		<timing id="6" start="3.57" end="3.915" startframe="0" framelength="0" text="red"/>
-		<timing id="7" start="3.915" end="4.798" startframe="0" framelength="0" text="raincoat"/>
-		<timing id="8" start="4.798" end="5.72" startframe="0" framelength="0" text="today"/>
-		<timing id="9" start="5.72" end="6.194" startframe="0" framelength="0" text="said"/>
-		<timing id="10" start="6.194" end="6.508" startframe="0" framelength="0" text="his"/>
-		<timing id="11" start="6.508" end="7.621" startframe="0" framelength="0" text="mum"/>
-		<timing id="12" start="7.621" end="7.855" startframe="0" framelength="0" text="The"/>
-		<timing id="13" start="7.855" end="8.5" startframe="0" framelength="0" text="sky"/>
-		<timing id="14" start="8.5" end="8.751" startframe="0" framelength="0" text="is"/>
-		<timing id="15" start="8.751" end="9.794" startframe="0" framelength="0" text="blue"/>
-		<timing id="16" start="9.794" end="10.01" startframe="0" framelength="0" text="It"/>
-		<timing id="17" start="10.01" end="10.213" startframe="0" framelength="0" text="is"/>
-		<timing id="18" start="10.213" end="10.661" startframe="0" framelength="0" text="warm"/>
-		<timing id="19" start="10.661" end="11.8595" startframe="0" framelength="0" text="outside"/>
+		<timing id="0" start="0.006" end="0.78" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.78" end="1.859" startframe="0" framelength="0" text="Manu"/>
+		<timing id="2" start="1.859" end="2.114" startframe="0" framelength="0" text="You"/>
+		<timing id="3" start="2.114" end="2.664" startframe="0" framelength="0" text="cannot"/>
+		<timing id="4" start="2.664" end="2.927" startframe="0" framelength="0" text="wear"/>
+		<timing id="5" start="2.927" end="3.213" startframe="0" framelength="0" text="your"/>
+		<timing id="6" start="3.213" end="3.519" startframe="0" framelength="0" text="red"/>
+		<timing id="7" start="3.519" end="4.31" startframe="0" framelength="0" text="raincoat"/>
+		<timing id="8" start="4.31" end="5.141" startframe="0" framelength="0" text="today"/>
+		<timing id="9" start="5.141" end="5.56" startframe="0" framelength="0" text="said"/>
+		<timing id="10" start="5.56" end="5.835" startframe="0" framelength="0" text="his"/>
+		<timing id="11" start="5.835" end="6.867" startframe="0" framelength="0" text="mum"/>
+		<timing id="12" start="6.867" end="7.073" startframe="0" framelength="0" text="The"/>
+		<timing id="13" start="7.073" end="7.644" startframe="0" framelength="0" text="sky"/>
+		<timing id="14" start="7.644" end="7.866" startframe="0" framelength="0" text="is"/>
+		<timing id="15" start="7.866" end="8.828" startframe="0" framelength="0" text="blue"/>
+		<timing id="16" start="8.828" end="9.019" startframe="0" framelength="0" text="It"/>
+		<timing id="17" start="9.019" end="9.199" startframe="0" framelength="0" text="is"/>
+		<timing id="18" start="9.199" end="9.591" startframe="0" framelength="0" text="warm"/>
+		<timing id="19" start="9.591" end="10.631833333333333" startframe="0" framelength="0" text="outside"/>
 	</timings>
 </xml>
