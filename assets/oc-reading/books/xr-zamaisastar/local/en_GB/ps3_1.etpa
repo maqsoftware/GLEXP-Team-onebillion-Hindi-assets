@@ -1,16 +1,16 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Next <break time="500ms"/> I <break time="500ms"/> make <break time="500ms"/> my <break time="500ms"/> bed <break time="500ms"/>">
-		<timing id="0" start="0.006" end="1.007" startframe="0" framelength="0" text="Next"/>
-		<timing id="1" start="1.007" end="1.604" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.604" end="2.237" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="2.237" end="2.831" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.831" end="3.791" startframe="0" framelength="0" text="make"/>
-		<timing id="5" start="3.791" end="4.392" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.392" end="5.174" startframe="0" framelength="0" text="my"/>
-		<timing id="7" start="5.174" end="5.767" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.767" end="6.575" startframe="0" framelength="0" text="bed"/>
-		<timing id="9" start="6.575" end="7.131333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="Next  I  make  my  bed ">
+		<timing id="0" start="0.006" end="0.907" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="0.907" end="1.504" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.504" end="2.073" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="2.073" end="2.666" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.666" end="3.517" startframe="0" framelength="0" text="make"/>
+		<timing id="5" start="3.517" end="4.118" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.118" end="4.818" startframe="0" framelength="0" text="my"/>
+		<timing id="7" start="4.818" end="5.411" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.411" end="6.153" startframe="0" framelength="0" text="bed"/>
+		<timing id="9" start="6.153" end="6.7135" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

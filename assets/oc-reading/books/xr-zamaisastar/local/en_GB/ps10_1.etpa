@@ -1,32 +1,32 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="On <break time="500ms"/> the <break time="500ms"/> way <break time="500ms"/> to <break time="500ms"/> school <break time="500ms"/> I <break time="500ms"/> tell <break time="500ms"/> my <break time="500ms"/> little <break time="500ms"/> brother <break time="500ms"/> to <break time="500ms"/> be <break time="500ms"/> good <break time="500ms"/>">
-		<timing id="0" start="0.006" end="0.839" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.839" end="1.439" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.439" end="2.227" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="2.227" end="2.828" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.828" end="3.556" startframe="0" framelength="0" text="way"/>
-		<timing id="5" start="3.556" end="4.149" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.149" end="4.884" startframe="0" framelength="0" text="to"/>
-		<timing id="7" start="4.884" end="5.484" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.484" end="6.491" startframe="0" framelength="0" text="school"/>
-		<timing id="9" start="6.491" end="7.088" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="10" start="7.088" end="7.721" startframe="0" framelength="0" text="I"/>
-		<timing id="11" start="7.721" end="8.315" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="12" start="8.315" end="9.039" startframe="0" framelength="0" text="tell"/>
-		<timing id="13" start="9.039" end="9.633" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="14" start="9.633" end="10.373" startframe="0" framelength="0" text="my"/>
-		<timing id="15" start="10.373" end="10.973" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="16" start="10.973" end="11.862" startframe="0" framelength="0" text="little"/>
-		<timing id="17" start="11.862" end="12.462" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="18" start="12.462" end="13.476" startframe="0" framelength="0" text="brother"/>
-		<timing id="19" start="13.476" end="14.069" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="20" start="14.069" end="14.801" startframe="0" framelength="0" text="to"/>
-		<timing id="21" start="14.801" end="15.394" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="22" start="15.394" end="16.251" startframe="0" framelength="0" text="be"/>
-		<timing id="23" start="16.251" end="16.851" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="24" start="16.851" end="17.713" startframe="0" framelength="0" text="good"/>
-		<timing id="25" start="17.713" end="18.285666666666668" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="On  the  way  to  school  I  tell  my  little  brother  to  be  good ">
+		<timing id="0" start="0.006" end="0.749" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.749" end="1.349" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.349" end="2.053" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="2.053" end="2.655" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.655" end="3.305" startframe="0" framelength="0" text="way"/>
+		<timing id="5" start="3.305" end="3.898" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.898" end="4.555" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="4.555" end="5.155" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.155" end="6.055" startframe="0" framelength="0" text="school"/>
+		<timing id="9" start="6.055" end="6.653" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.653" end="7.221" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="7.221" end="7.814" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="7.814" end="8.465" startframe="0" framelength="0" text="tell"/>
+		<timing id="13" start="8.465" end="9.06" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.06" end="9.722" startframe="0" framelength="0" text="my"/>
+		<timing id="15" start="9.722" end="10.322" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="10.322" end="11.118" startframe="0" framelength="0" text="little"/>
+		<timing id="17" start="11.118" end="11.718" startframe="0" framelength="0" text=""/>
+		<timing id="18" start="11.718" end="12.621" startframe="0" framelength="0" text="brother"/>
+		<timing id="19" start="12.621" end="13.214" startframe="0" framelength="0" text=""/>
+		<timing id="20" start="13.214" end="13.873" startframe="0" framelength="0" text="to"/>
+		<timing id="21" start="13.873" end="14.466" startframe="0" framelength="0" text=""/>
+		<timing id="22" start="14.466" end="15.23" startframe="0" framelength="0" text="be"/>
+		<timing id="23" start="15.23" end="15.83" startframe="0" framelength="0" text=""/>
+		<timing id="24" start="15.83" end="16.611" startframe="0" framelength="0" text="good"/>
+		<timing id="25" start="16.611" end="17.1885" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

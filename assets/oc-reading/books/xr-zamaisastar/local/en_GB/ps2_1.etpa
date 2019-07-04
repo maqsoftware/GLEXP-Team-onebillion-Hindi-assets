@@ -1,26 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="First <break time="500ms"/> I <break time="500ms"/> open <break time="500ms"/> the <break time="500ms"/> shutter <break time="500ms"/> and <break time="500ms"/> let <break time="500ms"/> the <break time="500ms"/> sun <break time="500ms"/> in <break time="500ms"/>">
-		<timing id="0" start="0.006" end="1.019" startframe="0" framelength="0" text="First"/>
-		<timing id="1" start="1.019" end="1.616" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.616" end="2.249" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="2.249" end="2.849" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.849" end="3.72" startframe="0" framelength="0" text="open"/>
-		<timing id="5" start="3.72" end="4.32" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.32" end="5.024" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="5.024" end="5.624" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.624" end="6.593" startframe="0" framelength="0" text="shutter"/>
-		<timing id="9" start="6.593" end="7.189" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="10" start="7.189" end="8.019" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="8.019" end="8.619" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="12" start="8.619" end="9.456" startframe="0" framelength="0" text="let"/>
-		<timing id="13" start="9.456" end="10.056" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="14" start="10.056" end="10.76" startframe="0" framelength="0" text="the"/>
-		<timing id="15" start="10.76" end="11.36" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="16" start="11.36" end="12.26" startframe="0" framelength="0" text="sun"/>
-		<timing id="17" start="12.26" end="12.86" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="18" start="12.86" end="13.631" startframe="0" framelength="0" text="in"/>
-		<timing id="19" start="13.631" end="14.1845" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="First  I  open  the  shutter  and  let  the  sun  in ">
+		<timing id="0" start="0.006" end="0.914" startframe="0" framelength="0" text="First"/>
+		<timing id="1" start="0.914" end="1.511" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.511" end="2.079" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="2.079" end="2.679" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.679" end="3.448" startframe="0" framelength="0" text="open"/>
+		<timing id="5" start="3.448" end="4.048" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.048" end="4.68" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.68" end="5.28" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.28" end="6.145" startframe="0" framelength="0" text="shutter"/>
+		<timing id="9" start="6.145" end="6.741" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.741" end="7.473" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="7.473" end="8.073" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="8.073" end="8.814" startframe="0" framelength="0" text="let"/>
+		<timing id="13" start="8.814" end="9.414" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.414" end="10.046" startframe="0" framelength="0" text="the"/>
+		<timing id="15" start="10.046" end="10.646" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="10.646" end="11.449" startframe="0" framelength="0" text="sun"/>
+		<timing id="17" start="11.449" end="12.049" startframe="0" framelength="0" text=""/>
+		<timing id="18" start="12.049" end="12.747" startframe="0" framelength="0" text="in"/>
+		<timing id="19" start="12.747" end="13.322333333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

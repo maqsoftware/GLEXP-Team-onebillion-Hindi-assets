@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Leena <break time="500ms"/> is <break time="500ms"/> a <break time="500ms"/> star <break time="500ms"/>">
-		<timing id="0" start="0.006" end="0.866" startframe="0" framelength="0" text="Leena"/>
-		<timing id="1" start="0.866" end="1.46" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.46" end="1.887" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.887" end="2.481" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.481" end="3.145" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="3.145" end="3.738" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="3.738" end="4.853" startframe="0" framelength="0" text="star"/>
-		<timing id="7" start="4.853" end="5.407333333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="Leena  is  a  star ">
+		<timing id="0" start="0.006" end="0.773" startframe="0" framelength="0" text="Leena"/>
+		<timing id="1" start="0.773" end="1.367" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.367" end="1.756" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.756" end="2.35" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.35" end="2.943" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="2.943" end="3.536" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.536" end="4.533" startframe="0" framelength="0" text="star"/>
+		<timing id="7" start="4.533" end="5.093833333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

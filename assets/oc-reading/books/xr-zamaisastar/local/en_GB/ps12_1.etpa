@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="So <break time="500ms"/> yes <break time="500ms"/> I <break time="500ms"/> am <break time="500ms"/> a <break time="500ms"/> star <break time="500ms"/>">
-		<timing id="0" start="0.006" end="0.881" startframe="0" framelength="0" text="So"/>
-		<timing id="1" start="0.881" end="1.475" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.475" end="2.456" startframe="0" framelength="0" text="yes"/>
-		<timing id="3" start="2.456" end="3.053" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="3.053" end="3.687" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="3.687" end="4.288" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.288" end="4.952" startframe="0" framelength="0" text="am"/>
-		<timing id="7" start="4.952" end="5.546" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.546" end="6.21" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="6.21" end="6.804" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="10" start="6.804" end="7.918" startframe="0" framelength="0" text="star"/>
-		<timing id="11" start="7.918" end="8.489833333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="So  yes  I  am  a  star ">
+		<timing id="0" start="0.006" end="0.795" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.795" end="1.388" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.388" end="2.26" startframe="0" framelength="0" text="yes"/>
+		<timing id="3" start="2.26" end="2.858" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.858" end="3.426" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="3.426" end="4.027" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.027" end="4.617" startframe="0" framelength="0" text="am"/>
+		<timing id="7" start="4.617" end="5.212" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.212" end="5.804" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="5.804" end="6.397" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.397" end="7.394" startframe="0" framelength="0" text="star"/>
+		<timing id="11" start="7.394" end="7.967333333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

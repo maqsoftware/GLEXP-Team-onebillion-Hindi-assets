@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I <break time="500ms"/> can <break time="500ms"/> close <break time="500ms"/> my <break time="500ms"/> buttons <break time="500ms"/> and <break time="500ms"/> buckle <break time="500ms"/> my <break time="500ms"/> shoes <break time="500ms"/>">
-		<timing id="0" start="0.006" end="0.576" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.576" end="1.177" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.177" end="2.031" startframe="0" framelength="0" text="can"/>
-		<timing id="3" start="2.031" end="2.631" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.631" end="3.474" startframe="0" framelength="0" text="close"/>
-		<timing id="5" start="3.474" end="4.068" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.068" end="4.822" startframe="0" framelength="0" text="my"/>
-		<timing id="7" start="4.822" end="5.415" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.415" end="6.571" startframe="0" framelength="0" text="buttons"/>
-		<timing id="9" start="6.571" end="7.171" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="10" start="7.171" end="7.941" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="7.941" end="8.541" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="12" start="8.541" end="9.516" startframe="0" framelength="0" text="buckle"/>
-		<timing id="13" start="9.516" end="10.111" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="14" start="10.111" end="10.851" startframe="0" framelength="0" text="my"/>
-		<timing id="15" start="10.851" end="11.444" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="16" start="11.444" end="12.508" startframe="0" framelength="0" text="shoes"/>
-		<timing id="17" start="12.508" end="13.061166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="I  can  close  my  buttons  and  buckle  my  shoes ">
+		<timing id="0" start="0.006" end="0.516" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.516" end="1.117" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.117" end="1.879" startframe="0" framelength="0" text="can"/>
+		<timing id="3" start="1.879" end="2.479" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.479" end="3.22" startframe="0" framelength="0" text="close"/>
+		<timing id="5" start="3.22" end="3.813" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.813" end="4.489" startframe="0" framelength="0" text="my"/>
+		<timing id="7" start="4.489" end="5.083" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.083" end="6.118" startframe="0" framelength="0" text="buttons"/>
+		<timing id="9" start="6.118" end="6.718" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.718" end="7.408" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="7.408" end="8.008" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="8.008" end="8.873" startframe="0" framelength="0" text="buckle"/>
+		<timing id="13" start="8.873" end="9.467" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.467" end="10.13" startframe="0" framelength="0" text="my"/>
+		<timing id="15" start="10.13" end="10.723" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="10.723" end="11.677" startframe="0" framelength="0" text="shoes"/>
+		<timing id="17" start="11.677" end="12.251333333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

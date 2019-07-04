@@ -1,32 +1,32 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I <break time="500ms"/> don’t <break time="500ms"/> mind <break time="500ms"/> the <break time="500ms"/> cold <break time="500ms"/> water <break time="500ms"/> and <break time="500ms"/> smelly <break time="500ms"/> soap <break time="500ms"/> I <break time="500ms"/> scrub <break time="500ms"/> myself <break time="500ms"/> clean <break time="500ms"/>">
-		<timing id="0" start="0.007" end="0.64" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.64" end="1.24" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="2" start="1.24" end="2.186" startframe="0" framelength="0" text="don’t"/>
-		<timing id="3" start="2.186" end="2.786" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="4" start="2.786" end="3.725" startframe="0" framelength="0" text="mind"/>
-		<timing id="5" start="3.725" end="4.325" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="6" start="4.325" end="5.113" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="5.113" end="5.713" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="8" start="5.713" end="6.508" startframe="0" framelength="0" text="cold"/>
-		<timing id="9" start="6.508" end="7.108" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="10" start="7.108" end="8.239" startframe="0" framelength="0" text="water"/>
-		<timing id="11" start="8.239" end="8.839" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="12" start="8.839" end="9.609" startframe="0" framelength="0" text="and"/>
-		<timing id="13" start="9.609" end="10.21" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="14" start="10.21" end="11.242" startframe="0" framelength="0" text="smelly"/>
-		<timing id="15" start="11.242" end="11.842" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="16" start="11.842" end="12.659" startframe="0" framelength="0" text="soap"/>
-		<timing id="17" start="12.659" end="13.256" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="18" start="13.256" end="13.89" startframe="0" framelength="0" text="I"/>
-		<timing id="19" start="13.89" end="14.49" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="20" start="14.49" end="15.426" startframe="0" framelength="0" text="scrub"/>
-		<timing id="21" start="15.426" end="16.019" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="22" start="16.019" end="17.324" startframe="0" framelength="0" text="myself"/>
-		<timing id="23" start="17.324" end="17.924" startframe="0" framelength="0" text="<break time="500ms"/>"/>
-		<timing id="24" start="17.924" end="18.875" startframe="0" framelength="0" text="clean"/>
-		<timing id="25" start="18.875" end="19.435" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	<timings text="I  don’t  mind  the  cold  water  and  smelly  soap  I  scrub  myself  clean ">
+		<timing id="0" start="0.007" end="0.575" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.575" end="1.175" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.175" end="2.01" startframe="0" framelength="0" text="don’t"/>
+		<timing id="3" start="2.01" end="2.61" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.61" end="3.45" startframe="0" framelength="0" text="mind"/>
+		<timing id="5" start="3.45" end="4.05" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.05" end="4.755" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.755" end="5.355" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.355" end="6.068" startframe="0" framelength="0" text="cold"/>
+		<timing id="9" start="6.068" end="6.668" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.668" end="7.671" startframe="0" framelength="0" text="water"/>
+		<timing id="11" start="7.671" end="8.271" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="8.271" end="8.962" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="8.962" end="9.563" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.563" end="10.468" startframe="0" framelength="0" text="smelly"/>
+		<timing id="15" start="10.468" end="11.068" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="11.068" end="11.74" startframe="0" framelength="0" text="soap"/>
+		<timing id="17" start="11.74" end="12.627" startframe="0" framelength="0" text=""/>
+		<timing id="18" start="12.627" end="13.136" startframe="0" framelength="0" text="I"/>
+		<timing id="19" start="13.136" end="13.729" startframe="0" framelength="0" text=""/>
+		<timing id="20" start="13.729" end="14.524" startframe="0" framelength="0" text="scrub"/>
+		<timing id="21" start="14.524" end="15.118" startframe="0" framelength="0" text=""/>
+		<timing id="22" start="15.118" end="16.29" startframe="0" framelength="0" text="myself"/>
+		<timing id="23" start="16.29" end="16.89" startframe="0" framelength="0" text=""/>
+		<timing id="24" start="16.89" end="17.751" startframe="0" framelength="0" text="clean"/>
+		<timing id="25" start="17.751" end="18.311833333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>
