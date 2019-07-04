@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="On Friday there were big dark clouds">
-		<timing id="0" start="0.006" end="0.27" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.27" end="1.466" startframe="0" framelength="0" text="Friday"/>
-		<timing id="2" start="1.466" end="1.783" startframe="0" framelength="0" text="there"/>
-		<timing id="3" start="1.783" end="2.055" startframe="0" framelength="0" text="were"/>
-		<timing id="4" start="2.055" end="2.448" startframe="0" framelength="0" text="big"/>
-		<timing id="5" start="2.448" end="2.881" startframe="0" framelength="0" text="dark"/>
-		<timing id="6" start="2.881" end="3.8921666666666668" startframe="0" framelength="0" text="clouds"/>
+		<timing id="0" start="0.006" end="0.241" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.241" end="1.306" startframe="0" framelength="0" text="Friday"/>
+		<timing id="2" start="1.306" end="1.581" startframe="0" framelength="0" text="there"/>
+		<timing id="3" start="1.581" end="1.82" startframe="0" framelength="0" text="were"/>
+		<timing id="4" start="1.82" end="2.169" startframe="0" framelength="0" text="big"/>
+		<timing id="5" start="2.169" end="2.546" startframe="0" framelength="0" text="dark"/>
+		<timing id="6" start="2.546" end="3.422" startframe="0" framelength="0" text="clouds"/>
 	</timings>
 </xml>

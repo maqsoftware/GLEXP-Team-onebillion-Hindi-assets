@@ -2,20 +2,20 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The animals see that Rabbit tricked them They are angry They tug at his ears">
-		<timing id="0" start="0.006" end="0.307" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.307" end="0.95" startframe="0" framelength="0" text="animals"/>
-		<timing id="2" start="0.95" end="1.259" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="1.259" end="1.736" startframe="0" framelength="0" text="that"/>
-		<timing id="4" start="1.736" end="2.329" startframe="0" framelength="0" text="Rabbit"/>
-		<timing id="5" start="2.329" end="2.798" startframe="0" framelength="0" text="tricked"/>
-		<timing id="6" start="2.798" end="3.836" startframe="0" framelength="0" text="them"/>
-		<timing id="7" start="3.836" end="4.179" startframe="0" framelength="0" text="They"/>
-		<timing id="8" start="4.179" end="4.417" startframe="0" framelength="0" text="are"/>
-		<timing id="9" start="4.417" end="5.58" startframe="0" framelength="0" text="angry"/>
-		<timing id="10" start="5.58" end="5.848" startframe="0" framelength="0" text="They"/>
-		<timing id="11" start="5.848" end="6.258" startframe="0" framelength="0" text="tug"/>
-		<timing id="12" start="6.258" end="6.512" startframe="0" framelength="0" text="at"/>
-		<timing id="13" start="6.512" end="6.769" startframe="0" framelength="0" text="his"/>
-		<timing id="14" start="6.769" end="7.549333333333333" startframe="0" framelength="0" text="ears"/>
+		<timing id="0" start="0.006" end="0.274" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.274" end="0.844" startframe="0" framelength="0" text="animals"/>
+		<timing id="2" start="0.844" end="1.116" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="1.116" end="1.534" startframe="0" framelength="0" text="that"/>
+		<timing id="4" start="1.534" end="2.061" startframe="0" framelength="0" text="Rabbit"/>
+		<timing id="5" start="2.061" end="2.47" startframe="0" framelength="0" text="tricked"/>
+		<timing id="6" start="2.47" end="3.435" startframe="0" framelength="0" text="them"/>
+		<timing id="7" start="3.435" end="3.732" startframe="0" framelength="0" text="They"/>
+		<timing id="8" start="3.732" end="3.946" startframe="0" framelength="0" text="are"/>
+		<timing id="9" start="3.946" end="5.017" startframe="0" framelength="0" text="angry"/>
+		<timing id="10" start="5.017" end="5.253" startframe="0" framelength="0" text="They"/>
+		<timing id="11" start="5.253" end="5.61" startframe="0" framelength="0" text="tug"/>
+		<timing id="12" start="5.61" end="5.833" startframe="0" framelength="0" text="at"/>
+		<timing id="13" start="5.833" end="6.069" startframe="0" framelength="0" text="his"/>
+		<timing id="14" start="6.069" end="6.765666666666666" startframe="0" framelength="0" text="ears"/>
 	</timings>
 </xml>

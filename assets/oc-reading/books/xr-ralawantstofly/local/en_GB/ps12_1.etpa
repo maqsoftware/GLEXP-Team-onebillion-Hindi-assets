@@ -1,28 +1,28 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="For now Rala can only fly paper planes They don’t go far and she can’t sit in them But they are fun">
-		<timing id="0" start="0.006" end="0.331" startframe="0" framelength="0" text="For"/>
-		<timing id="1" start="0.331" end="1.186" startframe="0" framelength="0" text="now"/>
-		<timing id="2" start="1.186" end="1.68" startframe="0" framelength="0" text="Rala"/>
-		<timing id="3" start="1.68" end="2.012" startframe="0" framelength="0" text="can"/>
-		<timing id="4" start="2.012" end="2.42" startframe="0" framelength="0" text="only"/>
-		<timing id="5" start="2.42" end="2.911" startframe="0" framelength="0" text="fly"/>
-		<timing id="6" start="2.911" end="3.522" startframe="0" framelength="0" text="paper"/>
-		<timing id="7" start="3.522" end="4.814" startframe="0" framelength="0" text="planes"/>
-		<timing id="8" start="4.814" end="5.172" startframe="0" framelength="0" text="They"/>
-		<timing id="9" start="5.172" end="5.708" startframe="0" framelength="0" text="don’t"/>
-		<timing id="10" start="5.708" end="5.99" startframe="0" framelength="0" text="go"/>
-		<timing id="11" start="5.99" end="6.959" startframe="0" framelength="0" text="far"/>
-		<timing id="12" start="6.959" end="7.24" startframe="0" framelength="0" text="and"/>
-		<timing id="13" start="7.24" end="7.596" startframe="0" framelength="0" text="she"/>
-		<timing id="14" start="7.596" end="8.025" startframe="0" framelength="0" text="can’t"/>
-		<timing id="15" start="8.025" end="8.351" startframe="0" framelength="0" text="sit"/>
-		<timing id="16" start="8.351" end="8.516" startframe="0" framelength="0" text="in"/>
-		<timing id="17" start="8.516" end="9.516" startframe="0" framelength="0" text="them"/>
-		<timing id="18" start="9.516" end="9.932" startframe="0" framelength="0" text="But"/>
-		<timing id="19" start="9.932" end="10.204" startframe="0" framelength="0" text="they"/>
-		<timing id="20" start="10.204" end="10.399" startframe="0" framelength="0" text="are"/>
-		<timing id="21" start="10.399" end="11.2065" startframe="0" framelength="0" text="fun"/>
+	<timings text="For now Sita can only fly paper planes They don’t go far and she can’t sit in them But they are fun">
+		<timing id="0" start="0.006" end="0.279" startframe="0" framelength="0" text="For"/>
+		<timing id="1" start="0.279" end="1.037" startframe="0" framelength="0" text="now"/>
+		<timing id="2" start="1.037" end="1.627" startframe="0" framelength="0" text="Sita"/>
+		<timing id="3" start="1.627" end="1.904" startframe="0" framelength="0" text="can"/>
+		<timing id="4" start="1.904" end="2.282" startframe="0" framelength="0" text="only"/>
+		<timing id="5" start="2.282" end="2.758" startframe="0" framelength="0" text="fly"/>
+		<timing id="6" start="2.758" end="3.316" startframe="0" framelength="0" text="paper"/>
+		<timing id="7" start="3.316" end="4.505" startframe="0" framelength="0" text="planes"/>
+		<timing id="8" start="4.505" end="4.818" startframe="0" framelength="0" text="They"/>
+		<timing id="9" start="4.818" end="5.293" startframe="0" framelength="0" text="don’t"/>
+		<timing id="10" start="5.293" end="5.541" startframe="0" framelength="0" text="go"/>
+		<timing id="11" start="5.541" end="6.419" startframe="0" framelength="0" text="far"/>
+		<timing id="12" start="6.419" end="6.669" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="6.669" end="6.987" startframe="0" framelength="0" text="she"/>
+		<timing id="14" start="6.987" end="7.368" startframe="0" framelength="0" text="can’t"/>
+		<timing id="15" start="7.368" end="7.657" startframe="0" framelength="0" text="sit"/>
+		<timing id="16" start="7.657" end="7.799" startframe="0" framelength="0" text="in"/>
+		<timing id="17" start="7.799" end="8.726" startframe="0" framelength="0" text="them"/>
+		<timing id="18" start="8.726" end="9.089" startframe="0" framelength="0" text="But"/>
+		<timing id="19" start="9.089" end="9.328" startframe="0" framelength="0" text="they"/>
+		<timing id="20" start="9.328" end="9.5" startframe="0" framelength="0" text="are"/>
+		<timing id="21" start="9.5" end="10.213833333333334" startframe="0" framelength="0" text="fun"/>
 	</timings>
 </xml>

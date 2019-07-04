@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Samir’s grandpa cannot read the newspaper His glasses are broken">
-		<timing id="0" start="0.006" end="0.717" startframe="0" framelength="0" text="Samir’s"/>
-		<timing id="1" start="0.717" end="1.525" startframe="0" framelength="0" text="grandpa"/>
-		<timing id="2" start="1.525" end="2.246" startframe="0" framelength="0" text="cannot"/>
-		<timing id="3" start="2.246" end="2.541" startframe="0" framelength="0" text="read"/>
-		<timing id="4" start="2.541" end="2.702" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="2.702" end="4.487" startframe="0" framelength="0" text="newspaper"/>
-		<timing id="6" start="4.487" end="4.821" startframe="0" framelength="0" text="His"/>
-		<timing id="7" start="4.821" end="5.55" startframe="0" framelength="0" text="glasses"/>
-		<timing id="8" start="5.55" end="5.717" startframe="0" framelength="0" text="are"/>
-		<timing id="9" start="5.717" end="6.7135" startframe="0" framelength="0" text="broken"/>
+		<timing id="0" start="0.006" end="0.626" startframe="0" framelength="0" text="Samir’s"/>
+		<timing id="1" start="0.626" end="1.339" startframe="0" framelength="0" text="grandpa"/>
+		<timing id="2" start="1.339" end="1.984" startframe="0" framelength="0" text="cannot"/>
+		<timing id="3" start="1.984" end="2.238" startframe="0" framelength="0" text="read"/>
+		<timing id="4" start="2.238" end="2.378" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.378" end="3.99" startframe="0" framelength="0" text="newspaper"/>
+		<timing id="6" start="3.99" end="4.284" startframe="0" framelength="0" text="His"/>
+		<timing id="7" start="4.284" end="4.926" startframe="0" framelength="0" text="glasses"/>
+		<timing id="8" start="4.926" end="5.07" startframe="0" framelength="0" text="are"/>
+		<timing id="9" start="5.07" end="5.9558333333333335" startframe="0" framelength="0" text="broken"/>
 	</timings>
 </xml>

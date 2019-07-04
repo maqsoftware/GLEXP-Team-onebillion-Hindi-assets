@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I kick my red ball hard">
-		<timing id="0" start="0.006" end="0.193" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.193" end="0.57" startframe="0" framelength="0" text="kick"/>
-		<timing id="2" start="0.57" end="0.861" startframe="0" framelength="0" text="my"/>
-		<timing id="3" start="0.861" end="1.223" startframe="0" framelength="0" text="red"/>
-		<timing id="4" start="1.223" end="1.676" startframe="0" framelength="0" text="ball"/>
-		<timing id="5" start="1.676" end="2.4816666666666665" startframe="0" framelength="0" text="hard"/>
+		<timing id="0" start="0.006" end="0.17" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.17" end="0.499" startframe="0" framelength="0" text="kick"/>
+		<timing id="2" start="0.499" end="0.748" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.748" end="1.075" startframe="0" framelength="0" text="red"/>
+		<timing id="4" start="1.075" end="1.47" startframe="0" framelength="0" text="ball"/>
+		<timing id="5" start="1.47" end="2.194166666666667" startframe="0" framelength="0" text="hard"/>
 	</timings>
 </xml>

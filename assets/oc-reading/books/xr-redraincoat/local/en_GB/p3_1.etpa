@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="On Monday it was bright and sunny">
-		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.277" end="1.427" startframe="0" framelength="0" text="Monday"/>
-		<timing id="2" start="1.427" end="1.642" startframe="0" framelength="0" text="it"/>
-		<timing id="3" start="1.642" end="1.942" startframe="0" framelength="0" text="was"/>
-		<timing id="4" start="1.942" end="2.514" startframe="0" framelength="0" text="bright"/>
-		<timing id="5" start="2.514" end="2.748" startframe="0" framelength="0" text="and"/>
-		<timing id="6" start="2.748" end="3.604833333333333" startframe="0" framelength="0" text="sunny"/>
+		<timing id="0" start="0.006" end="0.244" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.244" end="1.289" startframe="0" framelength="0" text="Monday"/>
+		<timing id="2" start="1.289" end="1.483" startframe="0" framelength="0" text="it"/>
+		<timing id="3" start="1.483" end="1.746" startframe="0" framelength="0" text="was"/>
+		<timing id="4" start="1.746" end="2.244" startframe="0" framelength="0" text="bright"/>
+		<timing id="5" start="2.244" end="2.448" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.448" end="3.213" startframe="0" framelength="0" text="sunny"/>
 	</timings>
 </xml>

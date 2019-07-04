@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It has stopped raining">
-		<timing id="0" start="0.006" end="0.215" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.215" end="0.564" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="0.564" end="1.204" startframe="0" framelength="0" text="stopped"/>
-		<timing id="3" start="1.204" end="1.9853333333333334" startframe="0" framelength="0" text="raining"/>
+		<timing id="0" start="0.006" end="0.186" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.186" end="0.493" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.493" end="1.058" startframe="0" framelength="0" text="stopped"/>
+		<timing id="3" start="1.058" end="1.7501666666666666" startframe="0" framelength="0" text="raining"/>
 	</timings>
 </xml>

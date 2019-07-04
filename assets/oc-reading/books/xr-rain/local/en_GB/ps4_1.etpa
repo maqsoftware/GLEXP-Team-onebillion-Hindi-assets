@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="His shoes are wet">
-		<timing id="0" start="0.006" end="0.363" startframe="0" framelength="0" text="His"/>
-		<timing id="1" start="0.363" end="0.876" startframe="0" framelength="0" text="shoes"/>
-		<timing id="2" start="0.876" end="1.053" startframe="0" framelength="0" text="are"/>
-		<timing id="3" start="1.053" end="1.8285" startframe="0" framelength="0" text="wet"/>
+		<timing id="0" start="0.006" end="0.32" startframe="0" framelength="0" text="His"/>
+		<timing id="1" start="0.32" end="0.77" startframe="0" framelength="0" text="shoes"/>
+		<timing id="2" start="0.77" end="0.924" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="0.924" end="1.6195" startframe="0" framelength="0" text="wet"/>
 	</timings>
 </xml>

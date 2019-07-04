@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It was time for Rani to say goodbye to her mother">
-		<timing id="0" start="0.006" end="0.202" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.202" end="0.526" startframe="0" framelength="0" text="was"/>
-		<timing id="2" start="0.526" end="1.006" startframe="0" framelength="0" text="time"/>
-		<timing id="3" start="1.006" end="1.353" startframe="0" framelength="0" text="for"/>
-		<timing id="4" start="1.353" end="1.884" startframe="0" framelength="0" text="Rani"/>
-		<timing id="5" start="1.884" end="2.099" startframe="0" framelength="0" text="to"/>
-		<timing id="6" start="2.099" end="2.467" startframe="0" framelength="0" text="say"/>
-		<timing id="7" start="2.467" end="3.171" startframe="0" framelength="0" text="goodbye"/>
-		<timing id="8" start="3.171" end="3.399" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="3.399" end="3.594" startframe="0" framelength="0" text="her"/>
-		<timing id="10" start="3.594" end="4.519166666666667" startframe="0" framelength="0" text="mother"/>
+		<timing id="0" start="0.006" end="0.175" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.175" end="0.455" startframe="0" framelength="0" text="was"/>
+		<timing id="2" start="0.455" end="0.88" startframe="0" framelength="0" text="time"/>
+		<timing id="3" start="0.88" end="1.187" startframe="0" framelength="0" text="for"/>
+		<timing id="4" start="1.187" end="1.648" startframe="0" framelength="0" text="Rani"/>
+		<timing id="5" start="1.648" end="1.835" startframe="0" framelength="0" text="to"/>
+		<timing id="6" start="1.835" end="2.157" startframe="0" framelength="0" text="say"/>
+		<timing id="7" start="2.157" end="2.772" startframe="0" framelength="0" text="goodbye"/>
+		<timing id="8" start="2.772" end="2.971" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="2.971" end="3.148" startframe="0" framelength="0" text="her"/>
+		<timing id="10" start="3.148" end="3.9705" startframe="0" framelength="0" text="mother"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It is high up in the sky">
-		<timing id="0" start="0.006" end="0.204" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.204" end="0.397" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.397" end="0.814" startframe="0" framelength="0" text="high"/>
-		<timing id="3" start="0.814" end="1.126" startframe="0" framelength="0" text="up"/>
-		<timing id="4" start="1.126" end="1.28" startframe="0" framelength="0" text="in"/>
-		<timing id="5" start="1.28" end="1.416" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="1.416" end="2.3248333333333333" startframe="0" framelength="0" text="sky"/>
+		<timing id="0" start="0.006" end="0.183" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.183" end="0.349" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.349" end="0.72" startframe="0" framelength="0" text="high"/>
+		<timing id="3" start="0.72" end="0.992" startframe="0" framelength="0" text="up"/>
+		<timing id="4" start="0.992" end="1.128" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.128" end="1.246" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.246" end="2.0375" startframe="0" framelength="0" text="sky"/>
 	</timings>
 </xml>

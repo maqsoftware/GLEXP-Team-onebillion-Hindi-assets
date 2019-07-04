@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="On Tuesday the sky was blue">
-		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.277" end="0.986" startframe="0" framelength="0" text="Tuesday"/>
-		<timing id="2" start="0.986" end="1.151" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="1.151" end="1.717" startframe="0" framelength="0" text="sky"/>
-		<timing id="4" start="1.717" end="2.07" startframe="0" framelength="0" text="was"/>
-		<timing id="5" start="2.07" end="2.769" startframe="0" framelength="0" text="blue"/>
+		<timing id="0" start="0.006" end="0.245" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.245" end="0.867" startframe="0" framelength="0" text="Tuesday"/>
+		<timing id="2" start="0.867" end="1.012" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.012" end="1.506" startframe="0" framelength="0" text="sky"/>
+		<timing id="4" start="1.506" end="1.818" startframe="0" framelength="0" text="was"/>
+		<timing id="5" start="1.818" end="2.4555" startframe="0" framelength="0" text="blue"/>
 	</timings>
 </xml>

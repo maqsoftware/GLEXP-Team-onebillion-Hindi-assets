@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="A lion has big front teeth and a lot of sharp teeth">
-		<timing id="0" start="0.006" end="0.146" startframe="0" framelength="0" text="A"/>
-		<timing id="1" start="0.146" end="0.69" startframe="0" framelength="0" text="lion"/>
-		<timing id="2" start="0.69" end="1.165" startframe="0" framelength="0" text="has"/>
-		<timing id="3" start="1.165" end="1.542" startframe="0" framelength="0" text="big"/>
-		<timing id="4" start="1.542" end="2.035" startframe="0" framelength="0" text="front"/>
-		<timing id="5" start="2.035" end="2.918" startframe="0" framelength="0" text="teeth"/>
-		<timing id="6" start="2.918" end="3.195" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="3.195" end="3.261" startframe="0" framelength="0" text="a"/>
-		<timing id="8" start="3.261" end="3.776" startframe="0" framelength="0" text="lot"/>
-		<timing id="9" start="3.776" end="3.964" startframe="0" framelength="0" text="of"/>
-		<timing id="10" start="3.964" end="4.485" startframe="0" framelength="0" text="sharp"/>
-		<timing id="11" start="4.485" end="5.146" startframe="0" framelength="0" text="teeth"/>
+		<timing id="0" start="0.006" end="0.13" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.13" end="0.606" startframe="0" framelength="0" text="lion"/>
+		<timing id="2" start="0.606" end="1.028" startframe="0" framelength="0" text="has"/>
+		<timing id="3" start="1.028" end="1.357" startframe="0" framelength="0" text="big"/>
+		<timing id="4" start="1.357" end="1.797" startframe="0" framelength="0" text="front"/>
+		<timing id="5" start="1.797" end="2.587" startframe="0" framelength="0" text="teeth"/>
+		<timing id="6" start="2.587" end="2.83" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.83" end="2.886" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="2.886" end="3.343" startframe="0" framelength="0" text="lot"/>
+		<timing id="9" start="3.343" end="3.513" startframe="0" framelength="0" text="of"/>
+		<timing id="10" start="3.513" end="3.976" startframe="0" framelength="0" text="sharp"/>
+		<timing id="11" start="3.976" end="4.5713333333333335" startframe="0" framelength="0" text="teeth"/>
 	</timings>
 </xml>
