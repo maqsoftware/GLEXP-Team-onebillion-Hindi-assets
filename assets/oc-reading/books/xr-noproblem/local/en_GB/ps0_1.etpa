@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="No problem">
-		<timing id="0" start="0.006" end="0.413" startframe="0" framelength="0" text="No"/>
-		<timing id="1" start="0.413" end="1.489" startframe="0" framelength="0" text="problem"/>
+		<timing id="0" start="0.006" end="0.364" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.364" end="1.306" startframe="0" framelength="0" text="problem"/>
 	</timings>
 </xml>

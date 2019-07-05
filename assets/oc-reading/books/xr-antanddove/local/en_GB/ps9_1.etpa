@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Dove put me carefully on the ground Thank you Dove">
-		<timing id="0" start="0.006" end="0.43" startframe="0" framelength="0" text="Dove"/>
-		<timing id="1" start="0.43" end="0.848" startframe="0" framelength="0" text="put"/>
-		<timing id="2" start="0.848" end="1.095" startframe="0" framelength="0" text="me"/>
-		<timing id="3" start="1.095" end="1.888" startframe="0" framelength="0" text="carefully"/>
-		<timing id="4" start="1.888" end="2.116" startframe="0" framelength="0" text="on"/>
-		<timing id="5" start="2.116" end="2.2" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.2" end="3.455" startframe="0" framelength="0" text="ground"/>
-		<timing id="7" start="3.455" end="3.957" startframe="0" framelength="0" text="Thank"/>
-		<timing id="8" start="3.957" end="4.087" startframe="0" framelength="0" text="you"/>
-		<timing id="9" start="4.087" end="4.832666666666666" startframe="0" framelength="0" text="Dove"/>
+		<timing id="0" start="0.006" end="0.374" startframe="0" framelength="0" text="Dove"/>
+		<timing id="1" start="0.374" end="0.745" startframe="0" framelength="0" text="put"/>
+		<timing id="2" start="0.745" end="0.963" startframe="0" framelength="0" text="me"/>
+		<timing id="3" start="0.963" end="1.653" startframe="0" framelength="0" text="carefully"/>
+		<timing id="4" start="1.653" end="1.855" startframe="0" framelength="0" text="on"/>
+		<timing id="5" start="1.855" end="1.939" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.939" end="3.1" startframe="0" framelength="0" text="ground"/>
+		<timing id="7" start="3.1" end="3.545" startframe="0" framelength="0" text="Thank"/>
+		<timing id="8" start="3.545" end="3.649" startframe="0" framelength="0" text="you"/>
+		<timing id="9" start="3.649" end="4.3101666666666665" startframe="0" framelength="0" text="Dove"/>
 	</timings>
 </xml>

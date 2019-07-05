@@ -2,19 +2,19 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The next day my mum gave me a shiny red cap I loved it">
-		<timing id="0" start="0.006" end="0.259" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.259" end="0.85" startframe="0" framelength="0" text="next"/>
-		<timing id="2" start="0.85" end="1.492" startframe="0" framelength="0" text="day"/>
-		<timing id="3" start="1.492" end="1.824" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="1.824" end="2.258" startframe="0" framelength="0" text="mum"/>
-		<timing id="5" start="2.258" end="2.583" startframe="0" framelength="0" text="gave"/>
-		<timing id="6" start="2.583" end="2.828" startframe="0" framelength="0" text="me"/>
-		<timing id="7" start="2.828" end="2.896" startframe="0" framelength="0" text="a"/>
-		<timing id="8" start="2.896" end="3.579" startframe="0" framelength="0" text="shiny"/>
-		<timing id="9" start="3.579" end="3.96" startframe="0" framelength="0" text="red"/>
-		<timing id="10" start="3.96" end="5.152" startframe="0" framelength="0" text="cap"/>
-		<timing id="11" start="5.152" end="5.349" startframe="0" framelength="0" text="I"/>
-		<timing id="12" start="5.349" end="5.823" startframe="0" framelength="0" text="loved"/>
-		<timing id="13" start="5.823" end="6.4" startframe="0" framelength="0" text="it"/>
+		<timing id="0" start="0.006" end="0.228" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.228" end="0.754" startframe="0" framelength="0" text="next"/>
+		<timing id="2" start="0.754" end="1.343" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.343" end="1.635" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.635" end="2.005" startframe="0" framelength="0" text="mum"/>
+		<timing id="5" start="2.005" end="2.286" startframe="0" framelength="0" text="gave"/>
+		<timing id="6" start="2.286" end="2.51" startframe="0" framelength="0" text="me"/>
+		<timing id="7" start="2.51" end="2.569" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="2.569" end="3.165" startframe="0" framelength="0" text="shiny"/>
+		<timing id="9" start="3.165" end="3.504" startframe="0" framelength="0" text="red"/>
+		<timing id="10" start="3.504" end="4.607" startframe="0" framelength="0" text="cap"/>
+		<timing id="11" start="4.607" end="4.781" startframe="0" framelength="0" text="I"/>
+		<timing id="12" start="4.781" end="5.197" startframe="0" framelength="0" text="loved"/>
+		<timing id="13" start="5.197" end="5.720833333333333" startframe="0" framelength="0" text="it"/>
 	</timings>
 </xml>

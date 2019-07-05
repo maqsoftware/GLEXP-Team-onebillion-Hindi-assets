@@ -2,25 +2,25 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Since that day Snake does not sleep much He does not want to miss his next chance to get legs">
-		<timing id="0" start="0.006" end="0.568" startframe="0" framelength="0" text="Since"/>
-		<timing id="1" start="0.568" end="0.894" startframe="0" framelength="0" text="that"/>
-		<timing id="2" start="0.894" end="1.704" startframe="0" framelength="0" text="day"/>
-		<timing id="3" start="1.704" end="2.261" startframe="0" framelength="0" text="Snake"/>
-		<timing id="4" start="2.261" end="2.644" startframe="0" framelength="0" text="does"/>
-		<timing id="5" start="2.644" end="2.952" startframe="0" framelength="0" text="not"/>
-		<timing id="6" start="2.952" end="3.526" startframe="0" framelength="0" text="sleep"/>
-		<timing id="7" start="3.526" end="4.715" startframe="0" framelength="0" text="much"/>
-		<timing id="8" start="4.715" end="4.968" startframe="0" framelength="0" text="He"/>
-		<timing id="9" start="4.968" end="5.372" startframe="0" framelength="0" text="does"/>
-		<timing id="10" start="5.372" end="5.769" startframe="0" framelength="0" text="not"/>
-		<timing id="11" start="5.769" end="6.144" startframe="0" framelength="0" text="want"/>
-		<timing id="12" start="6.144" end="6.348" startframe="0" framelength="0" text="to"/>
-		<timing id="13" start="6.348" end="6.681" startframe="0" framelength="0" text="miss"/>
-		<timing id="14" start="6.681" end="6.975" startframe="0" framelength="0" text="his"/>
-		<timing id="15" start="6.975" end="7.471" startframe="0" framelength="0" text="next"/>
-		<timing id="16" start="7.471" end="7.997" startframe="0" framelength="0" text="chance"/>
-		<timing id="17" start="7.997" end="8.181" startframe="0" framelength="0" text="to"/>
-		<timing id="18" start="8.181" end="8.631" startframe="0" framelength="0" text="get"/>
-		<timing id="19" start="8.631" end="9.378" startframe="0" framelength="0" text="legs"/>
+		<timing id="0" start="0.006" end="0.507" startframe="0" framelength="0" text="Since"/>
+		<timing id="1" start="0.507" end="0.796" startframe="0" framelength="0" text="that"/>
+		<timing id="2" start="0.796" end="1.528" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.528" end="2.022" startframe="0" framelength="0" text="Snake"/>
+		<timing id="4" start="2.022" end="2.365" startframe="0" framelength="0" text="does"/>
+		<timing id="5" start="2.365" end="2.637" startframe="0" framelength="0" text="not"/>
+		<timing id="6" start="2.637" end="3.144" startframe="0" framelength="0" text="sleep"/>
+		<timing id="7" start="3.144" end="4.224" startframe="0" framelength="0" text="much"/>
+		<timing id="8" start="4.224" end="4.449" startframe="0" framelength="0" text="He"/>
+		<timing id="9" start="4.449" end="4.801" startframe="0" framelength="0" text="does"/>
+		<timing id="10" start="4.801" end="5.155" startframe="0" framelength="0" text="not"/>
+		<timing id="11" start="5.155" end="5.486" startframe="0" framelength="0" text="want"/>
+		<timing id="12" start="5.486" end="5.663" startframe="0" framelength="0" text="to"/>
+		<timing id="13" start="5.663" end="5.963" startframe="0" framelength="0" text="miss"/>
+		<timing id="14" start="5.963" end="6.226" startframe="0" framelength="0" text="his"/>
+		<timing id="15" start="6.226" end="6.668" startframe="0" framelength="0" text="next"/>
+		<timing id="16" start="6.668" end="7.134" startframe="0" framelength="0" text="chance"/>
+		<timing id="17" start="7.134" end="7.291" startframe="0" framelength="0" text="to"/>
+		<timing id="18" start="7.291" end="7.691" startframe="0" framelength="0" text="get"/>
+		<timing id="19" start="7.691" end="8.359166666666667" startframe="0" framelength="0" text="legs"/>
 	</timings>
 </xml>

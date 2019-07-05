@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Look mum said the children">
-		<timing id="0" start="0.006" end="0.412" startframe="0" framelength="0" text="Look"/>
-		<timing id="1" start="0.412" end="1.52" startframe="0" framelength="0" text="mum"/>
-		<timing id="2" start="1.52" end="2.015" startframe="0" framelength="0" text="said"/>
-		<timing id="3" start="2.015" end="2.198" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="2.198" end="3.1868333333333334" startframe="0" framelength="0" text="children"/>
+		<timing id="0" start="0.006" end="0.355" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.355" end="1.381" startframe="0" framelength="0" text="mum"/>
+		<timing id="2" start="1.381" end="1.825" startframe="0" framelength="0" text="said"/>
+		<timing id="3" start="1.825" end="1.986" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.986" end="2.8473333333333333" startframe="0" framelength="0" text="children"/>
 	</timings>
 </xml>

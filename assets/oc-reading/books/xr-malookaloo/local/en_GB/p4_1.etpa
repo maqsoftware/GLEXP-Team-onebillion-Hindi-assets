@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Granny there are no potatoes">
-		<timing id="0" start="0.006" end="1.137" startframe="0" framelength="0" text="Granny"/>
-		<timing id="1" start="1.137" end="1.618" startframe="0" framelength="0" text="there"/>
-		<timing id="2" start="1.618" end="1.742" startframe="0" framelength="0" text="are"/>
-		<timing id="3" start="1.742" end="1.985" startframe="0" framelength="0" text="no"/>
-		<timing id="4" start="1.985" end="3.2653333333333334" startframe="0" framelength="0" text="potatoes"/>
+		<timing id="0" start="0.006" end="1.028" startframe="0" framelength="0" text="Granny"/>
+		<timing id="1" start="1.028" end="1.456" startframe="0" framelength="0" text="there"/>
+		<timing id="2" start="1.456" end="1.564" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="1.564" end="1.776" startframe="0" framelength="0" text="no"/>
+		<timing id="4" start="1.776" end="2.8995" startframe="0" framelength="0" text="potatoes"/>
 	</timings>
 </xml>

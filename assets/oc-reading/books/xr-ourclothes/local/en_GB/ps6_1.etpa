@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Rosa has a pink dress">
-		<timing id="0" start="0.006" end="0.637" startframe="0" framelength="0" text="Rosa"/>
-		<timing id="1" start="0.637" end="1.038" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="1.038" end="1.09" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.09" end="1.617" startframe="0" framelength="0" text="pink"/>
-		<timing id="4" start="1.617" end="2.5338333333333334" startframe="0" framelength="0" text="dress"/>
+	<timings text="Harisha has a pink dress">
+		<timing id="0" start="0.006" end="0.661" startframe="0" framelength="0" text="Harisha"/>
+		<timing id="1" start="0.661" end="1.003" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="1.003" end="1.046" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.046" end="1.487" startframe="0" framelength="0" text="pink"/>
+		<timing id="4" start="1.487" end="2.194166666666667" startframe="0" framelength="0" text="dress"/>
 	</timings>
 </xml>

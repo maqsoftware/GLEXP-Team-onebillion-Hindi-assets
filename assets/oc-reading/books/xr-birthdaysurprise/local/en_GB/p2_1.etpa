@@ -1,23 +1,23 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mum tells Thato that his birthday present is a big surprise Thato wonders what it will be">
-		<timing id="0" start="0.006" end="0.419" startframe="0" framelength="0" text="Mum"/>
-		<timing id="1" start="0.419" end="0.914" startframe="0" framelength="0" text="tells"/>
-		<timing id="2" start="0.914" end="1.601" startframe="0" framelength="0" text="Thato"/>
-		<timing id="3" start="1.601" end="2.03" startframe="0" framelength="0" text="that"/>
-		<timing id="4" start="2.03" end="2.354" startframe="0" framelength="0" text="his"/>
-		<timing id="5" start="2.354" end="3.07" startframe="0" framelength="0" text="birthday"/>
-		<timing id="6" start="3.07" end="3.853" startframe="0" framelength="0" text="present"/>
-		<timing id="7" start="3.853" end="4.076" startframe="0" framelength="0" text="is"/>
-		<timing id="8" start="4.076" end="4.141" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="4.141" end="4.501" startframe="0" framelength="0" text="big"/>
-		<timing id="10" start="4.501" end="6.004" startframe="0" framelength="0" text="surprise"/>
-		<timing id="11" start="6.004" end="6.543" startframe="0" framelength="0" text="Thato"/>
-		<timing id="12" start="6.543" end="7.386" startframe="0" framelength="0" text="wonders"/>
-		<timing id="13" start="7.386" end="7.695" startframe="0" framelength="0" text="what"/>
-		<timing id="14" start="7.695" end="7.88" startframe="0" framelength="0" text="it"/>
-		<timing id="15" start="7.88" end="8.125" startframe="0" framelength="0" text="will"/>
-		<timing id="16" start="8.125" end="8.829333333333333" startframe="0" framelength="0" text="be"/>
+	<timings text="Mum tells Krishna that his birthday present is a big surprise Krishna wonders what it will be">
+		<timing id="0" start="0.006" end="0.409" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.409" end="0.8" startframe="0" framelength="0" text="tells"/>
+		<timing id="2" start="0.8" end="1.405" startframe="0" framelength="0" text="Krishna"/>
+		<timing id="3" start="1.405" end="1.804" startframe="0" framelength="0" text="that"/>
+		<timing id="4" start="1.804" end="2.024" startframe="0" framelength="0" text="his"/>
+		<timing id="5" start="2.024" end="2.658" startframe="0" framelength="0" text="birthday"/>
+		<timing id="6" start="2.658" end="3.336" startframe="0" framelength="0" text="present"/>
+		<timing id="7" start="3.336" end="3.535" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.535" end="3.589" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="3.589" end="3.905" startframe="0" framelength="0" text="big"/>
+		<timing id="10" start="3.905" end="5.265" startframe="0" framelength="0" text="surprise"/>
+		<timing id="11" start="5.265" end="5.834" startframe="0" framelength="0" text="Krishna"/>
+		<timing id="12" start="5.834" end="6.609" startframe="0" framelength="0" text="wonders"/>
+		<timing id="13" start="6.609" end="6.886" startframe="0" framelength="0" text="what"/>
+		<timing id="14" start="6.886" end="7.042" startframe="0" framelength="0" text="it"/>
+		<timing id="15" start="7.042" end="7.263" startframe="0" framelength="0" text="will"/>
+		<timing id="16" start="7.263" end="7.889" startframe="0" framelength="0" text="be"/>
 	</timings>
 </xml>

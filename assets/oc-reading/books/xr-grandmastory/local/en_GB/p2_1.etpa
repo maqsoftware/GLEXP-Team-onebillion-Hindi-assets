@@ -1,26 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Once upon a time there was a girl called Kala said grandma She lived in a hut beside the forest">
-		<timing id="0" start="0.006" end="0.596" startframe="0" framelength="0" text="Once"/>
-		<timing id="1" start="0.596" end="1.005" startframe="0" framelength="0" text="upon"/>
-		<timing id="2" start="1.005" end="1.082" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.082" end="2.075" startframe="0" framelength="0" text="time"/>
-		<timing id="4" start="2.075" end="2.363" startframe="0" framelength="0" text="there"/>
-		<timing id="5" start="2.363" end="2.689" startframe="0" framelength="0" text="was"/>
-		<timing id="6" start="2.689" end="2.726" startframe="0" framelength="0" text="a"/>
-		<timing id="7" start="2.726" end="3.198" startframe="0" framelength="0" text="girl"/>
-		<timing id="8" start="3.198" end="3.744" startframe="0" framelength="0" text="called"/>
-		<timing id="9" start="3.744" end="4.692" startframe="0" framelength="0" text="Kala"/>
-		<timing id="10" start="4.692" end="5.184" startframe="0" framelength="0" text="said"/>
-		<timing id="11" start="5.184" end="6.534" startframe="0" framelength="0" text="grandma"/>
-		<timing id="12" start="6.534" end="6.85" startframe="0" framelength="0" text="She"/>
-		<timing id="13" start="6.85" end="7.294" startframe="0" framelength="0" text="lived"/>
-		<timing id="14" start="7.294" end="7.479" startframe="0" framelength="0" text="in"/>
-		<timing id="15" start="7.479" end="7.525" startframe="0" framelength="0" text="a"/>
-		<timing id="16" start="7.525" end="7.991" startframe="0" framelength="0" text="hut"/>
-		<timing id="17" start="7.991" end="8.627" startframe="0" framelength="0" text="beside"/>
-		<timing id="18" start="8.627" end="8.751" startframe="0" framelength="0" text="the"/>
-		<timing id="19" start="8.751" end="9.900333333333334" startframe="0" framelength="0" text="forest"/>
+	<timings text="Once upon a time there was a girl called Divya said grandma She lived in a hut beside the forest">
+		<timing id="0" start="0.006" end="0.529" startframe="0" framelength="0" text="Once"/>
+		<timing id="1" start="0.529" end="0.896" startframe="0" framelength="0" text="upon"/>
+		<timing id="2" start="0.896" end="0.96" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.96" end="1.856" startframe="0" framelength="0" text="time"/>
+		<timing id="4" start="1.856" end="2.109" startframe="0" framelength="0" text="there"/>
+		<timing id="5" start="2.109" end="2.401" startframe="0" framelength="0" text="was"/>
+		<timing id="6" start="2.401" end="2.438" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="2.438" end="2.838" startframe="0" framelength="0" text="girl"/>
+		<timing id="8" start="2.838" end="3.274" startframe="0" framelength="0" text="called"/>
+		<timing id="9" start="3.274" end="4.177" startframe="0" framelength="0" text="Divya"/>
+		<timing id="10" start="4.177" end="4.597" startframe="0" framelength="0" text="said"/>
+		<timing id="11" start="4.597" end="5.841" startframe="0" framelength="0" text="grandma"/>
+		<timing id="12" start="5.841" end="6.112" startframe="0" framelength="0" text="She"/>
+		<timing id="13" start="6.112" end="6.508" startframe="0" framelength="0" text="lived"/>
+		<timing id="14" start="6.508" end="6.671" startframe="0" framelength="0" text="in"/>
+		<timing id="15" start="6.671" end="6.712" startframe="0" framelength="0" text="a"/>
+		<timing id="16" start="6.712" end="7.12" startframe="0" framelength="0" text="hut"/>
+		<timing id="17" start="7.12" end="7.68" startframe="0" framelength="0" text="beside"/>
+		<timing id="18" start="7.68" end="7.789" startframe="0" framelength="0" text="the"/>
+		<timing id="19" start="7.789" end="8.803166666666666" startframe="0" framelength="0" text="forest"/>
 	</timings>
 </xml>

@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="All day long Daisy dreamed of flying She wanted to fly high in the sky">
-		<timing id="0" start="0.006" end="0.313" startframe="0" framelength="0" text="All"/>
-		<timing id="1" start="0.313" end="0.582" startframe="0" framelength="0" text="day"/>
-		<timing id="2" start="0.582" end="1.525" startframe="0" framelength="0" text="long"/>
-		<timing id="3" start="1.525" end="2.136" startframe="0" framelength="0" text="Daisy"/>
-		<timing id="4" start="2.136" end="2.684" startframe="0" framelength="0" text="dreamed"/>
-		<timing id="5" start="2.684" end="2.878" startframe="0" framelength="0" text="of"/>
-		<timing id="6" start="2.878" end="4.168" startframe="0" framelength="0" text="flying"/>
-		<timing id="7" start="4.168" end="4.459" startframe="0" framelength="0" text="She"/>
-		<timing id="8" start="4.459" end="5.096" startframe="0" framelength="0" text="wanted"/>
-		<timing id="9" start="5.096" end="5.298" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="5.298" end="5.874" startframe="0" framelength="0" text="fly"/>
-		<timing id="11" start="5.874" end="6.226" startframe="0" framelength="0" text="high"/>
-		<timing id="12" start="6.226" end="6.433" startframe="0" framelength="0" text="in"/>
-		<timing id="13" start="6.433" end="6.569" startframe="0" framelength="0" text="the"/>
-		<timing id="14" start="6.569" end="7.471" startframe="0" framelength="0" text="sky"/>
+	<timings text="All day long Meghna dreamed of flying She wanted to fly high in the sky">
+		<timing id="0" start="0.006" end="0.264" startframe="0" framelength="0" text="All"/>
+		<timing id="1" start="0.264" end="0.499" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="0.499" end="1.28" startframe="0" framelength="0" text="long"/>
+		<timing id="3" start="1.28" end="1.945" startframe="0" framelength="0" text="Meghna"/>
+		<timing id="4" start="1.945" end="2.403" startframe="0" framelength="0" text="dreamed"/>
+		<timing id="5" start="2.403" end="2.573" startframe="0" framelength="0" text="of"/>
+		<timing id="6" start="2.573" end="3.749" startframe="0" framelength="0" text="flying"/>
+		<timing id="7" start="3.749" end="4.004" startframe="0" framelength="0" text="She"/>
+		<timing id="8" start="4.004" end="4.553" startframe="0" framelength="0" text="wanted"/>
+		<timing id="9" start="4.553" end="4.733" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.733" end="5.241" startframe="0" framelength="0" text="fly"/>
+		<timing id="11" start="5.241" end="5.55" startframe="0" framelength="0" text="high"/>
+		<timing id="12" start="5.55" end="5.728" startframe="0" framelength="0" text="in"/>
+		<timing id="13" start="5.728" end="5.846" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="5.846" end="6.635" startframe="0" framelength="0" text="sky"/>
 	</timings>
 </xml>

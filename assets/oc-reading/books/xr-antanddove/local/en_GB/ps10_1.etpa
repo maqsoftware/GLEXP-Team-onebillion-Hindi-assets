@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="That is why Dove is my very dear friend">
-		<timing id="0" start="0.006" end="0.469" startframe="0" framelength="0" text="That"/>
-		<timing id="1" start="0.469" end="0.684" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.684" end="1.01" startframe="0" framelength="0" text="why"/>
-		<timing id="3" start="1.01" end="1.426" startframe="0" framelength="0" text="Dove"/>
-		<timing id="4" start="1.426" end="1.628" startframe="0" framelength="0" text="is"/>
-		<timing id="5" start="1.628" end="1.865" startframe="0" framelength="0" text="my"/>
-		<timing id="6" start="1.865" end="2.388" startframe="0" framelength="0" text="very"/>
-		<timing id="7" start="2.388" end="2.821" startframe="0" framelength="0" text="dear"/>
-		<timing id="8" start="2.821" end="3.6571666666666665" startframe="0" framelength="0" text="friend"/>
+		<timing id="0" start="0.006" end="0.415" startframe="0" framelength="0" text="That"/>
+		<timing id="1" start="0.415" end="0.601" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.601" end="0.885" startframe="0" framelength="0" text="why"/>
+		<timing id="3" start="0.885" end="1.252" startframe="0" framelength="0" text="Dove"/>
+		<timing id="4" start="1.252" end="1.435" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="1.435" end="1.645" startframe="0" framelength="0" text="my"/>
+		<timing id="6" start="1.645" end="2.104" startframe="0" framelength="0" text="very"/>
+		<timing id="7" start="2.104" end="2.477" startframe="0" framelength="0" text="dear"/>
+		<timing id="8" start="2.477" end="3.213" startframe="0" framelength="0" text="friend"/>
 	</timings>
 </xml>

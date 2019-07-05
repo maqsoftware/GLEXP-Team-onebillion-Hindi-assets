@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Gi raffe">
-		<timing id="0" start="0.006" end="0.741" startframe="0" framelength="0" text="Gi"/>
-		<timing id="1" start="0.741" end="1.6456666666666666" startframe="0" framelength="0" text="raffe"/>
+		<timing id="0" start="0.006" end="0.677" startframe="0" framelength="0" text="Gi"/>
+		<timing id="1" start="0.677" end="1.489" startframe="0" framelength="0" text="raffe"/>
 	</timings>
 </xml>

@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Mouse pulled the string hard But still the cake didn’t move">
-		<timing id="0" start="0.006" end="0.652" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="1" start="0.652" end="1.052" startframe="0" framelength="0" text="pulled"/>
-		<timing id="2" start="1.052" end="1.191" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="1.191" end="1.751" startframe="0" framelength="0" text="string"/>
-		<timing id="4" start="1.751" end="2.863" startframe="0" framelength="0" text="hard"/>
-		<timing id="5" start="2.863" end="3.206" startframe="0" framelength="0" text="But"/>
-		<timing id="6" start="3.206" end="3.71" startframe="0" framelength="0" text="still"/>
-		<timing id="7" start="3.71" end="3.866" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.866" end="4.292" startframe="0" framelength="0" text="cake"/>
-		<timing id="9" start="4.292" end="4.858" startframe="0" framelength="0" text="didn’t"/>
-		<timing id="10" start="4.858" end="5.590166666666667" startframe="0" framelength="0" text="move"/>
+		<timing id="0" start="0.006" end="0.575" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="1" start="0.575" end="0.921" startframe="0" framelength="0" text="pulled"/>
+		<timing id="2" start="0.921" end="1.043" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.043" end="1.531" startframe="0" framelength="0" text="string"/>
+		<timing id="4" start="1.531" end="2.567" startframe="0" framelength="0" text="hard"/>
+		<timing id="5" start="2.567" end="2.874" startframe="0" framelength="0" text="But"/>
+		<timing id="6" start="2.874" end="3.316" startframe="0" framelength="0" text="still"/>
+		<timing id="7" start="3.316" end="3.448" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.448" end="3.832" startframe="0" framelength="0" text="cake"/>
+		<timing id="9" start="3.832" end="4.326" startframe="0" framelength="0" text="didn’t"/>
+		<timing id="10" start="4.326" end="4.963166666666667" startframe="0" framelength="0" text="move"/>
 	</timings>
 </xml>

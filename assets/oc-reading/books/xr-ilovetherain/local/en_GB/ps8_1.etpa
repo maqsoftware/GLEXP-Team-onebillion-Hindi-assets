@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The rain gives us food Thank you rain">
-		<timing id="0" start="0.006" end="0.156" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.156" end="0.66" startframe="0" framelength="0" text="rain"/>
-		<timing id="2" start="0.66" end="1.079" startframe="0" framelength="0" text="gives"/>
-		<timing id="3" start="1.079" end="1.296" startframe="0" framelength="0" text="us"/>
-		<timing id="4" start="1.296" end="2.285" startframe="0" framelength="0" text="food"/>
-		<timing id="5" start="2.285" end="2.833" startframe="0" framelength="0" text="Thank"/>
-		<timing id="6" start="2.833" end="3.452" startframe="0" framelength="0" text="you"/>
-		<timing id="7" start="3.452" end="4.284" startframe="0" framelength="0" text="rain"/>
+		<timing id="0" start="0.006" end="0.137" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.137" end="0.584" startframe="0" framelength="0" text="rain"/>
+		<timing id="2" start="0.584" end="0.947" startframe="0" framelength="0" text="gives"/>
+		<timing id="3" start="0.947" end="1.139" startframe="0" framelength="0" text="us"/>
+		<timing id="4" start="1.139" end="2.054" startframe="0" framelength="0" text="food"/>
+		<timing id="5" start="2.054" end="2.532" startframe="0" framelength="0" text="Thank"/>
+		<timing id="6" start="2.532" end="3.093" startframe="0" framelength="0" text="you"/>
+		<timing id="7" start="3.093" end="3.84" startframe="0" framelength="0" text="rain"/>
 	</timings>
 </xml>

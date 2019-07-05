@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Now Amina felt safe She could follow the footprints The little bird whistled goodbye Then off it flew">
-		<timing id="0" start="0.006" end="0.677" startframe="0" framelength="0" text="Now"/>
-		<timing id="1" start="0.677" end="1.254" startframe="0" framelength="0" text="Amina"/>
-		<timing id="2" start="1.254" end="1.832" startframe="0" framelength="0" text="felt"/>
-		<timing id="3" start="1.832" end="3.079" startframe="0" framelength="0" text="safe"/>
-		<timing id="4" start="3.079" end="3.434" startframe="0" framelength="0" text="She"/>
-		<timing id="5" start="3.434" end="3.722" startframe="0" framelength="0" text="could"/>
-		<timing id="6" start="3.722" end="4.261" startframe="0" framelength="0" text="follow"/>
-		<timing id="7" start="4.261" end="4.396" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="4.396" end="6.03" startframe="0" framelength="0" text="footprints"/>
-		<timing id="9" start="6.03" end="6.224" startframe="0" framelength="0" text="The"/>
-		<timing id="10" start="6.224" end="6.774" startframe="0" framelength="0" text="little"/>
-		<timing id="11" start="6.774" end="7.249" startframe="0" framelength="0" text="bird"/>
-		<timing id="12" start="7.249" end="7.74" startframe="0" framelength="0" text="whistled"/>
-		<timing id="13" start="7.74" end="9.144" startframe="0" framelength="0" text="goodbye"/>
-		<timing id="14" start="9.144" end="9.513" startframe="0" framelength="0" text="Then"/>
-		<timing id="15" start="9.513" end="9.863" startframe="0" framelength="0" text="off"/>
-		<timing id="16" start="9.863" end="10.072" startframe="0" framelength="0" text="it"/>
-		<timing id="17" start="10.072" end="10.840833333333334" startframe="0" framelength="0" text="flew"/>
+	<timings text="Now Kalpana felt safe She could follow the footprints The little bird whistled goodbye Then off it flew">
+		<timing id="0" start="0.006" end="0.369" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.369" end="0.976" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="2" start="0.976" end="1.479" startframe="0" framelength="0" text="felt"/>
+		<timing id="3" start="1.479" end="2.614" startframe="0" framelength="0" text="safe"/>
+		<timing id="4" start="2.614" end="2.918" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="2.918" end="3.172" startframe="0" framelength="0" text="could"/>
+		<timing id="6" start="3.172" end="3.65" startframe="0" framelength="0" text="follow"/>
+		<timing id="7" start="3.65" end="3.768" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.768" end="5.27" startframe="0" framelength="0" text="footprints"/>
+		<timing id="9" start="5.27" end="5.433" startframe="0" framelength="0" text="The"/>
+		<timing id="10" start="5.433" end="5.917" startframe="0" framelength="0" text="little"/>
+		<timing id="11" start="5.917" end="6.336" startframe="0" framelength="0" text="bird"/>
+		<timing id="12" start="6.336" end="6.777" startframe="0" framelength="0" text="whistled"/>
+		<timing id="13" start="6.777" end="8.053" startframe="0" framelength="0" text="goodbye"/>
+		<timing id="14" start="8.053" end="8.378" startframe="0" framelength="0" text="Then"/>
+		<timing id="15" start="8.378" end="8.68" startframe="0" framelength="0" text="off"/>
+		<timing id="16" start="8.68" end="8.863" startframe="0" framelength="0" text="it"/>
+		<timing id="17" start="8.863" end="9.560833333333333" startframe="0" framelength="0" text="flew"/>
 	</timings>
 </xml>

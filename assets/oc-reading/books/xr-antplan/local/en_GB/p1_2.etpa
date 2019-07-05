@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Ants don’t read Ants collect the food they need">
-		<timing id="0" start="0.006" end="0.462" startframe="0" framelength="0" text="Ants"/>
-		<timing id="1" start="0.462" end="0.917" startframe="0" framelength="0" text="don’t"/>
-		<timing id="2" start="0.917" end="1.94" startframe="0" framelength="0" text="read"/>
-		<timing id="3" start="1.94" end="2.391" startframe="0" framelength="0" text="Ants"/>
-		<timing id="4" start="2.391" end="2.924" startframe="0" framelength="0" text="collect"/>
-		<timing id="5" start="2.924" end="3.036" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="3.036" end="3.549" startframe="0" framelength="0" text="food"/>
-		<timing id="7" start="3.549" end="3.786" startframe="0" framelength="0" text="they"/>
-		<timing id="8" start="3.786" end="4.545333333333334" startframe="0" framelength="0" text="need"/>
+		<timing id="0" start="0.006" end="0.412" startframe="0" framelength="0" text="Ants"/>
+		<timing id="1" start="0.412" end="0.825" startframe="0" framelength="0" text="don’t"/>
+		<timing id="2" start="0.825" end="1.773" startframe="0" framelength="0" text="read"/>
+		<timing id="3" start="1.773" end="2.177" startframe="0" framelength="0" text="Ants"/>
+		<timing id="4" start="2.177" end="2.643" startframe="0" framelength="0" text="collect"/>
+		<timing id="5" start="2.643" end="2.737" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.737" end="3.182" startframe="0" framelength="0" text="food"/>
+		<timing id="7" start="3.182" end="3.383" startframe="0" framelength="0" text="they"/>
+		<timing id="8" start="3.383" end="4.049" startframe="0" framelength="0" text="need"/>
 	</timings>
 </xml>

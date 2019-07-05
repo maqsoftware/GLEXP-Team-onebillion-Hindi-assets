@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The goat likes green Yummy">
-		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.203" end="0.704" startframe="0" framelength="0" text="goat"/>
-		<timing id="2" start="0.704" end="1.189" startframe="0" framelength="0" text="likes"/>
-		<timing id="3" start="1.189" end="2.26" startframe="0" framelength="0" text="green"/>
-		<timing id="4" start="2.26" end="3.1868333333333334" startframe="0" framelength="0" text="Yummy"/>
+		<timing id="0" start="0.006" end="0.174" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.174" end="0.618" startframe="0" framelength="0" text="goat"/>
+		<timing id="2" start="0.618" end="1.04" startframe="0" framelength="0" text="likes"/>
+		<timing id="3" start="1.04" end="2.032" startframe="0" framelength="0" text="green"/>
+		<timing id="4" start="2.032" end="2.8473333333333333" startframe="0" framelength="0" text="Yummy"/>
 	</timings>
 </xml>

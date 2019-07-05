@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="lis ten">
-		<timing id="0" start="0.006" end="0.953" startframe="0" framelength="0" text="lis"/>
-		<timing id="1" start="0.953" end="1.698" startframe="0" framelength="0" text="ten"/>
+		<timing id="0" start="0.006" end="0.865" startframe="0" framelength="0" text="lis"/>
+		<timing id="1" start="0.865" end="1.515" startframe="0" framelength="0" text="ten"/>
 	</timings>
 </xml>

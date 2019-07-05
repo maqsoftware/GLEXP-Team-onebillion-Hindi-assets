@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="veg e ta bles">
-		<timing id="0" start="0.006" end="0.895" startframe="0" framelength="0" text="veg"/>
-		<timing id="1" start="0.895" end="1.565" startframe="0" framelength="0" text="e"/>
-		<timing id="2" start="1.565" end="2.286" startframe="0" framelength="0" text="ta"/>
-		<timing id="3" start="2.286" end="3.213" startframe="0" framelength="0" text="bles"/>
+		<timing id="0" start="0.006" end="0.811" startframe="0" framelength="0" text="veg"/>
+		<timing id="1" start="0.811" end="1.427" startframe="0" framelength="0" text="e"/>
+		<timing id="2" start="1.427" end="2.085" startframe="0" framelength="0" text="ta"/>
+		<timing id="3" start="2.085" end="2.925666666666667" startframe="0" framelength="0" text="bles"/>
 	</timings>
 </xml>

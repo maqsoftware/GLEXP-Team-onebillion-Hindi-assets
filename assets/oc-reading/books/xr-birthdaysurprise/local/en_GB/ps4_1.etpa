@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="On Tuesday Thato wonders if he will get a cake as big as a house">
-		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="On"/>
-		<timing id="1" start="0.277" end="1.058" startframe="0" framelength="0" text="Tuesday"/>
-		<timing id="2" start="1.058" end="1.56" startframe="0" framelength="0" text="Thato"/>
-		<timing id="3" start="1.56" end="2.35" startframe="0" framelength="0" text="wonders"/>
-		<timing id="4" start="2.35" end="2.543" startframe="0" framelength="0" text="if"/>
-		<timing id="5" start="2.543" end="2.718" startframe="0" framelength="0" text="he"/>
-		<timing id="6" start="2.718" end="2.975" startframe="0" framelength="0" text="will"/>
-		<timing id="7" start="2.975" end="3.37" startframe="0" framelength="0" text="get"/>
-		<timing id="8" start="3.37" end="3.43" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="3.43" end="3.96" startframe="0" framelength="0" text="cake"/>
-		<timing id="10" start="3.96" end="4.274" startframe="0" framelength="0" text="as"/>
-		<timing id="11" start="4.274" end="4.657" startframe="0" framelength="0" text="big"/>
-		<timing id="12" start="4.657" end="5.026" startframe="0" framelength="0" text="as"/>
-		<timing id="13" start="5.026" end="5.085" startframe="0" framelength="0" text="a"/>
-		<timing id="14" start="5.085" end="5.982" startframe="0" framelength="0" text="house"/>
+	<timings text="On Tuesday Krishna wonders if he will get a cake as big as a house">
+		<timing id="0" start="0.006" end="0.245" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.245" end="0.946" startframe="0" framelength="0" text="Tuesday"/>
+		<timing id="2" start="0.946" end="1.611" startframe="0" framelength="0" text="Krishna"/>
+		<timing id="3" start="1.611" end="2.374" startframe="0" framelength="0" text="wonders"/>
+		<timing id="4" start="2.374" end="2.543" startframe="0" framelength="0" text="if"/>
+		<timing id="5" start="2.543" end="2.697" startframe="0" framelength="0" text="he"/>
+		<timing id="6" start="2.697" end="2.922" startframe="0" framelength="0" text="will"/>
+		<timing id="7" start="2.922" end="3.27" startframe="0" framelength="0" text="get"/>
+		<timing id="8" start="3.27" end="3.32" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="3.32" end="3.784" startframe="0" framelength="0" text="cake"/>
+		<timing id="10" start="3.784" end="4.06" startframe="0" framelength="0" text="as"/>
+		<timing id="11" start="4.06" end="4.406" startframe="0" framelength="0" text="big"/>
+		<timing id="12" start="4.406" end="4.734" startframe="0" framelength="0" text="as"/>
+		<timing id="13" start="4.734" end="4.784" startframe="0" framelength="0" text="a"/>
+		<timing id="14" start="4.784" end="5.590166666666667" startframe="0" framelength="0" text="house"/>
 	</timings>
 </xml>

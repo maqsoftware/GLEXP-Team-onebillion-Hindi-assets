@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Here is Little Ant reading a book">
-		<timing id="0" start="0.006" end="0.509" startframe="0" framelength="0" text="Here"/>
-		<timing id="1" start="0.509" end="0.752" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.752" end="1.267" startframe="0" framelength="0" text="Little"/>
-		<timing id="3" start="1.267" end="1.656" startframe="0" framelength="0" text="Ant"/>
-		<timing id="4" start="1.656" end="2.176" startframe="0" framelength="0" text="reading"/>
-		<timing id="5" start="2.176" end="2.253" startframe="0" framelength="0" text="a"/>
-		<timing id="6" start="2.253" end="2.9518333333333335" startframe="0" framelength="0" text="book"/>
+		<timing id="0" start="0.006" end="0.452" startframe="0" framelength="0" text="Here"/>
+		<timing id="1" start="0.452" end="0.667" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.667" end="1.117" startframe="0" framelength="0" text="Little"/>
+		<timing id="3" start="1.117" end="1.459" startframe="0" framelength="0" text="Ant"/>
+		<timing id="4" start="1.459" end="1.909" startframe="0" framelength="0" text="reading"/>
+		<timing id="5" start="1.909" end="1.974" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="1.974" end="2.586" startframe="0" framelength="0" text="book"/>
 	</timings>
 </xml>

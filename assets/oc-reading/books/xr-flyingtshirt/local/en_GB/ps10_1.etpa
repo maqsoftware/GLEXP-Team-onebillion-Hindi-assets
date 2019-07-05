@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The children go back home">
-		<timing id="0" start="0.006" end="0.176" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.176" end="0.935" startframe="0" framelength="0" text="children"/>
-		<timing id="2" start="0.935" end="1.21" startframe="0" framelength="0" text="go"/>
-		<timing id="3" start="1.21" end="1.712" startframe="0" framelength="0" text="back"/>
-		<timing id="4" start="1.712" end="2.4031666666666665" startframe="0" framelength="0" text="home"/>
+		<timing id="0" start="0.006" end="0.156" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.156" end="0.815" startframe="0" framelength="0" text="children"/>
+		<timing id="2" start="0.815" end="1.056" startframe="0" framelength="0" text="go"/>
+		<timing id="3" start="1.056" end="1.495" startframe="0" framelength="0" text="back"/>
+		<timing id="4" start="1.495" end="2.1158333333333332" startframe="0" framelength="0" text="home"/>
 	</timings>
 </xml>

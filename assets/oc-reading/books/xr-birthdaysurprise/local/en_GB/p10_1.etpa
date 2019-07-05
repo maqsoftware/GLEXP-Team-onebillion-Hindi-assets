@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="It is the best present ever Thato’s brother is home from the city to wish him happy birthday">
-		<timing id="0" start="0.006" end="0.238" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.238" end="0.422" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.422" end="0.566" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.566" end="1.128" startframe="0" framelength="0" text="best"/>
-		<timing id="4" start="1.128" end="1.753" startframe="0" framelength="0" text="present"/>
-		<timing id="5" start="1.753" end="2.764" startframe="0" framelength="0" text="ever"/>
-		<timing id="6" start="2.764" end="3.538" startframe="0" framelength="0" text="Thato’s"/>
-		<timing id="7" start="3.538" end="4.104" startframe="0" framelength="0" text="brother"/>
-		<timing id="8" start="4.104" end="4.262" startframe="0" framelength="0" text="is"/>
-		<timing id="9" start="4.262" end="4.633" startframe="0" framelength="0" text="home"/>
-		<timing id="10" start="4.633" end="4.964" startframe="0" framelength="0" text="from"/>
-		<timing id="11" start="4.964" end="5.077" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="5.077" end="5.599" startframe="0" framelength="0" text="city"/>
-		<timing id="13" start="5.599" end="5.828" startframe="0" framelength="0" text="to"/>
-		<timing id="14" start="5.828" end="6.238" startframe="0" framelength="0" text="wish"/>
-		<timing id="15" start="6.238" end="6.49" startframe="0" framelength="0" text="him"/>
-		<timing id="16" start="6.49" end="7.034" startframe="0" framelength="0" text="happy"/>
-		<timing id="17" start="7.034" end="8.0195" startframe="0" framelength="0" text="birthday"/>
+	<timings text="It is the best present ever Krishna’s brother is home from the city to wish him happy birthday">
+		<timing id="0" start="0.006" end="0.207" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.207" end="0.37" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.37" end="0.495" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.495" end="0.989" startframe="0" framelength="0" text="best"/>
+		<timing id="4" start="0.989" end="1.532" startframe="0" framelength="0" text="present"/>
+		<timing id="5" start="1.532" end="2.459" startframe="0" framelength="0" text="ever"/>
+		<timing id="6" start="2.459" end="3.164" startframe="0" framelength="0" text="Krishna’s"/>
+		<timing id="7" start="3.164" end="3.622" startframe="0" framelength="0" text="brother"/>
+		<timing id="8" start="3.622" end="3.834" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="3.834" end="4.23" startframe="0" framelength="0" text="home"/>
+		<timing id="10" start="4.23" end="4.585" startframe="0" framelength="0" text="from"/>
+		<timing id="11" start="4.585" end="4.681" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.681" end="5.141" startframe="0" framelength="0" text="city"/>
+		<timing id="13" start="5.141" end="5.342" startframe="0" framelength="0" text="to"/>
+		<timing id="14" start="5.342" end="5.698" startframe="0" framelength="0" text="wish"/>
+		<timing id="15" start="5.698" end="5.925" startframe="0" framelength="0" text="him"/>
+		<timing id="16" start="5.925" end="6.4" startframe="0" framelength="0" text="happy"/>
+		<timing id="17" start="6.4" end="7.288166666666666" startframe="0" framelength="0" text="birthday"/>
 	</timings>
 </xml>

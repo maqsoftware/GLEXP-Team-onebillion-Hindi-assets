@@ -1,8 +1,8 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Dai sy">
-		<timing id="0" start="0.006" end="1.011" startframe="0" framelength="0" text="Dai"/>
-		<timing id="1" start="1.011" end="1.8285" startframe="0" framelength="0" text="sy"/>
+	<timings text="Megh na">
+		<timing id="0" start="0.006" end="0.826" startframe="0" framelength="0" text="Megh"/>
+		<timing id="1" start="0.826" end="1.3845" startframe="0" framelength="0" text="na"/>
 	</timings>
 </xml>

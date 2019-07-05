@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The door bangs The hens cluck The dog barks">
-		<timing id="0" start="0.006" end="0.187" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.187" end="0.605" startframe="0" framelength="0" text="door"/>
-		<timing id="2" start="0.605" end="1.875" startframe="0" framelength="0" text="bangs"/>
-		<timing id="3" start="1.875" end="2.092" startframe="0" framelength="0" text="The"/>
-		<timing id="4" start="2.092" end="2.657" startframe="0" framelength="0" text="hens"/>
-		<timing id="5" start="2.657" end="3.748" startframe="0" framelength="0" text="cluck"/>
-		<timing id="6" start="3.748" end="3.939" startframe="0" framelength="0" text="The"/>
-		<timing id="7" start="3.939" end="4.334" startframe="0" framelength="0" text="dog"/>
-		<timing id="8" start="4.334" end="5.407333333333334" startframe="0" framelength="0" text="barks"/>
+		<timing id="0" start="0.006" end="0.156" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.156" end="0.519" startframe="0" framelength="0" text="door"/>
+		<timing id="2" start="0.519" end="1.695" startframe="0" framelength="0" text="bangs"/>
+		<timing id="3" start="1.695" end="1.888" startframe="0" framelength="0" text="The"/>
+		<timing id="4" start="1.888" end="2.371" startframe="0" framelength="0" text="hens"/>
+		<timing id="5" start="2.371" end="3.375" startframe="0" framelength="0" text="cluck"/>
+		<timing id="6" start="3.375" end="3.541" startframe="0" framelength="0" text="The"/>
+		<timing id="7" start="3.541" end="3.894" startframe="0" framelength="0" text="dog"/>
+		<timing id="8" start="3.894" end="4.858666666666666" startframe="0" framelength="0" text="barks"/>
 	</timings>
 </xml>

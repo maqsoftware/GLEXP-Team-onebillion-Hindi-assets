@@ -1,25 +1,25 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Suddenly the first chicken flies down from the roof and lands on Mrs Panja’s head Mrs Milanzi starts laughing">
-		<timing id="0" start="0.006" end="1.257" startframe="0" framelength="0" text="Suddenly"/>
-		<timing id="1" start="1.257" end="1.41" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="1.41" end="2.102" startframe="0" framelength="0" text="first"/>
-		<timing id="3" start="2.102" end="2.701" startframe="0" framelength="0" text="chicken"/>
-		<timing id="4" start="2.701" end="3.336" startframe="0" framelength="0" text="flies"/>
-		<timing id="5" start="3.336" end="3.802" startframe="0" framelength="0" text="down"/>
-		<timing id="6" start="3.802" end="4.146" startframe="0" framelength="0" text="from"/>
-		<timing id="7" start="4.146" end="4.297" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="4.297" end="5.247" startframe="0" framelength="0" text="roof"/>
-		<timing id="9" start="5.247" end="5.539" startframe="0" framelength="0" text="and"/>
-		<timing id="10" start="5.539" end="6.11" startframe="0" framelength="0" text="lands"/>
-		<timing id="11" start="6.11" end="6.337" startframe="0" framelength="0" text="on"/>
-		<timing id="12" start="6.337" end="6.936" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="13" start="6.936" end="7.676" startframe="0" framelength="0" text="Panja’s"/>
-		<timing id="14" start="7.676" end="8.591" startframe="0" framelength="0" text="head"/>
-		<timing id="15" start="8.591" end="9.287" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="16" start="9.287" end="10.037" startframe="0" framelength="0" text="Milanzi"/>
-		<timing id="17" start="10.037" end="10.716" startframe="0" framelength="0" text="starts"/>
-		<timing id="18" start="10.716" end="11.676666666666666" startframe="0" framelength="0" text="laughing"/>
+	<timings text="Suddenly the first chicken flies down from the roof and lands on Mrs Chandini’s head Mrs Charita starts laughing">
+		<timing id="0" start="0.006" end="1.117" startframe="0" framelength="0" text="Suddenly"/>
+		<timing id="1" start="1.117" end="1.249" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="1.249" end="1.857" startframe="0" framelength="0" text="first"/>
+		<timing id="3" start="1.857" end="2.38" startframe="0" framelength="0" text="chicken"/>
+		<timing id="4" start="2.38" end="2.948" startframe="0" framelength="0" text="flies"/>
+		<timing id="5" start="2.948" end="3.363" startframe="0" framelength="0" text="down"/>
+		<timing id="6" start="3.363" end="3.676" startframe="0" framelength="0" text="from"/>
+		<timing id="7" start="3.676" end="3.806" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.806" end="4.661" startframe="0" framelength="0" text="roof"/>
+		<timing id="9" start="4.661" end="4.914" startframe="0" framelength="0" text="and"/>
+		<timing id="10" start="4.914" end="5.419" startframe="0" framelength="0" text="lands"/>
+		<timing id="11" start="5.419" end="5.603" startframe="0" framelength="0" text="on"/>
+		<timing id="12" start="5.603" end="6.129" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="13" start="6.129" end="6.947" startframe="0" framelength="0" text="Chandini’s"/>
+		<timing id="14" start="6.947" end="7.839" startframe="0" framelength="0" text="head"/>
+		<timing id="15" start="7.839" end="8.373" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="16" start="8.373" end="9.019" startframe="0" framelength="0" text="Charita"/>
+		<timing id="17" start="9.019" end="9.642" startframe="0" framelength="0" text="starts"/>
+		<timing id="18" start="9.642" end="10.527333333333333" startframe="0" framelength="0" text="laughing"/>
 	</timings>
 </xml>

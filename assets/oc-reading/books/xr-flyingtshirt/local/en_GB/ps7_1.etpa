@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The T-shirt has gone off again The children chase it to the road">
-		<timing id="0" start="0.006" end="0.195" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.195" end="1.082" startframe="0" framelength="0" text="T-shirt"/>
-		<timing id="2" start="1.082" end="1.445" startframe="0" framelength="0" text="has"/>
-		<timing id="3" start="1.445" end="1.822" startframe="0" framelength="0" text="gone"/>
-		<timing id="4" start="1.822" end="2.158" startframe="0" framelength="0" text="off"/>
-		<timing id="5" start="2.158" end="3.296" startframe="0" framelength="0" text="again"/>
-		<timing id="6" start="3.296" end="3.466" startframe="0" framelength="0" text="The"/>
-		<timing id="7" start="3.466" end="4.207" startframe="0" framelength="0" text="children"/>
-		<timing id="8" start="4.207" end="4.694" startframe="0" framelength="0" text="chase"/>
-		<timing id="9" start="4.694" end="4.861" startframe="0" framelength="0" text="it"/>
-		<timing id="10" start="4.861" end="5.045" startframe="0" framelength="0" text="to"/>
-		<timing id="11" start="5.045" end="5.197" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="5.197" end="5.8775" startframe="0" framelength="0" text="road"/>
+		<timing id="0" start="0.006" end="0.167" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.167" end="0.947" startframe="0" framelength="0" text="T-shirt"/>
+		<timing id="2" start="0.947" end="1.269" startframe="0" framelength="0" text="has"/>
+		<timing id="3" start="1.269" end="1.603" startframe="0" framelength="0" text="gone"/>
+		<timing id="4" start="1.603" end="1.896" startframe="0" framelength="0" text="off"/>
+		<timing id="5" start="1.896" end="2.939" startframe="0" framelength="0" text="again"/>
+		<timing id="6" start="2.939" end="3.089" startframe="0" framelength="0" text="The"/>
+		<timing id="7" start="3.089" end="3.738" startframe="0" framelength="0" text="children"/>
+		<timing id="8" start="3.738" end="4.165" startframe="0" framelength="0" text="chase"/>
+		<timing id="9" start="4.165" end="4.306" startframe="0" framelength="0" text="it"/>
+		<timing id="10" start="4.306" end="4.467" startframe="0" framelength="0" text="to"/>
+		<timing id="11" start="4.467" end="4.597" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.597" end="5.198333333333333" startframe="0" framelength="0" text="road"/>
 	</timings>
 </xml>

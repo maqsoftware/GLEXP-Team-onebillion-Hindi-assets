@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Every night I listen to mum’s story And then I go to sleep">
-		<timing id="0" start="0.006" end="0.479" startframe="0" framelength="0" text="Every"/>
-		<timing id="1" start="0.479" end="0.967" startframe="0" framelength="0" text="night"/>
-		<timing id="2" start="0.967" end="1.18" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="1.18" end="1.797" startframe="0" framelength="0" text="listen"/>
-		<timing id="4" start="1.797" end="1.985" startframe="0" framelength="0" text="to"/>
-		<timing id="5" start="1.985" end="2.461" startframe="0" framelength="0" text="mum’s"/>
-		<timing id="6" start="2.461" end="3.764" startframe="0" framelength="0" text="story"/>
-		<timing id="7" start="3.764" end="4.093" startframe="0" framelength="0" text="And"/>
-		<timing id="8" start="4.093" end="4.362" startframe="0" framelength="0" text="then"/>
-		<timing id="9" start="4.362" end="4.545" startframe="0" framelength="0" text="I"/>
-		<timing id="10" start="4.545" end="4.861" startframe="0" framelength="0" text="go"/>
-		<timing id="11" start="4.861" end="5.09" startframe="0" framelength="0" text="to"/>
-		<timing id="12" start="5.09" end="5.903666666666667" startframe="0" framelength="0" text="sleep"/>
+		<timing id="0" start="0.006" end="0.421" startframe="0" framelength="0" text="Every"/>
+		<timing id="1" start="0.421" end="0.849" startframe="0" framelength="0" text="night"/>
+		<timing id="2" start="0.849" end="1.031" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.031" end="1.574" startframe="0" framelength="0" text="listen"/>
+		<timing id="4" start="1.574" end="1.739" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.739" end="2.146" startframe="0" framelength="0" text="mum’s"/>
+		<timing id="6" start="2.146" end="3.338" startframe="0" framelength="0" text="story"/>
+		<timing id="7" start="3.338" end="3.628" startframe="0" framelength="0" text="And"/>
+		<timing id="8" start="3.628" end="3.864" startframe="0" framelength="0" text="then"/>
+		<timing id="9" start="3.864" end="4.025" startframe="0" framelength="0" text="I"/>
+		<timing id="10" start="4.025" end="4.31" startframe="0" framelength="0" text="go"/>
+		<timing id="11" start="4.31" end="4.517" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="4.517" end="5.2505" startframe="0" framelength="0" text="sleep"/>
 	</timings>
 </xml>

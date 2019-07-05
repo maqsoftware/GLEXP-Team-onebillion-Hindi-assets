@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oh no says Mum">
-		<timing id="0" start="0.006" end="0.347" startframe="0" framelength="0" text="Oh"/>
-		<timing id="1" start="0.347" end="1.28" startframe="0" framelength="0" text="no"/>
-		<timing id="2" start="1.28" end="1.913" startframe="0" framelength="0" text="says"/>
-		<timing id="3" start="1.913" end="2.6905" startframe="0" framelength="0" text="Mum"/>
+		<timing id="0" start="0.006" end="0.306" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.306" end="1.165" startframe="0" framelength="0" text="no"/>
+		<timing id="2" start="1.165" end="1.716" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="1.716" end="2.429333333333333" startframe="0" framelength="0" text="Mum"/>
 	</timings>
 </xml>

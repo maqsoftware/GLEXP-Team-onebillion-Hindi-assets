@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="When I want to stroke her Rita hides Sometimes I think she doesn’t want to be my friend">
-		<timing id="0" start="0.006" end="0.332" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.332" end="0.518" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.518" end="0.951" startframe="0" framelength="0" text="want"/>
-		<timing id="3" start="0.951" end="1.107" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.107" end="1.656" startframe="0" framelength="0" text="stroke"/>
-		<timing id="5" start="1.656" end="2.407" startframe="0" framelength="0" text="her"/>
-		<timing id="6" start="2.407" end="3.065" startframe="0" framelength="0" text="Rita"/>
-		<timing id="7" start="3.065" end="4.372" startframe="0" framelength="0" text="hides"/>
-		<timing id="8" start="4.372" end="5.413" startframe="0" framelength="0" text="Sometimes"/>
-		<timing id="9" start="5.413" end="5.593" startframe="0" framelength="0" text="I"/>
-		<timing id="10" start="5.593" end="6.101" startframe="0" framelength="0" text="think"/>
-		<timing id="11" start="6.101" end="6.363" startframe="0" framelength="0" text="she"/>
-		<timing id="12" start="6.363" end="6.995" startframe="0" framelength="0" text="doesn’t"/>
-		<timing id="13" start="6.995" end="7.351" startframe="0" framelength="0" text="want"/>
-		<timing id="14" start="7.351" end="7.515" startframe="0" framelength="0" text="to"/>
-		<timing id="15" start="7.515" end="7.696" startframe="0" framelength="0" text="be"/>
-		<timing id="16" start="7.696" end="8.002" startframe="0" framelength="0" text="my"/>
-		<timing id="17" start="8.002" end="8.96" startframe="0" framelength="0" text="friend"/>
+	<timings text="When I want to stroke her Indu hides Sometimes I think she doesn’t want to be my friend">
+		<timing id="0" start="0.006" end="0.297" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.297" end="0.465" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.465" end="0.85" startframe="0" framelength="0" text="want"/>
+		<timing id="3" start="0.85" end="0.988" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="0.988" end="1.465" startframe="0" framelength="0" text="stroke"/>
+		<timing id="5" start="1.465" end="2.141" startframe="0" framelength="0" text="her"/>
+		<timing id="6" start="2.141" end="2.564" startframe="0" framelength="0" text="Indu"/>
+		<timing id="7" start="2.564" end="3.783" startframe="0" framelength="0" text="hides"/>
+		<timing id="8" start="3.783" end="4.705" startframe="0" framelength="0" text="Sometimes"/>
+		<timing id="9" start="4.705" end="4.865" startframe="0" framelength="0" text="I"/>
+		<timing id="10" start="4.865" end="5.309" startframe="0" framelength="0" text="think"/>
+		<timing id="11" start="5.309" end="5.536" startframe="0" framelength="0" text="she"/>
+		<timing id="12" start="5.536" end="6.086" startframe="0" framelength="0" text="doesn’t"/>
+		<timing id="13" start="6.086" end="6.406" startframe="0" framelength="0" text="want"/>
+		<timing id="14" start="6.406" end="6.552" startframe="0" framelength="0" text="to"/>
+		<timing id="15" start="6.552" end="6.715" startframe="0" framelength="0" text="be"/>
+		<timing id="16" start="6.715" end="6.985" startframe="0" framelength="0" text="my"/>
+		<timing id="17" start="6.985" end="7.8105" startframe="0" framelength="0" text="friend"/>
 	</timings>
 </xml>

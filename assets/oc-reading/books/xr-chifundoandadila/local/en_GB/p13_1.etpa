@@ -1,23 +1,23 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Dalitso says nothing He looks at mum He is waiting to hear what the punishment will be">
-		<timing id="0" start="0.006" end="0.879" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="1" start="0.879" end="1.417" startframe="0" framelength="0" text="says"/>
-		<timing id="2" start="1.417" end="2.692" startframe="0" framelength="0" text="nothing"/>
-		<timing id="3" start="2.692" end="2.903" startframe="0" framelength="0" text="He"/>
-		<timing id="4" start="2.903" end="3.404" startframe="0" framelength="0" text="looks"/>
-		<timing id="5" start="3.404" end="3.657" startframe="0" framelength="0" text="at"/>
-		<timing id="6" start="3.657" end="4.74" startframe="0" framelength="0" text="mum"/>
-		<timing id="7" start="4.74" end="5.159" startframe="0" framelength="0" text="He"/>
-		<timing id="8" start="5.159" end="5.397" startframe="0" framelength="0" text="is"/>
-		<timing id="9" start="5.397" end="6.006" startframe="0" framelength="0" text="waiting"/>
-		<timing id="10" start="6.006" end="6.251" startframe="0" framelength="0" text="to"/>
-		<timing id="11" start="6.251" end="6.745" startframe="0" framelength="0" text="hear"/>
-		<timing id="12" start="6.745" end="7.023" startframe="0" framelength="0" text="what"/>
-		<timing id="13" start="7.023" end="7.139" startframe="0" framelength="0" text="the"/>
-		<timing id="14" start="7.139" end="8.111" startframe="0" framelength="0" text="punishment"/>
-		<timing id="15" start="8.111" end="8.367" startframe="0" framelength="0" text="will"/>
-		<timing id="16" start="8.367" end="8.933833333333334" startframe="0" framelength="0" text="be"/>
+	<timings text="Aditya says nothing He looks at mum He is waiting to hear what the punishment will be">
+		<timing id="0" start="0.006" end="0.828" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="0.828" end="1.341" startframe="0" framelength="0" text="says"/>
+		<timing id="2" start="1.341" end="2.511" startframe="0" framelength="0" text="nothing"/>
+		<timing id="3" start="2.511" end="2.695" startframe="0" framelength="0" text="He"/>
+		<timing id="4" start="2.695" end="3.136" startframe="0" framelength="0" text="looks"/>
+		<timing id="5" start="3.136" end="3.362" startframe="0" framelength="0" text="at"/>
+		<timing id="6" start="3.362" end="4.368" startframe="0" framelength="0" text="mum"/>
+		<timing id="7" start="4.368" end="4.738" startframe="0" framelength="0" text="He"/>
+		<timing id="8" start="4.738" end="4.951" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="4.951" end="5.482" startframe="0" framelength="0" text="waiting"/>
+		<timing id="10" start="5.482" end="5.692" startframe="0" framelength="0" text="to"/>
+		<timing id="11" start="5.692" end="6.126" startframe="0" framelength="0" text="hear"/>
+		<timing id="12" start="6.126" end="6.371" startframe="0" framelength="0" text="what"/>
+		<timing id="13" start="6.371" end="6.471" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="6.471" end="7.324" startframe="0" framelength="0" text="punishment"/>
+		<timing id="15" start="7.324" end="7.553" startframe="0" framelength="0" text="will"/>
+		<timing id="16" start="7.553" end="8.045666666666667" startframe="0" framelength="0" text="be"/>
 	</timings>
 </xml>

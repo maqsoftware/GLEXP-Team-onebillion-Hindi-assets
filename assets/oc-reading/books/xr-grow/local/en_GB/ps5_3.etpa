@@ -1,13 +1,13 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="He ran to his uncle Jomo’s house">
-		<timing id="0" start="0.006" end="0.257" startframe="0" framelength="0" text="He"/>
-		<timing id="1" start="0.257" end="0.743" startframe="0" framelength="0" text="ran"/>
-		<timing id="2" start="0.743" end="0.942" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="0.942" end="1.209" startframe="0" framelength="0" text="his"/>
-		<timing id="4" start="1.209" end="1.736" startframe="0" framelength="0" text="uncle"/>
-		<timing id="5" start="1.736" end="2.534" startframe="0" framelength="0" text="Jomo’s"/>
-		<timing id="6" start="2.534" end="3.3698333333333332" startframe="0" framelength="0" text="house"/>
+	<timings text="He ran to his uncle Ajay’s house">
+		<timing id="0" start="0.006" end="0.228" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.228" end="0.654" startframe="0" framelength="0" text="ran"/>
+		<timing id="2" start="0.654" end="0.827" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="0.827" end="1.064" startframe="0" framelength="0" text="his"/>
+		<timing id="4" start="1.064" end="1.516" startframe="0" framelength="0" text="uncle"/>
+		<timing id="5" start="1.516" end="2.013" startframe="0" framelength="0" text="Ajay’s"/>
+		<timing id="6" start="2.013" end="2.8473333333333333" startframe="0" framelength="0" text="house"/>
 	</timings>
 </xml>

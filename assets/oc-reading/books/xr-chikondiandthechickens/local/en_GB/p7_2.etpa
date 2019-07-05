@@ -1,39 +1,39 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mrs Panja arrives She sees the chickens lying on the grass Look at these lovely clean chickens I will cook them and eat them But first I must hide them from Mrs Milanzi">
-		<timing id="0" start="0.006" end="0.577" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="1" start="0.577" end="1.212" startframe="0" framelength="0" text="Panja"/>
-		<timing id="2" start="1.212" end="2.576" startframe="0" framelength="0" text="arrives"/>
-		<timing id="3" start="2.576" end="2.934" startframe="0" framelength="0" text="She"/>
-		<timing id="4" start="2.934" end="3.512" startframe="0" framelength="0" text="sees"/>
-		<timing id="5" start="3.512" end="3.657" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="3.657" end="4.488" startframe="0" framelength="0" text="chickens"/>
-		<timing id="7" start="4.488" end="4.919" startframe="0" framelength="0" text="lying"/>
-		<timing id="8" start="4.919" end="5.113" startframe="0" framelength="0" text="on"/>
-		<timing id="9" start="5.113" end="5.211" startframe="0" framelength="0" text="the"/>
-		<timing id="10" start="5.211" end="6.553" startframe="0" framelength="0" text="grass"/>
-		<timing id="11" start="6.553" end="6.991" startframe="0" framelength="0" text="Look"/>
-		<timing id="12" start="6.991" end="7.243" startframe="0" framelength="0" text="at"/>
-		<timing id="13" start="7.243" end="7.692" startframe="0" framelength="0" text="these"/>
-		<timing id="14" start="7.692" end="8.21" startframe="0" framelength="0" text="lovely"/>
-		<timing id="15" start="8.21" end="8.707" startframe="0" framelength="0" text="clean"/>
-		<timing id="16" start="8.707" end="10.133" startframe="0" framelength="0" text="chickens"/>
-		<timing id="17" start="10.133" end="10.375" startframe="0" framelength="0" text="I"/>
-		<timing id="18" start="10.375" end="10.601" startframe="0" framelength="0" text="will"/>
-		<timing id="19" start="10.601" end="10.933" startframe="0" framelength="0" text="cook"/>
-		<timing id="20" start="10.933" end="11.249" startframe="0" framelength="0" text="them"/>
-		<timing id="21" start="11.249" end="11.532" startframe="0" framelength="0" text="and"/>
-		<timing id="22" start="11.532" end="11.841" startframe="0" framelength="0" text="eat"/>
-		<timing id="23" start="11.841" end="12.759" startframe="0" framelength="0" text="them"/>
-		<timing id="24" start="12.759" end="13.15" startframe="0" framelength="0" text="But"/>
-		<timing id="25" start="13.15" end="14.194" startframe="0" framelength="0" text="first"/>
-		<timing id="26" start="14.194" end="14.403" startframe="0" framelength="0" text="I"/>
-		<timing id="27" start="14.403" end="14.851" startframe="0" framelength="0" text="must"/>
-		<timing id="28" start="14.851" end="15.305" startframe="0" framelength="0" text="hide"/>
-		<timing id="29" start="15.305" end="15.616" startframe="0" framelength="0" text="them"/>
-		<timing id="30" start="15.616" end="15.979" startframe="0" framelength="0" text="from"/>
-		<timing id="31" start="15.979" end="16.59" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="32" start="16.59" end="17.711" startframe="0" framelength="0" text="Milanzi"/>
+	<timings text="Mrs Chandini arrives She sees the chickens lying on the grass Look at these lovely clean chickens I will cook them and eat them But first I must hide them from Mrs Charita">
+		<timing id="0" start="0.006" end="0.541" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.541" end="1.213" startframe="0" framelength="0" text="Chandini"/>
+		<timing id="2" start="1.213" end="2.359" startframe="0" framelength="0" text="arrives"/>
+		<timing id="3" start="2.359" end="2.672" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.672" end="3.179" startframe="0" framelength="0" text="sees"/>
+		<timing id="5" start="3.179" end="3.308" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="3.308" end="4.036" startframe="0" framelength="0" text="chickens"/>
+		<timing id="7" start="4.036" end="4.41" startframe="0" framelength="0" text="lying"/>
+		<timing id="8" start="4.41" end="4.582" startframe="0" framelength="0" text="on"/>
+		<timing id="9" start="4.582" end="4.672" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="4.672" end="5.904" startframe="0" framelength="0" text="grass"/>
+		<timing id="11" start="5.904" end="6.29" startframe="0" framelength="0" text="Look"/>
+		<timing id="12" start="6.29" end="6.513" startframe="0" framelength="0" text="at"/>
+		<timing id="13" start="6.513" end="6.908" startframe="0" framelength="0" text="these"/>
+		<timing id="14" start="6.908" end="7.36" startframe="0" framelength="0" text="lovely"/>
+		<timing id="15" start="7.36" end="7.805" startframe="0" framelength="0" text="clean"/>
+		<timing id="16" start="7.805" end="9.106" startframe="0" framelength="0" text="chickens"/>
+		<timing id="17" start="9.106" end="9.319" startframe="0" framelength="0" text="I"/>
+		<timing id="18" start="9.319" end="9.521" startframe="0" framelength="0" text="will"/>
+		<timing id="19" start="9.521" end="9.816" startframe="0" framelength="0" text="cook"/>
+		<timing id="20" start="9.816" end="10.096" startframe="0" framelength="0" text="them"/>
+		<timing id="21" start="10.096" end="10.343" startframe="0" framelength="0" text="and"/>
+		<timing id="22" start="10.343" end="10.618" startframe="0" framelength="0" text="eat"/>
+		<timing id="23" start="10.618" end="11.468" startframe="0" framelength="0" text="them"/>
+		<timing id="24" start="11.468" end="11.819" startframe="0" framelength="0" text="But"/>
+		<timing id="25" start="11.819" end="12.762" startframe="0" framelength="0" text="first"/>
+		<timing id="26" start="12.762" end="12.946" startframe="0" framelength="0" text="I"/>
+		<timing id="27" start="12.946" end="13.341" startframe="0" framelength="0" text="must"/>
+		<timing id="28" start="13.341" end="13.74" startframe="0" framelength="0" text="hide"/>
+		<timing id="29" start="13.74" end="14.018" startframe="0" framelength="0" text="them"/>
+		<timing id="30" start="14.018" end="14.337" startframe="0" framelength="0" text="from"/>
+		<timing id="31" start="14.337" end="14.876" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="32" start="14.876" end="15.6995" startframe="0" framelength="0" text="Charita"/>
 	</timings>
 </xml>

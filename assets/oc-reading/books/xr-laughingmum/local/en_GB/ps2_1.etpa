@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She is faster than the rabbit">
-		<timing id="0" start="0.006" end="0.403" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.403" end="0.65" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.65" end="1.406" startframe="0" framelength="0" text="faster"/>
-		<timing id="3" start="1.406" end="1.689" startframe="0" framelength="0" text="than"/>
-		<timing id="4" start="1.689" end="1.802" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.802" end="2.638333333333333" startframe="0" framelength="0" text="rabbit"/>
+		<timing id="0" start="0.006" end="0.357" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.357" end="0.568" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.568" end="1.226" startframe="0" framelength="0" text="faster"/>
+		<timing id="3" start="1.226" end="1.478" startframe="0" framelength="0" text="than"/>
+		<timing id="4" start="1.478" end="1.577" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.577" end="2.351" startframe="0" framelength="0" text="rabbit"/>
 	</timings>
 </xml>

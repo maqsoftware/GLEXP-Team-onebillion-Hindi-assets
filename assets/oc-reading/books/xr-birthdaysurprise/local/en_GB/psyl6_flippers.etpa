@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="flip pers">
-		<timing id="0" start="0.006" end="0.912" startframe="0" framelength="0" text="flip"/>
-		<timing id="1" start="0.912" end="1.8808333333333334" startframe="0" framelength="0" text="pers"/>
+		<timing id="0" start="0.006" end="0.831" startframe="0" framelength="0" text="flip"/>
+		<timing id="1" start="0.831" end="1.724" startframe="0" framelength="0" text="pers"/>
 	</timings>
 </xml>

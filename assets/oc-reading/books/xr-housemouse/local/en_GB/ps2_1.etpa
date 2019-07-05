@@ -2,19 +2,19 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="This looks like a nice house The door is open and Mouse goes inside">
-		<timing id="0" start="0.006" end="0.421" startframe="0" framelength="0" text="This"/>
-		<timing id="1" start="0.421" end="0.834" startframe="0" framelength="0" text="looks"/>
-		<timing id="2" start="0.834" end="1.203" startframe="0" framelength="0" text="like"/>
-		<timing id="3" start="1.203" end="1.266" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="1.266" end="1.789" startframe="0" framelength="0" text="nice"/>
-		<timing id="5" start="1.789" end="3.006" startframe="0" framelength="0" text="house"/>
-		<timing id="6" start="3.006" end="3.194" startframe="0" framelength="0" text="The"/>
-		<timing id="7" start="3.194" end="3.65" startframe="0" framelength="0" text="door"/>
-		<timing id="8" start="3.65" end="3.901" startframe="0" framelength="0" text="is"/>
-		<timing id="9" start="3.901" end="4.387" startframe="0" framelength="0" text="open"/>
-		<timing id="10" start="4.387" end="4.693" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="4.693" end="5.374" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="12" start="5.374" end="5.769" startframe="0" framelength="0" text="goes"/>
-		<timing id="13" start="5.769" end="6.844" startframe="0" framelength="0" text="inside"/>
+		<timing id="0" start="0.006" end="0.369" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.369" end="0.739" startframe="0" framelength="0" text="looks"/>
+		<timing id="2" start="0.739" end="1.06" startframe="0" framelength="0" text="like"/>
+		<timing id="3" start="1.06" end="1.113" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.113" end="1.572" startframe="0" framelength="0" text="nice"/>
+		<timing id="5" start="1.572" end="2.684" startframe="0" framelength="0" text="house"/>
+		<timing id="6" start="2.684" end="2.848" startframe="0" framelength="0" text="The"/>
+		<timing id="7" start="2.848" end="3.247" startframe="0" framelength="0" text="door"/>
+		<timing id="8" start="3.247" end="3.461" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="3.461" end="3.881" startframe="0" framelength="0" text="open"/>
+		<timing id="10" start="3.881" end="4.15" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="4.15" end="4.752" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="12" start="4.752" end="5.096" startframe="0" framelength="0" text="goes"/>
+		<timing id="13" start="5.096" end="6.034166666666667" startframe="0" framelength="0" text="inside"/>
 	</timings>
 </xml>

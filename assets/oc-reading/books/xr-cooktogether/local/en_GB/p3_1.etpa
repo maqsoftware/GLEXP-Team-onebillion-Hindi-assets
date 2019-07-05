@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="We must cook for the guests who are coming to visit">
-		<timing id="0" start="0.006" end="0.289" startframe="0" framelength="0" text="We"/>
-		<timing id="1" start="0.289" end="0.847" startframe="0" framelength="0" text="must"/>
-		<timing id="2" start="0.847" end="1.242" startframe="0" framelength="0" text="cook"/>
-		<timing id="3" start="1.242" end="1.48" startframe="0" framelength="0" text="for"/>
-		<timing id="4" start="1.48" end="1.622" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.622" end="2.413" startframe="0" framelength="0" text="guests"/>
-		<timing id="6" start="2.413" end="2.777" startframe="0" framelength="0" text="who"/>
-		<timing id="7" start="2.777" end="2.97" startframe="0" framelength="0" text="are"/>
-		<timing id="8" start="2.97" end="3.475" startframe="0" framelength="0" text="coming"/>
-		<timing id="9" start="3.475" end="3.673" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="3.673" end="4.519166666666667" startframe="0" framelength="0" text="visit"/>
+		<timing id="0" start="0.006" end="0.251" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.251" end="0.734" startframe="0" framelength="0" text="must"/>
+		<timing id="2" start="0.734" end="1.072" startframe="0" framelength="0" text="cook"/>
+		<timing id="3" start="1.072" end="1.277" startframe="0" framelength="0" text="for"/>
+		<timing id="4" start="1.277" end="1.396" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.396" end="2.09" startframe="0" framelength="0" text="guests"/>
+		<timing id="6" start="2.09" end="2.411" startframe="0" framelength="0" text="who"/>
+		<timing id="7" start="2.411" end="2.577" startframe="0" framelength="0" text="are"/>
+		<timing id="8" start="2.577" end="3.03" startframe="0" framelength="0" text="coming"/>
+		<timing id="9" start="3.03" end="3.202" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="3.202" end="3.9445" startframe="0" framelength="0" text="visit"/>
 	</timings>
 </xml>

@@ -1,19 +1,19 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chikondi she says take these chickens out of the house They are dirty">
-		<timing id="0" start="0.006" end="1.351" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="1" start="1.351" end="1.716" startframe="0" framelength="0" text="she"/>
-		<timing id="2" start="1.716" end="2.724" startframe="0" framelength="0" text="says"/>
-		<timing id="3" start="2.724" end="3.085" startframe="0" framelength="0" text="take"/>
-		<timing id="4" start="3.085" end="3.486" startframe="0" framelength="0" text="these"/>
-		<timing id="5" start="3.486" end="4.187" startframe="0" framelength="0" text="chickens"/>
-		<timing id="6" start="4.187" end="4.504" startframe="0" framelength="0" text="out"/>
-		<timing id="7" start="4.504" end="4.619" startframe="0" framelength="0" text="of"/>
-		<timing id="8" start="4.619" end="4.774" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="4.774" end="6.002" startframe="0" framelength="0" text="house"/>
-		<timing id="10" start="6.002" end="6.336" startframe="0" framelength="0" text="They"/>
-		<timing id="11" start="6.336" end="6.53" startframe="0" framelength="0" text="are"/>
-		<timing id="12" start="6.53" end="7.418666666666667" startframe="0" framelength="0" text="dirty"/>
+	<timings text="Dipti she says take these chickens out of the house They are dirty">
+		<timing id="0" start="0.006" end="0.994" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="1" start="0.994" end="1.305" startframe="0" framelength="0" text="she"/>
+		<timing id="2" start="1.305" end="2.214" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="2.214" end="2.527" startframe="0" framelength="0" text="take"/>
+		<timing id="4" start="2.527" end="2.88" startframe="0" framelength="0" text="these"/>
+		<timing id="5" start="2.88" end="3.506" startframe="0" framelength="0" text="chickens"/>
+		<timing id="6" start="3.506" end="3.781" startframe="0" framelength="0" text="out"/>
+		<timing id="7" start="3.781" end="3.878" startframe="0" framelength="0" text="of"/>
+		<timing id="8" start="3.878" end="4.014" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="4.014" end="5.136" startframe="0" framelength="0" text="house"/>
+		<timing id="10" start="5.136" end="5.427" startframe="0" framelength="0" text="They"/>
+		<timing id="11" start="5.427" end="5.597" startframe="0" framelength="0" text="are"/>
+		<timing id="12" start="5.597" end="6.373833333333334" startframe="0" framelength="0" text="dirty"/>
 	</timings>
 </xml>

@@ -1,28 +1,28 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="After a while the little bird stopped on a branch and whistled And there below the branch Amina saw her mother’s footprints">
-		<timing id="0" start="0.006" end="0.594" startframe="0" framelength="0" text="After"/>
-		<timing id="1" start="0.594" end="0.639" startframe="0" framelength="0" text="a"/>
-		<timing id="2" start="0.639" end="1.643" startframe="0" framelength="0" text="while"/>
-		<timing id="3" start="1.643" end="1.795" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.795" end="2.325" startframe="0" framelength="0" text="little"/>
-		<timing id="5" start="2.325" end="2.779" startframe="0" framelength="0" text="bird"/>
-		<timing id="6" start="2.779" end="3.457" startframe="0" framelength="0" text="stopped"/>
-		<timing id="7" start="3.457" end="3.634" startframe="0" framelength="0" text="on"/>
-		<timing id="8" start="3.634" end="3.712" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="3.712" end="4.894" startframe="0" framelength="0" text="branch"/>
-		<timing id="10" start="4.894" end="5.245" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="5.245" end="6.547" startframe="0" framelength="0" text="whistled"/>
-		<timing id="12" start="6.547" end="6.907" startframe="0" framelength="0" text="And"/>
-		<timing id="13" start="6.907" end="7.713" startframe="0" framelength="0" text="there"/>
-		<timing id="14" start="7.713" end="8.17" startframe="0" framelength="0" text="below"/>
-		<timing id="15" start="8.17" end="8.371" startframe="0" framelength="0" text="the"/>
-		<timing id="16" start="8.371" end="9.551" startframe="0" framelength="0" text="branch"/>
-		<timing id="17" start="9.551" end="10.129" startframe="0" framelength="0" text="Amina"/>
-		<timing id="18" start="10.129" end="10.436" startframe="0" framelength="0" text="saw"/>
-		<timing id="19" start="10.436" end="10.729" startframe="0" framelength="0" text="her"/>
-		<timing id="20" start="10.729" end="11.429" startframe="0" framelength="0" text="mother’s"/>
-		<timing id="21" start="11.429" end="12.617166666666666" startframe="0" framelength="0" text="footprints"/>
+	<timings text="After a while the little bird stopped on a branch and whistled And there below the branch Kalpana saw her mother’s footprints">
+		<timing id="0" start="0.006" end="0.524" startframe="0" framelength="0" text="After"/>
+		<timing id="1" start="0.524" end="0.561" startframe="0" framelength="0" text="a"/>
+		<timing id="2" start="0.561" end="1.473" startframe="0" framelength="0" text="while"/>
+		<timing id="3" start="1.473" end="1.609" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.609" end="2.082" startframe="0" framelength="0" text="little"/>
+		<timing id="5" start="2.082" end="2.489" startframe="0" framelength="0" text="bird"/>
+		<timing id="6" start="2.489" end="3.084" startframe="0" framelength="0" text="stopped"/>
+		<timing id="7" start="3.084" end="3.245" startframe="0" framelength="0" text="on"/>
+		<timing id="8" start="3.245" end="3.311" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="3.311" end="4.37" startframe="0" framelength="0" text="branch"/>
+		<timing id="10" start="4.37" end="4.679" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="4.679" end="5.878" startframe="0" framelength="0" text="whistled"/>
+		<timing id="12" start="5.878" end="6.201" startframe="0" framelength="0" text="And"/>
+		<timing id="13" start="6.201" end="6.925" startframe="0" framelength="0" text="there"/>
+		<timing id="14" start="6.925" end="7.327" startframe="0" framelength="0" text="below"/>
+		<timing id="15" start="7.327" end="7.506" startframe="0" framelength="0" text="the"/>
+		<timing id="16" start="7.506" end="8.567" startframe="0" framelength="0" text="branch"/>
+		<timing id="17" start="8.567" end="9.167" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="18" start="9.167" end="9.448" startframe="0" framelength="0" text="saw"/>
+		<timing id="19" start="9.448" end="9.707" startframe="0" framelength="0" text="her"/>
+		<timing id="20" start="9.707" end="10.318" startframe="0" framelength="0" text="mother’s"/>
+		<timing id="21" start="10.318" end="11.389333333333333" startframe="0" framelength="0" text="footprints"/>
 	</timings>
 </xml>

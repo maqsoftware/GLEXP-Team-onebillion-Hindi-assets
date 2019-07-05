@@ -1,15 +1,15 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Another chicken flies down and lands on Mrs Milanzi">
-		<timing id="0" start="0.006" end="0.558" startframe="0" framelength="0" text="Another"/>
-		<timing id="1" start="0.558" end="1.12" startframe="0" framelength="0" text="chicken"/>
-		<timing id="2" start="1.12" end="1.715" startframe="0" framelength="0" text="flies"/>
-		<timing id="3" start="1.715" end="2.645" startframe="0" framelength="0" text="down"/>
-		<timing id="4" start="2.645" end="2.933" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="2.933" end="3.531" startframe="0" framelength="0" text="lands"/>
-		<timing id="6" start="3.531" end="3.701" startframe="0" framelength="0" text="on"/>
-		<timing id="7" start="3.701" end="4.281" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="8" start="4.281" end="5.329" startframe="0" framelength="0" text="Milanzi"/>
+	<timings text="Another chicken flies down and lands on Mrs Charita">
+		<timing id="0" start="0.006" end="0.492" startframe="0" framelength="0" text="Another"/>
+		<timing id="1" start="0.492" end="0.993" startframe="0" framelength="0" text="chicken"/>
+		<timing id="2" start="0.993" end="1.525" startframe="0" framelength="0" text="flies"/>
+		<timing id="3" start="1.525" end="2.368" startframe="0" framelength="0" text="down"/>
+		<timing id="4" start="2.368" end="2.618" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="2.618" end="3.123" startframe="0" framelength="0" text="lands"/>
+		<timing id="6" start="3.123" end="3.314" startframe="0" framelength="0" text="on"/>
+		<timing id="7" start="3.314" end="3.85" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="8" start="3.85" end="4.675833333333333" startframe="0" framelength="0" text="Charita"/>
 	</timings>
 </xml>

@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mrs Milanzi soon stops laughing">
-		<timing id="0" start="0.006" end="0.702" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="1" start="0.702" end="1.509" startframe="0" framelength="0" text="Milanzi"/>
-		<timing id="2" start="1.509" end="1.979" startframe="0" framelength="0" text="soon"/>
-		<timing id="3" start="1.979" end="2.713" startframe="0" framelength="0" text="stops"/>
-		<timing id="4" start="2.713" end="3.6831666666666667" startframe="0" framelength="0" text="laughing"/>
+	<timings text="Mrs Charita soon stops laughing">
+		<timing id="0" start="0.006" end="0.541" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.541" end="1.135" startframe="0" framelength="0" text="Charita"/>
+		<timing id="2" start="1.135" end="1.513" startframe="0" framelength="0" text="soon"/>
+		<timing id="3" start="1.513" end="2.168" startframe="0" framelength="0" text="stops"/>
+		<timing id="4" start="2.168" end="3.0301666666666667" startframe="0" framelength="0" text="laughing"/>
 	</timings>
 </xml>

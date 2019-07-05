@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="One story is about a talking frog">
-		<timing id="0" start="0.006" end="0.389" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.389" end="1.163" startframe="0" framelength="0" text="story"/>
-		<timing id="2" start="1.163" end="1.396" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.396" end="1.871" startframe="0" framelength="0" text="about"/>
-		<timing id="4" start="1.871" end="1.932" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="1.932" end="2.52" startframe="0" framelength="0" text="talking"/>
-		<timing id="6" start="2.52" end="3.422" startframe="0" framelength="0" text="frog"/>
+		<timing id="0" start="0.006" end="0.344" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.344" end="1.024" startframe="0" framelength="0" text="story"/>
+		<timing id="2" start="1.024" end="1.236" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.236" end="1.648" startframe="0" framelength="0" text="about"/>
+		<timing id="4" start="1.648" end="1.699" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.699" end="2.227" startframe="0" framelength="0" text="talking"/>
+		<timing id="6" start="2.227" end="3.0301666666666667" startframe="0" framelength="0" text="frog"/>
 	</timings>
 </xml>

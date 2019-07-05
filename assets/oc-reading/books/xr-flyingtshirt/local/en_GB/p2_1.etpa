@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Mum has hung the T-shirt on the line">
-		<timing id="0" start="0.006" end="0.421" startframe="0" framelength="0" text="Mum"/>
-		<timing id="1" start="0.421" end="0.83" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="0.83" end="1.198" startframe="0" framelength="0" text="hung"/>
-		<timing id="3" start="1.198" end="1.324" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.324" end="2.14" startframe="0" framelength="0" text="T-shirt"/>
-		<timing id="5" start="2.14" end="2.339" startframe="0" framelength="0" text="on"/>
-		<timing id="6" start="2.339" end="2.438" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="2.438" end="3.1085" startframe="0" framelength="0" text="line"/>
+		<timing id="0" start="0.006" end="0.37" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.37" end="0.728" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.728" end="1.046" startframe="0" framelength="0" text="hung"/>
+		<timing id="3" start="1.046" end="1.156" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.156" end="1.869" startframe="0" framelength="0" text="T-shirt"/>
+		<timing id="5" start="1.869" end="2.047" startframe="0" framelength="0" text="on"/>
+		<timing id="6" start="2.047" end="2.142" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.142" end="2.7428333333333335" startframe="0" framelength="0" text="line"/>
 	</timings>
 </xml>

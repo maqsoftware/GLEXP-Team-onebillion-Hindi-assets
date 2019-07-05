@@ -1,9 +1,9 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mo lo ko">
-		<timing id="0" start="0.006" end="0.914" startframe="0" framelength="0" text="Mo"/>
-		<timing id="1" start="0.914" end="1.853" startframe="0" framelength="0" text="lo"/>
-		<timing id="2" start="1.853" end="2.3248333333333333" startframe="0" framelength="0" text="ko"/>
+	<timings text="Ri ti ka">
+		<timing id="0" start="0.006" end="0.51" startframe="0" framelength="0" text="Ri"/>
+		<timing id="1" start="0.51" end="1.204" startframe="0" framelength="0" text="ti"/>
+		<timing id="2" start="1.204" end="1.6718333333333333" startframe="0" framelength="0" text="ka"/>
 	</timings>
 </xml>

@@ -2,22 +2,22 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oxtail Bird is different from all of us We have four legs but he has two wings">
-		<timing id="0" start="0.006" end="0.787" startframe="0" framelength="0" text="Oxtail"/>
-		<timing id="1" start="0.787" end="1.231" startframe="0" framelength="0" text="Bird"/>
-		<timing id="2" start="1.231" end="1.463" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.463" end="2.129" startframe="0" framelength="0" text="different"/>
-		<timing id="4" start="2.129" end="2.56" startframe="0" framelength="0" text="from"/>
-		<timing id="5" start="2.56" end="2.838" startframe="0" framelength="0" text="all"/>
-		<timing id="6" start="2.838" end="3.105" startframe="0" framelength="0" text="of"/>
-		<timing id="7" start="3.105" end="4.172" startframe="0" framelength="0" text="us"/>
-		<timing id="8" start="4.172" end="4.57" startframe="0" framelength="0" text="We"/>
-		<timing id="9" start="4.57" end="4.91" startframe="0" framelength="0" text="have"/>
-		<timing id="10" start="4.91" end="5.37" startframe="0" framelength="0" text="four"/>
-		<timing id="11" start="5.37" end="6.038" startframe="0" framelength="0" text="legs"/>
-		<timing id="12" start="6.038" end="6.405" startframe="0" framelength="0" text="but"/>
-		<timing id="13" start="6.405" end="6.679" startframe="0" framelength="0" text="he"/>
-		<timing id="14" start="6.679" end="7.083" startframe="0" framelength="0" text="has"/>
-		<timing id="15" start="7.083" end="7.333" startframe="0" framelength="0" text="two"/>
-		<timing id="16" start="7.333" end="8.202333333333334" startframe="0" framelength="0" text="wings"/>
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Oxtail"/>
+		<timing id="1" start="0.69" end="1.078" startframe="0" framelength="0" text="Bird"/>
+		<timing id="2" start="1.078" end="1.274" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.274" end="1.856" startframe="0" framelength="0" text="different"/>
+		<timing id="4" start="1.856" end="2.232" startframe="0" framelength="0" text="from"/>
+		<timing id="5" start="2.232" end="2.48" startframe="0" framelength="0" text="all"/>
+		<timing id="6" start="2.48" end="2.716" startframe="0" framelength="0" text="of"/>
+		<timing id="7" start="2.716" end="3.7" startframe="0" framelength="0" text="us"/>
+		<timing id="8" start="3.7" end="4.05" startframe="0" framelength="0" text="We"/>
+		<timing id="9" start="4.05" end="4.345" startframe="0" framelength="0" text="have"/>
+		<timing id="10" start="4.345" end="4.746" startframe="0" framelength="0" text="four"/>
+		<timing id="11" start="4.746" end="5.332" startframe="0" framelength="0" text="legs"/>
+		<timing id="12" start="5.332" end="5.655" startframe="0" framelength="0" text="but"/>
+		<timing id="13" start="5.655" end="5.896" startframe="0" framelength="0" text="he"/>
+		<timing id="14" start="5.896" end="6.24" startframe="0" framelength="0" text="has"/>
+		<timing id="15" start="6.24" end="6.463" startframe="0" framelength="0" text="two"/>
+		<timing id="16" start="6.463" end="7.235833333333333" startframe="0" framelength="0" text="wings"/>
 	</timings>
 </xml>

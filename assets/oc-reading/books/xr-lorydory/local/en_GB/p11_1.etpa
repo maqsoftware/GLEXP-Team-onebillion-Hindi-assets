@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I wonder if this story is true What do you think">
-		<timing id="0" start="0.006" end="0.186" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.186" end="0.854" startframe="0" framelength="0" text="wonder"/>
-		<timing id="2" start="0.854" end="1.089" startframe="0" framelength="0" text="if"/>
-		<timing id="3" start="1.089" end="1.398" startframe="0" framelength="0" text="this"/>
-		<timing id="4" start="1.398" end="1.967" startframe="0" framelength="0" text="story"/>
-		<timing id="5" start="1.967" end="2.206" startframe="0" framelength="0" text="is"/>
-		<timing id="6" start="2.206" end="3.333" startframe="0" framelength="0" text="true"/>
-		<timing id="7" start="3.333" end="3.747" startframe="0" framelength="0" text="What"/>
-		<timing id="8" start="3.747" end="3.877" startframe="0" framelength="0" text="do"/>
-		<timing id="9" start="3.877" end="4.02" startframe="0" framelength="0" text="you"/>
-		<timing id="10" start="4.02" end="4.884833333333333" startframe="0" framelength="0" text="think"/>
+		<timing id="0" start="0.006" end="0.163" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.163" end="0.761" startframe="0" framelength="0" text="wonder"/>
+		<timing id="2" start="0.761" end="0.97" startframe="0" framelength="0" text="if"/>
+		<timing id="3" start="0.97" end="1.239" startframe="0" framelength="0" text="this"/>
+		<timing id="4" start="1.239" end="1.739" startframe="0" framelength="0" text="story"/>
+		<timing id="5" start="1.739" end="1.952" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="1.952" end="2.987" startframe="0" framelength="0" text="true"/>
+		<timing id="7" start="2.987" end="3.351" startframe="0" framelength="0" text="What"/>
+		<timing id="8" start="3.351" end="3.464" startframe="0" framelength="0" text="do"/>
+		<timing id="9" start="3.464" end="3.59" startframe="0" framelength="0" text="you"/>
+		<timing id="10" start="3.59" end="4.362333333333333" startframe="0" framelength="0" text="think"/>
 	</timings>
 </xml>

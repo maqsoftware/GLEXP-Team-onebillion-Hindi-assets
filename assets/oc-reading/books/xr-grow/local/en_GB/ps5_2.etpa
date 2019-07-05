@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I must win he thought I know who can help">
-		<timing id="0" start="0.006" end="0.215" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.215" end="0.676" startframe="0" framelength="0" text="must"/>
-		<timing id="2" start="0.676" end="1.362" startframe="0" framelength="0" text="win"/>
-		<timing id="3" start="1.362" end="1.647" startframe="0" framelength="0" text="he"/>
-		<timing id="4" start="1.647" end="2.852" startframe="0" framelength="0" text="thought"/>
-		<timing id="5" start="2.852" end="3.13" startframe="0" framelength="0" text="I"/>
-		<timing id="6" start="3.13" end="3.481" startframe="0" framelength="0" text="know"/>
-		<timing id="7" start="3.481" end="3.784" startframe="0" framelength="0" text="who"/>
-		<timing id="8" start="3.784" end="4.122" startframe="0" framelength="0" text="can"/>
-		<timing id="9" start="4.122" end="4.989333333333334" startframe="0" framelength="0" text="help"/>
+		<timing id="0" start="0.006" end="0.19" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.19" end="0.591" startframe="0" framelength="0" text="must"/>
+		<timing id="2" start="0.591" end="1.227" startframe="0" framelength="0" text="win"/>
+		<timing id="3" start="1.227" end="1.478" startframe="0" framelength="0" text="he"/>
+		<timing id="4" start="1.478" end="2.594" startframe="0" framelength="0" text="thought"/>
+		<timing id="5" start="2.594" end="2.838" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.838" end="3.145" startframe="0" framelength="0" text="know"/>
+		<timing id="7" start="3.145" end="3.413" startframe="0" framelength="0" text="who"/>
+		<timing id="8" start="3.413" end="3.709" startframe="0" framelength="0" text="can"/>
+		<timing id="9" start="3.709" end="4.466833333333334" startframe="0" framelength="0" text="help"/>
 	</timings>
 </xml>

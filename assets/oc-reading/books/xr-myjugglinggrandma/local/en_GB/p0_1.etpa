@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="My juggling Grandma">
-		<timing id="0" start="0.006" end="0.328" startframe="0" framelength="0" text="My"/>
-		<timing id="1" start="0.328" end="1.017" startframe="0" framelength="0" text="juggling"/>
-		<timing id="2" start="1.017" end="2.0375" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="0" start="0.006" end="0.293" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.293" end="0.9" startframe="0" framelength="0" text="juggling"/>
+		<timing id="2" start="0.9" end="1.8023333333333333" startframe="0" framelength="0" text="Grandma"/>
 	</timings>
 </xml>

@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="When I arrived to the river I drank and drank It was delicious">
-		<timing id="0" start="0.006" end="0.368" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.368" end="0.616" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.616" end="1.168" startframe="0" framelength="0" text="arrived"/>
-		<timing id="3" start="1.168" end="1.36" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.36" end="1.544" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.544" end="2.463" startframe="0" framelength="0" text="river"/>
-		<timing id="6" start="2.463" end="2.679" startframe="0" framelength="0" text="I"/>
-		<timing id="7" start="2.679" end="3.302" startframe="0" framelength="0" text="drank"/>
-		<timing id="8" start="3.302" end="3.547" startframe="0" framelength="0" text="and"/>
-		<timing id="9" start="3.547" end="4.785" startframe="0" framelength="0" text="drank"/>
-		<timing id="10" start="4.785" end="5.008" startframe="0" framelength="0" text="It"/>
-		<timing id="11" start="5.008" end="5.298" startframe="0" framelength="0" text="was"/>
-		<timing id="12" start="5.298" end="6.5305" startframe="0" framelength="0" text="delicious"/>
+		<timing id="0" start="0.006" end="0.324" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.324" end="0.54" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.54" end="1.028" startframe="0" framelength="0" text="arrived"/>
+		<timing id="3" start="1.028" end="1.194" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.194" end="1.354" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.354" end="2.187" startframe="0" framelength="0" text="river"/>
+		<timing id="6" start="2.187" end="2.379" startframe="0" framelength="0" text="I"/>
+		<timing id="7" start="2.379" end="2.922" startframe="0" framelength="0" text="drank"/>
+		<timing id="8" start="2.922" end="3.126" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="3.126" end="4.261" startframe="0" framelength="0" text="drank"/>
+		<timing id="10" start="4.261" end="4.459" startframe="0" framelength="0" text="It"/>
+		<timing id="11" start="4.459" end="4.722" startframe="0" framelength="0" text="was"/>
+		<timing id="12" start="4.722" end="5.799166666666666" startframe="0" framelength="0" text="delicious"/>
 	</timings>
 </xml>

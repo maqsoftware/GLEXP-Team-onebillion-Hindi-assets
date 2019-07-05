@@ -1,25 +1,25 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I’ll give you each a garden and lots of seeds said mum But Dalitso will get the biggest garden">
-		<timing id="0" start="0.006" end="0.408" startframe="0" framelength="0" text="I’ll"/>
-		<timing id="1" start="0.408" end="0.738" startframe="0" framelength="0" text="give"/>
-		<timing id="2" start="0.738" end="1.134" startframe="0" framelength="0" text="you"/>
-		<timing id="3" start="1.134" end="1.43" startframe="0" framelength="0" text="each"/>
-		<timing id="4" start="1.43" end="1.496" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="1.496" end="2.575" startframe="0" framelength="0" text="garden"/>
-		<timing id="6" start="2.575" end="2.907" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="2.907" end="3.498" startframe="0" framelength="0" text="lots"/>
-		<timing id="8" start="3.498" end="3.639" startframe="0" framelength="0" text="of"/>
-		<timing id="9" start="3.639" end="4.755" startframe="0" framelength="0" text="seeds"/>
-		<timing id="10" start="4.755" end="5.297" startframe="0" framelength="0" text="said"/>
-		<timing id="11" start="5.297" end="6.387" startframe="0" framelength="0" text="mum"/>
-		<timing id="12" start="6.387" end="6.768" startframe="0" framelength="0" text="But"/>
-		<timing id="13" start="6.768" end="7.623" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="14" start="7.623" end="7.93" startframe="0" framelength="0" text="will"/>
-		<timing id="15" start="7.93" end="8.238" startframe="0" framelength="0" text="get"/>
-		<timing id="16" start="8.238" end="8.347" startframe="0" framelength="0" text="the"/>
-		<timing id="17" start="8.347" end="9.024" startframe="0" framelength="0" text="biggest"/>
-		<timing id="18" start="9.024" end="10.004833333333334" startframe="0" framelength="0" text="garden"/>
+	<timings text="I’ll give you each a garden and lots of seeds said mum But Aditya will get the biggest garden">
+		<timing id="0" start="0.006" end="0.361" startframe="0" framelength="0" text="I’ll"/>
+		<timing id="1" start="0.361" end="0.656" startframe="0" framelength="0" text="give"/>
+		<timing id="2" start="0.656" end="1.001" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="1.001" end="1.262" startframe="0" framelength="0" text="each"/>
+		<timing id="4" start="1.262" end="1.32" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.32" end="2.288" startframe="0" framelength="0" text="garden"/>
+		<timing id="6" start="2.288" end="2.587" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.587" end="3.107" startframe="0" framelength="0" text="lots"/>
+		<timing id="8" start="3.107" end="3.229" startframe="0" framelength="0" text="of"/>
+		<timing id="9" start="3.229" end="4.232" startframe="0" framelength="0" text="seeds"/>
+		<timing id="10" start="4.232" end="4.715" startframe="0" framelength="0" text="said"/>
+		<timing id="11" start="4.715" end="5.727" startframe="0" framelength="0" text="mum"/>
+		<timing id="12" start="5.727" end="6.08" startframe="0" framelength="0" text="But"/>
+		<timing id="13" start="6.08" end="6.854" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="14" start="6.854" end="7.169" startframe="0" framelength="0" text="will"/>
+		<timing id="15" start="7.169" end="7.469" startframe="0" framelength="0" text="get"/>
+		<timing id="16" start="7.469" end="7.603" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="7.603" end="8.221" startframe="0" framelength="0" text="biggest"/>
+		<timing id="18" start="8.221" end="9.0905" startframe="0" framelength="0" text="garden"/>
 	</timings>
 </xml>

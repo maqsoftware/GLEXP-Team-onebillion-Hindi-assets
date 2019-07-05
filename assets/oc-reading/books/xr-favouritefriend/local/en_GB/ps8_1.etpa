@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oxtail Bird can reach just the right spot He is my favourite friend">
-		<timing id="0" start="0.006" end="0.787" startframe="0" framelength="0" text="Oxtail"/>
-		<timing id="1" start="0.787" end="1.254" startframe="0" framelength="0" text="Bird"/>
-		<timing id="2" start="1.254" end="1.597" startframe="0" framelength="0" text="can"/>
-		<timing id="3" start="1.597" end="2.148" startframe="0" framelength="0" text="reach"/>
-		<timing id="4" start="2.148" end="2.569" startframe="0" framelength="0" text="just"/>
-		<timing id="5" start="2.569" end="2.705" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.705" end="3.229" startframe="0" framelength="0" text="right"/>
-		<timing id="7" start="3.229" end="4.508" startframe="0" framelength="0" text="spot"/>
-		<timing id="8" start="4.508" end="4.881" startframe="0" framelength="0" text="He"/>
-		<timing id="9" start="4.881" end="5.08" startframe="0" framelength="0" text="is"/>
-		<timing id="10" start="5.08" end="5.35" startframe="0" framelength="0" text="my"/>
-		<timing id="11" start="5.35" end="6.039" startframe="0" framelength="0" text="favourite"/>
-		<timing id="12" start="6.039" end="6.870166666666667" startframe="0" framelength="0" text="friend"/>
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Oxtail"/>
+		<timing id="1" start="0.69" end="1.103" startframe="0" framelength="0" text="Bird"/>
+		<timing id="2" start="1.103" end="1.401" startframe="0" framelength="0" text="can"/>
+		<timing id="3" start="1.401" end="1.896" startframe="0" framelength="0" text="reach"/>
+		<timing id="4" start="1.896" end="2.275" startframe="0" framelength="0" text="just"/>
+		<timing id="5" start="2.275" end="2.391" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.391" end="2.858" startframe="0" framelength="0" text="right"/>
+		<timing id="7" start="2.858" end="4.029" startframe="0" framelength="0" text="spot"/>
+		<timing id="8" start="4.029" end="4.352" startframe="0" framelength="0" text="He"/>
+		<timing id="9" start="4.352" end="4.527" startframe="0" framelength="0" text="is"/>
+		<timing id="10" start="4.527" end="4.767" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.767" end="5.377" startframe="0" framelength="0" text="favourite"/>
+		<timing id="12" start="5.377" end="6.112666666666667" startframe="0" framelength="0" text="friend"/>
 	</timings>
 </xml>

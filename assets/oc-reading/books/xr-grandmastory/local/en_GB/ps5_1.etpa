@@ -1,24 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="‘Come with me little girl said the monster He snatched Kala up and ran off into the forest">
-		<timing id="0" start="0.006" end="0.326" startframe="0" framelength="0" text="‘Come"/>
-		<timing id="1" start="0.326" end="0.548" startframe="0" framelength="0" text="with"/>
-		<timing id="2" start="0.548" end="1.271" startframe="0" framelength="0" text="me"/>
-		<timing id="3" start="1.271" end="1.805" startframe="0" framelength="0" text="little"/>
-		<timing id="4" start="1.805" end="2.7" startframe="0" framelength="0" text="girl"/>
-		<timing id="5" start="2.7" end="3.186" startframe="0" framelength="0" text="said"/>
-		<timing id="6" start="3.186" end="3.343" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="3.343" end="4.715" startframe="0" framelength="0" text="monster"/>
-		<timing id="8" start="4.715" end="4.959" startframe="0" framelength="0" text="He"/>
-		<timing id="9" start="4.959" end="5.732" startframe="0" framelength="0" text="snatched"/>
-		<timing id="10" start="5.732" end="6.38" startframe="0" framelength="0" text="Kala"/>
-		<timing id="11" start="6.38" end="6.882" startframe="0" framelength="0" text="up"/>
-		<timing id="12" start="6.882" end="7.211" startframe="0" framelength="0" text="and"/>
-		<timing id="13" start="7.211" end="7.658" startframe="0" framelength="0" text="ran"/>
-		<timing id="14" start="7.658" end="7.971" startframe="0" framelength="0" text="off"/>
-		<timing id="15" start="7.971" end="8.247" startframe="0" framelength="0" text="into"/>
-		<timing id="16" start="8.247" end="8.401" startframe="0" framelength="0" text="the"/>
-		<timing id="17" start="8.401" end="9.456333333333333" startframe="0" framelength="0" text="forest"/>
+	<timings text="‘Come with me little girl said the monster He snatched Divya up and ran off into the forest">
+		<timing id="0" start="0.006" end="0.285" startframe="0" framelength="0" text="‘Come"/>
+		<timing id="1" start="0.285" end="0.478" startframe="0" framelength="0" text="with"/>
+		<timing id="2" start="0.478" end="1.137" startframe="0" framelength="0" text="me"/>
+		<timing id="3" start="1.137" end="1.604" startframe="0" framelength="0" text="little"/>
+		<timing id="4" start="1.604" end="2.408" startframe="0" framelength="0" text="girl"/>
+		<timing id="5" start="2.408" end="2.835" startframe="0" framelength="0" text="said"/>
+		<timing id="6" start="2.835" end="2.973" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.973" end="4.231" startframe="0" framelength="0" text="monster"/>
+		<timing id="8" start="4.231" end="4.449" startframe="0" framelength="0" text="He"/>
+		<timing id="9" start="4.449" end="5.216" startframe="0" framelength="0" text="snatched"/>
+		<timing id="10" start="5.216" end="5.777" startframe="0" framelength="0" text="Divya"/>
+		<timing id="11" start="5.777" end="6.249" startframe="0" framelength="0" text="up"/>
+		<timing id="12" start="6.249" end="6.545" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="6.545" end="6.902" startframe="0" framelength="0" text="ran"/>
+		<timing id="14" start="6.902" end="7.193" startframe="0" framelength="0" text="off"/>
+		<timing id="15" start="7.193" end="7.432" startframe="0" framelength="0" text="into"/>
+		<timing id="16" start="7.432" end="7.568" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="7.568" end="8.515833333333333" startframe="0" framelength="0" text="forest"/>
 	</timings>
 </xml>

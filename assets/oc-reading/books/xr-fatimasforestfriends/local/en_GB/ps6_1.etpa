@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Fatima reached a big branch The squirrel was waiting there for her">
-		<timing id="0" start="0.006" end="0.94" startframe="0" framelength="0" text="Fatima"/>
-		<timing id="1" start="0.94" end="1.588" startframe="0" framelength="0" text="reached"/>
-		<timing id="2" start="1.588" end="1.634" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.634" end="1.971" startframe="0" framelength="0" text="big"/>
-		<timing id="4" start="1.971" end="3.273" startframe="0" framelength="0" text="branch"/>
-		<timing id="5" start="3.273" end="3.441" startframe="0" framelength="0" text="The"/>
-		<timing id="6" start="3.441" end="4.13" startframe="0" framelength="0" text="squirrel"/>
-		<timing id="7" start="4.13" end="4.489" startframe="0" framelength="0" text="was"/>
-		<timing id="8" start="4.489" end="5.093" startframe="0" framelength="0" text="waiting"/>
-		<timing id="9" start="5.093" end="5.401" startframe="0" framelength="0" text="there"/>
-		<timing id="10" start="5.401" end="5.664" startframe="0" framelength="0" text="for"/>
-		<timing id="11" start="5.664" end="6.321666666666666" startframe="0" framelength="0" text="her"/>
+	<timings text="Sita reached a big branch The squirrel was waiting there for her">
+		<timing id="0" start="0.006" end="0.603" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.603" end="1.125" startframe="0" framelength="0" text="reached"/>
+		<timing id="2" start="1.125" end="1.171" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.171" end="1.481" startframe="0" framelength="0" text="big"/>
+		<timing id="4" start="1.481" end="2.666" startframe="0" framelength="0" text="branch"/>
+		<timing id="5" start="2.666" end="2.815" startframe="0" framelength="0" text="The"/>
+		<timing id="6" start="2.815" end="3.428" startframe="0" framelength="0" text="squirrel"/>
+		<timing id="7" start="3.428" end="3.748" startframe="0" framelength="0" text="was"/>
+		<timing id="8" start="3.748" end="4.284" startframe="0" framelength="0" text="waiting"/>
+		<timing id="9" start="4.284" end="4.557" startframe="0" framelength="0" text="there"/>
+		<timing id="10" start="4.557" end="4.788" startframe="0" framelength="0" text="for"/>
+		<timing id="11" start="4.788" end="5.381166666666667" startframe="0" framelength="0" text="her"/>
 	</timings>
 </xml>

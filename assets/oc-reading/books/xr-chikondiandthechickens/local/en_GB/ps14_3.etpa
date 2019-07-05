@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It is the best show the guests have ever seen">
-		<timing id="0" start="0.006" end="0.238" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.238" end="0.422" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.422" end="0.566" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.566" end="1.08" startframe="0" framelength="0" text="best"/>
-		<timing id="4" start="1.08" end="1.502" startframe="0" framelength="0" text="show"/>
-		<timing id="5" start="1.502" end="1.66" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="1.66" end="2.213" startframe="0" framelength="0" text="guests"/>
-		<timing id="7" start="2.213" end="2.585" startframe="0" framelength="0" text="have"/>
-		<timing id="8" start="2.585" end="2.949" startframe="0" framelength="0" text="ever"/>
-		<timing id="9" start="2.949" end="3.7616666666666667" startframe="0" framelength="0" text="seen"/>
+		<timing id="0" start="0.006" end="0.207" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.207" end="0.37" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.37" end="0.495" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.495" end="0.947" startframe="0" framelength="0" text="best"/>
+		<timing id="4" start="0.947" end="1.315" startframe="0" framelength="0" text="show"/>
+		<timing id="5" start="1.315" end="1.448" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.448" end="1.935" startframe="0" framelength="0" text="guests"/>
+		<timing id="7" start="1.935" end="2.252" startframe="0" framelength="0" text="have"/>
+		<timing id="8" start="2.252" end="2.567" startframe="0" framelength="0" text="ever"/>
+		<timing id="9" start="2.567" end="3.291333333333333" startframe="0" framelength="0" text="seen"/>
 	</timings>
 </xml>

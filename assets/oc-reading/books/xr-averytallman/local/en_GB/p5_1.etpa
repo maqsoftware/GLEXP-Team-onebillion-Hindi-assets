@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="People tell him he is too tall But what can he do">
-		<timing id="0" start="0.006" end="0.511" startframe="0" framelength="0" text="People"/>
-		<timing id="1" start="0.511" end="0.875" startframe="0" framelength="0" text="tell"/>
-		<timing id="2" start="0.875" end="1.167" startframe="0" framelength="0" text="him"/>
-		<timing id="3" start="1.167" end="1.424" startframe="0" framelength="0" text="he"/>
-		<timing id="4" start="1.424" end="1.607" startframe="0" framelength="0" text="is"/>
-		<timing id="5" start="1.607" end="1.916" startframe="0" framelength="0" text="too"/>
-		<timing id="6" start="1.916" end="2.962" startframe="0" framelength="0" text="tall"/>
-		<timing id="7" start="2.962" end="3.323" startframe="0" framelength="0" text="But"/>
-		<timing id="8" start="3.323" end="3.686" startframe="0" framelength="0" text="what"/>
-		<timing id="9" start="3.686" end="3.959" startframe="0" framelength="0" text="can"/>
-		<timing id="10" start="3.959" end="4.208" startframe="0" framelength="0" text="he"/>
-		<timing id="11" start="4.208" end="4.884833333333333" startframe="0" framelength="0" text="do"/>
+		<timing id="0" start="0.006" end="0.456" startframe="0" framelength="0" text="People"/>
+		<timing id="1" start="0.456" end="0.771" startframe="0" framelength="0" text="tell"/>
+		<timing id="2" start="0.771" end="1.031" startframe="0" framelength="0" text="him"/>
+		<timing id="3" start="1.031" end="1.258" startframe="0" framelength="0" text="he"/>
+		<timing id="4" start="1.258" end="1.416" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="1.416" end="1.688" startframe="0" framelength="0" text="too"/>
+		<timing id="6" start="1.688" end="2.655" startframe="0" framelength="0" text="tall"/>
+		<timing id="7" start="2.655" end="2.976" startframe="0" framelength="0" text="But"/>
+		<timing id="8" start="2.976" end="3.299" startframe="0" framelength="0" text="what"/>
+		<timing id="9" start="3.299" end="3.539" startframe="0" framelength="0" text="can"/>
+		<timing id="10" start="3.539" end="3.762" startframe="0" framelength="0" text="he"/>
+		<timing id="11" start="3.762" end="4.362333333333333" startframe="0" framelength="0" text="do"/>
 	</timings>
 </xml>

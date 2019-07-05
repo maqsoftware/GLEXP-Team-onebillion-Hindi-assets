@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="At that moment the door opens In comes Dalitso He is smiling Hello he says">
-		<timing id="0" start="0.006" end="0.282" startframe="0" framelength="0" text="At"/>
-		<timing id="1" start="0.282" end="0.739" startframe="0" framelength="0" text="that"/>
-		<timing id="2" start="0.739" end="1.472" startframe="0" framelength="0" text="moment"/>
-		<timing id="3" start="1.472" end="1.631" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.631" end="2.116" startframe="0" framelength="0" text="door"/>
-		<timing id="5" start="2.116" end="3.383" startframe="0" framelength="0" text="opens"/>
-		<timing id="6" start="3.383" end="3.657" startframe="0" framelength="0" text="In"/>
-		<timing id="7" start="3.657" end="4.185" startframe="0" framelength="0" text="comes"/>
-		<timing id="8" start="4.185" end="5.584" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="9" start="5.584" end="5.909" startframe="0" framelength="0" text="He"/>
-		<timing id="10" start="5.909" end="6.1" startframe="0" framelength="0" text="is"/>
-		<timing id="11" start="6.1" end="7.426" startframe="0" framelength="0" text="smiling"/>
-		<timing id="12" start="7.426" end="8.481" startframe="0" framelength="0" text="Hello"/>
-		<timing id="13" start="8.481" end="8.73" startframe="0" framelength="0" text="he"/>
-		<timing id="14" start="8.73" end="9.639166666666666" startframe="0" framelength="0" text="says"/>
+	<timings text="At that moment the door opens In comes Aditya He is smiling Hello he says">
+		<timing id="0" start="0.006" end="0.24" startframe="0" framelength="0" text="At"/>
+		<timing id="1" start="0.24" end="0.633" startframe="0" framelength="0" text="that"/>
+		<timing id="2" start="0.633" end="1.266" startframe="0" framelength="0" text="moment"/>
+		<timing id="3" start="1.266" end="1.398" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.398" end="1.825" startframe="0" framelength="0" text="door"/>
+		<timing id="5" start="1.825" end="2.975" startframe="0" framelength="0" text="opens"/>
+		<timing id="6" start="2.975" end="3.198" startframe="0" framelength="0" text="In"/>
+		<timing id="7" start="3.198" end="3.636" startframe="0" framelength="0" text="comes"/>
+		<timing id="8" start="3.636" end="4.799" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="9" start="4.799" end="5.088" startframe="0" framelength="0" text="He"/>
+		<timing id="10" start="5.088" end="5.256" startframe="0" framelength="0" text="is"/>
+		<timing id="11" start="5.256" end="6.473" startframe="0" framelength="0" text="smiling"/>
+		<timing id="12" start="6.473" end="7.424" startframe="0" framelength="0" text="Hello"/>
+		<timing id="13" start="7.424" end="7.651" startframe="0" framelength="0" text="he"/>
+		<timing id="14" start="7.651" end="8.463666666666667" startframe="0" framelength="0" text="says"/>
 	</timings>
 </xml>

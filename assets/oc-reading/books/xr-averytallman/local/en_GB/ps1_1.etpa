@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Look at this man His hoe is too short">
-		<timing id="0" start="0.006" end="0.357" startframe="0" framelength="0" text="Look"/>
-		<timing id="1" start="0.357" end="0.512" startframe="0" framelength="0" text="at"/>
-		<timing id="2" start="0.512" end="0.915" startframe="0" framelength="0" text="this"/>
-		<timing id="3" start="0.915" end="1.978" startframe="0" framelength="0" text="man"/>
-		<timing id="4" start="1.978" end="2.388" startframe="0" framelength="0" text="His"/>
-		<timing id="5" start="2.388" end="2.712" startframe="0" framelength="0" text="hoe"/>
-		<timing id="6" start="2.712" end="2.988" startframe="0" framelength="0" text="is"/>
-		<timing id="7" start="2.988" end="3.226" startframe="0" framelength="0" text="too"/>
-		<timing id="8" start="3.226" end="3.9966666666666666" startframe="0" framelength="0" text="short"/>
+		<timing id="0" start="0.006" end="0.315" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.315" end="0.455" startframe="0" framelength="0" text="at"/>
+		<timing id="2" start="0.455" end="0.803" startframe="0" framelength="0" text="this"/>
+		<timing id="3" start="0.803" end="1.784" startframe="0" framelength="0" text="man"/>
+		<timing id="4" start="1.784" end="2.146" startframe="0" framelength="0" text="His"/>
+		<timing id="5" start="2.146" end="2.434" startframe="0" framelength="0" text="hoe"/>
+		<timing id="6" start="2.434" end="2.687" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="2.687" end="2.9" startframe="0" framelength="0" text="too"/>
+		<timing id="8" start="2.9" end="3.604833333333333" startframe="0" framelength="0" text="short"/>
 	</timings>
 </xml>

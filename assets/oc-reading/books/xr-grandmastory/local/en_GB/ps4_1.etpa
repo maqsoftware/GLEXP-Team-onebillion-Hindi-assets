@@ -1,25 +1,25 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="One morning while Kala was singing a monster appeared He had thick fur and long arms and red eyes">
-		<timing id="0" start="0.006" end="0.46" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.46" end="1.502" startframe="0" framelength="0" text="morning"/>
-		<timing id="2" start="1.502" end="2.019" startframe="0" framelength="0" text="while"/>
-		<timing id="3" start="2.019" end="2.54" startframe="0" framelength="0" text="Kala"/>
-		<timing id="4" start="2.54" end="2.778" startframe="0" framelength="0" text="was"/>
-		<timing id="5" start="2.778" end="3.87" startframe="0" framelength="0" text="singing"/>
-		<timing id="6" start="3.87" end="3.939" startframe="0" framelength="0" text="a"/>
-		<timing id="7" start="3.939" end="4.68" startframe="0" framelength="0" text="monster"/>
-		<timing id="8" start="4.68" end="5.982" startframe="0" framelength="0" text="appeared"/>
-		<timing id="9" start="5.982" end="6.295" startframe="0" framelength="0" text="He"/>
-		<timing id="10" start="6.295" end="6.71" startframe="0" framelength="0" text="had"/>
-		<timing id="11" start="6.71" end="7.061" startframe="0" framelength="0" text="thick"/>
-		<timing id="12" start="7.061" end="7.96" startframe="0" framelength="0" text="fur"/>
-		<timing id="13" start="7.96" end="8.344" startframe="0" framelength="0" text="and"/>
-		<timing id="14" start="8.344" end="8.838" startframe="0" framelength="0" text="long"/>
-		<timing id="15" start="8.838" end="9.806" startframe="0" framelength="0" text="arms"/>
-		<timing id="16" start="9.806" end="10.174" startframe="0" framelength="0" text="and"/>
-		<timing id="17" start="10.174" end="10.551" startframe="0" framelength="0" text="red"/>
-		<timing id="18" start="10.551" end="11.337166666666667" startframe="0" framelength="0" text="eyes"/>
+	<timings text="One morning while Divya was singing a monster appeared He had thick fur and long arms and red eyes">
+		<timing id="0" start="0.006" end="0.409" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.409" end="1.353" startframe="0" framelength="0" text="morning"/>
+		<timing id="2" start="1.353" end="1.806" startframe="0" framelength="0" text="while"/>
+		<timing id="3" start="1.806" end="2.308" startframe="0" framelength="0" text="Divya"/>
+		<timing id="4" start="2.308" end="2.521" startframe="0" framelength="0" text="was"/>
+		<timing id="5" start="2.521" end="3.42" startframe="0" framelength="0" text="singing"/>
+		<timing id="6" start="3.42" end="3.481" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="3.481" end="4.133" startframe="0" framelength="0" text="monster"/>
+		<timing id="8" start="4.133" end="5.306" startframe="0" framelength="0" text="appeared"/>
+		<timing id="9" start="5.306" end="5.581" startframe="0" framelength="0" text="He"/>
+		<timing id="10" start="5.581" end="5.944" startframe="0" framelength="0" text="had"/>
+		<timing id="11" start="5.944" end="6.255" startframe="0" framelength="0" text="thick"/>
+		<timing id="12" start="6.255" end="7.064" startframe="0" framelength="0" text="fur"/>
+		<timing id="13" start="7.064" end="7.403" startframe="0" framelength="0" text="and"/>
+		<timing id="14" start="7.403" end="7.847" startframe="0" framelength="0" text="long"/>
+		<timing id="15" start="7.847" end="8.724" startframe="0" framelength="0" text="arms"/>
+		<timing id="16" start="8.724" end="9.043" startframe="0" framelength="0" text="and"/>
+		<timing id="17" start="9.043" end="9.375" startframe="0" framelength="0" text="red"/>
+		<timing id="18" start="9.375" end="10.083166666666667" startframe="0" framelength="0" text="eyes"/>
 	</timings>
 </xml>

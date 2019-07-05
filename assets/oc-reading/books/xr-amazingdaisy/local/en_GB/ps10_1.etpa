@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then one day Daisy flew up into the sky Far above the shed Amazing">
-		<timing id="0" start="0.006" end="0.378" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.378" end="0.776" startframe="0" framelength="0" text="one"/>
-		<timing id="2" start="0.776" end="1.503" startframe="0" framelength="0" text="day"/>
-		<timing id="3" start="1.503" end="2.07" startframe="0" framelength="0" text="Daisy"/>
-		<timing id="4" start="2.07" end="2.454" startframe="0" framelength="0" text="flew"/>
-		<timing id="5" start="2.454" end="2.65" startframe="0" framelength="0" text="up"/>
-		<timing id="6" start="2.65" end="2.965" startframe="0" framelength="0" text="into"/>
-		<timing id="7" start="2.965" end="3.122" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.122" end="4.349" startframe="0" framelength="0" text="sky"/>
-		<timing id="9" start="4.349" end="4.874" startframe="0" framelength="0" text="Far"/>
-		<timing id="10" start="4.874" end="5.248" startframe="0" framelength="0" text="above"/>
-		<timing id="11" start="5.248" end="5.418" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="5.418" end="6.422" startframe="0" framelength="0" text="shed"/>
-		<timing id="13" start="6.422" end="7.444833333333333" startframe="0" framelength="0" text="Amazing"/>
+	<timings text="Then one day Meghna flew up into the sky Far above the shed Amazing">
+		<timing id="0" start="0.006" end="0.334" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.334" end="0.684" startframe="0" framelength="0" text="one"/>
+		<timing id="2" start="0.684" end="1.357" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.357" end="2.034" startframe="0" framelength="0" text="Meghna"/>
+		<timing id="4" start="2.034" end="2.345" startframe="0" framelength="0" text="flew"/>
+		<timing id="5" start="2.345" end="2.519" startframe="0" framelength="0" text="up"/>
+		<timing id="6" start="2.519" end="2.801" startframe="0" framelength="0" text="into"/>
+		<timing id="7" start="2.801" end="2.945" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.945" end="4.06" startframe="0" framelength="0" text="sky"/>
+		<timing id="9" start="4.06" end="4.517" startframe="0" framelength="0" text="Far"/>
+		<timing id="10" start="4.517" end="4.847" startframe="0" framelength="0" text="above"/>
+		<timing id="11" start="4.847" end="4.999" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.999" end="5.929" startframe="0" framelength="0" text="shed"/>
+		<timing id="13" start="5.929" end="6.844" startframe="0" framelength="0" text="Amazing"/>
 	</timings>
 </xml>

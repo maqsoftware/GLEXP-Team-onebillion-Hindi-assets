@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Do you like Vinay’s green gate">
-		<timing id="0" start="0.006" end="0.2" startframe="0" framelength="0" text="Do"/>
-		<timing id="1" start="0.2" end="0.376" startframe="0" framelength="0" text="you"/>
-		<timing id="2" start="0.376" end="0.758" startframe="0" framelength="0" text="like"/>
-		<timing id="3" start="0.758" end="1.423" startframe="0" framelength="0" text="Vinay’s"/>
-		<timing id="4" start="1.423" end="1.893" startframe="0" framelength="0" text="green"/>
-		<timing id="5" start="1.893" end="2.6905" startframe="0" framelength="0" text="gate"/>
+		<timing id="0" start="0.006" end="0.17" startframe="0" framelength="0" text="Do"/>
+		<timing id="1" start="0.17" end="0.33" startframe="0" framelength="0" text="you"/>
+		<timing id="2" start="0.33" end="0.66" startframe="0" framelength="0" text="like"/>
+		<timing id="3" start="0.66" end="1.25" startframe="0" framelength="0" text="Vinay’s"/>
+		<timing id="4" start="1.25" end="1.657" startframe="0" framelength="0" text="green"/>
+		<timing id="5" start="1.657" end="2.3771666666666667" startframe="0" framelength="0" text="gate"/>
 	</timings>
 </xml>

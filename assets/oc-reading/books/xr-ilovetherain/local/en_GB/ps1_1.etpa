@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Look outside It is raining">
-		<timing id="0" start="0.006" end="0.446" startframe="0" framelength="0" text="Look"/>
-		<timing id="1" start="0.446" end="1.972" startframe="0" framelength="0" text="outside"/>
-		<timing id="2" start="1.972" end="2.237" startframe="0" framelength="0" text="It"/>
-		<timing id="3" start="2.237" end="2.506" startframe="0" framelength="0" text="is"/>
-		<timing id="4" start="2.506" end="3.3175" startframe="0" framelength="0" text="raining"/>
+		<timing id="0" start="0.006" end="0.391" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.391" end="1.781" startframe="0" framelength="0" text="outside"/>
+		<timing id="2" start="1.781" end="2.014" startframe="0" framelength="0" text="It"/>
+		<timing id="3" start="2.014" end="2.256" startframe="0" framelength="0" text="is"/>
+		<timing id="4" start="2.256" end="2.978" startframe="0" framelength="0" text="raining"/>
 	</timings>
 </xml>

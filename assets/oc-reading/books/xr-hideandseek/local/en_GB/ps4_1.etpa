@@ -2,19 +2,19 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She does not make a sound Not even when an ant bites her foot">
-		<timing id="0" start="0.006" end="0.31" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.31" end="0.722" startframe="0" framelength="0" text="does"/>
-		<timing id="2" start="0.722" end="1.16" startframe="0" framelength="0" text="not"/>
-		<timing id="3" start="1.16" end="1.546" startframe="0" framelength="0" text="make"/>
-		<timing id="4" start="1.546" end="1.617" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="1.617" end="2.78" startframe="0" framelength="0" text="sound"/>
-		<timing id="6" start="2.78" end="3.331" startframe="0" framelength="0" text="Not"/>
-		<timing id="7" start="3.331" end="3.696" startframe="0" framelength="0" text="even"/>
-		<timing id="8" start="3.696" end="4.075" startframe="0" framelength="0" text="when"/>
-		<timing id="9" start="4.075" end="4.25" startframe="0" framelength="0" text="an"/>
-		<timing id="10" start="4.25" end="4.664" startframe="0" framelength="0" text="ant"/>
-		<timing id="11" start="4.664" end="5.262" startframe="0" framelength="0" text="bites"/>
-		<timing id="12" start="5.262" end="5.481" startframe="0" framelength="0" text="her"/>
-		<timing id="13" start="5.481" end="6.243166666666666" startframe="0" framelength="0" text="foot"/>
+		<timing id="0" start="0.006" end="0.274" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.274" end="0.642" startframe="0" framelength="0" text="does"/>
+		<timing id="2" start="0.642" end="1.029" startframe="0" framelength="0" text="not"/>
+		<timing id="3" start="1.029" end="1.358" startframe="0" framelength="0" text="make"/>
+		<timing id="4" start="1.358" end="1.422" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.422" end="2.497" startframe="0" framelength="0" text="sound"/>
+		<timing id="6" start="2.497" end="2.983" startframe="0" framelength="0" text="Not"/>
+		<timing id="7" start="2.983" end="3.304" startframe="0" framelength="0" text="even"/>
+		<timing id="8" start="3.304" end="3.637" startframe="0" framelength="0" text="when"/>
+		<timing id="9" start="3.637" end="3.793" startframe="0" framelength="0" text="an"/>
+		<timing id="10" start="3.793" end="4.169" startframe="0" framelength="0" text="ant"/>
+		<timing id="11" start="4.169" end="4.689" startframe="0" framelength="0" text="bites"/>
+		<timing id="12" start="4.689" end="4.881" startframe="0" framelength="0" text="her"/>
+		<timing id="13" start="4.881" end="5.538" startframe="0" framelength="0" text="foot"/>
 	</timings>
 </xml>

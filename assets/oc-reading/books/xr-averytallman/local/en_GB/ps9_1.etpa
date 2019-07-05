@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="He bought a very tall bicycle">
-		<timing id="0" start="0.006" end="0.208" startframe="0" framelength="0" text="He"/>
-		<timing id="1" start="0.208" end="0.649" startframe="0" framelength="0" text="bought"/>
-		<timing id="2" start="0.649" end="0.706" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.706" end="1.123" startframe="0" framelength="0" text="very"/>
-		<timing id="4" start="1.123" end="1.562" startframe="0" framelength="0" text="tall"/>
-		<timing id="5" start="1.562" end="2.769" startframe="0" framelength="0" text="bicycle"/>
+		<timing id="0" start="0.006" end="0.178" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.178" end="0.563" startframe="0" framelength="0" text="bought"/>
+		<timing id="2" start="0.563" end="0.612" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.612" end="0.983" startframe="0" framelength="0" text="very"/>
+		<timing id="4" start="0.983" end="1.375" startframe="0" framelength="0" text="tall"/>
+		<timing id="5" start="1.375" end="2.4555" startframe="0" framelength="0" text="bicycle"/>
 	</timings>
 </xml>

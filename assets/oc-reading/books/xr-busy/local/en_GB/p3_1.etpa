@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Mum is going to the farm She will pick maize">
-		<timing id="0" start="0.006" end="0.415" startframe="0" framelength="0" text="Mum"/>
-		<timing id="1" start="0.415" end="0.632" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.632" end="1.06" startframe="0" framelength="0" text="going"/>
-		<timing id="3" start="1.06" end="1.239" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.239" end="1.402" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.402" end="2.514" startframe="0" framelength="0" text="farm"/>
-		<timing id="6" start="2.514" end="2.963" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="2.963" end="3.244" startframe="0" framelength="0" text="will"/>
-		<timing id="8" start="3.244" end="3.616" startframe="0" framelength="0" text="pick"/>
-		<timing id="9" start="3.616" end="4.466833333333334" startframe="0" framelength="0" text="maize"/>
+		<timing id="0" start="0.006" end="0.371" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.371" end="0.563" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.563" end="0.943" startframe="0" framelength="0" text="going"/>
+		<timing id="3" start="0.943" end="1.101" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.101" end="1.247" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.247" end="2.268" startframe="0" framelength="0" text="farm"/>
+		<timing id="6" start="2.268" end="2.668" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="2.668" end="2.915" startframe="0" framelength="0" text="will"/>
+		<timing id="8" start="2.915" end="3.243" startframe="0" framelength="0" text="pick"/>
+		<timing id="9" start="3.243" end="3.9966666666666666" startframe="0" framelength="0" text="maize"/>
 	</timings>
 </xml>

@@ -2,28 +2,28 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Can you help me uncle he asked I want to grow a big strong plant So his uncle told him what to do">
-		<timing id="0" start="0.006" end="0.31" startframe="0" framelength="0" text="Can"/>
-		<timing id="1" start="0.31" end="0.495" startframe="0" framelength="0" text="you"/>
-		<timing id="2" start="0.495" end="0.98" startframe="0" framelength="0" text="help"/>
-		<timing id="3" start="0.98" end="1.612" startframe="0" framelength="0" text="me"/>
-		<timing id="4" start="1.612" end="2.697" startframe="0" framelength="0" text="uncle"/>
-		<timing id="5" start="2.697" end="3.015" startframe="0" framelength="0" text="he"/>
-		<timing id="6" start="3.015" end="4.225" startframe="0" framelength="0" text="asked"/>
-		<timing id="7" start="4.225" end="4.393" startframe="0" framelength="0" text="I"/>
-		<timing id="8" start="4.393" end="4.83" startframe="0" framelength="0" text="want"/>
-		<timing id="9" start="4.83" end="4.971" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="4.971" end="5.341" startframe="0" framelength="0" text="grow"/>
-		<timing id="11" start="5.341" end="5.398" startframe="0" framelength="0" text="a"/>
-		<timing id="12" start="5.398" end="5.735" startframe="0" framelength="0" text="big"/>
-		<timing id="13" start="5.735" end="6.348" startframe="0" framelength="0" text="strong"/>
-		<timing id="14" start="6.348" end="7.551" startframe="0" framelength="0" text="plant"/>
-		<timing id="15" start="7.551" end="8.012" startframe="0" framelength="0" text="So"/>
-		<timing id="16" start="8.012" end="8.332" startframe="0" framelength="0" text="his"/>
-		<timing id="17" start="8.332" end="8.828" startframe="0" framelength="0" text="uncle"/>
-		<timing id="18" start="8.828" end="9.274" startframe="0" framelength="0" text="told"/>
-		<timing id="19" start="9.274" end="9.633" startframe="0" framelength="0" text="him"/>
-		<timing id="20" start="9.633" end="10.029" startframe="0" framelength="0" text="what"/>
-		<timing id="21" start="10.029" end="10.23" startframe="0" framelength="0" text="to"/>
-		<timing id="22" start="10.23" end="10.919166666666667" startframe="0" framelength="0" text="do"/>
+		<timing id="0" start="0.006" end="0.281" startframe="0" framelength="0" text="Can"/>
+		<timing id="1" start="0.281" end="0.446" startframe="0" framelength="0" text="you"/>
+		<timing id="2" start="0.446" end="0.873" startframe="0" framelength="0" text="help"/>
+		<timing id="3" start="0.873" end="1.45" startframe="0" framelength="0" text="me"/>
+		<timing id="4" start="1.45" end="2.451" startframe="0" framelength="0" text="uncle"/>
+		<timing id="5" start="2.451" end="2.733" startframe="0" framelength="0" text="he"/>
+		<timing id="6" start="2.733" end="3.851" startframe="0" framelength="0" text="asked"/>
+		<timing id="7" start="3.851" end="4.001" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="4.001" end="4.39" startframe="0" framelength="0" text="want"/>
+		<timing id="9" start="4.39" end="4.518" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.518" end="4.851" startframe="0" framelength="0" text="grow"/>
+		<timing id="11" start="4.851" end="4.899" startframe="0" framelength="0" text="a"/>
+		<timing id="12" start="4.899" end="5.202" startframe="0" framelength="0" text="big"/>
+		<timing id="13" start="5.202" end="5.74" startframe="0" framelength="0" text="strong"/>
+		<timing id="14" start="5.74" end="6.857" startframe="0" framelength="0" text="plant"/>
+		<timing id="15" start="6.857" end="7.264" startframe="0" framelength="0" text="So"/>
+		<timing id="16" start="7.264" end="7.544" startframe="0" framelength="0" text="his"/>
+		<timing id="17" start="7.544" end="7.989" startframe="0" framelength="0" text="uncle"/>
+		<timing id="18" start="7.989" end="8.371" startframe="0" framelength="0" text="told"/>
+		<timing id="19" start="8.371" end="8.69" startframe="0" framelength="0" text="him"/>
+		<timing id="20" start="8.69" end="9.043" startframe="0" framelength="0" text="what"/>
+		<timing id="21" start="9.043" end="9.222" startframe="0" framelength="0" text="to"/>
+		<timing id="22" start="9.222" end="9.848166666666666" startframe="0" framelength="0" text="do"/>
 	</timings>
 </xml>

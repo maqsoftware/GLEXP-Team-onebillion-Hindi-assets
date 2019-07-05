@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="But now he is happy He knows how to fix his toy car">
-		<timing id="0" start="0.006" end="0.419" startframe="0" framelength="0" text="But"/>
-		<timing id="1" start="0.419" end="0.79" startframe="0" framelength="0" text="now"/>
-		<timing id="2" start="0.79" end="1.005" startframe="0" framelength="0" text="he"/>
-		<timing id="3" start="1.005" end="1.171" startframe="0" framelength="0" text="is"/>
-		<timing id="4" start="1.171" end="2.368" startframe="0" framelength="0" text="happy"/>
-		<timing id="5" start="2.368" end="2.627" startframe="0" framelength="0" text="He"/>
-		<timing id="6" start="2.627" end="3.079" startframe="0" framelength="0" text="knows"/>
-		<timing id="7" start="3.079" end="3.426" startframe="0" framelength="0" text="how"/>
-		<timing id="8" start="3.426" end="3.625" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="3.625" end="4.071" startframe="0" framelength="0" text="fix"/>
-		<timing id="10" start="4.071" end="4.384" startframe="0" framelength="0" text="his"/>
-		<timing id="11" start="4.384" end="4.751" startframe="0" framelength="0" text="toy"/>
-		<timing id="12" start="4.751" end="5.511833333333334" startframe="0" framelength="0" text="car"/>
+		<timing id="0" start="0.006" end="0.365" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.365" end="0.692" startframe="0" framelength="0" text="now"/>
+		<timing id="2" start="0.692" end="0.877" startframe="0" framelength="0" text="he"/>
+		<timing id="3" start="0.877" end="1.025" startframe="0" framelength="0" text="is"/>
+		<timing id="4" start="1.025" end="2.13" startframe="0" framelength="0" text="happy"/>
+		<timing id="5" start="2.13" end="2.353" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="2.353" end="2.753" startframe="0" framelength="0" text="knows"/>
+		<timing id="7" start="2.753" end="3.051" startframe="0" framelength="0" text="how"/>
+		<timing id="8" start="3.051" end="3.22" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="3.22" end="3.614" startframe="0" framelength="0" text="fix"/>
+		<timing id="10" start="3.614" end="3.9" startframe="0" framelength="0" text="his"/>
+		<timing id="11" start="3.9" end="4.224" startframe="0" framelength="0" text="toy"/>
+		<timing id="12" start="4.224" end="4.884833333333333" startframe="0" framelength="0" text="car"/>
 	</timings>
 </xml>

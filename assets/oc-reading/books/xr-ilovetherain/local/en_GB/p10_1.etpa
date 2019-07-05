@@ -2,21 +2,21 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Now I have lots of water in my hair but I am happy Thank you Mum">
-		<timing id="0" start="0.006" end="0.593" startframe="0" framelength="0" text="Now"/>
-		<timing id="1" start="0.593" end="0.737" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.737" end="1.165" startframe="0" framelength="0" text="have"/>
-		<timing id="3" start="1.165" end="1.733" startframe="0" framelength="0" text="lots"/>
-		<timing id="4" start="1.733" end="1.968" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="1.968" end="2.555" startframe="0" framelength="0" text="water"/>
-		<timing id="6" start="2.555" end="2.748" startframe="0" framelength="0" text="in"/>
-		<timing id="7" start="2.748" end="2.976" startframe="0" framelength="0" text="my"/>
-		<timing id="8" start="2.976" end="3.942" startframe="0" framelength="0" text="hair"/>
-		<timing id="9" start="3.942" end="4.299" startframe="0" framelength="0" text="but"/>
-		<timing id="10" start="4.299" end="4.486" startframe="0" framelength="0" text="I"/>
-		<timing id="11" start="4.486" end="4.628" startframe="0" framelength="0" text="am"/>
-		<timing id="12" start="4.628" end="5.881" startframe="0" framelength="0" text="happy"/>
-		<timing id="13" start="5.881" end="6.43" startframe="0" framelength="0" text="Thank"/>
-		<timing id="14" start="6.43" end="7.051" startframe="0" framelength="0" text="you"/>
-		<timing id="15" start="7.051" end="7.862833333333334" startframe="0" framelength="0" text="Mum"/>
+		<timing id="0" start="0.006" end="0.517" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.517" end="0.643" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.643" end="1.029" startframe="0" framelength="0" text="have"/>
+		<timing id="3" start="1.029" end="1.527" startframe="0" framelength="0" text="lots"/>
+		<timing id="4" start="1.527" end="1.733" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.733" end="2.245" startframe="0" framelength="0" text="water"/>
+		<timing id="6" start="2.245" end="2.412" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="2.412" end="2.617" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="2.617" end="3.488" startframe="0" framelength="0" text="hair"/>
+		<timing id="9" start="3.488" end="3.803" startframe="0" framelength="0" text="but"/>
+		<timing id="10" start="3.803" end="3.973" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="3.973" end="4.096" startframe="0" framelength="0" text="am"/>
+		<timing id="12" start="4.096" end="5.244" startframe="0" framelength="0" text="happy"/>
+		<timing id="13" start="5.244" end="5.721" startframe="0" framelength="0" text="Thank"/>
+		<timing id="14" start="5.721" end="6.285" startframe="0" framelength="0" text="you"/>
+		<timing id="15" start="6.285" end="7.026833333333333" startframe="0" framelength="0" text="Mum"/>
 	</timings>
 </xml>
