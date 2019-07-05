@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Who can I read to">
-		<timing id="0" start="0.006" end="0.226" startframe="0" framelength="0" text="Who"/>
-		<timing id="1" start="0.226" end="0.603" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.603" end="0.792" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="0.792" end="1.187" startframe="0" framelength="0" text="read"/>
-		<timing id="4" start="1.187" end="1.8023333333333333" startframe="0" framelength="0" text="to"/>
+		<timing id="0" start="0.006" end="0.204" startframe="0" framelength="0" text="Who"/>
+		<timing id="1" start="0.204" end="0.532" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.532" end="0.698" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="0.698" end="1.04" startframe="0" framelength="0" text="read"/>
+		<timing id="4" start="1.04" end="1.5935" startframe="0" framelength="0" text="to"/>
 	</timings>
 </xml>

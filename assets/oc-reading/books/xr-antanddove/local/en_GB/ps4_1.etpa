@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It was a long way to the river I grew even more thirsty">
-		<timing id="0" start="0.006" end="0.205" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.205" end="0.499" startframe="0" framelength="0" text="was"/>
-		<timing id="2" start="0.499" end="0.55" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.55" end="1.047" startframe="0" framelength="0" text="long"/>
-		<timing id="4" start="1.047" end="1.371" startframe="0" framelength="0" text="way"/>
-		<timing id="5" start="1.371" end="1.601" startframe="0" framelength="0" text="to"/>
-		<timing id="6" start="1.601" end="1.744" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="1.744" end="2.886" startframe="0" framelength="0" text="river"/>
-		<timing id="8" start="2.886" end="3.106" startframe="0" framelength="0" text="I"/>
-		<timing id="9" start="3.106" end="3.677" startframe="0" framelength="0" text="grew"/>
-		<timing id="10" start="3.677" end="4.099" startframe="0" framelength="0" text="even"/>
-		<timing id="11" start="4.099" end="4.444" startframe="0" framelength="0" text="more"/>
-		<timing id="12" start="4.444" end="5.538" startframe="0" framelength="0" text="thirsty"/>
+		<timing id="0" start="0.006" end="0.182" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.182" end="0.436" startframe="0" framelength="0" text="was"/>
+		<timing id="2" start="0.436" end="0.479" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.479" end="0.91" startframe="0" framelength="0" text="long"/>
+		<timing id="4" start="0.91" end="1.196" startframe="0" framelength="0" text="way"/>
+		<timing id="5" start="1.196" end="1.4" startframe="0" framelength="0" text="to"/>
+		<timing id="6" start="1.4" end="1.524" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="1.524" end="2.568" startframe="0" framelength="0" text="river"/>
+		<timing id="8" start="2.568" end="2.758" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="2.758" end="3.261" startframe="0" framelength="0" text="grew"/>
+		<timing id="10" start="3.261" end="3.634" startframe="0" framelength="0" text="even"/>
+		<timing id="11" start="3.634" end="3.943" startframe="0" framelength="0" text="more"/>
+		<timing id="12" start="3.943" end="4.937166666666666" startframe="0" framelength="0" text="thirsty"/>
 	</timings>
 </xml>

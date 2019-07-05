@@ -1,9 +1,9 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Maloo and Kaloo">
-		<timing id="0" start="0.006" end="0.698" startframe="0" framelength="0" text="Maloo"/>
-		<timing id="1" start="0.698" end="0.996" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.996" end="1.8285" startframe="0" framelength="0" text="Kaloo"/>
+	<timings text="Bharat and Vicky">
+		<timing id="0" start="0.006" end="0.661" startframe="0" framelength="0" text="Bharat"/>
+		<timing id="1" start="0.661" end="0.86" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.86" end="1.724" startframe="0" framelength="0" text="Vicky"/>
 	</timings>
 </xml>

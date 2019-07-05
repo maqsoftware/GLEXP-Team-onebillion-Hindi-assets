@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="But the wind gets stronger It pulls my kite from my hands">
-		<timing id="0" start="0.006" end="0.414" startframe="0" framelength="0" text="But"/>
-		<timing id="1" start="0.414" end="0.572" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.572" end="1.069" startframe="0" framelength="0" text="wind"/>
-		<timing id="3" start="1.069" end="1.494" startframe="0" framelength="0" text="gets"/>
-		<timing id="4" start="1.494" end="2.897" startframe="0" framelength="0" text="stronger"/>
-		<timing id="5" start="2.897" end="3.097" startframe="0" framelength="0" text="It"/>
-		<timing id="6" start="3.097" end="3.6" startframe="0" framelength="0" text="pulls"/>
-		<timing id="7" start="3.6" end="3.824" startframe="0" framelength="0" text="my"/>
-		<timing id="8" start="3.824" end="4.419" startframe="0" framelength="0" text="kite"/>
-		<timing id="9" start="4.419" end="4.759" startframe="0" framelength="0" text="from"/>
-		<timing id="10" start="4.759" end="5.035" startframe="0" framelength="0" text="my"/>
-		<timing id="11" start="5.035" end="5.929833333333334" startframe="0" framelength="0" text="hands"/>
+	<timings text="But <break time="500ms"/> the <break time="500ms"/> wind <break time="500ms"/> gets <break time="500ms"/> stronger <break time="500ms"/> It <break time="500ms"/> pulls <break time="500ms"/> my <break time="500ms"/> kite <break time="500ms"/> from <break time="500ms"/> my <break time="500ms"/> hands <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.818" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.818" end="1.418" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.418" end="2.205" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="2.205" end="2.805" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.805" end="3.731" startframe="0" framelength="0" text="wind"/>
+		<timing id="5" start="3.731" end="4.331" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.331" end="5.357" startframe="0" framelength="0" text="gets"/>
+		<timing id="7" start="5.357" end="5.957" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.957" end="7.15" startframe="0" framelength="0" text="stronger"/>
+		<timing id="9" start="7.15" end="7.75" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.75" end="8.4" startframe="0" framelength="0" text="It"/>
+		<timing id="11" start="8.4" end="8.994" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.994" end="9.863" startframe="0" framelength="0" text="pulls"/>
+		<timing id="13" start="9.863" end="10.456" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.456" end="11.21" startframe="0" framelength="0" text="my"/>
+		<timing id="15" start="11.21" end="11.81" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.81" end="12.682" startframe="0" framelength="0" text="kite"/>
+		<timing id="17" start="12.682" end="13.276" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="13.276" end="14.166" startframe="0" framelength="0" text="from"/>
+		<timing id="19" start="14.166" end="14.76" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.76" end="15.514" startframe="0" framelength="0" text="my"/>
+		<timing id="21" start="15.514" end="16.114" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="16.114" end="17.204" startframe="0" framelength="0" text="hands"/>
+		<timing id="23" start="17.204" end="17.763166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

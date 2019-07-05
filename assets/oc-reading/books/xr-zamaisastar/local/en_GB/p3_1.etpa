@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Next I make my bed">
-		<timing id="0" start="0.006" end="1.1" startframe="0" framelength="0" text="Next"/>
-		<timing id="1" start="1.1" end="1.321" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="1.321" end="1.766" startframe="0" framelength="0" text="make"/>
-		<timing id="3" start="1.766" end="2.003" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="2.003" end="2.638333333333333" startframe="0" framelength="0" text="bed"/>
+		<timing id="0" start="0.006" end="0.578" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="0.578" end="0.749" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.749" end="1.142" startframe="0" framelength="0" text="make"/>
+		<timing id="3" start="1.142" end="1.402" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.402" end="2.0375" startframe="0" framelength="0" text="bed"/>
 	</timings>
 </xml>

@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Fatima made many friends that day She often goes to visit them">
-		<timing id="0" start="0.006" end="0.979" startframe="0" framelength="0" text="Fatima"/>
-		<timing id="1" start="0.979" end="1.458" startframe="0" framelength="0" text="made"/>
-		<timing id="2" start="1.458" end="1.837" startframe="0" framelength="0" text="many"/>
-		<timing id="3" start="1.837" end="2.561" startframe="0" framelength="0" text="friends"/>
-		<timing id="4" start="2.561" end="2.938" startframe="0" framelength="0" text="that"/>
-		<timing id="5" start="2.938" end="3.838" startframe="0" framelength="0" text="day"/>
-		<timing id="6" start="3.838" end="4.241" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="4.241" end="4.732" startframe="0" framelength="0" text="often"/>
-		<timing id="8" start="4.732" end="5.201" startframe="0" framelength="0" text="goes"/>
-		<timing id="9" start="5.201" end="5.37" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="5.37" end="5.885" startframe="0" framelength="0" text="visit"/>
-		<timing id="11" start="5.885" end="6.556666666666667" startframe="0" framelength="0" text="them"/>
+	<timings text="Sita made many friends that day She often goes to visit them">
+		<timing id="0" start="0.006" end="0.642" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.642" end="1.04" startframe="0" framelength="0" text="made"/>
+		<timing id="2" start="1.04" end="1.393" startframe="0" framelength="0" text="many"/>
+		<timing id="3" start="1.393" end="2.022" startframe="0" framelength="0" text="friends"/>
+		<timing id="4" start="2.022" end="2.351" startframe="0" framelength="0" text="that"/>
+		<timing id="5" start="2.351" end="3.19" startframe="0" framelength="0" text="day"/>
+		<timing id="6" start="3.19" end="3.545" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="3.545" end="3.977" startframe="0" framelength="0" text="often"/>
+		<timing id="8" start="3.977" end="4.397" startframe="0" framelength="0" text="goes"/>
+		<timing id="9" start="4.397" end="4.549" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.549" end="5.004" startframe="0" framelength="0" text="visit"/>
+		<timing id="11" start="5.004" end="5.616333333333333" startframe="0" framelength="0" text="them"/>
 	</timings>
 </xml>

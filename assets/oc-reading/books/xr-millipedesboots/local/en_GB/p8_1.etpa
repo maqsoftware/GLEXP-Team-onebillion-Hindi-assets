@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oh are these your boots">
-		<timing id="0" start="0.006" end="0.714" startframe="0" framelength="0" text="Oh"/>
-		<timing id="1" start="0.714" end="0.971" startframe="0" framelength="0" text="are"/>
-		<timing id="2" start="0.971" end="1.374" startframe="0" framelength="0" text="these"/>
-		<timing id="3" start="1.374" end="1.557" startframe="0" framelength="0" text="your"/>
-		<timing id="4" start="1.557" end="2.5338333333333334" startframe="0" framelength="0" text="boots"/>
+		<timing id="0" start="0.006" end="0.652" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.652" end="0.877" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.877" end="1.227" startframe="0" framelength="0" text="these"/>
+		<timing id="3" start="1.227" end="1.392" startframe="0" framelength="0" text="your"/>
+		<timing id="4" start="1.392" end="2.272666666666667" startframe="0" framelength="0" text="boots"/>
 	</timings>
 </xml>

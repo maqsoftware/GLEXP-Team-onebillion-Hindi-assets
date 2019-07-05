@@ -1,21 +1,21 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Someone played a trick says mum Where are the eggs I dropped them says Chifundo">
-		<timing id="0" start="0.006" end="0.844" startframe="0" framelength="0" text="Someone"/>
-		<timing id="1" start="0.844" end="1.387" startframe="0" framelength="0" text="played"/>
-		<timing id="2" start="1.387" end="1.434" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.434" end="2.446" startframe="0" framelength="0" text="trick"/>
-		<timing id="4" start="2.446" end="3.079" startframe="0" framelength="0" text="says"/>
-		<timing id="5" start="3.079" end="4.18" startframe="0" framelength="0" text="mum"/>
-		<timing id="6" start="4.18" end="4.738" startframe="0" framelength="0" text="Where"/>
-		<timing id="7" start="4.738" end="4.929" startframe="0" framelength="0" text="are"/>
-		<timing id="8" start="4.929" end="5.193" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="5.193" end="6.29" startframe="0" framelength="0" text="eggs"/>
-		<timing id="10" start="6.29" end="6.526" startframe="0" framelength="0" text="I"/>
-		<timing id="11" start="6.526" end="7.158" startframe="0" framelength="0" text="dropped"/>
-		<timing id="12" start="7.158" end="7.837" startframe="0" framelength="0" text="them"/>
-		<timing id="13" start="7.837" end="8.464" startframe="0" framelength="0" text="says"/>
-		<timing id="14" start="8.464" end="9.560833333333333" startframe="0" framelength="0" text="Chifundo"/>
+	<timings text="Someone played a trick says mum Where are the eggs I dropped them says Deeksha">
+		<timing id="0" start="0.006" end="0.747" startframe="0" framelength="0" text="Someone"/>
+		<timing id="1" start="0.747" end="1.232" startframe="0" framelength="0" text="played"/>
+		<timing id="2" start="1.232" end="1.274" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.274" end="2.212" startframe="0" framelength="0" text="trick"/>
+		<timing id="4" start="2.212" end="2.762" startframe="0" framelength="0" text="says"/>
+		<timing id="5" start="2.762" end="3.787" startframe="0" framelength="0" text="mum"/>
+		<timing id="6" start="3.787" end="4.273" startframe="0" framelength="0" text="Where"/>
+		<timing id="7" start="4.273" end="4.434" startframe="0" framelength="0" text="are"/>
+		<timing id="8" start="4.434" end="4.667" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="4.667" end="5.659" startframe="0" framelength="0" text="eggs"/>
+		<timing id="10" start="5.659" end="5.868" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="5.868" end="6.418" startframe="0" framelength="0" text="dropped"/>
+		<timing id="12" start="6.418" end="7.047" startframe="0" framelength="0" text="them"/>
+		<timing id="13" start="7.047" end="7.638" startframe="0" framelength="0" text="says"/>
+		<timing id="14" start="7.638" end="8.489833333333333" startframe="0" framelength="0" text="Deeksha"/>
 	</timings>
 </xml>

@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then Rala makes a wish">
-		<timing id="0" start="0.006" end="0.429" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.429" end="0.89" startframe="0" framelength="0" text="Rala"/>
-		<timing id="2" start="0.89" end="1.369" startframe="0" framelength="0" text="makes"/>
-		<timing id="3" start="1.369" end="1.421" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="1.421" end="2.272666666666667" startframe="0" framelength="0" text="wish"/>
+	<timings text="Then Sita makes a wish">
+		<timing id="0" start="0.006" end="0.334" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.334" end="0.811" startframe="0" framelength="0" text="Sita"/>
+		<timing id="2" start="0.811" end="1.254" startframe="0" framelength="0" text="makes"/>
+		<timing id="3" start="1.254" end="1.32" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.32" end="2.0636666666666668" startframe="0" framelength="0" text="wish"/>
 	</timings>
 </xml>

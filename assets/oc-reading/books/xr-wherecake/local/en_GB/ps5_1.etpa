@@ -1,11 +1,16 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mina looks up the tree">
-		<timing id="0" start="0.006" end="0.481" startframe="0" framelength="0" text="Mina"/>
-		<timing id="1" start="0.481" end="0.967" startframe="0" framelength="0" text="looks"/>
-		<timing id="2" start="0.967" end="1.118" startframe="0" framelength="0" text="up"/>
-		<timing id="3" start="1.118" end="1.286" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.286" end="2.0636666666666668" startframe="0" framelength="0" text="tree"/>
+	<timings text="Mira <break time="500ms"/> looks <break time="500ms"/> up <break time="500ms"/> the <break time="500ms"/> tree <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.763" startframe="0" framelength="0" text="Mira"/>
+		<timing id="1" start="0.763" end="1.363" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.363" end="2.326" startframe="0" framelength="0" text="looks"/>
+		<timing id="3" start="2.326" end="2.926" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.926" end="3.564" startframe="0" framelength="0" text="up"/>
+		<timing id="5" start="3.564" end="4.164" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.164" end="4.952" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.952" end="5.545" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.545" end="6.342" startframe="0" framelength="0" text="tree"/>
+		<timing id="9" start="6.342" end="6.896333333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Many fish have very sharp teeth too">
-		<timing id="0" start="0.006" end="0.546" startframe="0" framelength="0" text="Many"/>
-		<timing id="1" start="0.546" end="0.94" startframe="0" framelength="0" text="fish"/>
-		<timing id="2" start="0.94" end="1.284" startframe="0" framelength="0" text="have"/>
-		<timing id="3" start="1.284" end="1.72" startframe="0" framelength="0" text="very"/>
-		<timing id="4" start="1.72" end="2.264" startframe="0" framelength="0" text="sharp"/>
-		<timing id="5" start="2.264" end="2.719" startframe="0" framelength="0" text="teeth"/>
-		<timing id="6" start="2.719" end="3.3698333333333332" startframe="0" framelength="0" text="too"/>
+		<timing id="0" start="0.006" end="0.481" startframe="0" framelength="0" text="Many"/>
+		<timing id="1" start="0.481" end="0.829" startframe="0" framelength="0" text="fish"/>
+		<timing id="2" start="0.829" end="1.131" startframe="0" framelength="0" text="have"/>
+		<timing id="3" start="1.131" end="1.516" startframe="0" framelength="0" text="very"/>
+		<timing id="4" start="1.516" end="1.987" startframe="0" framelength="0" text="sharp"/>
+		<timing id="5" start="1.987" end="2.384" startframe="0" framelength="0" text="teeth"/>
+		<timing id="6" start="2.384" end="2.9518333333333335" startframe="0" framelength="0" text="too"/>
 	</timings>
 </xml>

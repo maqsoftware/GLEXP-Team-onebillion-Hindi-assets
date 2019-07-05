@@ -1,8 +1,8 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Tom my">
-		<timing id="0" start="0.006" end="0.767" startframe="0" framelength="0" text="Tom"/>
-		<timing id="1" start="0.767" end="1.5411666666666666" startframe="0" framelength="0" text="my"/>
+	<timings text="Ka ran">
+		<timing id="0" start="0.006" end="0.59" startframe="0" framelength="0" text="Ka"/>
+		<timing id="1" start="0.59" end="1.2538333333333334" startframe="0" framelength="0" text="ran"/>
 	</timings>
 </xml>

@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="So Daisy tried again And again She flapped and flapped her wings">
-		<timing id="0" start="0.006" end="0.344" startframe="0" framelength="0" text="So"/>
-		<timing id="1" start="0.344" end="0.865" startframe="0" framelength="0" text="Daisy"/>
-		<timing id="2" start="0.865" end="1.386" startframe="0" framelength="0" text="tried"/>
-		<timing id="3" start="1.386" end="2.528" startframe="0" framelength="0" text="again"/>
-		<timing id="4" start="2.528" end="2.861" startframe="0" framelength="0" text="And"/>
-		<timing id="5" start="2.861" end="4.028" startframe="0" framelength="0" text="again"/>
-		<timing id="6" start="4.028" end="4.42" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="4.42" end="5.13" startframe="0" framelength="0" text="flapped"/>
-		<timing id="8" start="5.13" end="5.373" startframe="0" framelength="0" text="and"/>
-		<timing id="9" start="5.373" end="5.95" startframe="0" framelength="0" text="flapped"/>
-		<timing id="10" start="5.95" end="6.187" startframe="0" framelength="0" text="her"/>
-		<timing id="11" start="6.187" end="7.053" startframe="0" framelength="0" text="wings"/>
+	<timings text="So Meghna tried again And again She flapped and flapped her wings">
+		<timing id="0" start="0.006" end="0.335" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.335" end="0.976" startframe="0" framelength="0" text="Meghna"/>
+		<timing id="2" start="0.976" end="1.447" startframe="0" framelength="0" text="tried"/>
+		<timing id="3" start="1.447" end="2.55" startframe="0" framelength="0" text="again"/>
+		<timing id="4" start="2.55" end="2.845" startframe="0" framelength="0" text="And"/>
+		<timing id="5" start="2.845" end="3.917" startframe="0" framelength="0" text="again"/>
+		<timing id="6" start="3.917" end="4.26" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="4.26" end="4.876" startframe="0" framelength="0" text="flapped"/>
+		<timing id="8" start="4.876" end="5.091" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="5.091" end="5.593" startframe="0" framelength="0" text="flapped"/>
+		<timing id="10" start="5.593" end="5.797" startframe="0" framelength="0" text="her"/>
+		<timing id="11" start="5.797" end="6.556666666666667" startframe="0" framelength="0" text="wings"/>
 	</timings>
 </xml>

@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="star tled">
-		<timing id="0" start="0.006" end="1.016" startframe="0" framelength="0" text="star"/>
-		<timing id="1" start="1.016" end="1.8023333333333333" startframe="0" framelength="0" text="tled"/>
+		<timing id="0" start="0.006" end="0.918" startframe="0" framelength="0" text="star"/>
+		<timing id="1" start="0.918" end="1.6456666666666666" startframe="0" framelength="0" text="tled"/>
 	</timings>
 </xml>

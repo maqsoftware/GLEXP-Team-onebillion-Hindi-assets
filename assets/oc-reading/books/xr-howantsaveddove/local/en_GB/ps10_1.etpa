@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The boy shouted out Dove was startled and she flew away">
-		<timing id="0" start="0.006" end="0.221" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.221" end="0.701" startframe="0" framelength="0" text="boy"/>
-		<timing id="2" start="0.701" end="1.389" startframe="0" framelength="0" text="shouted"/>
-		<timing id="3" start="1.389" end="2.388" startframe="0" framelength="0" text="out"/>
-		<timing id="4" start="2.388" end="2.754" startframe="0" framelength="0" text="Dove"/>
-		<timing id="5" start="2.754" end="3.015" startframe="0" framelength="0" text="was"/>
-		<timing id="6" start="3.015" end="4.38" startframe="0" framelength="0" text="startled"/>
-		<timing id="7" start="4.38" end="4.694" startframe="0" framelength="0" text="and"/>
-		<timing id="8" start="4.694" end="4.991" startframe="0" framelength="0" text="she"/>
-		<timing id="9" start="4.991" end="5.472" startframe="0" framelength="0" text="flew"/>
-		<timing id="10" start="5.472" end="6.2171666666666665" startframe="0" framelength="0" text="away"/>
+		<timing id="0" start="0.006" end="0.191" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.191" end="0.614" startframe="0" framelength="0" text="boy"/>
+		<timing id="2" start="0.614" end="1.207" startframe="0" framelength="0" text="shouted"/>
+		<timing id="3" start="1.207" end="2.128" startframe="0" framelength="0" text="out"/>
+		<timing id="4" start="2.128" end="2.453" startframe="0" framelength="0" text="Dove"/>
+		<timing id="5" start="2.453" end="2.678" startframe="0" framelength="0" text="was"/>
+		<timing id="6" start="2.678" end="3.906" startframe="0" framelength="0" text="startled"/>
+		<timing id="7" start="3.906" end="4.186" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="4.186" end="4.455" startframe="0" framelength="0" text="she"/>
+		<timing id="9" start="4.455" end="4.88" startframe="0" framelength="0" text="flew"/>
+		<timing id="10" start="4.88" end="5.538" startframe="0" framelength="0" text="away"/>
 	</timings>
 </xml>

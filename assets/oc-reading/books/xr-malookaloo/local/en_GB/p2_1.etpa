@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Granny asks for potatoes too">
-		<timing id="0" start="0.006" end="0.829" startframe="0" framelength="0" text="Granny"/>
-		<timing id="1" start="0.829" end="1.484" startframe="0" framelength="0" text="asks"/>
-		<timing id="2" start="1.484" end="1.731" startframe="0" framelength="0" text="for"/>
-		<timing id="3" start="1.731" end="2.646" startframe="0" framelength="0" text="potatoes"/>
-		<timing id="4" start="2.646" end="3.3436666666666666" startframe="0" framelength="0" text="too"/>
+		<timing id="0" start="0.006" end="0.732" startframe="0" framelength="0" text="Granny"/>
+		<timing id="1" start="0.732" end="1.298" startframe="0" framelength="0" text="asks"/>
+		<timing id="2" start="1.298" end="1.514" startframe="0" framelength="0" text="for"/>
+		<timing id="3" start="1.514" end="2.31" startframe="0" framelength="0" text="potatoes"/>
+		<timing id="4" start="2.31" end="2.925666666666667" startframe="0" framelength="0" text="too"/>
 	</timings>
 </xml>

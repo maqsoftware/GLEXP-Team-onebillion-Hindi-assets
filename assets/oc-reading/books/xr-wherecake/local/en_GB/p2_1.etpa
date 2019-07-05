@@ -1,15 +1,15 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mina and Peng look at the map for clues">
-		<timing id="0" start="0.006" end="0.554" startframe="0" framelength="0" text="Mina"/>
-		<timing id="1" start="0.554" end="0.814" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.814" end="1.186" startframe="0" framelength="0" text="Peng"/>
-		<timing id="3" start="1.186" end="1.513" startframe="0" framelength="0" text="look"/>
-		<timing id="4" start="1.513" end="1.697" startframe="0" framelength="0" text="at"/>
-		<timing id="5" start="1.697" end="1.831" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="1.831" end="2.689" startframe="0" framelength="0" text="map"/>
-		<timing id="7" start="2.689" end="3.026" startframe="0" framelength="0" text="for"/>
-		<timing id="8" start="3.026" end="3.9966666666666666" startframe="0" framelength="0" text="clues"/>
+	<timings text="Mira and Ankit look at the map for clues">
+		<timing id="0" start="0.006" end="0.624" startframe="0" framelength="0" text="Mira"/>
+		<timing id="1" start="0.624" end="1.033" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="1.033" end="1.625" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="3" start="1.625" end="2.007" startframe="0" framelength="0" text="look"/>
+		<timing id="4" start="2.007" end="2.194" startframe="0" framelength="0" text="at"/>
+		<timing id="5" start="2.194" end="2.363" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.363" end="2.877" startframe="0" framelength="0" text="map"/>
+		<timing id="7" start="2.877" end="3.149" startframe="0" framelength="0" text="for"/>
+		<timing id="8" start="3.149" end="4.101166666666667" startframe="0" framelength="0" text="clues"/>
 	</timings>
 </xml>

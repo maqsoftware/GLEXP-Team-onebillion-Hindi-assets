@@ -1,19 +1,32 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo has a loose tooth Look grandma my tooth is loose she says">
-		<timing id="0" start="0.006" end="0.781" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.781" end="1.173" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="1.173" end="1.219" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.219" end="1.707" startframe="0" framelength="0" text="loose"/>
-		<timing id="4" start="1.707" end="2.774" startframe="0" framelength="0" text="tooth"/>
-		<timing id="5" start="2.774" end="3.14" startframe="0" framelength="0" text="Look"/>
-		<timing id="6" start="3.14" end="4.245" startframe="0" framelength="0" text="grandma"/>
-		<timing id="7" start="4.245" end="4.549" startframe="0" framelength="0" text="my"/>
-		<timing id="8" start="4.549" end="5.008" startframe="0" framelength="0" text="tooth"/>
-		<timing id="9" start="5.008" end="5.219" startframe="0" framelength="0" text="is"/>
-		<timing id="10" start="5.219" end="6.254" startframe="0" framelength="0" text="loose"/>
-		<timing id="11" start="6.254" end="6.641" startframe="0" framelength="0" text="she"/>
-		<timing id="12" start="6.641" end="7.549333333333333" startframe="0" framelength="0" text="says"/>
+	<timings text="Harita <break time="500ms"/> has <break time="500ms"/> a <break time="500ms"/> loose <break time="500ms"/> tooth <break time="500ms"/> Look <break time="500ms"/> grandma <break time="500ms"/> my <break time="500ms"/> tooth <break time="500ms"/> is <break time="500ms"/> loose <break time="500ms"/> she <break time="500ms"/> says <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.902" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.902" end="1.502" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.502" end="2.391" startframe="0" framelength="0" text="has"/>
+		<timing id="3" start="2.391" end="2.991" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.991" end="3.592" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.592" end="4.192" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.192" end="5.092" startframe="0" framelength="0" text="loose"/>
+		<timing id="7" start="5.092" end="5.694" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.694" end="6.302" startframe="0" framelength="0" text="tooth"/>
+		<timing id="9" start="6.302" end="7.189" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.189" end="7.882" startframe="0" framelength="0" text="Look"/>
+		<timing id="11" start="7.882" end="8.483" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.483" end="9.521" startframe="0" framelength="0" text="grandma"/>
+		<timing id="13" start="9.521" end="10.115" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.115" end="10.791" startframe="0" framelength="0" text="my"/>
+		<timing id="15" start="10.791" end="11.391" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.391" end="12.036" startframe="0" framelength="0" text="tooth"/>
+		<timing id="17" start="12.036" end="12.63" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.63" end="13.019" startframe="0" framelength="0" text="is"/>
+		<timing id="19" start="13.019" end="13.619" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.619" end="14.519" startframe="0" framelength="0" text="loose"/>
+		<timing id="21" start="14.519" end="15.119" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.119" end="15.879" startframe="0" framelength="0" text="she"/>
+		<timing id="23" start="15.879" end="16.473" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.473" end="17.248" startframe="0" framelength="0" text="says"/>
+		<timing id="25" start="17.248" end="17.8155" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

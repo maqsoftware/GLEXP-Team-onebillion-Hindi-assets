@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Grandma juggled mangoes at the market But that did not end well">
-		<timing id="0" start="0.006" end="0.884" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="1" start="0.884" end="1.461" startframe="0" framelength="0" text="juggled"/>
-		<timing id="2" start="1.461" end="2.318" startframe="0" framelength="0" text="mangoes"/>
-		<timing id="3" start="2.318" end="2.474" startframe="0" framelength="0" text="at"/>
-		<timing id="4" start="2.474" end="2.628" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="2.628" end="3.959" startframe="0" framelength="0" text="market"/>
-		<timing id="6" start="3.959" end="4.374" startframe="0" framelength="0" text="But"/>
-		<timing id="7" start="4.374" end="4.673" startframe="0" framelength="0" text="that"/>
-		<timing id="8" start="4.673" end="4.933" startframe="0" framelength="0" text="did"/>
-		<timing id="9" start="4.933" end="5.285" startframe="0" framelength="0" text="not"/>
-		<timing id="10" start="5.285" end="5.563" startframe="0" framelength="0" text="end"/>
-		<timing id="11" start="5.563" end="6.269333333333333" startframe="0" framelength="0" text="well"/>
+		<timing id="0" start="0.006" end="0.773" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="0.773" end="1.283" startframe="0" framelength="0" text="juggled"/>
+		<timing id="2" start="1.283" end="2.025" startframe="0" framelength="0" text="mangoes"/>
+		<timing id="3" start="2.025" end="2.171" startframe="0" framelength="0" text="at"/>
+		<timing id="4" start="2.171" end="2.306" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.306" end="3.528" startframe="0" framelength="0" text="market"/>
+		<timing id="6" start="3.528" end="3.899" startframe="0" framelength="0" text="But"/>
+		<timing id="7" start="3.899" end="4.165" startframe="0" framelength="0" text="that"/>
+		<timing id="8" start="4.165" end="4.401" startframe="0" framelength="0" text="did"/>
+		<timing id="9" start="4.401" end="4.704" startframe="0" framelength="0" text="not"/>
+		<timing id="10" start="4.704" end="4.949" startframe="0" framelength="0" text="end"/>
+		<timing id="11" start="4.949" end="5.590166666666667" startframe="0" framelength="0" text="well"/>
 	</timings>
 </xml>

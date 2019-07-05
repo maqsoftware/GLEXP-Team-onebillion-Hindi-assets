@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo finds a piece of charcoal and sticks the tooth into it">
-		<timing id="0" start="0.006" end="0.746" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.746" end="1.295" startframe="0" framelength="0" text="finds"/>
-		<timing id="2" start="1.295" end="1.374" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.374" end="1.865" startframe="0" framelength="0" text="piece"/>
-		<timing id="4" start="1.865" end="2.091" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="2.091" end="3.342" startframe="0" framelength="0" text="charcoal"/>
-		<timing id="6" start="3.342" end="3.631" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="3.631" end="4.194" startframe="0" framelength="0" text="sticks"/>
-		<timing id="8" start="4.194" end="4.353" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="4.353" end="4.863" startframe="0" framelength="0" text="tooth"/>
-		<timing id="10" start="4.863" end="5.307" startframe="0" framelength="0" text="into"/>
-		<timing id="11" start="5.307" end="5.825333333333333" startframe="0" framelength="0" text="it"/>
+	<timings text="Harita finds a piece of charcoal and sticks the tooth into it">
+		<timing id="0" start="0.006" end="0.669" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.669" end="1.135" startframe="0" framelength="0" text="finds"/>
+		<timing id="2" start="1.135" end="1.201" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.201" end="1.631" startframe="0" framelength="0" text="piece"/>
+		<timing id="4" start="1.631" end="1.821" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.821" end="2.571" startframe="0" framelength="0" text="charcoal"/>
+		<timing id="6" start="2.571" end="2.833" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.833" end="3.342" startframe="0" framelength="0" text="sticks"/>
+		<timing id="8" start="3.342" end="3.479" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.479" end="3.923" startframe="0" framelength="0" text="tooth"/>
+		<timing id="10" start="3.923" end="4.295" startframe="0" framelength="0" text="into"/>
+		<timing id="11" start="4.295" end="4.8065" startframe="0" framelength="0" text="it"/>
 	</timings>
 </xml>

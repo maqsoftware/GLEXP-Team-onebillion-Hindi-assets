@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then I’ll put it on again says Dalitso">
-		<timing id="0" start="0.006" end="0.346" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.346" end="0.628" startframe="0" framelength="0" text="I’ll"/>
-		<timing id="2" start="0.628" end="1.004" startframe="0" framelength="0" text="put"/>
-		<timing id="3" start="1.004" end="1.205" startframe="0" framelength="0" text="it"/>
-		<timing id="4" start="1.205" end="1.434" startframe="0" framelength="0" text="on"/>
-		<timing id="5" start="1.434" end="2.353" startframe="0" framelength="0" text="again"/>
-		<timing id="6" start="2.353" end="2.971" startframe="0" framelength="0" text="says"/>
-		<timing id="7" start="2.971" end="4.075" startframe="0" framelength="0" text="Dalitso"/>
+	<timings text="Then I’ll put it on again says Aditya">
+		<timing id="0" start="0.006" end="0.307" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.307" end="0.563" startframe="0" framelength="0" text="I’ll"/>
+		<timing id="2" start="0.563" end="0.888" startframe="0" framelength="0" text="put"/>
+		<timing id="3" start="0.888" end="1.067" startframe="0" framelength="0" text="it"/>
+		<timing id="4" start="1.067" end="1.271" startframe="0" framelength="0" text="on"/>
+		<timing id="5" start="1.271" end="2.139" startframe="0" framelength="0" text="again"/>
+		<timing id="6" start="2.139" end="2.703" startframe="0" framelength="0" text="says"/>
+		<timing id="7" start="2.703" end="3.5265" startframe="0" framelength="0" text="Aditya"/>
 	</timings>
 </xml>

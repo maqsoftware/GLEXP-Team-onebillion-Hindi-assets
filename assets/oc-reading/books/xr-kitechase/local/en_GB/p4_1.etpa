@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I zig-zag round the market stalls">
-		<timing id="0" start="0.006" end="0.329" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.329" end="1.035" startframe="0" framelength="0" text="zig-zag"/>
-		<timing id="2" start="1.035" end="1.529" startframe="0" framelength="0" text="round"/>
-		<timing id="3" start="1.529" end="1.634" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.634" end="2.309" startframe="0" framelength="0" text="market"/>
-		<timing id="5" start="2.309" end="3.3698333333333332" startframe="0" framelength="0" text="stalls"/>
+		<timing id="0" start="0.006" end="0.289" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.289" end="0.907" startframe="0" framelength="0" text="zig-zag"/>
+		<timing id="2" start="0.907" end="1.35" startframe="0" framelength="0" text="round"/>
+		<timing id="3" start="1.35" end="1.449" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.449" end="2.037" startframe="0" framelength="0" text="market"/>
+		<timing id="5" start="2.037" end="2.978" startframe="0" framelength="0" text="stalls"/>
 	</timings>
 </xml>

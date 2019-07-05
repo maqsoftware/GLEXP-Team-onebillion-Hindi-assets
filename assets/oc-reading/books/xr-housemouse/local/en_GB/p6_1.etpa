@@ -2,21 +2,21 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="That night Mouse dreams of lots of noisy birds She can’t sleep next to the parrot">
-		<timing id="0" start="0.006" end="0.413" startframe="0" framelength="0" text="That"/>
-		<timing id="1" start="0.413" end="0.882" startframe="0" framelength="0" text="night"/>
-		<timing id="2" start="0.882" end="1.393" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="3" start="1.393" end="1.963" startframe="0" framelength="0" text="dreams"/>
-		<timing id="4" start="1.963" end="2.227" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="2.227" end="2.734" startframe="0" framelength="0" text="lots"/>
-		<timing id="6" start="2.734" end="2.992" startframe="0" framelength="0" text="of"/>
-		<timing id="7" start="2.992" end="3.656" startframe="0" framelength="0" text="noisy"/>
-		<timing id="8" start="3.656" end="4.935" startframe="0" framelength="0" text="birds"/>
-		<timing id="9" start="4.935" end="5.23" startframe="0" framelength="0" text="She"/>
-		<timing id="10" start="5.23" end="5.695" startframe="0" framelength="0" text="can’t"/>
-		<timing id="11" start="5.695" end="6.266" startframe="0" framelength="0" text="sleep"/>
-		<timing id="12" start="6.266" end="6.715" startframe="0" framelength="0" text="next"/>
-		<timing id="13" start="6.715" end="6.863" startframe="0" framelength="0" text="to"/>
-		<timing id="14" start="6.863" end="7.008" startframe="0" framelength="0" text="the"/>
-		<timing id="15" start="7.008" end="7.862833333333334" startframe="0" framelength="0" text="parrot"/>
+		<timing id="0" start="0.006" end="0.363" startframe="0" framelength="0" text="That"/>
+		<timing id="1" start="0.363" end="0.783" startframe="0" framelength="0" text="night"/>
+		<timing id="2" start="0.783" end="1.232" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="3" start="1.232" end="1.735" startframe="0" framelength="0" text="dreams"/>
+		<timing id="4" start="1.735" end="1.963" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.963" end="2.405" startframe="0" framelength="0" text="lots"/>
+		<timing id="6" start="2.405" end="2.633" startframe="0" framelength="0" text="of"/>
+		<timing id="7" start="2.633" end="3.223" startframe="0" framelength="0" text="noisy"/>
+		<timing id="8" start="3.223" end="4.381" startframe="0" framelength="0" text="birds"/>
+		<timing id="9" start="4.381" end="4.637" startframe="0" framelength="0" text="She"/>
+		<timing id="10" start="4.637" end="5.046" startframe="0" framelength="0" text="can’t"/>
+		<timing id="11" start="5.046" end="5.552" startframe="0" framelength="0" text="sleep"/>
+		<timing id="12" start="5.552" end="5.953" startframe="0" framelength="0" text="next"/>
+		<timing id="13" start="5.953" end="6.079" startframe="0" framelength="0" text="to"/>
+		<timing id="14" start="6.079" end="6.206" startframe="0" framelength="0" text="the"/>
+		<timing id="15" start="6.206" end="6.974666666666667" startframe="0" framelength="0" text="parrot"/>
 	</timings>
 </xml>

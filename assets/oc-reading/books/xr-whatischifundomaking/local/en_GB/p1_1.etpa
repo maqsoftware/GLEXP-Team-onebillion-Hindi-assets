@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo is sad Her doll is lost Nobody can find it">
-		<timing id="0" start="0.006" end="0.8" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.8" end="0.958" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.958" end="2.1" startframe="0" framelength="0" text="sad"/>
-		<timing id="3" start="2.1" end="2.388" startframe="0" framelength="0" text="Her"/>
-		<timing id="4" start="2.388" end="2.799" startframe="0" framelength="0" text="doll"/>
-		<timing id="5" start="2.799" end="2.993" startframe="0" framelength="0" text="is"/>
-		<timing id="6" start="2.993" end="4.216" startframe="0" framelength="0" text="lost"/>
-		<timing id="7" start="4.216" end="4.936" startframe="0" framelength="0" text="Nobody"/>
-		<timing id="8" start="4.936" end="5.235" startframe="0" framelength="0" text="can"/>
-		<timing id="9" start="5.235" end="5.765" startframe="0" framelength="0" text="find"/>
-		<timing id="10" start="5.765" end="6.321666666666666" startframe="0" framelength="0" text="it"/>
+	<timings text="Harita is sad Her doll is lost Nobody can find it">
+		<timing id="0" start="0.006" end="0.633" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.633" end="0.934" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.934" end="1.991" startframe="0" framelength="0" text="sad"/>
+		<timing id="3" start="1.991" end="2.245" startframe="0" framelength="0" text="Her"/>
+		<timing id="4" start="2.245" end="2.607" startframe="0" framelength="0" text="doll"/>
+		<timing id="5" start="2.607" end="2.777" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="2.777" end="3.891" startframe="0" framelength="0" text="lost"/>
+		<timing id="7" start="3.891" end="4.524" startframe="0" framelength="0" text="Nobody"/>
+		<timing id="8" start="4.524" end="4.781" startframe="0" framelength="0" text="can"/>
+		<timing id="9" start="4.781" end="5.24" startframe="0" framelength="0" text="find"/>
+		<timing id="10" start="5.24" end="5.746833333333333" startframe="0" framelength="0" text="it"/>
 	</timings>
 </xml>

@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Oxtail Bird pecks my teeth clean He is my favourite friend">
-		<timing id="0" start="0.006" end="0.787" startframe="0" framelength="0" text="Oxtail"/>
-		<timing id="1" start="0.787" end="1.212" startframe="0" framelength="0" text="Bird"/>
-		<timing id="2" start="1.212" end="1.76" startframe="0" framelength="0" text="pecks"/>
-		<timing id="3" start="1.76" end="2.024" startframe="0" framelength="0" text="my"/>
-		<timing id="4" start="2.024" end="2.5" startframe="0" framelength="0" text="teeth"/>
-		<timing id="5" start="2.5" end="3.65" startframe="0" framelength="0" text="clean"/>
-		<timing id="6" start="3.65" end="4.023" startframe="0" framelength="0" text="He"/>
-		<timing id="7" start="4.023" end="4.222" startframe="0" framelength="0" text="is"/>
-		<timing id="8" start="4.222" end="4.492" startframe="0" framelength="0" text="my"/>
-		<timing id="9" start="4.492" end="5.181" startframe="0" framelength="0" text="favourite"/>
-		<timing id="10" start="5.181" end="6.008166666666667" startframe="0" framelength="0" text="friend"/>
+		<timing id="0" start="0.006" end="0.69" startframe="0" framelength="0" text="Oxtail"/>
+		<timing id="1" start="0.69" end="1.067" startframe="0" framelength="0" text="Bird"/>
+		<timing id="2" start="1.067" end="1.548" startframe="0" framelength="0" text="pecks"/>
+		<timing id="3" start="1.548" end="1.783" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.783" end="2.206" startframe="0" framelength="0" text="teeth"/>
+		<timing id="5" start="2.206" end="3.269" startframe="0" framelength="0" text="clean"/>
+		<timing id="6" start="3.269" end="3.592" startframe="0" framelength="0" text="He"/>
+		<timing id="7" start="3.592" end="3.767" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.767" end="4.007" startframe="0" framelength="0" text="my"/>
+		<timing id="9" start="4.007" end="4.617" startframe="0" framelength="0" text="favourite"/>
+		<timing id="10" start="4.617" end="5.355" startframe="0" framelength="0" text="friend"/>
 	</timings>
 </xml>

@@ -2,19 +2,19 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="So grandma ties a thread around the tooth and pulls The tooth pops out">
-		<timing id="0" start="0.006" end="0.318" startframe="0" framelength="0" text="So"/>
-		<timing id="1" start="0.318" end="1.074" startframe="0" framelength="0" text="grandma"/>
-		<timing id="2" start="1.074" end="1.634" startframe="0" framelength="0" text="ties"/>
-		<timing id="3" start="1.634" end="1.704" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="1.704" end="2.213" startframe="0" framelength="0" text="thread"/>
-		<timing id="5" start="2.213" end="2.757" startframe="0" framelength="0" text="around"/>
-		<timing id="6" start="2.757" end="2.891" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="2.891" end="3.82" startframe="0" framelength="0" text="tooth"/>
-		<timing id="8" start="3.82" end="4.234" startframe="0" framelength="0" text="and"/>
-		<timing id="9" start="4.234" end="5.386" startframe="0" framelength="0" text="pulls"/>
-		<timing id="10" start="5.386" end="5.63" startframe="0" framelength="0" text="The"/>
-		<timing id="11" start="5.63" end="6.11" startframe="0" framelength="0" text="tooth"/>
-		<timing id="12" start="6.11" end="6.683" startframe="0" framelength="0" text="pops"/>
-		<timing id="13" start="6.683" end="7.444833333333333" startframe="0" framelength="0" text="out"/>
+		<timing id="0" start="0.006" end="0.335" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.335" end="0.986" startframe="0" framelength="0" text="grandma"/>
+		<timing id="2" start="0.986" end="1.467" startframe="0" framelength="0" text="ties"/>
+		<timing id="3" start="1.467" end="1.519" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.519" end="1.982" startframe="0" framelength="0" text="thread"/>
+		<timing id="5" start="1.982" end="2.441" startframe="0" framelength="0" text="around"/>
+		<timing id="6" start="2.441" end="2.546" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.546" end="3.005" startframe="0" framelength="0" text="tooth"/>
+		<timing id="8" start="3.005" end="3.202" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="3.202" end="4.274" startframe="0" framelength="0" text="pulls"/>
+		<timing id="10" start="4.274" end="4.484" startframe="0" framelength="0" text="The"/>
+		<timing id="11" start="4.484" end="4.902" startframe="0" framelength="0" text="tooth"/>
+		<timing id="12" start="4.902" end="5.41" startframe="0" framelength="0" text="pops"/>
+		<timing id="13" start="5.41" end="6.0865" startframe="0" framelength="0" text="out"/>
 	</timings>
 </xml>

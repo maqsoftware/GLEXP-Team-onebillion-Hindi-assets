@@ -2,25 +2,25 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I am a student Without studying there will be no good teachers or builders or carpenters or doctors or farmers">
-		<timing id="0" start="0.006" end="0.177" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.177" end="0.319" startframe="0" framelength="0" text="am"/>
-		<timing id="2" start="0.319" end="0.398" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.398" end="1.748" startframe="0" framelength="0" text="student"/>
-		<timing id="4" start="1.748" end="2.501" startframe="0" framelength="0" text="Without"/>
-		<timing id="5" start="2.501" end="3.636" startframe="0" framelength="0" text="studying"/>
-		<timing id="6" start="3.636" end="4.031" startframe="0" framelength="0" text="there"/>
-		<timing id="7" start="4.031" end="4.316" startframe="0" framelength="0" text="will"/>
-		<timing id="8" start="4.316" end="4.529" startframe="0" framelength="0" text="be"/>
-		<timing id="9" start="4.529" end="4.787" startframe="0" framelength="0" text="no"/>
-		<timing id="10" start="4.787" end="5.165" startframe="0" framelength="0" text="good"/>
-		<timing id="11" start="5.165" end="6.393" startframe="0" framelength="0" text="teachers"/>
-		<timing id="12" start="6.393" end="6.648" startframe="0" framelength="0" text="or"/>
-		<timing id="13" start="6.648" end="7.819" startframe="0" framelength="0" text="builders"/>
-		<timing id="14" start="7.819" end="8.039" startframe="0" framelength="0" text="or"/>
-		<timing id="15" start="8.039" end="9.574" startframe="0" framelength="0" text="carpenters"/>
-		<timing id="16" start="9.574" end="9.796" startframe="0" framelength="0" text="or"/>
-		<timing id="17" start="9.796" end="11.093" startframe="0" framelength="0" text="doctors"/>
-		<timing id="18" start="11.093" end="11.322" startframe="0" framelength="0" text="or"/>
-		<timing id="19" start="11.322" end="12.564833333333333" startframe="0" framelength="0" text="farmers"/>
+		<timing id="0" start="0.006" end="0.15" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.15" end="0.278" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.278" end="0.35" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.35" end="1.596" startframe="0" framelength="0" text="student"/>
+		<timing id="4" start="1.596" end="2.255" startframe="0" framelength="0" text="Without"/>
+		<timing id="5" start="2.255" end="3.282" startframe="0" framelength="0" text="studying"/>
+		<timing id="6" start="3.282" end="3.631" startframe="0" framelength="0" text="there"/>
+		<timing id="7" start="3.631" end="3.885" startframe="0" framelength="0" text="will"/>
+		<timing id="8" start="3.885" end="4.081" startframe="0" framelength="0" text="be"/>
+		<timing id="9" start="4.081" end="4.308" startframe="0" framelength="0" text="no"/>
+		<timing id="10" start="4.308" end="4.641" startframe="0" framelength="0" text="good"/>
+		<timing id="11" start="4.641" end="5.741" startframe="0" framelength="0" text="teachers"/>
+		<timing id="12" start="5.741" end="5.967" startframe="0" framelength="0" text="or"/>
+		<timing id="13" start="5.967" end="7.023" startframe="0" framelength="0" text="builders"/>
+		<timing id="14" start="7.023" end="7.215" startframe="0" framelength="0" text="or"/>
+		<timing id="15" start="7.215" end="8.599" startframe="0" framelength="0" text="carpenters"/>
+		<timing id="16" start="8.599" end="8.795" startframe="0" framelength="0" text="or"/>
+		<timing id="17" start="8.795" end="9.957" startframe="0" framelength="0" text="doctors"/>
+		<timing id="18" start="9.957" end="10.155" startframe="0" framelength="0" text="or"/>
+		<timing id="19" start="10.155" end="11.232666666666667" startframe="0" framelength="0" text="farmers"/>
 	</timings>
 </xml>

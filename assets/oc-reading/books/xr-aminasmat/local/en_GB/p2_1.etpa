@@ -1,23 +1,23 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Amina loved her mat She slept like a log on her mat She always had sweet dreams">
-		<timing id="0" start="0.006" end="0.607" startframe="0" framelength="0" text="Amina"/>
-		<timing id="1" start="0.607" end="1.121" startframe="0" framelength="0" text="loved"/>
-		<timing id="2" start="1.121" end="1.367" startframe="0" framelength="0" text="her"/>
-		<timing id="3" start="1.367" end="2.484" startframe="0" framelength="0" text="mat"/>
-		<timing id="4" start="2.484" end="2.837" startframe="0" framelength="0" text="She"/>
-		<timing id="5" start="2.837" end="3.479" startframe="0" framelength="0" text="slept"/>
-		<timing id="6" start="3.479" end="3.932" startframe="0" framelength="0" text="like"/>
-		<timing id="7" start="3.932" end="3.988" startframe="0" framelength="0" text="a"/>
-		<timing id="8" start="3.988" end="4.503" startframe="0" framelength="0" text="log"/>
-		<timing id="9" start="4.503" end="4.701" startframe="0" framelength="0" text="on"/>
-		<timing id="10" start="4.701" end="4.926" startframe="0" framelength="0" text="her"/>
-		<timing id="11" start="4.926" end="6.043" startframe="0" framelength="0" text="mat"/>
-		<timing id="12" start="6.043" end="6.402" startframe="0" framelength="0" text="She"/>
-		<timing id="13" start="6.402" end="7.034" startframe="0" framelength="0" text="always"/>
-		<timing id="14" start="7.034" end="7.393" startframe="0" framelength="0" text="had"/>
-		<timing id="15" start="7.393" end="8.04" startframe="0" framelength="0" text="sweet"/>
-		<timing id="16" start="8.04" end="9.247333333333334" startframe="0" framelength="0" text="dreams"/>
+	<timings text="Kalpana loved her mat She slept like a log on her mat She always had sweet dreams">
+		<timing id="0" start="0.006" end="0.558" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="1" start="0.558" end="1.015" startframe="0" framelength="0" text="loved"/>
+		<timing id="2" start="1.015" end="1.194" startframe="0" framelength="0" text="her"/>
+		<timing id="3" start="1.194" end="2.234" startframe="0" framelength="0" text="mat"/>
+		<timing id="4" start="2.234" end="2.539" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="2.539" end="3.113" startframe="0" framelength="0" text="slept"/>
+		<timing id="6" start="3.113" end="3.505" startframe="0" framelength="0" text="like"/>
+		<timing id="7" start="3.505" end="3.553" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="3.553" end="3.997" startframe="0" framelength="0" text="log"/>
+		<timing id="9" start="3.997" end="4.168" startframe="0" framelength="0" text="on"/>
+		<timing id="10" start="4.168" end="4.366" startframe="0" framelength="0" text="her"/>
+		<timing id="11" start="4.366" end="5.4" startframe="0" framelength="0" text="mat"/>
+		<timing id="12" start="5.4" end="5.724" startframe="0" framelength="0" text="She"/>
+		<timing id="13" start="5.724" end="6.276" startframe="0" framelength="0" text="always"/>
+		<timing id="14" start="6.276" end="6.585" startframe="0" framelength="0" text="had"/>
+		<timing id="15" start="6.585" end="7.152" startframe="0" framelength="0" text="sweet"/>
+		<timing id="16" start="7.152" end="8.2285" startframe="0" framelength="0" text="dreams"/>
 	</timings>
 </xml>

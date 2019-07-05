@@ -2,25 +2,25 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Out in the forest it was getting dark The children were scared They ran and ran and ran towards home">
-		<timing id="0" start="0.006" end="0.446" startframe="0" framelength="0" text="Out"/>
-		<timing id="1" start="0.446" end="0.582" startframe="0" framelength="0" text="in"/>
-		<timing id="2" start="0.582" end="0.7" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.7" end="1.905" startframe="0" framelength="0" text="forest"/>
-		<timing id="4" start="1.905" end="2.096" startframe="0" framelength="0" text="it"/>
-		<timing id="5" start="2.096" end="2.417" startframe="0" framelength="0" text="was"/>
-		<timing id="6" start="2.417" end="2.973" startframe="0" framelength="0" text="getting"/>
-		<timing id="7" start="2.973" end="4.013" startframe="0" framelength="0" text="dark"/>
-		<timing id="8" start="4.013" end="4.245" startframe="0" framelength="0" text="The"/>
-		<timing id="9" start="4.245" end="4.939" startframe="0" framelength="0" text="children"/>
-		<timing id="10" start="4.939" end="5.206" startframe="0" framelength="0" text="were"/>
-		<timing id="11" start="5.206" end="6.434" startframe="0" framelength="0" text="scared"/>
-		<timing id="12" start="6.434" end="6.701" startframe="0" framelength="0" text="They"/>
-		<timing id="13" start="6.701" end="7.221" startframe="0" framelength="0" text="ran"/>
-		<timing id="14" start="7.221" end="7.463" startframe="0" framelength="0" text="and"/>
-		<timing id="15" start="7.463" end="7.847" startframe="0" framelength="0" text="ran"/>
-		<timing id="16" start="7.847" end="8.091" startframe="0" framelength="0" text="and"/>
-		<timing id="17" start="8.091" end="8.464" startframe="0" framelength="0" text="ran"/>
-		<timing id="18" start="8.464" end="9.312" startframe="0" framelength="0" text="towards"/>
-		<timing id="19" start="9.312" end="10.109333333333334" startframe="0" framelength="0" text="home"/>
+		<timing id="0" start="0.006" end="0.393" startframe="0" framelength="0" text="Out"/>
+		<timing id="1" start="0.393" end="0.517" startframe="0" framelength="0" text="in"/>
+		<timing id="2" start="0.517" end="0.619" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.619" end="1.704" startframe="0" framelength="0" text="forest"/>
+		<timing id="4" start="1.704" end="1.875" startframe="0" framelength="0" text="it"/>
+		<timing id="5" start="1.875" end="2.164" startframe="0" framelength="0" text="was"/>
+		<timing id="6" start="2.164" end="2.651" startframe="0" framelength="0" text="getting"/>
+		<timing id="7" start="2.651" end="3.615" startframe="0" framelength="0" text="dark"/>
+		<timing id="8" start="3.615" end="3.822" startframe="0" framelength="0" text="The"/>
+		<timing id="9" start="3.822" end="4.431" startframe="0" framelength="0" text="children"/>
+		<timing id="10" start="4.431" end="4.665" startframe="0" framelength="0" text="were"/>
+		<timing id="11" start="4.665" end="5.793" startframe="0" framelength="0" text="scared"/>
+		<timing id="12" start="5.793" end="6.025" startframe="0" framelength="0" text="They"/>
+		<timing id="13" start="6.025" end="6.474" startframe="0" framelength="0" text="ran"/>
+		<timing id="14" start="6.474" end="6.688" startframe="0" framelength="0" text="and"/>
+		<timing id="15" start="6.688" end="7.031" startframe="0" framelength="0" text="ran"/>
+		<timing id="16" start="7.031" end="7.241" startframe="0" framelength="0" text="and"/>
+		<timing id="17" start="7.241" end="7.571" startframe="0" framelength="0" text="ran"/>
+		<timing id="18" start="7.571" end="8.321" startframe="0" framelength="0" text="towards"/>
+		<timing id="19" start="8.321" end="9.012166666666667" startframe="0" framelength="0" text="home"/>
 	</timings>
 </xml>

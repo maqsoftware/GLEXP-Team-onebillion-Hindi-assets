@@ -2,20 +2,20 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="One day Mouse found a big cake I will take this cake home he said">
-		<timing id="0" start="0.006" end="0.481" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.481" end="1.215" startframe="0" framelength="0" text="day"/>
-		<timing id="2" start="1.215" end="1.796" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="3" start="1.796" end="2.33" startframe="0" framelength="0" text="found"/>
-		<timing id="4" start="2.33" end="2.375" startframe="0" framelength="0" text="a"/>
-		<timing id="5" start="2.375" end="2.711" startframe="0" framelength="0" text="big"/>
-		<timing id="6" start="2.711" end="3.93" startframe="0" framelength="0" text="cake"/>
-		<timing id="7" start="3.93" end="4.164" startframe="0" framelength="0" text="I"/>
-		<timing id="8" start="4.164" end="4.471" startframe="0" framelength="0" text="will"/>
-		<timing id="9" start="4.471" end="4.858" startframe="0" framelength="0" text="take"/>
-		<timing id="10" start="4.858" end="5.197" startframe="0" framelength="0" text="this"/>
-		<timing id="11" start="5.197" end="5.61" startframe="0" framelength="0" text="cake"/>
-		<timing id="12" start="5.61" end="6.431" startframe="0" framelength="0" text="home"/>
-		<timing id="13" start="6.431" end="6.664" startframe="0" framelength="0" text="he"/>
-		<timing id="14" start="6.664" end="7.392666666666667" startframe="0" framelength="0" text="said"/>
+		<timing id="0" start="0.006" end="0.422" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.422" end="1.095" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="1.095" end="1.6" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="3" start="1.6" end="2.07" startframe="0" framelength="0" text="found"/>
+		<timing id="4" start="2.07" end="2.111" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="2.111" end="2.419" startframe="0" framelength="0" text="big"/>
+		<timing id="6" start="2.419" end="3.55" startframe="0" framelength="0" text="cake"/>
+		<timing id="7" start="3.55" end="3.755" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="3.755" end="4.028" startframe="0" framelength="0" text="will"/>
+		<timing id="9" start="4.028" end="4.374" startframe="0" framelength="0" text="take"/>
+		<timing id="10" start="4.374" end="4.678" startframe="0" framelength="0" text="this"/>
+		<timing id="11" start="4.678" end="5.042" startframe="0" framelength="0" text="cake"/>
+		<timing id="12" start="5.042" end="5.792" startframe="0" framelength="0" text="home"/>
+		<timing id="13" start="5.792" end="5.999" startframe="0" framelength="0" text="he"/>
+		<timing id="14" start="5.999" end="6.635" startframe="0" framelength="0" text="said"/>
 	</timings>
 </xml>

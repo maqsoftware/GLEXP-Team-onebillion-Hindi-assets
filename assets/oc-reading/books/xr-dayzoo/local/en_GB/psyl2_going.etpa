@@ -1,8 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="go ing">
-		<timing id="0" start="0.006" end="0.992" startframe="0" framelength="0" text="go"/>
-		<timing id="1" start="0.992" end="1.5411666666666666" startframe="0" framelength="0" text="ing"/>
-	</timings>
-</xml>

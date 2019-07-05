@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I can see nine fishes They are swimming too">
-		<timing id="0" start="0.006" end="0.223" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.223" end="0.503" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.503" end="0.844" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="0.844" end="1.272" startframe="0" framelength="0" text="nine"/>
-		<timing id="4" start="1.272" end="2.718" startframe="0" framelength="0" text="fishes"/>
-		<timing id="5" start="2.718" end="3.08" startframe="0" framelength="0" text="They"/>
-		<timing id="6" start="3.08" end="3.206" startframe="0" framelength="0" text="are"/>
-		<timing id="7" start="3.206" end="3.831" startframe="0" framelength="0" text="swimming"/>
-		<timing id="8" start="3.831" end="4.519166666666667" startframe="0" framelength="0" text="too"/>
+		<timing id="0" start="0.006" end="0.192" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.192" end="0.44" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.44" end="0.732" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="0.732" end="1.11" startframe="0" framelength="0" text="nine"/>
+		<timing id="4" start="1.11" end="2.431" startframe="0" framelength="0" text="fishes"/>
+		<timing id="5" start="2.431" end="2.75" startframe="0" framelength="0" text="They"/>
+		<timing id="6" start="2.75" end="2.86" startframe="0" framelength="0" text="are"/>
+		<timing id="7" start="2.86" end="3.404" startframe="0" framelength="0" text="swimming"/>
+		<timing id="8" start="3.404" end="4.022833333333334" startframe="0" framelength="0" text="too"/>
 	</timings>
 </xml>

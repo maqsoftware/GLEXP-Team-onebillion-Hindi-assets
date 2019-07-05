@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="My garden is green">
-		<timing id="0" start="0.006" end="0.322" startframe="0" framelength="0" text="My"/>
-		<timing id="1" start="0.322" end="0.932" startframe="0" framelength="0" text="garden"/>
-		<timing id="2" start="0.932" end="1.212" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.212" end="1.933" startframe="0" framelength="0" text="green"/>
+		<timing id="0" start="0.006" end="0.288" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.288" end="0.823" startframe="0" framelength="0" text="garden"/>
+		<timing id="2" start="0.823" end="1.069" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.069" end="1.724" startframe="0" framelength="0" text="green"/>
 	</timings>
 </xml>

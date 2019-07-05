@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I shouted Help Help">
-		<timing id="0" start="0.006" end="0.242" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.242" end="1.414" startframe="0" framelength="0" text="shouted"/>
-		<timing id="2" start="1.414" end="2.658" startframe="0" framelength="0" text="Help"/>
-		<timing id="3" start="2.658" end="3.5526666666666666" startframe="0" framelength="0" text="Help"/>
+		<timing id="0" start="0.006" end="0.215" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.215" end="1.268" startframe="0" framelength="0" text="shouted"/>
+		<timing id="2" start="1.268" end="2.413" startframe="0" framelength="0" text="Help"/>
+		<timing id="3" start="2.413" end="3.2391666666666667" startframe="0" framelength="0" text="Help"/>
 	</timings>
 </xml>

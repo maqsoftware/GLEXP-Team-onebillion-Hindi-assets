@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="A very tall man">
-		<timing id="0" start="0.006" end="0.149" startframe="0" framelength="0" text="A"/>
-		<timing id="1" start="0.149" end="0.653" startframe="0" framelength="0" text="very"/>
-		<timing id="2" start="0.653" end="1.115" startframe="0" framelength="0" text="tall"/>
-		<timing id="3" start="1.115" end="1.8808333333333334" startframe="0" framelength="0" text="man"/>
+		<timing id="0" start="0.006" end="0.134" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.134" end="0.563" startframe="0" framelength="0" text="very"/>
+		<timing id="2" start="0.563" end="0.966" startframe="0" framelength="0" text="tall"/>
+		<timing id="3" start="0.966" end="1.6456666666666666" startframe="0" framelength="0" text="man"/>
 	</timings>
 </xml>

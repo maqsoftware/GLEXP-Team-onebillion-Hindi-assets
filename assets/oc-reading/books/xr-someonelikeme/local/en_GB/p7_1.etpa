@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="There is no one the same as me">
-		<timing id="0" start="0.006" end="0.452" startframe="0" framelength="0" text="There"/>
-		<timing id="1" start="0.452" end="0.708" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.708" end="1.092" startframe="0" framelength="0" text="no"/>
-		<timing id="3" start="1.092" end="1.375" startframe="0" framelength="0" text="one"/>
-		<timing id="4" start="1.375" end="1.49" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.49" end="2.003" startframe="0" framelength="0" text="same"/>
-		<timing id="6" start="2.003" end="2.289" startframe="0" framelength="0" text="as"/>
-		<timing id="7" start="2.289" end="2.8735" startframe="0" framelength="0" text="me"/>
+		<timing id="0" start="0.006" end="0.398" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.398" end="0.617" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.617" end="0.951" startframe="0" framelength="0" text="no"/>
+		<timing id="3" start="0.951" end="1.195" startframe="0" framelength="0" text="one"/>
+		<timing id="4" start="1.195" end="1.292" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.292" end="1.737" startframe="0" framelength="0" text="same"/>
+		<timing id="6" start="1.737" end="1.988" startframe="0" framelength="0" text="as"/>
+		<timing id="7" start="1.988" end="2.5338333333333334" startframe="0" framelength="0" text="me"/>
 	</timings>
 </xml>

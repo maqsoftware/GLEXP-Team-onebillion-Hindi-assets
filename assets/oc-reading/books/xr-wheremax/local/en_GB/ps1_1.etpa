@@ -1,13 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Look at Peng and Joy and Max">
-		<timing id="0" start="0.006" end="0.438" startframe="0" framelength="0" text="Look"/>
-		<timing id="1" start="0.438" end="0.693" startframe="0" framelength="0" text="at"/>
-		<timing id="2" start="0.693" end="1.096" startframe="0" framelength="0" text="Peng"/>
-		<timing id="3" start="1.096" end="1.345" startframe="0" framelength="0" text="and"/>
-		<timing id="4" start="1.345" end="1.708" startframe="0" framelength="0" text="Joy"/>
-		<timing id="5" start="1.708" end="1.958" startframe="0" framelength="0" text="and"/>
-		<timing id="6" start="1.958" end="2.9518333333333335" startframe="0" framelength="0" text="Max"/>
+	<timings text="Look <break time="500ms"/> at <break time="500ms"/> Ankit <break time="500ms"/> and <break time="500ms"/> Apoorva <break time="500ms"/> and <break time="500ms"/> Max <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.768" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.768" end="1.368" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.368" end="1.917" startframe="0" framelength="0" text="at"/>
+		<timing id="3" start="1.917" end="2.517" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.517" end="3.419" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="5" start="3.419" end="4.009" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.009" end="4.709" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="4.709" end="5.309" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.309" end="6.308" startframe="0" framelength="0" text="Apoorva"/>
+		<timing id="9" start="6.308" end="6.904" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.904" end="7.739" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="7.739" end="8.333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.333" end="9.553" startframe="0" framelength="0" text="Max"/>
+		<timing id="13" start="9.553" end="10.109333333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

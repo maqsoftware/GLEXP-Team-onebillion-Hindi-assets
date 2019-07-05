@@ -2,9 +2,9 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="They can’t catch me">
-		<timing id="0" start="0.006" end="0.244" startframe="0" framelength="0" text="They"/>
-		<timing id="1" start="0.244" end="0.804" startframe="0" framelength="0" text="can’t"/>
-		<timing id="2" start="0.804" end="1.304" startframe="0" framelength="0" text="catch"/>
-		<timing id="3" start="1.304" end="1.9068333333333334" startframe="0" framelength="0" text="me"/>
+		<timing id="0" start="0.006" end="0.207" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.207" end="0.695" startframe="0" framelength="0" text="can’t"/>
+		<timing id="2" start="0.695" end="1.134" startframe="0" framelength="0" text="catch"/>
+		<timing id="3" start="1.134" end="1.6718333333333333" startframe="0" framelength="0" text="me"/>
 	</timings>
 </xml>

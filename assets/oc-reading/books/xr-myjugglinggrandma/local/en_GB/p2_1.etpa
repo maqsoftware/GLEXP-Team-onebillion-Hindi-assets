@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="I can juggle anything said Grandma But Grandpa wasn’t sure">
-		<timing id="0" start="0.006" end="0.235" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.235" end="0.558" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.558" end="0.997" startframe="0" framelength="0" text="juggle"/>
-		<timing id="3" start="0.997" end="2.074" startframe="0" framelength="0" text="anything"/>
-		<timing id="4" start="2.074" end="2.566" startframe="0" framelength="0" text="said"/>
-		<timing id="5" start="2.566" end="3.916" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="6" start="3.916" end="4.252" startframe="0" framelength="0" text="But"/>
-		<timing id="7" start="4.252" end="5.043" startframe="0" framelength="0" text="Grandpa"/>
-		<timing id="8" start="5.043" end="5.529" startframe="0" framelength="0" text="wasn’t"/>
-		<timing id="9" start="5.529" end="6.347666666666667" startframe="0" framelength="0" text="sure"/>
+		<timing id="0" start="0.006" end="0.208" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.208" end="0.488" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.488" end="0.872" startframe="0" framelength="0" text="juggle"/>
+		<timing id="3" start="0.872" end="1.853" startframe="0" framelength="0" text="anything"/>
+		<timing id="4" start="1.853" end="2.273" startframe="0" framelength="0" text="said"/>
+		<timing id="5" start="2.273" end="3.517" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="6" start="3.517" end="3.812" startframe="0" framelength="0" text="But"/>
+		<timing id="7" start="3.812" end="4.502" startframe="0" framelength="0" text="Grandpa"/>
+		<timing id="8" start="4.502" end="4.931" startframe="0" framelength="0" text="wasn’t"/>
+		<timing id="9" start="4.931" end="5.642333333333333" startframe="0" framelength="0" text="sure"/>
 	</timings>
 </xml>

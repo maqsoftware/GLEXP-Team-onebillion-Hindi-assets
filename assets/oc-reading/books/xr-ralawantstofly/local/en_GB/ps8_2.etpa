@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Her wish is to be a pilot when she grows up">
-		<timing id="0" start="0.006" end="0.349" startframe="0" framelength="0" text="Her"/>
-		<timing id="1" start="0.349" end="0.735" startframe="0" framelength="0" text="wish"/>
-		<timing id="2" start="0.735" end="0.947" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="0.947" end="1.11" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.11" end="1.329" startframe="0" framelength="0" text="be"/>
-		<timing id="5" start="1.329" end="1.407" startframe="0" framelength="0" text="a"/>
-		<timing id="6" start="1.407" end="2.1" startframe="0" framelength="0" text="pilot"/>
-		<timing id="7" start="2.1" end="2.367" startframe="0" framelength="0" text="when"/>
-		<timing id="8" start="2.367" end="2.661" startframe="0" framelength="0" text="she"/>
-		<timing id="9" start="2.661" end="3.204" startframe="0" framelength="0" text="grows"/>
-		<timing id="10" start="3.204" end="3.7355" startframe="0" framelength="0" text="up"/>
+		<timing id="0" start="0.006" end="0.3" startframe="0" framelength="0" text="Her"/>
+		<timing id="1" start="0.3" end="0.641" startframe="0" framelength="0" text="wish"/>
+		<timing id="2" start="0.641" end="0.829" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.829" end="0.969" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="0.969" end="1.158" startframe="0" framelength="0" text="be"/>
+		<timing id="5" start="1.158" end="1.229" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="1.229" end="1.828" startframe="0" framelength="0" text="pilot"/>
+		<timing id="7" start="1.828" end="2.062" startframe="0" framelength="0" text="when"/>
+		<timing id="8" start="2.062" end="2.317" startframe="0" framelength="0" text="she"/>
+		<timing id="9" start="2.317" end="2.805" startframe="0" framelength="0" text="grows"/>
+		<timing id="10" start="2.805" end="3.291333333333333" startframe="0" framelength="0" text="up"/>
 	</timings>
 </xml>

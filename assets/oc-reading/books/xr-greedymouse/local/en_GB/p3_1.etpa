@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Mouse tried to pull the cake But the big cake did not move">
-		<timing id="0" start="0.006" end="0.559" startframe="0" framelength="0" text="Mouse"/>
-		<timing id="1" start="0.559" end="0.992" startframe="0" framelength="0" text="tried"/>
-		<timing id="2" start="0.992" end="1.157" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="1.157" end="1.588" startframe="0" framelength="0" text="pull"/>
-		<timing id="4" start="1.588" end="1.737" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.737" end="2.947" startframe="0" framelength="0" text="cake"/>
-		<timing id="6" start="2.947" end="3.343" startframe="0" framelength="0" text="But"/>
-		<timing id="7" start="3.343" end="3.5" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.5" end="3.814" startframe="0" framelength="0" text="big"/>
-		<timing id="9" start="3.814" end="4.175" startframe="0" framelength="0" text="cake"/>
-		<timing id="10" start="4.175" end="4.458" startframe="0" framelength="0" text="did"/>
-		<timing id="11" start="4.458" end="4.956" startframe="0" framelength="0" text="not"/>
-		<timing id="12" start="4.956" end="5.6685" startframe="0" framelength="0" text="move"/>
+		<timing id="0" start="0.006" end="0.497" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="1" start="0.497" end="0.871" startframe="0" framelength="0" text="tried"/>
+		<timing id="2" start="0.871" end="1.012" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.012" end="1.387" startframe="0" framelength="0" text="pull"/>
+		<timing id="4" start="1.387" end="1.519" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.519" end="2.644" startframe="0" framelength="0" text="cake"/>
+		<timing id="6" start="2.644" end="2.997" startframe="0" framelength="0" text="But"/>
+		<timing id="7" start="2.997" end="3.13" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.13" end="3.421" startframe="0" framelength="0" text="big"/>
+		<timing id="9" start="3.421" end="3.742" startframe="0" framelength="0" text="cake"/>
+		<timing id="10" start="3.742" end="3.993" startframe="0" framelength="0" text="did"/>
+		<timing id="11" start="3.993" end="4.435" startframe="0" framelength="0" text="not"/>
+		<timing id="12" start="4.435" end="5.067666666666667" startframe="0" framelength="0" text="move"/>
 	</timings>
 </xml>

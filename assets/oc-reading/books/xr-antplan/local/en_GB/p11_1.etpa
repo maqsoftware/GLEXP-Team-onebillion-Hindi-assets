@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="When the ants return the Queen is glad">
-		<timing id="0" start="0.006" end="0.401" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.401" end="0.66" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.66" end="1.126" startframe="0" framelength="0" text="ants"/>
-		<timing id="3" start="1.126" end="1.738" startframe="0" framelength="0" text="return"/>
-		<timing id="4" start="1.738" end="1.87" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.87" end="2.377" startframe="0" framelength="0" text="Queen"/>
-		<timing id="6" start="2.377" end="2.613" startframe="0" framelength="0" text="is"/>
-		<timing id="7" start="2.613" end="3.3698333333333332" startframe="0" framelength="0" text="glad"/>
+		<timing id="0" start="0.006" end="0.349" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.349" end="0.578" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.578" end="0.991" startframe="0" framelength="0" text="ants"/>
+		<timing id="3" start="0.991" end="1.527" startframe="0" framelength="0" text="return"/>
+		<timing id="4" start="1.527" end="1.64" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.64" end="2.084" startframe="0" framelength="0" text="Queen"/>
+		<timing id="6" start="2.084" end="2.295" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="2.295" end="2.9518333333333335" startframe="0" framelength="0" text="glad"/>
 	</timings>
 </xml>

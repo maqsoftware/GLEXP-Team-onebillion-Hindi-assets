@@ -1,19 +1,19 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chikondi’s mother is very busy She is cleaning the house for the wedding">
-		<timing id="0" start="0.006" end="1.128" startframe="0" framelength="0" text="Chikondi’s"/>
-		<timing id="1" start="1.128" end="1.627" startframe="0" framelength="0" text="mother"/>
-		<timing id="2" start="1.627" end="1.912" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.912" end="2.285" startframe="0" framelength="0" text="very"/>
-		<timing id="4" start="2.285" end="3.385" startframe="0" framelength="0" text="busy"/>
-		<timing id="5" start="3.385" end="3.665" startframe="0" framelength="0" text="She"/>
-		<timing id="6" start="3.665" end="3.868" startframe="0" framelength="0" text="is"/>
-		<timing id="7" start="3.868" end="4.495" startframe="0" framelength="0" text="cleaning"/>
-		<timing id="8" start="4.495" end="4.608" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="4.608" end="5.222" startframe="0" framelength="0" text="house"/>
-		<timing id="10" start="5.222" end="5.448" startframe="0" framelength="0" text="for"/>
-		<timing id="11" start="5.448" end="5.613" startframe="0" framelength="0" text="the"/>
-		<timing id="12" start="5.613" end="6.5305" startframe="0" framelength="0" text="wedding"/>
+	<timings text="Dipti’s mother is very busy She is cleaning the house for the wedding">
+		<timing id="0" start="0.006" end="0.801" startframe="0" framelength="0" text="Dipti’s"/>
+		<timing id="1" start="0.801" end="1.252" startframe="0" framelength="0" text="mother"/>
+		<timing id="2" start="1.252" end="1.503" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.503" end="1.835" startframe="0" framelength="0" text="very"/>
+		<timing id="4" start="1.835" end="2.834" startframe="0" framelength="0" text="busy"/>
+		<timing id="5" start="2.834" end="3.072" startframe="0" framelength="0" text="She"/>
+		<timing id="6" start="3.072" end="3.256" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="3.256" end="3.813" startframe="0" framelength="0" text="cleaning"/>
+		<timing id="8" start="3.813" end="3.91" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.91" end="4.453" startframe="0" framelength="0" text="house"/>
+		<timing id="10" start="4.453" end="4.652" startframe="0" framelength="0" text="for"/>
+		<timing id="11" start="4.652" end="4.792" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.792" end="5.590166666666667" startframe="0" framelength="0" text="wedding"/>
 	</timings>
 </xml>

@@ -2,18 +2,18 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She painted all the things she liked On herself From head to toe">
-		<timing id="0" start="0.006" end="0.298" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.298" end="1.017" startframe="0" framelength="0" text="painted"/>
-		<timing id="2" start="1.017" end="1.273" startframe="0" framelength="0" text="all"/>
-		<timing id="3" start="1.273" end="1.401" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.401" end="1.978" startframe="0" framelength="0" text="things"/>
-		<timing id="5" start="1.978" end="2.3" startframe="0" framelength="0" text="she"/>
-		<timing id="6" start="2.3" end="3.55" startframe="0" framelength="0" text="liked"/>
-		<timing id="7" start="3.55" end="3.783" startframe="0" framelength="0" text="On"/>
-		<timing id="8" start="3.783" end="5.238" startframe="0" framelength="0" text="herself"/>
-		<timing id="9" start="5.238" end="5.699" startframe="0" framelength="0" text="From"/>
-		<timing id="10" start="5.699" end="6.08" startframe="0" framelength="0" text="head"/>
-		<timing id="11" start="6.08" end="6.311" startframe="0" framelength="0" text="to"/>
-		<timing id="12" start="6.311" end="7.079166666666667" startframe="0" framelength="0" text="toe"/>
+		<timing id="0" start="0.006" end="0.263" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.263" end="0.897" startframe="0" framelength="0" text="painted"/>
+		<timing id="2" start="0.897" end="1.13" startframe="0" framelength="0" text="all"/>
+		<timing id="3" start="1.13" end="1.239" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.239" end="1.751" startframe="0" framelength="0" text="things"/>
+		<timing id="5" start="1.751" end="2.033" startframe="0" framelength="0" text="she"/>
+		<timing id="6" start="2.033" end="3.185" startframe="0" framelength="0" text="liked"/>
+		<timing id="7" start="3.185" end="3.389" startframe="0" framelength="0" text="On"/>
+		<timing id="8" start="3.389" end="4.709" startframe="0" framelength="0" text="herself"/>
+		<timing id="9" start="4.709" end="5.123" startframe="0" framelength="0" text="From"/>
+		<timing id="10" start="5.123" end="5.461" startframe="0" framelength="0" text="head"/>
+		<timing id="11" start="5.461" end="5.663" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="5.663" end="6.321666666666666" startframe="0" framelength="0" text="toe"/>
 	</timings>
 </xml>

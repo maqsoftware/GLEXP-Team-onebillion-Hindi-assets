@@ -2,26 +2,26 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The builder says A builder has the most important job Without us there would be no houses or schools or hospitals">
-		<timing id="0" start="0.006" end="0.184" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.184" end="0.71" startframe="0" framelength="0" text="builder"/>
-		<timing id="2" start="0.71" end="1.643" startframe="0" framelength="0" text="says"/>
-		<timing id="3" start="1.643" end="1.747" startframe="0" framelength="0" text="A"/>
-		<timing id="4" start="1.747" end="2.314" startframe="0" framelength="0" text="builder"/>
-		<timing id="5" start="2.314" end="2.683" startframe="0" framelength="0" text="has"/>
-		<timing id="6" start="2.683" end="2.83" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="2.83" end="3.411" startframe="0" framelength="0" text="most"/>
-		<timing id="8" start="3.411" end="4.173" startframe="0" framelength="0" text="important"/>
-		<timing id="9" start="4.173" end="5.215" startframe="0" framelength="0" text="job"/>
-		<timing id="10" start="5.215" end="5.971" startframe="0" framelength="0" text="Without"/>
-		<timing id="11" start="5.971" end="6.752" startframe="0" framelength="0" text="us"/>
-		<timing id="12" start="6.752" end="7.132" startframe="0" framelength="0" text="there"/>
-		<timing id="13" start="7.132" end="7.367" startframe="0" framelength="0" text="would"/>
-		<timing id="14" start="7.367" end="7.573" startframe="0" framelength="0" text="be"/>
-		<timing id="15" start="7.573" end="7.904" startframe="0" framelength="0" text="no"/>
-		<timing id="16" start="7.904" end="9.12" startframe="0" framelength="0" text="houses"/>
-		<timing id="17" start="9.12" end="9.343" startframe="0" framelength="0" text="or"/>
-		<timing id="18" start="9.343" end="10.425" startframe="0" framelength="0" text="schools"/>
-		<timing id="19" start="10.425" end="10.599" startframe="0" framelength="0" text="or"/>
-		<timing id="20" start="10.599" end="11.990166666666667" startframe="0" framelength="0" text="hospitals"/>
+		<timing id="0" start="0.006" end="0.159" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.159" end="0.623" startframe="0" framelength="0" text="builder"/>
+		<timing id="2" start="0.623" end="1.464" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="1.464" end="1.556" startframe="0" framelength="0" text="A"/>
+		<timing id="4" start="1.556" end="2.062" startframe="0" framelength="0" text="builder"/>
+		<timing id="5" start="2.062" end="2.377" startframe="0" framelength="0" text="has"/>
+		<timing id="6" start="2.377" end="2.505" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.505" end="3.02" startframe="0" framelength="0" text="most"/>
+		<timing id="8" start="3.02" end="3.69" startframe="0" framelength="0" text="important"/>
+		<timing id="9" start="3.69" end="4.655" startframe="0" framelength="0" text="job"/>
+		<timing id="10" start="4.655" end="5.314" startframe="0" framelength="0" text="Without"/>
+		<timing id="11" start="5.314" end="6.029" startframe="0" framelength="0" text="us"/>
+		<timing id="12" start="6.029" end="6.357" startframe="0" framelength="0" text="there"/>
+		<timing id="13" start="6.357" end="6.567" startframe="0" framelength="0" text="would"/>
+		<timing id="14" start="6.567" end="6.749" startframe="0" framelength="0" text="be"/>
+		<timing id="15" start="6.749" end="7.045" startframe="0" framelength="0" text="no"/>
+		<timing id="16" start="7.045" end="8.149" startframe="0" framelength="0" text="houses"/>
+		<timing id="17" start="8.149" end="8.337" startframe="0" framelength="0" text="or"/>
+		<timing id="18" start="8.337" end="9.306" startframe="0" framelength="0" text="schools"/>
+		<timing id="19" start="9.306" end="9.459" startframe="0" framelength="0" text="or"/>
+		<timing id="20" start="9.459" end="10.710166666666666" startframe="0" framelength="0" text="hospitals"/>
 	</timings>
 </xml>

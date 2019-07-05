@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Ant and Dove">
-		<timing id="0" start="0.006" end="0.391" startframe="0" framelength="0" text="Ant"/>
-		<timing id="1" start="0.391" end="0.627" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.627" end="1.2016666666666667" startframe="0" framelength="0" text="Dove"/>
+		<timing id="0" start="0.006" end="0.344" startframe="0" framelength="0" text="Ant"/>
+		<timing id="1" start="0.344" end="0.555" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.555" end="1.071" startframe="0" framelength="0" text="Dove"/>
 	</timings>
 </xml>

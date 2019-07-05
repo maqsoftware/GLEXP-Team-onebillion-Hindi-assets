@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="My Grandma learned to juggle in the kitchen Look at me Grandpa">
-		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="My"/>
-		<timing id="1" start="0.338" end="1.154" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="2" start="1.154" end="1.613" startframe="0" framelength="0" text="learned"/>
-		<timing id="3" start="1.613" end="1.779" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.779" end="2.37" startframe="0" framelength="0" text="juggle"/>
-		<timing id="5" start="2.37" end="2.596" startframe="0" framelength="0" text="in"/>
-		<timing id="6" start="2.596" end="2.688" startframe="0" framelength="0" text="the"/>
-		<timing id="7" start="2.688" end="3.927" startframe="0" framelength="0" text="kitchen"/>
-		<timing id="8" start="3.927" end="4.359" startframe="0" framelength="0" text="Look"/>
-		<timing id="9" start="4.359" end="4.646" startframe="0" framelength="0" text="at"/>
-		<timing id="10" start="4.646" end="5.325" startframe="0" framelength="0" text="me"/>
-		<timing id="11" start="5.325" end="6.452166666666667" startframe="0" framelength="0" text="Grandpa"/>
+		<timing id="0" start="0.006" end="0.309" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.309" end="1.02" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="2" start="1.02" end="1.424" startframe="0" framelength="0" text="learned"/>
+		<timing id="3" start="1.424" end="1.563" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.563" end="2.076" startframe="0" framelength="0" text="juggle"/>
+		<timing id="5" start="2.076" end="2.276" startframe="0" framelength="0" text="in"/>
+		<timing id="6" start="2.276" end="2.359" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.359" end="3.492" startframe="0" framelength="0" text="kitchen"/>
+		<timing id="8" start="3.492" end="3.873" startframe="0" framelength="0" text="Look"/>
+		<timing id="9" start="3.873" end="4.12" startframe="0" framelength="0" text="at"/>
+		<timing id="10" start="4.12" end="4.748" startframe="0" framelength="0" text="me"/>
+		<timing id="11" start="4.748" end="5.746833333333333" startframe="0" framelength="0" text="Grandpa"/>
 	</timings>
 </xml>

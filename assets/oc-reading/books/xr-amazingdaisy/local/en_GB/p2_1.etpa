@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The other chickens laughed at Daisy They said chickens can’t fly">
-		<timing id="0" start="0.006" end="0.307" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.307" end="0.636" startframe="0" framelength="0" text="other"/>
-		<timing id="2" start="0.636" end="1.343" startframe="0" framelength="0" text="chickens"/>
-		<timing id="3" start="1.343" end="1.901" startframe="0" framelength="0" text="laughed"/>
-		<timing id="4" start="1.901" end="2.099" startframe="0" framelength="0" text="at"/>
-		<timing id="5" start="2.099" end="3.301" startframe="0" framelength="0" text="Daisy"/>
-		<timing id="6" start="3.301" end="3.573" startframe="0" framelength="0" text="They"/>
-		<timing id="7" start="3.573" end="4.014" startframe="0" framelength="0" text="said"/>
-		<timing id="8" start="4.014" end="4.692" startframe="0" framelength="0" text="chickens"/>
-		<timing id="9" start="4.692" end="5.248" startframe="0" framelength="0" text="can’t"/>
-		<timing id="10" start="5.248" end="6.034166666666667" startframe="0" framelength="0" text="fly"/>
+	<timings text="The other chickens laughed at Meghna They said chickens can’t fly">
+		<timing id="0" start="0.006" end="0.272" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.272" end="0.566" startframe="0" framelength="0" text="other"/>
+		<timing id="2" start="0.566" end="1.19" startframe="0" framelength="0" text="chickens"/>
+		<timing id="3" start="1.19" end="1.708" startframe="0" framelength="0" text="laughed"/>
+		<timing id="4" start="1.708" end="1.958" startframe="0" framelength="0" text="at"/>
+		<timing id="5" start="1.958" end="3.207" startframe="0" framelength="0" text="Meghna"/>
+		<timing id="6" start="3.207" end="3.445" startframe="0" framelength="0" text="They"/>
+		<timing id="7" start="3.445" end="3.83" startframe="0" framelength="0" text="said"/>
+		<timing id="8" start="3.83" end="4.43" startframe="0" framelength="0" text="chickens"/>
+		<timing id="9" start="4.43" end="4.922" startframe="0" framelength="0" text="can’t"/>
+		<timing id="10" start="4.922" end="5.642333333333333" startframe="0" framelength="0" text="fly"/>
 	</timings>
 </xml>

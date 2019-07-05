@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="jug gled">
-		<timing id="0" start="0.006" end="0.814" startframe="0" framelength="0" text="jug"/>
-		<timing id="1" start="0.814" end="1.3583333333333334" startframe="0" framelength="0" text="gled"/>
+		<timing id="0" start="0.006" end="0.735" startframe="0" framelength="0" text="jug"/>
+		<timing id="1" start="0.735" end="1.2276666666666667" startframe="0" framelength="0" text="gled"/>
 	</timings>
 </xml>

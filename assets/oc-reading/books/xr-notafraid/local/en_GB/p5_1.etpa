@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It is only the well I am not afraid">
-		<timing id="0" start="0.006" end="0.218" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.218" end="0.427" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.427" end="0.873" startframe="0" framelength="0" text="only"/>
-		<timing id="3" start="0.873" end="1.019" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.019" end="2.11" startframe="0" framelength="0" text="well"/>
-		<timing id="5" start="2.11" end="2.323" startframe="0" framelength="0" text="I"/>
-		<timing id="6" start="2.323" end="2.434" startframe="0" framelength="0" text="am"/>
-		<timing id="7" start="2.434" end="2.813" startframe="0" framelength="0" text="not"/>
-		<timing id="8" start="2.813" end="3.7355" startframe="0" framelength="0" text="afraid"/>
+		<timing id="0" start="0.006" end="0.194" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.194" end="0.375" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.375" end="0.774" startframe="0" framelength="0" text="only"/>
+		<timing id="3" start="0.774" end="0.903" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="0.903" end="1.912" startframe="0" framelength="0" text="well"/>
+		<timing id="5" start="1.912" end="2.099" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.099" end="2.199" startframe="0" framelength="0" text="am"/>
+		<timing id="7" start="2.199" end="2.534" startframe="0" framelength="0" text="not"/>
+		<timing id="8" start="2.534" end="3.3698333333333332" startframe="0" framelength="0" text="afraid"/>
 	</timings>
 </xml>

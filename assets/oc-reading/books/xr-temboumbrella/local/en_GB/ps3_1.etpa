@@ -1,10 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="She takes it everywhere">
-		<timing id="0" start="0.006" end="0.352" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.352" end="0.916" startframe="0" framelength="0" text="takes"/>
-		<timing id="2" start="0.916" end="1.123" startframe="0" framelength="0" text="it"/>
-		<timing id="3" start="1.123" end="2.2203333333333335" startframe="0" framelength="0" text="everywhere"/>
+	<timings text="She <break time="500ms"/> takes <break time="500ms"/> it <break time="500ms"/> everywhere <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.767" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.767" end="1.36" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.36" end="2.169" startframe="0" framelength="0" text="takes"/>
+		<timing id="3" start="2.169" end="2.769" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.769" end="3.35" startframe="0" framelength="0" text="it"/>
+		<timing id="5" start="3.35" end="3.95" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.95" end="5.104" startframe="0" framelength="0" text="everywhere"/>
+		<timing id="7" start="5.104" end="5.6685" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

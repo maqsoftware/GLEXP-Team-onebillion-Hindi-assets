@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="It keeps the rain away">
-		<timing id="0" start="0.006" end="0.232" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.232" end="0.77" startframe="0" framelength="0" text="keeps"/>
-		<timing id="2" start="0.77" end="0.923" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.923" end="1.377" startframe="0" framelength="0" text="rain"/>
-		<timing id="4" start="1.377" end="2.0898333333333334" startframe="0" framelength="0" text="away"/>
+		<timing id="0" start="0.006" end="0.207" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.207" end="0.677" startframe="0" framelength="0" text="keeps"/>
+		<timing id="2" start="0.677" end="0.809" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.809" end="1.216" startframe="0" framelength="0" text="rain"/>
+		<timing id="4" start="1.216" end="1.8546666666666667" startframe="0" framelength="0" text="away"/>
 	</timings>
 </xml>

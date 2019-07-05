@@ -1,12 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Joy and Peng look for Max">
-		<timing id="0" start="0.006" end="0.405" startframe="0" framelength="0" text="Joy"/>
-		<timing id="1" start="0.405" end="0.635" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.635" end="1.064" startframe="0" framelength="0" text="Peng"/>
-		<timing id="3" start="1.064" end="1.39" startframe="0" framelength="0" text="look"/>
-		<timing id="4" start="1.39" end="1.687" startframe="0" framelength="0" text="for"/>
-		<timing id="5" start="1.687" end="2.7428333333333335" startframe="0" framelength="0" text="Max"/>
+	<timings text="Apoorva <break time="500ms"/> and <break time="500ms"/> Ankit <break time="500ms"/> look <break time="500ms"/> for <break time="500ms"/> Max <break time="500ms"/>">
+		<timing id="0" start="0.006" end="1.025" startframe="0" framelength="0" text="Apoorva"/>
+		<timing id="1" start="1.025" end="1.625" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.625" end="2.395" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="2.395" end="2.995" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.995" end="3.897" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="5" start="3.897" end="4.497" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.497" end="5.275" startframe="0" framelength="0" text="look"/>
+		<timing id="7" start="5.275" end="5.868" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.868" end="6.676" startframe="0" framelength="0" text="for"/>
+		<timing id="9" start="6.676" end="7.269" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.269" end="8.489" startframe="0" framelength="0" text="Max"/>
+		<timing id="11" start="8.489" end="9.0645" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

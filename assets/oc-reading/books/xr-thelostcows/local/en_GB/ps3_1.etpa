@@ -1,13 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Soon Bill and his dog are hungry">
-		<timing id="0" start="0.006" end="0.548" startframe="0" framelength="0" text="Soon"/>
-		<timing id="1" start="0.548" end="0.908" startframe="0" framelength="0" text="Bill"/>
-		<timing id="2" start="0.908" end="1.18" startframe="0" framelength="0" text="and"/>
-		<timing id="3" start="1.18" end="1.463" startframe="0" framelength="0" text="his"/>
-		<timing id="4" start="1.463" end="1.876" startframe="0" framelength="0" text="dog"/>
-		<timing id="5" start="1.876" end="2.134" startframe="0" framelength="0" text="are"/>
-		<timing id="6" start="2.134" end="3.0301666666666667" startframe="0" framelength="0" text="hungry"/>
+	<timings text="Soon <break time="500ms"/> Rahul <break time="500ms"/> and <break time="500ms"/> his <break time="500ms"/> dog <break time="500ms"/> are <break time="500ms"/> hungry <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.915" startframe="0" framelength="0" text="Soon"/>
+		<timing id="1" start="0.915" end="1.515" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.515" end="2.365" startframe="0" framelength="0" text="Rahul"/>
+		<timing id="3" start="2.365" end="2.955" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.955" end="3.582" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="3.582" end="4.182" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.182" end="4.901" startframe="0" framelength="0" text="his"/>
+		<timing id="7" start="4.901" end="5.501" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.501" end="6.185" startframe="0" framelength="0" text="dog"/>
+		<timing id="9" start="6.185" end="6.785" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.785" end="7.506" startframe="0" framelength="0" text="are"/>
+		<timing id="11" start="7.506" end="8.106" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.106" end="9.087" startframe="0" framelength="0" text="hungry"/>
+		<timing id="13" start="9.087" end="9.665333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

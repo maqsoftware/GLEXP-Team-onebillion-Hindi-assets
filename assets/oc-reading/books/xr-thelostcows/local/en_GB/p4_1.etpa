@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="They leave the cows and go to look for food">
-		<timing id="0" start="0.006" end="0.243" startframe="0" framelength="0" text="They"/>
-		<timing id="1" start="0.243" end="0.628" startframe="0" framelength="0" text="leave"/>
-		<timing id="2" start="0.628" end="0.784" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.784" end="1.338" startframe="0" framelength="0" text="cows"/>
-		<timing id="4" start="1.338" end="1.603" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="1.603" end="1.911" startframe="0" framelength="0" text="go"/>
-		<timing id="6" start="1.911" end="2.111" startframe="0" framelength="0" text="to"/>
-		<timing id="7" start="2.111" end="2.406" startframe="0" framelength="0" text="look"/>
-		<timing id="8" start="2.406" end="2.698" startframe="0" framelength="0" text="for"/>
-		<timing id="9" start="2.698" end="3.3958333333333335" startframe="0" framelength="0" text="food"/>
+		<timing id="0" start="0.006" end="0.217" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.217" end="0.556" startframe="0" framelength="0" text="leave"/>
+		<timing id="2" start="0.556" end="0.692" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.692" end="1.18" startframe="0" framelength="0" text="cows"/>
+		<timing id="4" start="1.18" end="1.422" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="1.422" end="1.689" startframe="0" framelength="0" text="go"/>
+		<timing id="6" start="1.689" end="1.862" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="1.862" end="2.132" startframe="0" framelength="0" text="look"/>
+		<timing id="8" start="2.132" end="2.394" startframe="0" framelength="0" text="for"/>
+		<timing id="9" start="2.394" end="3.004" startframe="0" framelength="0" text="food"/>
 	</timings>
 </xml>

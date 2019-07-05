@@ -1,19 +1,19 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Fatima wanted to meet the squirrel She used balloons to float up high">
-		<timing id="0" start="0.006" end="0.938" startframe="0" framelength="0" text="Fatima"/>
-		<timing id="1" start="0.938" end="1.606" startframe="0" framelength="0" text="wanted"/>
-		<timing id="2" start="1.606" end="1.774" startframe="0" framelength="0" text="to"/>
-		<timing id="3" start="1.774" end="2.216" startframe="0" framelength="0" text="meet"/>
-		<timing id="4" start="2.216" end="2.387" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="2.387" end="3.658" startframe="0" framelength="0" text="squirrel"/>
-		<timing id="6" start="3.658" end="4.054" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="4.054" end="4.58" startframe="0" framelength="0" text="used"/>
-		<timing id="8" start="4.58" end="5.287" startframe="0" framelength="0" text="balloons"/>
-		<timing id="9" start="5.287" end="5.45" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="5.45" end="6.082" startframe="0" framelength="0" text="float"/>
-		<timing id="11" start="6.082" end="6.28" startframe="0" framelength="0" text="up"/>
-		<timing id="12" start="6.28" end="7.079166666666667" startframe="0" framelength="0" text="high"/>
+	<timings text="Sita wanted to meet the squirrel She used balloons to float up high">
+		<timing id="0" start="0.006" end="0.645" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.645" end="1.095" startframe="0" framelength="0" text="wanted"/>
+		<timing id="2" start="1.095" end="1.282" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.282" end="1.642" startframe="0" framelength="0" text="meet"/>
+		<timing id="4" start="1.642" end="1.765" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.765" end="2.962" startframe="0" framelength="0" text="squirrel"/>
+		<timing id="6" start="2.962" end="3.314" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="3.314" end="3.773" startframe="0" framelength="0" text="used"/>
+		<timing id="8" start="3.773" end="4.395" startframe="0" framelength="0" text="balloons"/>
+		<timing id="9" start="4.395" end="4.539" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.539" end="5.098" startframe="0" framelength="0" text="float"/>
+		<timing id="11" start="5.098" end="5.269" startframe="0" framelength="0" text="up"/>
+		<timing id="12" start="5.269" end="5.982" startframe="0" framelength="0" text="high"/>
 	</timings>
 </xml>

@@ -1,10 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Maguru gives out legs">
-		<timing id="0" start="0.006" end="0.696" startframe="0" framelength="0" text="Maguru"/>
-		<timing id="1" start="0.696" end="1.127" startframe="0" framelength="0" text="gives"/>
-		<timing id="2" start="1.127" end="1.485" startframe="0" framelength="0" text="out"/>
-		<timing id="3" start="1.485" end="2.2465" startframe="0" framelength="0" text="legs"/>
+	<timings text="Gautam gives out legs">
+		<timing id="0" start="0.006" end="0.715" startframe="0" framelength="0" text="Gautam"/>
+		<timing id="1" start="0.715" end="1.077" startframe="0" framelength="0" text="gives"/>
+		<timing id="2" start="1.077" end="1.429" startframe="0" framelength="0" text="out"/>
+		<timing id="3" start="1.429" end="2.0898333333333334" startframe="0" framelength="0" text="legs"/>
 	</timings>
 </xml>

@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Now she’s ruffled some feathers Stay away Rita">
-		<timing id="0" start="0.006" end="0.407" startframe="0" framelength="0" text="Now"/>
-		<timing id="1" start="0.407" end="0.96" startframe="0" framelength="0" text="she’s"/>
-		<timing id="2" start="0.96" end="1.577" startframe="0" framelength="0" text="ruffled"/>
-		<timing id="3" start="1.577" end="1.98" startframe="0" framelength="0" text="some"/>
-		<timing id="4" start="1.98" end="3.393" startframe="0" framelength="0" text="feathers"/>
-		<timing id="5" start="3.393" end="3.922" startframe="0" framelength="0" text="Stay"/>
-		<timing id="6" start="3.922" end="4.87" startframe="0" framelength="0" text="away"/>
-		<timing id="7" start="4.87" end="5.799166666666666" startframe="0" framelength="0" text="Rita"/>
+	<timings text="Now she’s ruffled some feathers Stay away Indu">
+		<timing id="0" start="0.006" end="0.356" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.356" end="0.841" startframe="0" framelength="0" text="she’s"/>
+		<timing id="2" start="0.841" end="1.382" startframe="0" framelength="0" text="ruffled"/>
+		<timing id="3" start="1.382" end="1.732" startframe="0" framelength="0" text="some"/>
+		<timing id="4" start="1.732" end="3.033" startframe="0" framelength="0" text="feathers"/>
+		<timing id="5" start="3.033" end="3.461" startframe="0" framelength="0" text="Stay"/>
+		<timing id="6" start="3.461" end="4.228" startframe="0" framelength="0" text="away"/>
+		<timing id="7" start="4.228" end="4.858666666666666" startframe="0" framelength="0" text="Indu"/>
 	</timings>
 </xml>

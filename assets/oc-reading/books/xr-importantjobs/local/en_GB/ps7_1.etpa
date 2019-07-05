@@ -1,11 +1,11 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then Leila asks a farmer">
-		<timing id="0" start="0.006" end="0.379" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.379" end="1.014" startframe="0" framelength="0" text="Leila"/>
-		<timing id="2" start="1.014" end="1.614" startframe="0" framelength="0" text="asks"/>
-		<timing id="3" start="1.614" end="1.693" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="1.693" end="2.6905" startframe="0" framelength="0" text="farmer"/>
+	<timings text="Then Neha asks a farmer">
+		<timing id="0" start="0.006" end="0.297" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.297" end="0.696" startframe="0" framelength="0" text="Neha"/>
+		<timing id="2" start="0.696" end="1.279" startframe="0" framelength="0" text="asks"/>
+		<timing id="3" start="1.279" end="1.351" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.351" end="2.2465" startframe="0" framelength="0" text="farmer"/>
 	</timings>
 </xml>

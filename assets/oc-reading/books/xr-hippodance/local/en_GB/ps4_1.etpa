@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Kingfisher is getting wet He wants Hippo to go away">
-		<timing id="0" start="0.006" end="0.915" startframe="0" framelength="0" text="Kingfisher"/>
-		<timing id="1" start="0.915" end="1.154" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="1.154" end="1.702" startframe="0" framelength="0" text="getting"/>
-		<timing id="3" start="1.702" end="2.782" startframe="0" framelength="0" text="wet"/>
-		<timing id="4" start="2.782" end="3.002" startframe="0" framelength="0" text="He"/>
-		<timing id="5" start="3.002" end="3.539" startframe="0" framelength="0" text="wants"/>
-		<timing id="6" start="3.539" end="4.12" startframe="0" framelength="0" text="Hippo"/>
-		<timing id="7" start="4.12" end="4.301" startframe="0" framelength="0" text="to"/>
-		<timing id="8" start="4.301" end="4.689" startframe="0" framelength="0" text="go"/>
-		<timing id="9" start="4.689" end="5.4335" startframe="0" framelength="0" text="away"/>
+		<timing id="0" start="0.006" end="0.792" startframe="0" framelength="0" text="Kingfisher"/>
+		<timing id="1" start="0.792" end="1.009" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.009" end="1.487" startframe="0" framelength="0" text="getting"/>
+		<timing id="3" start="1.487" end="2.493" startframe="0" framelength="0" text="wet"/>
+		<timing id="4" start="2.493" end="2.69" startframe="0" framelength="0" text="He"/>
+		<timing id="5" start="2.69" end="3.165" startframe="0" framelength="0" text="wants"/>
+		<timing id="6" start="3.165" end="3.667" startframe="0" framelength="0" text="Hippo"/>
+		<timing id="7" start="3.667" end="3.825" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="3.825" end="4.161" startframe="0" framelength="0" text="go"/>
+		<timing id="9" start="4.161" end="4.8065" startframe="0" framelength="0" text="away"/>
 	</timings>
 </xml>

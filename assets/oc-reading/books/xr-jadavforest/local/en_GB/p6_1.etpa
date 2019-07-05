@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="After the insects lots of birds came to the forest">
-		<timing id="0" start="0.006" end="0.575" startframe="0" framelength="0" text="After"/>
-		<timing id="1" start="0.575" end="0.798" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.798" end="2.053" startframe="0" framelength="0" text="insects"/>
-		<timing id="3" start="2.053" end="2.711" startframe="0" framelength="0" text="lots"/>
-		<timing id="4" start="2.711" end="2.881" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="2.881" end="3.477" startframe="0" framelength="0" text="birds"/>
-		<timing id="6" start="3.477" end="3.862" startframe="0" framelength="0" text="came"/>
-		<timing id="7" start="3.862" end="4.022" startframe="0" framelength="0" text="to"/>
-		<timing id="8" start="4.022" end="4.167" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="4.167" end="5.2245" startframe="0" framelength="0" text="forest"/>
+		<timing id="0" start="0.006" end="0.507" startframe="0" framelength="0" text="After"/>
+		<timing id="1" start="0.507" end="0.7" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.7" end="1.821" startframe="0" framelength="0" text="insects"/>
+		<timing id="3" start="1.821" end="2.393" startframe="0" framelength="0" text="lots"/>
+		<timing id="4" start="2.393" end="2.54" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="2.54" end="3.074" startframe="0" framelength="0" text="birds"/>
+		<timing id="6" start="3.074" end="3.413" startframe="0" framelength="0" text="came"/>
+		<timing id="7" start="3.413" end="3.557" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="3.557" end="3.683" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.683" end="4.5975" startframe="0" framelength="0" text="forest"/>
 	</timings>
 </xml>

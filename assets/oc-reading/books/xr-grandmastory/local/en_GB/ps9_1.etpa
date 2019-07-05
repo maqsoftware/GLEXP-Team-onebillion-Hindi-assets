@@ -1,25 +1,25 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Meanwhile Kala’s brother Bobi was looking for her ‘Kala Kala he called Then he saw big footprints Oh no">
-		<timing id="0" start="0.006" end="1.421" startframe="0" framelength="0" text="Meanwhile"/>
-		<timing id="1" start="1.421" end="2.097" startframe="0" framelength="0" text="Kala’s"/>
-		<timing id="2" start="2.097" end="2.628" startframe="0" framelength="0" text="brother"/>
-		<timing id="3" start="2.628" end="3.269" startframe="0" framelength="0" text="Bobi"/>
-		<timing id="4" start="3.269" end="3.688" startframe="0" framelength="0" text="was"/>
-		<timing id="5" start="3.688" end="4.199" startframe="0" framelength="0" text="looking"/>
-		<timing id="6" start="4.199" end="4.433" startframe="0" framelength="0" text="for"/>
-		<timing id="7" start="4.433" end="5.419" startframe="0" framelength="0" text="her"/>
-		<timing id="8" start="5.419" end="6.595" startframe="0" framelength="0" text="‘Kala"/>
-		<timing id="9" start="6.595" end="7.77" startframe="0" framelength="0" text="Kala"/>
-		<timing id="10" start="7.77" end="8.055" startframe="0" framelength="0" text="he"/>
-		<timing id="11" start="8.055" end="9.201" startframe="0" framelength="0" text="called"/>
-		<timing id="12" start="9.201" end="9.579" startframe="0" framelength="0" text="Then"/>
-		<timing id="13" start="9.579" end="9.77" startframe="0" framelength="0" text="he"/>
-		<timing id="14" start="9.77" end="10.111" startframe="0" framelength="0" text="saw"/>
-		<timing id="15" start="10.111" end="10.436" startframe="0" framelength="0" text="big"/>
-		<timing id="16" start="10.436" end="11.988" startframe="0" framelength="0" text="footprints"/>
-		<timing id="17" start="11.988" end="12.329" startframe="0" framelength="0" text="Oh"/>
-		<timing id="18" start="12.329" end="12.9305" startframe="0" framelength="0" text="no"/>
+	<timings text="Meanwhile Divya’s brother Krishna was looking for her ‘Divya Divya he called Then he saw big footprints Oh no">
+		<timing id="0" start="0.006" end="1.264" startframe="0" framelength="0" text="Meanwhile"/>
+		<timing id="1" start="1.264" end="1.979" startframe="0" framelength="0" text="Divya’s"/>
+		<timing id="2" start="1.979" end="2.44" startframe="0" framelength="0" text="brother"/>
+		<timing id="3" start="2.44" end="3.039" startframe="0" framelength="0" text="Krishna"/>
+		<timing id="4" start="3.039" end="3.451" startframe="0" framelength="0" text="was"/>
+		<timing id="5" start="3.451" end="3.862" startframe="0" framelength="0" text="looking"/>
+		<timing id="6" start="3.862" end="4.093" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="4.093" end="5.011" startframe="0" framelength="0" text="her"/>
+		<timing id="8" start="5.011" end="6.105" startframe="0" framelength="0" text="‘Divya"/>
+		<timing id="9" start="6.105" end="7.199" startframe="0" framelength="0" text="Divya"/>
+		<timing id="10" start="7.199" end="7.447" startframe="0" framelength="0" text="he"/>
+		<timing id="11" start="7.447" end="8.495" startframe="0" framelength="0" text="called"/>
+		<timing id="12" start="8.495" end="8.836" startframe="0" framelength="0" text="Then"/>
+		<timing id="13" start="8.836" end="9.004" startframe="0" framelength="0" text="he"/>
+		<timing id="14" start="9.004" end="9.305" startframe="0" framelength="0" text="saw"/>
+		<timing id="15" start="9.305" end="9.594" startframe="0" framelength="0" text="big"/>
+		<timing id="16" start="9.594" end="11.016" startframe="0" framelength="0" text="footprints"/>
+		<timing id="17" start="11.016" end="11.315" startframe="0" framelength="0" text="Oh"/>
+		<timing id="18" start="11.315" end="11.8595" startframe="0" framelength="0" text="no"/>
 	</timings>
 </xml>

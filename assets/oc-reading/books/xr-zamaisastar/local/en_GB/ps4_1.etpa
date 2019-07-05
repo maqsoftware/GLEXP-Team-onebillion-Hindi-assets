@@ -1,15 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then I wash myself I don’t need any help">
-		<timing id="0" start="0.006" end="0.399" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.399" end="0.644" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.644" end="1.142" startframe="0" framelength="0" text="wash"/>
-		<timing id="3" start="1.142" end="2.648" startframe="0" framelength="0" text="myself"/>
-		<timing id="4" start="2.648" end="2.894" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="2.894" end="3.462" startframe="0" framelength="0" text="don’t"/>
-		<timing id="6" start="3.462" end="3.873" startframe="0" framelength="0" text="need"/>
-		<timing id="7" start="3.873" end="4.208" startframe="0" framelength="0" text="any"/>
-		<timing id="8" start="4.208" end="5.093833333333333" startframe="0" framelength="0" text="help"/>
+	<timings text="Then  I  wash  myself  I  don’t  need  any  help ">
+		<timing id="0" start="0.006" end="0.62" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.62" end="1.217" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.217" end="1.785" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.785" end="2.379" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.379" end="3.36" startframe="0" framelength="0" text="wash"/>
+		<timing id="5" start="3.36" end="3.953" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.953" end="4.992" startframe="0" framelength="0" text="myself"/>
+		<timing id="7" start="4.992" end="5.88" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.88" end="6.448" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="6.448" end="7.048" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="7.048" end="7.905" startframe="0" framelength="0" text="don’t"/>
+		<timing id="11" start="7.905" end="8.499" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="8.499" end="9.229" startframe="0" framelength="0" text="need"/>
+		<timing id="13" start="9.229" end="9.83" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.83" end="10.462" startframe="0" framelength="0" text="any"/>
+		<timing id="15" start="10.462" end="11.056" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="11.056" end="11.935" startframe="0" framelength="0" text="help"/>
+		<timing id="17" start="11.935" end="12.512666666666666" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

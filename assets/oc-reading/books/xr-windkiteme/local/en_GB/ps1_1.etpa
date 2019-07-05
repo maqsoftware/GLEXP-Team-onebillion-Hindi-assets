@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The wind is blowing hard It is good for flying my kite">
-		<timing id="0" start="0.006" end="0.173" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.173" end="0.634" startframe="0" framelength="0" text="wind"/>
-		<timing id="2" start="0.634" end="0.847" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="0.847" end="1.378" startframe="0" framelength="0" text="blowing"/>
-		<timing id="4" start="1.378" end="2.521" startframe="0" framelength="0" text="hard"/>
-		<timing id="5" start="2.521" end="2.735" startframe="0" framelength="0" text="It"/>
-		<timing id="6" start="2.735" end="2.925" startframe="0" framelength="0" text="is"/>
-		<timing id="7" start="2.925" end="3.297" startframe="0" framelength="0" text="good"/>
-		<timing id="8" start="3.297" end="3.587" startframe="0" framelength="0" text="for"/>
-		<timing id="9" start="3.587" end="4.197" startframe="0" framelength="0" text="flying"/>
-		<timing id="10" start="4.197" end="4.509" startframe="0" framelength="0" text="my"/>
-		<timing id="11" start="4.509" end="5.407333333333334" startframe="0" framelength="0" text="kite"/>
+	<timings text="The <break time="500ms"/> wind <break time="500ms"/> is <break time="500ms"/> blowing <break time="500ms"/> hard <break time="500ms"/> It <break time="500ms"/> is <break time="500ms"/> good <break time="500ms"/> for <break time="500ms"/> flying <break time="500ms"/> my <break time="500ms"/> kite <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.31" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.31" end="2.236" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="2.236" end="2.829" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.829" end="3.257" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="3.257" end="3.857" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.857" end="4.849" startframe="0" framelength="0" text="blowing"/>
+		<timing id="7" start="4.849" end="5.442" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.442" end="6.302" startframe="0" framelength="0" text="hard"/>
+		<timing id="9" start="6.302" end="6.902" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.902" end="7.552" startframe="0" framelength="0" text="It"/>
+		<timing id="11" start="7.552" end="8.146" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.146" end="8.573" startframe="0" framelength="0" text="is"/>
+		<timing id="13" start="8.573" end="9.173" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.173" end="9.935" startframe="0" framelength="0" text="good"/>
+		<timing id="15" start="9.935" end="10.528" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.528" end="11.311" startframe="0" framelength="0" text="for"/>
+		<timing id="17" start="11.311" end="11.911" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="11.911" end="12.957" startframe="0" framelength="0" text="flying"/>
+		<timing id="19" start="12.957" end="13.55" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.55" end="14.304" startframe="0" framelength="0" text="my"/>
+		<timing id="21" start="14.304" end="14.904" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="14.904" end="15.87" startframe="0" framelength="0" text="kite"/>
+		<timing id="23" start="15.87" end="16.431" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

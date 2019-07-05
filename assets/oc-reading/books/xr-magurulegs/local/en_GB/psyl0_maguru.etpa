@@ -1,9 +1,8 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Ma gu ru">
-		<timing id="0" start="0.006" end="0.786" startframe="0" framelength="0" text="Ma"/>
-		<timing id="1" start="0.786" end="1.692" startframe="0" framelength="0" text="gu"/>
-		<timing id="2" start="1.692" end="2.2465" startframe="0" framelength="0" text="ru"/>
+	<timings text="Gau tam">
+		<timing id="0" start="0.006" end="0.715" startframe="0" framelength="0" text="Gau"/>
+		<timing id="1" start="0.715" end="1.4366666666666668" startframe="0" framelength="0" text="tam"/>
 	</timings>
 </xml>

@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="So mum I get the prize said Dalitso What is it">
-		<timing id="0" start="0.006" end="0.421" startframe="0" framelength="0" text="So"/>
-		<timing id="1" start="0.421" end="1.267" startframe="0" framelength="0" text="mum"/>
-		<timing id="2" start="1.267" end="1.46" startframe="0" framelength="0" text="I"/>
-		<timing id="3" start="1.46" end="1.831" startframe="0" framelength="0" text="get"/>
-		<timing id="4" start="1.831" end="1.972" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.972" end="3.1" startframe="0" framelength="0" text="prize"/>
-		<timing id="6" start="3.1" end="3.575" startframe="0" framelength="0" text="said"/>
-		<timing id="7" start="3.575" end="5.172" startframe="0" framelength="0" text="Dalitso"/>
-		<timing id="8" start="5.172" end="5.62" startframe="0" framelength="0" text="What"/>
-		<timing id="9" start="5.62" end="5.863" startframe="0" framelength="0" text="is"/>
-		<timing id="10" start="5.863" end="6.426" startframe="0" framelength="0" text="it"/>
+	<timings text="So mum I get the prize said Aditya What is it">
+		<timing id="0" start="0.006" end="0.37" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.37" end="1.135" startframe="0" framelength="0" text="mum"/>
+		<timing id="2" start="1.135" end="1.304" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="1.304" end="1.623" startframe="0" framelength="0" text="get"/>
+		<timing id="4" start="1.623" end="1.745" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.745" end="2.765" startframe="0" framelength="0" text="prize"/>
+		<timing id="6" start="2.765" end="3.291" startframe="0" framelength="0" text="said"/>
+		<timing id="7" start="3.291" end="4.538" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="8" start="4.538" end="4.924" startframe="0" framelength="0" text="What"/>
+		<timing id="9" start="4.924" end="5.137" startframe="0" framelength="0" text="is"/>
+		<timing id="10" start="5.137" end="5.616333333333333" startframe="0" framelength="0" text="it"/>
 	</timings>
 </xml>

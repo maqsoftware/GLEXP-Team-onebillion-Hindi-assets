@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="lan guage">
-		<timing id="0" start="0.0" end="0.76" startframe="0" framelength="0" text="lan"/>
-		<timing id="1" start="0.76" end="1.5673333333333332" startframe="0" framelength="0" text="guage"/>
+		<timing id="0" start="0.0" end="0.682" startframe="0" framelength="0" text="lan"/>
+		<timing id="1" start="0.682" end="1.4105" startframe="0" framelength="0" text="guage"/>
 	</timings>
 </xml>

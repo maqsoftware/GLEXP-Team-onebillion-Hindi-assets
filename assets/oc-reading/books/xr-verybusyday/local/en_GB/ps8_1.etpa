@@ -1,21 +1,36 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="We pass a donkey with a load of wood We need firewood to cook tonight">
-		<timing id="0" start="0.006" end="0.293" startframe="0" framelength="0" text="We"/>
-		<timing id="1" start="0.293" end="0.86" startframe="0" framelength="0" text="pass"/>
-		<timing id="2" start="0.86" end="0.911" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.911" end="1.684" startframe="0" framelength="0" text="donkey"/>
-		<timing id="4" start="1.684" end="2.005" startframe="0" framelength="0" text="with"/>
-		<timing id="5" start="2.005" end="2.07" startframe="0" framelength="0" text="a"/>
-		<timing id="6" start="2.07" end="2.519" startframe="0" framelength="0" text="load"/>
-		<timing id="7" start="2.519" end="2.82" startframe="0" framelength="0" text="of"/>
-		<timing id="8" start="2.82" end="3.721" startframe="0" framelength="0" text="wood"/>
-		<timing id="9" start="3.721" end="4.024" startframe="0" framelength="0" text="We"/>
-		<timing id="10" start="4.024" end="4.406" startframe="0" framelength="0" text="need"/>
-		<timing id="11" start="4.406" end="5.269" startframe="0" framelength="0" text="firewood"/>
-		<timing id="12" start="5.269" end="5.435" startframe="0" framelength="0" text="to"/>
-		<timing id="13" start="5.435" end="5.89" startframe="0" framelength="0" text="cook"/>
-		<timing id="14" start="5.89" end="6.844" startframe="0" framelength="0" text="tonight"/>
+	<timings text="We <break time="500ms"/> pass <break time="500ms"/> a <break time="500ms"/> donkey <break time="500ms"/> with <break time="500ms"/> a <break time="500ms"/> load <break time="500ms"/> of <break time="500ms"/> wood <break time="500ms"/> We <break time="500ms"/> need <break time="500ms"/> firewood <break time="500ms"/> to <break time="500ms"/> cook <break time="500ms"/> tonight <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.501" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.501" end="1.094" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.094" end="1.85" startframe="0" framelength="0" text="pass"/>
+		<timing id="3" start="1.85" end="2.45" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.45" end="3.051" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.051" end="3.645" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.645" end="4.599" startframe="0" framelength="0" text="donkey"/>
+		<timing id="7" start="4.599" end="5.193" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.193" end="5.634" startframe="0" framelength="0" text="with"/>
+		<timing id="9" start="5.634" end="6.234" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.234" end="6.836" startframe="0" framelength="0" text="a"/>
+		<timing id="11" start="6.836" end="7.429" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.429" end="8.148" startframe="0" framelength="0" text="load"/>
+		<timing id="13" start="8.148" end="8.742" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="8.742" end="9.491" startframe="0" framelength="0" text="of"/>
+		<timing id="15" start="9.491" end="10.091" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.091" end="10.609" startframe="0" framelength="0" text="wood"/>
+		<timing id="17" start="10.609" end="11.496" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="11.496" end="11.991" startframe="0" framelength="0" text="We"/>
+		<timing id="19" start="11.991" end="12.584" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="12.584" end="13.314" startframe="0" framelength="0" text="need"/>
+		<timing id="21" start="13.314" end="13.907" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="13.907" end="14.948" startframe="0" framelength="0" text="firewood"/>
+		<timing id="23" start="14.948" end="15.541" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="15.541" end="16.147" startframe="0" framelength="0" text="to"/>
+		<timing id="25" start="16.147" end="16.741" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="16.741" end="17.372" startframe="0" framelength="0" text="cook"/>
+		<timing id="27" start="17.372" end="17.965" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="28" start="17.965" end="18.744" startframe="0" framelength="0" text="tonight"/>
+		<timing id="29" start="18.744" end="19.3045" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

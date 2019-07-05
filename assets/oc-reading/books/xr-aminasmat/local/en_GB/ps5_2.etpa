@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She got lost in the hills She was afraid">
-		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.338" end="0.794" startframe="0" framelength="0" text="got"/>
-		<timing id="2" start="0.794" end="1.28" startframe="0" framelength="0" text="lost"/>
-		<timing id="3" start="1.28" end="1.434" startframe="0" framelength="0" text="in"/>
-		<timing id="4" start="1.434" end="1.539" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.539" end="2.794" startframe="0" framelength="0" text="hills"/>
-		<timing id="6" start="2.794" end="3.155" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="3.155" end="3.531" startframe="0" framelength="0" text="was"/>
-		<timing id="8" start="3.531" end="4.414666666666666" startframe="0" framelength="0" text="afraid"/>
+		<timing id="0" start="0.006" end="0.298" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.298" end="0.702" startframe="0" framelength="0" text="got"/>
+		<timing id="2" start="0.702" end="1.134" startframe="0" framelength="0" text="lost"/>
+		<timing id="3" start="1.134" end="1.266" startframe="0" framelength="0" text="in"/>
+		<timing id="4" start="1.266" end="1.362" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.362" end="2.524" startframe="0" framelength="0" text="hills"/>
+		<timing id="6" start="2.524" end="2.844" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="2.844" end="3.174" startframe="0" framelength="0" text="was"/>
+		<timing id="8" start="3.174" end="3.9705" startframe="0" framelength="0" text="afraid"/>
 	</timings>
 </xml>

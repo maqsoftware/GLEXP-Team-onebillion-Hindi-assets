@@ -2,23 +2,23 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="When I grow up I want to be a chef and make food for my family and friends">
-		<timing id="0" start="0.006" end="0.474" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.474" end="0.657" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.657" end="1.146" startframe="0" framelength="0" text="grow"/>
-		<timing id="3" start="1.146" end="1.829" startframe="0" framelength="0" text="up"/>
-		<timing id="4" start="1.829" end="2.011" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="2.011" end="2.447" startframe="0" framelength="0" text="want"/>
-		<timing id="6" start="2.447" end="2.58" startframe="0" framelength="0" text="to"/>
-		<timing id="7" start="2.58" end="2.81" startframe="0" framelength="0" text="be"/>
-		<timing id="8" start="2.81" end="2.887" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="2.887" end="3.433" startframe="0" framelength="0" text="chef"/>
-		<timing id="10" start="3.433" end="3.705" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="3.705" end="4.045" startframe="0" framelength="0" text="make"/>
-		<timing id="12" start="4.045" end="4.634" startframe="0" framelength="0" text="food"/>
-		<timing id="13" start="4.634" end="4.872" startframe="0" framelength="0" text="for"/>
-		<timing id="14" start="4.872" end="5.158" startframe="0" framelength="0" text="my"/>
-		<timing id="15" start="5.158" end="5.924" startframe="0" framelength="0" text="family"/>
-		<timing id="16" start="5.924" end="6.135" startframe="0" framelength="0" text="and"/>
-		<timing id="17" start="6.135" end="7.079166666666667" startframe="0" framelength="0" text="friends"/>
+		<timing id="0" start="0.006" end="0.414" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.414" end="0.574" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.574" end="1.0" startframe="0" framelength="0" text="grow"/>
+		<timing id="3" start="1.0" end="1.63" startframe="0" framelength="0" text="up"/>
+		<timing id="4" start="1.63" end="1.785" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="1.785" end="2.179" startframe="0" framelength="0" text="want"/>
+		<timing id="6" start="2.179" end="2.296" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="2.296" end="2.498" startframe="0" framelength="0" text="be"/>
+		<timing id="8" start="2.498" end="2.567" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="2.567" end="3.052" startframe="0" framelength="0" text="chef"/>
+		<timing id="10" start="3.052" end="3.293" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="3.293" end="3.594" startframe="0" framelength="0" text="make"/>
+		<timing id="12" start="3.594" end="4.108" startframe="0" framelength="0" text="food"/>
+		<timing id="13" start="4.108" end="4.31" startframe="0" framelength="0" text="for"/>
+		<timing id="14" start="4.31" end="4.56" startframe="0" framelength="0" text="my"/>
+		<timing id="15" start="4.56" end="5.238" startframe="0" framelength="0" text="family"/>
+		<timing id="16" start="5.238" end="5.424" startframe="0" framelength="0" text="and"/>
+		<timing id="17" start="5.424" end="6.269333333333333" startframe="0" framelength="0" text="friends"/>
 	</timings>
 </xml>

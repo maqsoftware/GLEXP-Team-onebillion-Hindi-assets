@@ -2,14 +2,14 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Many insects came to the forest beside the sea">
-		<timing id="0" start="0.006" end="0.592" startframe="0" framelength="0" text="Many"/>
-		<timing id="1" start="0.592" end="1.403" startframe="0" framelength="0" text="insects"/>
-		<timing id="2" start="1.403" end="1.774" startframe="0" framelength="0" text="came"/>
-		<timing id="3" start="1.774" end="1.942" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.942" end="2.087" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="2.087" end="2.804" startframe="0" framelength="0" text="forest"/>
-		<timing id="6" start="2.804" end="3.429" startframe="0" framelength="0" text="beside"/>
-		<timing id="7" start="3.429" end="3.554" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.554" end="4.362333333333333" startframe="0" framelength="0" text="sea"/>
+		<timing id="0" start="0.006" end="0.518" startframe="0" framelength="0" text="Many"/>
+		<timing id="1" start="0.518" end="1.227" startframe="0" framelength="0" text="insects"/>
+		<timing id="2" start="1.227" end="1.553" startframe="0" framelength="0" text="came"/>
+		<timing id="3" start="1.553" end="1.7" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.7" end="1.826" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.826" end="2.455" startframe="0" framelength="0" text="forest"/>
+		<timing id="6" start="2.455" end="3.005" startframe="0" framelength="0" text="beside"/>
+		<timing id="7" start="3.005" end="3.115" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.115" end="3.84" startframe="0" framelength="0" text="sea"/>
 	</timings>
 </xml>

@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="He made a very long bed">
-		<timing id="0" start="0.006" end="0.235" startframe="0" framelength="0" text="He"/>
-		<timing id="1" start="0.235" end="0.675" startframe="0" framelength="0" text="made"/>
-		<timing id="2" start="0.675" end="0.748" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="0.748" end="1.207" startframe="0" framelength="0" text="very"/>
-		<timing id="4" start="1.207" end="1.631" startframe="0" framelength="0" text="long"/>
-		<timing id="5" start="1.631" end="2.2986666666666666" startframe="0" framelength="0" text="bed"/>
+		<timing id="0" start="0.006" end="0.209" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.209" end="0.588" startframe="0" framelength="0" text="made"/>
+		<timing id="2" start="0.588" end="0.653" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.653" end="1.058" startframe="0" framelength="0" text="very"/>
+		<timing id="4" start="1.058" end="1.43" startframe="0" framelength="0" text="long"/>
+		<timing id="5" start="1.43" end="2.0113333333333334" startframe="0" framelength="0" text="bed"/>
 	</timings>
 </xml>

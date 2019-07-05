@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She finds her teddy bear">
-		<timing id="0" start="0.006" end="0.405" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.405" end="0.968" startframe="0" framelength="0" text="finds"/>
-		<timing id="2" start="0.968" end="1.177" startframe="0" framelength="0" text="her"/>
-		<timing id="3" start="1.177" end="1.715" startframe="0" framelength="0" text="teddy"/>
-		<timing id="4" start="1.715" end="2.4816666666666665" startframe="0" framelength="0" text="bear"/>
+		<timing id="0" start="0.006" end="0.359" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.359" end="0.853" startframe="0" framelength="0" text="finds"/>
+		<timing id="2" start="0.853" end="1.036" startframe="0" framelength="0" text="her"/>
+		<timing id="3" start="1.036" end="1.515" startframe="0" framelength="0" text="teddy"/>
+		<timing id="4" start="1.515" end="2.194166666666667" startframe="0" framelength="0" text="bear"/>
 	</timings>
 </xml>

@@ -1,16 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I’m big now Ma I can dress myself I say">
-		<timing id="0" start="0.006" end="0.327" startframe="0" framelength="0" text="I’m"/>
-		<timing id="1" start="0.327" end="0.624" startframe="0" framelength="0" text="big"/>
-		<timing id="2" start="0.624" end="1.453" startframe="0" framelength="0" text="now"/>
-		<timing id="3" start="1.453" end="2.476" startframe="0" framelength="0" text="Ma"/>
-		<timing id="4" start="2.476" end="2.697" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="2.697" end="2.993" startframe="0" framelength="0" text="can"/>
-		<timing id="6" start="2.993" end="3.468" startframe="0" framelength="0" text="dress"/>
-		<timing id="7" start="3.468" end="4.812" startframe="0" framelength="0" text="myself"/>
-		<timing id="8" start="4.812" end="5.04" startframe="0" framelength="0" text="I"/>
-		<timing id="9" start="5.04" end="5.851333333333334" startframe="0" framelength="0" text="say"/>
+	<timings text="I’m  big  now  Ma  I  can  dress  myself  I  say ">
+		<timing id="0" start="0.006" end="0.693" startframe="0" framelength="0" text="I’m"/>
+		<timing id="1" start="0.693" end="1.287" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.287" end="1.902" startframe="0" framelength="0" text="big"/>
+		<timing id="3" start="1.902" end="2.502" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.502" end="3.256" startframe="0" framelength="0" text="now"/>
+		<timing id="5" start="3.256" end="3.857" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.857" end="4.423" startframe="0" framelength="0" text="Ma"/>
+		<timing id="7" start="4.423" end="5.309" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.309" end="5.819" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="5.819" end="6.413" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.413" end="7.208" startframe="0" framelength="0" text="can"/>
+		<timing id="11" start="7.208" end="7.809" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="7.809" end="8.555" startframe="0" framelength="0" text="dress"/>
+		<timing id="13" start="8.555" end="9.149" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.149" end="10.321" startframe="0" framelength="0" text="myself"/>
+		<timing id="15" start="10.321" end="10.918" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="10.918" end="11.486" startframe="0" framelength="0" text="I"/>
+		<timing id="17" start="11.486" end="12.086" startframe="0" framelength="0" text=""/>
+		<timing id="18" start="12.086" end="13.013" startframe="0" framelength="0" text="say"/>
+		<timing id="19" start="13.013" end="13.583666666666666" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

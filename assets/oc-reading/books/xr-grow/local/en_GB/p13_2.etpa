@@ -2,20 +2,20 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Well you all did your best laughed mum So I’ll give you all a prize">
-		<timing id="0" start="0.006" end="0.842" startframe="0" framelength="0" text="Well"/>
-		<timing id="1" start="0.842" end="1.268" startframe="0" framelength="0" text="you"/>
-		<timing id="2" start="1.268" end="1.514" startframe="0" framelength="0" text="all"/>
-		<timing id="3" start="1.514" end="1.839" startframe="0" framelength="0" text="did"/>
-		<timing id="4" start="1.839" end="2.059" startframe="0" framelength="0" text="your"/>
-		<timing id="5" start="2.059" end="2.996" startframe="0" framelength="0" text="best"/>
-		<timing id="6" start="2.996" end="3.652" startframe="0" framelength="0" text="laughed"/>
-		<timing id="7" start="3.652" end="4.751" startframe="0" framelength="0" text="mum"/>
-		<timing id="8" start="4.751" end="5.242" startframe="0" framelength="0" text="So"/>
-		<timing id="9" start="5.242" end="5.532" startframe="0" framelength="0" text="I’ll"/>
-		<timing id="10" start="5.532" end="5.864" startframe="0" framelength="0" text="give"/>
-		<timing id="11" start="5.864" end="6.109" startframe="0" framelength="0" text="you"/>
-		<timing id="12" start="6.109" end="6.322" startframe="0" framelength="0" text="all"/>
-		<timing id="13" start="6.322" end="6.38" startframe="0" framelength="0" text="a"/>
-		<timing id="14" start="6.38" end="7.3665" startframe="0" framelength="0" text="prize"/>
+		<timing id="0" start="0.006" end="0.766" startframe="0" framelength="0" text="Well"/>
+		<timing id="1" start="0.766" end="1.134" startframe="0" framelength="0" text="you"/>
+		<timing id="2" start="1.134" end="1.344" startframe="0" framelength="0" text="all"/>
+		<timing id="3" start="1.344" end="1.628" startframe="0" framelength="0" text="did"/>
+		<timing id="4" start="1.628" end="1.819" startframe="0" framelength="0" text="your"/>
+		<timing id="5" start="1.819" end="2.672" startframe="0" framelength="0" text="best"/>
+		<timing id="6" start="2.672" end="3.255" startframe="0" framelength="0" text="laughed"/>
+		<timing id="7" start="3.255" end="4.278" startframe="0" framelength="0" text="mum"/>
+		<timing id="8" start="4.278" end="4.711" startframe="0" framelength="0" text="So"/>
+		<timing id="9" start="4.711" end="4.97" startframe="0" framelength="0" text="I’ll"/>
+		<timing id="10" start="4.97" end="5.266" startframe="0" framelength="0" text="give"/>
+		<timing id="11" start="5.266" end="5.482" startframe="0" framelength="0" text="you"/>
+		<timing id="12" start="5.482" end="5.672" startframe="0" framelength="0" text="all"/>
+		<timing id="13" start="5.672" end="5.718" startframe="0" framelength="0" text="a"/>
+		<timing id="14" start="5.718" end="6.582833333333333" startframe="0" framelength="0" text="prize"/>
 	</timings>
 </xml>

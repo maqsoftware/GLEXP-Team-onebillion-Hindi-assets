@@ -1,17 +1,17 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="One day Maguru announced he would give legs to every animal">
-		<timing id="0" start="0.006" end="0.481" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="0.481" end="1.208" startframe="0" framelength="0" text="day"/>
-		<timing id="2" start="1.208" end="1.977" startframe="0" framelength="0" text="Maguru"/>
-		<timing id="3" start="1.977" end="2.924" startframe="0" framelength="0" text="announced"/>
-		<timing id="4" start="2.924" end="3.099" startframe="0" framelength="0" text="he"/>
-		<timing id="5" start="3.099" end="3.352" startframe="0" framelength="0" text="would"/>
-		<timing id="6" start="3.352" end="3.716" startframe="0" framelength="0" text="give"/>
-		<timing id="7" start="3.716" end="4.42" startframe="0" framelength="0" text="legs"/>
-		<timing id="8" start="4.42" end="4.704" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="4.704" end="5.209" startframe="0" framelength="0" text="every"/>
-		<timing id="10" start="5.209" end="6.060333333333333" startframe="0" framelength="0" text="animal"/>
+	<timings text="One day Gautam announced he would give legs to every animal">
+		<timing id="0" start="0.006" end="0.422" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.422" end="1.096" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="1.096" end="1.728" startframe="0" framelength="0" text="Gautam"/>
+		<timing id="3" start="1.728" end="2.348" startframe="0" framelength="0" text="announced"/>
+		<timing id="4" start="2.348" end="2.503" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="2.503" end="2.727" startframe="0" framelength="0" text="would"/>
+		<timing id="6" start="2.727" end="3.043" startframe="0" framelength="0" text="give"/>
+		<timing id="7" start="3.043" end="3.657" startframe="0" framelength="0" text="legs"/>
+		<timing id="8" start="3.657" end="3.902" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="3.902" end="4.351" startframe="0" framelength="0" text="every"/>
+		<timing id="10" start="4.351" end="5.146" startframe="0" framelength="0" text="animal"/>
 	</timings>
 </xml>

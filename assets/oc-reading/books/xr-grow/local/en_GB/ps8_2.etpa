@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Then he covered it with soil">
-		<timing id="0" start="0.006" end="0.342" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.342" end="0.558" startframe="0" framelength="0" text="he"/>
-		<timing id="2" start="0.558" end="1.19" startframe="0" framelength="0" text="covered"/>
-		<timing id="3" start="1.19" end="1.389" startframe="0" framelength="0" text="it"/>
-		<timing id="4" start="1.389" end="1.614" startframe="0" framelength="0" text="with"/>
-		<timing id="5" start="1.614" end="2.56" startframe="0" framelength="0" text="soil"/>
+		<timing id="0" start="0.006" end="0.296" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.296" end="0.486" startframe="0" framelength="0" text="he"/>
+		<timing id="2" start="0.486" end="1.04" startframe="0" framelength="0" text="covered"/>
+		<timing id="3" start="1.04" end="1.219" startframe="0" framelength="0" text="it"/>
+		<timing id="4" start="1.219" end="1.418" startframe="0" framelength="0" text="with"/>
+		<timing id="5" start="1.418" end="2.2465" startframe="0" framelength="0" text="soil"/>
 	</timings>
 </xml>

@@ -1,12 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Then Peng looks under the table">
-		<timing id="0" start="0.006" end="0.348" startframe="0" framelength="0" text="Then"/>
-		<timing id="1" start="0.348" end="0.785" startframe="0" framelength="0" text="Peng"/>
-		<timing id="2" start="0.785" end="1.241" startframe="0" framelength="0" text="looks"/>
-		<timing id="3" start="1.241" end="1.586" startframe="0" framelength="0" text="under"/>
-		<timing id="4" start="1.586" end="1.759" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="1.759" end="2.638333333333333" startframe="0" framelength="0" text="table"/>
+	<timings text="Then <break time="500ms"/> Ankit <break time="500ms"/> looks <break time="500ms"/> under <break time="500ms"/> the <break time="500ms"/> table <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.817" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.817" end="1.417" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.417" end="2.28" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="3" start="2.28" end="2.88" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.88" end="3.883" startframe="0" framelength="0" text="looks"/>
+		<timing id="5" start="3.883" end="4.48" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.48" end="5.246" startframe="0" framelength="0" text="under"/>
+		<timing id="7" start="5.246" end="5.846" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.846" end="6.634" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="6.634" end="7.234" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.234" end="8.177" startframe="0" framelength="0" text="table"/>
+		<timing id="11" start="8.177" end="8.751" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

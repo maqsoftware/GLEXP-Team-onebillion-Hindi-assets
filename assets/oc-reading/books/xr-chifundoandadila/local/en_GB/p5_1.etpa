@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="The terrified girls drop their shopping ‘Crack go Chifundo’s eggs ‘Splat goes Adila’s oil">
-		<timing id="0" start="0.006" end="0.175" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.175" end="1.048" startframe="0" framelength="0" text="terrified"/>
-		<timing id="2" start="1.048" end="1.651" startframe="0" framelength="0" text="girls"/>
-		<timing id="3" start="1.651" end="2.08" startframe="0" framelength="0" text="drop"/>
-		<timing id="4" start="2.08" end="2.289" startframe="0" framelength="0" text="their"/>
-		<timing id="5" start="2.289" end="3.64" startframe="0" framelength="0" text="shopping"/>
-		<timing id="6" start="3.64" end="4.744" startframe="0" framelength="0" text="‘Crack"/>
-		<timing id="7" start="4.744" end="5.176" startframe="0" framelength="0" text="go"/>
-		<timing id="8" start="5.176" end="6.313" startframe="0" framelength="0" text="Chifundo’s"/>
-		<timing id="9" start="6.313" end="7.322" startframe="0" framelength="0" text="eggs"/>
-		<timing id="10" start="7.322" end="8.752" startframe="0" framelength="0" text="‘Splat"/>
-		<timing id="11" start="8.752" end="9.309" startframe="0" framelength="0" text="goes"/>
-		<timing id="12" start="9.309" end="10.078" startframe="0" framelength="0" text="Adila’s"/>
-		<timing id="13" start="10.078" end="10.7885" startframe="0" framelength="0" text="oil"/>
+	<timings text="The terrified girls drop their shopping ‘Crack go Deeksha’s eggs ‘Splat goes Ritika’s oil">
+		<timing id="0" start="0.006" end="0.151" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.151" end="0.931" startframe="0" framelength="0" text="terrified"/>
+		<timing id="2" start="0.931" end="1.459" startframe="0" framelength="0" text="girls"/>
+		<timing id="3" start="1.459" end="1.83" startframe="0" framelength="0" text="drop"/>
+		<timing id="4" start="1.83" end="2.017" startframe="0" framelength="0" text="their"/>
+		<timing id="5" start="2.017" end="3.247" startframe="0" framelength="0" text="shopping"/>
+		<timing id="6" start="3.247" end="4.251" startframe="0" framelength="0" text="‘Crack"/>
+		<timing id="7" start="4.251" end="4.601" startframe="0" framelength="0" text="go"/>
+		<timing id="8" start="4.601" end="5.42" startframe="0" framelength="0" text="Deeksha’s"/>
+		<timing id="9" start="5.42" end="6.341" startframe="0" framelength="0" text="eggs"/>
+		<timing id="10" start="6.341" end="7.652" startframe="0" framelength="0" text="‘Splat"/>
+		<timing id="11" start="7.652" end="8.077" startframe="0" framelength="0" text="goes"/>
+		<timing id="12" start="8.077" end="8.871" startframe="0" framelength="0" text="Ritika’s"/>
+		<timing id="13" start="8.871" end="9.5085" startframe="0" framelength="0" text="oil"/>
 	</timings>
 </xml>

@@ -1,34 +1,34 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chikondi gets a bucket of water She starts to wash the chickens But they are not happy They flap their wings like crazy They cluck and they squawk">
-		<timing id="0" start="0.006" end="0.836" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="1" start="0.836" end="1.342" startframe="0" framelength="0" text="gets"/>
-		<timing id="2" start="1.342" end="1.388" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.388" end="1.977" startframe="0" framelength="0" text="bucket"/>
-		<timing id="4" start="1.977" end="2.203" startframe="0" framelength="0" text="of"/>
-		<timing id="5" start="2.203" end="3.366" startframe="0" framelength="0" text="water"/>
-		<timing id="6" start="3.366" end="3.727" startframe="0" framelength="0" text="She"/>
-		<timing id="7" start="3.727" end="4.395" startframe="0" framelength="0" text="starts"/>
-		<timing id="8" start="4.395" end="4.586" startframe="0" framelength="0" text="to"/>
-		<timing id="9" start="4.586" end="5.097" startframe="0" framelength="0" text="wash"/>
-		<timing id="10" start="5.097" end="5.241" startframe="0" framelength="0" text="the"/>
-		<timing id="11" start="5.241" end="6.726" startframe="0" framelength="0" text="chickens"/>
-		<timing id="12" start="6.726" end="7.142" startframe="0" framelength="0" text="But"/>
-		<timing id="13" start="7.142" end="7.414" startframe="0" framelength="0" text="they"/>
-		<timing id="14" start="7.414" end="7.58" startframe="0" framelength="0" text="are"/>
-		<timing id="15" start="7.58" end="8.03" startframe="0" framelength="0" text="not"/>
-		<timing id="16" start="8.03" end="9.212" startframe="0" framelength="0" text="happy"/>
-		<timing id="17" start="9.212" end="9.466" startframe="0" framelength="0" text="They"/>
-		<timing id="18" start="9.466" end="9.999" startframe="0" framelength="0" text="flap"/>
-		<timing id="19" start="9.999" end="10.228" startframe="0" framelength="0" text="their"/>
-		<timing id="20" start="10.228" end="10.725" startframe="0" framelength="0" text="wings"/>
-		<timing id="21" start="10.725" end="11.081" startframe="0" framelength="0" text="like"/>
-		<timing id="22" start="11.081" end="12.488" startframe="0" framelength="0" text="crazy"/>
-		<timing id="23" start="12.488" end="12.736" startframe="0" framelength="0" text="They"/>
-		<timing id="24" start="12.736" end="13.236" startframe="0" framelength="0" text="cluck"/>
-		<timing id="25" start="13.236" end="13.459" startframe="0" framelength="0" text="and"/>
-		<timing id="26" start="13.459" end="13.698" startframe="0" framelength="0" text="they"/>
-		<timing id="27" start="13.698" end="14.733" startframe="0" framelength="0" text="squawk"/>
+	<timings text="Dipti gets a bucket of water She starts to wash the chickens But they are not happy They flap their wings like crazy They cluck and they squawk">
+		<timing id="0" start="0.006" end="0.631" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="1" start="0.631" end="1.132" startframe="0" framelength="0" text="gets"/>
+		<timing id="2" start="1.132" end="1.188" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.188" end="1.659" startframe="0" framelength="0" text="bucket"/>
+		<timing id="4" start="1.659" end="1.848" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.848" end="2.903" startframe="0" framelength="0" text="water"/>
+		<timing id="6" start="2.903" end="3.225" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="3.225" end="3.822" startframe="0" framelength="0" text="starts"/>
+		<timing id="8" start="3.822" end="3.991" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="3.991" end="4.443" startframe="0" framelength="0" text="wash"/>
+		<timing id="10" start="4.443" end="4.564" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.564" end="5.922" startframe="0" framelength="0" text="chickens"/>
+		<timing id="12" start="5.922" end="6.285" startframe="0" framelength="0" text="But"/>
+		<timing id="13" start="6.285" end="6.524" startframe="0" framelength="0" text="they"/>
+		<timing id="14" start="6.524" end="6.67" startframe="0" framelength="0" text="are"/>
+		<timing id="15" start="6.67" end="7.071" startframe="0" framelength="0" text="not"/>
+		<timing id="16" start="7.071" end="8.163" startframe="0" framelength="0" text="happy"/>
+		<timing id="17" start="8.163" end="8.388" startframe="0" framelength="0" text="They"/>
+		<timing id="18" start="8.388" end="8.855" startframe="0" framelength="0" text="flap"/>
+		<timing id="19" start="8.855" end="9.055" startframe="0" framelength="0" text="their"/>
+		<timing id="20" start="9.055" end="9.497" startframe="0" framelength="0" text="wings"/>
+		<timing id="21" start="9.497" end="9.809" startframe="0" framelength="0" text="like"/>
+		<timing id="22" start="9.809" end="11.104" startframe="0" framelength="0" text="crazy"/>
+		<timing id="23" start="11.104" end="11.319" startframe="0" framelength="0" text="They"/>
+		<timing id="24" start="11.319" end="11.755" startframe="0" framelength="0" text="cluck"/>
+		<timing id="25" start="11.755" end="11.945" startframe="0" framelength="0" text="and"/>
+		<timing id="26" start="11.945" end="12.158" startframe="0" framelength="0" text="they"/>
+		<timing id="27" start="12.158" end="13.061166666666667" startframe="0" framelength="0" text="squawk"/>
 	</timings>
 </xml>

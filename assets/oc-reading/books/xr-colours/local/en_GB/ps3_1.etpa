@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Grandma likes white She has a white scarf">
-		<timing id="0" start="0.006" end="0.774" startframe="0" framelength="0" text="Grandma"/>
-		<timing id="1" start="0.774" end="1.351" startframe="0" framelength="0" text="likes"/>
-		<timing id="2" start="1.351" end="2.449" startframe="0" framelength="0" text="white"/>
-		<timing id="3" start="2.449" end="2.84" startframe="0" framelength="0" text="She"/>
-		<timing id="4" start="2.84" end="3.173" startframe="0" framelength="0" text="has"/>
-		<timing id="5" start="3.173" end="3.239" startframe="0" framelength="0" text="a"/>
-		<timing id="6" start="3.239" end="3.759" startframe="0" framelength="0" text="white"/>
-		<timing id="7" start="3.759" end="4.728166666666667" startframe="0" framelength="0" text="scarf"/>
+		<timing id="0" start="0.006" end="0.681" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="0.681" end="1.19" startframe="0" framelength="0" text="likes"/>
+		<timing id="2" start="1.19" end="2.205" startframe="0" framelength="0" text="white"/>
+		<timing id="3" start="2.205" end="2.55" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.55" end="2.853" startframe="0" framelength="0" text="has"/>
+		<timing id="5" start="2.853" end="2.911" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="2.911" end="3.363" startframe="0" framelength="0" text="white"/>
+		<timing id="7" start="3.363" end="4.231833333333333" startframe="0" framelength="0" text="scarf"/>
 	</timings>
 </xml>

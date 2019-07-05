@@ -1,9 +1,12 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Mrs Tembo’s umbrella">
-		<timing id="0" start="0.006" end="0.642" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="1" start="0.642" end="1.411" startframe="0" framelength="0" text="Tembo’s"/>
-		<timing id="2" start="1.411" end="2.4816666666666665" startframe="0" framelength="0" text="umbrella"/>
+	<timings text="Mrs <break time="500ms"/> Kalpana’s <break time="500ms"/> umbrella <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.996" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.996" end="1.59" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.59" end="2.767" startframe="0" framelength="0" text="Kalpana’s"/>
+		<timing id="3" start="2.767" end="3.36" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.36" end="4.363" startframe="0" framelength="0" text="umbrella"/>
+		<timing id="5" start="4.363" end="4.937166666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

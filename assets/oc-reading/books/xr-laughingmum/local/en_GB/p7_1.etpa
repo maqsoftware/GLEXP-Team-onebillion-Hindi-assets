@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The baby deer cries and cries">
-		<timing id="0" start="0.006" end="0.183" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.183" end="0.796" startframe="0" framelength="0" text="baby"/>
-		<timing id="2" start="0.796" end="1.218" startframe="0" framelength="0" text="deer"/>
-		<timing id="3" start="1.218" end="1.887" startframe="0" framelength="0" text="cries"/>
-		<timing id="4" start="1.887" end="2.112" startframe="0" framelength="0" text="and"/>
-		<timing id="5" start="2.112" end="3.0563333333333333" startframe="0" framelength="0" text="cries"/>
+		<timing id="0" start="0.006" end="0.158" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.158" end="0.707" startframe="0" framelength="0" text="baby"/>
+		<timing id="2" start="0.707" end="1.074" startframe="0" framelength="0" text="deer"/>
+		<timing id="3" start="1.074" end="1.662" startframe="0" framelength="0" text="cries"/>
+		<timing id="4" start="1.662" end="1.858" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="1.858" end="2.716666666666667" startframe="0" framelength="0" text="cries"/>
 	</timings>
 </xml>

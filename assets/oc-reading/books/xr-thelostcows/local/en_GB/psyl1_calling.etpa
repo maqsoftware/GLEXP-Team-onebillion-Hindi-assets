@@ -1,8 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="call ing">
-		<timing id="0" start="0.006" end="0.913" startframe="0" framelength="0" text="call"/>
-		<timing id="1" start="0.913" end="1.4628333333333334" startframe="0" framelength="0" text="ing"/>
+	<timings text="call <break time="500ms"/> ing <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.721" startframe="0" framelength="0" text="call"/>
+		<timing id="1" start="0.721" end="1.312" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.312" end="1.848" startframe="0" framelength="0" text="ing"/>
+		<timing id="3" start="1.848" end="2.4031666666666665" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

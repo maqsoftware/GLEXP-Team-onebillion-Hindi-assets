@@ -1,18 +1,18 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Hooray the cows have come home Bill and his dog are happy">
-		<timing id="0" start="0.006" end="1.026" startframe="0" framelength="0" text="Hooray"/>
-		<timing id="1" start="1.026" end="1.187" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="1.187" end="1.663" startframe="0" framelength="0" text="cows"/>
-		<timing id="3" start="1.663" end="1.972" startframe="0" framelength="0" text="have"/>
-		<timing id="4" start="1.972" end="2.294" startframe="0" framelength="0" text="come"/>
-		<timing id="5" start="2.294" end="3.286" startframe="0" framelength="0" text="home"/>
-		<timing id="6" start="3.286" end="3.713" startframe="0" framelength="0" text="Bill"/>
-		<timing id="7" start="3.713" end="3.995" startframe="0" framelength="0" text="and"/>
-		<timing id="8" start="3.995" end="4.314" startframe="0" framelength="0" text="his"/>
-		<timing id="9" start="4.314" end="4.776" startframe="0" framelength="0" text="dog"/>
-		<timing id="10" start="4.776" end="5.003" startframe="0" framelength="0" text="are"/>
-		<timing id="11" start="5.003" end="5.903666666666667" startframe="0" framelength="0" text="happy"/>
+	<timings text="Hooray the cows have come home Rahul and his dog are happy">
+		<timing id="0" start="0.006" end="1.022" startframe="0" framelength="0" text="Hooray"/>
+		<timing id="1" start="1.022" end="1.207" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="1.207" end="1.593" startframe="0" framelength="0" text="cows"/>
+		<timing id="3" start="1.593" end="1.862" startframe="0" framelength="0" text="have"/>
+		<timing id="4" start="1.862" end="2.144" startframe="0" framelength="0" text="come"/>
+		<timing id="5" start="2.144" end="3.06" startframe="0" framelength="0" text="home"/>
+		<timing id="6" start="3.06" end="3.599" startframe="0" framelength="0" text="Rahul"/>
+		<timing id="7" start="3.599" end="3.78" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="3.78" end="4.01" startframe="0" framelength="0" text="his"/>
+		<timing id="9" start="4.01" end="4.388" startframe="0" framelength="0" text="dog"/>
+		<timing id="10" start="4.388" end="4.613" startframe="0" framelength="0" text="are"/>
+		<timing id="11" start="4.613" end="5.4335" startframe="0" framelength="0" text="happy"/>
 	</timings>
 </xml>

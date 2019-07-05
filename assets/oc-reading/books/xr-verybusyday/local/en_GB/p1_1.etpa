@@ -2,15 +2,15 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="We go out There are many things to do today">
-		<timing id="0" start="0.011" end="0.277" startframe="0" framelength="0" text="We"/>
-		<timing id="1" start="0.277" end="0.666" startframe="0" framelength="0" text="go"/>
-		<timing id="2" start="0.666" end="1.773" startframe="0" framelength="0" text="out"/>
-		<timing id="3" start="1.773" end="2.256" startframe="0" framelength="0" text="There"/>
-		<timing id="4" start="2.256" end="2.447" startframe="0" framelength="0" text="are"/>
-		<timing id="5" start="2.447" end="2.877" startframe="0" framelength="0" text="many"/>
-		<timing id="6" start="2.877" end="3.378" startframe="0" framelength="0" text="things"/>
-		<timing id="7" start="3.378" end="3.534" startframe="0" framelength="0" text="to"/>
-		<timing id="8" start="3.534" end="3.81" startframe="0" framelength="0" text="do"/>
-		<timing id="9" start="3.81" end="4.623666666666667" startframe="0" framelength="0" text="today"/>
+		<timing id="0" start="0.011" end="0.243" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.243" end="0.58" startframe="0" framelength="0" text="go"/>
+		<timing id="2" start="0.58" end="1.606" startframe="0" framelength="0" text="out"/>
+		<timing id="3" start="1.606" end="2.027" startframe="0" framelength="0" text="There"/>
+		<timing id="4" start="2.027" end="2.195" startframe="0" framelength="0" text="are"/>
+		<timing id="5" start="2.195" end="2.573" startframe="0" framelength="0" text="many"/>
+		<timing id="6" start="2.573" end="3.019" startframe="0" framelength="0" text="things"/>
+		<timing id="7" start="3.019" end="3.151" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="3.151" end="3.388" startframe="0" framelength="0" text="do"/>
+		<timing id="9" start="3.388" end="4.101166666666667" startframe="0" framelength="0" text="today"/>
 	</timings>
 </xml>

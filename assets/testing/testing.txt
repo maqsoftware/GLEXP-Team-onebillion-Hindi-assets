@@ -1,0 +1,6 @@
+Input order: date and time format:- "yyyy/MM/dd HH:mm:ss", testingActive, studySection, nightMode, playZone
+2019/06/20 16:00:45
+0
+0
+0
+0

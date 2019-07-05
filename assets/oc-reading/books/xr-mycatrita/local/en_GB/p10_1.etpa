@@ -1,22 +1,22 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Oh Rita What a mess she’s made in my bedroom I’ll have to clean it up">
-		<timing id="0" start="0.006" end="0.72" startframe="0" framelength="0" text="Oh"/>
-		<timing id="1" start="0.72" end="1.956" startframe="0" framelength="0" text="Rita"/>
-		<timing id="2" start="1.956" end="2.389" startframe="0" framelength="0" text="What"/>
-		<timing id="3" start="2.389" end="2.438" startframe="0" framelength="0" text="a"/>
-		<timing id="4" start="2.438" end="2.872" startframe="0" framelength="0" text="mess"/>
-		<timing id="5" start="2.872" end="3.376" startframe="0" framelength="0" text="she’s"/>
-		<timing id="6" start="3.376" end="3.785" startframe="0" framelength="0" text="made"/>
-		<timing id="7" start="3.785" end="3.935" startframe="0" framelength="0" text="in"/>
-		<timing id="8" start="3.935" end="4.188" startframe="0" framelength="0" text="my"/>
-		<timing id="9" start="4.188" end="5.616" startframe="0" framelength="0" text="bedroom"/>
-		<timing id="10" start="5.616" end="5.917" startframe="0" framelength="0" text="I’ll"/>
-		<timing id="11" start="5.917" end="6.296" startframe="0" framelength="0" text="have"/>
-		<timing id="12" start="6.296" end="6.509" startframe="0" framelength="0" text="to"/>
-		<timing id="13" start="6.509" end="6.911" startframe="0" framelength="0" text="clean"/>
-		<timing id="14" start="6.911" end="7.135" startframe="0" framelength="0" text="it"/>
-		<timing id="15" start="7.135" end="7.732166666666667" startframe="0" framelength="0" text="up"/>
+	<timings text="Oh Indu What a mess she’s made in my bedroom I’ll have to clean it up">
+		<timing id="0" start="0.006" end="0.658" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.658" end="1.612" startframe="0" framelength="0" text="Indu"/>
+		<timing id="2" start="1.612" end="1.992" startframe="0" framelength="0" text="What"/>
+		<timing id="3" start="1.992" end="2.034" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="2.034" end="2.403" startframe="0" framelength="0" text="mess"/>
+		<timing id="5" start="2.403" end="2.838" startframe="0" framelength="0" text="she’s"/>
+		<timing id="6" start="2.838" end="3.204" startframe="0" framelength="0" text="made"/>
+		<timing id="7" start="3.204" end="3.333" startframe="0" framelength="0" text="in"/>
+		<timing id="8" start="3.333" end="3.557" startframe="0" framelength="0" text="my"/>
+		<timing id="9" start="3.557" end="4.85" startframe="0" framelength="0" text="bedroom"/>
+		<timing id="10" start="4.85" end="5.113" startframe="0" framelength="0" text="I’ll"/>
+		<timing id="11" start="5.113" end="5.445" startframe="0" framelength="0" text="have"/>
+		<timing id="12" start="5.445" end="5.637" startframe="0" framelength="0" text="to"/>
+		<timing id="13" start="5.637" end="5.99" startframe="0" framelength="0" text="clean"/>
+		<timing id="14" start="5.99" end="6.183" startframe="0" framelength="0" text="it"/>
+		<timing id="15" start="6.183" end="6.7395" startframe="0" framelength="0" text="up"/>
 	</timings>
 </xml>

@@ -1,26 +1,26 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="When Amina arrived home the people in the village were very happy And her mother was the happiest of all">
-		<timing id="0" start="0.006" end="0.348" startframe="0" framelength="0" text="When"/>
-		<timing id="1" start="0.348" end="1.019" startframe="0" framelength="0" text="Amina"/>
-		<timing id="2" start="1.019" end="1.667" startframe="0" framelength="0" text="arrived"/>
-		<timing id="3" start="1.667" end="2.572" startframe="0" framelength="0" text="home"/>
-		<timing id="4" start="2.572" end="2.781" startframe="0" framelength="0" text="the"/>
-		<timing id="5" start="2.781" end="3.437" startframe="0" framelength="0" text="people"/>
-		<timing id="6" start="3.437" end="3.59" startframe="0" framelength="0" text="in"/>
-		<timing id="7" start="3.59" end="3.699" startframe="0" framelength="0" text="the"/>
-		<timing id="8" start="3.699" end="4.284" startframe="0" framelength="0" text="village"/>
-		<timing id="9" start="4.284" end="4.466" startframe="0" framelength="0" text="were"/>
-		<timing id="10" start="4.466" end="4.931" startframe="0" framelength="0" text="very"/>
-		<timing id="11" start="4.931" end="6.225" startframe="0" framelength="0" text="happy"/>
-		<timing id="12" start="6.225" end="6.538" startframe="0" framelength="0" text="And"/>
-		<timing id="13" start="6.538" end="6.789" startframe="0" framelength="0" text="her"/>
-		<timing id="14" start="6.789" end="7.301" startframe="0" framelength="0" text="mother"/>
-		<timing id="15" start="7.301" end="7.629" startframe="0" framelength="0" text="was"/>
-		<timing id="16" start="7.629" end="7.771" startframe="0" framelength="0" text="the"/>
-		<timing id="17" start="7.771" end="8.614" startframe="0" framelength="0" text="happiest"/>
-		<timing id="18" start="8.614" end="8.88" startframe="0" framelength="0" text="of"/>
-		<timing id="19" start="8.88" end="9.613" startframe="0" framelength="0" text="all"/>
+	<timings text="When Kalpana arrived home the people in the village were very happy And her mother was the happiest of all">
+		<timing id="0" start="0.006" end="0.333" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.333" end="1.048" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="2" start="1.048" end="1.623" startframe="0" framelength="0" text="arrived"/>
+		<timing id="3" start="1.623" end="2.438" startframe="0" framelength="0" text="home"/>
+		<timing id="4" start="2.438" end="2.574" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.574" end="3.132" startframe="0" framelength="0" text="people"/>
+		<timing id="6" start="3.132" end="3.264" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="3.264" end="3.358" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.358" end="3.872" startframe="0" framelength="0" text="village"/>
+		<timing id="9" start="3.872" end="4.038" startframe="0" framelength="0" text="were"/>
+		<timing id="10" start="4.038" end="4.444" startframe="0" framelength="0" text="very"/>
+		<timing id="11" start="4.444" end="5.628" startframe="0" framelength="0" text="happy"/>
+		<timing id="12" start="5.628" end="5.904" startframe="0" framelength="0" text="And"/>
+		<timing id="13" start="5.904" end="6.125" startframe="0" framelength="0" text="her"/>
+		<timing id="14" start="6.125" end="6.57" startframe="0" framelength="0" text="mother"/>
+		<timing id="15" start="6.57" end="6.858" startframe="0" framelength="0" text="was"/>
+		<timing id="16" start="6.858" end="6.98" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="6.98" end="7.706" startframe="0" framelength="0" text="happiest"/>
+		<timing id="18" start="7.706" end="7.936" startframe="0" framelength="0" text="of"/>
+		<timing id="19" start="7.936" end="8.594166666666666" startframe="0" framelength="0" text="all"/>
 	</timings>
 </xml>

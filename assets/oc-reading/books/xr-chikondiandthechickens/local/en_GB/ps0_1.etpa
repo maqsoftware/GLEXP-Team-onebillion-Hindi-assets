@@ -1,10 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chikondi and the chickens">
-		<timing id="0" start="0.006" end="0.848" startframe="0" framelength="0" text="Chikondi"/>
-		<timing id="1" start="0.848" end="1.06" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="1.06" end="1.176" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="1.176" end="2.3248333333333333" startframe="0" framelength="0" text="chickens"/>
+	<timings text="Dipti and the chickens">
+		<timing id="0" start="0.006" end="0.661" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="1" start="0.661" end="0.837" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.837" end="0.939" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.939" end="1.9591666666666667" startframe="0" framelength="0" text="chickens"/>
 	</timings>
 </xml>

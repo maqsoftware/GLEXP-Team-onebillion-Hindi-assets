@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The wedding is wonderful People dance and sing and give presents">
-		<timing id="0" start="0.006" end="0.174" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.174" end="0.779" startframe="0" framelength="0" text="wedding"/>
-		<timing id="2" start="0.779" end="1.029" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="1.029" end="2.551" startframe="0" framelength="0" text="wonderful"/>
-		<timing id="4" start="2.551" end="3.069" startframe="0" framelength="0" text="People"/>
-		<timing id="5" start="3.069" end="4.103" startframe="0" framelength="0" text="dance"/>
-		<timing id="6" start="4.103" end="4.433" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="4.433" end="5.359" startframe="0" framelength="0" text="sing"/>
-		<timing id="8" start="5.359" end="5.7" startframe="0" framelength="0" text="and"/>
-		<timing id="9" start="5.7" end="6.064" startframe="0" framelength="0" text="give"/>
-		<timing id="10" start="6.064" end="7.209833333333333" startframe="0" framelength="0" text="presents"/>
+		<timing id="0" start="0.006" end="0.154" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.154" end="0.689" startframe="0" framelength="0" text="wedding"/>
+		<timing id="2" start="0.689" end="0.913" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.913" end="2.293" startframe="0" framelength="0" text="wonderful"/>
+		<timing id="4" start="2.293" end="2.752" startframe="0" framelength="0" text="People"/>
+		<timing id="5" start="2.752" end="3.69" startframe="0" framelength="0" text="dance"/>
+		<timing id="6" start="3.69" end="3.973" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="3.973" end="4.804" startframe="0" framelength="0" text="sing"/>
+		<timing id="8" start="4.804" end="5.104" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="5.104" end="5.418" startframe="0" framelength="0" text="give"/>
+		<timing id="10" start="5.418" end="6.4" startframe="0" framelength="0" text="presents"/>
 	</timings>
 </xml>

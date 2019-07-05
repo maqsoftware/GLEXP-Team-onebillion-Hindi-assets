@@ -1,9 +1,12 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="eve ry thing">
-		<timing id="0" start="0.006" end="0.944" startframe="0" framelength="0" text="eve"/>
-		<timing id="1" start="0.944" end="1.924" startframe="0" framelength="0" text="ry"/>
-		<timing id="2" start="1.924" end="2.6905" startframe="0" framelength="0" text="thing"/>
+	<timings text="ev <break time="500ms"/> ree <break time="500ms"/> thing <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.685" startframe="0" framelength="0" text="ev"/>
+		<timing id="1" start="0.685" end="1.285" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.285" end="1.759" startframe="0" framelength="0" text="ree"/>
+		<timing id="3" start="1.759" end="2.359" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.359" end="3.234" startframe="0" framelength="0" text="thing"/>
+		<timing id="5" start="3.234" end="3.7876666666666665" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

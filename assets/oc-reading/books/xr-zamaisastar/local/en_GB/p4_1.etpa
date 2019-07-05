@@ -4,12 +4,12 @@
 	<timings text="Then I wash myself I don’t need any help">
 		<timing id="0" start="0.006" end="0.399" startframe="0" framelength="0" text="Then"/>
 		<timing id="1" start="0.399" end="0.644" startframe="0" framelength="0" text="I"/>
-		<timing id="2" start="0.644" end="1.142" startframe="0" framelength="0" text="wash"/>
-		<timing id="3" start="1.142" end="2.648" startframe="0" framelength="0" text="myself"/>
-		<timing id="4" start="2.648" end="2.894" startframe="0" framelength="0" text="I"/>
-		<timing id="5" start="2.894" end="3.462" startframe="0" framelength="0" text="don’t"/>
-		<timing id="6" start="3.462" end="3.873" startframe="0" framelength="0" text="need"/>
-		<timing id="7" start="3.873" end="4.208" startframe="0" framelength="0" text="any"/>
-		<timing id="8" start="4.208" end="5.093833333333333" startframe="0" framelength="0" text="help"/>
+		<timing id="2" start="0.644" end="1.124" startframe="0" framelength="0" text="wash"/>
+		<timing id="3" start="1.124" end="2.055" startframe="0" framelength="0" text="myself"/>
+		<timing id="4" start="2.055" end="2.274" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="2.274" end="2.776" startframe="0" framelength="0" text="don’t"/>
+		<timing id="6" start="2.776" end="3.187" startframe="0" framelength="0" text="need"/>
+		<timing id="7" start="3.187" end="3.523" startframe="0" framelength="0" text="any"/>
+		<timing id="8" start="3.523" end="4.414666666666666" startframe="0" framelength="0" text="help"/>
 	</timings>
 </xml>

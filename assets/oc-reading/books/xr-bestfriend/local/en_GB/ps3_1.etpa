@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Some of my friends are younger than me">
-		<timing id="0" start="0.006" end="0.493" startframe="0" framelength="0" text="Some"/>
-		<timing id="1" start="0.493" end="0.779" startframe="0" framelength="0" text="of"/>
-		<timing id="2" start="0.779" end="0.998" startframe="0" framelength="0" text="my"/>
-		<timing id="3" start="0.998" end="1.683" startframe="0" framelength="0" text="friends"/>
-		<timing id="4" start="1.683" end="1.846" startframe="0" framelength="0" text="are"/>
-		<timing id="5" start="1.846" end="2.443" startframe="0" framelength="0" text="younger"/>
-		<timing id="6" start="2.443" end="2.799" startframe="0" framelength="0" text="than"/>
-		<timing id="7" start="2.799" end="3.422" startframe="0" framelength="0" text="me"/>
+		<timing id="0" start="0.006" end="0.439" startframe="0" framelength="0" text="Some"/>
+		<timing id="1" start="0.439" end="0.691" startframe="0" framelength="0" text="of"/>
+		<timing id="2" start="0.691" end="0.881" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.881" end="1.487" startframe="0" framelength="0" text="friends"/>
+		<timing id="4" start="1.487" end="1.628" startframe="0" framelength="0" text="are"/>
+		<timing id="5" start="1.628" end="2.162" startframe="0" framelength="0" text="younger"/>
+		<timing id="6" start="2.162" end="2.468" startframe="0" framelength="0" text="than"/>
+		<timing id="7" start="2.468" end="3.0301666666666667" startframe="0" framelength="0" text="me"/>
 	</timings>
 </xml>

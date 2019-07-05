@@ -2,13 +2,13 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="We are so proud say Mum and Dad">
-		<timing id="0" start="0.006" end="0.426" startframe="0" framelength="0" text="We"/>
-		<timing id="1" start="0.426" end="0.582" startframe="0" framelength="0" text="are"/>
-		<timing id="2" start="0.582" end="0.887" startframe="0" framelength="0" text="so"/>
-		<timing id="3" start="0.887" end="1.922" startframe="0" framelength="0" text="proud"/>
-		<timing id="4" start="1.922" end="2.278" startframe="0" framelength="0" text="say"/>
-		<timing id="5" start="2.278" end="2.674" startframe="0" framelength="0" text="Mum"/>
-		<timing id="6" start="2.674" end="2.904" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="2.904" end="3.6571666666666665" startframe="0" framelength="0" text="Dad"/>
+		<timing id="0" start="0.006" end="0.374" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.374" end="0.51" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.51" end="0.775" startframe="0" framelength="0" text="so"/>
+		<timing id="3" start="0.775" end="1.702" startframe="0" framelength="0" text="proud"/>
+		<timing id="4" start="1.702" end="2.009" startframe="0" framelength="0" text="say"/>
+		<timing id="5" start="2.009" end="2.356" startframe="0" framelength="0" text="Mum"/>
+		<timing id="6" start="2.356" end="2.561" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.561" end="3.2391666666666667" startframe="0" framelength="0" text="Dad"/>
 	</timings>
 </xml>

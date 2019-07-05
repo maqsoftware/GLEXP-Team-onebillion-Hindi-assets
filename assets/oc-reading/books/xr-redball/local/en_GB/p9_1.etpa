@@ -2,11 +2,11 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Where is my red ball now">
-		<timing id="0" start="0.006" end="0.498" startframe="0" framelength="0" text="Where"/>
-		<timing id="1" start="0.498" end="0.736" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.736" end="0.972" startframe="0" framelength="0" text="my"/>
-		<timing id="3" start="0.972" end="1.347" startframe="0" framelength="0" text="red"/>
-		<timing id="4" start="1.347" end="1.806" startframe="0" framelength="0" text="ball"/>
-		<timing id="5" start="1.806" end="2.5338333333333334" startframe="0" framelength="0" text="now"/>
+		<timing id="0" start="0.006" end="0.444" startframe="0" framelength="0" text="Where"/>
+		<timing id="1" start="0.444" end="0.649" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.649" end="0.863" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.863" end="1.191" startframe="0" framelength="0" text="red"/>
+		<timing id="4" start="1.191" end="1.594" startframe="0" framelength="0" text="ball"/>
+		<timing id="5" start="1.594" end="2.2203333333333335" startframe="0" framelength="0" text="now"/>
 	</timings>
 </xml>

@@ -1,22 +1,38 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chifundo needs two tins Uncle Jomo gives her a tin Mrs Tembo gives her a tin">
-		<timing id="0" start="0.006" end="0.944" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="1" start="0.944" end="1.506" startframe="0" framelength="0" text="needs"/>
-		<timing id="2" start="1.506" end="1.755" startframe="0" framelength="0" text="two"/>
-		<timing id="3" start="1.755" end="2.946" startframe="0" framelength="0" text="tins"/>
-		<timing id="4" start="2.946" end="3.438" startframe="0" framelength="0" text="Uncle"/>
-		<timing id="5" start="3.438" end="4.083" startframe="0" framelength="0" text="Jomo"/>
-		<timing id="6" start="4.083" end="4.466" startframe="0" framelength="0" text="gives"/>
-		<timing id="7" start="4.466" end="4.716" startframe="0" framelength="0" text="her"/>
-		<timing id="8" start="4.716" end="4.772" startframe="0" framelength="0" text="a"/>
-		<timing id="9" start="4.772" end="5.827" startframe="0" framelength="0" text="tin"/>
-		<timing id="10" start="5.827" end="6.464" startframe="0" framelength="0" text="Mrs"/>
-		<timing id="11" start="6.464" end="7.064" startframe="0" framelength="0" text="Tembo"/>
-		<timing id="12" start="7.064" end="7.403" startframe="0" framelength="0" text="gives"/>
-		<timing id="13" start="7.403" end="7.653" startframe="0" framelength="0" text="her"/>
-		<timing id="14" start="7.653" end="7.709" startframe="0" framelength="0" text="a"/>
-		<timing id="15" start="7.709" end="8.4375" startframe="0" framelength="0" text="tin"/>
+	<timings text="Deeksha <break time="500ms"/> needs <break time="500ms"/> two <break time="500ms"/> tins <break time="500ms"/> Uncle <break time="500ms"/> Ajay <break time="500ms"/> gives <break time="500ms"/> her <break time="500ms"/> a <break time="500ms"/> tin <break time="500ms"/> Mrs <break time="500ms"/> Kalpana <break time="500ms"/> gives <break time="500ms"/> her <break time="500ms"/> a <break time="500ms"/> tin <break time="500ms"/>">
+		<timing id="0" start="0.006" end="1.006" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="1.006" end="1.599" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.599" end="2.47" startframe="0" framelength="0" text="needs"/>
+		<timing id="3" start="2.47" end="3.063" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.063" end="3.669" startframe="0" framelength="0" text="two"/>
+		<timing id="5" start="3.669" end="4.269" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.269" end="5.01" startframe="0" framelength="0" text="tins"/>
+		<timing id="7" start="5.01" end="5.897" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.897" end="6.752" startframe="0" framelength="0" text="Uncle"/>
+		<timing id="9" start="6.752" end="7.345" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.345" end="8.07" startframe="0" framelength="0" text="Ajay"/>
+		<timing id="11" start="8.07" end="8.663" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.663" end="9.246" startframe="0" framelength="0" text="gives"/>
+		<timing id="13" start="9.246" end="9.846" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.846" end="10.428" startframe="0" framelength="0" text="her"/>
+		<timing id="15" start="10.428" end="11.028" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.028" end="11.63" startframe="0" framelength="0" text="a"/>
+		<timing id="17" start="11.63" end="12.223" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.223" end="12.728" startframe="0" framelength="0" text="tin"/>
+		<timing id="19" start="12.728" end="13.615" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.615" end="14.605" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="21" start="14.605" end="15.205" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.205" end="16.033" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="23" start="16.033" end="16.633" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.633" end="17.206" startframe="0" framelength="0" text="gives"/>
+		<timing id="25" start="17.206" end="17.806" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="17.806" end="18.388" startframe="0" framelength="0" text="her"/>
+		<timing id="27" start="18.388" end="18.989" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="28" start="18.989" end="19.59" startframe="0" framelength="0" text="a"/>
+		<timing id="29" start="19.59" end="20.183" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="30" start="20.183" end="20.676" startframe="0" framelength="0" text="tin"/>
+		<timing id="31" start="20.676" end="21.2375" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

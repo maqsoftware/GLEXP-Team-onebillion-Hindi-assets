@@ -1,9 +1,9 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="This is Pendo">
-		<timing id="0" start="0.006" end="0.461" startframe="0" framelength="0" text="This"/>
-		<timing id="1" start="0.461" end="0.676" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.676" end="1.5673333333333332" startframe="0" framelength="0" text="Pendo"/>
+	<timings text="This is Nandini">
+		<timing id="0" start="0.006" end="0.372" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.372" end="0.53" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.53" end="1.489" startframe="0" framelength="0" text="Nandini"/>
 	</timings>
 </xml>
