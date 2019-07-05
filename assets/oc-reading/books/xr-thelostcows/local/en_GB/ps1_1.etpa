@@ -1,14 +1,22 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="This is Bill He is calling his dog">
-		<timing id="0" start="0.006" end="0.418" startframe="0" framelength="0" text="This"/>
-		<timing id="1" start="0.418" end="0.653" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.653" end="1.652" startframe="0" framelength="0" text="Bill"/>
-		<timing id="3" start="1.652" end="1.931" startframe="0" framelength="0" text="He"/>
-		<timing id="4" start="1.931" end="2.175" startframe="0" framelength="0" text="is"/>
-		<timing id="5" start="2.175" end="2.73" startframe="0" framelength="0" text="calling"/>
-		<timing id="6" start="2.73" end="3.045" startframe="0" framelength="0" text="his"/>
-		<timing id="7" start="3.045" end="3.7355" startframe="0" framelength="0" text="dog"/>
+	<timings text="This <break time="500ms"/> is <break time="500ms"/> Rahul <break time="500ms"/> He <break time="500ms"/> is <break time="500ms"/> calling <break time="500ms"/> his <break time="500ms"/> dog <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.801" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.801" end="1.392" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.392" end="2.001" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="2.001" end="2.602" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.602" end="3.326" startframe="0" framelength="0" text="Rahul"/>
+		<timing id="5" start="3.326" end="4.212" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.212" end="4.762" startframe="0" framelength="0" text="He"/>
+		<timing id="7" start="4.762" end="5.356" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.356" end="5.745" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="5.745" end="6.345" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.345" end="7.174" startframe="0" framelength="0" text="calling"/>
+		<timing id="11" start="7.174" end="7.774" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.774" end="8.493" startframe="0" framelength="0" text="his"/>
+		<timing id="13" start="8.493" end="9.093" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.093" end="9.905" startframe="0" framelength="0" text="dog"/>
+		<timing id="15" start="9.905" end="10.475" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

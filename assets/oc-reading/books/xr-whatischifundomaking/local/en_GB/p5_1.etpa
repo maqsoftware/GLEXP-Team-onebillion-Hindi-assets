@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Next Chifundo needs cord Sai’s mum has some">
-		<timing id="0" start="0.006" end="1.12" startframe="0" framelength="0" text="Next"/>
-		<timing id="1" start="1.12" end="1.929" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="2" start="1.929" end="2.424" startframe="0" framelength="0" text="needs"/>
-		<timing id="3" start="2.424" end="3.461" startframe="0" framelength="0" text="cord"/>
-		<timing id="4" start="3.461" end="4.081" startframe="0" framelength="0" text="Sai’s"/>
-		<timing id="5" start="4.081" end="4.379" startframe="0" framelength="0" text="mum"/>
-		<timing id="6" start="4.379" end="4.713" startframe="0" framelength="0" text="has"/>
-		<timing id="7" start="4.713" end="5.407333333333334" startframe="0" framelength="0" text="some"/>
+	<timings text="Next Deeksha needs cord Sai’s mum has some">
+		<timing id="0" start="0.006" end="1.014" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="1.014" end="1.639" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="2" start="1.639" end="2.164" startframe="0" framelength="0" text="needs"/>
+		<timing id="3" start="2.164" end="3.126" startframe="0" framelength="0" text="cord"/>
+		<timing id="4" start="3.126" end="3.656" startframe="0" framelength="0" text="Sai’s"/>
+		<timing id="5" start="3.656" end="3.922" startframe="0" framelength="0" text="mum"/>
+		<timing id="6" start="3.922" end="4.212" startframe="0" framelength="0" text="has"/>
+		<timing id="7" start="4.212" end="4.858666666666666" startframe="0" framelength="0" text="some"/>
 	</timings>
 </xml>

@@ -1,19 +1,32 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo don’t cry says Chifundo I will make you something to play with">
-		<timing id="0" start="0.006" end="1.239" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="1.239" end="1.761" startframe="0" framelength="0" text="don’t"/>
-		<timing id="2" start="1.761" end="2.663" startframe="0" framelength="0" text="cry"/>
-		<timing id="3" start="2.663" end="3.322" startframe="0" framelength="0" text="says"/>
-		<timing id="4" start="3.322" end="4.74" startframe="0" framelength="0" text="Chifundo"/>
-		<timing id="5" start="4.74" end="5.007" startframe="0" framelength="0" text="I"/>
-		<timing id="6" start="5.007" end="5.268" startframe="0" framelength="0" text="will"/>
-		<timing id="7" start="5.268" end="5.711" startframe="0" framelength="0" text="make"/>
-		<timing id="8" start="5.711" end="5.856" startframe="0" framelength="0" text="you"/>
-		<timing id="9" start="5.856" end="6.542" startframe="0" framelength="0" text="something"/>
-		<timing id="10" start="6.542" end="6.692" startframe="0" framelength="0" text="to"/>
-		<timing id="11" start="6.692" end="7.087" startframe="0" framelength="0" text="play"/>
-		<timing id="12" start="7.087" end="7.706" startframe="0" framelength="0" text="with"/>
+	<timings text="Harita <break time="500ms"/> don’t <break time="500ms"/> cry <break time="500ms"/> says <break time="500ms"/> Deeksha <break time="500ms"/> I <break time="500ms"/> will <break time="500ms"/> make <break time="500ms"/> you <break time="500ms"/> something <break time="500ms"/> to <break time="500ms"/> play <break time="500ms"/> with <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.942" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.942" end="1.542" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.542" end="2.417" startframe="0" framelength="0" text="don’t"/>
+		<timing id="3" start="2.417" end="3.01" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.01" end="3.772" startframe="0" framelength="0" text="cry"/>
+		<timing id="5" start="3.772" end="4.365" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.365" end="5.25" startframe="0" framelength="0" text="says"/>
+		<timing id="7" start="5.25" end="5.843" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.843" end="6.73" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="9" start="6.73" end="7.617" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.617" end="8.3" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="8.3" end="8.9" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.9" end="9.618" startframe="0" framelength="0" text="will"/>
+		<timing id="13" start="9.618" end="10.211" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.211" end="11.063" startframe="0" framelength="0" text="make"/>
+		<timing id="15" start="11.063" end="11.664" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.664" end="12.263" startframe="0" framelength="0" text="you"/>
+		<timing id="17" start="12.263" end="12.856" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.856" end="13.922" startframe="0" framelength="0" text="something"/>
+		<timing id="19" start="13.922" end="14.522" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.522" end="15.158" startframe="0" framelength="0" text="to"/>
+		<timing id="21" start="15.158" end="15.751" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.751" end="16.447" startframe="0" framelength="0" text="play"/>
+		<timing id="23" start="16.447" end="17.04" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="17.04" end="17.839" startframe="0" framelength="0" text="with"/>
+		<timing id="25" start="17.839" end="18.416333333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

@@ -1,19 +1,19 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Chisomo has a loose tooth Look grandma my tooth is loose she says">
-		<timing id="0" start="0.006" end="0.781" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="1" start="0.781" end="1.173" startframe="0" framelength="0" text="has"/>
-		<timing id="2" start="1.173" end="1.219" startframe="0" framelength="0" text="a"/>
-		<timing id="3" start="1.219" end="1.707" startframe="0" framelength="0" text="loose"/>
-		<timing id="4" start="1.707" end="2.774" startframe="0" framelength="0" text="tooth"/>
-		<timing id="5" start="2.774" end="3.14" startframe="0" framelength="0" text="Look"/>
-		<timing id="6" start="3.14" end="4.245" startframe="0" framelength="0" text="grandma"/>
-		<timing id="7" start="4.245" end="4.549" startframe="0" framelength="0" text="my"/>
-		<timing id="8" start="4.549" end="5.008" startframe="0" framelength="0" text="tooth"/>
-		<timing id="9" start="5.008" end="5.219" startframe="0" framelength="0" text="is"/>
-		<timing id="10" start="5.219" end="6.254" startframe="0" framelength="0" text="loose"/>
-		<timing id="11" start="6.254" end="6.641" startframe="0" framelength="0" text="she"/>
-		<timing id="12" start="6.641" end="7.549333333333333" startframe="0" framelength="0" text="says"/>
+	<timings text="Harita has a loose tooth Look grandma my tooth is loose she says">
+		<timing id="0" start="0.006" end="0.586" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.586" end="0.925" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.925" end="0.964" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.964" end="1.402" startframe="0" framelength="0" text="loose"/>
+		<timing id="4" start="1.402" end="2.385" startframe="0" framelength="0" text="tooth"/>
+		<timing id="5" start="2.385" end="2.709" startframe="0" framelength="0" text="Look"/>
+		<timing id="6" start="2.709" end="3.712" startframe="0" framelength="0" text="grandma"/>
+		<timing id="7" start="3.712" end="3.985" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="3.985" end="4.395" startframe="0" framelength="0" text="tooth"/>
+		<timing id="9" start="4.395" end="4.603" startframe="0" framelength="0" text="is"/>
+		<timing id="10" start="4.603" end="5.426" startframe="0" framelength="0" text="loose"/>
+		<timing id="11" start="5.426" end="5.687" startframe="0" framelength="0" text="she"/>
+		<timing id="12" start="5.687" end="6.426" startframe="0" framelength="0" text="says"/>
 	</timings>
 </xml>

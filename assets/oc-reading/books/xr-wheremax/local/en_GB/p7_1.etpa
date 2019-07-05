@@ -1,10 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Joy can see Max">
-		<timing id="0" start="0.006" end="0.475" startframe="0" framelength="0" text="Joy"/>
-		<timing id="1" start="0.475" end="0.829" startframe="0" framelength="0" text="can"/>
-		<timing id="2" start="0.829" end="1.135" startframe="0" framelength="0" text="see"/>
-		<timing id="3" start="1.135" end="2.2203333333333335" startframe="0" framelength="0" text="Max"/>
+	<timings text="Apoorva can see Max">
+		<timing id="0" start="0.006" end="0.663" startframe="0" framelength="0" text="Apoorva"/>
+		<timing id="1" start="0.663" end="1.013" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="1.013" end="1.342" startframe="0" framelength="0" text="see"/>
+		<timing id="3" start="1.342" end="2.4031666666666665" startframe="0" framelength="0" text="Max"/>
 	</timings>
 </xml>

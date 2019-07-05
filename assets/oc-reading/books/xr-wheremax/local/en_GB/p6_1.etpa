@@ -1,12 +1,12 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Joy and Peng look for Max">
-		<timing id="0" start="0.006" end="0.405" startframe="0" framelength="0" text="Joy"/>
-		<timing id="1" start="0.405" end="0.635" startframe="0" framelength="0" text="and"/>
-		<timing id="2" start="0.635" end="1.064" startframe="0" framelength="0" text="Peng"/>
-		<timing id="3" start="1.064" end="1.39" startframe="0" framelength="0" text="look"/>
-		<timing id="4" start="1.39" end="1.687" startframe="0" framelength="0" text="for"/>
-		<timing id="5" start="1.687" end="2.7428333333333335" startframe="0" framelength="0" text="Max"/>
+	<timings text="Apoorva and Ankit look for Max">
+		<timing id="0" start="0.006" end="0.808" startframe="0" framelength="0" text="Apoorva"/>
+		<timing id="1" start="0.808" end="1.133" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="1.133" end="1.725" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="3" start="1.725" end="2.102" startframe="0" framelength="0" text="look"/>
+		<timing id="4" start="2.102" end="2.34" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="2.34" end="3.3958333333333335" startframe="0" framelength="0" text="Max"/>
 	</timings>
 </xml>

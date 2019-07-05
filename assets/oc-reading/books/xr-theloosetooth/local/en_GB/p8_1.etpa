@@ -1,20 +1,20 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="One two three Chisomo throws the charcoal onto the roof and makes a wish">
-		<timing id="0" start="0.006" end="1.025" startframe="0" framelength="0" text="One"/>
-		<timing id="1" start="1.025" end="1.791" startframe="0" framelength="0" text="two"/>
-		<timing id="2" start="1.791" end="2.952" startframe="0" framelength="0" text="three"/>
-		<timing id="3" start="2.952" end="3.732" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="4" start="3.732" end="4.371" startframe="0" framelength="0" text="throws"/>
-		<timing id="5" start="4.371" end="4.506" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="4.506" end="5.3" startframe="0" framelength="0" text="charcoal"/>
-		<timing id="7" start="5.3" end="5.784" startframe="0" framelength="0" text="onto"/>
-		<timing id="8" start="5.784" end="5.911" startframe="0" framelength="0" text="the"/>
-		<timing id="9" start="5.911" end="6.854" startframe="0" framelength="0" text="roof"/>
-		<timing id="10" start="6.854" end="7.213" startframe="0" framelength="0" text="and"/>
-		<timing id="11" start="7.213" end="7.663" startframe="0" framelength="0" text="makes"/>
-		<timing id="12" start="7.663" end="7.732" startframe="0" framelength="0" text="a"/>
-		<timing id="13" start="7.732" end="8.594166666666666" startframe="0" framelength="0" text="wish"/>
+	<timings text="One two three Harita throws the charcoal onto the roof and makes a wish">
+		<timing id="0" start="0.006" end="0.922" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.922" end="1.615" startframe="0" framelength="0" text="two"/>
+		<timing id="2" start="1.615" end="2.683" startframe="0" framelength="0" text="three"/>
+		<timing id="3" start="2.683" end="3.261" startframe="0" framelength="0" text="Harita"/>
+		<timing id="4" start="3.261" end="3.795" startframe="0" framelength="0" text="throws"/>
+		<timing id="5" start="3.795" end="3.911" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="3.911" end="4.593" startframe="0" framelength="0" text="charcoal"/>
+		<timing id="7" start="4.593" end="4.96" startframe="0" framelength="0" text="onto"/>
+		<timing id="8" start="4.96" end="5.105" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="5.105" end="5.507" startframe="0" framelength="0" text="roof"/>
+		<timing id="10" start="5.507" end="5.784" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="5.784" end="6.207" startframe="0" framelength="0" text="makes"/>
+		<timing id="12" start="6.207" end="6.28" startframe="0" framelength="0" text="a"/>
+		<timing id="13" start="6.28" end="7.053" startframe="0" framelength="0" text="wish"/>
 	</timings>
 </xml>

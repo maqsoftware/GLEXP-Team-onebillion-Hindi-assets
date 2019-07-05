@@ -2,10 +2,10 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Eeeeh says grandma Be careful">
-		<timing id="0" start="0.006" end="1.012" startframe="0" framelength="0" text="Eeeeh"/>
-		<timing id="1" start="1.012" end="1.656" startframe="0" framelength="0" text="says"/>
-		<timing id="2" start="1.656" end="2.965" startframe="0" framelength="0" text="grandma"/>
-		<timing id="3" start="2.965" end="3.351" startframe="0" framelength="0" text="Be"/>
-		<timing id="4" start="3.351" end="4.3101666666666665" startframe="0" framelength="0" text="careful"/>
+		<timing id="0" start="0.006" end="1.023" startframe="0" framelength="0" text="Eeeeh"/>
+		<timing id="1" start="1.023" end="1.589" startframe="0" framelength="0" text="says"/>
+		<timing id="2" start="1.589" end="2.787" startframe="0" framelength="0" text="grandma"/>
+		<timing id="3" start="2.787" end="3.129" startframe="0" framelength="0" text="Be"/>
+		<timing id="4" start="3.129" end="3.9966666666666666" startframe="0" framelength="0" text="careful"/>
 	</timings>
 </xml>

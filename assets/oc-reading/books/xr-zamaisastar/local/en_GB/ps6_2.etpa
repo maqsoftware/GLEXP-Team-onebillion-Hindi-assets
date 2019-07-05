@@ -1,11 +1,16 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="I reply Never not me">
-		<timing id="0" start="0.006" end="0.172" startframe="0" framelength="0" text="I"/>
-		<timing id="1" start="0.172" end="1.289" startframe="0" framelength="0" text="reply"/>
-		<timing id="2" start="1.289" end="2.403" startframe="0" framelength="0" text="Never"/>
-		<timing id="3" start="2.403" end="2.88" startframe="0" framelength="0" text="not"/>
-		<timing id="4" start="2.88" end="3.422" startframe="0" framelength="0" text="me"/>
+	<timings text="I  reply  Never  not  me ">
+		<timing id="0" start="0.006" end="0.689" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.689" end="1.289" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.289" end="2.224" startframe="0" framelength="0" text="reply"/>
+		<timing id="3" start="2.224" end="2.824" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.824" end="3.663" startframe="0" framelength="0" text="Never"/>
+		<timing id="5" start="3.663" end="4.549" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.549" end="5.316" startframe="0" framelength="0" text="not"/>
+		<timing id="7" start="5.316" end="5.91" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.91" end="6.487" startframe="0" framelength="0" text="me"/>
+		<timing id="9" start="6.487" end="7.053" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

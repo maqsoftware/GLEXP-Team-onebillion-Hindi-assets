@@ -1,10 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="There is the cake">
-		<timing id="0" start="0.006" end="0.453" startframe="0" framelength="0" text="There"/>
-		<timing id="1" start="0.453" end="0.631" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.631" end="0.771" startframe="0" framelength="0" text="the"/>
-		<timing id="3" start="0.771" end="1.5673333333333332" startframe="0" framelength="0" text="cake"/>
+	<timings text="There <break time="500ms"/> is <break time="500ms"/> the <break time="500ms"/> cake <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.903" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.903" end="1.494" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.494" end="2.173" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="2.173" end="2.773" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.773" end="3.561" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="3.561" end="4.158" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.158" end="5.069" startframe="0" framelength="0" text="cake"/>
+		<timing id="7" start="5.069" end="5.642333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

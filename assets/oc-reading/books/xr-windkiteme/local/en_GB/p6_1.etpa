@@ -3,18 +3,18 @@
 	<url >142852sfgsf</url>
 	<timings text="The wind is so strong I do not know where my kite is now">
 		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.203" end="0.701" startframe="0" framelength="0" text="wind"/>
-		<timing id="2" start="0.701" end="0.878" startframe="0" framelength="0" text="is"/>
-		<timing id="3" start="0.878" end="1.143" startframe="0" framelength="0" text="so"/>
-		<timing id="4" start="1.143" end="2.522" startframe="0" framelength="0" text="strong"/>
-		<timing id="5" start="2.522" end="2.718" startframe="0" framelength="0" text="I"/>
-		<timing id="6" start="2.718" end="2.993" startframe="0" framelength="0" text="do"/>
-		<timing id="7" start="2.993" end="3.467" startframe="0" framelength="0" text="not"/>
-		<timing id="8" start="3.467" end="3.763" startframe="0" framelength="0" text="know"/>
-		<timing id="9" start="3.763" end="4.082" startframe="0" framelength="0" text="where"/>
-		<timing id="10" start="4.082" end="4.382" startframe="0" framelength="0" text="my"/>
-		<timing id="11" start="4.382" end="4.998" startframe="0" framelength="0" text="kite"/>
-		<timing id="12" start="4.998" end="5.251" startframe="0" framelength="0" text="is"/>
-		<timing id="13" start="5.251" end="5.9558333333333335" startframe="0" framelength="0" text="now"/>
+		<timing id="1" start="0.203" end="0.696" startframe="0" framelength="0" text="wind"/>
+		<timing id="2" start="0.696" end="0.868" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.868" end="1.191" startframe="0" framelength="0" text="so"/>
+		<timing id="4" start="1.191" end="1.929" startframe="0" framelength="0" text="strong"/>
+		<timing id="5" start="1.929" end="2.239" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.239" end="2.497" startframe="0" framelength="0" text="do"/>
+		<timing id="7" start="2.497" end="2.956" startframe="0" framelength="0" text="not"/>
+		<timing id="8" start="2.956" end="3.321" startframe="0" framelength="0" text="know"/>
+		<timing id="9" start="3.321" end="3.721" startframe="0" framelength="0" text="where"/>
+		<timing id="10" start="3.721" end="4.021" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.021" end="4.637" startframe="0" framelength="0" text="kite"/>
+		<timing id="12" start="4.637" end="4.89" startframe="0" framelength="0" text="is"/>
+		<timing id="13" start="4.89" end="5.590166666666667" startframe="0" framelength="0" text="now"/>
 	</timings>
 </xml>

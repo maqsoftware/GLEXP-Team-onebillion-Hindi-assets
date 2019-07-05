@@ -1,21 +1,36 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="In the yard I greet Grandpa and Auntie politely I wish them a good day">
-		<timing id="0" start="0.006" end="0.244" startframe="0" framelength="0" text="In"/>
-		<timing id="1" start="0.244" end="0.373" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.373" end="1.303" startframe="0" framelength="0" text="yard"/>
-		<timing id="3" start="1.303" end="1.495" startframe="0" framelength="0" text="I"/>
-		<timing id="4" start="1.495" end="2.022" startframe="0" framelength="0" text="greet"/>
-		<timing id="5" start="2.022" end="2.877" startframe="0" framelength="0" text="Grandpa"/>
-		<timing id="6" start="2.877" end="3.232" startframe="0" framelength="0" text="and"/>
-		<timing id="7" start="3.232" end="3.74" startframe="0" framelength="0" text="Auntie"/>
-		<timing id="8" start="3.74" end="5.198" startframe="0" framelength="0" text="politely"/>
-		<timing id="9" start="5.198" end="5.404" startframe="0" framelength="0" text="I"/>
-		<timing id="10" start="5.404" end="5.867" startframe="0" framelength="0" text="wish"/>
-		<timing id="11" start="5.867" end="6.24" startframe="0" framelength="0" text="them"/>
-		<timing id="12" start="6.24" end="6.316" startframe="0" framelength="0" text="a"/>
-		<timing id="13" start="6.316" end="6.697" startframe="0" framelength="0" text="good"/>
-		<timing id="14" start="6.697" end="7.314166666666667" startframe="0" framelength="0" text="day"/>
+	<timings text="In  the  yard  I  greet  Grandpa  and  Auntie  politely  I  wish  them  a  good  day ">
+		<timing id="0" start="0.006" end="0.392" startframe="0" framelength="0" text="In"/>
+		<timing id="1" start="0.392" end="0.992" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="0.992" end="1.696" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.696" end="2.297" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.297" end="3.05" startframe="0" framelength="0" text="yard"/>
+		<timing id="5" start="3.05" end="3.647" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="3.647" end="4.215" startframe="0" framelength="0" text="I"/>
+		<timing id="7" start="4.215" end="4.809" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="4.809" end="5.673" startframe="0" framelength="0" text="greet"/>
+		<timing id="9" start="5.673" end="6.275" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.275" end="7.355" startframe="0" framelength="0" text="Grandpa"/>
+		<timing id="11" start="7.355" end="7.946" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="7.946" end="8.573" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="8.573" end="9.176" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.176" end="10.08" startframe="0" framelength="0" text="Auntie"/>
+		<timing id="15" start="10.08" end="10.68" startframe="0" framelength="0" text=""/>
+		<timing id="16" start="10.68" end="11.623" startframe="0" framelength="0" text="politely"/>
+		<timing id="17" start="11.623" end="12.51" startframe="0" framelength="0" text=""/>
+		<timing id="18" start="12.51" end="13.019" startframe="0" framelength="0" text="I"/>
+		<timing id="19" start="13.019" end="13.613" startframe="0" framelength="0" text=""/>
+		<timing id="20" start="13.613" end="14.471" startframe="0" framelength="0" text="wish"/>
+		<timing id="21" start="14.471" end="15.064" startframe="0" framelength="0" text=""/>
+		<timing id="22" start="15.064" end="15.849" startframe="0" framelength="0" text="them"/>
+		<timing id="23" start="15.849" end="16.449" startframe="0" framelength="0" text=""/>
+		<timing id="24" start="16.449" end="17.051" startframe="0" framelength="0" text="a"/>
+		<timing id="25" start="17.051" end="17.651" startframe="0" framelength="0" text=""/>
+		<timing id="26" start="17.651" end="18.332" startframe="0" framelength="0" text="good"/>
+		<timing id="27" start="18.332" end="18.932" startframe="0" framelength="0" text=""/>
+		<timing id="28" start="18.932" end="19.456" startframe="0" framelength="0" text="day"/>
+		<timing id="29" start="19.456" end="20.009833333333333" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

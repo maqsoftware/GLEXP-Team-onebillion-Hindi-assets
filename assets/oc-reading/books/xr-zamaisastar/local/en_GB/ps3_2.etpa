@@ -1,14 +1,22 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="You are my morning star Zama says Ma">
-		<timing id="0" start="0.006" end="0.484" startframe="0" framelength="0" text="You"/>
-		<timing id="1" start="0.484" end="0.653" startframe="0" framelength="0" text="are"/>
-		<timing id="2" start="0.653" end="0.897" startframe="0" framelength="0" text="my"/>
-		<timing id="3" start="0.897" end="1.479" startframe="0" framelength="0" text="morning"/>
-		<timing id="4" start="1.479" end="2.518" startframe="0" framelength="0" text="star"/>
-		<timing id="5" start="2.518" end="3.44" startframe="0" framelength="0" text="Zama"/>
-		<timing id="6" start="3.44" end="4.079" startframe="0" framelength="0" text="says"/>
-		<timing id="7" start="4.079" end="4.728166666666667" startframe="0" framelength="0" text="Ma"/>
+	<timings text="You  are  my  morning  star  Leena  says  Ma ">
+		<timing id="0" start="0.006" end="0.831" startframe="0" framelength="0" text="You"/>
+		<timing id="1" start="0.831" end="1.431" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.431" end="2.151" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="2.151" end="2.745" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.745" end="3.421" startframe="0" framelength="0" text="my"/>
+		<timing id="5" start="3.421" end="4.021" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.021" end="4.944" startframe="0" framelength="0" text="morning"/>
+		<timing id="7" start="4.944" end="5.537" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.537" end="6.444" startframe="0" framelength="0" text="star"/>
+		<timing id="9" start="6.444" end="7.038" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="7.038" end="7.805" startframe="0" framelength="0" text="Leena"/>
+		<timing id="11" start="7.805" end="8.398" startframe="0" framelength="0" text=""/>
+		<timing id="12" start="8.398" end="9.282" startframe="0" framelength="0" text="says"/>
+		<timing id="13" start="9.282" end="9.884" startframe="0" framelength="0" text=""/>
+		<timing id="14" start="9.884" end="10.52" startframe="0" framelength="0" text="Ma"/>
+		<timing id="15" start="10.52" end="11.075833333333334" startframe="0" framelength="0" text=""/>
 	</timings>
 </xml>

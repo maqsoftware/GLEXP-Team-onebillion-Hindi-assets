@@ -1,11 +1,16 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="It goes into the tin">
-		<timing id="0" start="0.006" end="0.214" startframe="0" framelength="0" text="It"/>
-		<timing id="1" start="0.214" end="0.665" startframe="0" framelength="0" text="goes"/>
-		<timing id="2" start="0.665" end="0.978" startframe="0" framelength="0" text="into"/>
-		<timing id="3" start="0.978" end="1.148" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.148" end="1.9068333333333334" startframe="0" framelength="0" text="tin"/>
+	<timings text="It <break time="500ms"/> goes <break time="500ms"/> into <break time="500ms"/> the <break time="500ms"/> tin <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.542" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.542" end="1.142" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.142" end="2.051" startframe="0" framelength="0" text="goes"/>
+		<timing id="3" start="2.051" end="2.652" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.652" end="3.394" startframe="0" framelength="0" text="into"/>
+		<timing id="5" start="3.394" end="3.994" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.994" end="4.698" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.698" end="5.298" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.298" end="6.005" startframe="0" framelength="0" text="tin"/>
+		<timing id="9" start="6.005" end="6.582833333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

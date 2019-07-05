@@ -2,8 +2,8 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="The loose tooth">
-		<timing id="0" start="0.006" end="0.197" startframe="0" framelength="0" text="The"/>
-		<timing id="1" start="0.197" end="0.771" startframe="0" framelength="0" text="loose"/>
-		<timing id="2" start="0.771" end="1.5411666666666666" startframe="0" framelength="0" text="tooth"/>
+		<timing id="0" start="0.006" end="0.173" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.173" end="0.674" startframe="0" framelength="0" text="loose"/>
+		<timing id="2" start="0.674" end="1.3583333333333334" startframe="0" framelength="0" text="tooth"/>
 	</timings>
 </xml>

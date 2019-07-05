@@ -1,18 +1,30 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Eeek my tooth says Chisomo What will I do with it grandma">
-		<timing id="0" start="0.006" end="0.742" startframe="0" framelength="0" text="Eeek"/>
-		<timing id="1" start="0.742" end="1.098" startframe="0" framelength="0" text="my"/>
-		<timing id="2" start="1.098" end="2.12" startframe="0" framelength="0" text="tooth"/>
-		<timing id="3" start="2.12" end="2.748" startframe="0" framelength="0" text="says"/>
-		<timing id="4" start="2.748" end="4.042" startframe="0" framelength="0" text="Chisomo"/>
-		<timing id="5" start="4.042" end="4.498" startframe="0" framelength="0" text="What"/>
-		<timing id="6" start="4.498" end="4.686" startframe="0" framelength="0" text="will"/>
-		<timing id="7" start="4.686" end="4.861" startframe="0" framelength="0" text="I"/>
-		<timing id="8" start="4.861" end="5.143" startframe="0" framelength="0" text="do"/>
-		<timing id="9" start="5.143" end="5.42" startframe="0" framelength="0" text="with"/>
-		<timing id="10" start="5.42" end="6.14" startframe="0" framelength="0" text="it"/>
-		<timing id="11" start="6.14" end="7.235833333333333" startframe="0" framelength="0" text="grandma"/>
+	<timings text="Eeek <break time="500ms"/> my <break time="500ms"/> tooth <break time="500ms"/> says <break time="500ms"/> Harita <break time="500ms"/> What <break time="500ms"/> will <break time="500ms"/> I <break time="500ms"/> do <break time="500ms"/> with <break time="500ms"/> it <break time="500ms"/> grandma <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.518" startframe="0" framelength="0" text="Eeek"/>
+		<timing id="1" start="0.518" end="1.405" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.405" end="1.924" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="1.924" end="2.524" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.524" end="3.17" startframe="0" framelength="0" text="tooth"/>
+		<timing id="5" start="3.17" end="3.763" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.763" end="4.647" startframe="0" framelength="0" text="says"/>
+		<timing id="7" start="4.647" end="5.249" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.249" end="6.04" startframe="0" framelength="0" text="Harita"/>
+		<timing id="9" start="6.04" end="6.927" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.927" end="7.76" startframe="0" framelength="0" text="What"/>
+		<timing id="11" start="7.76" end="8.36" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.36" end="9.078" startframe="0" framelength="0" text="will"/>
+		<timing id="13" start="9.078" end="9.675" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.675" end="10.243" startframe="0" framelength="0" text="I"/>
+		<timing id="15" start="10.243" end="10.843" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.843" end="11.586" startframe="0" framelength="0" text="do"/>
+		<timing id="17" start="11.586" end="12.179" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.179" end="12.878" startframe="0" framelength="0" text="with"/>
+		<timing id="19" start="12.878" end="13.478" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.478" end="14.026" startframe="0" framelength="0" text="it"/>
+		<timing id="21" start="14.026" end="14.626" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="14.626" end="15.539" startframe="0" framelength="0" text="grandma"/>
+		<timing id="23" start="15.539" end="16.091333333333335" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

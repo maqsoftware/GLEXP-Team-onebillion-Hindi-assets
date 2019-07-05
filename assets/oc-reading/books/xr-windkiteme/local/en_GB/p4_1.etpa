@@ -4,15 +4,15 @@
 	<timings text="The winds starts to spin around It carries my kite even higher">
 		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
 		<timing id="1" start="0.203" end="0.76" startframe="0" framelength="0" text="winds"/>
-		<timing id="2" start="0.76" end="1.516" startframe="0" framelength="0" text="starts"/>
-		<timing id="3" start="1.516" end="1.667" startframe="0" framelength="0" text="to"/>
-		<timing id="4" start="1.667" end="2.18" startframe="0" framelength="0" text="spin"/>
-		<timing id="5" start="2.18" end="3.467" startframe="0" framelength="0" text="around"/>
-		<timing id="6" start="3.467" end="3.693" startframe="0" framelength="0" text="It"/>
-		<timing id="7" start="3.693" end="4.441" startframe="0" framelength="0" text="carries"/>
-		<timing id="8" start="4.441" end="4.679" startframe="0" framelength="0" text="my"/>
-		<timing id="9" start="4.679" end="5.29" startframe="0" framelength="0" text="kite"/>
-		<timing id="10" start="5.29" end="5.707" startframe="0" framelength="0" text="even"/>
-		<timing id="11" start="5.707" end="6.635" startframe="0" framelength="0" text="higher"/>
+		<timing id="2" start="0.76" end="1.395" startframe="0" framelength="0" text="starts"/>
+		<timing id="3" start="1.395" end="1.553" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.553" end="2.041" startframe="0" framelength="0" text="spin"/>
+		<timing id="5" start="2.041" end="2.636" startframe="0" framelength="0" text="around"/>
+		<timing id="6" start="2.636" end="2.827" startframe="0" framelength="0" text="It"/>
+		<timing id="7" start="2.827" end="3.57" startframe="0" framelength="0" text="carries"/>
+		<timing id="8" start="3.57" end="3.781" startframe="0" framelength="0" text="my"/>
+		<timing id="9" start="3.781" end="4.389" startframe="0" framelength="0" text="kite"/>
+		<timing id="10" start="4.389" end="4.764" startframe="0" framelength="0" text="even"/>
+		<timing id="11" start="4.764" end="5.6946666666666665" startframe="0" framelength="0" text="higher"/>
 	</timings>
 </xml>

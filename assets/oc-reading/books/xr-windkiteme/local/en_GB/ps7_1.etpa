@@ -1,15 +1,24 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Finally the wind slows down I am still spinning">
-		<timing id="0" start="0.006" end="0.869" startframe="0" framelength="0" text="Finally"/>
-		<timing id="1" start="0.869" end="1.028" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="1.028" end="1.469" startframe="0" framelength="0" text="wind"/>
-		<timing id="3" start="1.469" end="2.045" startframe="0" framelength="0" text="slows"/>
-		<timing id="4" start="2.045" end="3.128" startframe="0" framelength="0" text="down"/>
-		<timing id="5" start="3.128" end="3.474" startframe="0" framelength="0" text="I"/>
-		<timing id="6" start="3.474" end="3.637" startframe="0" framelength="0" text="am"/>
-		<timing id="7" start="3.637" end="4.084" startframe="0" framelength="0" text="still"/>
-		<timing id="8" start="4.084" end="5.041666666666667" startframe="0" framelength="0" text="spinning"/>
+	<timings text="Finally <break time="500ms"/> the <break time="500ms"/> wind <break time="500ms"/> slows <break time="500ms"/> down <break time="500ms"/> I <break time="500ms"/> am <break time="500ms"/> still <break time="500ms"/> spinning <break time="500ms"/>">
+		<timing id="0" start="0.006" end="1.256" startframe="0" framelength="0" text="Finally"/>
+		<timing id="1" start="1.256" end="1.856" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.856" end="2.56" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="2.56" end="3.16" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.16" end="4.086" startframe="0" framelength="0" text="wind"/>
+		<timing id="5" start="4.086" end="4.679" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.679" end="5.773" startframe="0" framelength="0" text="slows"/>
+		<timing id="7" start="5.773" end="6.366" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.366" end="7.332" startframe="0" framelength="0" text="down"/>
+		<timing id="9" start="7.332" end="7.925" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.925" end="8.641" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="8.641" end="9.239" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="9.239" end="9.958" startframe="0" framelength="0" text="am"/>
+		<timing id="13" start="9.958" end="10.558" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.558" end="11.543" startframe="0" framelength="0" text="still"/>
+		<timing id="15" start="11.543" end="12.137" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="12.137" end="13.26" startframe="0" framelength="0" text="spinning"/>
+		<timing id="17" start="13.26" end="13.818666666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
 	</timings>
 </xml>

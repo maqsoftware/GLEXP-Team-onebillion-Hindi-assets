@@ -1,14 +1,14 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="You are my morning star Zama says Ma">
-		<timing id="0" start="0.006" end="0.484" startframe="0" framelength="0" text="You"/>
-		<timing id="1" start="0.484" end="0.653" startframe="0" framelength="0" text="are"/>
-		<timing id="2" start="0.653" end="0.897" startframe="0" framelength="0" text="my"/>
-		<timing id="3" start="0.897" end="1.479" startframe="0" framelength="0" text="morning"/>
-		<timing id="4" start="1.479" end="2.518" startframe="0" framelength="0" text="star"/>
-		<timing id="5" start="2.518" end="3.44" startframe="0" framelength="0" text="Zama"/>
-		<timing id="6" start="3.44" end="4.079" startframe="0" framelength="0" text="says"/>
-		<timing id="7" start="4.079" end="4.728166666666667" startframe="0" framelength="0" text="Ma"/>
+	<timings text="You are my morning star Leena says Ma">
+		<timing id="0" start="0.006" end="0.38" startframe="0" framelength="0" text="You"/>
+		<timing id="1" start="0.38" end="0.481" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.481" end="0.726" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.726" end="1.347" startframe="0" framelength="0" text="morning"/>
+		<timing id="4" start="1.347" end="1.813" startframe="0" framelength="0" text="star"/>
+		<timing id="5" start="1.813" end="2.426" startframe="0" framelength="0" text="Leena"/>
+		<timing id="6" start="2.426" end="3.001" startframe="0" framelength="0" text="says"/>
+		<timing id="7" start="3.001" end="3.6571666666666665" startframe="0" framelength="0" text="Ma"/>
 	</timings>
 </xml>
