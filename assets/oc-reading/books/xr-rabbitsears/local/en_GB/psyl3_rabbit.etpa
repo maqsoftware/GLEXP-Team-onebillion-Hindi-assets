@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Rab bit">
-		<timing id="0" start="0.006" end="0.734" startframe="0" framelength="0" text="Rab"/>
-		<timing id="1" start="0.734" end="1.489" startframe="0" framelength="0" text="bit"/>
+		<timing id="0" start="0.006" end="0.664" startframe="0" framelength="0" text="Rab"/>
+		<timing id="1" start="0.664" end="1.3321666666666667" startframe="0" framelength="0" text="bit"/>
 	</timings>
 </xml>

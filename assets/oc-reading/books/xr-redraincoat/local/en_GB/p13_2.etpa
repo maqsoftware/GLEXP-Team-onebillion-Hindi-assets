@@ -2,16 +2,16 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Rain Rain It is raining shouted Manu as he ran outside">
-		<timing id="0" start="0.006" end="1.271" startframe="0" framelength="0" text="Rain"/>
-		<timing id="1" start="1.271" end="2.535" startframe="0" framelength="0" text="Rain"/>
-		<timing id="2" start="2.535" end="2.8" startframe="0" framelength="0" text="It"/>
-		<timing id="3" start="2.8" end="3.069" startframe="0" framelength="0" text="is"/>
-		<timing id="4" start="3.069" end="4.189" startframe="0" framelength="0" text="raining"/>
-		<timing id="5" start="4.189" end="5.01" startframe="0" framelength="0" text="shouted"/>
-		<timing id="6" start="5.01" end="5.645" startframe="0" framelength="0" text="Manu"/>
-		<timing id="7" start="5.645" end="5.962" startframe="0" framelength="0" text="as"/>
-		<timing id="8" start="5.962" end="6.197" startframe="0" framelength="0" text="he"/>
-		<timing id="9" start="6.197" end="6.616" startframe="0" framelength="0" text="ran"/>
-		<timing id="10" start="6.616" end="7.758333333333334" startframe="0" framelength="0" text="outside"/>
+		<timing id="0" start="0.006" end="1.165" startframe="0" framelength="0" text="Rain"/>
+		<timing id="1" start="1.165" end="2.324" startframe="0" framelength="0" text="Rain"/>
+		<timing id="2" start="2.324" end="2.558" startframe="0" framelength="0" text="It"/>
+		<timing id="3" start="2.558" end="2.8" startframe="0" framelength="0" text="is"/>
+		<timing id="4" start="2.8" end="3.829" startframe="0" framelength="0" text="raining"/>
+		<timing id="5" start="3.829" end="4.549" startframe="0" framelength="0" text="shouted"/>
+		<timing id="6" start="4.549" end="5.105" startframe="0" framelength="0" text="Manu"/>
+		<timing id="7" start="5.105" end="5.387" startframe="0" framelength="0" text="as"/>
+		<timing id="8" start="5.387" end="5.598" startframe="0" framelength="0" text="he"/>
+		<timing id="9" start="5.598" end="5.969" startframe="0" framelength="0" text="ran"/>
+		<timing id="10" start="5.969" end="6.974666666666667" startframe="0" framelength="0" text="outside"/>
 	</timings>
 </xml>

@@ -1,10 +1,10 @@
 <xml>
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
-	<timings text="Dad sells Pendo’s milk">
-		<timing id="0" start="0.006" end="0.494" startframe="0" framelength="0" text="Dad"/>
-		<timing id="1" start="0.494" end="1.101" startframe="0" framelength="0" text="sells"/>
-		<timing id="2" start="1.101" end="1.819" startframe="0" framelength="0" text="Pendo’s"/>
-		<timing id="3" start="1.819" end="2.5338333333333334" startframe="0" framelength="0" text="milk"/>
+	<timings text="Dad sells Nandini’s milk">
+		<timing id="0" start="0.006" end="0.432" startframe="0" framelength="0" text="Dad"/>
+		<timing id="1" start="0.432" end="0.932" startframe="0" framelength="0" text="sells"/>
+		<timing id="2" start="0.932" end="1.744" startframe="0" framelength="0" text="Nandini’s"/>
+		<timing id="3" start="1.744" end="2.4031666666666665" startframe="0" framelength="0" text="milk"/>
 	</timings>
 </xml>

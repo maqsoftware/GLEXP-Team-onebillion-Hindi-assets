@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="She imagines soaring high above the clouds">
-		<timing id="0" start="0.006" end="0.375" startframe="0" framelength="0" text="She"/>
-		<timing id="1" start="0.375" end="1.215" startframe="0" framelength="0" text="imagines"/>
-		<timing id="2" start="1.215" end="1.832" startframe="0" framelength="0" text="soaring"/>
-		<timing id="3" start="1.832" end="2.301" startframe="0" framelength="0" text="high"/>
-		<timing id="4" start="2.301" end="2.713" startframe="0" framelength="0" text="above"/>
-		<timing id="5" start="2.713" end="2.851" startframe="0" framelength="0" text="the"/>
-		<timing id="6" start="2.851" end="3.8921666666666668" startframe="0" framelength="0" text="clouds"/>
+		<timing id="0" start="0.006" end="0.327" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.327" end="1.061" startframe="0" framelength="0" text="imagines"/>
+		<timing id="2" start="1.061" end="1.603" startframe="0" framelength="0" text="soaring"/>
+		<timing id="3" start="1.603" end="2.01" startframe="0" framelength="0" text="high"/>
+		<timing id="4" start="2.01" end="2.372" startframe="0" framelength="0" text="above"/>
+		<timing id="5" start="2.372" end="2.492" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.492" end="3.422" startframe="0" framelength="0" text="clouds"/>
 	</timings>
 </xml>

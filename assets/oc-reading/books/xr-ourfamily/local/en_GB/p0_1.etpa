@@ -2,7 +2,7 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Our family">
-		<timing id="0" start="0.006" end="0.36" startframe="0" framelength="0" text="Our"/>
-		<timing id="1" start="0.36" end="1.306" startframe="0" framelength="0" text="family"/>
+		<timing id="0" start="0.006" end="0.318" startframe="0" framelength="0" text="Our"/>
+		<timing id="1" start="0.318" end="1.1493333333333333" startframe="0" framelength="0" text="family"/>
 	</timings>
 </xml>

@@ -2,12 +2,12 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Look My baby teeth are falling out">
-		<timing id="0" start="0.006" end="1.022" startframe="0" framelength="0" text="Look"/>
-		<timing id="1" start="1.022" end="1.343" startframe="0" framelength="0" text="My"/>
-		<timing id="2" start="1.343" end="1.931" startframe="0" framelength="0" text="baby"/>
-		<timing id="3" start="1.931" end="2.378" startframe="0" framelength="0" text="teeth"/>
-		<timing id="4" start="2.378" end="2.61" startframe="0" framelength="0" text="are"/>
-		<timing id="5" start="2.61" end="3.204" startframe="0" framelength="0" text="falling"/>
-		<timing id="6" start="3.204" end="3.866" startframe="0" framelength="0" text="out"/>
+		<timing id="0" start="0.006" end="0.944" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.944" end="1.23" startframe="0" framelength="0" text="My"/>
+		<timing id="2" start="1.23" end="1.754" startframe="0" framelength="0" text="baby"/>
+		<timing id="3" start="1.754" end="2.146" startframe="0" framelength="0" text="teeth"/>
+		<timing id="4" start="2.146" end="2.348" startframe="0" framelength="0" text="are"/>
+		<timing id="5" start="2.348" end="2.872" startframe="0" framelength="0" text="falling"/>
+		<timing id="6" start="2.872" end="3.448166666666667" startframe="0" framelength="0" text="out"/>
 	</timings>
 </xml>

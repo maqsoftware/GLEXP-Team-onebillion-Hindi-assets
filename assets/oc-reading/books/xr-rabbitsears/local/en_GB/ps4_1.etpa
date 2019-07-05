@@ -2,17 +2,17 @@
 	<creator program="PhraseAnal 1.14" user="MAQUser" />
 	<url >142852sfgsf</url>
 	<timings text="Rabbit puts on the horns Now he can go to the party">
-		<timing id="0" start="0.006" end="0.704" startframe="0" framelength="0" text="Rabbit"/>
-		<timing id="1" start="0.704" end="1.154" startframe="0" framelength="0" text="puts"/>
-		<timing id="2" start="1.154" end="1.384" startframe="0" framelength="0" text="on"/>
-		<timing id="3" start="1.384" end="1.489" startframe="0" framelength="0" text="the"/>
-		<timing id="4" start="1.489" end="2.876" startframe="0" framelength="0" text="horns"/>
-		<timing id="5" start="2.876" end="3.435" startframe="0" framelength="0" text="Now"/>
-		<timing id="6" start="3.435" end="3.713" startframe="0" framelength="0" text="he"/>
-		<timing id="7" start="3.713" end="4.038" startframe="0" framelength="0" text="can"/>
-		<timing id="8" start="4.038" end="4.312" startframe="0" framelength="0" text="go"/>
-		<timing id="9" start="4.312" end="4.517" startframe="0" framelength="0" text="to"/>
-		<timing id="10" start="4.517" end="4.657" startframe="0" framelength="0" text="the"/>
-		<timing id="11" start="4.657" end="5.616333333333333" startframe="0" framelength="0" text="party"/>
+		<timing id="0" start="0.006" end="0.619" startframe="0" framelength="0" text="Rabbit"/>
+		<timing id="1" start="0.619" end="1.019" startframe="0" framelength="0" text="puts"/>
+		<timing id="2" start="1.019" end="1.222" startframe="0" framelength="0" text="on"/>
+		<timing id="3" start="1.222" end="1.31" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.31" end="2.56" startframe="0" framelength="0" text="horns"/>
+		<timing id="5" start="2.56" end="3.045" startframe="0" framelength="0" text="Now"/>
+		<timing id="6" start="3.045" end="3.284" startframe="0" framelength="0" text="he"/>
+		<timing id="7" start="3.284" end="3.565" startframe="0" framelength="0" text="can"/>
+		<timing id="8" start="3.565" end="3.798" startframe="0" framelength="0" text="go"/>
+		<timing id="9" start="3.798" end="3.979" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="3.979" end="4.103" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.103" end="4.963166666666667" startframe="0" framelength="0" text="party"/>
 	</timings>
 </xml>
