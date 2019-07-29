@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No Manu You cannot wear your red raincoat today said his mum The sun is shining You will be too warm">
+		<timing id="0" start="0.006" end="0.78" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.78" end="1.859" startframe="0" framelength="0" text="Manu"/>
+		<timing id="2" start="1.859" end="2.114" startframe="0" framelength="0" text="You"/>
+		<timing id="3" start="2.114" end="2.664" startframe="0" framelength="0" text="cannot"/>
+		<timing id="4" start="2.664" end="2.927" startframe="0" framelength="0" text="wear"/>
+		<timing id="5" start="2.927" end="3.213" startframe="0" framelength="0" text="your"/>
+		<timing id="6" start="3.213" end="3.519" startframe="0" framelength="0" text="red"/>
+		<timing id="7" start="3.519" end="4.31" startframe="0" framelength="0" text="raincoat"/>
+		<timing id="8" start="4.31" end="5.141" startframe="0" framelength="0" text="today"/>
+		<timing id="9" start="5.141" end="5.56" startframe="0" framelength="0" text="said"/>
+		<timing id="10" start="5.56" end="5.835" startframe="0" framelength="0" text="his"/>
+		<timing id="11" start="5.835" end="6.867" startframe="0" framelength="0" text="mum"/>
+		<timing id="12" start="6.867" end="7.027" startframe="0" framelength="0" text="The"/>
+		<timing id="13" start="7.027" end="7.385" startframe="0" framelength="0" text="sun"/>
+		<timing id="14" start="7.385" end="7.543" startframe="0" framelength="0" text="is"/>
+		<timing id="15" start="7.543" end="8.813" startframe="0" framelength="0" text="shining"/>
+		<timing id="16" start="8.813" end="9.092" startframe="0" framelength="0" text="You"/>
+		<timing id="17" start="9.092" end="9.309" startframe="0" framelength="0" text="will"/>
+		<timing id="18" start="9.309" end="9.517" startframe="0" framelength="0" text="be"/>
+		<timing id="19" start="9.517" end="9.783" startframe="0" framelength="0" text="too"/>
+		<timing id="20" start="9.783" end="10.449" startframe="0" framelength="0" text="warm"/>
+	</timings>
+</xml>

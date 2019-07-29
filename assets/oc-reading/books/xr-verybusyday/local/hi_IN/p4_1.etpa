@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="At the clinic I see the nurse She checks that I am healthy">
+		<timing id="0" start="0.006" end="0.391" startframe="0" framelength="0" text="At"/>
+		<timing id="1" start="0.391" end="0.539" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.539" end="1.422" startframe="0" framelength="0" text="clinic"/>
+		<timing id="3" start="1.422" end="1.623" startframe="0" framelength="0" text="I"/>
+		<timing id="4" start="1.623" end="1.929" startframe="0" framelength="0" text="see"/>
+		<timing id="5" start="1.929" end="2.067" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.067" end="3.226" startframe="0" framelength="0" text="nurse"/>
+		<timing id="7" start="3.226" end="3.604" startframe="0" framelength="0" text="She"/>
+		<timing id="8" start="3.604" end="4.143" startframe="0" framelength="0" text="checks"/>
+		<timing id="9" start="4.143" end="4.441" startframe="0" framelength="0" text="that"/>
+		<timing id="10" start="4.441" end="4.61" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="4.61" end="4.743" startframe="0" framelength="0" text="am"/>
+		<timing id="12" start="4.743" end="5.485666666666667" startframe="0" framelength="0" text="healthy"/>
+	</timings>
+</xml>

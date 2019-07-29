@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Look at Ankit and Apoorva and Max">
+		<timing id="0" start="0.006" end="0.438" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.438" end="0.697" startframe="0" framelength="0" text="at"/>
+		<timing id="2" start="0.697" end="1.343" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="3" start="1.343" end="1.597" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="1.597" end="2.381" startframe="0" framelength="0" text="Apoorva"/>
+		<timing id="5" start="2.381" end="2.646" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.646" end="3.6831666666666667" startframe="0" framelength="0" text="Max"/>
+	</timings>
+</xml>

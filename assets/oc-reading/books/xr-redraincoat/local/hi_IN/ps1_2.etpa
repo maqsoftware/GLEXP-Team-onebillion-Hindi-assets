@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Can I wear it he asked his mum">
+		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="Can"/>
+		<timing id="1" start="0.277" end="0.433" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.433" end="0.814" startframe="0" framelength="0" text="wear"/>
+		<timing id="3" start="0.814" end="1.673" startframe="0" framelength="0" text="it"/>
+		<timing id="4" start="1.673" end="1.977" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="1.977" end="2.456" startframe="0" framelength="0" text="asked"/>
+		<timing id="6" start="2.456" end="2.788" startframe="0" framelength="0" text="his"/>
+		<timing id="7" start="2.788" end="3.448166666666667" startframe="0" framelength="0" text="mum"/>
+	</timings>
+</xml>

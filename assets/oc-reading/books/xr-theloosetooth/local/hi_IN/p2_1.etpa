@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="That’s okay child says grandma When it falls out a new tooth will grow">
+		<timing id="0" start="0.006" end="0.514" startframe="0" framelength="0" text="That’s"/>
+		<timing id="1" start="0.514" end="0.915" startframe="0" framelength="0" text="okay"/>
+		<timing id="2" start="0.915" end="1.826" startframe="0" framelength="0" text="child"/>
+		<timing id="3" start="1.826" end="2.345" startframe="0" framelength="0" text="says"/>
+		<timing id="4" start="2.345" end="3.514" startframe="0" framelength="0" text="grandma"/>
+		<timing id="5" start="3.514" end="3.921" startframe="0" framelength="0" text="When"/>
+		<timing id="6" start="3.921" end="4.094" startframe="0" framelength="0" text="it"/>
+		<timing id="7" start="4.094" end="4.588" startframe="0" framelength="0" text="falls"/>
+		<timing id="8" start="4.588" end="4.913" startframe="0" framelength="0" text="out"/>
+		<timing id="9" start="4.913" end="4.958" startframe="0" framelength="0" text="a"/>
+		<timing id="10" start="4.958" end="5.272" startframe="0" framelength="0" text="new"/>
+		<timing id="11" start="5.272" end="5.663" startframe="0" framelength="0" text="tooth"/>
+		<timing id="12" start="5.663" end="5.959" startframe="0" framelength="0" text="will"/>
+		<timing id="13" start="5.959" end="6.609" startframe="0" framelength="0" text="grow"/>
+	</timings>
+</xml>

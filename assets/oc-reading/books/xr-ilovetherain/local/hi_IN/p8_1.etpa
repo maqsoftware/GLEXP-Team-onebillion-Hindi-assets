@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The rain gives us food Thank you rain">
+		<timing id="0" start="0.006" end="0.137" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.137" end="0.584" startframe="0" framelength="0" text="rain"/>
+		<timing id="2" start="0.584" end="0.947" startframe="0" framelength="0" text="gives"/>
+		<timing id="3" start="0.947" end="1.139" startframe="0" framelength="0" text="us"/>
+		<timing id="4" start="1.139" end="2.054" startframe="0" framelength="0" text="food"/>
+		<timing id="5" start="2.054" end="2.532" startframe="0" framelength="0" text="Thank"/>
+		<timing id="6" start="2.532" end="3.093" startframe="0" framelength="0" text="you"/>
+		<timing id="7" start="3.093" end="3.84" startframe="0" framelength="0" text="rain"/>
+	</timings>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The man who sneezed very loudly">
+		<timing id="0" start="0.006" end="0.141" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.141" end="0.587" startframe="0" framelength="0" text="man"/>
+		<timing id="2" start="0.587" end="0.815" startframe="0" framelength="0" text="who"/>
+		<timing id="3" start="0.815" end="1.418" startframe="0" framelength="0" text="sneezed"/>
+		<timing id="4" start="1.418" end="1.812" startframe="0" framelength="0" text="very"/>
+		<timing id="5" start="1.812" end="2.716666666666667" startframe="0" framelength="0" text="loudly"/>
+	</timings>
+</xml>

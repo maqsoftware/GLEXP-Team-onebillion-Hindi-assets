@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Is this yours Mr Arjun asked Deeksha">
+		<timing id="0" start="0.006" end="0.214" startframe="0" framelength="0" text="Is"/>
+		<timing id="1" start="0.214" end="0.58" startframe="0" framelength="0" text="this"/>
+		<timing id="2" start="0.58" end="0.916" startframe="0" framelength="0" text="yours"/>
+		<timing id="3" start="0.916" end="1.466" startframe="0" framelength="0" text="Mr"/>
+		<timing id="4" start="1.466" end="2.513" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="5" start="2.513" end="3.165" startframe="0" framelength="0" text="asked"/>
+		<timing id="6" start="3.165" end="4.049" startframe="0" framelength="0" text="Deeksha"/>
+	</timings>
+</xml>

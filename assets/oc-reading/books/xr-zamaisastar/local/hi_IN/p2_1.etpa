@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="First I open the shutter and let the sun in">
+		<timing id="0" start="0.006" end="0.664" startframe="0" framelength="0" text="First"/>
+		<timing id="1" start="0.664" end="0.974" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.974" end="1.419" startframe="0" framelength="0" text="open"/>
+		<timing id="3" start="1.419" end="1.52" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.52" end="2.172" startframe="0" framelength="0" text="shutter"/>
+		<timing id="5" start="2.172" end="2.486" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.486" end="2.831" startframe="0" framelength="0" text="let"/>
+		<timing id="7" start="2.831" end="3.001" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.001" end="3.389" startframe="0" framelength="0" text="sun"/>
+		<timing id="9" start="3.389" end="3.9445" startframe="0" framelength="0" text="in"/>
+	</timings>
+</xml>

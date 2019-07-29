@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="In the yard I greet Grandpa and Auntie politely I wish them a good day">
+		<timing id="0" start="0.006" end="0.195" startframe="0" framelength="0" text="In"/>
+		<timing id="1" start="0.195" end="0.312" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.312" end="0.806" startframe="0" framelength="0" text="yard"/>
+		<timing id="3" start="0.806" end="0.987" startframe="0" framelength="0" text="I"/>
+		<timing id="4" start="0.987" end="1.484" startframe="0" framelength="0" text="greet"/>
+		<timing id="5" start="1.484" end="2.331" startframe="0" framelength="0" text="Grandpa"/>
+		<timing id="6" start="2.331" end="2.686" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.686" end="3.24" startframe="0" framelength="0" text="Auntie"/>
+		<timing id="8" start="3.24" end="4.112" startframe="0" framelength="0" text="politely"/>
+		<timing id="9" start="4.112" end="4.342" startframe="0" framelength="0" text="I"/>
+		<timing id="10" start="4.342" end="4.84" startframe="0" framelength="0" text="wish"/>
+		<timing id="11" start="4.84" end="5.129" startframe="0" framelength="0" text="them"/>
+		<timing id="12" start="5.129" end="5.213" startframe="0" framelength="0" text="a"/>
+		<timing id="13" start="5.213" end="5.593" startframe="0" framelength="0" text="good"/>
+		<timing id="14" start="5.593" end="6.2171666666666665" startframe="0" framelength="0" text="day"/>
+	</timings>
+</xml>

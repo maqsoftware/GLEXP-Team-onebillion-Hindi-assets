@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Aditya and Deeksha shout her name Harita does not answer">
+		<timing id="0" start="0.006" end="1.018" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="1.018" end="1.2" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="1.2" end="1.8" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="3" start="1.8" end="2.249" startframe="0" framelength="0" text="shout"/>
+		<timing id="4" start="2.249" end="2.418" startframe="0" framelength="0" text="her"/>
+		<timing id="5" start="2.418" end="3.484" startframe="0" framelength="0" text="name"/>
+		<timing id="6" start="3.484" end="4.114" startframe="0" framelength="0" text="Harita"/>
+		<timing id="7" start="4.114" end="4.459" startframe="0" framelength="0" text="does"/>
+		<timing id="8" start="4.459" end="4.802" startframe="0" framelength="0" text="not"/>
+		<timing id="9" start="4.802" end="5.6685" startframe="0" framelength="0" text="answer"/>
+	</timings>
+</xml>

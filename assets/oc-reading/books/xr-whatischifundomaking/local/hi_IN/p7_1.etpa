@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Deeksha puts marks on the tins She makes holes at the marks">
+		<timing id="0" start="0.006" end="0.641" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="0.641" end="1.149" startframe="0" framelength="0" text="puts"/>
+		<timing id="2" start="1.149" end="1.664" startframe="0" framelength="0" text="marks"/>
+		<timing id="3" start="1.664" end="1.832" startframe="0" framelength="0" text="on"/>
+		<timing id="4" start="1.832" end="1.917" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.917" end="3.148" startframe="0" framelength="0" text="tins"/>
+		<timing id="6" start="3.148" end="3.468" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="3.468" end="3.953" startframe="0" framelength="0" text="makes"/>
+		<timing id="8" start="3.953" end="4.49" startframe="0" framelength="0" text="holes"/>
+		<timing id="9" start="4.49" end="4.646" startframe="0" framelength="0" text="at"/>
+		<timing id="10" start="4.646" end="4.78" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.78" end="5.6946666666666665" startframe="0" framelength="0" text="marks"/>
+	</timings>
+</xml>

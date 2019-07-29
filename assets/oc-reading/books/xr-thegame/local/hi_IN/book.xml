@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-thegameEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>The game</para>
+	</page>
+	<page pageno="1">
+		<para>The chil/dren are play/ing a game.</para>
+	</page>
+	<page pageno="2">
+		<para>Dee/k/sha throws a ball.</para>
+	</page>
+	<page pageno="3">
+		<para>It goes in/to the tin.</para>
+	</page>
+	<page pageno="4">
+		<para>A/dit/ya throws the ball.</para>
+	</page>
+	<page pageno="5">
+		<para>He miss/es.</para>
+	</page>
+	<page pageno="6">
+		<para>Ha/ri/ta throws the ball.</para>
+	</page>
+	<page pageno="7">
+		<para>Up it goes.</para>
+	</page>
+	<page pageno="8">
+		<para>Oh no!</para>
+	</page>
+</book>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What does he find Wow A shining magnifying glass">
+		<timing id="0" start="0.006" end="0.239" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.239" end="0.556" startframe="0" framelength="0" text="does"/>
+		<timing id="2" start="0.556" end="0.734" startframe="0" framelength="0" text="he"/>
+		<timing id="3" start="0.734" end="1.847" startframe="0" framelength="0" text="find"/>
+		<timing id="4" start="1.847" end="2.954" startframe="0" framelength="0" text="Wow"/>
+		<timing id="5" start="2.954" end="3.035" startframe="0" framelength="0" text="A"/>
+		<timing id="6" start="3.035" end="3.687" startframe="0" framelength="0" text="shining"/>
+		<timing id="7" start="3.687" end="4.536" startframe="0" framelength="0" text="magnifying"/>
+		<timing id="8" start="4.536" end="5.355" startframe="0" framelength="0" text="glass"/>
+	</timings>
+</xml>

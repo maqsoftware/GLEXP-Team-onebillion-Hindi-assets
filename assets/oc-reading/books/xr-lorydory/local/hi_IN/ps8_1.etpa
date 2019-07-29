@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She thought about all the things she liked And then she began to paint">
+		<timing id="0" start="0.006" end="0.276" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.276" end="0.683" startframe="0" framelength="0" text="thought"/>
+		<timing id="2" start="0.683" end="1.15" startframe="0" framelength="0" text="about"/>
+		<timing id="3" start="1.15" end="1.403" startframe="0" framelength="0" text="all"/>
+		<timing id="4" start="1.403" end="1.513" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.513" end="2.025" startframe="0" framelength="0" text="things"/>
+		<timing id="6" start="2.025" end="2.307" startframe="0" framelength="0" text="she"/>
+		<timing id="7" start="2.307" end="3.458" startframe="0" framelength="0" text="liked"/>
+		<timing id="8" start="3.458" end="3.743" startframe="0" framelength="0" text="And"/>
+		<timing id="9" start="3.743" end="4.006" startframe="0" framelength="0" text="then"/>
+		<timing id="10" start="4.006" end="4.249" startframe="0" framelength="0" text="she"/>
+		<timing id="11" start="4.249" end="4.806" startframe="0" framelength="0" text="began"/>
+		<timing id="12" start="4.806" end="4.96" startframe="0" framelength="0" text="to"/>
+		<timing id="13" start="4.96" end="5.720833333333333" startframe="0" framelength="0" text="paint"/>
+	</timings>
+</xml>

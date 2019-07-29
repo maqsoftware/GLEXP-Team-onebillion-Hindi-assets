@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Rabbit has an idea He will make some horns">
+		<timing id="0" start="0.006" end="0.58" startframe="0" framelength="0" text="Rabbit"/>
+		<timing id="1" start="0.58" end="0.895" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.895" end="1.031" startframe="0" framelength="0" text="an"/>
+		<timing id="3" start="1.031" end="2.201" startframe="0" framelength="0" text="idea"/>
+		<timing id="4" start="2.201" end="2.54" startframe="0" framelength="0" text="He"/>
+		<timing id="5" start="2.54" end="2.772" startframe="0" framelength="0" text="will"/>
+		<timing id="6" start="2.772" end="3.152" startframe="0" framelength="0" text="make"/>
+		<timing id="7" start="3.152" end="3.501" startframe="0" framelength="0" text="some"/>
+		<timing id="8" start="3.501" end="4.466833333333334" startframe="0" framelength="0" text="horns"/>
+	</timings>
+</xml>

@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Wow A funnel with a big wide mouth">
+		<timing id="0" start="0.006" end="1.117" startframe="0" framelength="0" text="Wow"/>
+		<timing id="1" start="1.117" end="1.207" startframe="0" framelength="0" text="A"/>
+		<timing id="2" start="1.207" end="1.755" startframe="0" framelength="0" text="funnel"/>
+		<timing id="3" start="1.755" end="1.999" startframe="0" framelength="0" text="with"/>
+		<timing id="4" start="1.999" end="2.036" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="2.036" end="2.697" startframe="0" framelength="0" text="big"/>
+		<timing id="6" start="2.697" end="3.183" startframe="0" framelength="0" text="wide"/>
+		<timing id="7" start="3.183" end="3.8921666666666668" startframe="0" framelength="0" text="mouth"/>
+	</timings>
+</xml>

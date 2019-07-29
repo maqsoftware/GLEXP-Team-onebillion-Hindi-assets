@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<cq id="1">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Max saw an elephant.</passage>
+		<passage id="p.passage_2">It had grey ears.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Max">What did Max see?</question>
+		<answer id="q1.answer_1">an elephant</answer>
+		<answer id="q1.answer_2">a giraffe</answer>
+		<answer id="q1.answer_3">a butterfly</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="It">What colour were its ears?</question>
+		<answer id="q2.answer_1">grey</answer>
+		<answer id="q2.answer_2">green</answer>
+		<answer id="q2.answer_3">blue</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="2">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The goat lives in the mountains.</passage>
+		<passage id="p.passage_2">It eats trees.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">Where does the goat live?</question>
+		<answer id="q1.answer_1">in the mountains</answer>
+		<answer id="q1.answer_2">by the lake</answer>
+		<answer id="q1.answer_3">in the forest</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="It">What does the goat eat?</question>
+		<answer id="q2.answer_1">trees</answer>
+		<answer id="q2.answer_2">meat</answer>
+		<answer id="q2.answer_3">sand</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="3">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Rufus has lost his shoe.</passage>
+		<passage id="p.passage_2">It is brown.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Rufus">What has Rufus lost?</question>
+		<answer id="q1.answer_1">his shoe</answer>
+		<answer id="q1.answer_2">his hat</answer>
+		<answer id="q1.answer_3">his shirt</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="It">What colour is Rufus’s shoe?</question>
+		<answer id="q2.answer_1">brown</answer>
+		<answer id="q2.answer_2">pink</answer>
+		<answer id="q2.answer_3">yellow</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="4">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Grandma is old.</passage>
+		<passage id="p.passage_2">Marie thinks she is older than the moon.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Grandma">Who is old?</question>
+		<answer id="q1.answer_1">Grandma</answer>
+		<answer id="q1.answer_2">Mum</answer>
+		<answer id="q1.answer_3">Dad</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="Marie">Who thinks Grandma is older than the moon?</question>
+		<answer id="q2.answer_1">Marie</answer>
+		<answer id="q2.answer_2">Thomas</answer>
+		<answer id="q2.answer_3">Shauna</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="5">
+	<passages id="p.passages">
+		<passage id="p.passage_1">There are monkeys in the forest.</passage>
+		<passage id="p.passage_2">They chatter noisily.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="There">What is in the forest?</question>
+		<answer id="q1.answer_1">monkeys</answer>
+		<answer id="q1.answer_2">people</answer>
+		<answer id="q1.answer_3">cars</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="They">What do the monkeys do?</question>
+		<answer id="q2.answer_1">chatter</answer>
+		<answer id="q2.answer_2">swim</answer>
+		<answer id="q2.answer_3">dance</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="6">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Tara has five brothers.</passage>
+		<passage id="p.passage_2">They tell her stories.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Tara">How many brothers does Tara have?</question>
+		<answer id="q1.answer_1">five</answer>
+		<answer id="q1.answer_2">six</answer>
+		<answer id="q1.answer_3">seven</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="They">What do they do?</question>
+		<answer id="q2.answer_1">tell her stories</answer>
+		<answer id="q2.answer_2">make soup</answer>
+		<answer id="q2.answer_3">chase her</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="7">
+	<passages id="p.passages">
+		<passage id="p.passage_1">There are seven people on the bus.</passage>
+		<passage id="p.passage_2">They are all going into town.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="There">How many people are there on the bus?</question>
+		<answer id="q1.answer_1">seven</answer>
+		<answer id="q1.answer_2">six</answer>
+		<answer id="q1.answer_3">five</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="They">Where are they going?</question>
+		<answer id="q2.answer_1">into town</answer>
+		<answer id="q2.answer_2">to the sea</answer>
+		<answer id="q2.answer_3">to Grandma’s house</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="8">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The spider sat in her web.</passage>
+		<passage id="p.passage_2">The fly went to visit.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">Who sat in her web?</question>
+		<answer id="q1.answer_1">the spider</answer>
+		<answer id="q1.answer_2">the hippo</answer>
+		<answer id="q1.answer_3">the butterfly</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="The">Who went to visit?</question>
+		<answer id="q2.answer_1">the fly</answer>
+		<answer id="q2.answer_2">the boy</answer>
+		<answer id="q2.answer_3">the bird</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="9">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The monkey found some wood.</passage>
+		<passage id="p.passage_2">She made a boat.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">What did the monkey find?</question>
+		<answer id="q1.answer_1">wood</answer>
+		<answer id="q1.answer_2">leaves</answer>
+		<answer id="q1.answer_3">apples</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="She">What did the monkey make?</question>
+		<answer id="q2.answer_1">a boat</answer>
+		<answer id="q2.answer_2">a house</answer>
+		<answer id="q2.answer_3">a kite</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="10">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The wind took Ali’s kite.</passage>
+		<passage id="p.passage_2">She found it in a tree.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">What took Ali’s kite?</question>
+		<answer id="q1.answer_1">the wind</answer>
+		<answer id="q1.answer_2">the bird</answer>
+		<answer id="q1.answer_3">the witch</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="She">Where did Ali find her kite?</question>
+		<answer id="q2.answer_1">in a tree</answer>
+		<answer id="q2.answer_2">in the sea</answer>
+		<answer id="q2.answer_3">in the sky</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+</cq>
+<cq id="11">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Jared likes to sing.</passage>
+		<passage id="p.passage_2">He sings for his family.</passage>
+		<passage id="p.passage_3">He sings about animals.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Jared">What does Jared like to do?</question>
+		<answer id="q1.answer_1">sing</answer>
+		<answer id="q1.answer_2">paint</answer>
+		<answer id="q1.answer_3">read</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="He">Who does he sing for?</question>
+		<answer id="q2.answer_1">his family</answer>
+		<answer id="q2.answer_2">his friends</answer>
+		<answer id="q2.answer_3">the animals</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="He">What does he sing about?</question>
+		<answer id="q3.answer_1">animals</answer>
+		<answer id="q3.answer_2">mountains</answer>
+		<answer id="q3.answer_3">bananas</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+</cq>
+<cq id="12">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Mouse stepped on Lion’s paw.</passage>
+		<passage id="p.passage_2">Lion cried.</passage>
+		<passage id="p.passage_3">He only had three more paws.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Mouse">Who stepped on Lion’s paw?</question>
+		<answer id="q1.answer_1">Mouse</answer>
+		<answer id="q1.answer_2">Rabbit</answer>
+		<answer id="q1.answer_3">Elephant</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="Lion">What did Lion do?</question>
+		<answer id="q2.answer_1">he cried</answer>
+		<answer id="q2.answer_2">he whistled</answer>
+		<answer id="q2.answer_3">he fell asleep</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="He">How many more paws did Lion have?</question>
+		<answer id="q3.answer_1">three</answer>
+		<answer id="q3.answer_2">six</answer>
+		<answer id="q3.answer_3">nine</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+</cq>
+<cq id="13">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Barney bit into an apple.</passage>
+		<passage id="p.passage_2">There was a worm inside it.</passage>
+		<passage id="p.passage_3">Barney gave the apple to a bird.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Barney">What did Barney bite?</question>
+		<answer id="q1.answer_1">an apple</answer>
+		<answer id="q1.answer_2">a banana</answer>
+		<answer id="q1.answer_3">a melon</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="There">What was inside the apple?</question>
+		<answer id="q2.answer_1">a worm</answer>
+		<answer id="q2.answer_2">a butterfly</answer>
+		<answer id="q2.answer_3">a bird</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Barney">Who did Barney give the apple to?</question>
+		<answer id="q3.answer_1">a bird</answer>
+		<answer id="q3.answer_2">a hippo</answer>
+		<answer id="q3.answer_3">his dad</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+</cq>
+<cq id="14">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The crocodile had lots of teeth.</passage>
+		<passage id="p.passage_2">She smiled at the boy.</passage>
+		<passage id="p.passage_3">The boy ran away.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">Who had lots of teeth?</question>
+		<answer id="q1.answer_1">the crocodile</answer>
+		<answer id="q1.answer_2">the bird</answer>
+		<answer id="q1.answer_3">the fish</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="She">Who did the crocodile smile at?</question>
+		<answer id="q2.answer_1">the boy</answer>
+		<answer id="q2.answer_2">the bird</answer>
+		<answer id="q2.answer_3">the fish</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="The">What did the boy do?</question>
+		<answer id="q3.answer_1">he ran away</answer>
+		<answer id="q3.answer_2">he smiled back</answer>
+		<answer id="q3.answer_3">he shouted</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+</cq>
+<cq id="15">
+	<passages id="p.passages">
+		<passage id="p.passage_1">There were dark, grey clouds in the sky.</passage>
+		<passage id="p.passage_2">The rain fell in big droplets.</passage>
+		<passage id="p.passage_3">Dad told Woody to go inside.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="There">What was in the sky?</question>
+		<answer id="q1.answer_1">clouds</answer>
+		<answer id="q1.answer_2">monkeys</answer>
+		<answer id="q1.answer_3">sand</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="The">What fell in big droplets?</question>
+		<answer id="q2.answer_1">rain</answer>
+		<answer id="q2.answer_2">bananas</answer>
+		<answer id="q2.answer_3">stones</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Dad">Who told Woody to go inside?</question>
+		<answer id="q3.answer_1">Dad</answer>
+		<answer id="q3.answer_2">Grandpa</answer>
+		<answer id="q3.answer_3">Aunty</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+</cq>
+<cq id="16">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Lyra went swimming in the lake.</passage>
+		<passage id="p.passage_2">She saw three fish.</passage>
+		<passage id="p.passage_3">She walked home when the sun went down.</passage>
+		<passage id="p.passage_4">She had fish for supper.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Lyra">What did Lyra do in the lake?</question>
+		<answer id="q1.answer_1">swim</answer>
+		<answer id="q1.answer_2">dance</answer>
+		<answer id="q1.answer_3">sing</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="She">How many fish did Lyra see in the lake?</question>
+		<answer id="q2.answer_1">three</answer>
+		<answer id="q2.answer_2">seven</answer>
+		<answer id="q2.answer_3">four</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="She">When did Lyra walk home?</question>
+		<answer id="q3.answer_1">when the sun went down</answer>
+		<answer id="q3.answer_2">when the sun came up</answer>
+		<answer id="q3.answer_3">when the crocodile came</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="She">What did Lyra eat for supper?</question>
+		<answer id="q4.answer_1">fish</answer>
+		<answer id="q4.answer_2">rice</answer>
+		<answer id="q4.answer_3">fruit</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+</cq>
+<cq id="17">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Leah sat with her family around the fire.</passage>
+		<passage id="p.passage_2">They told each other stories.</passage>
+		<passage id="p.passage_3">Leah’s grandma told a story about a tortoise that had no shell.</passage>
+		<passage id="p.passage_4">It made everyone laugh.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Leah">Who did Leah sit with around the fire?</question>
+		<answer id="q1.answer_1">her family</answer>
+		<answer id="q1.answer_2">her friends</answer>
+		<answer id="q1.answer_3">a queen</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="They">What did they do around the fire?</question>
+		<answer id="q2.answer_1">told stories</answer>
+		<answer id="q2.answer_2">counted the stars</answer>
+		<answer id="q2.answer_3">sang songs</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Leah’s">Who told a story about a tortoise?</question>
+		<answer id="q3.answer_1">Leah’s grandma</answer>
+		<answer id="q3.answer_2">the dog</answer>
+		<answer id="q3.answer_3">the king</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="It">What did everyone do when they heard the story?</question>
+		<answer id="q4.answer_1">they laughed</answer>
+		<answer id="q4.answer_2">they cried</answer>
+		<answer id="q4.answer_3">they fell asleep</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+</cq>
+<cq id="18">
+	<passages id="p.passages">
+		<passage id="p.passage_1">The ant crawled up the hill.</passage>
+		<passage id="p.passage_2">The hill was big and green.</passage>
+		<passage id="p.passage_3">The ant found a hole and crawled into it.</passage>
+		<passage id="p.passage_4">Later, the boy found an ant in his watermelon.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="The">What crawled up the hill?</question>
+		<answer id="q1.answer_1">an ant</answer>
+		<answer id="q1.answer_2">a scorpion</answer>
+		<answer id="q1.answer_3">a fish</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="The">What colour was the hill?</question>
+		<answer id="q2.answer_1">green</answer>
+		<answer id="q2.answer_2">orange</answer>
+		<answer id="q2.answer_3">purple</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="The">What did the ant crawl into?</question>
+		<answer id="q3.answer_1">a hole</answer>
+		<answer id="q3.answer_2">a cup</answer>
+		<answer id="q3.answer_3">a tree</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="Later,">Where did the boy find an ant?</question>
+		<answer id="q4.answer_1">in his watermelon</answer>
+		<answer id="q4.answer_2">on his foot</answer>
+		<answer id="q4.answer_3">in his hair</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+</cq>
+<cq id="19">
+	<passages id="p.passages">
+		<passage id="p.passage_1">My friend Kingsley is coming to visit.</passage>
+		<passage id="p.passage_2">He has two long ears.</passage>
+		<passage id="p.passage_3">He has one wagging tail.</passage>
+		<passage id="p.passage_4">He barks to say hello.</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="My">Who is coming to visit?</question>
+		<answer id="q1.answer_1">Kingsley</answer>
+		<answer id="q1.answer_2">Alastair</answer>
+		<answer id="q1.answer_3">Frank</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="He">How many ears does Kingsley have?</question>
+		<answer id="q2.answer_1">two</answer>
+		<answer id="q2.answer_2">one</answer>
+		<answer id="q2.answer_3">three</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="He">What is wagging?</question>
+		<answer id="q3.answer_1">Kingsley’s tail</answer>
+		<answer id="q3.answer_2">Kingsley’s nose</answer>
+		<answer id="q3.answer_3">Kingsley’s mouth</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="He">How does Kingsley say hello?</question>
+		<answer id="q4.answer_1">he barks</answer>
+		<answer id="q4.answer_2">he sings</answer>
+		<answer id="q4.answer_3">he whistles</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+</cq>
+<cq id="20">
+	<passages id="p.passages">
+		<passage id="p.passage_1">Dwayne is playing a game with his sister.</passage>
+		<passage id="p.passage_2">First, he closes his eyes while she hides.</passage>
+		<passage id="p.passage_3">Then, he tries to find her.</passage>
+		<passage id="p.passage_4">He can see her under the table!</passage>
+	</passages>
+	<qu id="q1.qu">
+		<question id="q1.question" imagename="Dwayne">Who is playing a game?</question>
+		<answer id="q1.answer_1">Dwayne and his sister</answer>
+		<answer id="q1.answer_2">Dwayne and his brother</answer>
+		<answer id="q1.answer_3">Jemaine and his sister</answer>
+		<correct id="q1.correct">1</correct>
+	</qu>
+	<qu id="q2.qu">
+		<question id="q2.question" imagename="First,">What does his sister do when Dwayne closes his eyes?</question>
+		<answer id="q2.answer_1">hides</answer>
+		<answer id="q2.answer_2">tickles him</answer>
+		<answer id="q2.answer_3">goes to sleep</answer>
+		<correct id="q2.correct">2</correct>
+	</qu>
+	<qu id="q3.qu">
+		<question id="q3.question" imagename="Then,">What does Dwayne do next?</question>
+		<answer id="q3.answer_1">tries to find his sister</answer>
+		<answer id="q3.answer_2">goes to sleep</answer>
+		<answer id="q3.answer_3">jumps up and down</answer>
+		<correct id="q3.correct">3</correct>
+	</qu>
+	<qu id="q4.qu">
+		<question id="q4.question" imagename="He">Where does Dwayne find his sister?</question>
+		<answer id="q4.answer_1">under the table</answer>
+		<answer id="q4.answer_2">behind the door</answer>
+		<answer id="q4.answer_3">behind the tree</answer>
+		<correct id="q4.correct">4</correct>
+	</qu>
+</cq>
+</root>

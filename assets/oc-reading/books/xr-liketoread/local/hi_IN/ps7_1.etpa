@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="My father and my grandfather are busy">
+		<timing id="0" start="0.006" end="0.301" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.301" end="0.841" startframe="0" framelength="0" text="father"/>
+		<timing id="2" start="0.841" end="1.058" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="1.058" end="1.269" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.269" end="2.31" startframe="0" framelength="0" text="grandfather"/>
+		<timing id="5" start="2.31" end="2.506" startframe="0" framelength="0" text="are"/>
+		<timing id="6" start="2.506" end="3.1868333333333334" startframe="0" framelength="0" text="busy"/>
+	</timings>
+</xml>

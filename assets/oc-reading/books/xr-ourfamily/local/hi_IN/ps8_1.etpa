@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="We have a goat and a dog">
+		<timing id="0" start="0.006" end="0.356" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.356" end="0.664" startframe="0" framelength="0" text="have"/>
+		<timing id="2" start="0.664" end="0.73" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.73" end="1.118" startframe="0" framelength="0" text="goat"/>
+		<timing id="4" start="1.118" end="1.299" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="1.299" end="1.367" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="1.367" end="2.0113333333333334" startframe="0" framelength="0" text="dog"/>
+	</timings>
+</xml>

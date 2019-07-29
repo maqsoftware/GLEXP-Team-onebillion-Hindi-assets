@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Is <break time="500ms"/> this <break time="500ms"/> yours <break time="500ms"/> Mr <break time="500ms"/> Banda <break time="500ms"/> asked <break time="500ms"/> Deeksha <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.395" startframe="0" framelength="0" text="Is"/>
+		<timing id="1" start="0.395" end="0.995" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="0.995" end="1.802" startframe="0" framelength="0" text="this"/>
+		<timing id="3" start="1.802" end="2.402" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.402" end="3.206" startframe="0" framelength="0" text="yours"/>
+		<timing id="5" start="3.206" end="3.799" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.799" end="4.746" startframe="0" framelength="0" text="Mr"/>
+		<timing id="7" start="4.746" end="5.348" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.348" end="6.064" startframe="0" framelength="0" text="Banda"/>
+		<timing id="9" start="6.064" end="6.95" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.95" end="7.803" startframe="0" framelength="0" text="asked"/>
+		<timing id="11" start="7.803" end="8.403" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.403" end="9.503" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="13" start="9.503" end="10.057166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

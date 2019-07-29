@@ -1,0 +1,35 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mrs Chandini and Mrs Charita are Dipti’s aunts They are invited to the wedding But Mrs Chandini does not like Mrs Charita Mrs Charita does not like Mrs Chandini">
+		<timing id="0" start="0.006" end="0.541" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="1" start="0.541" end="1.273" startframe="0" framelength="0" text="Chandini"/>
+		<timing id="2" start="1.273" end="1.471" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="1.471" end="1.987" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="4" start="1.987" end="2.666" startframe="0" framelength="0" text="Charita"/>
+		<timing id="5" start="2.666" end="2.986" startframe="0" framelength="0" text="are"/>
+		<timing id="6" start="2.986" end="3.715" startframe="0" framelength="0" text="Dipti’s"/>
+		<timing id="7" start="3.715" end="4.776" startframe="0" framelength="0" text="aunts"/>
+		<timing id="8" start="4.776" end="5.067" startframe="0" framelength="0" text="They"/>
+		<timing id="9" start="5.067" end="5.249" startframe="0" framelength="0" text="are"/>
+		<timing id="10" start="5.249" end="5.907" startframe="0" framelength="0" text="invited"/>
+		<timing id="11" start="5.907" end="6.071" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="6.071" end="6.219" startframe="0" framelength="0" text="the"/>
+		<timing id="13" start="6.219" end="7.35" startframe="0" framelength="0" text="wedding"/>
+		<timing id="14" start="7.35" end="7.707" startframe="0" framelength="0" text="But"/>
+		<timing id="15" start="7.707" end="8.262" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="16" start="8.262" end="9.033" startframe="0" framelength="0" text="Chandini"/>
+		<timing id="17" start="9.033" end="9.38" startframe="0" framelength="0" text="does"/>
+		<timing id="18" start="9.38" end="9.794" startframe="0" framelength="0" text="not"/>
+		<timing id="19" start="9.794" end="10.181" startframe="0" framelength="0" text="like"/>
+		<timing id="20" start="10.181" end="10.71" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="21" start="10.71" end="11.846" startframe="0" framelength="0" text="Charita"/>
+		<timing id="22" start="11.846" end="12.38" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="23" start="12.38" end="13.039" startframe="0" framelength="0" text="Charita"/>
+		<timing id="24" start="13.039" end="13.384" startframe="0" framelength="0" text="does"/>
+		<timing id="25" start="13.384" end="13.756" startframe="0" framelength="0" text="not"/>
+		<timing id="26" start="13.756" end="14.142" startframe="0" framelength="0" text="like"/>
+		<timing id="27" start="14.142" end="14.626" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="28" start="14.626" end="15.621166666666667" startframe="0" framelength="0" text="Chandini"/>
+	</timings>
+</xml>

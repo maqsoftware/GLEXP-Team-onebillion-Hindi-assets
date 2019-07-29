@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Anything iron will stick to it">
+		<timing id="0" start="0.006" end="0.582" startframe="0" framelength="0" text="Anything"/>
+		<timing id="1" start="0.582" end="0.948" startframe="0" framelength="0" text="iron"/>
+		<timing id="2" start="0.948" end="1.157" startframe="0" framelength="0" text="will"/>
+		<timing id="3" start="1.157" end="1.599" startframe="0" framelength="0" text="stick"/>
+		<timing id="4" start="1.599" end="1.836" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.836" end="2.3248333333333333" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

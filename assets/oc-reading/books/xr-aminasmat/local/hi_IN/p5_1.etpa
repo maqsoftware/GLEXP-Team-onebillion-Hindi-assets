@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="But one day Kalpana forgot to take her mat">
+		<timing id="0" start="0.006" end="0.307" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.307" end="0.701" startframe="0" framelength="0" text="one"/>
+		<timing id="2" start="0.701" end="1.374" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.374" end="1.892" startframe="0" framelength="0" text="Kalpana"/>
+		<timing id="4" start="1.892" end="2.46" startframe="0" framelength="0" text="forgot"/>
+		<timing id="5" start="2.46" end="2.611" startframe="0" framelength="0" text="to"/>
+		<timing id="6" start="2.611" end="3.012" startframe="0" framelength="0" text="take"/>
+		<timing id="7" start="3.012" end="3.216" startframe="0" framelength="0" text="her"/>
+		<timing id="8" start="3.216" end="3.9183333333333334" startframe="0" framelength="0" text="mat"/>
+	</timings>
+</xml>

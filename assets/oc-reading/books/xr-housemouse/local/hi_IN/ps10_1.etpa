@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There is a bookcase high up and dry That night Mouse is warm and cosy">
+		<timing id="0" start="0.006" end="0.42" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.42" end="0.578" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.578" end="0.637" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.637" end="1.888" startframe="0" framelength="0" text="bookcase"/>
+		<timing id="4" start="1.888" end="2.319" startframe="0" framelength="0" text="high"/>
+		<timing id="5" start="2.319" end="2.581" startframe="0" framelength="0" text="up"/>
+		<timing id="6" start="2.581" end="2.809" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.809" end="3.772" startframe="0" framelength="0" text="dry"/>
+		<timing id="8" start="3.772" end="4.129" startframe="0" framelength="0" text="That"/>
+		<timing id="9" start="4.129" end="4.549" startframe="0" framelength="0" text="night"/>
+		<timing id="10" start="4.549" end="5.029" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="11" start="5.029" end="5.246" startframe="0" framelength="0" text="is"/>
+		<timing id="12" start="5.246" end="5.623" startframe="0" framelength="0" text="warm"/>
+		<timing id="13" start="5.623" end="5.915" startframe="0" framelength="0" text="and"/>
+		<timing id="14" start="5.915" end="6.7395" startframe="0" framelength="0" text="cosy"/>
+	</timings>
+</xml>

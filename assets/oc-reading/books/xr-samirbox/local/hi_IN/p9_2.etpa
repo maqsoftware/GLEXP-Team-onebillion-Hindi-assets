@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She has dropped her needles on the floor">
+		<timing id="0" start="0.006" end="0.395" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.395" end="0.762" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.762" end="1.29" startframe="0" framelength="0" text="dropped"/>
+		<timing id="3" start="1.29" end="1.501" startframe="0" framelength="0" text="her"/>
+		<timing id="4" start="1.501" end="2.212" startframe="0" framelength="0" text="needles"/>
+		<timing id="5" start="2.212" end="2.411" startframe="0" framelength="0" text="on"/>
+		<timing id="6" start="2.411" end="2.496" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.496" end="3.1868333333333334" startframe="0" framelength="0" text="floor"/>
+	</timings>
+</xml>

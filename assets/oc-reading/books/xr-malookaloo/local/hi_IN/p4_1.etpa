@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Granny there are no potatoes">
+		<timing id="0" start="0.006" end="1.028" startframe="0" framelength="0" text="Granny"/>
+		<timing id="1" start="1.028" end="1.456" startframe="0" framelength="0" text="there"/>
+		<timing id="2" start="1.456" end="1.564" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="1.564" end="1.776" startframe="0" framelength="0" text="no"/>
+		<timing id="4" start="1.776" end="2.8995" startframe="0" framelength="0" text="potatoes"/>
+	</timings>
+</xml>

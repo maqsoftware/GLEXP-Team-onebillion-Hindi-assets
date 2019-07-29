@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It <break time="500ms"/> has <break time="500ms"/> become <break time="500ms"/> quiet <break time="500ms"/> I <break time="500ms"/> cannot <break time="500ms"/> hear <break time="500ms"/> the <break time="500ms"/> wind <break time="500ms"/> anymore <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.647" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.647" end="1.247" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.247" end="2.244" startframe="0" framelength="0" text="has"/>
+		<timing id="3" start="2.244" end="2.844" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.844" end="3.73" startframe="0" framelength="0" text="become"/>
+		<timing id="5" start="3.73" end="4.33" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.33" end="5.247" startframe="0" framelength="0" text="quiet"/>
+		<timing id="7" start="5.247" end="5.844" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.844" end="6.477" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="6.477" end="7.07" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.07" end="7.907" startframe="0" framelength="0" text="cannot"/>
+		<timing id="11" start="7.907" end="8.5" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.5" end="9.358" startframe="0" framelength="0" text="hear"/>
+		<timing id="13" start="9.358" end="9.958" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.958" end="10.746" startframe="0" framelength="0" text="the"/>
+		<timing id="15" start="10.746" end="11.346" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.346" end="12.272" startframe="0" framelength="0" text="wind"/>
+		<timing id="17" start="12.272" end="12.872" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.872" end="14.016" startframe="0" framelength="0" text="anymore"/>
+		<timing id="19" start="14.016" end="14.576333333333332" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

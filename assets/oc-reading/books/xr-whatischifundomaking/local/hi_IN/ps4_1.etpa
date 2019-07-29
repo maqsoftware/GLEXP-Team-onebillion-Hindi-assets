@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Good <break time="500ms"/> The <break time="500ms"/> tins <break time="500ms"/> are <break time="500ms"/> the <break time="500ms"/> right <break time="500ms"/> size <break time="500ms"/> says <break time="500ms"/> Deeksha <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.6" startframe="0" framelength="0" text="Good"/>
+		<timing id="1" start="0.6" end="1.487" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.487" end="2.119" startframe="0" framelength="0" text="The"/>
+		<timing id="3" start="2.119" end="2.719" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.719" end="3.447" startframe="0" framelength="0" text="tins"/>
+		<timing id="5" start="3.447" end="4.047" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.047" end="4.768" startframe="0" framelength="0" text="are"/>
+		<timing id="7" start="4.768" end="5.368" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.368" end="6.072" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="6.072" end="6.666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.666" end="7.582" startframe="0" framelength="0" text="right"/>
+		<timing id="11" start="7.582" end="8.182" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.182" end="9.105" startframe="0" framelength="0" text="size"/>
+		<timing id="13" start="9.105" end="9.698" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.698" end="10.582" startframe="0" framelength="0" text="says"/>
+		<timing id="15" start="10.582" end="11.176" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.176" end="12.063" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="17" start="12.063" end="12.617166666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

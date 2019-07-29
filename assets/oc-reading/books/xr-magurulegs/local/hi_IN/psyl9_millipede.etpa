@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="mil li pede">
+		<timing id="0" start="0.006" end="0.617" startframe="0" framelength="0" text="mil"/>
+		<timing id="1" start="0.617" end="1.476" startframe="0" framelength="0" text="li"/>
+		<timing id="2" start="1.476" end="2.1681666666666666" startframe="0" framelength="0" text="pede"/>
+	</timings>
+</xml>

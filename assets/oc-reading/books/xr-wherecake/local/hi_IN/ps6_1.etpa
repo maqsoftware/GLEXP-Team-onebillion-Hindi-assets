@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No <break time="500ms"/> cake <break time="500ms"/> there <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.772" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.772" end="1.369" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.369" end="2.169" startframe="0" framelength="0" text="cake"/>
+		<timing id="3" start="2.169" end="2.77" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.77" end="3.721" startframe="0" framelength="0" text="there"/>
+		<timing id="5" start="3.721" end="4.284" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

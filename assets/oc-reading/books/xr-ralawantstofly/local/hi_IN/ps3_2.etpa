@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="But she knows there are other ways she could fly">
+		<timing id="0" start="0.006" end="0.312" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.312" end="0.543" startframe="0" framelength="0" text="she"/>
+		<timing id="2" start="0.543" end="0.978" startframe="0" framelength="0" text="knows"/>
+		<timing id="3" start="0.978" end="1.3" startframe="0" framelength="0" text="there"/>
+		<timing id="4" start="1.3" end="1.438" startframe="0" framelength="0" text="are"/>
+		<timing id="5" start="1.438" end="1.713" startframe="0" framelength="0" text="other"/>
+		<timing id="6" start="1.713" end="2.123" startframe="0" framelength="0" text="ways"/>
+		<timing id="7" start="2.123" end="2.362" startframe="0" framelength="0" text="she"/>
+		<timing id="8" start="2.362" end="2.64" startframe="0" framelength="0" text="could"/>
+		<timing id="9" start="2.64" end="3.3698333333333332" startframe="0" framelength="0" text="fly"/>
+	</timings>
+</xml>

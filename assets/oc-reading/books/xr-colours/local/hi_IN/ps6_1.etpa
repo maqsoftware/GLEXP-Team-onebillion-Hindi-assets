@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Harita likes purple She has a purple dress">
+		<timing id="0" start="0.006" end="0.653" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.653" end="1.129" startframe="0" framelength="0" text="likes"/>
+		<timing id="2" start="1.129" end="2.285" startframe="0" framelength="0" text="purple"/>
+		<timing id="3" start="2.285" end="2.621" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.621" end="2.897" startframe="0" framelength="0" text="has"/>
+		<timing id="5" start="2.897" end="2.941" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="2.941" end="3.509" startframe="0" framelength="0" text="purple"/>
+		<timing id="7" start="3.509" end="4.1795" startframe="0" framelength="0" text="dress"/>
+	</timings>
+</xml>

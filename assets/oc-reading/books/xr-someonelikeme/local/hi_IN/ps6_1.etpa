@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I am looking at every face">
+		<timing id="0" start="0.006" end="0.308" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.308" end="0.458" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.458" end="0.906" startframe="0" framelength="0" text="looking"/>
+		<timing id="3" start="0.906" end="1.16" startframe="0" framelength="0" text="at"/>
+		<timing id="4" start="1.16" end="1.562" startframe="0" framelength="0" text="every"/>
+		<timing id="5" start="1.562" end="2.429333333333333" startframe="0" framelength="0" text="face"/>
+	</timings>
+</xml>

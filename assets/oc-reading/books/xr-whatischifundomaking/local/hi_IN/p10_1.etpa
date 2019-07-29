@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Look Harita says Deeksha I will show you what to do">
+		<timing id="0" start="0.006" end="0.501" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.501" end="1.49" startframe="0" framelength="0" text="Harita"/>
+		<timing id="2" start="1.49" end="1.985" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="1.985" end="3.015" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="4" start="3.015" end="3.235" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="3.235" end="3.469" startframe="0" framelength="0" text="will"/>
+		<timing id="6" start="3.469" end="3.823" startframe="0" framelength="0" text="show"/>
+		<timing id="7" start="3.823" end="4.01" startframe="0" framelength="0" text="you"/>
+		<timing id="8" start="4.01" end="4.26" startframe="0" framelength="0" text="what"/>
+		<timing id="9" start="4.26" end="4.44" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.44" end="5.041666666666667" startframe="0" framelength="0" text="do"/>
+	</timings>
+</xml>

@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mouse pushed the cake from the other side But still the cake didn’t move">
+		<timing id="0" start="0.006" end="0.575" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="1" start="0.575" end="1.084" startframe="0" framelength="0" text="pushed"/>
+		<timing id="2" start="1.084" end="1.215" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.215" end="1.58" startframe="0" framelength="0" text="cake"/>
+		<timing id="4" start="1.58" end="1.917" startframe="0" framelength="0" text="from"/>
+		<timing id="5" start="1.917" end="2.087" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.087" end="2.379" startframe="0" framelength="0" text="other"/>
+		<timing id="7" start="2.379" end="3.468" startframe="0" framelength="0" text="side"/>
+		<timing id="8" start="3.468" end="3.819" startframe="0" framelength="0" text="But"/>
+		<timing id="9" start="3.819" end="4.687" startframe="0" framelength="0" text="still"/>
+		<timing id="10" start="4.687" end="4.846" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.846" end="5.222" startframe="0" framelength="0" text="cake"/>
+		<timing id="12" start="5.222" end="5.761" startframe="0" framelength="0" text="didn’t"/>
+		<timing id="13" start="5.761" end="6.4" startframe="0" framelength="0" text="move"/>
+	</timings>
+</xml>

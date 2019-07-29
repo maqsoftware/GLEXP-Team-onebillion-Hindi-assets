@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="A house also needs a family My brother and I play in our house all day long">
+		<timing id="0" start="0.006" end="0.096" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.096" end="0.671" startframe="0" framelength="0" text="house"/>
+		<timing id="2" start="0.671" end="1.137" startframe="0" framelength="0" text="also"/>
+		<timing id="3" start="1.137" end="1.596" startframe="0" framelength="0" text="needs"/>
+		<timing id="4" start="1.596" end="1.681" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.681" end="2.919" startframe="0" framelength="0" text="family"/>
+		<timing id="6" start="2.919" end="3.22" startframe="0" framelength="0" text="My"/>
+		<timing id="7" start="3.22" end="3.779" startframe="0" framelength="0" text="brother"/>
+		<timing id="8" start="3.779" end="3.989" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="3.989" end="4.166" startframe="0" framelength="0" text="I"/>
+		<timing id="10" start="4.166" end="4.795" startframe="0" framelength="0" text="play"/>
+		<timing id="11" start="4.795" end="5.002" startframe="0" framelength="0" text="in"/>
+		<timing id="12" start="5.002" end="5.268" startframe="0" framelength="0" text="our"/>
+		<timing id="13" start="5.268" end="5.822" startframe="0" framelength="0" text="house"/>
+		<timing id="14" start="5.822" end="6.083" startframe="0" framelength="0" text="all"/>
+		<timing id="15" start="6.083" end="6.376" startframe="0" framelength="0" text="day"/>
+		<timing id="16" start="6.376" end="7.131333333333333" startframe="0" framelength="0" text="long"/>
+	</timings>
+</xml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-someonelikemeEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>Some/one like me</para>
+	</page>
+	<page pageno="1">
+		<para>Is there an/oth/er me in the world?</para>
+	</page>
+	<page pageno="2">
+		<para>Some/one who looks the same.</para>
+	</page>
+	<page pageno="3">
+		<para>Some/one who can do what I can do.</para>
+	</page>
+	<page pageno="4">
+		<para>Some/one who finds the same things hard.</para>
+	</page>
+	<page pageno="5">
+		<para>I am look/ing eve/ry/where to find an/oth/er me.</para>
+	</page>
+	<page pageno="6">
+		<para>I am look/ing at eve/ry face.</para>
+	</page>
+	<page pageno="7">
+		<para>There is no one the same as me!</para>
+	</page>
+	<page pageno="8">
+		<para>I am spe/cial.</para>
+	</page>
+	<page pageno="9">
+		<para>You are spe/cial too. There is on/ly one of you!</para>
+	</page>
+</book>

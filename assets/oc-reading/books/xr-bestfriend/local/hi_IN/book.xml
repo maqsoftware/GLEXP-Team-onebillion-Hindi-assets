@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-bestfriendEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>My best friend</para>
+	</page>
+	<page pageno="1">
+		<para>I have lots of friends.</para>
+	</page>
+	<page pageno="2">
+		<para>Some of my friends are old/er than me.</para>
+	</page>
+	<page pageno="3">
+		<para>Some of my friends are young/er than me.</para>
+	</page>
+	<page pageno="4">
+		<para>Some of my friends have tails.</para>
+	</page>
+	<page pageno="5">
+		<para>Some of my friends have wings.</para>
+	</page>
+	<page pageno="6">
+		<para>Books are my friends too!</para>
+	</page>
+	<page pageno="7">
+		<para>But who is my best friend? Who? Who? Who?</para>
+	</page>
+	<page pageno="8">
+		<para>My mum!</para>
+	</page>
+</book>

@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="My red ball">
+		<timing id="0" start="0.006" end="0.382" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.382" end="0.794" startframe="0" framelength="0" text="red"/>
+		<timing id="2" start="0.794" end="1.5411666666666666" startframe="0" framelength="0" text="ball"/>
+	</timings>
+</xml>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="And who is she pestering now in the dirt">
+		<timing id="0" start="0.006" end="0.299" startframe="0" framelength="0" text="And"/>
+		<timing id="1" start="0.299" end="0.512" startframe="0" framelength="0" text="who"/>
+		<timing id="2" start="0.512" end="0.699" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.699" end="0.956" startframe="0" framelength="0" text="she"/>
+		<timing id="4" start="0.956" end="1.726" startframe="0" framelength="0" text="pestering"/>
+		<timing id="5" start="1.726" end="2.514" startframe="0" framelength="0" text="now"/>
+		<timing id="6" start="2.514" end="2.683" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="2.683" end="2.806" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.806" end="3.5003333333333333" startframe="0" framelength="0" text="dirt"/>
+	</timings>
+</xml>

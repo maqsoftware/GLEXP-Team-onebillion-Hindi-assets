@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Giraffes lions elephants rabbits crocodiles and birds all went to get legs">
+		<timing id="0" start="0.006" end="1.275" startframe="0" framelength="0" text="Giraffes"/>
+		<timing id="1" start="1.275" end="2.377" startframe="0" framelength="0" text="lions"/>
+		<timing id="2" start="2.377" end="3.634" startframe="0" framelength="0" text="elephants"/>
+		<timing id="3" start="3.634" end="4.811" startframe="0" framelength="0" text="rabbits"/>
+		<timing id="4" start="4.811" end="6.075" startframe="0" framelength="0" text="crocodiles"/>
+		<timing id="5" start="6.075" end="6.346" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="6.346" end="7.226" startframe="0" framelength="0" text="birds"/>
+		<timing id="7" start="7.226" end="7.495" startframe="0" framelength="0" text="all"/>
+		<timing id="8" start="7.495" end="7.908" startframe="0" framelength="0" text="went"/>
+		<timing id="9" start="7.908" end="8.069" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="8.069" end="8.47" startframe="0" framelength="0" text="get"/>
+		<timing id="11" start="8.47" end="9.142833333333334" startframe="0" framelength="0" text="legs"/>
+	</timings>
+</xml>

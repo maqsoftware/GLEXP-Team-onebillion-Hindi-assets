@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Harita <break time="500ms"/> is <break time="500ms"/> happy <break time="500ms"/> She <break time="500ms"/> is <break time="500ms"/> so <break time="500ms"/> tall <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.942" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.942" end="1.536" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.536" end="1.925" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.925" end="2.518" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.518" end="3.334" startframe="0" framelength="0" text="happy"/>
+		<timing id="5" start="3.334" end="4.221" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.221" end="5.06" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="5.06" end="5.654" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.654" end="6.043" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="6.043" end="6.643" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.643" end="7.416" startframe="0" framelength="0" text="so"/>
+		<timing id="11" start="7.416" end="8.009" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.009" end="8.732" startframe="0" framelength="0" text="tall"/>
+		<timing id="13" start="8.732" end="9.2995" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Oh no It is Mr. Arjun said Aditya I am in trouble">
+		<timing id="0" start="0.006" end="0.306" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.306" end="1.165" startframe="0" framelength="0" text="no"/>
+		<timing id="2" start="1.165" end="1.403" startframe="0" framelength="0" text="It"/>
+		<timing id="3" start="1.403" end="1.62" startframe="0" framelength="0" text="is"/>
+		<timing id="4" start="1.62" end="2.235" startframe="0" framelength="0" text="Mr."/>
+		<timing id="5" start="2.235" end="3.188" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="6" start="3.188" end="3.707" startframe="0" framelength="0" text="said"/>
+		<timing id="7" start="3.707" end="4.954" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="8" start="4.954" end="5.106" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="5.106" end="5.246" startframe="0" framelength="0" text="am"/>
+		<timing id="10" start="5.246" end="5.396" startframe="0" framelength="0" text="in"/>
+		<timing id="11" start="5.396" end="6.191" startframe="0" framelength="0" text="trouble"/>
+	</timings>
+</xml>

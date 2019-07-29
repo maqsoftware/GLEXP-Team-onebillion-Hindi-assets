@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="One day something fell on Sita’s head It was a very tiny book">
+		<timing id="0" start="0.006" end="0.441" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.441" end="0.677" startframe="0" framelength="0" text="day"/>
+		<timing id="2" start="0.677" end="1.288" startframe="0" framelength="0" text="something"/>
+		<timing id="3" start="1.288" end="1.735" startframe="0" framelength="0" text="fell"/>
+		<timing id="4" start="1.735" end="1.953" startframe="0" framelength="0" text="on"/>
+		<timing id="5" start="1.953" end="2.696" startframe="0" framelength="0" text="Sita’s"/>
+		<timing id="6" start="2.696" end="3.559" startframe="0" framelength="0" text="head"/>
+		<timing id="7" start="3.559" end="3.778" startframe="0" framelength="0" text="It"/>
+		<timing id="8" start="3.778" end="4.029" startframe="0" framelength="0" text="was"/>
+		<timing id="9" start="4.029" end="4.079" startframe="0" framelength="0" text="a"/>
+		<timing id="10" start="4.079" end="4.515" startframe="0" framelength="0" text="very"/>
+		<timing id="11" start="4.515" end="5.02" startframe="0" framelength="0" text="tiny"/>
+		<timing id="12" start="5.02" end="5.642333333333333" startframe="0" framelength="0" text="book"/>
+	</timings>
+</xml>

@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="As Dipti washes the first chicken’s head and beak the chicken goes quiet and floppy The same thing happens to the other chickens">
+		<timing id="0" start="0.006" end="0.329" startframe="0" framelength="0" text="As"/>
+		<timing id="1" start="0.329" end="0.874" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="2" start="0.874" end="1.513" startframe="0" framelength="0" text="washes"/>
+		<timing id="3" start="1.513" end="1.635" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.635" end="2.225" startframe="0" framelength="0" text="first"/>
+		<timing id="5" start="2.225" end="2.897" startframe="0" framelength="0" text="chicken’s"/>
+		<timing id="6" start="2.897" end="3.197" startframe="0" framelength="0" text="head"/>
+		<timing id="7" start="3.197" end="3.419" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="3.419" end="4.246" startframe="0" framelength="0" text="beak"/>
+		<timing id="9" start="4.246" end="4.427" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="4.427" end="4.945" startframe="0" framelength="0" text="chicken"/>
+		<timing id="11" start="4.945" end="5.331" startframe="0" framelength="0" text="goes"/>
+		<timing id="12" start="5.331" end="5.904" startframe="0" framelength="0" text="quiet"/>
+		<timing id="13" start="5.904" end="6.132" startframe="0" framelength="0" text="and"/>
+		<timing id="14" start="6.132" end="7.33" startframe="0" framelength="0" text="floppy"/>
+		<timing id="15" start="7.33" end="7.517" startframe="0" framelength="0" text="The"/>
+		<timing id="16" start="7.517" end="8.003" startframe="0" framelength="0" text="same"/>
+		<timing id="17" start="8.003" end="8.327" startframe="0" framelength="0" text="thing"/>
+		<timing id="18" start="8.327" end="9.017" startframe="0" framelength="0" text="happens"/>
+		<timing id="19" start="9.017" end="9.174" startframe="0" framelength="0" text="to"/>
+		<timing id="20" start="9.174" end="9.398" startframe="0" framelength="0" text="the"/>
+		<timing id="21" start="9.398" end="9.678" startframe="0" framelength="0" text="other"/>
+		<timing id="22" start="9.678" end="10.684" startframe="0" framelength="0" text="chickens"/>
+	</timings>
+</xml>

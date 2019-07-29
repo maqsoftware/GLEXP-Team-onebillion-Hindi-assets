@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Can I have a hammer and a big nail she asks">
+		<timing id="0" start="0.006" end="0.257" startframe="0" framelength="0" text="Can"/>
+		<timing id="1" start="0.257" end="0.419" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.419" end="0.74" startframe="0" framelength="0" text="have"/>
+		<timing id="3" start="0.74" end="0.79" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="0.79" end="1.393" startframe="0" framelength="0" text="hammer"/>
+		<timing id="5" start="1.393" end="1.623" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="1.623" end="1.661" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="1.661" end="2.01" startframe="0" framelength="0" text="big"/>
+		<timing id="8" start="2.01" end="2.915" startframe="0" framelength="0" text="nail"/>
+		<timing id="9" start="2.915" end="3.353" startframe="0" framelength="0" text="she"/>
+		<timing id="10" start="3.353" end="4.362333333333333" startframe="0" framelength="0" text="asks"/>
+	</timings>
+</xml>

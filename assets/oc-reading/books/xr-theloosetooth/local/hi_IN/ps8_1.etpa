@@ -1,0 +1,34 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="One <break time="500ms"/> two <break time="500ms"/> three <break time="500ms"/> Harita <break time="500ms"/> throws <break time="500ms"/> the <break time="500ms"/> charcoal <break time="500ms"/> onto <break time="500ms"/> the <break time="500ms"/> roof <break time="500ms"/> and <break time="500ms"/> makes <break time="500ms"/> a <break time="500ms"/> wish <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.836" startframe="0" framelength="0" text="One"/>
+		<timing id="1" start="0.836" end="1.429" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.429" end="2.028" startframe="0" framelength="0" text="two"/>
+		<timing id="3" start="2.028" end="2.628" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.628" end="3.316" startframe="0" framelength="0" text="three"/>
+		<timing id="5" start="3.316" end="4.203" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.203" end="5.139" startframe="0" framelength="0" text="Harita"/>
+		<timing id="7" start="5.139" end="5.74" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.74" end="6.588" startframe="0" framelength="0" text="throws"/>
+		<timing id="9" start="6.588" end="7.188" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.188" end="7.82" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="7.82" end="8.42" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.42" end="9.502" startframe="0" framelength="0" text="charcoal"/>
+		<timing id="13" start="9.502" end="10.102" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.102" end="10.889" startframe="0" framelength="0" text="onto"/>
+		<timing id="15" start="10.889" end="11.489" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.489" end="12.194" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="12.194" end="12.794" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.794" end="13.597" startframe="0" framelength="0" text="roof"/>
+		<timing id="19" start="13.597" end="14.192" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.192" end="14.832" startframe="0" framelength="0" text="and"/>
+		<timing id="21" start="14.832" end="15.433" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.433" end="16.279" startframe="0" framelength="0" text="makes"/>
+		<timing id="23" start="16.279" end="16.879" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.879" end="17.481" startframe="0" framelength="0" text="a"/>
+		<timing id="25" start="17.481" end="18.074" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="18.074" end="18.812" startframe="0" framelength="0" text="wish"/>
+		<timing id="27" start="18.812" end="19.382833333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

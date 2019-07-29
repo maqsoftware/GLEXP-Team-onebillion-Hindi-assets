@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Finally the wind slows down I am still spinning">
+		<timing id="0" start="0.006" end="0.843" startframe="0" framelength="0" text="Finally"/>
+		<timing id="1" start="0.843" end="1.012" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="1.012" end="1.426" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="1.426" end="2.014" startframe="0" framelength="0" text="slows"/>
+		<timing id="4" start="2.014" end="2.524" startframe="0" framelength="0" text="down"/>
+		<timing id="5" start="2.524" end="2.747" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.747" end="2.903" startframe="0" framelength="0" text="am"/>
+		<timing id="7" start="2.903" end="3.323" startframe="0" framelength="0" text="still"/>
+		<timing id="8" start="3.323" end="4.284" startframe="0" framelength="0" text="spinning"/>
+	</timings>
+</xml>

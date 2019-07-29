@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-rainEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>Rain!</para>
+	</page>
+	<page pageno="1">
+		<para>It is rain/ing.</para>
+	</page>
+	<page pageno="2">
+		<para>A/dit/ya loves the rain.</para>
+	</page>
+	<page pageno="3">
+		<para>His clothes are wet.</para>
+	</page>
+	<page pageno="4">
+		<para>His shoes are wet.</para>
+	</page>
+	<page pageno="5">
+		<para>His hair is wet.</para>
+	</page>
+	<page pageno="6">
+		<para>His school bag is wet.</para>
+	</page>
+	<page pageno="7">
+		<para>Mum is cross. </para>
+	</page>
+	<page pageno="8">
+		<para>It has stopped rain/ing.</para>
+	</page>
+</book>

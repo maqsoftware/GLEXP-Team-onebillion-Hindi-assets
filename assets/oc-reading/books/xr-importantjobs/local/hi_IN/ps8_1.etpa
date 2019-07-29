@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="So they all think that their job is the most important">
+		<timing id="0" start="0.006" end="0.296" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.296" end="0.55" startframe="0" framelength="0" text="they"/>
+		<timing id="2" start="0.55" end="0.826" startframe="0" framelength="0" text="all"/>
+		<timing id="3" start="0.826" end="1.226" startframe="0" framelength="0" text="think"/>
+		<timing id="4" start="1.226" end="1.479" startframe="0" framelength="0" text="that"/>
+		<timing id="5" start="1.479" end="1.725" startframe="0" framelength="0" text="their"/>
+		<timing id="6" start="1.725" end="2.224" startframe="0" framelength="0" text="job"/>
+		<timing id="7" start="2.224" end="2.41" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="2.41" end="2.531" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="2.531" end="3.037" startframe="0" framelength="0" text="most"/>
+		<timing id="10" start="3.037" end="3.9705" startframe="0" framelength="0" text="important"/>
+	</timings>
+</xml>

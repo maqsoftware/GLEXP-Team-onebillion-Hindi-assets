@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She pulls a sock from the clothes line Dad will be cross when he sees what she’s done to it">
+		<timing id="0" start="0.006" end="0.283" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.283" end="0.701" startframe="0" framelength="0" text="pulls"/>
+		<timing id="2" start="0.701" end="0.768" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.768" end="1.187" startframe="0" framelength="0" text="sock"/>
+		<timing id="4" start="1.187" end="1.507" startframe="0" framelength="0" text="from"/>
+		<timing id="5" start="1.507" end="1.612" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.612" end="2.2" startframe="0" framelength="0" text="clothes"/>
+		<timing id="7" start="2.2" end="3.19" startframe="0" framelength="0" text="line"/>
+		<timing id="8" start="3.19" end="3.671" startframe="0" framelength="0" text="Dad"/>
+		<timing id="9" start="3.671" end="3.887" startframe="0" framelength="0" text="will"/>
+		<timing id="10" start="3.887" end="4.078" startframe="0" framelength="0" text="be"/>
+		<timing id="11" start="4.078" end="4.557" startframe="0" framelength="0" text="cross"/>
+		<timing id="12" start="4.557" end="4.795" startframe="0" framelength="0" text="when"/>
+		<timing id="13" start="4.795" end="4.987" startframe="0" framelength="0" text="he"/>
+		<timing id="14" start="4.987" end="5.467" startframe="0" framelength="0" text="sees"/>
+		<timing id="15" start="5.467" end="5.748" startframe="0" framelength="0" text="what"/>
+		<timing id="16" start="5.748" end="6.238" startframe="0" framelength="0" text="she’s"/>
+		<timing id="17" start="6.238" end="6.563" startframe="0" framelength="0" text="done"/>
+		<timing id="18" start="6.563" end="6.731" startframe="0" framelength="0" text="to"/>
+		<timing id="19" start="6.731" end="7.288166666666666" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

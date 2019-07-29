@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="O lym pic">
+		<timing id="0" start="0.006" end="0.664" startframe="0" framelength="0" text="O"/>
+		<timing id="1" start="0.664" end="1.358" startframe="0" framelength="0" text="lym"/>
+		<timing id="2" start="1.358" end="1.9068333333333334" startframe="0" framelength="0" text="pic"/>
+	</timings>
+</xml>

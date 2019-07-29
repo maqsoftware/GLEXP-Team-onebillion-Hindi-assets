@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="But we must wait until tomorrow for the surprise">
+		<timing id="0" start="0.006" end="0.332" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.332" end="0.535" startframe="0" framelength="0" text="we"/>
+		<timing id="2" start="0.535" end="0.974" startframe="0" framelength="0" text="must"/>
+		<timing id="3" start="0.974" end="1.337" startframe="0" framelength="0" text="wait"/>
+		<timing id="4" start="1.337" end="1.734" startframe="0" framelength="0" text="until"/>
+		<timing id="5" start="1.734" end="2.35" startframe="0" framelength="0" text="tomorrow"/>
+		<timing id="6" start="2.35" end="2.634" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="2.634" end="2.732" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.732" end="3.7876666666666665" startframe="0" framelength="0" text="surprise"/>
+	</timings>
+</xml>

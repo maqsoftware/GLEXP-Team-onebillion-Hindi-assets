@@ -1,0 +1,54 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mr <break time="500ms"/> Arjun <break time="500ms"/> was <break time="500ms"/> smiling <break time="500ms"/> Thank <break time="500ms"/> you <break time="500ms"/> for <break time="500ms"/> giving <break time="500ms"/> me <break time="500ms"/> my <break time="500ms"/> money <break time="500ms"/> back <break time="500ms"/> he <break time="500ms"/> said <break time="500ms"/> You <break time="500ms"/> are <break time="500ms"/> good <break time="500ms"/> children <break time="500ms"/> I <break time="500ms"/> have <break time="500ms"/> brought <break time="500ms"/> you <break time="500ms"/> a <break time="500ms"/> present <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.944" startframe="0" framelength="0" text="Mr"/>
+		<timing id="1" start="0.944" end="1.544" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.544" end="2.331" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="3" start="2.331" end="2.931" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.931" end="3.932" startframe="0" framelength="0" text="was"/>
+		<timing id="5" start="3.932" end="4.532" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.532" end="5.556" startframe="0" framelength="0" text="smiling"/>
+		<timing id="7" start="5.556" end="6.443" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.443" end="7.35" startframe="0" framelength="0" text="Thank"/>
+		<timing id="9" start="7.35" end="7.951" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.951" end="8.55" startframe="0" framelength="0" text="you"/>
+		<timing id="11" start="8.55" end="9.144" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="9.144" end="9.865" startframe="0" framelength="0" text="for"/>
+		<timing id="13" start="9.865" end="10.465" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.465" end="11.416" startframe="0" framelength="0" text="giving"/>
+		<timing id="15" start="11.416" end="12.016" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="12.016" end="12.629" startframe="0" framelength="0" text="me"/>
+		<timing id="17" start="12.629" end="13.223" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="13.223" end="13.886" startframe="0" framelength="0" text="my"/>
+		<timing id="19" start="13.886" end="14.486" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.486" end="15.297" startframe="0" framelength="0" text="money"/>
+		<timing id="21" start="15.297" end="15.891" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.891" end="16.65" startframe="0" framelength="0" text="back"/>
+		<timing id="23" start="16.65" end="17.25" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="17.25" end="17.8" startframe="0" framelength="0" text="he"/>
+		<timing id="25" start="17.8" end="18.4" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="18.4" end="19.019" startframe="0" framelength="0" text="said"/>
+		<timing id="27" start="19.019" end="19.905" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="28" start="19.905" end="20.73" startframe="0" framelength="0" text="You"/>
+		<timing id="29" start="20.73" end="21.33" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="30" start="21.33" end="22.051" startframe="0" framelength="0" text="are"/>
+		<timing id="31" start="22.051" end="22.651" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="32" start="22.651" end="23.332" startframe="0" framelength="0" text="good"/>
+		<timing id="33" start="23.332" end="23.925" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="34" start="23.925" end="24.727" startframe="0" framelength="0" text="children"/>
+		<timing id="35" start="24.727" end="25.614" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="36" start="25.614" end="26.123" startframe="0" framelength="0" text="I"/>
+		<timing id="37" start="26.123" end="26.723" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="38" start="26.723" end="27.449" startframe="0" framelength="0" text="have"/>
+		<timing id="39" start="27.449" end="28.049" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="40" start="28.049" end="28.845" startframe="0" framelength="0" text="brought"/>
+		<timing id="41" start="28.845" end="29.446" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="42" start="29.446" end="30.27" startframe="0" framelength="0" text="you"/>
+		<timing id="43" start="30.27" end="30.871" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="44" start="30.871" end="31.472" startframe="0" framelength="0" text="a"/>
+		<timing id="45" start="31.472" end="32.072" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="46" start="32.072" end="33.011" startframe="0" framelength="0" text="present"/>
+		<timing id="47" start="33.011" end="33.56733333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

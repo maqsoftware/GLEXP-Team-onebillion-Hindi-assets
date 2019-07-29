@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They laugh and laugh with their mouths open and their chins shaking Happy tears roll down their cheeks They hug each other">
+		<timing id="0" start="0.006" end="0.25" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.25" end="0.729" startframe="0" framelength="0" text="laugh"/>
+		<timing id="2" start="0.729" end="0.905" startframe="0" framelength="0" text="and"/>
+		<timing id="3" start="0.905" end="1.773" startframe="0" framelength="0" text="laugh"/>
+		<timing id="4" start="1.773" end="2.07" startframe="0" framelength="0" text="with"/>
+		<timing id="5" start="2.07" end="2.284" startframe="0" framelength="0" text="their"/>
+		<timing id="6" start="2.284" end="2.866" startframe="0" framelength="0" text="mouths"/>
+		<timing id="7" start="2.866" end="3.359" startframe="0" framelength="0" text="open"/>
+		<timing id="8" start="3.359" end="3.614" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="3.614" end="3.814" startframe="0" framelength="0" text="their"/>
+		<timing id="10" start="3.814" end="4.259" startframe="0" framelength="0" text="chins"/>
+		<timing id="11" start="4.259" end="5.536" startframe="0" framelength="0" text="shaking"/>
+		<timing id="12" start="5.536" end="6.09" startframe="0" framelength="0" text="Happy"/>
+		<timing id="13" start="6.09" end="6.634" startframe="0" framelength="0" text="tears"/>
+		<timing id="14" start="6.634" end="6.926" startframe="0" framelength="0" text="roll"/>
+		<timing id="15" start="6.926" end="7.278" startframe="0" framelength="0" text="down"/>
+		<timing id="16" start="7.278" end="7.5" startframe="0" framelength="0" text="their"/>
+		<timing id="17" start="7.5" end="8.767" startframe="0" framelength="0" text="cheeks"/>
+		<timing id="18" start="8.767" end="8.966" startframe="0" framelength="0" text="They"/>
+		<timing id="19" start="8.966" end="9.4" startframe="0" framelength="0" text="hug"/>
+		<timing id="20" start="9.4" end="9.721" startframe="0" framelength="0" text="each"/>
+		<timing id="21" start="9.721" end="10.292166666666667" startframe="0" framelength="0" text="other"/>
+	</timings>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Now it is fixed But look It is growing bigger and bigger">
+		<timing id="0" start="0.006" end="0.431" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.431" end="0.605" startframe="0" framelength="0" text="it"/>
+		<timing id="2" start="0.605" end="0.808" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.808" end="1.996" startframe="0" framelength="0" text="fixed"/>
+		<timing id="4" start="1.996" end="2.335" startframe="0" framelength="0" text="But"/>
+		<timing id="5" start="2.335" end="3.282" startframe="0" framelength="0" text="look"/>
+		<timing id="6" start="3.282" end="3.48" startframe="0" framelength="0" text="It"/>
+		<timing id="7" start="3.48" end="3.67" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.67" end="4.175" startframe="0" framelength="0" text="growing"/>
+		<timing id="9" start="4.175" end="4.591" startframe="0" framelength="0" text="bigger"/>
+		<timing id="10" start="4.591" end="4.789" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="4.789" end="5.485666666666667" startframe="0" framelength="0" text="bigger"/>
+	</timings>
+</xml>

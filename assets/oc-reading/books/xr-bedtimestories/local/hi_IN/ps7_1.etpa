@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Alekhya loves to fly She travels far and wide">
+		<timing id="0" start="0.006" end="0.786" startframe="0" framelength="0" text="Alekhya"/>
+		<timing id="1" start="0.786" end="1.253" startframe="0" framelength="0" text="loves"/>
+		<timing id="2" start="1.253" end="1.378" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.378" end="2.419" startframe="0" framelength="0" text="fly"/>
+		<timing id="4" start="2.419" end="2.73" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="2.73" end="3.504" startframe="0" framelength="0" text="travels"/>
+		<timing id="6" start="3.504" end="3.878" startframe="0" framelength="0" text="far"/>
+		<timing id="7" start="3.878" end="4.074" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="4.074" end="4.780333333333333" startframe="0" framelength="0" text="wide"/>
+	</timings>
+</xml>

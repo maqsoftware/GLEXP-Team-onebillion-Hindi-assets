@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What did you wish for asks Aditya It’s a secret says Harita">
+		<timing id="0" start="0.006" end="0.389" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.389" end="0.625" startframe="0" framelength="0" text="did"/>
+		<timing id="2" start="0.625" end="0.806" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="0.806" end="1.156" startframe="0" framelength="0" text="wish"/>
+		<timing id="4" start="1.156" end="2.024" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="2.024" end="2.638" startframe="0" framelength="0" text="asks"/>
+		<timing id="6" start="2.638" end="3.723" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="7" start="3.723" end="3.986" startframe="0" framelength="0" text="It’s"/>
+		<timing id="8" start="3.986" end="4.039" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="4.039" end="5.113" startframe="0" framelength="0" text="secret"/>
+		<timing id="10" start="5.113" end="5.692" startframe="0" framelength="0" text="says"/>
+		<timing id="11" start="5.692" end="6.556666666666667" startframe="0" framelength="0" text="Harita"/>
+	</timings>
+</xml>

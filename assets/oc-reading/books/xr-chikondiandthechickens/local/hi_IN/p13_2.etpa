@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="At the other tables people begin to giggle Then they laugh out loud They laugh so much they can hardly breathe">
+		<timing id="0" start="0.006" end="0.317" startframe="0" framelength="0" text="At"/>
+		<timing id="1" start="0.317" end="0.586" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.586" end="0.891" startframe="0" framelength="0" text="other"/>
+		<timing id="3" start="0.891" end="1.943" startframe="0" framelength="0" text="tables"/>
+		<timing id="4" start="1.943" end="2.378" startframe="0" framelength="0" text="people"/>
+		<timing id="5" start="2.378" end="2.82" startframe="0" framelength="0" text="begin"/>
+		<timing id="6" start="2.82" end="3.002" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="3.002" end="4.106" startframe="0" framelength="0" text="giggle"/>
+		<timing id="8" start="4.106" end="4.403" startframe="0" framelength="0" text="Then"/>
+		<timing id="9" start="4.403" end="4.581" startframe="0" framelength="0" text="they"/>
+		<timing id="10" start="4.581" end="5.065" startframe="0" framelength="0" text="laugh"/>
+		<timing id="11" start="5.065" end="5.362" startframe="0" framelength="0" text="out"/>
+		<timing id="12" start="5.362" end="6.333" startframe="0" framelength="0" text="loud"/>
+		<timing id="13" start="6.333" end="6.577" startframe="0" framelength="0" text="They"/>
+		<timing id="14" start="6.577" end="7.021" startframe="0" framelength="0" text="laugh"/>
+		<timing id="15" start="7.021" end="7.282" startframe="0" framelength="0" text="so"/>
+		<timing id="16" start="7.282" end="7.693" startframe="0" framelength="0" text="much"/>
+		<timing id="17" start="7.693" end="7.862" startframe="0" framelength="0" text="they"/>
+		<timing id="18" start="7.862" end="8.131" startframe="0" framelength="0" text="can"/>
+		<timing id="19" start="8.131" end="8.649" startframe="0" framelength="0" text="hardly"/>
+		<timing id="20" start="8.649" end="9.378" startframe="0" framelength="0" text="breathe"/>
+	</timings>
+</xml>

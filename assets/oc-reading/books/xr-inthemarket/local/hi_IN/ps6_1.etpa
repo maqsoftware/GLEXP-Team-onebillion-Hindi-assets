@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They buy a notebook for Deeksha">
+		<timing id="0" start="0.006" end="0.29" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.29" end="0.643" startframe="0" framelength="0" text="buy"/>
+		<timing id="2" start="0.643" end="0.69" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.69" end="1.402" startframe="0" framelength="0" text="notebook"/>
+		<timing id="4" start="1.402" end="1.65" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="1.65" end="2.5338333333333334" startframe="0" framelength="0" text="Deeksha"/>
+	</timings>
+</xml>

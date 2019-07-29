@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No I found it said Aditya Then the children turned and ran">
+		<timing id="0" start="0.006" end="0.99" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.99" end="1.206" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="1.206" end="1.727" startframe="0" framelength="0" text="found"/>
+		<timing id="3" start="1.727" end="2.351" startframe="0" framelength="0" text="it"/>
+		<timing id="4" start="2.351" end="2.871" startframe="0" framelength="0" text="said"/>
+		<timing id="5" start="2.871" end="4.117" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="6" start="4.117" end="4.424" startframe="0" framelength="0" text="Then"/>
+		<timing id="7" start="4.424" end="4.53" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="4.53" end="5.194" startframe="0" framelength="0" text="children"/>
+		<timing id="9" start="5.194" end="5.618" startframe="0" framelength="0" text="turned"/>
+		<timing id="10" start="5.618" end="5.825" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="5.825" end="6.452166666666667" startframe="0" framelength="0" text="ran"/>
+	</timings>
+</xml>

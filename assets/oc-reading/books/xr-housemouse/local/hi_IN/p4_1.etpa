@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="That night Mouse dreams of bouncy barking dogs She can’t sleep next to the puppy">
+		<timing id="0" start="0.006" end="0.363" startframe="0" framelength="0" text="That"/>
+		<timing id="1" start="0.363" end="0.783" startframe="0" framelength="0" text="night"/>
+		<timing id="2" start="0.783" end="1.245" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="3" start="1.245" end="1.796" startframe="0" framelength="0" text="dreams"/>
+		<timing id="4" start="1.796" end="1.935" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.935" end="3.008" startframe="0" framelength="0" text="bouncy"/>
+		<timing id="6" start="3.008" end="3.674" startframe="0" framelength="0" text="barking"/>
+		<timing id="7" start="3.674" end="4.83" startframe="0" framelength="0" text="dogs"/>
+		<timing id="8" start="4.83" end="5.086" startframe="0" framelength="0" text="She"/>
+		<timing id="9" start="5.086" end="5.496" startframe="0" framelength="0" text="can’t"/>
+		<timing id="10" start="5.496" end="6.001" startframe="0" framelength="0" text="sleep"/>
+		<timing id="11" start="6.001" end="6.433" startframe="0" framelength="0" text="next"/>
+		<timing id="12" start="6.433" end="6.558" startframe="0" framelength="0" text="to"/>
+		<timing id="13" start="6.558" end="6.678" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="6.678" end="7.523166666666667" startframe="0" framelength="0" text="puppy"/>
+	</timings>
+</xml>

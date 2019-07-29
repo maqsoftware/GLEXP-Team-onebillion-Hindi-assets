@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Aditya looks under the bed The key is not there">
+		<timing id="0" start="0.006" end="0.625" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="0.625" end="1.06" startframe="0" framelength="0" text="looks"/>
+		<timing id="2" start="1.06" end="1.364" startframe="0" framelength="0" text="under"/>
+		<timing id="3" start="1.364" end="1.478" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.478" end="2.366" startframe="0" framelength="0" text="bed"/>
+		<timing id="5" start="2.366" end="2.538" startframe="0" framelength="0" text="The"/>
+		<timing id="6" start="2.538" end="2.881" startframe="0" framelength="0" text="key"/>
+		<timing id="7" start="2.881" end="3.103" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.103" end="3.459" startframe="0" framelength="0" text="not"/>
+		<timing id="9" start="3.459" end="4.075" startframe="0" framelength="0" text="there"/>
+	</timings>
+</xml>

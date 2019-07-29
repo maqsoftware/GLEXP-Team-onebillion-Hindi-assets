@@ -1,0 +1,34 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> wind <break time="500ms"/> is <break time="500ms"/> so <break time="500ms"/> strong <break time="500ms"/> I <break time="500ms"/> do <break time="500ms"/> not <break time="500ms"/> know <break time="500ms"/> where <break time="500ms"/> my <break time="500ms"/> kite <break time="500ms"/> is <break time="500ms"/> now <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.31" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.31" end="2.236" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="2.236" end="2.829" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.829" end="3.257" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="3.257" end="3.858" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.858" end="4.715" startframe="0" framelength="0" text="so"/>
+		<timing id="7" start="4.715" end="5.309" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.309" end="6.351" startframe="0" framelength="0" text="strong"/>
+		<timing id="9" start="6.351" end="6.948" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.948" end="7.582" startframe="0" framelength="0" text="I"/>
+		<timing id="11" start="7.582" end="8.182" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.182" end="9.017" startframe="0" framelength="0" text="do"/>
+		<timing id="13" start="9.017" end="9.617" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.617" end="10.454" startframe="0" framelength="0" text="not"/>
+		<timing id="15" start="10.454" end="11.054" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.054" end="11.748" startframe="0" framelength="0" text="know"/>
+		<timing id="17" start="11.748" end="12.343" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.343" end="13.269" startframe="0" framelength="0" text="where"/>
+		<timing id="19" start="13.269" end="13.863" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.863" end="14.617" startframe="0" framelength="0" text="my"/>
+		<timing id="21" start="14.617" end="15.217" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.217" end="16.089" startframe="0" framelength="0" text="kite"/>
+		<timing id="23" start="16.089" end="16.683" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.683" end="17.11" startframe="0" framelength="0" text="is"/>
+		<timing id="25" start="17.11" end="17.712" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="17.712" end="18.587" startframe="0" framelength="0" text="now"/>
+		<timing id="27" start="18.587" end="19.147666666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

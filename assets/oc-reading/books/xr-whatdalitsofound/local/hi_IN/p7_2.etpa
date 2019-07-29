@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Hello Sara What are you looking for asked Deeksha">
+		<timing id="0" start="0.006" end="0.501" startframe="0" framelength="0" text="Hello"/>
+		<timing id="1" start="0.501" end="1.65" startframe="0" framelength="0" text="Sara"/>
+		<timing id="2" start="1.65" end="2.038" startframe="0" framelength="0" text="What"/>
+		<timing id="3" start="2.038" end="2.159" startframe="0" framelength="0" text="are"/>
+		<timing id="4" start="2.159" end="2.361" startframe="0" framelength="0" text="you"/>
+		<timing id="5" start="2.361" end="2.815" startframe="0" framelength="0" text="looking"/>
+		<timing id="6" start="2.815" end="3.78" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="3.78" end="4.432" startframe="0" framelength="0" text="asked"/>
+		<timing id="8" start="4.432" end="5.329" startframe="0" framelength="0" text="Deeksha"/>
+	</timings>
+</xml>

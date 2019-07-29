@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Next we visit the shop We buy food to take home">
+		<timing id="0" start="0.006" end="1.0" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="1.0" end="1.231" startframe="0" framelength="0" text="we"/>
+		<timing id="2" start="1.231" end="1.694" startframe="0" framelength="0" text="visit"/>
+		<timing id="3" start="1.694" end="1.826" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.826" end="2.9" startframe="0" framelength="0" text="shop"/>
+		<timing id="5" start="2.9" end="3.114" startframe="0" framelength="0" text="We"/>
+		<timing id="6" start="3.114" end="3.442" startframe="0" framelength="0" text="buy"/>
+		<timing id="7" start="3.442" end="3.812" startframe="0" framelength="0" text="food"/>
+		<timing id="8" start="3.812" end="3.964" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="3.964" end="4.402" startframe="0" framelength="0" text="take"/>
+		<timing id="10" start="4.402" end="5.0155" startframe="0" framelength="0" text="home"/>
+	</timings>
+</xml>

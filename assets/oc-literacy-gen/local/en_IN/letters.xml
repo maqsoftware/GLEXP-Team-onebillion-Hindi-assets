@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<letters>
+	<letter id="a" tags="vowel"></letter>
+    <letter id="b"></letter>
+    <letter id="c"></letter>
+    <letter id="d"></letter>
+    <letter id="e" tags="vowel"></letter>
+    <letter id="f"></letter>
+    <letter id="g"></letter>
+    <letter id="h"></letter>
+    <letter id="i" tags="vowel"></letter>
+    <letter id="j"></letter>
+    <letter id="k"></letter>
+    <letter id="l"></letter>
+    <letter id="m"></letter>
+    <letter id="n"></letter>
+    <letter id="o" tags="vowel"></letter>
+    <letter id="p"></letter>
+    <letter id="q"></letter>
+    <letter id="r" tags="repel=l"></letter>
+    <letter id="s"></letter>
+    <letter id="t"></letter>
+    <letter id="u" tags="vowel"></letter>
+    <letter id="v"></letter>
+    <letter id="w"></letter>
+    <letter id="x"></letter>
+    <letter id="y"></letter>
+    <letter id="z"></letter>
+</letters>

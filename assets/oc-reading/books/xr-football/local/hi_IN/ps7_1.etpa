@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The next day we come to the football field early">
+		<timing id="0" start="0.006" end="0.228" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.228" end="0.754" startframe="0" framelength="0" text="next"/>
+		<timing id="2" start="0.754" end="1.349" startframe="0" framelength="0" text="day"/>
+		<timing id="3" start="1.349" end="1.58" startframe="0" framelength="0" text="we"/>
+		<timing id="4" start="1.58" end="1.924" startframe="0" framelength="0" text="come"/>
+		<timing id="5" start="1.924" end="2.09" startframe="0" framelength="0" text="to"/>
+		<timing id="6" start="2.09" end="2.208" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.208" end="2.868" startframe="0" framelength="0" text="football"/>
+		<timing id="8" start="2.868" end="3.374" startframe="0" framelength="0" text="field"/>
+		<timing id="9" start="3.374" end="4.1535" startframe="0" framelength="0" text="early"/>
+	</timings>
+</xml>

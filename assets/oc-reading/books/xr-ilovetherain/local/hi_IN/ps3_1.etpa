@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I love the rain The rain gives us water">
+		<timing id="0" start="0.006" end="0.18" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.18" end="0.528" startframe="0" framelength="0" text="love"/>
+		<timing id="2" start="0.528" end="0.675" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.675" end="1.711" startframe="0" framelength="0" text="rain"/>
+		<timing id="4" start="1.711" end="1.841" startframe="0" framelength="0" text="The"/>
+		<timing id="5" start="1.841" end="2.288" startframe="0" framelength="0" text="rain"/>
+		<timing id="6" start="2.288" end="2.651" startframe="0" framelength="0" text="gives"/>
+		<timing id="7" start="2.651" end="2.894" startframe="0" framelength="0" text="us"/>
+		<timing id="8" start="2.894" end="3.578666666666667" startframe="0" framelength="0" text="water"/>
+	</timings>
+</xml>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I’m looking for my house Tortoise replied Have you seen it">
+		<timing id="0" start="0.006" end="0.266" startframe="0" framelength="0" text="I’m"/>
+		<timing id="1" start="0.266" end="0.749" startframe="0" framelength="0" text="looking"/>
+		<timing id="2" start="0.749" end="1.047" startframe="0" framelength="0" text="for"/>
+		<timing id="3" start="1.047" end="1.24" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.24" end="2.288" startframe="0" framelength="0" text="house"/>
+		<timing id="5" start="2.288" end="3.007" startframe="0" framelength="0" text="Tortoise"/>
+		<timing id="6" start="3.007" end="4.396" startframe="0" framelength="0" text="replied"/>
+		<timing id="7" start="4.396" end="4.783" startframe="0" framelength="0" text="Have"/>
+		<timing id="8" start="4.783" end="4.941" startframe="0" framelength="0" text="you"/>
+		<timing id="9" start="4.941" end="5.427" startframe="0" framelength="0" text="seen"/>
+		<timing id="10" start="5.427" end="5.929833333333334" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

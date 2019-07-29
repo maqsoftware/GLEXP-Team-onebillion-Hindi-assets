@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Next <break time="500ms"/> Deeksha <break time="500ms"/> needs <break time="500ms"/> cord <break time="500ms"/> Sai’s <break time="500ms"/> mum <break time="500ms"/> has <break time="500ms"/> some <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.927" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="0.927" end="1.527" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.527" end="2.533" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="3" start="2.533" end="3.127" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.127" end="3.997" startframe="0" framelength="0" text="needs"/>
+		<timing id="5" start="3.997" end="4.59" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.59" end="5.131" startframe="0" framelength="0" text="cord"/>
+		<timing id="7" start="5.131" end="6.018" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.018" end="6.99" startframe="0" framelength="0" text="Sai’s"/>
+		<timing id="9" start="6.99" end="7.583" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.583" end="8.321" startframe="0" framelength="0" text="mum"/>
+		<timing id="11" start="8.321" end="8.921" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.921" end="9.81" startframe="0" framelength="0" text="has"/>
+		<timing id="13" start="9.81" end="10.41" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.41" end="11.026" startframe="0" framelength="0" text="some"/>
+		<timing id="15" start="11.026" end="11.598333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

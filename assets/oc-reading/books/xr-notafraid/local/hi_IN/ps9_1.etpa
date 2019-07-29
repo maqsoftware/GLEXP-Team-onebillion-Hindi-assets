@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It is only my mother She has come home from work">
+		<timing id="0" start="0.006" end="0.194" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.194" end="0.375" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.375" end="0.725" startframe="0" framelength="0" text="only"/>
+		<timing id="3" start="0.725" end="0.904" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="0.904" end="1.958" startframe="0" framelength="0" text="mother"/>
+		<timing id="5" start="1.958" end="2.288" startframe="0" framelength="0" text="She"/>
+		<timing id="6" start="2.288" end="2.632" startframe="0" framelength="0" text="has"/>
+		<timing id="7" start="2.632" end="2.923" startframe="0" framelength="0" text="come"/>
+		<timing id="8" start="2.923" end="3.292" startframe="0" framelength="0" text="home"/>
+		<timing id="9" start="3.292" end="3.611" startframe="0" framelength="0" text="from"/>
+		<timing id="10" start="3.611" end="4.362333333333333" startframe="0" framelength="0" text="work"/>
+	</timings>
+</xml>

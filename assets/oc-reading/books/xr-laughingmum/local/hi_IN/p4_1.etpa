@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She jumps over the stream">
+		<timing id="0" start="0.006" end="0.282" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.282" end="0.831" startframe="0" framelength="0" text="jumps"/>
+		<timing id="2" start="0.831" end="1.11" startframe="0" framelength="0" text="over"/>
+		<timing id="3" start="1.11" end="1.24" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.24" end="2.0113333333333334" startframe="0" framelength="0" text="stream"/>
+	</timings>
+</xml>

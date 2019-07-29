@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What are you searching for Sparrow called to them">
+		<timing id="0" start="0.006" end="0.45" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.45" end="0.598" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.598" end="0.775" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="0.775" end="1.481" startframe="0" framelength="0" text="searching"/>
+		<timing id="4" start="1.481" end="2.518" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="2.518" end="3.262" startframe="0" framelength="0" text="Sparrow"/>
+		<timing id="6" start="3.262" end="3.719" startframe="0" framelength="0" text="called"/>
+		<timing id="7" start="3.719" end="3.893" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="3.893" end="4.519166666666667" startframe="0" framelength="0" text="them"/>
+	</timings>
+</xml>

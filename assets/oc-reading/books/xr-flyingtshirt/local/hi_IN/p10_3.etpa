@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What did you do to that T-shirt Now I must wash it again">
+		<timing id="0" start="0.006" end="0.331" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.331" end="0.578" startframe="0" framelength="0" text="did"/>
+		<timing id="2" start="0.578" end="0.714" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="0.714" end="0.982" startframe="0" framelength="0" text="do"/>
+		<timing id="4" start="0.982" end="1.132" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.132" end="1.394" startframe="0" framelength="0" text="that"/>
+		<timing id="6" start="1.394" end="2.628" startframe="0" framelength="0" text="T-shirt"/>
+		<timing id="7" start="2.628" end="3.083" startframe="0" framelength="0" text="Now"/>
+		<timing id="8" start="3.083" end="3.149" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="3.149" end="3.537" startframe="0" framelength="0" text="must"/>
+		<timing id="10" start="3.537" end="3.981" startframe="0" framelength="0" text="wash"/>
+		<timing id="11" start="3.981" end="4.145" startframe="0" framelength="0" text="it"/>
+		<timing id="12" start="4.145" end="4.858666666666666" startframe="0" framelength="0" text="again"/>
+	</timings>
+</xml>

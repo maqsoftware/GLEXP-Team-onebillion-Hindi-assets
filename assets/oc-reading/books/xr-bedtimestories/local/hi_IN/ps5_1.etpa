@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The little mouse lives in a king’s beard The king takes the mouse everywhere">
+		<timing id="0" start="0.006" end="0.256" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.256" end="0.687" startframe="0" framelength="0" text="little"/>
+		<timing id="2" start="0.687" end="1.175" startframe="0" framelength="0" text="mouse"/>
+		<timing id="3" start="1.175" end="1.459" startframe="0" framelength="0" text="lives"/>
+		<timing id="4" start="1.459" end="1.561" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.561" end="1.619" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="1.619" end="2.111" startframe="0" framelength="0" text="king’s"/>
+		<timing id="7" start="2.111" end="3.137" startframe="0" framelength="0" text="beard"/>
+		<timing id="8" start="3.137" end="3.297" startframe="0" framelength="0" text="The"/>
+		<timing id="9" start="3.297" end="3.701" startframe="0" framelength="0" text="king"/>
+		<timing id="10" start="3.701" end="4.158" startframe="0" framelength="0" text="takes"/>
+		<timing id="11" start="4.158" end="4.275" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="4.275" end="4.799" startframe="0" framelength="0" text="mouse"/>
+		<timing id="13" start="4.799" end="5.773" startframe="0" framelength="0" text="everywhere"/>
+	</timings>
+</xml>

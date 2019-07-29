@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They look behind the bush">
+		<timing id="0" start="0.006" end="0.289" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.289" end="0.703" startframe="0" framelength="0" text="look"/>
+		<timing id="2" start="0.703" end="1.32" startframe="0" framelength="0" text="behind"/>
+		<timing id="3" start="1.32" end="1.429" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.429" end="2.2986666666666666" startframe="0" framelength="0" text="bush"/>
+	</timings>
+</xml>

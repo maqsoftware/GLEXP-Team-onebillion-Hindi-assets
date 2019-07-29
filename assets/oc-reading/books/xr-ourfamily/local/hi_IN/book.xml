@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="xr-ourfamilyEN" indent="N" lineheight="1.5" paraheight="1.33" letterspacing="1" fontsize="50" noparas="true">
+	<page pageno="0">
+		<para>Our fam/i/ly</para>
+	</page>
+	<page pageno="1">
+		<para>Hel/lo. I am Dee/ksha.</para>
+	</page>
+	<page pageno="2">
+		<para>This is mum.</para>
+	</page>
+	<page pageno="3">
+		<para>This is dad.</para>
+	</page>
+	<page pageno="4">
+		<para>This is grand/ma.</para>
+	</page>
+	<page pageno="5">
+		<para>This is my broth/er, A/dit/ya.</para>
+	</page>
+	<page pageno="6">
+		<para>This is my sis/ter, Ha/ri/ta.</para>
+	</page>
+	<page pageno="7">
+		<para>This is our house.</para>
+	</page>
+	<page pageno="8">
+		<para>We have a goat and a dog.</para>
+	</page>
+</book>

@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Grandma I will brush my new tooth every day says Harita Grandma smiles">
+		<timing id="0" start="0.006" end="1.089" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="1.089" end="1.31" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="1.31" end="1.59" startframe="0" framelength="0" text="will"/>
+		<timing id="3" start="1.59" end="2.091" startframe="0" framelength="0" text="brush"/>
+		<timing id="4" start="2.091" end="2.299" startframe="0" framelength="0" text="my"/>
+		<timing id="5" start="2.299" end="2.553" startframe="0" framelength="0" text="new"/>
+		<timing id="6" start="2.553" end="2.967" startframe="0" framelength="0" text="tooth"/>
+		<timing id="7" start="2.967" end="3.344" startframe="0" framelength="0" text="every"/>
+		<timing id="8" start="3.344" end="4.074" startframe="0" framelength="0" text="day"/>
+		<timing id="9" start="4.074" end="4.582" startframe="0" framelength="0" text="says"/>
+		<timing id="10" start="4.582" end="5.732" startframe="0" framelength="0" text="Harita"/>
+		<timing id="11" start="5.732" end="6.415" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="12" start="6.415" end="7.497166666666667" startframe="0" framelength="0" text="smiles"/>
+	</timings>
+</xml>

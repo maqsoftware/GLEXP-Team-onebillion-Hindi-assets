@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Dipti wants to help her mother She thinks I know what to do I will wash the chickens">
+		<timing id="0" start="0.006" end="0.601" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="1" start="0.601" end="1.074" startframe="0" framelength="0" text="wants"/>
+		<timing id="2" start="1.074" end="1.229" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="1.229" end="1.622" startframe="0" framelength="0" text="help"/>
+		<timing id="4" start="1.622" end="1.871" startframe="0" framelength="0" text="her"/>
+		<timing id="5" start="1.871" end="2.901" startframe="0" framelength="0" text="mother"/>
+		<timing id="6" start="2.901" end="3.235" startframe="0" framelength="0" text="She"/>
+		<timing id="7" start="3.235" end="4.289" startframe="0" framelength="0" text="thinks"/>
+		<timing id="8" start="4.289" end="4.494" startframe="0" framelength="0" text="I"/>
+		<timing id="9" start="4.494" end="4.802" startframe="0" framelength="0" text="know"/>
+		<timing id="10" start="4.802" end="5.124" startframe="0" framelength="0" text="what"/>
+		<timing id="11" start="5.124" end="5.369" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="5.369" end="6.318" startframe="0" framelength="0" text="do"/>
+		<timing id="13" start="6.318" end="6.524" startframe="0" framelength="0" text="I"/>
+		<timing id="14" start="6.524" end="6.74" startframe="0" framelength="0" text="will"/>
+		<timing id="15" start="6.74" end="7.158" startframe="0" framelength="0" text="wash"/>
+		<timing id="16" start="7.158" end="7.285" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="7.285" end="8.306833333333334" startframe="0" framelength="0" text="chickens"/>
+	</timings>
+</xml>

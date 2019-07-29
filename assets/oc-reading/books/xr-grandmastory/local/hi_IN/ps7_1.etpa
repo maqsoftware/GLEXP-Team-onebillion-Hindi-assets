@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Eventually they arrived at the monster’s cave The monster pushed Divya into a cage">
+		<timing id="0" start="0.006" end="0.774" startframe="0" framelength="0" text="Eventually"/>
+		<timing id="1" start="0.774" end="0.967" startframe="0" framelength="0" text="they"/>
+		<timing id="2" start="0.967" end="1.497" startframe="0" framelength="0" text="arrived"/>
+		<timing id="3" start="1.497" end="1.673" startframe="0" framelength="0" text="at"/>
+		<timing id="4" start="1.673" end="1.781" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.781" end="2.581" startframe="0" framelength="0" text="monster’s"/>
+		<timing id="6" start="2.581" end="3.611" startframe="0" framelength="0" text="cave"/>
+		<timing id="7" start="3.611" end="3.754" startframe="0" framelength="0" text="The"/>
+		<timing id="8" start="3.754" end="4.353" startframe="0" framelength="0" text="monster"/>
+		<timing id="9" start="4.353" end="4.97" startframe="0" framelength="0" text="pushed"/>
+		<timing id="10" start="4.97" end="5.546" startframe="0" framelength="0" text="Divya"/>
+		<timing id="11" start="5.546" end="6.014" startframe="0" framelength="0" text="into"/>
+		<timing id="12" start="6.014" end="6.079" startframe="0" framelength="0" text="a"/>
+		<timing id="13" start="6.079" end="6.870166666666667" startframe="0" framelength="0" text="cage"/>
+	</timings>
+</xml>

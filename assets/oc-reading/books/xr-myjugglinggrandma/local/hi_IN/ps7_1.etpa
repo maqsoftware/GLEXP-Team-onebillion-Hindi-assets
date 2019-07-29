@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Then he had an idea He bought Grandma a gift">
+		<timing id="0" start="0.006" end="0.291" startframe="0" framelength="0" text="Then"/>
+		<timing id="1" start="0.291" end="0.537" startframe="0" framelength="0" text="he"/>
+		<timing id="2" start="0.537" end="0.806" startframe="0" framelength="0" text="had"/>
+		<timing id="3" start="0.806" end="0.947" startframe="0" framelength="0" text="an"/>
+		<timing id="4" start="0.947" end="2.117" startframe="0" framelength="0" text="idea"/>
+		<timing id="5" start="2.117" end="2.289" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="2.289" end="2.687" startframe="0" framelength="0" text="bought"/>
+		<timing id="7" start="2.687" end="3.438" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="8" start="3.438" end="3.479" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="3.479" end="4.1795" startframe="0" framelength="0" text="gift"/>
+	</timings>
+</xml>

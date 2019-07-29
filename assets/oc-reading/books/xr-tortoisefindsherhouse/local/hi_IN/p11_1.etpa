@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Eeeek Tortoise cried She shrank back into her shell with fright">
+		<timing id="0" start="0.006" end="0.962" startframe="0" framelength="0" text="Eeeek"/>
+		<timing id="1" start="0.962" end="1.675" startframe="0" framelength="0" text="Tortoise"/>
+		<timing id="2" start="1.675" end="2.817" startframe="0" framelength="0" text="cried"/>
+		<timing id="3" start="2.817" end="3.249" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="3.249" end="3.879" startframe="0" framelength="0" text="shrank"/>
+		<timing id="5" start="3.879" end="4.353" startframe="0" framelength="0" text="back"/>
+		<timing id="6" start="4.353" end="4.717" startframe="0" framelength="0" text="into"/>
+		<timing id="7" start="4.717" end="4.967" startframe="0" framelength="0" text="her"/>
+		<timing id="8" start="4.967" end="5.507" startframe="0" framelength="0" text="shell"/>
+		<timing id="9" start="5.507" end="5.817" startframe="0" framelength="0" text="with"/>
+		<timing id="10" start="5.817" end="6.791833333333333" startframe="0" framelength="0" text="fright"/>
+	</timings>
+</xml>

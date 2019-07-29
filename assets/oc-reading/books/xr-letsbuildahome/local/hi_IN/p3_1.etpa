@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Some people live in bamboo huts In some places the huts are on stilts">
+		<timing id="0" start="0.006" end="0.468" startframe="0" framelength="0" text="Some"/>
+		<timing id="1" start="0.468" end="1.048" startframe="0" framelength="0" text="people"/>
+		<timing id="2" start="1.048" end="1.347" startframe="0" framelength="0" text="live"/>
+		<timing id="3" start="1.347" end="1.541" startframe="0" framelength="0" text="in"/>
+		<timing id="4" start="1.541" end="2.217" startframe="0" framelength="0" text="bamboo"/>
+		<timing id="5" start="2.217" end="3.536" startframe="0" framelength="0" text="huts"/>
+		<timing id="6" start="3.536" end="3.771" startframe="0" framelength="0" text="In"/>
+		<timing id="7" start="3.771" end="4.163" startframe="0" framelength="0" text="some"/>
+		<timing id="8" start="4.163" end="5.493" startframe="0" framelength="0" text="places"/>
+		<timing id="9" start="5.493" end="5.683" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="5.683" end="6.234" startframe="0" framelength="0" text="huts"/>
+		<timing id="11" start="6.234" end="6.4" startframe="0" framelength="0" text="are"/>
+		<timing id="12" start="6.4" end="6.569" startframe="0" framelength="0" text="on"/>
+		<timing id="13" start="6.569" end="7.68" startframe="0" framelength="0" text="stilts"/>
+	</timings>
+</xml>

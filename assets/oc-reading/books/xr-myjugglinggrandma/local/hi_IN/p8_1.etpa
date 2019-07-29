@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Her very own set of juggling balls Grandma was so pleased">
+		<timing id="0" start="0.006" end="0.27" startframe="0" framelength="0" text="Her"/>
+		<timing id="1" start="0.27" end="0.702" startframe="0" framelength="0" text="very"/>
+		<timing id="2" start="0.702" end="0.992" startframe="0" framelength="0" text="own"/>
+		<timing id="3" start="0.992" end="1.383" startframe="0" framelength="0" text="set"/>
+		<timing id="4" start="1.383" end="1.596" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.596" end="2.198" startframe="0" framelength="0" text="juggling"/>
+		<timing id="6" start="2.198" end="3.378" startframe="0" framelength="0" text="balls"/>
+		<timing id="7" start="3.378" end="4.145" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="8" start="4.145" end="4.496" startframe="0" framelength="0" text="was"/>
+		<timing id="9" start="4.496" end="4.77" startframe="0" framelength="0" text="so"/>
+		<timing id="10" start="4.77" end="5.720833333333333" startframe="0" framelength="0" text="pleased"/>
+	</timings>
+</xml>

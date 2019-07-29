@@ -1,0 +1,8 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="thirst y">
+		<timing id="0" start="0.006" end="0.981" startframe="0" framelength="0" text="thirst"/>
+		<timing id="1" start="0.981" end="2.0375" startframe="0" framelength="0" text="y"/>
+	</timings>
+</xml>

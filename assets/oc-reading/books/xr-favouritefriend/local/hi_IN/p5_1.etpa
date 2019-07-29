@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I am Crocodile I feel bad because I can’t brush my teeth">
+		<timing id="0" start="0.006" end="0.296" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.296" end="0.484" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.484" end="2.083" startframe="0" framelength="0" text="Crocodile"/>
+		<timing id="3" start="2.083" end="2.278" startframe="0" framelength="0" text="I"/>
+		<timing id="4" start="2.278" end="2.663" startframe="0" framelength="0" text="feel"/>
+		<timing id="5" start="2.663" end="3.062" startframe="0" framelength="0" text="bad"/>
+		<timing id="6" start="3.062" end="3.496" startframe="0" framelength="0" text="because"/>
+		<timing id="7" start="3.496" end="3.645" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="3.645" end="4.173" startframe="0" framelength="0" text="can’t"/>
+		<timing id="9" start="4.173" end="4.574" startframe="0" framelength="0" text="brush"/>
+		<timing id="10" start="4.574" end="4.776" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.776" end="5.381166666666667" startframe="0" framelength="0" text="teeth"/>
+	</timings>
+</xml>

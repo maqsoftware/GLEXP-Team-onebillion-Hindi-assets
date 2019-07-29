@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Rahul and his dog set off with the cows to find grass">
+		<timing id="0" start="0.006" end="0.545" startframe="0" framelength="0" text="Rahul"/>
+		<timing id="1" start="0.545" end="0.725" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.725" end="0.953" startframe="0" framelength="0" text="his"/>
+		<timing id="3" start="0.953" end="1.325" startframe="0" framelength="0" text="dog"/>
+		<timing id="4" start="1.325" end="1.72" startframe="0" framelength="0" text="set"/>
+		<timing id="5" start="1.72" end="2.231" startframe="0" framelength="0" text="off"/>
+		<timing id="6" start="2.231" end="2.361" startframe="0" framelength="0" text="with"/>
+		<timing id="7" start="2.361" end="2.484" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.484" end="3.019" startframe="0" framelength="0" text="cows"/>
+		<timing id="9" start="3.019" end="3.145" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="3.145" end="3.709" startframe="0" framelength="0" text="find"/>
+		<timing id="11" start="3.709" end="4.5713333333333335" startframe="0" framelength="0" text="grass"/>
+	</timings>
+</xml>

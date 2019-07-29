@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="My bat is not on the shelf">
+		<timing id="0" start="0.006" end="0.327" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.327" end="0.825" startframe="0" framelength="0" text="bat"/>
+		<timing id="2" start="0.825" end="1.064" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.064" end="1.489" startframe="0" framelength="0" text="not"/>
+		<timing id="4" start="1.489" end="1.668" startframe="0" framelength="0" text="on"/>
+		<timing id="5" start="1.668" end="1.76" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.76" end="2.8735" startframe="0" framelength="0" text="shelf"/>
+	</timings>
+</xml>

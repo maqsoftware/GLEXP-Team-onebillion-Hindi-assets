@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="My dog Max">
+		<timing id="0" start="0.006" end="0.329" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.329" end="0.806" startframe="0" framelength="0" text="dog"/>
+		<timing id="2" start="0.806" end="1.8808333333333334" startframe="0" framelength="0" text="Max"/>
+	</timings>
+</xml>

@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Everyone feared the man’s sneezing even when he was quiet">
+		<timing id="0" start="0.006" end="0.649" startframe="0" framelength="0" text="Everyone"/>
+		<timing id="1" start="0.649" end="1.203" startframe="0" framelength="0" text="feared"/>
+		<timing id="2" start="1.203" end="1.332" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.332" end="1.795" startframe="0" framelength="0" text="man’s"/>
+		<timing id="4" start="1.795" end="2.524" startframe="0" framelength="0" text="sneezing"/>
+		<timing id="5" start="2.524" end="2.981" startframe="0" framelength="0" text="even"/>
+		<timing id="6" start="2.981" end="3.362" startframe="0" framelength="0" text="when"/>
+		<timing id="7" start="3.362" end="3.527" startframe="0" framelength="0" text="he"/>
+		<timing id="8" start="3.527" end="3.831" startframe="0" framelength="0" text="was"/>
+		<timing id="9" start="3.831" end="4.728166666666667" startframe="0" framelength="0" text="quiet"/>
+	</timings>
+</xml>

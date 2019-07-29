@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Suddenly they hear rustling in the bushes A white shape appears Wooo Wooo Wooo it says">
+		<timing id="0" start="0.006" end="1.086" startframe="0" framelength="0" text="Suddenly"/>
+		<timing id="1" start="1.086" end="1.297" startframe="0" framelength="0" text="they"/>
+		<timing id="2" start="1.297" end="1.685" startframe="0" framelength="0" text="hear"/>
+		<timing id="3" start="1.685" end="2.208" startframe="0" framelength="0" text="rustling"/>
+		<timing id="4" start="2.208" end="2.343" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="2.343" end="2.429" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.429" end="3.678" startframe="0" framelength="0" text="bushes"/>
+		<timing id="7" start="3.678" end="3.747" startframe="0" framelength="0" text="A"/>
+		<timing id="8" start="3.747" end="4.28" startframe="0" framelength="0" text="white"/>
+		<timing id="9" start="4.28" end="4.713" startframe="0" framelength="0" text="shape"/>
+		<timing id="10" start="4.713" end="5.998" startframe="0" framelength="0" text="appears"/>
+		<timing id="11" start="5.998" end="7.025" startframe="0" framelength="0" text="Wooo"/>
+		<timing id="12" start="7.025" end="8.051" startframe="0" framelength="0" text="Wooo"/>
+		<timing id="13" start="8.051" end="9.078" startframe="0" framelength="0" text="Wooo"/>
+		<timing id="14" start="9.078" end="9.245" startframe="0" framelength="0" text="it"/>
+		<timing id="15" start="9.245" end="10.031" startframe="0" framelength="0" text="says"/>
+	</timings>
+</xml>

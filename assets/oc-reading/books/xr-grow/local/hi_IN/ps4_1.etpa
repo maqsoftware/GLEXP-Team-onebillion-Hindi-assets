@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Harita dug a little hole beside the door and planted her seed I will talk to you every day she said">
+		<timing id="0" start="0.006" end="0.613" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.613" end="0.971" startframe="0" framelength="0" text="dug"/>
+		<timing id="2" start="0.971" end="1.045" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.045" end="1.482" startframe="0" framelength="0" text="little"/>
+		<timing id="4" start="1.482" end="1.84" startframe="0" framelength="0" text="hole"/>
+		<timing id="5" start="1.84" end="2.42" startframe="0" framelength="0" text="beside"/>
+		<timing id="6" start="2.42" end="2.544" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.544" end="3.328" startframe="0" framelength="0" text="door"/>
+		<timing id="8" start="3.328" end="3.657" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="3.657" end="4.285" startframe="0" framelength="0" text="planted"/>
+		<timing id="10" start="4.285" end="4.508" startframe="0" framelength="0" text="her"/>
+		<timing id="11" start="4.508" end="5.546" startframe="0" framelength="0" text="seed"/>
+		<timing id="12" start="5.546" end="5.751" startframe="0" framelength="0" text="I"/>
+		<timing id="13" start="5.751" end="5.987" startframe="0" framelength="0" text="will"/>
+		<timing id="14" start="5.987" end="6.384" startframe="0" framelength="0" text="talk"/>
+		<timing id="15" start="6.384" end="6.558" startframe="0" framelength="0" text="to"/>
+		<timing id="16" start="6.558" end="6.692" startframe="0" framelength="0" text="you"/>
+		<timing id="17" start="6.692" end="7.101" startframe="0" framelength="0" text="every"/>
+		<timing id="18" start="7.101" end="7.816" startframe="0" framelength="0" text="day"/>
+		<timing id="19" start="7.816" end="8.17" startframe="0" framelength="0" text="she"/>
+		<timing id="20" start="8.17" end="8.803166666666666" startframe="0" framelength="0" text="said"/>
+	</timings>
+</xml>

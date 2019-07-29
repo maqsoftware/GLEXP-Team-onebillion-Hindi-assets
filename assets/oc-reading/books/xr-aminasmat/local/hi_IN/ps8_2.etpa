@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She followed the little bird with the colours of her mat">
+		<timing id="0" start="0.006" end="0.302" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.302" end="0.909" startframe="0" framelength="0" text="followed"/>
+		<timing id="2" start="0.909" end="1.075" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.075" end="1.494" startframe="0" framelength="0" text="little"/>
+		<timing id="4" start="1.494" end="1.834" startframe="0" framelength="0" text="bird"/>
+		<timing id="5" start="1.834" end="2.011" startframe="0" framelength="0" text="with"/>
+		<timing id="6" start="2.011" end="2.124" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.124" end="2.713" startframe="0" framelength="0" text="colours"/>
+		<timing id="8" start="2.713" end="2.88" startframe="0" framelength="0" text="of"/>
+		<timing id="9" start="2.88" end="3.075" startframe="0" framelength="0" text="her"/>
+		<timing id="10" start="3.075" end="3.7876666666666665" startframe="0" framelength="0" text="mat"/>
+	</timings>
+</xml>

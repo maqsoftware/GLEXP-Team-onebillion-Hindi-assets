@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Next I gather my materials Houses are made from what people find around them My house will be the same">
+		<timing id="0" start="0.006" end="1.093" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="1.093" end="1.333" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="1.333" end="1.87" startframe="0" framelength="0" text="gather"/>
+		<timing id="3" start="1.87" end="2.165" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="2.165" end="3.847" startframe="0" framelength="0" text="materials"/>
+		<timing id="5" start="3.847" end="4.497" startframe="0" framelength="0" text="Houses"/>
+		<timing id="6" start="4.497" end="4.609" startframe="0" framelength="0" text="are"/>
+		<timing id="7" start="4.609" end="5.053" startframe="0" framelength="0" text="made"/>
+		<timing id="8" start="5.053" end="5.442" startframe="0" framelength="0" text="from"/>
+		<timing id="9" start="5.442" end="5.892" startframe="0" framelength="0" text="what"/>
+		<timing id="10" start="5.892" end="6.415" startframe="0" framelength="0" text="people"/>
+		<timing id="11" start="6.415" end="6.903" startframe="0" framelength="0" text="find"/>
+		<timing id="12" start="6.903" end="7.416" startframe="0" framelength="0" text="around"/>
+		<timing id="13" start="7.416" end="8.309" startframe="0" framelength="0" text="them"/>
+		<timing id="14" start="8.309" end="8.574" startframe="0" framelength="0" text="My"/>
+		<timing id="15" start="8.574" end="9.118" startframe="0" framelength="0" text="house"/>
+		<timing id="16" start="9.118" end="9.33" startframe="0" framelength="0" text="will"/>
+		<timing id="17" start="9.33" end="9.518" startframe="0" framelength="0" text="be"/>
+		<timing id="18" start="9.518" end="9.676" startframe="0" framelength="0" text="the"/>
+		<timing id="19" start="9.676" end="10.501166666666666" startframe="0" framelength="0" text="same"/>
+	</timings>
+</xml>

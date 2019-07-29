@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="We always cook with Mum">
+		<timing id="0" start="0.006" end="0.281" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.281" end="0.842" startframe="0" framelength="0" text="always"/>
+		<timing id="2" start="0.842" end="1.192" startframe="0" framelength="0" text="cook"/>
+		<timing id="3" start="1.192" end="1.418" startframe="0" framelength="0" text="with"/>
+		<timing id="4" start="1.418" end="2.142" startframe="0" framelength="0" text="Mum"/>
+	</timings>
+</xml>

@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Who can I read to I can read to myself">
+		<timing id="0" start="0.006" end="0.204" startframe="0" framelength="0" text="Who"/>
+		<timing id="1" start="0.204" end="0.532" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.532" end="0.698" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="0.698" end="1.04" startframe="0" framelength="0" text="read"/>
+		<timing id="4" start="1.04" end="1.912" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.912" end="2.107" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.107" end="2.377" startframe="0" framelength="0" text="can"/>
+		<timing id="7" start="2.377" end="2.703" startframe="0" framelength="0" text="read"/>
+		<timing id="8" start="2.703" end="2.869" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="2.869" end="3.9183333333333334" startframe="0" framelength="0" text="myself"/>
+	</timings>
+</xml>

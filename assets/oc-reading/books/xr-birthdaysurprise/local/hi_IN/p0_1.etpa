@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="A great birthday surprise">
+		<timing id="0" start="0.006" end="0.06" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.06" end="0.644" startframe="0" framelength="0" text="great"/>
+		<timing id="2" start="0.644" end="1.259" startframe="0" framelength="0" text="birthday"/>
+		<timing id="3" start="1.259" end="2.272666666666667" startframe="0" framelength="0" text="surprise"/>
+	</timings>
+</xml>

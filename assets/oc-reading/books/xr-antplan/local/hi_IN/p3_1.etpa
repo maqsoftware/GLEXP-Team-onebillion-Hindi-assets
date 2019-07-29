@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The other ants collected all they found">
+		<timing id="0" start="0.006" end="0.279" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.279" end="0.592" startframe="0" framelength="0" text="other"/>
+		<timing id="2" start="0.592" end="0.949" startframe="0" framelength="0" text="ants"/>
+		<timing id="3" start="0.949" end="1.623" startframe="0" framelength="0" text="collected"/>
+		<timing id="4" start="1.623" end="1.875" startframe="0" framelength="0" text="all"/>
+		<timing id="5" start="1.875" end="2.038" startframe="0" framelength="0" text="they"/>
+		<timing id="6" start="2.038" end="2.8473333333333333" startframe="0" framelength="0" text="found"/>
+	</timings>
+</xml>

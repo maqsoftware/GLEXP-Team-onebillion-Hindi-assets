@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="This is Varsha She is a farmer">
+		<timing id="0" start="0.006" end="0.37" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.37" end="0.663" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.663" end="1.877" startframe="0" framelength="0" text="Varsha"/>
+		<timing id="3" start="1.877" end="2.237" startframe="0" framelength="0" text="She"/>
+		<timing id="4" start="2.237" end="2.424" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="2.424" end="2.494" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="2.494" end="3.3698333333333332" startframe="0" framelength="0" text="farmer"/>
+	</timings>
+</xml>

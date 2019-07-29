@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Hello she calls as the plane roars past She wonders where it’s going">
+		<timing id="0" start="0.006" end="1.152" startframe="0" framelength="0" text="Hello"/>
+		<timing id="1" start="1.152" end="1.499" startframe="0" framelength="0" text="she"/>
+		<timing id="2" start="1.499" end="2.498" startframe="0" framelength="0" text="calls"/>
+		<timing id="3" start="2.498" end="2.805" startframe="0" framelength="0" text="as"/>
+		<timing id="4" start="2.805" end="2.935" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.935" end="3.452" startframe="0" framelength="0" text="plane"/>
+		<timing id="6" start="3.452" end="3.979" startframe="0" framelength="0" text="roars"/>
+		<timing id="7" start="3.979" end="5.151" startframe="0" framelength="0" text="past"/>
+		<timing id="8" start="5.151" end="5.502" startframe="0" framelength="0" text="She"/>
+		<timing id="9" start="5.502" end="6.217" startframe="0" framelength="0" text="wonders"/>
+		<timing id="10" start="6.217" end="6.604" startframe="0" framelength="0" text="where"/>
+		<timing id="11" start="6.604" end="6.891" startframe="0" framelength="0" text="it’s"/>
+		<timing id="12" start="6.891" end="7.601666666666667" startframe="0" framelength="0" text="going"/>
+	</timings>
+</xml>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Achoo The first time he sneezed Uncle Ramu tripped and fell">
+		<timing id="0" start="0.006" end="1.043" startframe="0" framelength="0" text="Achoo"/>
+		<timing id="1" start="1.043" end="1.203" startframe="0" framelength="0" text="The"/>
+		<timing id="2" start="1.203" end="1.72" startframe="0" framelength="0" text="first"/>
+		<timing id="3" start="1.72" end="2.05" startframe="0" framelength="0" text="time"/>
+		<timing id="4" start="2.05" end="2.197" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="2.197" end="2.741" startframe="0" framelength="0" text="sneezed"/>
+		<timing id="6" start="2.741" end="3.155" startframe="0" framelength="0" text="Uncle"/>
+		<timing id="7" start="3.155" end="3.672" startframe="0" framelength="0" text="Ramu"/>
+		<timing id="8" start="3.672" end="4.108" startframe="0" framelength="0" text="tripped"/>
+		<timing id="9" start="4.108" end="4.319" startframe="0" framelength="0" text="and"/>
+		<timing id="10" start="4.319" end="5.041666666666667" startframe="0" framelength="0" text="fell"/>
+	</timings>
+</xml>

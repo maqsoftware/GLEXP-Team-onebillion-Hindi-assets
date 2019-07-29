@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I love my grandpa’s stories I cuddle up to him and listen">
+		<timing id="0" start="0.006" end="0.18" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.18" end="0.519" startframe="0" framelength="0" text="love"/>
+		<timing id="2" start="0.519" end="0.74" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.74" end="1.663" startframe="0" framelength="0" text="grandpa’s"/>
+		<timing id="4" start="1.663" end="3.037" startframe="0" framelength="0" text="stories"/>
+		<timing id="5" start="3.037" end="3.223" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="3.223" end="3.667" startframe="0" framelength="0" text="cuddle"/>
+		<timing id="7" start="3.667" end="3.896" startframe="0" framelength="0" text="up"/>
+		<timing id="8" start="3.896" end="4.052" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="4.052" end="4.412" startframe="0" framelength="0" text="him"/>
+		<timing id="10" start="4.412" end="4.616" startframe="0" framelength="0" text="and"/>
+		<timing id="11" start="4.616" end="5.4595" startframe="0" framelength="0" text="listen"/>
+	</timings>
+</xml>

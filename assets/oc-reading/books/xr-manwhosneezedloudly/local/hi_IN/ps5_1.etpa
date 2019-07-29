@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Achoo He sneezed so loud a fish jumped out of the water in fright">
+		<timing id="0" start="0.006" end="1.043" startframe="0" framelength="0" text="Achoo"/>
+		<timing id="1" start="1.043" end="1.283" startframe="0" framelength="0" text="He"/>
+		<timing id="2" start="1.283" end="1.86" startframe="0" framelength="0" text="sneezed"/>
+		<timing id="3" start="1.86" end="2.165" startframe="0" framelength="0" text="so"/>
+		<timing id="4" start="2.165" end="2.591" startframe="0" framelength="0" text="loud"/>
+		<timing id="5" start="2.591" end="2.647" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="2.647" end="3.102" startframe="0" framelength="0" text="fish"/>
+		<timing id="7" start="3.102" end="3.512" startframe="0" framelength="0" text="jumped"/>
+		<timing id="8" start="3.512" end="3.828" startframe="0" framelength="0" text="out"/>
+		<timing id="9" start="3.828" end="3.943" startframe="0" framelength="0" text="of"/>
+		<timing id="10" start="3.943" end="4.074" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.074" end="4.644" startframe="0" framelength="0" text="water"/>
+		<timing id="12" start="4.644" end="4.835" startframe="0" framelength="0" text="in"/>
+		<timing id="13" start="4.835" end="5.720833333333333" startframe="0" framelength="0" text="fright"/>
+	</timings>
+</xml>
