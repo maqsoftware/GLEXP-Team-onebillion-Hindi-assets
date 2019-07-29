@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Look I’ve built a beautiful castle for my brother and me">
+		<timing id="0" start="0.006" end="1.022" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="1.022" end="1.408" startframe="0" framelength="0" text="I’ve"/>
+		<timing id="2" start="1.408" end="1.893" startframe="0" framelength="0" text="built"/>
+		<timing id="3" start="1.893" end="1.938" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.938" end="2.634" startframe="0" framelength="0" text="beautiful"/>
+		<timing id="5" start="2.634" end="3.331" startframe="0" framelength="0" text="castle"/>
+		<timing id="6" start="3.331" end="3.615" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="3.615" end="3.928" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="3.928" end="4.519" startframe="0" framelength="0" text="brother"/>
+		<timing id="9" start="4.519" end="4.775" startframe="0" framelength="0" text="and"/>
+		<timing id="10" start="4.775" end="5.355" startframe="0" framelength="0" text="me"/>
+	</timings>
+</xml>

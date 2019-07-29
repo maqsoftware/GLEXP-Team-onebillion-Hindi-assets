@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Manu called his mum You forgot your red raincoat">
+		<timing id="0" start="0.006" end="0.896" startframe="0" framelength="0" text="Manu"/>
+		<timing id="1" start="0.896" end="1.25" startframe="0" framelength="0" text="called"/>
+		<timing id="2" start="1.25" end="1.576" startframe="0" framelength="0" text="his"/>
+		<timing id="3" start="1.576" end="2.597" startframe="0" framelength="0" text="mum"/>
+		<timing id="4" start="2.597" end="2.803" startframe="0" framelength="0" text="You"/>
+		<timing id="5" start="2.803" end="3.475" startframe="0" framelength="0" text="forgot"/>
+		<timing id="6" start="3.475" end="3.682" startframe="0" framelength="0" text="your"/>
+		<timing id="7" start="3.682" end="4.012" startframe="0" framelength="0" text="red"/>
+		<timing id="8" start="4.012" end="4.989333333333334" startframe="0" framelength="0" text="raincoat"/>
+	</timings>
+</xml>

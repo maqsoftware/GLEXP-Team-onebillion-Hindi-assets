@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Grandma is picking mangoes She will sell them">
+		<timing id="0" start="0.006" end="0.734" startframe="0" framelength="0" text="Grandma"/>
+		<timing id="1" start="0.734" end="1.289" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.289" end="1.698" startframe="0" framelength="0" text="picking"/>
+		<timing id="3" start="1.698" end="3.051" startframe="0" framelength="0" text="mangoes"/>
+		<timing id="4" start="3.051" end="3.352" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="3.352" end="3.533" startframe="0" framelength="0" text="will"/>
+		<timing id="6" start="3.533" end="3.891" startframe="0" framelength="0" text="sell"/>
+		<timing id="7" start="3.891" end="4.493" startframe="0" framelength="0" text="them"/>
+	</timings>
+</xml>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The yolk of an egg is yellow">
+		<timing id="0" start="0.006" end="0.221" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.221" end="0.64" startframe="0" framelength="0" text="yolk"/>
+		<timing id="2" start="0.64" end="0.828" startframe="0" framelength="0" text="of"/>
+		<timing id="3" start="0.828" end="0.974" startframe="0" framelength="0" text="an"/>
+		<timing id="4" start="0.974" end="1.235" startframe="0" framelength="0" text="egg"/>
+		<timing id="5" start="1.235" end="1.449" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="1.449" end="2.0636666666666668" startframe="0" framelength="0" text="yellow"/>
+	</timings>
+</xml>

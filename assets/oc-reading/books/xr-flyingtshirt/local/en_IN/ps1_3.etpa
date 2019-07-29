@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Look at that filthy T-shirt I will wash it">
+		<timing id="0" start="0.006" end="0.408" startframe="0" framelength="0" text="Look"/>
+		<timing id="1" start="0.408" end="0.544" startframe="0" framelength="0" text="at"/>
+		<timing id="2" start="0.544" end="0.89" startframe="0" framelength="0" text="that"/>
+		<timing id="3" start="0.89" end="1.365" startframe="0" framelength="0" text="filthy"/>
+		<timing id="4" start="1.365" end="2.62" startframe="0" framelength="0" text="T-shirt"/>
+		<timing id="5" start="2.62" end="2.84" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.84" end="3.089" startframe="0" framelength="0" text="will"/>
+		<timing id="7" start="3.089" end="3.504" startframe="0" framelength="0" text="wash"/>
+		<timing id="8" start="3.504" end="3.9705" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

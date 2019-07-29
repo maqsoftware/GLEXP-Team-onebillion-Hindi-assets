@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mr Arjun snatched the money You stole it You are wicked children">
+		<timing id="0" start="0.006" end="0.569" startframe="0" framelength="0" text="Mr"/>
+		<timing id="1" start="0.569" end="1.04" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="2" start="1.04" end="1.644" startframe="0" framelength="0" text="snatched"/>
+		<timing id="3" start="1.644" end="1.805" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.805" end="2.832" startframe="0" framelength="0" text="money"/>
+		<timing id="5" start="2.832" end="3.054" startframe="0" framelength="0" text="You"/>
+		<timing id="6" start="3.054" end="3.593" startframe="0" framelength="0" text="stole"/>
+		<timing id="7" start="3.593" end="4.386" startframe="0" framelength="0" text="it"/>
+		<timing id="8" start="4.386" end="4.79" startframe="0" framelength="0" text="You"/>
+		<timing id="9" start="4.79" end="4.945" startframe="0" framelength="0" text="are"/>
+		<timing id="10" start="4.945" end="5.434" startframe="0" framelength="0" text="wicked"/>
+		<timing id="11" start="5.434" end="6.2955" startframe="0" framelength="0" text="children"/>
+	</timings>
+</xml>

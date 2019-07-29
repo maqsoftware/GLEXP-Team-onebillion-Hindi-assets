@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="So the boy asked Lory Dory to paint herself Lory Dory said yes">
+		<timing id="0" start="0.006" end="0.375" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.375" end="0.509" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.509" end="0.958" startframe="0" framelength="0" text="boy"/>
+		<timing id="3" start="0.958" end="1.641" startframe="0" framelength="0" text="asked"/>
+		<timing id="4" start="1.641" end="2.076" startframe="0" framelength="0" text="Lory"/>
+		<timing id="5" start="2.076" end="2.516" startframe="0" framelength="0" text="Dory"/>
+		<timing id="6" start="2.516" end="2.726" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="2.726" end="3.197" startframe="0" framelength="0" text="paint"/>
+		<timing id="8" start="3.197" end="4.493" startframe="0" framelength="0" text="herself"/>
+		<timing id="9" start="4.493" end="4.991" startframe="0" framelength="0" text="Lory"/>
+		<timing id="10" start="4.991" end="5.402" startframe="0" framelength="0" text="Dory"/>
+		<timing id="11" start="5.402" end="5.837" startframe="0" framelength="0" text="said"/>
+		<timing id="12" start="5.837" end="6.6611666666666665" startframe="0" framelength="0" text="yes"/>
+	</timings>
+</xml>

@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The Queen wants food to fill the store">
+		<timing id="0" start="0.006" end="0.163" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.163" end="0.719" startframe="0" framelength="0" text="Queen"/>
+		<timing id="2" start="0.719" end="1.103" startframe="0" framelength="0" text="wants"/>
+		<timing id="3" start="1.103" end="1.477" startframe="0" framelength="0" text="food"/>
+		<timing id="4" start="1.477" end="1.634" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.634" end="1.956" startframe="0" framelength="0" text="fill"/>
+		<timing id="6" start="1.956" end="2.079" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.079" end="2.8735" startframe="0" framelength="0" text="store"/>
+	</timings>
+</xml>

@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Deeksha dug a little hole beside the house She put the seed in and put soil on top She sprinkled water on the soil">
+		<timing id="0" start="0.006" end="0.654" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="0.654" end="1.011" startframe="0" framelength="0" text="dug"/>
+		<timing id="2" start="1.011" end="1.085" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="1.085" end="1.503" startframe="0" framelength="0" text="little"/>
+		<timing id="4" start="1.503" end="1.861" startframe="0" framelength="0" text="hole"/>
+		<timing id="5" start="1.861" end="2.448" startframe="0" framelength="0" text="beside"/>
+		<timing id="6" start="2.448" end="2.56" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.56" end="3.681" startframe="0" framelength="0" text="house"/>
+		<timing id="8" start="3.681" end="3.958" startframe="0" framelength="0" text="She"/>
+		<timing id="9" start="3.958" end="4.231" startframe="0" framelength="0" text="put"/>
+		<timing id="10" start="4.231" end="4.379" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.379" end="4.793" startframe="0" framelength="0" text="seed"/>
+		<timing id="12" start="4.793" end="5.412" startframe="0" framelength="0" text="in"/>
+		<timing id="13" start="5.412" end="5.731" startframe="0" framelength="0" text="and"/>
+		<timing id="14" start="5.731" end="6.026" startframe="0" framelength="0" text="put"/>
+		<timing id="15" start="6.026" end="6.51" startframe="0" framelength="0" text="soil"/>
+		<timing id="16" start="6.51" end="6.707" startframe="0" framelength="0" text="on"/>
+		<timing id="17" start="6.707" end="7.671" startframe="0" framelength="0" text="top"/>
+		<timing id="18" start="7.671" end="7.993" startframe="0" framelength="0" text="She"/>
+		<timing id="19" start="7.993" end="8.719" startframe="0" framelength="0" text="sprinkled"/>
+		<timing id="20" start="8.719" end="9.259" startframe="0" framelength="0" text="water"/>
+		<timing id="21" start="9.259" end="9.423" startframe="0" framelength="0" text="on"/>
+		<timing id="22" start="9.423" end="9.52" startframe="0" framelength="0" text="the"/>
+		<timing id="23" start="9.52" end="10.292166666666667" startframe="0" framelength="0" text="soil"/>
+	</timings>
+</xml>

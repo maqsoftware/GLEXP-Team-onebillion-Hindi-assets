@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Deeksha looked at her plant every day She watered it quite often But then one day oh no The goat had eaten it">
+		<timing id="0" start="0.006" end="0.619" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="0.619" end="1.005" startframe="0" framelength="0" text="looked"/>
+		<timing id="2" start="1.005" end="1.235" startframe="0" framelength="0" text="at"/>
+		<timing id="3" start="1.235" end="1.42" startframe="0" framelength="0" text="her"/>
+		<timing id="4" start="1.42" end="1.952" startframe="0" framelength="0" text="plant"/>
+		<timing id="5" start="1.952" end="2.34" startframe="0" framelength="0" text="every"/>
+		<timing id="6" start="2.34" end="3.261" startframe="0" framelength="0" text="day"/>
+		<timing id="7" start="3.261" end="3.567" startframe="0" framelength="0" text="She"/>
+		<timing id="8" start="3.567" end="4.202" startframe="0" framelength="0" text="watered"/>
+		<timing id="9" start="4.202" end="4.414" startframe="0" framelength="0" text="it"/>
+		<timing id="10" start="4.414" end="4.898" startframe="0" framelength="0" text="quite"/>
+		<timing id="11" start="4.898" end="5.992" startframe="0" framelength="0" text="often"/>
+		<timing id="12" start="5.992" end="6.382" startframe="0" framelength="0" text="But"/>
+		<timing id="13" start="6.382" end="6.711" startframe="0" framelength="0" text="then"/>
+		<timing id="14" start="6.711" end="7.062" startframe="0" framelength="0" text="one"/>
+		<timing id="15" start="7.062" end="7.728" startframe="0" framelength="0" text="day"/>
+		<timing id="16" start="7.728" end="7.924" startframe="0" framelength="0" text="oh"/>
+		<timing id="17" start="7.924" end="8.801" startframe="0" framelength="0" text="no"/>
+		<timing id="18" start="8.801" end="8.97" startframe="0" framelength="0" text="The"/>
+		<timing id="19" start="8.97" end="9.41" startframe="0" framelength="0" text="goat"/>
+		<timing id="20" start="9.41" end="9.769" startframe="0" framelength="0" text="had"/>
+		<timing id="21" start="9.769" end="10.194" startframe="0" framelength="0" text="eaten"/>
+		<timing id="22" start="10.194" end="10.658" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The kite chase">
+		<timing id="0" start="0.006" end="0.152" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.152" end="0.694" startframe="0" framelength="0" text="kite"/>
+		<timing id="2" start="0.694" end="1.5411666666666666" startframe="0" framelength="0" text="chase"/>
+	</timings>
+</xml>

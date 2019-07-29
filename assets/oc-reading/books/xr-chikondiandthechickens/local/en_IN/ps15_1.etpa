@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Later Dipti says good night to her chickens You are very good chickens You made everyone laugh It was the best wedding ever">
+		<timing id="0" start="0.006" end="1.023" startframe="0" framelength="0" text="Later"/>
+		<timing id="1" start="1.023" end="1.641" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="2" start="1.641" end="2.082" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="2.082" end="2.37" startframe="0" framelength="0" text="good"/>
+		<timing id="4" start="2.37" end="2.713" startframe="0" framelength="0" text="night"/>
+		<timing id="5" start="2.713" end="2.906" startframe="0" framelength="0" text="to"/>
+		<timing id="6" start="2.906" end="3.083" startframe="0" framelength="0" text="her"/>
+		<timing id="7" start="3.083" end="4.421" startframe="0" framelength="0" text="chickens"/>
+		<timing id="8" start="4.421" end="4.764" startframe="0" framelength="0" text="You"/>
+		<timing id="9" start="4.764" end="4.876" startframe="0" framelength="0" text="are"/>
+		<timing id="10" start="4.876" end="5.268" startframe="0" framelength="0" text="very"/>
+		<timing id="11" start="5.268" end="5.594" startframe="0" framelength="0" text="good"/>
+		<timing id="12" start="5.594" end="6.926" startframe="0" framelength="0" text="chickens"/>
+		<timing id="13" start="6.926" end="7.211" startframe="0" framelength="0" text="You"/>
+		<timing id="14" start="7.211" end="7.608" startframe="0" framelength="0" text="made"/>
+		<timing id="15" start="7.608" end="8.26" startframe="0" framelength="0" text="everyone"/>
+		<timing id="16" start="8.26" end="9.359" startframe="0" framelength="0" text="laugh"/>
+		<timing id="17" start="9.359" end="9.535" startframe="0" framelength="0" text="It"/>
+		<timing id="18" start="9.535" end="9.778" startframe="0" framelength="0" text="was"/>
+		<timing id="19" start="9.778" end="9.893" startframe="0" framelength="0" text="the"/>
+		<timing id="20" start="9.893" end="10.424" startframe="0" framelength="0" text="best"/>
+		<timing id="21" start="10.424" end="10.905" startframe="0" framelength="0" text="wedding"/>
+		<timing id="22" start="10.905" end="11.493833333333333" startframe="0" framelength="0" text="ever"/>
+	</timings>
+</xml>

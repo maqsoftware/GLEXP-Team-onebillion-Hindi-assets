@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Some of my friends have wings">
+		<timing id="0" start="0.006" end="0.397" startframe="0" framelength="0" text="Some"/>
+		<timing id="1" start="0.397" end="0.581" startframe="0" framelength="0" text="of"/>
+		<timing id="2" start="0.581" end="0.8" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.8" end="1.321" startframe="0" framelength="0" text="friends"/>
+		<timing id="4" start="1.321" end="1.622" startframe="0" framelength="0" text="have"/>
+		<timing id="5" start="1.622" end="2.429333333333333" startframe="0" framelength="0" text="wings"/>
+	</timings>
+</xml>

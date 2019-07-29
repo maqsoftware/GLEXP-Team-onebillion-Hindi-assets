@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="This is Mrs Kalpana">
+		<timing id="0" start="0.006" end="0.378" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.378" end="0.576" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.576" end="1.149" startframe="0" framelength="0" text="Mrs"/>
+		<timing id="3" start="1.149" end="1.933" startframe="0" framelength="0" text="Kalpana"/>
+	</timings>
+</xml>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Next the wind carries the T-shirt into a tree">
+		<timing id="0" start="0.006" end="0.994" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="0.994" end="1.164" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="1.164" end="1.656" startframe="0" framelength="0" text="wind"/>
+		<timing id="3" start="1.656" end="2.305" startframe="0" framelength="0" text="carries"/>
+		<timing id="4" start="2.305" end="2.461" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="2.461" end="3.199" startframe="0" framelength="0" text="T-shirt"/>
+		<timing id="6" start="3.199" end="3.536" startframe="0" framelength="0" text="into"/>
+		<timing id="7" start="3.536" end="3.589" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="3.589" end="4.284" startframe="0" framelength="0" text="tree"/>
+	</timings>
+</xml>

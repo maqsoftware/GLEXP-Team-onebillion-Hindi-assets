@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The wind picks me up as well I am spinning around and around">
+		<timing id="0" start="0.006" end="0.203" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.203" end="0.759" startframe="0" framelength="0" text="wind"/>
+		<timing id="2" start="0.759" end="1.213" startframe="0" framelength="0" text="picks"/>
+		<timing id="3" start="1.213" end="1.448" startframe="0" framelength="0" text="me"/>
+		<timing id="4" start="1.448" end="1.694" startframe="0" framelength="0" text="up"/>
+		<timing id="5" start="1.694" end="2.019" startframe="0" framelength="0" text="as"/>
+		<timing id="6" start="2.019" end="2.375" startframe="0" framelength="0" text="well"/>
+		<timing id="7" start="2.375" end="2.562" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="2.562" end="2.702" startframe="0" framelength="0" text="am"/>
+		<timing id="9" start="2.702" end="3.361" startframe="0" framelength="0" text="spinning"/>
+		<timing id="10" start="3.361" end="3.96" startframe="0" framelength="0" text="around"/>
+		<timing id="11" start="3.96" end="4.24" startframe="0" framelength="0" text="and"/>
+		<timing id="12" start="4.24" end="5.093833333333333" startframe="0" framelength="0" text="around"/>
+	</timings>
+</xml>

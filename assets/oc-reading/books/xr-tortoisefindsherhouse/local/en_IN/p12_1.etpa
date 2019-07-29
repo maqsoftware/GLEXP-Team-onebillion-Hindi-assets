@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Ah here is my house Tortoise smiled Come and shelter beneath it she said to her friends">
+		<timing id="0" start="0.006" end="0.74" startframe="0" framelength="0" text="Ah"/>
+		<timing id="1" start="0.74" end="1.223" startframe="0" framelength="0" text="here"/>
+		<timing id="2" start="1.223" end="1.438" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.438" end="1.683" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.683" end="2.982" startframe="0" framelength="0" text="house"/>
+		<timing id="5" start="2.982" end="3.672" startframe="0" framelength="0" text="Tortoise"/>
+		<timing id="6" start="3.672" end="5.011" startframe="0" framelength="0" text="smiled"/>
+		<timing id="7" start="5.011" end="5.323" startframe="0" framelength="0" text="Come"/>
+		<timing id="8" start="5.323" end="5.536" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="5.536" end="6.193" startframe="0" framelength="0" text="shelter"/>
+		<timing id="10" start="6.193" end="6.772" startframe="0" framelength="0" text="beneath"/>
+		<timing id="11" start="6.772" end="7.737" startframe="0" framelength="0" text="it"/>
+		<timing id="12" start="7.737" end="8.081" startframe="0" framelength="0" text="she"/>
+		<timing id="13" start="8.081" end="8.468" startframe="0" framelength="0" text="said"/>
+		<timing id="14" start="8.468" end="8.685" startframe="0" framelength="0" text="to"/>
+		<timing id="15" start="8.685" end="8.884" startframe="0" framelength="0" text="her"/>
+		<timing id="16" start="8.884" end="9.874166666666667" startframe="0" framelength="0" text="friends"/>
+	</timings>
+</xml>

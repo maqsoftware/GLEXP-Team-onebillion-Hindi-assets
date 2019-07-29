@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They have engines to push them through the air">
+		<timing id="0" start="0.006" end="0.289" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.289" end="0.631" startframe="0" framelength="0" text="have"/>
+		<timing id="2" start="0.631" end="1.296" startframe="0" framelength="0" text="engines"/>
+		<timing id="3" start="1.296" end="1.422" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.422" end="1.813" startframe="0" framelength="0" text="push"/>
+		<timing id="5" start="1.813" end="2.067" startframe="0" framelength="0" text="them"/>
+		<timing id="6" start="2.067" end="2.355" startframe="0" framelength="0" text="through"/>
+		<timing id="7" start="2.355" end="2.565" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.565" end="3.1346666666666665" startframe="0" framelength="0" text="air"/>
+	</timings>
+</xml>

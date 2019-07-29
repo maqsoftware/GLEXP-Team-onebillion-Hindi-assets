@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mr <break time="500ms"/> Arjun <break time="500ms"/> snatched <break time="500ms"/> the <break time="500ms"/> money <break time="500ms"/> You <break time="500ms"/> stole <break time="500ms"/> it <break time="500ms"/> You <break time="500ms"/> are <break time="500ms"/> wicked <break time="500ms"/> children <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.944" startframe="0" framelength="0" text="Mr"/>
+		<timing id="1" start="0.944" end="1.544" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.544" end="2.331" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="3" start="2.331" end="2.931" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.931" end="4.049" startframe="0" framelength="0" text="snatched"/>
+		<timing id="5" start="4.049" end="4.649" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.649" end="5.281" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="5.281" end="5.881" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.881" end="6.546" startframe="0" framelength="0" text="money"/>
+		<timing id="9" start="6.546" end="7.433" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.433" end="8.15" startframe="0" framelength="0" text="You"/>
+		<timing id="11" start="8.15" end="8.75" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.75" end="9.645" startframe="0" framelength="0" text="stole"/>
+		<timing id="13" start="9.645" end="10.239" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.239" end="10.588" startframe="0" framelength="0" text="it"/>
+		<timing id="15" start="10.588" end="11.474" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.474" end="12.299" startframe="0" framelength="0" text="You"/>
+		<timing id="17" start="12.299" end="12.899" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.899" end="13.619" startframe="0" framelength="0" text="are"/>
+		<timing id="19" start="13.619" end="14.22" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.22" end="15.11" startframe="0" framelength="0" text="wicked"/>
+		<timing id="21" start="15.11" end="15.703" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.703" end="16.672" startframe="0" framelength="0" text="children"/>
+		<timing id="23" start="16.672" end="17.240833333333335" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

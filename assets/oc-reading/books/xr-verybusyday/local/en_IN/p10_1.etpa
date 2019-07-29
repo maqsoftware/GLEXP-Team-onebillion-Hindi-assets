@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What a busy day It is time to go to sleep">
+		<timing id="0" start="0.006" end="0.408" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.408" end="0.442" startframe="0" framelength="0" text="a"/>
+		<timing id="2" start="0.442" end="0.845" startframe="0" framelength="0" text="busy"/>
+		<timing id="3" start="0.845" end="1.797" startframe="0" framelength="0" text="day"/>
+		<timing id="4" start="1.797" end="1.962" startframe="0" framelength="0" text="It"/>
+		<timing id="5" start="1.962" end="2.203" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="2.203" end="2.628" startframe="0" framelength="0" text="time"/>
+		<timing id="7" start="2.628" end="2.773" startframe="0" framelength="0" text="to"/>
+		<timing id="8" start="2.773" end="3.036" startframe="0" framelength="0" text="go"/>
+		<timing id="9" start="3.036" end="3.22" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="3.22" end="3.9445" startframe="0" framelength="0" text="sleep"/>
+	</timings>
+</xml>

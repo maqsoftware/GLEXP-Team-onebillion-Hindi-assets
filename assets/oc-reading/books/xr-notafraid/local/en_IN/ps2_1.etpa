@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It is so dark Is someone there Who is it">
+		<timing id="0" start="0.006" end="0.2" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.2" end="0.336" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.336" end="0.625" startframe="0" framelength="0" text="so"/>
+		<timing id="3" start="0.625" end="1.608" startframe="0" framelength="0" text="dark"/>
+		<timing id="4" start="1.608" end="1.761" startframe="0" framelength="0" text="Is"/>
+		<timing id="5" start="1.761" end="2.312" startframe="0" framelength="0" text="someone"/>
+		<timing id="6" start="2.312" end="3.214" startframe="0" framelength="0" text="there"/>
+		<timing id="7" start="3.214" end="3.534" startframe="0" framelength="0" text="Who"/>
+		<timing id="8" start="3.534" end="3.777" startframe="0" framelength="0" text="is"/>
+		<timing id="9" start="3.777" end="4.258" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="When he reached home he showed Deeksha the money">
+		<timing id="0" start="0.006" end="0.302" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.302" end="0.552" startframe="0" framelength="0" text="he"/>
+		<timing id="2" start="0.552" end="1.028" startframe="0" framelength="0" text="reached"/>
+		<timing id="3" start="1.028" end="1.363" startframe="0" framelength="0" text="home"/>
+		<timing id="4" start="1.363" end="1.544" startframe="0" framelength="0" text="he"/>
+		<timing id="5" start="1.544" end="1.978" startframe="0" framelength="0" text="showed"/>
+		<timing id="6" start="1.978" end="2.546" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="7" start="2.546" end="2.763" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.763" end="3.4741666666666666" startframe="0" framelength="0" text="money"/>
+	</timings>
+</xml>

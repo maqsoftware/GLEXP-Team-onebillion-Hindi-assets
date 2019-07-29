@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Deeksha goes back to uncle Ajay">
+		<timing id="0" start="0.006" end="0.676" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="0.676" end="1.048" startframe="0" framelength="0" text="goes"/>
+		<timing id="2" start="1.048" end="1.403" startframe="0" framelength="0" text="back"/>
+		<timing id="3" start="1.403" end="1.666" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.666" end="2.129" startframe="0" framelength="0" text="uncle"/>
+		<timing id="5" start="2.129" end="2.769" startframe="0" framelength="0" text="Ajay"/>
+	</timings>
+</xml>

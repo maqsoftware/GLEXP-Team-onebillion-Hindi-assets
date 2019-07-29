@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The wind begins to blow It blows and blows">
+		<timing id="0" start="0.006" end="0.154" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.154" end="0.54" startframe="0" framelength="0" text="wind"/>
+		<timing id="2" start="0.54" end="1.069" startframe="0" framelength="0" text="begins"/>
+		<timing id="3" start="1.069" end="1.216" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.216" end="2.185" startframe="0" framelength="0" text="blow"/>
+		<timing id="5" start="2.185" end="2.4" startframe="0" framelength="0" text="It"/>
+		<timing id="6" start="2.4" end="2.896" startframe="0" framelength="0" text="blows"/>
+		<timing id="7" start="2.896" end="3.089" startframe="0" framelength="0" text="and"/>
+		<timing id="8" start="3.089" end="3.8921666666666668" startframe="0" framelength="0" text="blows"/>
+	</timings>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Oh did someone take your boots">
+		<timing id="0" start="0.006" end="0.615" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.615" end="0.89" startframe="0" framelength="0" text="did"/>
+		<timing id="2" start="0.89" end="1.536" startframe="0" framelength="0" text="someone"/>
+		<timing id="3" start="1.536" end="1.915" startframe="0" framelength="0" text="take"/>
+		<timing id="4" start="1.915" end="2.073" startframe="0" framelength="0" text="your"/>
+		<timing id="5" start="2.073" end="2.9518333333333335" startframe="0" framelength="0" text="boots"/>
+	</timings>
+</xml>

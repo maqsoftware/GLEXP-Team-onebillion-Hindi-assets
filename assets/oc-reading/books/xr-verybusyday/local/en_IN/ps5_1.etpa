@@ -1,0 +1,32 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> nurse <break time="500ms"/> checks <break time="500ms"/> my <break time="500ms"/> mother <break time="500ms"/> too <break time="500ms"/> She <break time="500ms"/> is <break time="500ms"/> as <break time="500ms"/> healthy <break time="500ms"/> as <break time="500ms"/> can <break time="500ms"/> be <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.638" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.638" end="1.24" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.24" end="2.192" startframe="0" framelength="0" text="nurse"/>
+		<timing id="3" start="2.192" end="2.785" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.785" end="3.789" startframe="0" framelength="0" text="checks"/>
+		<timing id="5" start="3.789" end="4.382" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.382" end="5.108" startframe="0" framelength="0" text="my"/>
+		<timing id="7" start="5.108" end="5.701" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.701" end="6.579" startframe="0" framelength="0" text="mother"/>
+		<timing id="9" start="6.579" end="7.179" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.179" end="7.727" startframe="0" framelength="0" text="too"/>
+		<timing id="11" start="7.727" end="8.613" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.613" end="9.452" startframe="0" framelength="0" text="She"/>
+		<timing id="13" start="9.452" end="10.046" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.046" end="10.435" startframe="0" framelength="0" text="is"/>
+		<timing id="15" start="10.435" end="11.035" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.035" end="11.763" startframe="0" framelength="0" text="as"/>
+		<timing id="17" start="11.763" end="12.363" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.363" end="13.221" startframe="0" framelength="0" text="healthy"/>
+		<timing id="19" start="13.221" end="13.821" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.821" end="14.548" startframe="0" framelength="0" text="as"/>
+		<timing id="21" start="14.548" end="15.148" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.148" end="15.923" startframe="0" framelength="0" text="can"/>
+		<timing id="23" start="15.923" end="16.523" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.523" end="17.191" startframe="0" framelength="0" text="be"/>
+		<timing id="25" start="17.191" end="17.763166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

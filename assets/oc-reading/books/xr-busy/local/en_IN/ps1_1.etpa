@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Dad is going to work He will be late">
+		<timing id="0" start="0.006" end="0.487" startframe="0" framelength="0" text="Dad"/>
+		<timing id="1" start="0.487" end="0.662" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.662" end="1.049" startframe="0" framelength="0" text="going"/>
+		<timing id="3" start="1.049" end="1.253" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.253" end="2.303" startframe="0" framelength="0" text="work"/>
+		<timing id="5" start="2.303" end="2.642" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="2.642" end="2.862" startframe="0" framelength="0" text="will"/>
+		<timing id="7" start="2.862" end="3.054" startframe="0" framelength="0" text="be"/>
+		<timing id="8" start="3.054" end="3.7616666666666667" startframe="0" framelength="0" text="late"/>
+	</timings>
+</xml>

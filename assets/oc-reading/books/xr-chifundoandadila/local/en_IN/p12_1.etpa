@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Aditya says mum You took my sheet You scared your sister She dropped the eggs">
+		<timing id="0" start="0.006" end="1.204" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="1.204" end="1.755" startframe="0" framelength="0" text="says"/>
+		<timing id="2" start="1.755" end="2.78" startframe="0" framelength="0" text="mum"/>
+		<timing id="3" start="2.78" end="3.054" startframe="0" framelength="0" text="You"/>
+		<timing id="4" start="3.054" end="3.387" startframe="0" framelength="0" text="took"/>
+		<timing id="5" start="3.387" end="3.632" startframe="0" framelength="0" text="my"/>
+		<timing id="6" start="3.632" end="4.714" startframe="0" framelength="0" text="sheet"/>
+		<timing id="7" start="4.714" end="4.935" startframe="0" framelength="0" text="You"/>
+		<timing id="8" start="4.935" end="5.504" startframe="0" framelength="0" text="scared"/>
+		<timing id="9" start="5.504" end="5.705" startframe="0" framelength="0" text="your"/>
+		<timing id="10" start="5.705" end="6.864" startframe="0" framelength="0" text="sister"/>
+		<timing id="11" start="6.864" end="7.159" startframe="0" framelength="0" text="She"/>
+		<timing id="12" start="7.159" end="7.703" startframe="0" framelength="0" text="dropped"/>
+		<timing id="13" start="7.703" end="7.915" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="7.915" end="8.594166666666666" startframe="0" framelength="0" text="eggs"/>
+	</timings>
+</xml>

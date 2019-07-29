@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Leena is a star">
+		<timing id="0" start="0.006" end="0.517" startframe="0" framelength="0" text="Leena"/>
+		<timing id="1" start="0.517" end="0.746" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.746" end="0.798" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.798" end="1.7501666666666666" startframe="0" framelength="0" text="star"/>
+	</timings>
+</xml>

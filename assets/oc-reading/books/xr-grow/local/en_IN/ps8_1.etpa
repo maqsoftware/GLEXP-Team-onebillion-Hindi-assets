@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Next he put the seed in He sprinkled water around it">
+		<timing id="0" start="0.006" end="0.531" startframe="0" framelength="0" text="Next"/>
+		<timing id="1" start="0.531" end="0.681" startframe="0" framelength="0" text="he"/>
+		<timing id="2" start="0.681" end="0.969" startframe="0" framelength="0" text="put"/>
+		<timing id="3" start="0.969" end="1.117" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.117" end="1.548" startframe="0" framelength="0" text="seed"/>
+		<timing id="5" start="1.548" end="2.367" startframe="0" framelength="0" text="in"/>
+		<timing id="6" start="2.367" end="2.59" startframe="0" framelength="0" text="He"/>
+		<timing id="7" start="2.59" end="3.372" startframe="0" framelength="0" text="sprinkled"/>
+		<timing id="8" start="3.372" end="3.85" startframe="0" framelength="0" text="water"/>
+		<timing id="9" start="3.85" end="4.343" startframe="0" framelength="0" text="around"/>
+		<timing id="10" start="4.343" end="4.832666666666666" startframe="0" framelength="0" text="it"/>
+	</timings>
+</xml>

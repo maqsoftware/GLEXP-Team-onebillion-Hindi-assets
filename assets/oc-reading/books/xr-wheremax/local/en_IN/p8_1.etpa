@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Max has lots of balls behind the bush">
+		<timing id="0" start="0.006" end="0.652" startframe="0" framelength="0" text="Max"/>
+		<timing id="1" start="0.652" end="1.002" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="1.002" end="1.522" startframe="0" framelength="0" text="lots"/>
+		<timing id="3" start="1.522" end="1.769" startframe="0" framelength="0" text="of"/>
+		<timing id="4" start="1.769" end="2.356" startframe="0" framelength="0" text="balls"/>
+		<timing id="5" start="2.356" end="2.955" startframe="0" framelength="0" text="behind"/>
+		<timing id="6" start="2.955" end="3.056" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="3.056" end="3.9183333333333334" startframe="0" framelength="0" text="bush"/>
+	</timings>
+</xml>

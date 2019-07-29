@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="This is my sister Harita">
+		<timing id="0" start="0.006" end="0.473" startframe="0" framelength="0" text="This"/>
+		<timing id="1" start="0.473" end="0.67" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.67" end="0.91" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="0.91" end="1.855" startframe="0" framelength="0" text="sister"/>
+		<timing id="4" start="1.855" end="2.716666666666667" startframe="0" framelength="0" text="Harita"/>
+	</timings>
+</xml>

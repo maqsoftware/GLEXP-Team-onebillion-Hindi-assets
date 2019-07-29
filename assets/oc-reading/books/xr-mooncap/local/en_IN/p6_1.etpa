@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="That night the moon came out It looked down at my cap in the tree">
+		<timing id="0" start="0.006" end="0.452" startframe="0" framelength="0" text="That"/>
+		<timing id="1" start="0.452" end="1.285" startframe="0" framelength="0" text="night"/>
+		<timing id="2" start="1.285" end="1.421" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.421" end="1.837" startframe="0" framelength="0" text="moon"/>
+		<timing id="4" start="1.837" end="2.234" startframe="0" framelength="0" text="came"/>
+		<timing id="5" start="2.234" end="3.202" startframe="0" framelength="0" text="out"/>
+		<timing id="6" start="3.202" end="3.441" startframe="0" framelength="0" text="It"/>
+		<timing id="7" start="3.441" end="3.848" startframe="0" framelength="0" text="looked"/>
+		<timing id="8" start="3.848" end="4.254" startframe="0" framelength="0" text="down"/>
+		<timing id="9" start="4.254" end="4.524" startframe="0" framelength="0" text="at"/>
+		<timing id="10" start="4.524" end="4.702" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.702" end="5.132" startframe="0" framelength="0" text="cap"/>
+		<timing id="12" start="5.132" end="5.265" startframe="0" framelength="0" text="in"/>
+		<timing id="13" start="5.265" end="5.37" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="5.37" end="6.0865" startframe="0" framelength="0" text="tree"/>
+	</timings>
+</xml>

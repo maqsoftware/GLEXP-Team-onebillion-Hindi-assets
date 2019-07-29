@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mum and her baby laugh and laugh">
+		<timing id="0" start="0.006" end="0.356" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.356" end="0.591" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.591" end="0.824" startframe="0" framelength="0" text="her"/>
+		<timing id="3" start="0.824" end="1.288" startframe="0" framelength="0" text="baby"/>
+		<timing id="4" start="1.288" end="1.714" startframe="0" framelength="0" text="laugh"/>
+		<timing id="5" start="1.714" end="2.014" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.014" end="2.795" startframe="0" framelength="0" text="laugh"/>
+	</timings>
+</xml>

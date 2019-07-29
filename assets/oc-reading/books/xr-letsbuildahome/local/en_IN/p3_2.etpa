@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="In some cold places people live in igloos made of snow">
+		<timing id="0" start="0.006" end="0.219" startframe="0" framelength="0" text="In"/>
+		<timing id="1" start="0.219" end="0.654" startframe="0" framelength="0" text="some"/>
+		<timing id="2" start="0.654" end="1.107" startframe="0" framelength="0" text="cold"/>
+		<timing id="3" start="1.107" end="2.351" startframe="0" framelength="0" text="places"/>
+		<timing id="4" start="2.351" end="2.833" startframe="0" framelength="0" text="people"/>
+		<timing id="5" start="2.833" end="3.144" startframe="0" framelength="0" text="live"/>
+		<timing id="6" start="3.144" end="3.318" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="3.318" end="3.944" startframe="0" framelength="0" text="igloos"/>
+		<timing id="8" start="3.944" end="4.377" startframe="0" framelength="0" text="made"/>
+		<timing id="9" start="4.377" end="4.559" startframe="0" framelength="0" text="of"/>
+		<timing id="10" start="4.559" end="5.4595" startframe="0" framelength="0" text="snow"/>
+	</timings>
+</xml>

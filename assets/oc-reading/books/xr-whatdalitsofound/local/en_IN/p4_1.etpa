@@ -1,0 +1,29 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="He thought of all the things he could buy A yummy snack Trainers A mobile phone A bike He smiled and walked faster">
+		<timing id="0" start="0.006" end="0.237" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.237" end="0.714" startframe="0" framelength="0" text="thought"/>
+		<timing id="2" start="0.714" end="0.951" startframe="0" framelength="0" text="of"/>
+		<timing id="3" start="0.951" end="1.225" startframe="0" framelength="0" text="all"/>
+		<timing id="4" start="1.225" end="1.337" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.337" end="1.845" startframe="0" framelength="0" text="things"/>
+		<timing id="6" start="1.845" end="2.001" startframe="0" framelength="0" text="he"/>
+		<timing id="7" start="2.001" end="2.269" startframe="0" framelength="0" text="could"/>
+		<timing id="8" start="2.269" end="3.249" startframe="0" framelength="0" text="buy"/>
+		<timing id="9" start="3.249" end="3.394" startframe="0" framelength="0" text="A"/>
+		<timing id="10" start="3.394" end="3.848" startframe="0" framelength="0" text="yummy"/>
+		<timing id="11" start="3.848" end="4.998" startframe="0" framelength="0" text="snack"/>
+		<timing id="12" start="4.998" end="6.416" startframe="0" framelength="0" text="Trainers"/>
+		<timing id="13" start="6.416" end="6.551" startframe="0" framelength="0" text="A"/>
+		<timing id="14" start="6.551" end="7.236" startframe="0" framelength="0" text="mobile"/>
+		<timing id="15" start="7.236" end="8.304" startframe="0" framelength="0" text="phone"/>
+		<timing id="16" start="8.304" end="8.374" startframe="0" framelength="0" text="A"/>
+		<timing id="17" start="8.374" end="9.495" startframe="0" framelength="0" text="bike"/>
+		<timing id="18" start="9.495" end="9.721" startframe="0" framelength="0" text="He"/>
+		<timing id="19" start="9.721" end="10.407" startframe="0" framelength="0" text="smiled"/>
+		<timing id="20" start="10.407" end="10.584" startframe="0" framelength="0" text="and"/>
+		<timing id="21" start="10.584" end="11.013" startframe="0" framelength="0" text="walked"/>
+		<timing id="22" start="11.013" end="12.016333333333334" startframe="0" framelength="0" text="faster"/>
+	</timings>
+</xml>

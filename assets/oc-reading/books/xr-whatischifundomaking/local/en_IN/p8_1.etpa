@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Deeksha cuts the cord in half Everyone is watching">
+		<timing id="0" start="0.006" end="0.687" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="1" start="0.687" end="1.122" startframe="0" framelength="0" text="cuts"/>
+		<timing id="2" start="1.122" end="1.245" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.245" end="1.617" startframe="0" framelength="0" text="cord"/>
+		<timing id="4" start="1.617" end="1.751" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.751" end="2.777" startframe="0" framelength="0" text="half"/>
+		<timing id="6" start="2.777" end="3.415" startframe="0" framelength="0" text="Everyone"/>
+		<timing id="7" start="3.415" end="3.627" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.627" end="4.519166666666667" startframe="0" framelength="0" text="watching"/>
+	</timings>
+</xml>

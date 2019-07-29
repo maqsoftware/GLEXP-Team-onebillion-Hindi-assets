@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They wanted to kill Dove for their dinner">
+		<timing id="0" start="0.006" end="0.182" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.182" end="0.739" startframe="0" framelength="0" text="wanted"/>
+		<timing id="2" start="0.739" end="0.895" startframe="0" framelength="0" text="to"/>
+		<timing id="3" start="0.895" end="1.255" startframe="0" framelength="0" text="kill"/>
+		<timing id="4" start="1.255" end="1.642" startframe="0" framelength="0" text="Dove"/>
+		<timing id="5" start="1.642" end="1.895" startframe="0" framelength="0" text="for"/>
+		<timing id="6" start="1.895" end="2.069" startframe="0" framelength="0" text="their"/>
+		<timing id="7" start="2.069" end="2.769" startframe="0" framelength="0" text="dinner"/>
+	</timings>
+</xml>

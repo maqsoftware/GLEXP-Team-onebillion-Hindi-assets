@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mouse is looking for a new house She starts her search">
+		<timing id="0" start="0.006" end="0.498" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="1" start="0.498" end="0.693" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.693" end="1.113" startframe="0" framelength="0" text="looking"/>
+		<timing id="3" start="1.113" end="1.387" startframe="0" framelength="0" text="for"/>
+		<timing id="4" start="1.387" end="1.45" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.45" end="1.828" startframe="0" framelength="0" text="new"/>
+		<timing id="6" start="1.828" end="2.95" startframe="0" framelength="0" text="house"/>
+		<timing id="7" start="2.95" end="3.272" startframe="0" framelength="0" text="She"/>
+		<timing id="8" start="3.272" end="3.881" startframe="0" framelength="0" text="starts"/>
+		<timing id="9" start="3.881" end="4.074" startframe="0" framelength="0" text="her"/>
+		<timing id="10" start="4.074" end="4.858666666666666" startframe="0" framelength="0" text="search"/>
+	</timings>
+</xml>

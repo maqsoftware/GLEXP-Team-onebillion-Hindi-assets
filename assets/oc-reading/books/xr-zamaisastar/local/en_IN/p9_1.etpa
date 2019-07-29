@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I can close my buttons and buckle my shoes">
+		<timing id="0" start="0.006" end="0.235" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.235" end="0.548" startframe="0" framelength="0" text="can"/>
+		<timing id="2" start="0.548" end="1.092" startframe="0" framelength="0" text="close"/>
+		<timing id="3" start="1.092" end="1.401" startframe="0" framelength="0" text="my"/>
+		<timing id="4" start="1.401" end="2.114" startframe="0" framelength="0" text="buttons"/>
+		<timing id="5" start="2.114" end="2.385" startframe="0" framelength="0" text="and"/>
+		<timing id="6" start="2.385" end="2.869" startframe="0" framelength="0" text="buckle"/>
+		<timing id="7" start="2.869" end="3.181" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="3.181" end="4.101166666666667" startframe="0" framelength="0" text="shoes"/>
+	</timings>
+</xml>

@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It goes into the tin">
+		<timing id="0" start="0.006" end="0.192" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.192" end="0.588" startframe="0" framelength="0" text="goes"/>
+		<timing id="2" start="0.588" end="0.863" startframe="0" framelength="0" text="into"/>
+		<timing id="3" start="0.863" end="1.016" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="1.016" end="1.698" startframe="0" framelength="0" text="tin"/>
+	</timings>
+</xml>

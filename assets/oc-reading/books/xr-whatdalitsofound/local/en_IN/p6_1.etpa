@@ -1,0 +1,27 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The children walked back to where Aditya had found the money Now there were people everywhere They were searching for something">
+		<timing id="0" start="0.006" end="0.156" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.156" end="0.759" startframe="0" framelength="0" text="children"/>
+		<timing id="2" start="0.759" end="1.199" startframe="0" framelength="0" text="walked"/>
+		<timing id="3" start="1.199" end="1.594" startframe="0" framelength="0" text="back"/>
+		<timing id="4" start="1.594" end="1.812" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.812" end="2.158" startframe="0" framelength="0" text="where"/>
+		<timing id="6" start="2.158" end="2.806" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="7" start="2.806" end="3.126" startframe="0" framelength="0" text="had"/>
+		<timing id="8" start="3.126" end="3.585" startframe="0" framelength="0" text="found"/>
+		<timing id="9" start="3.585" end="3.675" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="3.675" end="4.682" startframe="0" framelength="0" text="money"/>
+		<timing id="11" start="4.682" end="5.052" startframe="0" framelength="0" text="Now"/>
+		<timing id="12" start="5.052" end="5.362" startframe="0" framelength="0" text="there"/>
+		<timing id="13" start="5.362" end="5.594" startframe="0" framelength="0" text="were"/>
+		<timing id="14" start="5.594" end="6.112" startframe="0" framelength="0" text="people"/>
+		<timing id="15" start="6.112" end="7.399" startframe="0" framelength="0" text="everywhere"/>
+		<timing id="16" start="7.399" end="7.665" startframe="0" framelength="0" text="They"/>
+		<timing id="17" start="7.665" end="7.849" startframe="0" framelength="0" text="were"/>
+		<timing id="18" start="7.849" end="8.476" startframe="0" framelength="0" text="searching"/>
+		<timing id="19" start="8.476" end="8.695" startframe="0" framelength="0" text="for"/>
+		<timing id="20" start="8.695" end="9.691333333333333" startframe="0" framelength="0" text="something"/>
+	</timings>
+</xml>

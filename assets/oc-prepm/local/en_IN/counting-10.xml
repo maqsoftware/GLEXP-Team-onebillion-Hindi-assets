@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<parts>
+	<part start="500" mid="500" end="500">0</part>
+	<part start="700" mid="1000" end="1300">1</part>
+	<part start="1700" mid="2000" end="2300">2</part>
+	<part start="2700" mid="3000" end="3300">3</part>
+	<part start="3700" mid="4000" end="4300">4</part>
+	<part start="4700" mid="5000" end="5300">5</part>
+	<part start="5700" mid="6000" end="6300">6</part>
+	<part start="6700" mid="7000" end="7300">7</part>
+	<part start="7700" mid="8000" end="8300">8</part>
+	<part start="8700" mid="9000" end="9300">9</part>
+	<part start="9700" mid="10000" end="10300">10</part>
+</parts>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Ma says Don’t forget your teeth">
+		<timing id="0" start="0.006" end="0.419" startframe="0" framelength="0" text="Ma"/>
+		<timing id="1" start="0.419" end="0.983" startframe="0" framelength="0" text="says"/>
+		<timing id="2" start="0.983" end="1.363" startframe="0" framelength="0" text="Don’t"/>
+		<timing id="3" start="1.363" end="1.986" startframe="0" framelength="0" text="forget"/>
+		<timing id="4" start="1.986" end="2.121" startframe="0" framelength="0" text="your"/>
+		<timing id="5" start="2.121" end="2.8211666666666666" startframe="0" framelength="0" text="teeth"/>
+	</timings>
+</xml>

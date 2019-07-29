@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Let’s see what pot we can use">
+		<timing id="0" start="0.006" end="0.429" startframe="0" framelength="0" text="Let’s"/>
+		<timing id="1" start="0.429" end="0.7" startframe="0" framelength="0" text="see"/>
+		<timing id="2" start="0.7" end="1.026" startframe="0" framelength="0" text="what"/>
+		<timing id="3" start="1.026" end="1.421" startframe="0" framelength="0" text="pot"/>
+		<timing id="4" start="1.421" end="1.674" startframe="0" framelength="0" text="we"/>
+		<timing id="5" start="1.674" end="1.966" startframe="0" framelength="0" text="can"/>
+		<timing id="6" start="1.966" end="2.6905" startframe="0" framelength="0" text="use"/>
+	</timings>
+</xml>

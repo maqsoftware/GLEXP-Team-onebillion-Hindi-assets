@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I haven’t seen a house But I’m happy to help you look Sparrow flew up into the sky">
+		<timing id="0" start="0.006" end="0.264" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.264" end="0.786" startframe="0" framelength="0" text="haven’t"/>
+		<timing id="2" start="0.786" end="1.272" startframe="0" framelength="0" text="seen"/>
+		<timing id="3" start="1.272" end="1.334" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.334" end="2.574" startframe="0" framelength="0" text="house"/>
+		<timing id="5" start="2.574" end="2.927" startframe="0" framelength="0" text="But"/>
+		<timing id="6" start="2.927" end="3.239" startframe="0" framelength="0" text="I’m"/>
+		<timing id="7" start="3.239" end="3.818" startframe="0" framelength="0" text="happy"/>
+		<timing id="8" start="3.818" end="4.045" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="4.045" end="4.527" startframe="0" framelength="0" text="help"/>
+		<timing id="10" start="4.527" end="4.741" startframe="0" framelength="0" text="you"/>
+		<timing id="11" start="4.741" end="5.754" startframe="0" framelength="0" text="look"/>
+		<timing id="12" start="5.754" end="6.439" startframe="0" framelength="0" text="Sparrow"/>
+		<timing id="13" start="6.439" end="6.802" startframe="0" framelength="0" text="flew"/>
+		<timing id="14" start="6.802" end="6.998" startframe="0" framelength="0" text="up"/>
+		<timing id="15" start="6.998" end="7.314" startframe="0" framelength="0" text="into"/>
+		<timing id="16" start="7.314" end="7.47" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="7.47" end="8.385333333333334" startframe="0" framelength="0" text="sky"/>
+	</timings>
+</xml>

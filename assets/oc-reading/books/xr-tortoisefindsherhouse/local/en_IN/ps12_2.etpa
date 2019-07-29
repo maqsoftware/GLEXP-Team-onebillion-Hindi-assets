@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="So they sat together and waited for the storm to pass">
+		<timing id="0" start="0.006" end="0.353" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.353" end="0.547" startframe="0" framelength="0" text="they"/>
+		<timing id="2" start="0.547" end="1.007" startframe="0" framelength="0" text="sat"/>
+		<timing id="3" start="1.007" end="1.672" startframe="0" framelength="0" text="together"/>
+		<timing id="4" start="1.672" end="1.962" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="1.962" end="2.657" startframe="0" framelength="0" text="waited"/>
+		<timing id="6" start="2.657" end="2.9" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="2.9" end="3.041" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.041" end="3.667" startframe="0" framelength="0" text="storm"/>
+		<timing id="9" start="3.667" end="3.852" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="3.852" end="4.754166666666666" startframe="0" framelength="0" text="pass"/>
+	</timings>
+</xml>

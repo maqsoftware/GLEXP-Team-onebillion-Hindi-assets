@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="She will sit at the controls and fly the plane">
+		<timing id="0" start="0.006" end="0.307" startframe="0" framelength="0" text="She"/>
+		<timing id="1" start="0.307" end="0.488" startframe="0" framelength="0" text="will"/>
+		<timing id="2" start="0.488" end="0.845" startframe="0" framelength="0" text="sit"/>
+		<timing id="3" start="0.845" end="1.021" startframe="0" framelength="0" text="at"/>
+		<timing id="4" start="1.021" end="1.12" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.12" end="2.284" startframe="0" framelength="0" text="controls"/>
+		<timing id="6" start="2.284" end="2.559" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.559" end="2.987" startframe="0" framelength="0" text="fly"/>
+		<timing id="8" start="2.987" end="3.118" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.118" end="3.8921666666666668" startframe="0" framelength="0" text="plane"/>
+	</timings>
+</xml>

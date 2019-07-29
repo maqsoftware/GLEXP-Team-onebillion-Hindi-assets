@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="So  yes  I  am  a  star ">
+		<timing id="0" start="0.006" end="0.795" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.795" end="1.388" startframe="0" framelength="0" text=""/>
+		<timing id="2" start="1.388" end="2.26" startframe="0" framelength="0" text="yes"/>
+		<timing id="3" start="2.26" end="2.858" startframe="0" framelength="0" text=""/>
+		<timing id="4" start="2.858" end="3.426" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="3.426" end="4.027" startframe="0" framelength="0" text=""/>
+		<timing id="6" start="4.027" end="4.617" startframe="0" framelength="0" text="am"/>
+		<timing id="7" start="4.617" end="5.212" startframe="0" framelength="0" text=""/>
+		<timing id="8" start="5.212" end="5.804" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="5.804" end="6.397" startframe="0" framelength="0" text=""/>
+		<timing id="10" start="6.397" end="7.394" startframe="0" framelength="0" text="star"/>
+		<timing id="11" start="7.394" end="7.967333333333333" startframe="0" framelength="0" text=""/>
+	</timings>
+</xml>

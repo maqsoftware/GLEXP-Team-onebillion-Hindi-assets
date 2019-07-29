@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There is a puppy in the house The puppy invites Mouse to sleep next to him">
+		<timing id="0" start="0.006" end="0.42" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.42" end="0.578" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.578" end="0.651" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.651" end="1.186" startframe="0" framelength="0" text="puppy"/>
+		<timing id="4" start="1.186" end="1.328" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="1.328" end="1.416" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.416" end="2.515" startframe="0" framelength="0" text="house"/>
+		<timing id="7" start="2.515" end="2.669" startframe="0" framelength="0" text="The"/>
+		<timing id="8" start="2.669" end="3.184" startframe="0" framelength="0" text="puppy"/>
+		<timing id="9" start="3.184" end="3.825" startframe="0" framelength="0" text="invites"/>
+		<timing id="10" start="3.825" end="4.258" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="11" start="4.258" end="4.408" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="4.408" end="4.936" startframe="0" framelength="0" text="sleep"/>
+		<timing id="13" start="4.936" end="5.414" startframe="0" framelength="0" text="next"/>
+		<timing id="14" start="5.414" end="5.575" startframe="0" framelength="0" text="to"/>
+		<timing id="15" start="5.575" end="6.191" startframe="0" framelength="0" text="him"/>
+	</timings>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Samir’s grandma cannot do her sewing">
+		<timing id="0" start="0.006" end="0.7" startframe="0" framelength="0" text="Samir’s"/>
+		<timing id="1" start="0.7" end="1.407" startframe="0" framelength="0" text="grandma"/>
+		<timing id="2" start="1.407" end="1.912" startframe="0" framelength="0" text="cannot"/>
+		<timing id="3" start="1.912" end="2.208" startframe="0" framelength="0" text="do"/>
+		<timing id="4" start="2.208" end="2.404" startframe="0" framelength="0" text="her"/>
+		<timing id="5" start="2.404" end="3.2653333333333334" startframe="0" framelength="0" text="sewing"/>
+	</timings>
+</xml>

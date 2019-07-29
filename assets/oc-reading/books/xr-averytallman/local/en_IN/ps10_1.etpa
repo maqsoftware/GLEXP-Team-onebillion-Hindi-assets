@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="He made a very high table and a very high stool">
+		<timing id="0" start="0.006" end="0.209" startframe="0" framelength="0" text="He"/>
+		<timing id="1" start="0.209" end="0.588" startframe="0" framelength="0" text="made"/>
+		<timing id="2" start="0.588" end="0.653" startframe="0" framelength="0" text="a"/>
+		<timing id="3" start="0.653" end="1.058" startframe="0" framelength="0" text="very"/>
+		<timing id="4" start="1.058" end="1.428" startframe="0" framelength="0" text="high"/>
+		<timing id="5" start="1.428" end="2.319" startframe="0" framelength="0" text="table"/>
+		<timing id="6" start="2.319" end="2.562" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="2.562" end="2.607" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="2.607" end="3.079" startframe="0" framelength="0" text="very"/>
+		<timing id="9" start="3.079" end="3.422" startframe="0" framelength="0" text="high"/>
+		<timing id="10" start="3.422" end="4.231833333333333" startframe="0" framelength="0" text="stool"/>
+	</timings>
+</xml>

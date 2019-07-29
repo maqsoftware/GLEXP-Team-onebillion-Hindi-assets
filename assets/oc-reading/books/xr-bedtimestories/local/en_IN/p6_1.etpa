@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There is also a story about an elephant called Alekhya">
+		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.338" end="0.535" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.535" end="1.011" startframe="0" framelength="0" text="also"/>
+		<timing id="3" start="1.011" end="1.064" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.064" end="1.668" startframe="0" framelength="0" text="story"/>
+		<timing id="5" start="1.668" end="2.152" startframe="0" framelength="0" text="about"/>
+		<timing id="6" start="2.152" end="2.302" startframe="0" framelength="0" text="an"/>
+		<timing id="7" start="2.302" end="2.911" startframe="0" framelength="0" text="elephant"/>
+		<timing id="8" start="2.911" end="3.425" startframe="0" framelength="0" text="called"/>
+		<timing id="9" start="3.425" end="4.5975" startframe="0" framelength="0" text="Alekhya"/>
+	</timings>
+</xml>

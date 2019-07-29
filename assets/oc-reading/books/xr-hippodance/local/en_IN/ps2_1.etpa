@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Millipede is trying to sleep He wants Hippo to go away">
+		<timing id="0" start="0.006" end="0.838" startframe="0" framelength="0" text="Millipede"/>
+		<timing id="1" start="0.838" end="1.076" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.076" end="1.52" startframe="0" framelength="0" text="trying"/>
+		<timing id="3" start="1.52" end="1.672" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.672" end="2.734" startframe="0" framelength="0" text="sleep"/>
+		<timing id="5" start="2.734" end="2.932" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="2.932" end="3.406" startframe="0" framelength="0" text="wants"/>
+		<timing id="7" start="3.406" end="3.908" startframe="0" framelength="0" text="Hippo"/>
+		<timing id="8" start="3.908" end="4.066" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="4.066" end="4.402" startframe="0" framelength="0" text="go"/>
+		<timing id="10" start="4.402" end="5.067666666666667" startframe="0" framelength="0" text="away"/>
+	</timings>
+</xml>

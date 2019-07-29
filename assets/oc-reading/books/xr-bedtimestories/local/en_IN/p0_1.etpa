@@ -1,0 +1,8 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Bedtime stories">
+		<timing id="0" start="0.006" end="0.787" startframe="0" framelength="0" text="Bedtime"/>
+		<timing id="1" start="0.787" end="1.8546666666666667" startframe="0" framelength="0" text="stories"/>
+	</timings>
+</xml>

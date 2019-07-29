@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Two workmen are painting the wall">
+		<timing id="0" start="0.006" end="0.246" startframe="0" framelength="0" text="Two"/>
+		<timing id="1" start="0.246" end="0.907" startframe="0" framelength="0" text="workmen"/>
+		<timing id="2" start="0.907" end="1.054" startframe="0" framelength="0" text="are"/>
+		<timing id="3" start="1.054" end="1.627" startframe="0" framelength="0" text="painting"/>
+		<timing id="4" start="1.627" end="1.735" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.735" end="2.4555" startframe="0" framelength="0" text="wall"/>
+	</timings>
+</xml>

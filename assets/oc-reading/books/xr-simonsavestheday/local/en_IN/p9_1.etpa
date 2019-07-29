@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Dad came home from hospital He said thank you to the Nurse Simon">
+		<timing id="0" start="0.006" end="0.567" startframe="0" framelength="0" text="Dad"/>
+		<timing id="1" start="0.567" end="0.995" startframe="0" framelength="0" text="came"/>
+		<timing id="2" start="0.995" end="1.414" startframe="0" framelength="0" text="home"/>
+		<timing id="3" start="1.414" end="1.789" startframe="0" framelength="0" text="from"/>
+		<timing id="4" start="1.789" end="3.291" startframe="0" framelength="0" text="hospital"/>
+		<timing id="5" start="3.291" end="3.576" startframe="0" framelength="0" text="He"/>
+		<timing id="6" start="3.576" end="4.066" startframe="0" framelength="0" text="said"/>
+		<timing id="7" start="4.066" end="4.594" startframe="0" framelength="0" text="thank"/>
+		<timing id="8" start="4.594" end="4.721" startframe="0" framelength="0" text="you"/>
+		<timing id="9" start="4.721" end="4.921" startframe="0" framelength="0" text="to"/>
+		<timing id="10" start="4.921" end="5.057" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="5.057" end="5.596" startframe="0" framelength="0" text="Nurse"/>
+		<timing id="12" start="5.596" end="6.609" startframe="0" framelength="0" text="Simon"/>
+	</timings>
+</xml>

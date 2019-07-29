@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="cro co dile">
+		<timing id="0" start="0.006" end="0.665" startframe="0" framelength="0" text="cro"/>
+		<timing id="1" start="0.665" end="1.382" startframe="0" framelength="0" text="co"/>
+		<timing id="2" start="1.382" end="1.9068333333333334" startframe="0" framelength="0" text="dile"/>
+	</timings>
+</xml>

@@ -1,0 +1,26 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Oh <break time="500ms"/> A <break time="500ms"/> kite <break time="500ms"/> said <break time="500ms"/> the <break time="500ms"/> children <break time="500ms"/> Thank <break time="500ms"/> you <break time="500ms"/> Mr <break time="500ms"/> Arjun <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.477" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.477" end="1.363" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.363" end="1.972" startframe="0" framelength="0" text="A"/>
+		<timing id="3" start="1.972" end="2.572" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.572" end="3.354" startframe="0" framelength="0" text="kite"/>
+		<timing id="5" start="3.354" end="3.954" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.954" end="4.734" startframe="0" framelength="0" text="said"/>
+		<timing id="7" start="4.734" end="5.334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.334" end="6.039" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="6.039" end="6.632" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.632" end="7.434" startframe="0" framelength="0" text="children"/>
+		<timing id="11" start="7.434" end="8.321" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.321" end="9.228" startframe="0" framelength="0" text="Thank"/>
+		<timing id="13" start="9.228" end="9.828" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.828" end="10.545" startframe="0" framelength="0" text="you"/>
+		<timing id="15" start="10.545" end="11.145" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.145" end="12.058" startframe="0" framelength="0" text="Mr"/>
+		<timing id="17" start="12.058" end="12.66" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.66" end="13.551" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="19" start="13.551" end="14.106" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

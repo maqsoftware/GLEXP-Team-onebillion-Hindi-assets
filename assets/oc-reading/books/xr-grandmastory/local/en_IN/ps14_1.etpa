@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mum was at the door waiting for them They ran to her">
+		<timing id="0" start="0.006" end="0.391" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.391" end="0.65" startframe="0" framelength="0" text="was"/>
+		<timing id="2" start="0.65" end="0.788" startframe="0" framelength="0" text="at"/>
+		<timing id="3" start="0.788" end="0.925" startframe="0" framelength="0" text="the"/>
+		<timing id="4" start="0.925" end="1.703" startframe="0" framelength="0" text="door"/>
+		<timing id="5" start="1.703" end="2.282" startframe="0" framelength="0" text="waiting"/>
+		<timing id="6" start="2.282" end="2.49" startframe="0" framelength="0" text="for"/>
+		<timing id="7" start="2.49" end="3.416" startframe="0" framelength="0" text="them"/>
+		<timing id="8" start="3.416" end="3.649" startframe="0" framelength="0" text="They"/>
+		<timing id="9" start="3.649" end="4.066" startframe="0" framelength="0" text="ran"/>
+		<timing id="10" start="4.066" end="4.235" startframe="0" framelength="0" text="to"/>
+		<timing id="11" start="4.235" end="4.911" startframe="0" framelength="0" text="her"/>
+	</timings>
+</xml>

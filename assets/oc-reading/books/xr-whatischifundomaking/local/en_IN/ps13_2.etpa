@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Eeeeh <break time="500ms"/> says <break time="500ms"/> grandma <break time="500ms"/> Be <break time="500ms"/> careful <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.643" startframe="0" framelength="0" text="Eeeeh"/>
+		<timing id="1" start="0.643" end="1.53" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.53" end="2.414" startframe="0" framelength="0" text="says"/>
+		<timing id="3" start="2.414" end="3.014" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.014" end="3.83" startframe="0" framelength="0" text="grandma"/>
+		<timing id="5" start="3.83" end="4.717" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.717" end="5.481" startframe="0" framelength="0" text="Be"/>
+		<timing id="7" start="5.481" end="6.074" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="6.074" end="7.116" startframe="0" framelength="0" text="careful"/>
+		<timing id="9" start="7.116" end="7.68" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

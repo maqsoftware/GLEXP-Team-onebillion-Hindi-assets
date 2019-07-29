@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Aditya is sad His toy car is broken">
+		<timing id="0" start="0.006" end="0.973" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="0.973" end="1.177" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="1.177" end="2.216" startframe="0" framelength="0" text="sad"/>
+		<timing id="3" start="2.216" end="2.597" startframe="0" framelength="0" text="His"/>
+		<timing id="4" start="2.597" end="2.914" startframe="0" framelength="0" text="toy"/>
+		<timing id="5" start="2.914" end="3.329" startframe="0" framelength="0" text="car"/>
+		<timing id="6" start="3.329" end="3.535" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="3.535" end="4.414666666666666" startframe="0" framelength="0" text="broken"/>
+	</timings>
+</xml>

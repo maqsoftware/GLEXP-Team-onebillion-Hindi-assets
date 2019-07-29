@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="A doctor came to fetch Dad The doctor said well done to Simon">
+		<timing id="0" start="0.006" end="0.125" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.125" end="0.732" startframe="0" framelength="0" text="doctor"/>
+		<timing id="2" start="0.732" end="1.157" startframe="0" framelength="0" text="came"/>
+		<timing id="3" start="1.157" end="1.338" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.338" end="1.847" startframe="0" framelength="0" text="fetch"/>
+		<timing id="5" start="1.847" end="2.99" startframe="0" framelength="0" text="Dad"/>
+		<timing id="6" start="2.99" end="3.18" startframe="0" framelength="0" text="The"/>
+		<timing id="7" start="3.18" end="3.792" startframe="0" framelength="0" text="doctor"/>
+		<timing id="8" start="3.792" end="4.234" startframe="0" framelength="0" text="said"/>
+		<timing id="9" start="4.234" end="4.676" startframe="0" framelength="0" text="well"/>
+		<timing id="10" start="4.676" end="5.009" startframe="0" framelength="0" text="done"/>
+		<timing id="11" start="5.009" end="5.191" startframe="0" framelength="0" text="to"/>
+		<timing id="12" start="5.191" end="6.2171666666666665" startframe="0" framelength="0" text="Simon"/>
+	</timings>
+</xml>

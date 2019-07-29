@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="We’re here at last This is the one">
+		<timing id="0" start="0.006" end="0.35" startframe="0" framelength="0" text="We’re"/>
+		<timing id="1" start="0.35" end="0.8" startframe="0" framelength="0" text="here"/>
+		<timing id="2" start="0.8" end="0.99" startframe="0" framelength="0" text="at"/>
+		<timing id="3" start="0.99" end="2.101" startframe="0" framelength="0" text="last"/>
+		<timing id="4" start="2.101" end="2.512" startframe="0" framelength="0" text="This"/>
+		<timing id="5" start="2.512" end="2.69" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="2.69" end="2.81" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.81" end="3.5003333333333333" startframe="0" framelength="0" text="one"/>
+	</timings>
+</xml>

@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="You are safe now says dad Harita says nothing She just cries and cries">
+		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="You"/>
+		<timing id="1" start="0.338" end="0.435" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.435" end="0.897" startframe="0" framelength="0" text="safe"/>
+		<timing id="3" start="0.897" end="1.615" startframe="0" framelength="0" text="now"/>
+		<timing id="4" start="1.615" end="2.188" startframe="0" framelength="0" text="says"/>
+		<timing id="5" start="2.188" end="3.21" startframe="0" framelength="0" text="dad"/>
+		<timing id="6" start="3.21" end="3.909" startframe="0" framelength="0" text="Harita"/>
+		<timing id="7" start="3.909" end="4.45" startframe="0" framelength="0" text="says"/>
+		<timing id="8" start="4.45" end="5.62" startframe="0" framelength="0" text="nothing"/>
+		<timing id="9" start="5.62" end="5.896" startframe="0" framelength="0" text="She"/>
+		<timing id="10" start="5.896" end="6.371" startframe="0" framelength="0" text="just"/>
+		<timing id="11" start="6.371" end="6.87" startframe="0" framelength="0" text="cries"/>
+		<timing id="12" start="6.87" end="7.081" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="7.081" end="7.941166666666667" startframe="0" framelength="0" text="cries"/>
+	</timings>
+</xml>

@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Divya kicked She screamed She shouted But nobody heard Deep into the forest they went">
+		<timing id="0" start="0.006" end="0.561" startframe="0" framelength="0" text="Divya"/>
+		<timing id="1" start="0.561" end="1.611" startframe="0" framelength="0" text="kicked"/>
+		<timing id="2" start="1.611" end="1.916" startframe="0" framelength="0" text="She"/>
+		<timing id="3" start="1.916" end="3.335" startframe="0" framelength="0" text="screamed"/>
+		<timing id="4" start="3.335" end="3.628" startframe="0" framelength="0" text="She"/>
+		<timing id="5" start="3.628" end="4.9" startframe="0" framelength="0" text="shouted"/>
+		<timing id="6" start="4.9" end="5.26" startframe="0" framelength="0" text="But"/>
+		<timing id="7" start="5.26" end="5.804" startframe="0" framelength="0" text="nobody"/>
+		<timing id="8" start="5.804" end="6.774" startframe="0" framelength="0" text="heard"/>
+		<timing id="9" start="6.774" end="7.178" startframe="0" framelength="0" text="Deep"/>
+		<timing id="10" start="7.178" end="7.473" startframe="0" framelength="0" text="into"/>
+		<timing id="11" start="7.473" end="7.594" startframe="0" framelength="0" text="the"/>
+		<timing id="12" start="7.594" end="8.334" startframe="0" framelength="0" text="forest"/>
+		<timing id="13" start="8.334" end="8.498" startframe="0" framelength="0" text="they"/>
+		<timing id="14" start="8.498" end="9.2735" startframe="0" framelength="0" text="went"/>
+	</timings>
+</xml>

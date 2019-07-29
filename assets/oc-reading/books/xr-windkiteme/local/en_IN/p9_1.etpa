@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It has become quiet I cannot hear the wind anymore">
+		<timing id="0" start="0.006" end="0.215" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.215" end="0.604" startframe="0" framelength="0" text="has"/>
+		<timing id="2" start="0.604" end="1.115" startframe="0" framelength="0" text="become"/>
+		<timing id="3" start="1.115" end="1.753" startframe="0" framelength="0" text="quiet"/>
+		<timing id="4" start="1.753" end="1.937" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="1.937" end="2.643" startframe="0" framelength="0" text="cannot"/>
+		<timing id="6" start="2.643" end="3.055" startframe="0" framelength="0" text="hear"/>
+		<timing id="7" start="3.055" end="3.207" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="3.207" end="3.705" startframe="0" framelength="0" text="wind"/>
+		<timing id="9" start="3.705" end="4.728166666666667" startframe="0" framelength="0" text="anymore"/>
+	</timings>
+</xml>

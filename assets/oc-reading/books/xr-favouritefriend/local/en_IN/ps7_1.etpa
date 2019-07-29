@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I am Giraffe I am sad when I can’t scratch my head">
+		<timing id="0" start="0.006" end="0.291" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.291" end="0.495" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.495" end="1.751" startframe="0" framelength="0" text="Giraffe"/>
+		<timing id="3" start="1.751" end="1.862" startframe="0" framelength="0" text="I"/>
+		<timing id="4" start="1.862" end="2.0" startframe="0" framelength="0" text="am"/>
+		<timing id="5" start="2.0" end="2.414" startframe="0" framelength="0" text="sad"/>
+		<timing id="6" start="2.414" end="2.739" startframe="0" framelength="0" text="when"/>
+		<timing id="7" start="2.739" end="2.887" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="2.887" end="3.311" startframe="0" framelength="0" text="can’t"/>
+		<timing id="9" start="3.311" end="3.962" startframe="0" framelength="0" text="scratch"/>
+		<timing id="10" start="3.962" end="4.169" startframe="0" framelength="0" text="my"/>
+		<timing id="11" start="4.169" end="4.728166666666667" startframe="0" framelength="0" text="head"/>
+	</timings>
+</xml>

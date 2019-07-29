@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="When I grow up I want to be a football player and score the winning goal">
+		<timing id="0" start="0.006" end="0.414" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.414" end="0.574" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.574" end="1.0" startframe="0" framelength="0" text="grow"/>
+		<timing id="3" start="1.0" end="1.636" startframe="0" framelength="0" text="up"/>
+		<timing id="4" start="1.636" end="1.819" startframe="0" framelength="0" text="I"/>
+		<timing id="5" start="1.819" end="2.202" startframe="0" framelength="0" text="want"/>
+		<timing id="6" start="2.202" end="2.323" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="2.323" end="2.525" startframe="0" framelength="0" text="be"/>
+		<timing id="8" start="2.525" end="2.603" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="2.603" end="3.314" startframe="0" framelength="0" text="football"/>
+		<timing id="10" start="3.314" end="4.05" startframe="0" framelength="0" text="player"/>
+		<timing id="11" start="4.05" end="4.274" startframe="0" framelength="0" text="and"/>
+		<timing id="12" start="4.274" end="4.708" startframe="0" framelength="0" text="score"/>
+		<timing id="13" start="4.708" end="4.832" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="4.832" end="5.313" startframe="0" framelength="0" text="winning"/>
+		<timing id="15" start="5.313" end="6.008166666666667" startframe="0" framelength="0" text="goal"/>
+	</timings>
+</xml>

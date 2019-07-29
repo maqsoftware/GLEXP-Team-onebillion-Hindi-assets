@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Help Dad has lost his key">
+		<timing id="0" start="0.006" end="1.141" startframe="0" framelength="0" text="Help"/>
+		<timing id="1" start="1.141" end="1.616" startframe="0" framelength="0" text="Dad"/>
+		<timing id="2" start="1.616" end="1.993" startframe="0" framelength="0" text="has"/>
+		<timing id="3" start="1.993" end="2.392" startframe="0" framelength="0" text="lost"/>
+		<timing id="4" start="2.392" end="2.658" startframe="0" framelength="0" text="his"/>
+		<timing id="5" start="2.658" end="3.291333333333333" startframe="0" framelength="0" text="key"/>
+	</timings>
+</xml>

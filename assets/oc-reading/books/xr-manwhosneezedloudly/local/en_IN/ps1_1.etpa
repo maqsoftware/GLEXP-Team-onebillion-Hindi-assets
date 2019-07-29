@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Once there was a man who sneezed very loudly">
+		<timing id="0" start="0.006" end="0.528" startframe="0" framelength="0" text="Once"/>
+		<timing id="1" start="0.528" end="0.803" startframe="0" framelength="0" text="there"/>
+		<timing id="2" start="0.803" end="1.12" startframe="0" framelength="0" text="was"/>
+		<timing id="3" start="1.12" end="1.162" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.162" end="1.635" startframe="0" framelength="0" text="man"/>
+		<timing id="5" start="1.635" end="1.894" startframe="0" framelength="0" text="who"/>
+		<timing id="6" start="1.894" end="2.502" startframe="0" framelength="0" text="sneezed"/>
+		<timing id="7" start="2.502" end="2.87" startframe="0" framelength="0" text="very"/>
+		<timing id="8" start="2.87" end="3.7876666666666665" startframe="0" framelength="0" text="loudly"/>
+	</timings>
+</xml>

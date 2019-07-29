@@ -1,0 +1,8 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Un cle">
+		<timing id="0" start="0.006" end="0.552" startframe="0" framelength="0" text="Un"/>
+		<timing id="1" start="0.552" end="1.1755" startframe="0" framelength="0" text="cle"/>
+	</timings>
+</xml>

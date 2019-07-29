@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="They saw Sara">
+		<timing id="0" start="0.006" end="0.268" startframe="0" framelength="0" text="They"/>
+		<timing id="1" start="0.268" end="0.615" startframe="0" framelength="0" text="saw"/>
+		<timing id="2" start="0.615" end="1.4628333333333334" startframe="0" framelength="0" text="Sara"/>
+	</timings>
+</xml>

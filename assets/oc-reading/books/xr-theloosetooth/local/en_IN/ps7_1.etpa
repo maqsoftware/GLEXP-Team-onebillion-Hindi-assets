@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Harita <break time="500ms"/> finds <break time="500ms"/> a <break time="500ms"/> piece <break time="500ms"/> of <break time="500ms"/> charcoal <break time="500ms"/> and <break time="500ms"/> sticks <break time="500ms"/> the <break time="500ms"/> tooth <break time="500ms"/> into <break time="500ms"/> it <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.928" startframe="0" framelength="0" text="Harita"/>
+		<timing id="1" start="0.928" end="1.528" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.528" end="2.549" startframe="0" framelength="0" text="finds"/>
+		<timing id="3" start="2.549" end="3.143" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="3.143" end="3.736" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.736" end="4.329" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.329" end="5.111" startframe="0" framelength="0" text="piece"/>
+		<timing id="7" start="5.111" end="5.705" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.705" end="6.454" startframe="0" framelength="0" text="of"/>
+		<timing id="9" start="6.454" end="7.054" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.054" end="8.164" startframe="0" framelength="0" text="charcoal"/>
+		<timing id="11" start="8.164" end="8.759" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.759" end="9.399" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="9.399" end="9.999" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.999" end="10.941" startframe="0" framelength="0" text="sticks"/>
+		<timing id="15" start="10.941" end="11.541" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.541" end="12.245" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="12.245" end="12.845" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.845" end="13.535" startframe="0" framelength="0" text="tooth"/>
+		<timing id="19" start="13.535" end="14.136" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.136" end="14.877" startframe="0" framelength="0" text="into"/>
+		<timing id="21" start="14.877" end="15.477" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.477" end="15.76" startframe="0" framelength="0" text="it"/>
+		<timing id="23" start="15.76" end="16.3265" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

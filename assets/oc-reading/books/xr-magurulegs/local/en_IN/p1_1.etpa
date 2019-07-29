@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="A long time ago all the animals crawled on the ground They had no legs">
+		<timing id="0" start="0.006" end="0.122" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.122" end="0.528" startframe="0" framelength="0" text="long"/>
+		<timing id="2" start="0.528" end="0.984" startframe="0" framelength="0" text="time"/>
+		<timing id="3" start="0.984" end="1.688" startframe="0" framelength="0" text="ago"/>
+		<timing id="4" start="1.688" end="1.949" startframe="0" framelength="0" text="all"/>
+		<timing id="5" start="1.949" end="2.152" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.152" end="2.816" startframe="0" framelength="0" text="animals"/>
+		<timing id="7" start="2.816" end="3.283" startframe="0" framelength="0" text="crawled"/>
+		<timing id="8" start="3.283" end="3.485" startframe="0" framelength="0" text="on"/>
+		<timing id="9" start="3.485" end="3.585" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="3.585" end="4.71" startframe="0" framelength="0" text="ground"/>
+		<timing id="11" start="4.71" end="4.957" startframe="0" framelength="0" text="They"/>
+		<timing id="12" start="4.957" end="5.323" startframe="0" framelength="0" text="had"/>
+		<timing id="13" start="5.323" end="5.535" startframe="0" framelength="0" text="no"/>
+		<timing id="14" start="5.535" end="6.2171666666666665" startframe="0" framelength="0" text="legs"/>
+	</timings>
+</xml>

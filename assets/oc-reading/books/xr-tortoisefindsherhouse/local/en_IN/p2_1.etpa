@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What are you looking for asked Snail">
+		<timing id="0" start="0.006" end="0.45" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.45" end="0.588" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.588" end="0.819" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="0.819" end="1.345" startframe="0" framelength="0" text="looking"/>
+		<timing id="4" start="1.345" end="2.381" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="2.381" end="2.98" startframe="0" framelength="0" text="asked"/>
+		<timing id="6" start="2.98" end="3.9445" startframe="0" framelength="0" text="Snail"/>
+	</timings>
+</xml>

@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mum and Deeksha are going shopping">
+		<timing id="0" start="0.006" end="0.417" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.417" end="0.631" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.631" end="1.252" startframe="0" framelength="0" text="Deeksha"/>
+		<timing id="3" start="1.252" end="1.548" startframe="0" framelength="0" text="are"/>
+		<timing id="4" start="1.548" end="1.939" startframe="0" framelength="0" text="going"/>
+		<timing id="5" start="1.939" end="2.8473333333333333" startframe="0" framelength="0" text="shopping"/>
+	</timings>
+</xml>

@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="When she wakes up it is almost dark She is all alone">
+		<timing id="0" start="0.006" end="0.395" startframe="0" framelength="0" text="When"/>
+		<timing id="1" start="0.395" end="0.679" startframe="0" framelength="0" text="she"/>
+		<timing id="2" start="0.679" end="1.239" startframe="0" framelength="0" text="wakes"/>
+		<timing id="3" start="1.239" end="1.833" startframe="0" framelength="0" text="up"/>
+		<timing id="4" start="1.833" end="1.987" startframe="0" framelength="0" text="it"/>
+		<timing id="5" start="1.987" end="2.153" startframe="0" framelength="0" text="is"/>
+		<timing id="6" start="2.153" end="2.806" startframe="0" framelength="0" text="almost"/>
+		<timing id="7" start="2.806" end="3.775" startframe="0" framelength="0" text="dark"/>
+		<timing id="8" start="3.775" end="4.131" startframe="0" framelength="0" text="She"/>
+		<timing id="9" start="4.131" end="4.331" startframe="0" framelength="0" text="is"/>
+		<timing id="10" start="4.331" end="4.589" startframe="0" framelength="0" text="all"/>
+		<timing id="11" start="4.589" end="5.2505" startframe="0" framelength="0" text="alone"/>
+	</timings>
+</xml>

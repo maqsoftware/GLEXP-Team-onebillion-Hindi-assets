@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The crash wakens Aditya He leaps up">
+		<timing id="0" start="0.006" end="0.187" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.187" end="0.728" startframe="0" framelength="0" text="crash"/>
+		<timing id="2" start="0.728" end="1.346" startframe="0" framelength="0" text="wakens"/>
+		<timing id="3" start="1.346" end="2.521" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="4" start="2.521" end="2.766" startframe="0" framelength="0" text="He"/>
+		<timing id="5" start="2.766" end="3.305" startframe="0" framelength="0" text="leaps"/>
+		<timing id="6" start="3.305" end="3.8921666666666668" startframe="0" framelength="0" text="up"/>
+	</timings>
+</xml>

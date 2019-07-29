@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="A clap of thunder boomed through the valley">
+		<timing id="0" start="0.006" end="0.103" startframe="0" framelength="0" text="A"/>
+		<timing id="1" start="0.103" end="0.629" startframe="0" framelength="0" text="clap"/>
+		<timing id="2" start="0.629" end="0.858" startframe="0" framelength="0" text="of"/>
+		<timing id="3" start="0.858" end="1.452" startframe="0" framelength="0" text="thunder"/>
+		<timing id="4" start="1.452" end="1.997" startframe="0" framelength="0" text="boomed"/>
+		<timing id="5" start="1.997" end="2.33" startframe="0" framelength="0" text="through"/>
+		<timing id="6" start="2.33" end="2.457" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.457" end="3.2391666666666667" startframe="0" framelength="0" text="valley"/>
+	</timings>
+</xml>

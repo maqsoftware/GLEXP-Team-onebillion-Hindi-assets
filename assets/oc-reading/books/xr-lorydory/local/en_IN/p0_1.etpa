@@ -1,0 +1,8 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Lory Dory">
+		<timing id="0" start="0.006" end="0.48" startframe="0" framelength="0" text="Lory"/>
+		<timing id="1" start="0.48" end="1.2016666666666667" startframe="0" framelength="0" text="Dory"/>
+	</timings>
+</xml>

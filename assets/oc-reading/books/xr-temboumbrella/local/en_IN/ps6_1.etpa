@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="It <break time="500ms"/> keeps <break time="500ms"/> the <break time="500ms"/> goat <break time="500ms"/> away <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.542" startframe="0" framelength="0" text="It"/>
+		<timing id="1" start="0.542" end="1.136" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.136" end="2.109" startframe="0" framelength="0" text="keeps"/>
+		<timing id="3" start="2.109" end="2.702" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.702" end="3.551" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="3.551" end="4.151" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.151" end="4.797" startframe="0" framelength="0" text="goat"/>
+		<timing id="7" start="4.797" end="5.39" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.39" end="6.149" startframe="0" framelength="0" text="away"/>
+		<timing id="9" start="6.149" end="6.7135" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

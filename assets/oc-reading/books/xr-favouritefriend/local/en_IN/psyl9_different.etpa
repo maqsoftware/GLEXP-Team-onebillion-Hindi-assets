@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="dif fer ent">
+		<timing id="0" start="0.006" end="0.852" startframe="0" framelength="0" text="dif"/>
+		<timing id="1" start="0.852" end="1.536" startframe="0" framelength="0" text="fer"/>
+		<timing id="2" start="1.536" end="2.1681666666666666" startframe="0" framelength="0" text="ent"/>
+	</timings>
+</xml>

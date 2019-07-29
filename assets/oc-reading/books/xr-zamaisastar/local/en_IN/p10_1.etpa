@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="On the way to school I tell my little brother to be good">
+		<timing id="0" start="0.006" end="0.23" startframe="0" framelength="0" text="On"/>
+		<timing id="1" start="0.23" end="0.347" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.347" end="0.716" startframe="0" framelength="0" text="way"/>
+		<timing id="3" start="0.716" end="0.929" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="0.929" end="1.456" startframe="0" framelength="0" text="school"/>
+		<timing id="5" start="1.456" end="1.62" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="1.62" end="2.048" startframe="0" framelength="0" text="tell"/>
+		<timing id="7" start="2.048" end="2.314" startframe="0" framelength="0" text="my"/>
+		<timing id="8" start="2.314" end="2.814" startframe="0" framelength="0" text="little"/>
+		<timing id="9" start="2.814" end="3.382" startframe="0" framelength="0" text="brother"/>
+		<timing id="10" start="3.382" end="3.57" startframe="0" framelength="0" text="to"/>
+		<timing id="11" start="3.57" end="3.757" startframe="0" framelength="0" text="be"/>
+		<timing id="12" start="3.757" end="4.414666666666666" startframe="0" framelength="0" text="good"/>
+	</timings>
+</xml>

@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Oxtail Bird eats all the fleas He is my favourite friend">
+		<timing id="0" start="0.006" end="0.704" startframe="0" framelength="0" text="Oxtail"/>
+		<timing id="1" start="0.704" end="1.167" startframe="0" framelength="0" text="Bird"/>
+		<timing id="2" start="1.167" end="1.588" startframe="0" framelength="0" text="eats"/>
+		<timing id="3" start="1.588" end="1.856" startframe="0" framelength="0" text="all"/>
+		<timing id="4" start="1.856" end="1.967" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.967" end="3.161" startframe="0" framelength="0" text="fleas"/>
+		<timing id="6" start="3.161" end="3.484" startframe="0" framelength="0" text="He"/>
+		<timing id="7" start="3.484" end="3.66" startframe="0" framelength="0" text="is"/>
+		<timing id="8" start="3.66" end="3.899" startframe="0" framelength="0" text="my"/>
+		<timing id="9" start="3.899" end="4.509" startframe="0" framelength="0" text="favourite"/>
+		<timing id="10" start="4.509" end="5.2505" startframe="0" framelength="0" text="friend"/>
+	</timings>
+</xml>

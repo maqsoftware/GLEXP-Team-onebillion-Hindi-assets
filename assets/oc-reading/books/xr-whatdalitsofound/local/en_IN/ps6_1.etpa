@@ -1,0 +1,48 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> children <break time="500ms"/> walked <break time="500ms"/> back <break time="500ms"/> to <break time="500ms"/> where <break time="500ms"/> Aditya <break time="500ms"/> had <break time="500ms"/> found <break time="500ms"/> the <break time="500ms"/> money <break time="500ms"/> Now <break time="500ms"/> there <break time="500ms"/> were <break time="500ms"/> people <break time="500ms"/> everywhere <break time="500ms"/> They <break time="500ms"/> were <break time="500ms"/> searching <break time="500ms"/> for <break time="500ms"/> something <break time="500ms"/>">
+		<timing id="0" start="0.009" end="0.454" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.454" end="1.054" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.054" end="1.992" startframe="0" framelength="0" text="children"/>
+		<timing id="3" start="1.992" end="2.592" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.592" end="3.491" startframe="0" framelength="0" text="walked"/>
+		<timing id="5" start="3.491" end="4.084" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.084" end="4.843" startframe="0" framelength="0" text="back"/>
+		<timing id="7" start="4.843" end="5.44" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.44" end="5.962" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="5.962" end="6.557" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.557" end="7.379" startframe="0" framelength="0" text="where"/>
+		<timing id="11" start="7.379" end="7.972" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.972" end="8.877" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="13" start="8.877" end="9.477" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.477" end="10.254" startframe="0" framelength="0" text="had"/>
+		<timing id="15" start="10.254" end="10.854" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.854" end="11.788" startframe="0" framelength="0" text="found"/>
+		<timing id="17" start="11.788" end="12.388" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.388" end="13.092" startframe="0" framelength="0" text="the"/>
+		<timing id="19" start="13.092" end="13.692" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.692" end="14.357" startframe="0" framelength="0" text="money"/>
+		<timing id="21" start="14.357" end="15.244" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="15.244" end="16.054" startframe="0" framelength="0" text="Now"/>
+		<timing id="23" start="16.054" end="16.657" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.657" end="17.461" startframe="0" framelength="0" text="there"/>
+		<timing id="25" start="17.461" end="18.061" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="26" start="18.061" end="18.861" startframe="0" framelength="0" text="were"/>
+		<timing id="27" start="18.861" end="19.454" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="28" start="19.454" end="20.261" startframe="0" framelength="0" text="people"/>
+		<timing id="29" start="20.261" end="20.864" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="30" start="20.864" end="21.95" startframe="0" framelength="0" text="everywhere"/>
+		<timing id="31" start="21.95" end="22.837" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="32" start="22.837" end="23.419" startframe="0" framelength="0" text="They"/>
+		<timing id="33" start="23.419" end="24.019" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="34" start="24.019" end="24.819" startframe="0" framelength="0" text="were"/>
+		<timing id="35" start="24.819" end="25.419" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="36" start="25.419" end="26.515" startframe="0" framelength="0" text="searching"/>
+		<timing id="37" start="26.515" end="27.108" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="38" start="27.108" end="27.801" startframe="0" framelength="0" text="for"/>
+		<timing id="39" start="27.801" end="28.394" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="40" start="28.394" end="29.554" startframe="0" framelength="0" text="something"/>
+		<timing id="41" start="29.554" end="30.11916666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

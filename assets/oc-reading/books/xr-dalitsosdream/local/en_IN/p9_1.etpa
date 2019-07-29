@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="But suddenly oh no The jeep crashes into a tree">
+		<timing id="0" start="0.006" end="0.291" startframe="0" framelength="0" text="But"/>
+		<timing id="1" start="0.291" end="1.344" startframe="0" framelength="0" text="suddenly"/>
+		<timing id="2" start="1.344" end="1.539" startframe="0" framelength="0" text="oh"/>
+		<timing id="3" start="1.539" end="2.416" startframe="0" framelength="0" text="no"/>
+		<timing id="4" start="2.416" end="2.573" startframe="0" framelength="0" text="The"/>
+		<timing id="5" start="2.573" end="3.031" startframe="0" framelength="0" text="jeep"/>
+		<timing id="6" start="3.031" end="3.749" startframe="0" framelength="0" text="crashes"/>
+		<timing id="7" start="3.749" end="4.114" startframe="0" framelength="0" text="into"/>
+		<timing id="8" start="4.114" end="4.166" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="4.166" end="4.858666666666666" startframe="0" framelength="0" text="tree"/>
+	</timings>
+</xml>

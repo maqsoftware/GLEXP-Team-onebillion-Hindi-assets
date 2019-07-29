@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Ankit <break time="500ms"/> throws <break time="500ms"/> a <break time="500ms"/> ball <break time="500ms"/> for <break time="500ms"/> Max <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.811" startframe="0" framelength="0" text="Ankit"/>
+		<timing id="1" start="0.811" end="1.412" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.412" end="2.356" startframe="0" framelength="0" text="throws"/>
+		<timing id="3" start="2.356" end="2.951" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.951" end="3.614" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.614" end="4.216" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.216" end="5.017" startframe="0" framelength="0" text="ball"/>
+		<timing id="7" start="5.017" end="5.611" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.611" end="6.457" startframe="0" framelength="0" text="for"/>
+		<timing id="9" start="6.457" end="7.05" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.05" end="8.27" startframe="0" framelength="0" text="Max"/>
+		<timing id="11" start="8.27" end="8.829333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

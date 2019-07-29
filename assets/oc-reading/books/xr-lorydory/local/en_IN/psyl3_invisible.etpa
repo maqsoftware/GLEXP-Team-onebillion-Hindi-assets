@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="in vis i ble">
+		<timing id="0" start="0.006" end="0.725" startframe="0" framelength="0" text="in"/>
+		<timing id="1" start="0.725" end="1.411" startframe="0" framelength="0" text="vis"/>
+		<timing id="2" start="1.411" end="2.062" startframe="0" framelength="0" text="i"/>
+		<timing id="3" start="2.062" end="2.7428333333333335" startframe="0" framelength="0" text="ble"/>
+	</timings>
+</xml>

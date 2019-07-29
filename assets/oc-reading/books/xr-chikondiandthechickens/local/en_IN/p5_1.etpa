@@ -1,0 +1,23 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Now the chickens are very clean Dipti puts them on the grass They don’t move a feather">
+		<timing id="0" start="0.006" end="0.408" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.408" end="0.555" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.555" end="1.16" startframe="0" framelength="0" text="chickens"/>
+		<timing id="3" start="1.16" end="1.304" startframe="0" framelength="0" text="are"/>
+		<timing id="4" start="1.304" end="1.689" startframe="0" framelength="0" text="very"/>
+		<timing id="5" start="1.689" end="2.786" startframe="0" framelength="0" text="clean"/>
+		<timing id="6" start="2.786" end="3.395" startframe="0" framelength="0" text="Dipti"/>
+		<timing id="7" start="3.395" end="3.856" startframe="0" framelength="0" text="puts"/>
+		<timing id="8" start="3.856" end="4.148" startframe="0" framelength="0" text="them"/>
+		<timing id="9" start="4.148" end="4.321" startframe="0" framelength="0" text="on"/>
+		<timing id="10" start="4.321" end="4.42" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.42" end="5.545" startframe="0" framelength="0" text="grass"/>
+		<timing id="12" start="5.545" end="5.858" startframe="0" framelength="0" text="They"/>
+		<timing id="13" start="5.858" end="6.374" startframe="0" framelength="0" text="don’t"/>
+		<timing id="14" start="6.374" end="6.673" startframe="0" framelength="0" text="move"/>
+		<timing id="15" start="6.673" end="6.759" startframe="0" framelength="0" text="a"/>
+		<timing id="16" start="6.759" end="7.523166666666667" startframe="0" framelength="0" text="feather"/>
+	</timings>
+</xml>

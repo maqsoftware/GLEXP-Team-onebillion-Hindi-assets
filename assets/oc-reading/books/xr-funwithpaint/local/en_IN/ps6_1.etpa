@@ -1,0 +1,12 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Do you like Vina’s red gate">
+		<timing id="0" start="0.006" end="0.17" startframe="0" framelength="0" text="Do"/>
+		<timing id="1" start="0.17" end="0.33" startframe="0" framelength="0" text="you"/>
+		<timing id="2" start="0.33" end="0.659" startframe="0" framelength="0" text="like"/>
+		<timing id="3" start="0.659" end="1.217" startframe="0" framelength="0" text="Vina’s"/>
+		<timing id="4" start="1.217" end="1.448" startframe="0" framelength="0" text="red"/>
+		<timing id="5" start="1.448" end="2.194166666666667" startframe="0" framelength="0" text="gate"/>
+	</timings>
+</xml>

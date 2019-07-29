@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Nsa pa to">
+		<timing id="0" start="0.006" end="1.087" startframe="0" framelength="0" text="Nsa"/>
+		<timing id="1" start="1.087" end="1.765" startframe="0" framelength="0" text="pa"/>
+		<timing id="2" start="1.765" end="2.4031666666666665" startframe="0" framelength="0" text="to"/>
+	</timings>
+</xml>

@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="So I go out to play in the rain all by myself I love the rain">
+		<timing id="0" start="0.006" end="0.346" startframe="0" framelength="0" text="So"/>
+		<timing id="1" start="0.346" end="0.5" startframe="0" framelength="0" text="I"/>
+		<timing id="2" start="0.5" end="0.821" startframe="0" framelength="0" text="go"/>
+		<timing id="3" start="0.821" end="1.134" startframe="0" framelength="0" text="out"/>
+		<timing id="4" start="1.134" end="1.272" startframe="0" framelength="0" text="to"/>
+		<timing id="5" start="1.272" end="1.633" startframe="0" framelength="0" text="play"/>
+		<timing id="6" start="1.633" end="1.786" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="1.786" end="1.909" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="1.909" end="2.731" startframe="0" framelength="0" text="rain"/>
+		<timing id="9" start="2.731" end="2.996" startframe="0" framelength="0" text="all"/>
+		<timing id="10" start="2.996" end="3.279" startframe="0" framelength="0" text="by"/>
+		<timing id="11" start="3.279" end="4.683" startframe="0" framelength="0" text="myself"/>
+		<timing id="12" start="4.683" end="4.856" startframe="0" framelength="0" text="I"/>
+		<timing id="13" start="4.856" end="5.204" startframe="0" framelength="0" text="love"/>
+		<timing id="14" start="5.204" end="5.352" startframe="0" framelength="0" text="the"/>
+		<timing id="15" start="5.352" end="6.060333333333333" startframe="0" framelength="0" text="rain"/>
+	</timings>
+</xml>

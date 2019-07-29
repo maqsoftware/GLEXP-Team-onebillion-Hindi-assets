@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Little Ant began to shout There is a place I know about">
+		<timing id="0" start="0.006" end="0.462" startframe="0" framelength="0" text="Little"/>
+		<timing id="1" start="0.462" end="0.766" startframe="0" framelength="0" text="Ant"/>
+		<timing id="2" start="0.766" end="1.305" startframe="0" framelength="0" text="began"/>
+		<timing id="3" start="1.305" end="1.446" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.446" end="2.366" startframe="0" framelength="0" text="shout"/>
+		<timing id="5" start="2.366" end="2.753" startframe="0" framelength="0" text="There"/>
+		<timing id="6" start="2.753" end="2.917" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="2.917" end="2.983" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="2.983" end="3.485" startframe="0" framelength="0" text="place"/>
+		<timing id="9" start="3.485" end="3.668" startframe="0" framelength="0" text="I"/>
+		<timing id="10" start="3.668" end="3.913" startframe="0" framelength="0" text="know"/>
+		<timing id="11" start="3.913" end="4.623666666666667" startframe="0" framelength="0" text="about"/>
+	</timings>
+</xml>

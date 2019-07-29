@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="un der stood">
+		<timing id="0" start="0.006" end="0.682" startframe="0" framelength="0" text="un"/>
+		<timing id="1" start="0.682" end="1.474" startframe="0" framelength="0" text="der"/>
+		<timing id="2" start="1.474" end="2.2203333333333335" startframe="0" framelength="0" text="stood"/>
+	</timings>
+</xml>

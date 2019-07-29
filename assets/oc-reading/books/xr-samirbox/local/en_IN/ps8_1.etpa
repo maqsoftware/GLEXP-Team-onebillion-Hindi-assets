@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Now Samir’s uncle can pour the oil">
+		<timing id="0" start="0.006" end="0.361" startframe="0" framelength="0" text="Now"/>
+		<timing id="1" start="0.361" end="0.965" startframe="0" framelength="0" text="Samir’s"/>
+		<timing id="2" start="0.965" end="1.444" startframe="0" framelength="0" text="uncle"/>
+		<timing id="3" start="1.444" end="1.725" startframe="0" framelength="0" text="can"/>
+		<timing id="4" start="1.725" end="2.015" startframe="0" framelength="0" text="pour"/>
+		<timing id="5" start="2.015" end="2.27" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="2.27" end="2.795" startframe="0" framelength="0" text="oil"/>
+	</timings>
+</xml>

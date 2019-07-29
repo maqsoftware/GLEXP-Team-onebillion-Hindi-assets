@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The cake soon disappeared Mouse needed to lie down">
+		<timing id="0" start="0.006" end="0.17" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.17" end="0.571" startframe="0" framelength="0" text="cake"/>
+		<timing id="2" start="0.571" end="1.002" startframe="0" framelength="0" text="soon"/>
+		<timing id="3" start="1.002" end="2.396" startframe="0" framelength="0" text="disappeared"/>
+		<timing id="4" start="2.396" end="2.958" startframe="0" framelength="0" text="Mouse"/>
+		<timing id="5" start="2.958" end="3.421" startframe="0" framelength="0" text="needed"/>
+		<timing id="6" start="3.421" end="3.618" startframe="0" framelength="0" text="to"/>
+		<timing id="7" start="3.618" end="3.861" startframe="0" framelength="0" text="lie"/>
+		<timing id="8" start="3.861" end="4.5975" startframe="0" framelength="0" text="down"/>
+	</timings>
+</xml>

@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Mum likes both sides of the gate">
+		<timing id="0" start="0.006" end="0.372" startframe="0" framelength="0" text="Mum"/>
+		<timing id="1" start="0.372" end="0.819" startframe="0" framelength="0" text="likes"/>
+		<timing id="2" start="0.819" end="1.221" startframe="0" framelength="0" text="both"/>
+		<timing id="3" start="1.221" end="1.711" startframe="0" framelength="0" text="sides"/>
+		<timing id="4" start="1.711" end="1.843" startframe="0" framelength="0" text="of"/>
+		<timing id="5" start="1.843" end="1.964" startframe="0" framelength="0" text="the"/>
+		<timing id="6" start="1.964" end="2.716666666666667" startframe="0" framelength="0" text="gate"/>
+	</timings>
+</xml>

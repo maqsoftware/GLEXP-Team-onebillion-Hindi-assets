@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There is my kite But I think we have done enough flying today">
+		<timing id="0" start="0.006" end="0.526" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.526" end="0.746" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.746" end="1.03" startframe="0" framelength="0" text="my"/>
+		<timing id="3" start="1.03" end="1.618" startframe="0" framelength="0" text="kite"/>
+		<timing id="4" start="1.618" end="1.923" startframe="0" framelength="0" text="But"/>
+		<timing id="5" start="1.923" end="2.117" startframe="0" framelength="0" text="I"/>
+		<timing id="6" start="2.117" end="2.616" startframe="0" framelength="0" text="think"/>
+		<timing id="7" start="2.616" end="2.831" startframe="0" framelength="0" text="we"/>
+		<timing id="8" start="2.831" end="3.158" startframe="0" framelength="0" text="have"/>
+		<timing id="9" start="3.158" end="3.491" startframe="0" framelength="0" text="done"/>
+		<timing id="10" start="3.491" end="3.905" startframe="0" framelength="0" text="enough"/>
+		<timing id="11" start="3.905" end="4.466" startframe="0" framelength="0" text="flying"/>
+		<timing id="12" start="4.466" end="5.355" startframe="0" framelength="0" text="today"/>
+	</timings>
+</xml>

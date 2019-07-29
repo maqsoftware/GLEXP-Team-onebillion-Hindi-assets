@@ -1,0 +1,9 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="to mor row">
+		<timing id="0" start="0.006" end="0.621" startframe="0" framelength="0" text="to"/>
+		<timing id="1" start="0.621" end="1.412" startframe="0" framelength="0" text="mor"/>
+		<timing id="2" start="1.412" end="2.0113333333333334" startframe="0" framelength="0" text="row"/>
+	</timings>
+</xml>

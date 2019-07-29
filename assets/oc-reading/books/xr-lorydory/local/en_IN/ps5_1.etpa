@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="At night you could see her shape under the blanket">
+		<timing id="0" start="0.006" end="0.327" startframe="0" framelength="0" text="At"/>
+		<timing id="1" start="0.327" end="1.167" startframe="0" framelength="0" text="night"/>
+		<timing id="2" start="1.167" end="1.421" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="1.421" end="1.66" startframe="0" framelength="0" text="could"/>
+		<timing id="4" start="1.66" end="1.997" startframe="0" framelength="0" text="see"/>
+		<timing id="5" start="1.997" end="2.23" startframe="0" framelength="0" text="her"/>
+		<timing id="6" start="2.23" end="2.706" startframe="0" framelength="0" text="shape"/>
+		<timing id="7" start="2.706" end="3.006" startframe="0" framelength="0" text="under"/>
+		<timing id="8" start="3.006" end="3.133" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.133" end="4.1535" startframe="0" framelength="0" text="blanket"/>
+	</timings>
+</xml>

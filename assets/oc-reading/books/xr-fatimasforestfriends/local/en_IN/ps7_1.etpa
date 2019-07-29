@@ -1,0 +1,21 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Sita and the squirrel played in the top of the tree They had great fun">
+		<timing id="0" start="0.006" end="0.673" startframe="0" framelength="0" text="Sita"/>
+		<timing id="1" start="0.673" end="0.951" startframe="0" framelength="0" text="and"/>
+		<timing id="2" start="0.951" end="1.041" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="1.041" end="1.66" startframe="0" framelength="0" text="squirrel"/>
+		<timing id="4" start="1.66" end="2.125" startframe="0" framelength="0" text="played"/>
+		<timing id="5" start="2.125" end="2.251" startframe="0" framelength="0" text="in"/>
+		<timing id="6" start="2.251" end="2.354" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.354" end="2.798" startframe="0" framelength="0" text="top"/>
+		<timing id="8" start="2.798" end="2.91" startframe="0" framelength="0" text="of"/>
+		<timing id="9" start="2.91" end="3.065" startframe="0" framelength="0" text="the"/>
+		<timing id="10" start="3.065" end="4.062" startframe="0" framelength="0" text="tree"/>
+		<timing id="11" start="4.062" end="4.309" startframe="0" framelength="0" text="They"/>
+		<timing id="12" start="4.309" end="4.661" startframe="0" framelength="0" text="had"/>
+		<timing id="13" start="4.661" end="5.084" startframe="0" framelength="0" text="great"/>
+		<timing id="14" start="5.084" end="5.799166666666666" startframe="0" framelength="0" text="fun"/>
+	</timings>
+</xml>

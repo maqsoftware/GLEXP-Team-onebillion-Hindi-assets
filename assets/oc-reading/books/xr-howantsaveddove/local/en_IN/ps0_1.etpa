@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="How Ant Saved Dove">
+		<timing id="0" start="0.006" end="0.462" startframe="0" framelength="0" text="How"/>
+		<timing id="1" start="0.462" end="0.834" startframe="0" framelength="0" text="Ant"/>
+		<timing id="2" start="0.834" end="1.233" startframe="0" framelength="0" text="Saved"/>
+		<timing id="3" start="1.233" end="1.8546666666666667" startframe="0" framelength="0" text="Dove"/>
+	</timings>
+</xml>

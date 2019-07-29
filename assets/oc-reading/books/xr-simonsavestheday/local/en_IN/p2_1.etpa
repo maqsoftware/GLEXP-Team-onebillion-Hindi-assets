@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Sometimes Simon pretends to be a nurse But his dad says football is better">
+		<timing id="0" start="0.006" end="0.994" startframe="0" framelength="0" text="Sometimes"/>
+		<timing id="1" start="0.994" end="1.63" startframe="0" framelength="0" text="Simon"/>
+		<timing id="2" start="1.63" end="2.404" startframe="0" framelength="0" text="pretends"/>
+		<timing id="3" start="2.404" end="2.569" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="2.569" end="2.818" startframe="0" framelength="0" text="be"/>
+		<timing id="5" start="2.818" end="2.873" startframe="0" framelength="0" text="a"/>
+		<timing id="6" start="2.873" end="4.132" startframe="0" framelength="0" text="nurse"/>
+		<timing id="7" start="4.132" end="4.499" startframe="0" framelength="0" text="But"/>
+		<timing id="8" start="4.499" end="4.826" startframe="0" framelength="0" text="his"/>
+		<timing id="9" start="4.826" end="5.207" startframe="0" framelength="0" text="dad"/>
+		<timing id="10" start="5.207" end="5.817" startframe="0" framelength="0" text="says"/>
+		<timing id="11" start="5.817" end="6.507" startframe="0" framelength="0" text="football"/>
+		<timing id="12" start="6.507" end="6.698" startframe="0" framelength="0" text="is"/>
+		<timing id="13" start="6.698" end="7.549333333333333" startframe="0" framelength="0" text="better"/>
+	</timings>
+</xml>

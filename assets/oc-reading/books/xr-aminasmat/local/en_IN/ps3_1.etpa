@@ -1,0 +1,25 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Her mother said Take your mat with you when you go up to the hills It will protect you">
+		<timing id="0" start="0.006" end="0.228" startframe="0" framelength="0" text="Her"/>
+		<timing id="1" start="0.228" end="0.664" startframe="0" framelength="0" text="mother"/>
+		<timing id="2" start="0.664" end="1.425" startframe="0" framelength="0" text="said"/>
+		<timing id="3" start="1.425" end="1.755" startframe="0" framelength="0" text="Take"/>
+		<timing id="4" start="1.755" end="1.893" startframe="0" framelength="0" text="your"/>
+		<timing id="5" start="1.893" end="2.302" startframe="0" framelength="0" text="mat"/>
+		<timing id="6" start="2.302" end="2.529" startframe="0" framelength="0" text="with"/>
+		<timing id="7" start="2.529" end="2.734" startframe="0" framelength="0" text="you"/>
+		<timing id="8" start="2.734" end="3.066" startframe="0" framelength="0" text="when"/>
+		<timing id="9" start="3.066" end="3.205" startframe="0" framelength="0" text="you"/>
+		<timing id="10" start="3.205" end="3.498" startframe="0" framelength="0" text="go"/>
+		<timing id="11" start="3.498" end="3.68" startframe="0" framelength="0" text="up"/>
+		<timing id="12" start="3.68" end="3.816" startframe="0" framelength="0" text="to"/>
+		<timing id="13" start="3.816" end="3.932" startframe="0" framelength="0" text="the"/>
+		<timing id="14" start="3.932" end="5.094" startframe="0" framelength="0" text="hills"/>
+		<timing id="15" start="5.094" end="5.322" startframe="0" framelength="0" text="It"/>
+		<timing id="16" start="5.322" end="5.546" startframe="0" framelength="0" text="will"/>
+		<timing id="17" start="5.546" end="6.216" startframe="0" framelength="0" text="protect"/>
+		<timing id="18" start="6.216" end="6.6611666666666665" startframe="0" framelength="0" text="you"/>
+	</timings>
+</xml>

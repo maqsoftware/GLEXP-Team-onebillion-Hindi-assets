@@ -1,0 +1,36 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Aditya ran home again He dug a little pit beside the house He put goat manure and chicken droppings and dead leaves in it He mixed them with the soil">
+		<timing id="0" start="0.006" end="0.772" startframe="0" framelength="0" text="Aditya"/>
+		<timing id="1" start="0.772" end="1.097" startframe="0" framelength="0" text="ran"/>
+		<timing id="2" start="1.097" end="1.472" startframe="0" framelength="0" text="home"/>
+		<timing id="3" start="1.472" end="2.52" startframe="0" framelength="0" text="again"/>
+		<timing id="4" start="2.52" end="2.707" startframe="0" framelength="0" text="He"/>
+		<timing id="5" start="2.707" end="3.06" startframe="0" framelength="0" text="dug"/>
+		<timing id="6" start="3.06" end="3.116" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="3.116" end="3.539" startframe="0" framelength="0" text="little"/>
+		<timing id="8" start="3.539" end="3.845" startframe="0" framelength="0" text="pit"/>
+		<timing id="9" start="3.845" end="4.411" startframe="0" framelength="0" text="beside"/>
+		<timing id="10" start="4.411" end="4.557" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="4.557" end="5.757" startframe="0" framelength="0" text="house"/>
+		<timing id="12" start="5.757" end="5.98" startframe="0" framelength="0" text="He"/>
+		<timing id="13" start="5.98" end="6.321" startframe="0" framelength="0" text="put"/>
+		<timing id="14" start="6.321" end="6.734" startframe="0" framelength="0" text="goat"/>
+		<timing id="15" start="6.734" end="7.297" startframe="0" framelength="0" text="manure"/>
+		<timing id="16" start="7.297" end="7.488" startframe="0" framelength="0" text="and"/>
+		<timing id="17" start="7.488" end="7.961" startframe="0" framelength="0" text="chicken"/>
+		<timing id="18" start="7.961" end="8.64" startframe="0" framelength="0" text="droppings"/>
+		<timing id="19" start="8.64" end="8.86" startframe="0" framelength="0" text="and"/>
+		<timing id="20" start="8.86" end="9.176" startframe="0" framelength="0" text="dead"/>
+		<timing id="21" start="9.176" end="9.576" startframe="0" framelength="0" text="leaves"/>
+		<timing id="22" start="9.576" end="9.703" startframe="0" framelength="0" text="in"/>
+		<timing id="23" start="9.703" end="10.531" startframe="0" framelength="0" text="it"/>
+		<timing id="24" start="10.531" end="10.758" startframe="0" framelength="0" text="He"/>
+		<timing id="25" start="10.758" end="11.237" startframe="0" framelength="0" text="mixed"/>
+		<timing id="26" start="11.237" end="11.547" startframe="0" framelength="0" text="them"/>
+		<timing id="27" start="11.547" end="11.723" startframe="0" framelength="0" text="with"/>
+		<timing id="28" start="11.723" end="11.845" startframe="0" framelength="0" text="the"/>
+		<timing id="29" start="11.845" end="12.643166666666668" startframe="0" framelength="0" text="soil"/>
+	</timings>
+</xml>

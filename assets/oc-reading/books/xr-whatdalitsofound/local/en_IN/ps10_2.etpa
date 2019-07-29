@@ -1,0 +1,30 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Oh <break time="500ms"/> no <break time="500ms"/> It <break time="500ms"/> is <break time="500ms"/> Mr. <break time="500ms"/> Arjun <break time="500ms"/> said <break time="500ms"/> Dalitso <break time="500ms"/> I <break time="500ms"/> am <break time="500ms"/> in <break time="500ms"/> trouble <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.551" startframe="0" framelength="0" text="Oh"/>
+		<timing id="1" start="0.551" end="1.144" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.144" end="1.748" startframe="0" framelength="0" text="no"/>
+		<timing id="3" start="1.748" end="2.635" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.635" end="3.171" startframe="0" framelength="0" text="It"/>
+		<timing id="5" start="3.171" end="3.762" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.762" end="4.37" startframe="0" framelength="0" text="is"/>
+		<timing id="7" start="4.37" end="4.964" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="4.964" end="5.911" startframe="0" framelength="0" text="Mr."/>
+		<timing id="9" start="5.911" end="6.511" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.511" end="7.37" startframe="0" framelength="0" text="Arjun"/>
+		<timing id="11" start="7.37" end="7.97" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.97" end="8.75" startframe="0" framelength="0" text="said"/>
+		<timing id="13" start="8.75" end="9.35" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.35" end="10.312" startframe="0" framelength="0" text="Dalitso"/>
+		<timing id="15" start="10.312" end="11.199" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.199" end="11.882" startframe="0" framelength="0" text="I"/>
+		<timing id="17" start="11.882" end="12.483" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.483" end="13.073" startframe="0" framelength="0" text="am"/>
+		<timing id="19" start="13.073" end="13.673" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.673" end="14.303" startframe="0" framelength="0" text="in"/>
+		<timing id="21" start="14.303" end="14.896" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="14.896" end="15.831" startframe="0" framelength="0" text="trouble"/>
+		<timing id="23" start="15.831" end="16.404833333333332" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

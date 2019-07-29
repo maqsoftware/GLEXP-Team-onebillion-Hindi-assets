@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The marble rolls towards Little Sock’s home">
+		<timing id="0" start="0.006" end="0.15" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.15" end="0.763" startframe="0" framelength="0" text="marble"/>
+		<timing id="2" start="0.763" end="1.364" startframe="0" framelength="0" text="rolls"/>
+		<timing id="3" start="1.364" end="2.093" startframe="0" framelength="0" text="towards"/>
+		<timing id="4" start="2.093" end="2.493" startframe="0" framelength="0" text="Little"/>
+		<timing id="5" start="2.493" end="3.043" startframe="0" framelength="0" text="Sock’s"/>
+		<timing id="6" start="3.043" end="3.6831666666666667" startframe="0" framelength="0" text="home"/>
+	</timings>
+</xml>
