@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Chop the carrot and mushroom">
+		<timing id="0" start="0.006" end="0.447" startframe="0" framelength="0" text="Chop"/>
+		<timing id="1" start="0.447" end="0.608" startframe="0" framelength="0" text="the"/>
+		<timing id="2" start="0.608" end="1.193" startframe="0" framelength="0" text="carrot"/>
+		<timing id="3" start="1.193" end="1.45" startframe="0" framelength="0" text="and"/>
+		<timing id="4" start="1.45" end="2.586" startframe="0" framelength="0" text="mushroom"/>
+	</timings>
+</xml>

@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="His name is Big Dog said the boy">
+		<timing id="0" start="0.006" end="0.346" startframe="0" framelength="0" text="His"/>
+		<timing id="1" start="0.346" end="0.794" startframe="0" framelength="0" text="name"/>
+		<timing id="2" start="0.794" end="0.942" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.942" end="1.253" startframe="0" framelength="0" text="Big"/>
+		<timing id="4" start="1.253" end="1.815" startframe="0" framelength="0" text="Dog"/>
+		<timing id="5" start="1.815" end="2.218" startframe="0" framelength="0" text="said"/>
+		<timing id="6" start="2.218" end="2.395" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="2.395" end="3.160833333333333" startframe="0" framelength="0" text="boy"/>
+	</timings>
+</xml>

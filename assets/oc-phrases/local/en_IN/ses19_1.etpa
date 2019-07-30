@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Help <break time="500ms"/> There <break time="500ms"/> is <break time="500ms"/> a <break time="500ms"/> camel <break time="500ms"/> at <break time="500ms"/> my <break time="500ms"/> door <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.879" startframe="0" framelength="0" text="Help"/>
+		<timing id="1" start="0.879" end="1.48" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.48" end="2.376" startframe="0" framelength="0" text="There"/>
+		<timing id="3" start="2.376" end="2.97" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.97" end="3.397" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="3.397" end="3.992" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.992" end="4.656" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="4.656" end="5.256" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.256" end="6.084" startframe="0" framelength="0" text="camel"/>
+		<timing id="9" start="6.084" end="6.684" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.684" end="7.233" startframe="0" framelength="0" text="at"/>
+		<timing id="11" start="7.233" end="7.834" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.834" end="8.615" startframe="0" framelength="0" text="my"/>
+		<timing id="13" start="8.615" end="9.215" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.215" end="10.206" startframe="0" framelength="0" text="door"/>
+		<timing id="15" start="10.206" end="10.762333333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

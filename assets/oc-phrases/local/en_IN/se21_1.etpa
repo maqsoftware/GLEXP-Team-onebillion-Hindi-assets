@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I am off to the cinema said the cat">
+		<timing id="0" start="0.006" end="0.334" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.334" end="0.56" startframe="0" framelength="0" text="am"/>
+		<timing id="2" start="0.56" end="0.872" startframe="0" framelength="0" text="off"/>
+		<timing id="3" start="0.872" end="1.06" startframe="0" framelength="0" text="to"/>
+		<timing id="4" start="1.06" end="1.211" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.211" end="1.94" startframe="0" framelength="0" text="cinema"/>
+		<timing id="6" start="1.94" end="2.437" startframe="0" framelength="0" text="said"/>
+		<timing id="7" start="2.437" end="2.583" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.583" end="3.3698333333333332" startframe="0" framelength="0" text="cat"/>
+	</timings>
+</xml>

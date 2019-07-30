@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There <break time="500ms"/> is <break time="500ms"/> just <break time="500ms"/> one <break time="500ms"/> carrot <break time="500ms"/> left <break time="500ms"/> and <break time="500ms"/> one <break time="500ms"/> mushroom <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.903" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.903" end="1.494" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.494" end="2.173" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="2.173" end="2.773" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.773" end="3.691" startframe="0" framelength="0" text="just"/>
+		<timing id="5" start="3.691" end="4.291" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.291" end="5.169" startframe="0" framelength="0" text="one"/>
+		<timing id="7" start="5.169" end="5.769" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.769" end="6.698" startframe="0" framelength="0" text="carrot"/>
+		<timing id="9" start="6.698" end="7.298" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.298" end="8.17" startframe="0" framelength="0" text="left"/>
+		<timing id="11" start="8.17" end="8.767" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.767" end="9.545" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="9.545" end="10.145" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.145" end="11.022" startframe="0" framelength="0" text="one"/>
+		<timing id="15" start="11.022" end="11.622" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.622" end="12.852" startframe="0" framelength="0" text="mushroom"/>
+		<timing id="17" start="12.852" end="13.426833333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

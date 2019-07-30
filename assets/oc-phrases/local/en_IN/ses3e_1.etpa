@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> happy <break time="500ms"/> goat <break time="500ms"/> has <break time="500ms"/> a <break time="500ms"/> pink <break time="500ms"/> balloon <break time="500ms"/>">
+		<timing id="0" start="0.009" end="0.502" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.502" end="1.096" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.096" end="2.103" startframe="0" framelength="0" text="happy"/>
+		<timing id="3" start="2.103" end="2.703" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.703" end="3.415" startframe="0" framelength="0" text="goat"/>
+		<timing id="5" start="3.415" end="4.015" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.015" end="5.011" startframe="0" framelength="0" text="has"/>
+		<timing id="7" start="5.011" end="5.611" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.611" end="6.284" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="6.284" end="6.877" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.877" end="7.71" startframe="0" framelength="0" text="pink"/>
+		<timing id="11" start="7.71" end="8.31" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.31" end="9.354" startframe="0" framelength="0" text="balloon"/>
+		<timing id="13" start="9.354" end="9.9265" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

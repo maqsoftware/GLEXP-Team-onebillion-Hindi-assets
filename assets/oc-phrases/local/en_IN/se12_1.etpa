@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Why is the dog sitting in that big bag">
+		<timing id="0" start="0.006" end="0.397" startframe="0" framelength="0" text="Why"/>
+		<timing id="1" start="0.397" end="0.543" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.543" end="0.705" startframe="0" framelength="0" text="the"/>
+		<timing id="3" start="0.705" end="1.13" startframe="0" framelength="0" text="dog"/>
+		<timing id="4" start="1.13" end="1.675" startframe="0" framelength="0" text="sitting"/>
+		<timing id="5" start="1.675" end="1.861" startframe="0" framelength="0" text="in"/>
+		<timing id="6" start="1.861" end="2.252" startframe="0" framelength="0" text="that"/>
+		<timing id="7" start="2.252" end="2.601" startframe="0" framelength="0" text="big"/>
+		<timing id="8" start="2.601" end="3.3698333333333332" startframe="0" framelength="0" text="bag"/>
+	</timings>
+</xml>

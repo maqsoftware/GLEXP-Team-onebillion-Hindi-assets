@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="a <break time="500ms"/> carrot <break time="500ms"/> and <break time="500ms"/> a <break time="500ms"/> mushroom <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.679" startframe="0" framelength="0" text="a"/>
+		<timing id="1" start="0.679" end="1.279" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.279" end="2.207" startframe="0" framelength="0" text="carrot"/>
+		<timing id="3" start="2.207" end="2.807" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.807" end="3.572" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="3.572" end="4.172" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.172" end="4.845" startframe="0" framelength="0" text="a"/>
+		<timing id="7" start="4.845" end="5.445" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.445" end="6.674" startframe="0" framelength="0" text="mushroom"/>
+		<timing id="9" start="6.674" end="7.235833333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

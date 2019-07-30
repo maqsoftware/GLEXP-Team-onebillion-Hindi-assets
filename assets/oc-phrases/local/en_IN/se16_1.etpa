@@ -1,0 +1,11 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="What a smart red hat">
+		<timing id="0" start="0.006" end="0.455" startframe="0" framelength="0" text="What"/>
+		<timing id="1" start="0.455" end="0.53" startframe="0" framelength="0" text="a"/>
+		<timing id="2" start="0.53" end="1.317" startframe="0" framelength="0" text="smart"/>
+		<timing id="3" start="1.317" end="1.601" startframe="0" framelength="0" text="red"/>
+		<timing id="4" start="1.601" end="2.3771666666666667" startframe="0" framelength="0" text="hat"/>
+	</timings>
+</xml>

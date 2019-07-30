@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> duck <break time="500ms"/> is <break time="500ms"/> looking <break time="500ms"/> for <break time="500ms"/> her <break time="500ms"/> ducklings <break time="500ms"/> which <break time="500ms"/> the <break time="500ms"/> fox <break time="500ms"/> took <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.312" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.312" end="1.994" startframe="0" framelength="0" text="duck"/>
+		<timing id="3" start="1.994" end="2.588" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.588" end="3.015" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="3.015" end="3.616" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.616" end="4.65" startframe="0" framelength="0" text="looking"/>
+		<timing id="7" start="4.65" end="5.244" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.244" end="6.09" startframe="0" framelength="0" text="for"/>
+		<timing id="9" start="6.09" end="6.691" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.691" end="7.421" startframe="0" framelength="0" text="her"/>
+		<timing id="11" start="7.421" end="8.022" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.022" end="9.306" startframe="0" framelength="0" text="ducklings"/>
+		<timing id="13" start="9.306" end="9.906" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.906" end="10.791" startframe="0" framelength="0" text="which"/>
+		<timing id="15" start="10.791" end="11.391" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.391" end="12.179" startframe="0" framelength="0" text="the"/>
+		<timing id="17" start="12.179" end="12.772" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.772" end="13.973" startframe="0" framelength="0" text="fox"/>
+		<timing id="19" start="13.973" end="14.566" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="14.566" end="15.318" startframe="0" framelength="0" text="took"/>
+		<timing id="21" start="15.318" end="15.882333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

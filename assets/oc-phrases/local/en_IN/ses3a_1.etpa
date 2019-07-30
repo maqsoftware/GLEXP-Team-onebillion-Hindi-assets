@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There <break time="500ms"/> is <break time="500ms"/> a <break time="500ms"/> mouse <break time="500ms"/> on <break time="500ms"/> the <break time="500ms"/> shelf <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.903" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.903" end="1.497" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.497" end="1.924" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="1.924" end="2.524" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.524" end="3.196" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.196" end="3.791" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.791" end="4.719" startframe="0" framelength="0" text="mouse"/>
+		<timing id="7" start="4.719" end="5.319" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.319" end="6.151" startframe="0" framelength="0" text="on"/>
+		<timing id="9" start="6.151" end="6.751" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.751" end="7.455" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="7.455" end="8.048" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.048" end="9.389" startframe="0" framelength="0" text="shelf"/>
+		<timing id="13" start="9.389" end="9.952666666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

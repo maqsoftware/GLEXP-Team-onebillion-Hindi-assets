@@ -1,0 +1,10 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="sup <break time="500ms"/> per <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.75" startframe="0" framelength="0" text="sup"/>
+		<timing id="1" start="0.75" end="1.344" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.344" end="2.095" startframe="0" framelength="0" text="per"/>
+		<timing id="3" start="2.095" end="2.6645" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

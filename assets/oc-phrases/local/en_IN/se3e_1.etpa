@@ -1,0 +1,13 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The happy goat has a pink balloon">
+		<timing id="0" start="0.006" end="0.237" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.237" end="0.887" startframe="0" framelength="0" text="happy"/>
+		<timing id="2" start="0.887" end="1.302" startframe="0" framelength="0" text="goat"/>
+		<timing id="3" start="1.302" end="1.655" startframe="0" framelength="0" text="has"/>
+		<timing id="4" start="1.655" end="1.728" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.728" end="2.19" startframe="0" framelength="0" text="pink"/>
+		<timing id="6" start="2.19" end="3.1085" startframe="0" framelength="0" text="balloon"/>
+	</timings>
+</xml>

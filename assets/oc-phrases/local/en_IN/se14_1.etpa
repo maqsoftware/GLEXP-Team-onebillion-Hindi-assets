@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Why is that camel standing at my door">
+		<timing id="0" start="0.006" end="0.397" startframe="0" framelength="0" text="Why"/>
+		<timing id="1" start="0.397" end="0.547" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.547" end="0.918" startframe="0" framelength="0" text="that"/>
+		<timing id="3" start="0.918" end="1.445" startframe="0" framelength="0" text="camel"/>
+		<timing id="4" start="1.445" end="2.247" startframe="0" framelength="0" text="standing"/>
+		<timing id="5" start="2.247" end="2.547" startframe="0" framelength="0" text="at"/>
+		<timing id="6" start="2.547" end="2.856" startframe="0" framelength="0" text="my"/>
+		<timing id="7" start="2.856" end="3.5526666666666666" startframe="0" framelength="0" text="door"/>
+	</timings>
+</xml>

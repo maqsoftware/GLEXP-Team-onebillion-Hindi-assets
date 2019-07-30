@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The camel waited at the door but Tom did not come out">
+		<timing id="0" start="0.006" end="0.191" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.191" end="0.819" startframe="0" framelength="0" text="camel"/>
+		<timing id="2" start="0.819" end="1.459" startframe="0" framelength="0" text="waited"/>
+		<timing id="3" start="1.459" end="1.65" startframe="0" framelength="0" text="at"/>
+		<timing id="4" start="1.65" end="1.799" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.799" end="2.208" startframe="0" framelength="0" text="door"/>
+		<timing id="6" start="2.208" end="2.496" startframe="0" framelength="0" text="but"/>
+		<timing id="7" start="2.496" end="2.934" startframe="0" framelength="0" text="Tom"/>
+		<timing id="8" start="2.934" end="3.214" startframe="0" framelength="0" text="did"/>
+		<timing id="9" start="3.214" end="3.61" startframe="0" framelength="0" text="not"/>
+		<timing id="10" start="3.61" end="3.933" startframe="0" framelength="0" text="come"/>
+		<timing id="11" start="3.933" end="4.6498333333333335" startframe="0" framelength="0" text="out"/>
+	</timings>
+</xml>

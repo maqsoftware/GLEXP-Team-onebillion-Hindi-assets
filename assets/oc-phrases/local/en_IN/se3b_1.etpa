@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="My mum put a yellow flower in the green bottle">
+		<timing id="0" start="0.006" end="0.338" startframe="0" framelength="0" text="My"/>
+		<timing id="1" start="0.338" end="0.752" startframe="0" framelength="0" text="mum"/>
+		<timing id="2" start="0.752" end="1.079" startframe="0" framelength="0" text="put"/>
+		<timing id="3" start="1.079" end="1.143" startframe="0" framelength="0" text="a"/>
+		<timing id="4" start="1.143" end="1.646" startframe="0" framelength="0" text="yellow"/>
+		<timing id="5" start="1.646" end="2.304" startframe="0" framelength="0" text="flower"/>
+		<timing id="6" start="2.304" end="2.517" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="2.517" end="2.632" startframe="0" framelength="0" text="the"/>
+		<timing id="8" start="2.632" end="3.175" startframe="0" framelength="0" text="green"/>
+		<timing id="9" start="3.175" end="3.9966666666666666" startframe="0" framelength="0" text="bottle"/>
+	</timings>
+</xml>

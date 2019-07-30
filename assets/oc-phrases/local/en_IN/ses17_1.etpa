@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="I <break time="500ms"/> want <break time="500ms"/> a <break time="500ms"/> big <break time="500ms"/> dog <break time="500ms"/> like <break time="500ms"/> that <break time="500ms"/> one <break time="500ms"/>">
+		<timing id="0" start="0.007" end="0.64" startframe="0" framelength="0" text="I"/>
+		<timing id="1" start="0.64" end="1.24" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.24" end="2.121" startframe="0" framelength="0" text="want"/>
+		<timing id="3" start="2.121" end="2.716" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.716" end="3.379" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="3.379" end="3.979" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.979" end="4.714" startframe="0" framelength="0" text="big"/>
+		<timing id="7" start="4.714" end="5.314" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.314" end="6.105" startframe="0" framelength="0" text="dog"/>
+		<timing id="9" start="6.105" end="6.706" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.706" end="7.655" startframe="0" framelength="0" text="like"/>
+		<timing id="11" start="7.655" end="8.255" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.255" end="9.14" startframe="0" framelength="0" text="that"/>
+		<timing id="13" start="9.14" end="9.74" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.74" end="10.831" startframe="0" framelength="0" text="one"/>
+		<timing id="15" start="10.831" end="11.389333333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>
