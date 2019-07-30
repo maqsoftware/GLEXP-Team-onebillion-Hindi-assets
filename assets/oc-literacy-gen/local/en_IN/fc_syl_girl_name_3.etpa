@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><creator program="PhraseAnal 1.14" user="Rosanna"></creator>
+    <url>file:///Users/pedroloureiro/OBB%20dir/assets/oc-gen/local/en_GB/fc_syl_girl_name_3.m4a</url>
+    <relurl>fc_syl_girl_name_3.aif</relurl>
+    <timings text="Em - ma" frames="46818"><timing framelength="23045" id="0" end="0.523" text="Em" startframe="0" start="0.000"></timing>
+        <timing framelength="16990" id="1" end="1.062" text="ma" startframe="29828" start="0.676"></timing>
+    </timings>
+</xml>

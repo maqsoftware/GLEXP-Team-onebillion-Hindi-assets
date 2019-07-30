@@ -1,0 +1,19 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No We cannot let the camel in said mum He is too tall">
+		<timing id="0" start="0.006" end="0.277" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.277" end="0.447" startframe="0" framelength="0" text="We"/>
+		<timing id="2" start="0.447" end="1.115" startframe="0" framelength="0" text="cannot"/>
+		<timing id="3" start="1.115" end="1.369" startframe="0" framelength="0" text="let"/>
+		<timing id="4" start="1.369" end="1.513" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.513" end="2.146" startframe="0" framelength="0" text="camel"/>
+		<timing id="6" start="2.146" end="2.319" startframe="0" framelength="0" text="in"/>
+		<timing id="7" start="2.319" end="2.78" startframe="0" framelength="0" text="said"/>
+		<timing id="8" start="2.78" end="3.132" startframe="0" framelength="0" text="mum"/>
+		<timing id="9" start="3.132" end="3.362" startframe="0" framelength="0" text="He"/>
+		<timing id="10" start="3.362" end="3.585" startframe="0" framelength="0" text="is"/>
+		<timing id="11" start="3.585" end="3.88" startframe="0" framelength="0" text="too"/>
+		<timing id="12" start="3.88" end="4.5975" startframe="0" framelength="0" text="tall"/>
+	</timings>
+</xml>

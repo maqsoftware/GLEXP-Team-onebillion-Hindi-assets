@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There is just one carrot left and one mushroom">
+		<timing id="0" start="0.006" end="0.393" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.393" end="0.651" startframe="0" framelength="0" text="is"/>
+		<timing id="2" start="0.651" end="1.119" startframe="0" framelength="0" text="just"/>
+		<timing id="3" start="1.119" end="1.511" startframe="0" framelength="0" text="one"/>
+		<timing id="4" start="1.511" end="2.238" startframe="0" framelength="0" text="carrot"/>
+		<timing id="5" start="2.238" end="2.828" startframe="0" framelength="0" text="left"/>
+		<timing id="6" start="2.828" end="3.136" startframe="0" framelength="0" text="and"/>
+		<timing id="7" start="3.136" end="3.499" startframe="0" framelength="0" text="one"/>
+		<timing id="8" start="3.499" end="4.5975" startframe="0" framelength="0" text="mushroom"/>
+	</timings>
+</xml>

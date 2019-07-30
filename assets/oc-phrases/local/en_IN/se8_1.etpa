@@ -1,0 +1,17 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The duck is looking for her ducklings which the fox took">
+		<timing id="0" start="0.006" end="0.206" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.206" end="0.566" startframe="0" framelength="0" text="duck"/>
+		<timing id="2" start="0.566" end="0.818" startframe="0" framelength="0" text="is"/>
+		<timing id="3" start="0.818" end="1.277" startframe="0" framelength="0" text="looking"/>
+		<timing id="4" start="1.277" end="1.547" startframe="0" framelength="0" text="for"/>
+		<timing id="5" start="1.547" end="1.818" startframe="0" framelength="0" text="her"/>
+		<timing id="6" start="1.818" end="2.627" startframe="0" framelength="0" text="ducklings"/>
+		<timing id="7" start="2.627" end="2.919" startframe="0" framelength="0" text="which"/>
+		<timing id="8" start="2.919" end="3.059" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="3.059" end="3.747" startframe="0" framelength="0" text="fox"/>
+		<timing id="10" start="3.747" end="4.3885" startframe="0" framelength="0" text="took"/>
+	</timings>
+</xml>

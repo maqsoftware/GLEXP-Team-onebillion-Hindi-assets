@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><creator program="PhraseAnal 1.14" user="Rosanna"></creator>
+    <url>file:///Users/pedroloureiro/OBB%20dir/assets/oc-gen/local/en_GB/fc_syl_girl_name_2.m4a</url>
+    <relurl>fc_syl_girl_name_2.aif</relurl>
+    <timings text="Car - o" frames="79455"><timing framelength="28360" id="0" end="0.643" text="Car" startframe="0" start="0.000"></timing>
+        <timing framelength="32809" id="1" end="1.701" text="o" startframe="42211" start="0.957"></timing>
+    </timings>
+</xml>

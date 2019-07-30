@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Do <break time="500ms"/> all <break time="500ms"/> ducks <break time="500ms"/> look <break time="500ms"/> like <break time="500ms"/> this <break time="500ms"/> one <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.842" startframe="0" framelength="0" text="Do"/>
+		<timing id="1" start="0.842" end="1.435" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.435" end="2.149" startframe="0" framelength="0" text="all"/>
+		<timing id="3" start="2.149" end="2.751" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.751" end="3.711" startframe="0" framelength="0" text="ducks"/>
+		<timing id="5" start="3.711" end="4.311" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.311" end="5.089" startframe="0" framelength="0" text="look"/>
+		<timing id="7" start="5.089" end="5.69" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.69" end="6.639" startframe="0" framelength="0" text="like"/>
+		<timing id="9" start="6.639" end="7.239" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.239" end="8.151" startframe="0" framelength="0" text="this"/>
+		<timing id="11" start="8.151" end="8.751" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.751" end="9.841" startframe="0" framelength="0" text="one"/>
+		<timing id="13" start="9.841" end="10.396666666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

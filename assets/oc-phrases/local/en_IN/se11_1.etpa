@@ -1,0 +1,15 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Have you ever seen a cat with a hat">
+		<timing id="0" start="0.006" end="0.369" startframe="0" framelength="0" text="Have"/>
+		<timing id="1" start="0.369" end="0.541" startframe="0" framelength="0" text="you"/>
+		<timing id="2" start="0.541" end="0.906" startframe="0" framelength="0" text="ever"/>
+		<timing id="3" start="0.906" end="1.275" startframe="0" framelength="0" text="seen"/>
+		<timing id="4" start="1.275" end="1.36" startframe="0" framelength="0" text="a"/>
+		<timing id="5" start="1.36" end="1.833" startframe="0" framelength="0" text="cat"/>
+		<timing id="6" start="1.833" end="2.082" startframe="0" framelength="0" text="with"/>
+		<timing id="7" start="2.082" end="2.116" startframe="0" framelength="0" text="a"/>
+		<timing id="8" start="2.116" end="2.925666666666667" startframe="0" framelength="0" text="hat"/>
+	</timings>
+</xml>

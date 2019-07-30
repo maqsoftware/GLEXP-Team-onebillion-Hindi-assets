@@ -1,0 +1,28 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> cat <break time="500ms"/> put <break time="500ms"/> her <break time="500ms"/> hat <break time="500ms"/> on <break time="500ms"/> and <break time="500ms"/> set <break time="500ms"/> off <break time="500ms"/> for <break time="500ms"/> town <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.31" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.31" end="2.123" startframe="0" framelength="0" text="cat"/>
+		<timing id="3" start="2.123" end="2.716" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.716" end="3.346" startframe="0" framelength="0" text="put"/>
+		<timing id="5" start="3.346" end="3.947" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.947" end="4.677" startframe="0" framelength="0" text="her"/>
+		<timing id="7" start="4.677" end="5.277" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.277" end="6.195" startframe="0" framelength="0" text="hat"/>
+		<timing id="9" start="6.195" end="6.793" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.793" end="7.189" startframe="0" framelength="0" text="on"/>
+		<timing id="11" start="7.189" end="7.785" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.785" end="8.615" startframe="0" framelength="0" text="and"/>
+		<timing id="13" start="8.615" end="9.208" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.208" end="10.004" startframe="0" framelength="0" text="set"/>
+		<timing id="15" start="10.004" end="10.605" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.605" end="11.541" startframe="0" framelength="0" text="off"/>
+		<timing id="17" start="11.541" end="12.134" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.134" end="12.917" startframe="0" framelength="0" text="for"/>
+		<timing id="19" start="12.917" end="13.517" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.517" end="14.439" startframe="0" framelength="0" text="town"/>
+		<timing id="21" start="14.439" end="14.994166666666667" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

@@ -1,0 +1,24 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="Have <break time="500ms"/> you <break time="500ms"/> ever <break time="500ms"/> seen <break time="500ms"/> a <break time="500ms"/> cat <break time="500ms"/> with <break time="500ms"/> a <break time="500ms"/> hat <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.82" startframe="0" framelength="0" text="Have"/>
+		<timing id="1" start="0.82" end="1.42" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.42" end="2.223" startframe="0" framelength="0" text="you"/>
+		<timing id="3" start="2.223" end="2.816" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.816" end="3.591" startframe="0" framelength="0" text="ever"/>
+		<timing id="5" start="3.591" end="4.184" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.184" end="4.996" startframe="0" framelength="0" text="seen"/>
+		<timing id="7" start="4.996" end="5.59" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.59" end="6.254" startframe="0" framelength="0" text="a"/>
+		<timing id="9" start="6.254" end="6.847" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.847" end="7.66" startframe="0" framelength="0" text="cat"/>
+		<timing id="11" start="7.66" end="8.26" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.26" end="8.874" startframe="0" framelength="0" text="with"/>
+		<timing id="13" start="8.874" end="9.474" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.474" end="10.146" startframe="0" framelength="0" text="a"/>
+		<timing id="15" start="10.146" end="10.746" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="10.746" end="11.762" startframe="0" framelength="0" text="hat"/>
+		<timing id="17" start="11.762" end="12.329833333333333" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

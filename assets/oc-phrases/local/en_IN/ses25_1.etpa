@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="We <break time="500ms"/> need <break time="500ms"/> more <break time="500ms"/> carrots <break time="500ms"/> and <break time="500ms"/> mushrooms <break time="500ms"/> yelled <break time="500ms"/> grandma <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.552" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.552" end="1.145" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.145" end="1.96" startframe="0" framelength="0" text="need"/>
+		<timing id="3" start="1.96" end="2.56" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.56" end="3.293" startframe="0" framelength="0" text="more"/>
+		<timing id="5" start="3.293" end="3.893" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.893" end="5.065" startframe="0" framelength="0" text="carrots"/>
+		<timing id="7" start="5.065" end="5.665" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.665" end="6.435" startframe="0" framelength="0" text="and"/>
+		<timing id="9" start="6.435" end="7.035" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="7.035" end="8.446" startframe="0" framelength="0" text="mushrooms"/>
+		<timing id="11" start="8.446" end="9.043" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="9.043" end="9.849" startframe="0" framelength="0" text="yelled"/>
+		<timing id="13" start="9.849" end="10.443" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.443" end="11.556" startframe="0" framelength="0" text="grandma"/>
+		<timing id="15" start="11.556" end="12.120833333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

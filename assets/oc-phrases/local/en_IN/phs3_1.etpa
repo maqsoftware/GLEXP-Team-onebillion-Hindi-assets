@@ -1,0 +1,16 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="a <break time="500ms"/> duck <break time="500ms"/> in <break time="500ms"/> the <break time="500ms"/> grass <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.688" startframe="0" framelength="0" text="a"/>
+		<timing id="1" start="0.688" end="1.291" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.291" end="1.973" startframe="0" framelength="0" text="duck"/>
+		<timing id="3" start="1.973" end="2.573" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.573" end="3.276" startframe="0" framelength="0" text="in"/>
+		<timing id="5" start="3.276" end="3.876" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.876" end="4.664" startframe="0" framelength="0" text="the"/>
+		<timing id="7" start="4.664" end="5.265" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.265" end="6.428" startframe="0" framelength="0" text="grass"/>
+		<timing id="9" start="6.428" end="7.0008333333333335" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

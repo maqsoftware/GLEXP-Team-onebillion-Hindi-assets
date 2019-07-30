@@ -1,0 +1,20 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="The <break time="500ms"/> duck <break time="500ms"/> is <break time="500ms"/> off <break time="500ms"/> to <break time="500ms"/> the <break time="500ms"/> pond <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.71" startframe="0" framelength="0" text="The"/>
+		<timing id="1" start="0.71" end="1.312" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.312" end="1.994" startframe="0" framelength="0" text="duck"/>
+		<timing id="3" start="1.994" end="2.588" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.588" end="3.015" startframe="0" framelength="0" text="is"/>
+		<timing id="5" start="3.015" end="3.61" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="3.61" end="4.208" startframe="0" framelength="0" text="off"/>
+		<timing id="7" start="4.208" end="4.808" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="4.808" end="5.523" startframe="0" framelength="0" text="to"/>
+		<timing id="9" start="5.523" end="6.123" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.123" end="6.911" startframe="0" framelength="0" text="the"/>
+		<timing id="11" start="6.911" end="7.504" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="7.504" end="8.379" startframe="0" framelength="0" text="pond"/>
+		<timing id="13" start="8.379" end="8.933833333333334" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

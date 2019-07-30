@@ -1,0 +1,18 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="There are sweets in the bowl but I will not eat them">
+		<timing id="0" start="0.006" end="0.47" startframe="0" framelength="0" text="There"/>
+		<timing id="1" start="0.47" end="0.691" startframe="0" framelength="0" text="are"/>
+		<timing id="2" start="0.691" end="1.264" startframe="0" framelength="0" text="sweets"/>
+		<timing id="3" start="1.264" end="1.401" startframe="0" framelength="0" text="in"/>
+		<timing id="4" start="1.401" end="1.486" startframe="0" framelength="0" text="the"/>
+		<timing id="5" start="1.486" end="1.968" startframe="0" framelength="0" text="bowl"/>
+		<timing id="6" start="1.968" end="2.327" startframe="0" framelength="0" text="but"/>
+		<timing id="7" start="2.327" end="2.533" startframe="0" framelength="0" text="I"/>
+		<timing id="8" start="2.533" end="2.891" startframe="0" framelength="0" text="will"/>
+		<timing id="9" start="2.891" end="3.247" startframe="0" framelength="0" text="not"/>
+		<timing id="10" start="3.247" end="3.475" startframe="0" framelength="0" text="eat"/>
+		<timing id="11" start="3.475" end="4.075" startframe="0" framelength="0" text="them"/>
+	</timings>
+</xml>

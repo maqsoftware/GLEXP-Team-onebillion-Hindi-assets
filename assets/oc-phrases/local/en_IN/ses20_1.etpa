@@ -1,0 +1,22 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No <break time="500ms"/> I <break time="500ms"/> do <break time="500ms"/> not <break time="500ms"/> eat <break time="500ms"/> carrots <break time="500ms"/> or <break time="500ms"/> mushrooms <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.84" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.84" end="1.437" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.437" end="2.07" startframe="0" framelength="0" text="I"/>
+		<timing id="3" start="2.07" end="2.67" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.67" end="3.506" startframe="0" framelength="0" text="do"/>
+		<timing id="5" start="3.506" end="4.106" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.106" end="4.942" startframe="0" framelength="0" text="not"/>
+		<timing id="7" start="4.942" end="5.537" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.537" end="6.379" startframe="0" framelength="0" text="eat"/>
+		<timing id="9" start="6.379" end="6.979" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.979" end="8.061" startframe="0" framelength="0" text="carrots"/>
+		<timing id="11" start="8.061" end="8.659" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.659" end="9.404" startframe="0" framelength="0" text="or"/>
+		<timing id="13" start="9.404" end="10.004" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="10.004" end="11.509" startframe="0" framelength="0" text="mushrooms"/>
+		<timing id="15" start="11.509" end="12.0685" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>

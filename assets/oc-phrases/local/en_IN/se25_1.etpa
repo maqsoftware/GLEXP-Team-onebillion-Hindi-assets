@@ -1,0 +1,14 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="We need more carrots and mushrooms yelled grandma">
+		<timing id="0" start="0.006" end="0.318" startframe="0" framelength="0" text="We"/>
+		<timing id="1" start="0.318" end="0.727" startframe="0" framelength="0" text="need"/>
+		<timing id="2" start="0.727" end="1.146" startframe="0" framelength="0" text="more"/>
+		<timing id="3" start="1.146" end="1.88" startframe="0" framelength="0" text="carrots"/>
+		<timing id="4" start="1.88" end="2.136" startframe="0" framelength="0" text="and"/>
+		<timing id="5" start="2.136" end="3.03" startframe="0" framelength="0" text="mushrooms"/>
+		<timing id="6" start="3.03" end="3.456" startframe="0" framelength="0" text="yelled"/>
+		<timing id="7" start="3.456" end="4.466833333333334" startframe="0" framelength="0" text="grandma"/>
+	</timings>
+</xml>

@@ -1,0 +1,32 @@
+<xml>
+	<creator program="PhraseAnal 1.14" user="MAQUser" />
+	<url >142852sfgsf</url>
+	<timings text="No <break time="500ms"/> We <break time="500ms"/> cannot <break time="500ms"/> let <break time="500ms"/> the <break time="500ms"/> camel <break time="500ms"/> in <break time="500ms"/> said <break time="500ms"/> mum <break time="500ms"/> He <break time="500ms"/> is <break time="500ms"/> too <break time="500ms"/> tall <break time="500ms"/>">
+		<timing id="0" start="0.006" end="0.84" startframe="0" framelength="0" text="No"/>
+		<timing id="1" start="0.84" end="1.443" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="2" start="1.443" end="1.989" startframe="0" framelength="0" text="We"/>
+		<timing id="3" start="1.989" end="2.582" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="4" start="2.582" end="3.465" startframe="0" framelength="0" text="cannot"/>
+		<timing id="5" start="3.465" end="4.065" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="6" start="4.065" end="4.902" startframe="0" framelength="0" text="let"/>
+		<timing id="7" start="4.902" end="5.502" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="8" start="5.502" end="6.206" startframe="0" framelength="0" text="the"/>
+		<timing id="9" start="6.206" end="6.806" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="10" start="6.806" end="7.756" startframe="0" framelength="0" text="camel"/>
+		<timing id="11" start="7.756" end="8.356" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="12" start="8.356" end="9.06" startframe="0" framelength="0" text="in"/>
+		<timing id="13" start="9.06" end="9.66" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="14" start="9.66" end="10.516" startframe="0" framelength="0" text="said"/>
+		<timing id="15" start="10.516" end="11.109" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="16" start="11.109" end="11.936" startframe="0" framelength="0" text="mum"/>
+		<timing id="17" start="11.936" end="12.536" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="18" start="12.536" end="13.176" startframe="0" framelength="0" text="He"/>
+		<timing id="19" start="13.176" end="13.769" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="20" start="13.769" end="14.196" startframe="0" framelength="0" text="is"/>
+		<timing id="21" start="14.196" end="14.79" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="22" start="14.79" end="15.471" startframe="0" framelength="0" text="too"/>
+		<timing id="23" start="15.471" end="16.065" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+		<timing id="24" start="16.065" end="16.861" startframe="0" framelength="0" text="tall"/>
+		<timing id="25" start="16.861" end="17.423666666666666" startframe="0" framelength="0" text="<break time="500ms"/>"/>
+	</timings>
+</xml>
