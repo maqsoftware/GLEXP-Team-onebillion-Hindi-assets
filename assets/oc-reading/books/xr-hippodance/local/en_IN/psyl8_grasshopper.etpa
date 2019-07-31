@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="grass hop per">
-		<timing id="0" start="0.006" end="1.132" startframe="0" framelength="0" text="grass"/>
-		<timing id="1" start="1.132" end="1.962" startframe="0" framelength="0" text="hop"/>
-		<timing id="2" start="1.962" end="2.5338333333333334" startframe="0" framelength="0" text="per"/>
-	</timings>
-</xml>

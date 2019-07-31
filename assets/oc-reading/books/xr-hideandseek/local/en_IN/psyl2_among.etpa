@@ -1,8 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="a mong">
-		<timing id="0" start="0.006" end="0.702" startframe="0" framelength="0" text="a"/>
-		<timing id="1" start="0.702" end="1.3321666666666667" startframe="0" framelength="0" text="mong"/>
-	</timings>
-</xml>

@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="for got ten">
-		<timing id="0" start="0.006" end="0.857" startframe="0" framelength="0" text="for"/>
-		<timing id="1" start="0.857" end="1.766" startframe="0" framelength="0" text="got"/>
-		<timing id="2" start="1.766" end="2.429333333333333" startframe="0" framelength="0" text="ten"/>
-	</timings>
-</xml>

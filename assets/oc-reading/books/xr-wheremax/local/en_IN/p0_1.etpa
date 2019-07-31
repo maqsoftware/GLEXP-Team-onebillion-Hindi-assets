@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="Where is Max">
-		<timing id="0" start="0.006" end="0.498" startframe="0" framelength="0" text="Where"/>
-		<timing id="1" start="0.498" end="0.754" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.754" end="1.8023333333333333" startframe="0" framelength="0" text="Max"/>
-	</timings>
-</xml>

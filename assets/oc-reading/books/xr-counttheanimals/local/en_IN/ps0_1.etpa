@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="Count the animals">
-		<timing id="0" start="0.006" end="0.457" startframe="0" framelength="0" text="Count"/>
-		<timing id="1" start="0.457" end="0.668" startframe="0" framelength="0" text="the"/>
-		<timing id="2" start="0.668" end="1.5673333333333332" startframe="0" framelength="0" text="animals"/>
-	</timings>
-</xml>

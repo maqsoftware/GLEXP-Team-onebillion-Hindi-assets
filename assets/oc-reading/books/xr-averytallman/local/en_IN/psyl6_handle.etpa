@@ -1,8 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="han dle">
-		<timing id="0" start="0.006" end="0.831" startframe="0" framelength="0" text="han"/>
-		<timing id="1" start="0.831" end="1.6195" startframe="0" framelength="0" text="dle"/>
-	</timings>
-</xml>
