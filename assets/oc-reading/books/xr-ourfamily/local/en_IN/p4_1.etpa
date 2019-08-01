@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="This is grandma">
-		<timing id="0" start="0.006" end="0.372" startframe="0" framelength="0" text="This"/>
-		<timing id="1" start="0.372" end="0.561" startframe="0" framelength="0" text="is"/>
-		<timing id="2" start="0.561" end="1.4628333333333334" startframe="0" framelength="0" text="grandma"/>
-	</timings>
-</xml>

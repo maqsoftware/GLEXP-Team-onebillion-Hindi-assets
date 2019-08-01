@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="buf fa loes">
-		<timing id="0" start="0.006" end="0.748" startframe="0" framelength="0" text="buf"/>
-		<timing id="1" start="0.748" end="1.698" startframe="0" framelength="0" text="fa"/>
-		<timing id="2" start="1.698" end="2.4555" startframe="0" framelength="0" text="loes"/>
-	</timings>
-</xml>

@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="el e phants">
-		<timing id="0" start="0.006" end="0.679" startframe="0" framelength="0" text="el"/>
-		<timing id="1" start="0.679" end="1.374" startframe="0" framelength="0" text="e"/>
-		<timing id="2" start="1.374" end="2.6121666666666665" startframe="0" framelength="0" text="phants"/>
-	</timings>
-</xml>

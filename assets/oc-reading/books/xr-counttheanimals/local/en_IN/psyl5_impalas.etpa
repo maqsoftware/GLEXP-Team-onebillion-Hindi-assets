@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="im pal as">
-		<timing id="0" start="0.006" end="0.637" startframe="0" framelength="0" text="im"/>
-		<timing id="1" start="0.637" end="1.521" startframe="0" framelength="0" text="pal"/>
-		<timing id="2" start="1.521" end="2.3771666666666667" startframe="0" framelength="0" text="as"/>
-	</timings>
-</xml>

@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="Someone like me">
-		<timing id="0" start="0.006" end="0.632" startframe="0" framelength="0" text="Someone"/>
-		<timing id="1" start="0.632" end="1.026" startframe="0" framelength="0" text="like"/>
-		<timing id="2" start="1.026" end="1.5673333333333332" startframe="0" framelength="0" text="me"/>
-	</timings>
-</xml>

@@ -1,9 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="Be careful Max">
-		<timing id="0" start="0.006" end="0.313" startframe="0" framelength="0" text="Be"/>
-		<timing id="1" start="0.313" end="1.437" startframe="0" framelength="0" text="careful"/>
-		<timing id="2" start="1.437" end="2.5338333333333334" startframe="0" framelength="0" text="Max"/>
-	</timings>
-</xml>

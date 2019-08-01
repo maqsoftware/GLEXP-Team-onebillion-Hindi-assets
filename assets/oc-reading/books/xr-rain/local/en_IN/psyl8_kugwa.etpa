@@ -1,8 +1,0 @@
-<xml>
-	<creator program="PhraseAnal 1.14" user="MAQUser" />
-	<url >142852sfgsf</url>
-	<timings text="ku gwa">
-		<timing id="0" start="0.006" end="0.765" startframe="0" framelength="0" text="ku"/>
-		<timing id="1" start="0.765" end="1.3321666666666667" startframe="0" framelength="0" text="gwa"/>
-	</timings>
-</xml>
